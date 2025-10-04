@@ -1,0 +1,643 @@
+Yieldr Corporate Website Privacy and Cookie Information Notice
+We are Yieldr UK Limited.
+We are based at 1 Fetter Lane, London, United Kingdom, EC4A 1BR.
+You can contact us at privacy@yieldr.com.
+==========
+If you have any questions about how we collect data for our analytics and advertising activities, please see the respective policies.
+In this notice, we explain how we and our subsidiaries and affiliates handle any personal data that we obtain through our corporate website or when you contact us by mail or phone.
+We are committed to a lawful, fair and transparent processing of personal data, adhering to the EU General Data Protection Regulation (GDPR).
+When you continue to browse the yieldr.com website, such as reading the content (scrolling) or clicking on a link, or contact us by mail or phone, you consent to us using your personal data in the way that we describe here.
+==========
+This also includes the placing of cookies as explained below.
+If you have any questions about the use of personal data in connection with the analytics and advertising services that we provide to our clients, please take a look at our Analytics Privacy and Cookie Information Notice and our Advertising Privacy and Cookie Information Notice respectively.
+Information You Provide to Us
+We collect the following information when you use our website or contact us:
+
+When you contact us by mail, phone or through the contact form or chat on our website: we collect your name, email address or phone number, and any other information you may provide to us.
+When you contact us about a job opening: we collect any relevant information you provide to us.
+When you visit our website or contact us with commercial inquiries: we collect general analytics data and any contact and other information you provide to us.
+We use this information:
+To reply to your information request when you contacted our call center or have a customer question.
+To keep you in our recruitment database if you contacted us about job openings.
+For our own marketing communication correspondence, including to follow up on leads.
+==========
+We store:
+Customer support information for as long as you remain a customer with us and for a limited time thereafer.
+Recruitment information until you ask us to remove it or revoke consent.
+Marketing information until you ask us to remove it or opt-out of our newsletter.
+==========
+In case of customer support we need to process the information to be able to provide you that service.
+It is not a contractual or statutory requirement to provide this information but if you don’t, your customer support experience may be less as a result.
+We process recruitment information based on your consent, and marketing information based on our legitimate interest.
+Sharing Information
+We sometimes share your personal data with other companies.
+This includes outside service providers that we use for processing your data, for example:
+
+Companies that provide chat and other support functionality.
+Companies that support our recruitment activities.
+Companies that support us in sending emails and other messages related to our marketing.
+==========
+We require these companies to adequately safeguard your personal data and not use your data for any other purpose not authorized by us.
+We might sell (part of) our business to another company.
+Such transfer of ownership could include the transfer of your personal data to the buyer if the data directly relates to that (part of the) business.
+We will also release personal data to the authorities, if we are compelled to do so by law.
+We will not sell or provide your personal data to other third parties allowing them to use your personal data for their own purposes.
+You should also know that your personal data may be transferred from your home country to other Yieldr entities outside of the EU or to our service providers.
+If you are an EU resident, this could imply that we also transfer data to countries or organizations that do not offer a so-called adequate level of protection for your personal data.
+When we transfer this data, we will do so only when we have put in place appropriate safeguards to protect your personal data.
+Please contact us to obtain a copy of the safeguards that we have put in place.
+Our contact details can be found at the bottom.
+==========
+Cookies & Third-Party Services
+We use the following cookies:
+
+
+
+Name
+Placed By
+Reason
+How Long
+
+
+
+
+cookies-allowed
+Yieldr
+To be able to log cookie consent.
+For the time of the session.
+Deleted when you close your browser window.
+==========
+We also use Google for analytics, Intercom for a customer support tool, and Sentry for website crash reporting in the following way.
+They use cookies in the following way:
+
+
+
+Name
+Placed By
+Reason and Privacy Notice
+How Long
+
+
+
+
+_gat,_ga
+Google Inc.
+We use Google Analytics.
+This is a web analytics service provided by Google, Inc. to count visitors to our website and analyse their usage of the site to help us determine the value of our content to our users.
+See www.google.com/policies/privacy for their privacy notice.
+_gat: 1 minute,  _ga: 2 years from set/update
+
+
+_marketing-sit,e_session,gtm_id
+Intercom, Inc.
+Intercom is a customer relationship management and messaging tool for web app owners.
+See https://www.intercom.com/terms-and-policies for their privacy notice.
+For the time of the session.
+Deleted when you close your browser window.
+driftt_aid,driftt_sid
+Functional Software, Inc.
+Sentry, a product from Functional Software, Inc., provides real-time crash reporting that gives your team insight into errors affecting your customers in production.
+==========
+See https://sentry.io/privacy/ for their privacy notice.
+For the time of the session.
+Deleted when you close your browser window.
+==========
+Your Rights
+You have the right to request from us access to your personal data that we process.
+You also have the right to:
+
+Rectify incorrect personal data or erase it in certain circumstances.
+Restrict or object to the processing of your personal data.
+Receive your data so that you can use it elsewhere (data portability).
+==========
+You also have the right to withdraw your consent at any time.
+Please be aware that a withdrawal of your consent does not affect the lawfulness of the processing of your data before the date on which you withdraw your consent.
+Finally, you have the right to lodge a complaint with a supervisory authority.
+==========
+You can contact us with any questions you may have about the processing of your personal data or the use of cookies by us, or to exercise the above rights by email at privacy@yieldr.com or by regular mail at:
+        
+        Yieldr UK Limited
+        Attn: Yieldr Data Protection Officer
+        1 Fetter Lane London
+        EC4A 1BR United Kingdom
+We will need to adapt these statements occasionally, for instance if we modify our website or if the rules on cookies or privacy change.
+We may always modify the content of the statements and the cookies that are stated in the lists without prior warning.
+You can view this web page for the latest version.
+Version information:
+        Version 27 March 2018
+        Cookies were last updated on 27 March 2018
+        This information can be viewed on http://www.yieldr.com/privacy
+
+
+Analytics Privacy & Cookie Information Notice
+We are Yieldr Demand Intelligence UK Limited.
+We are based at 1 Fetter Lane, London, United Kingdom, EC4A 1BR.
+==========
+You can contact us at privacy@yieldr.com.
+In this privacy notice we describe how we process data, including personal data, on behalf of our clients that use our analytics product.
+We are committed to a lawful, fair and transparent processing of personal data, adhering to the principles of EU General Data Protection Regulation (GDPR).
+What Kind of Data is Being Collected by Yieldr Analytics and How is it Used?
+Yieldr’s clients use Yieldr’s platform to perform analytics for their websites and the visitors of their websites.
+Exactly what personal data we process depends on how our clients, the brand whose website or app you use, have implemented our service, but our platform allows for the following types of data to be used:  device information, website/browsing information, customer information, order information and traveler information.
+For a more detailed breakdown of the data we collect, consult the table below.
+Parameter
+Description
+Example
+
+
+
+
+custom_action
+Custom action
+Add to basket
+
+
+custom_category
+Custom category
+On offer
+
+
+custom_label
+Custom label
+Priority
+
+
+custom_value
+Custom value (float)
+10.29
+
+
+flights_adults
+Number of adults
+2
+
+
+flights_carrier
+Airline code
+YY
+
+
+flights_children
+Number of children
+1
+
+
+flight_class
+The flight class
+economy, business or first
+
+
+flight_class_code
+The fare basis booking codes
+F, J, W or Y
+
+
+flight_currency
+Currency used on the website
+EUR
+
+
+flight_departure_date
+Date of departure flight
+2018-05-05T11:27:14+00:00
+
+
+flight_destination
+IATA code of the destination airport
+AMS
+
+
+flight_infants
+Number of infants
+1
+
+
+flight_number
+The flight number (in the same format as being used in flights)
+1234
+
+
+flight_origin
+IATA code of the origin airport
+BCN
+
+
+flight_passengers
+Total number of passengers
+4
+
+
+flight_return_date
+Date of return
+2018-05-19T11:27:14+00:00
+
+
+flight_type
+Reason for traveling
+business or leasure
+
+
+flight_payment_method
+Payment method user for purchase
+Cash or Paypal
+
+
+flight_pnr
+Passenger name record
+Y1E7DR
+
+
+flight_ancillary_value
+The total value of the ancillaries
+25.5
+
+
+flight_value
+The total value of the plane tickets
+400.5
+
+
+language
+Language of the user
+EN
+
+
+tax_value
+All tax costs
+10.5
+
+
+total_value
+The total value of the purchase
+436.5
+
+
+user_customer_id
+The customer/user ID
+11223344
+
+
+user_first_name
+The first name of the user
+Jane
+
+
+user_last_name
+The last name of the user
+Doe
+
+
+user_birth_date
+The date of birth of the user
+2000-01-01
+
+
+user_age
+The age of the user in years
+18
+
+
+user_postal_code
+The postal code of the user
+1000 AJ
+
+
+user_address
+The address of the user
+Stadhouderskade 85
+
+
+user_city
+The city of the user
+Amsterdam
+
+
+user_country
+The country of the user
+The Netherlands
+
+
+user_gender
+The gender of the user
+F
+
+
+user_email
+The email of the user
+jane.doe@yieldr.com
+
+
+user_phone_number
+The phone number of the user
+31612345678
+
+
+user_loyalty_program
+The loyalty program of the user
+Flying Yieldr Green
+
+
+
+Our clients use this information: 
+
+To register your visit to a specific website and your actions on that website to try and assess which of the products or services offered on that website you are interested in.
+==========
+To use third-party services to show you advertising from that client on other websites.
+How and Where is Data Obtained
+
+
+
+Name
+Placed By
+Reason
+How Long
+
+
+
+
+_yldr_uuid
+yldr.io
+To register your visit to a specific website and your actions on that website, including searches and purchases that you began but did not complete.
+30 days
+
+
+_yldr_sync
+yldr.io
+To register whether the _yldr_uuid is known with advertising third-parties so that our clients may be able to show ads through such third-parties.
+==========
+14 days
+
+
+
+If you would like to opt-out from analytics data collection with the Yieldr cookie, please follow the button below.
+Opt-out
+Who is Data Shared With
+Yieldr processes the analytics data for and on behalf of its clients.
+Customers have access to this data.
+The analytics data of one client is never shared with another client, and we do not actively share data with any third-parties, other than sub-processors acting on our behalf.
+Retention - How Long & Where is Data Stored
+Activity data is generally stored for 90 days, although our clients can instruct us to store information for a shorter or longer period.
+Aggregated performance data is generally stored for as long as our clients continue to use our services, although they may instruct us to store data for a shorter period.
+==========
+Security - Safeguards Taken to Protect Data
+Taking into account the nature, scope, context and purpose of the processing, Yieldr takes reasonable technical and organizational measures to protect data against theft, loss and damage.
+These include:
+
+Password protected access in order to access any sensitive systems or data by employees.
+We employ role-based access controls to limit access to information to authorized employees and suppliers needing this information to be able to carry out their work.
+Other physical, electronic and procedural safeguards.
+Yieldr actively monitors the security of our databases and services, including access.
+==========
+In addition, we rely on our sub processors to notify us of any data breaches.
+Your Rights
+Yieldr does not know in advance if the Yieldr analytics data it processes on behalf of its clients is “personal data” under the applicable law (Data Protection Act 1998) but we work under the assumption that part of the analytics data we process may constitute personal data.
+Likewise, we advise our clients not to collect or process sensitive personal data such as data on racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life via our platform but cannot exclude or verify this.
+And similarly, we advise our clients to not knowingly collect data from children under the age of 16, but cannot exclude or verify this either.
+==========
+You have the right to request from us access to your personal data that we process.
+You also have the right to:
+
+Rectify incorrect personal data or erase it in certain circumstances.
+Restrict or object to the processing of your personal data.
+Receive your data so that you can use it elsewhere (data portability).
+==========
+You also have the right to withdraw your consent at any time.
+Please be aware that a withdrawal of your consent does not affect the lawfulness of the processing of your data before the date on which you withdraw your consent.
+Finally, you have the right to lodge a complaint with a supervisory authority.
+You can contact us with any questions you may have about the processing of your personal data or the use of cookies by us, or to exercise the above rights by email at privacy@yieldr.com or by regular mail at:
+        
+        Yieldr UK Limited
+        Attn: Yieldr Data Protection Officer
+        1 Fetter Lane London
+        EC4A 1BR United Kingdom
+        
+        We may not be able to answer you directly since we can only process personal data on instruction of our clients, but we will forward your question where possible.
+==========
+We will need to adapt these statements occasionally, for instance if we modify our website or if the rules on cookies or privacy change.
+We may always modify the content of the statements and the cookies that are stated in the lists without prior warning.
+You can view this web page for the latest version.
+Version information:
+        Version 27 March 2018
+        Cookies were last updated on 27 March 2018
+        This information can be viewed on http://www.yieldr.com/privacy
+
+
+Advertising Privacy & Cookie Information Notice
+We are Yieldr UK Limited.
+We are based at 1 Fetter Lane, London, United Kingdom, EC4A 1BR.
+==========
+You can contact us at privacy@yieldr.com.
+If you have any questions about how we collect data for our analytics and advertising activities, please see the respective policies.
+In this privacy notice we describe how we process data, including personal data, on behalf of our clients that use our advertising (media) product.
+==========
+We are committed to a lawful, fair and transparent processing of personal data, adhering to the principles of EU General Data Protection Regulation (GDPR).
+What Kind of Data Is Being Collected by Yieldr Advertising and How Is It Used?
+Yieldr’s clients use Yieldr’s platform to show you advertisements on sites and apps.
+Exactly what personal data we process depends on how our clients, the brand whose website or app you use, have implemented our service but our platform allows for the following types of data to be used for advertising:
+
+The URL and pages of the customer or publisher site visited.
+General data about the browser used, for instance whether it is Chrome or Firefox, and what version.
+If you visit the website with a desktop/laptop or tablet/smartphone.
+The version and language of the operating system used.
+==========
+Upon access, the geographical location of the visitor based on the IP address, at the country or region level.
+Conversion data: if you have bought a product or service on the site of the advertiser, then this is recorded in the platform.
+This data is used:
+
+To store settings for optimal video playback, such as choosing to show a video, desired buffer size and the resolution data of your screen
+To record what you have already seen to avoid showing you the same advertisement again.
+To record how many visitors click on the advertisement.
+To record how many orders have been placed through the advertisement.
+==========
+To be able to show relevant advertisement to you Yieldr remembers for 30 days that you have been on the site of an advertiser.
+Sometimes Yieldr also remembers that you have seen a certain category of product or service on the site of an advertiser, such as a flat screen television.
+In the days following your visit to the website of the advertiser Yieldr will show you advertisements of that advertiser.
+How and Where is Data Obtained
+To enable advertising, the Yieldr platform uses cookies, small text files placed on your device when you use our client’s sites or apps.
+Name
+Placed By
+Reason
+How Long
+
+
+
+
+ydmk[set]
+Yieldr(254a.
+com)
+Opt-in for dynamic content.
+This is done to be able to see whether or not you want to see dynamic content (such as a Flash film clip).
+==========
+30 days
+
+
+tuuid(opt-out)
+Yieldr(254a.
+com)
+Opt-out cookie so that Yieldr do-not-track mechanism works properly.
+5 years
+
+
+tuuid
+Yieldr(254a.
+==========
+com)
+This cookie has a unique user ID (randomly created by Yieldr) on the basis of which Yieldr can remember what advertisements you have been shown and if you have visited the website of an advertiser.
+Yieldr uses this information only for that specific advertiser to be able to determine when and how often you will have seen a certain advertisement.
+5 years
+
+
+uf
+Yieldr(254a.
+com)
+With this Yieldr records of how many advertisements placed by Yieldr you have seen.
+30 days
+
+
+ipcc
+Yieldr(254a.
+com)
+To record how many visitors click on the advertisement.
+30 days
+
+
+ipvc
+Yieldr(254a.
+com)
+To record what advertisements you have already seen in order to keep you from seeing the same advertisements.
+30 days
+
+
+synced
+Yieldr(254a.
+==========
+com)
+Cookie to be able to use various online advertising providers.
+30 days
+
+
+
+If you would like to opt-out from advertising data collection with the Yieldr cookie, you can do so by following the button below.
+Please note that you may still see ads, but these ads do not use the Yieldr cookie.
+Opt-out
+Other / Unforeseen Cookies
+To be able to place advertisements, our clients instruct us to use several third-party providers.
+These parties use cookies as well.
+This concerns the following categories of third parties:
+
+Ad-serving providers: these are providers that make it technically possible to show you an advertisement.
+Bid-exchange providers: these are marketplaces where the supply of advertisers and the demand of publishers meet.
+Supply-Side Platform providers: these are providers that enable publishers to sell their available advertising space.
+Due to the way in which Internet and websites work, it is possible that our clients cannot always have insight into the cookies that third parties place in connection with our client’s showing their ads.
+This is particularly the case when such advertisements contain embedded elements such as texts, documents, images or film clips that are stored by another party, but that are shown on, in or through the advertisements.
+Should you encounter cookies that fall into this category which we have not mentioned here above, please let us know.
+Or contact the third party directly and ask which cookies they have placed, what the reason for this is, what the lifetime of the cookie is and in what way they have safeguarded your privacy.
+Who is Data Shared With
+Yieldr processes the advertising data for and on behalf of its clients.
+Customers have access to this data and it is shared – at the request of the brand that is our client – with the following categories of third parties:
+
+Ad-serving providers: these are providers that make it technically possible to show you an advertisement.
+==========
+Bid-exchange providers: these are marketplaces where the supply of advertisers and the demand of publishers meet.
+Supply-Side Platform providers: these are providers that enable publishers to sell their available advertising space.
+third-parties mentioned above to enable showing ads.
+==========
+Retention - How Long & Where is Data Stored
+Activity data is generally stored for 90 days, although our clients can instruct us to store information for a shorter or longer period.
+The IP address, used for click-fraud detection, is stored for no more than 24 hours.
+Aggregated performance data is generally stored for as long as our clients continue to use our services, although they may instruct us to store data for a shorter period.
+==========
+Security - Safeguards Taken to Protect Data
+Taking into account the nature, scope, context and purpose of the processing, Yieldr takes reasonable technical and organizational measures to protect data against theft, loss and damage.
+These include:
+
+Password protected access in order to access any sensitive systems or data by employees.
+We employ role-based access controls to limit access to information to authorized employees and suppliers needing this information to be able to carry out their work.
+==========
+Other physical, electronic and procedural safeguards.
+Yieldr actively monitors the security of our databases and services, including access.
+In addition, we rely on our sub processors to notify us of any data breaches.
+==========
+EDAA & OBA Trust Seal
+We participate in the European Digital Advertising Alliance (EDAA)
+        self-regulatory programs and adhere to the EDAA Principles for Online
+        Behavioral Advertising.
+EDAA principally acts as the central licensing
+        body for the OBA Icon and provides technical means for consumers to
+        exercise transparency and control over OBA through the youronlinechoices.eu
+        online consumer choice platform.
+EDAA is governed by EU-level
+        organisations which make up the value chain of OBA within Europe and
+        acts to ensure European consistency in approach.
+The EDAA Trust Seal from independent industry Certification Provider ABC,
+        demonstrating their compliance with the EU Self-Regulatory Programme
+        for Online Behavioural Advertising (OBA).
+Earning the Trust Seal is the
+        important last step in the process for Third Parties committed to the
+        self-regulatory programme.
+The Trust Seal demonstrates compliance and
+        inspires trust in the market.
+==========
+Your Rights
+Yieldr does not know in advance if the advertising data it processes on behalf of its clients is “personal data” under the applicable law (Data Protection Act 1998) but we work under the assumption that part of the advertising data we process may constitute personal data.
+Likewise, we advise our clients not to collect or process sensitive personal data such as data on racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life via our platform but cannot exclude or verify this.
+And similarly, we advise our clients to not knowingly collect data from children under the age of 16, but cannot exclude or verify this either.
+==========
+You have the right to request from us access to your personal data that we process.
+You also have the right to:
+
+Rectify incorrect personal data or erase it in certain circumstances.
+Restrict or object to the processing of your personal data.
+Receive your data so that you can use it elsewhere (data portability).
+==========
+You also have the right to withdraw your consent at any time.
+Please be aware that a withdrawal of your consent does not affect the lawfulness of the processing of your data before the date on which you withdraw your consent.
+Finally, you have the right to lodge a complaint with a supervisory authority.
+==========
+You can contact us with any questions you may have about the processing of your personal data or the use of cookies by us, or to exercise the above rights by email at privacy@yieldr.com or by regular mail at:
+        
+        Yieldr UK Limited
+        Attn: Yieldr Data Protection Officer
+        1 Fetter Lane London
+        EC4A 1BR United Kingdom
+        
+        We may not be able to answer you directly since we can only process personal data on instruction of our clients, but we will forward your question where possible.
+Additional Information About Data Categories, Use and Retention Periods
+Besides the above-mentioned data that Yieldr collects and processes,
+        there are also the following types of data, per banner:
+
+The URL of the site visited, at root level of the website visited: for instance telegraph.com and not the page you visited.
+General data about the browser used, for instance whether it is Chrome or Firefox, and what version.
+If you visit the website with a desktop/laptop or tablet/smartphone.
+The version and language of the operating system used.
+==========
+Upon access, the geographical location of the visitor based on the IP address, at the country or region level.
+As well Yieldr also collects and processes:
+
+The IP address partly (the address of the Internet connection).
+This information is kept encrypted.
+==========
+Conversion data: if you have bought a product or service on the site of the advertiser,
+        then the advertiser lets us know.
+Often the advertiser also indicates what the value is of the product or service you bought.
+Yieldr uses the data it collects for the following purposes:
+
+The URL of the site visited, browser data, type of device used, the version and language of
+        the operating system used, and geographical data: to decide based on statistical rules whether a
+        certain advert could be more relevant to you or that you click more quickly on an advert.
+Based on this Yieldr
+        decides whether or not they will show you an advert.
+==========
+IP address: for fraud detection.
+We look at whether or not too many clicks on our banners come from the same IP address.
+Conversion data: to be able to settle accounts with the advertiser for the banners shown
+        and to no longer show you banners (for a specific campaign from) this advertiser.
+==========
+We will need to adapt these statements occasionally, for instance if we modify our website or if the rules on cookies or privacy change.
+We may always modify the content of the statements and the cookies that are stated in the lists without prior warning.
+You can view this web page for the latest version.
+Version information:
+        Version 27 March 2018
+        Cookies were last updated on 27 March 2018
+        This information can be viewed on http://www.yieldr.com/privacy
+==========

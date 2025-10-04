@@ -1,0 +1,27 @@
+Digiseg is subject to GDPR article 14: Information to be provided where personal data have not been obtained from the data subject.
+Purpose of processing and legal grounds for handling personal data
+The European data protection law allows the use of personal data where the benefits (or “legitimate interests”) of doing so outweigh the possible negative implications for the relevant individuals.
+These are the grounds on which we usually rely when we handle personal data for the purpose of marketing analysis.
+The benefits that are being pursued are
+Interest Examples
+Segmentation analysis We have an interest in helping advertisers understand the effect of their marketing by offering consumer segmentation analysis.
+==========
+Running a business We have an interest in running our business and we process infomration where nescesseray to do so.
+In some circumstances, we may have other grounds to process personal data.
+These are set out in the following table, along with examples of the circumstances in which they might apply.
+Grounds Examples
+Necessary for the performance of a conract with the relevant individual, or to take steps for entering into a contract.
+==========
+If you sign up for one of our products or services, it will often be necesseary for us to use your details in order for us to provide that product or service.
+Necessary in order to comply with a legal obligastion.
+.
+Regulstors, goverment bodies, and courts have powers to order us to provide informartion, and like any other organisation, we sometimes have to comply with their requests.
+==========
+What kind of personal data do we use?
+We may collect information about your computer including your IP address, operating system, and browser type.
+==========
+This is for system administration and to analyze aggregate information.
+Storage of personal data
+Digiseg Analytics aims at not storing any personal data.
+The platform is designed to analyze live data flows, aggregated results are recorded and stored, without saving the inbound data.
+==========

@@ -1,0 +1,349 @@
+About Us
+Index Exchange is a global digital advertising marketplace.
+Our technology (the Index Exchange Platform) helps our clients deliver advertising to you.
+The Index Exchange Platform hosts digital auctions that help our clients buy and sell online ads (collectively, our Platform Services).
+These ads can be found on websites, mobile applications (apps), or video programming services, such as streaming apps on Smart TVs (collectively, Digital Properties).
+==========
+As with any exchange platform, we act as an intermediary between buyers and sellers.
+Throughout this Policy, we refer to our clients that sell ad space as Publishers.
+Publishers own or operate the Digital Properties you may use or visit.
+We refer to clients that buy ad space (e.g., advertisers) as Buyers.
+Buyers may include Demand-Side Platforms (DSP) and Data Management Platforms (DMPs) (collectively, Demand-Side Partners).
+These are additional intermediaries in the digital advertising supply chain that connect advertisers to Index Exchange to serve relevant ads to you on the Publisher Digital Properties you visit.
+Demand-Side Partners liaise with other Buyers, which also include advertisers (e.g., brands), advertising agencies, and ad networks (collectively, Ad Partners) to source ads that may be relevant to your interest(s).
+Collectively, Index Exchange and Demand-Side Partners act as intermediaries that connect Ad Partners with Publishers to deliver relevant ads to you.
+==========
+This Policy describes Index Exchange’s practices.
+It does not apply to information or Data collected by third parties, including those of Publishers or Buyers.
+We recommend that you consult the privacy policies of the Digital Properties you use to become familiar with their privacy practices.
+Please note, Sections 1-10 of this Policy provide information about the Data we Access in the provision of our Platform Services to our clients.
+For information on our corporate Data collection practices, please refer to our Corporate Privacy Policy.
+We recommend that you read this Policy in full; however, the links on the right are intended to help you navigate to sections that are relevant to the information in which you may be interested.
+==========
+How We Access Your Data
+Platform Services: Index Exchange Accesses your Data when you visit a Publisher’s Digital Properties.
+Index Exchange Accesses your Data only to provide our Platform Services, and if we have permission from Publishers to do so.
+The Data we Access is limited to digital identifiers that indirectly identify you (e.g., cookies, device information).
+We do not Access information such as your name, email address, contact information, age, gender, or similar information.
+==========
+Corporate: If you interact with us in a business capacity, we Access your Data as part of our business relationship with you, either pursuant to a written agreement, or because of our legitimate interest.
+Please refer to our Corporate Privacy Policy for more information.
+Website: We do not Access your Data when you visit our corporate website, www.indexexchange.com or any international, affiliated Index Exchange websites.
+We use cookies on our website(s) for website function and to enhance your user experience.
+For more information on this, please refer to our Website and Cookie Notice.
+==========
+Types of Data We Access
+Below is a list of Data we may Access solely for the provision of our Platform Services to our clients.
+We may not receive all of the information listed below every time we provide the Platform Services; the information we receive is predominantly determined by each Publisher with which you interact.
+We only Access the Data listed below when we are permitted by law to do so.
+==========
+Browser and Device Information
+Online identifiers (IDs) – these are digital identifiers that may indirectly identify you and include:
+Cookies– small text files/code stored on your browser that allows us to collect information.
+More information on our cookies can be found within our Website and Cookie Notice.
+Pixels – HTML code snippets loaded when you visit a website that allows us to collect Data.
+==========
+Third-party online identifiers – IDs that belong to third parties.
+Third-party IDs may be associated to broad aggregate audience segments and shared with Buyers to serve more relevant ads to you based on your interests (e.g., ads related to sports or fashion).
+==========
+Browser information – information such as the type and version of your browser, browser settings (such as language and local time), user agent, and your IP address.
+Device Information – as applicable, general information such as device type (e.g., laptop, mobile, TV), model, manufacturer, operating system, time zone, telephone carrier information, network information (e.g., WIFI), and mobile application information.
+Mobile device information includes standard mobile advertising identifiers located on every mobile device.
+These are:
+IDFA – advertising identifier used on Apple’s iOS devices; and
+Google Advertising ID (AAID or GAID) – advertising identifier used on Android devices, to track your use of mobile apps on your device(s).
+==========
+Location information – geolocation information such as city, country, zip code/postal code, and/or longitude/latitude.
+Such location information may be referred to as precise geolocation data.
+A note on Cross Device Linking: Cross device linking is the process of tracking a user across multiple devices, for example, across a SmartTV, mobile, and/or website.
+==========
+Index Exchange does not participate in cross-device linking.
+However, some of our partners may engage in cross device linking.
+Index Exchange also does not measure click through rates, your browser history, or engage in retargeting, reidentification, or audience segmentation; however, some of our partners may engage in these practices.
+==========
+How We Use Your Data
+We Access your Data to provide our Platform Services.
+Please find described below the business purpose(s) for which we process Data, and our legal basis for doing so:
+A. For Our Business Purpose
+We Access your Data (per Section 3 above) for the following business purpose(s):
+Ad delivery – to deliver ads to you on Publishers’ Digital Properties.
+==========
+Ad reporting – to verify an ad was delivered to you with accuracy.
+Troubleshooting, optimizing, and product improvement – to improve our Platform Services and ensure ads are delivered correctly to you.
+Ad vetting – to prevent fraud, malware, and other unacceptable behaviour.
+==========
+Privacy Rights – to view and enforce your opt-out choices, “do not sell” signals, and honour your privacy choices/rights.
+B. Legal Bases For Accessing Data
+International law, such as European data protection law, requires us to have a legal reason for Accessing your Data.
+Index Exchange Accesses your Data under one or more of the following legal bases:
+Consent – Index Exchange may Access your Data if you provide Publishers with the consent for us to do so.
+This means, for example, if you visit a website that has a cookie banner and click “Accept All”, Index Exchange will receive a technical signal confirming you provide us with the consent to Access your Data.
+Legitimate Interest – we may also Access your Data if we have a legitimate reason to do so.
+For example, we Access your Data to provide our Platform Services.
+Such Platform Services allow you to view the free online content in which you may be interested (e.g., a news website or blog).
+Index Exchange will not override your privacy and/or fundamental rights and freedoms to exercise our legitimate interests.
+==========
+How Your Data Is Shared With Our Partners
+We may share your Data with the following partners for the purpose of delivering ads to you:
+Buyers – As noted above, we connect Publishers with Buyers of ad space and Buyers include Demand-Side Partners (other intermediaries) and Ad Partners (advertisers and ad agencies).
+We share your data with Buyers to source ads that may be relevant to your interest(s).
+Buyers may share your information with their clients and partners for the provision of their services.
+==========
+Each Buyer processes Data in accordance with their own privacy policies.
+We encourage you to review their policies for more guidance on how your Data is Accessed by Buyers.
+Identity Partners –Your Data may be Accessed by our identity partners.
+==========
+These partners show you more relevant ads based on your interests in broad, aggregate audience segments.
+Identity partners collect Data to deliver these services.
+Quality Vendors – We may send your Data to third-party vendors that help maintain the integrity of our Platform Services, for example, by preventing malicious software (e.g., viruses, trojans) or traffic from non-humans (i.e., robots) from loading on the websites you browse.
+==========
+Legal Reasons – We may be required to disclose your Data to comply with our legal obligations, or in cases where we believe in good faith that disclosure is required by law.
+How we protect your Data: If we share your Data with another company, the information received by that company is controlled by the recipient.
+==========
+It becomes subject to their privacy practices.
+To protect your Data when it is transmitted to third parties, Index Exchange contractually requires Buyers to protect your data: (i) in accordance with applicable data protection laws; and (ii) by implementing user-centric privacy practices to ensure your Data continues to be protected if it is shared.
+These companies have their own policies that govern how they Access your Data.
+==========
+These practices may differ from the information found in this Policy.
+We encourage you to review the privacy policies of the websites you visit and apps you use to become familiar with their privacy practices.
+==========
+International Data Transfers
+Index Exchange is a global company.
+To provide our Platform Services, we may transfer your Data internationally to any of our data center locations, or to any Buyer’s international data center locations.
+We respect the security and confidentiality of your data while effecting these international transfers as described below:
+A. European Data Protection Regulations
+We ensure any international transfers of your Data are compliant with the laws of that region, including the European General Data Protection Regulation (GDPR).
+Specifically, with respect to the European Economic Area (EEA), we ensure appropriate legal protections are in place when we transfer Data outside of the EEA to the United Kingdom (UK), Switzerland, or any other country, as provided for under European data protection legislation.
+==========
+These protections include using technical measures, such as encryption of Data, or a legal mechanism, such as the Standard Contractual Clauses (SCC), which are approved by the European Commission.
+The SCCs standardize the protections for any international transfers of your data from the EEA to other countries, thus providing you with assurance that your will be able to access your rights for the protection of Data in a manner consistent with European data protection law.
+==========
+In the event of any conflict between the terms of this Policy and such transfer mechanism, the terms of the transfer mechanism will govern.
+B. Privacy Shield
+The Privacy Shield Framework (EU-US and Swiss-US) is a legal mechanism that applies to the transfer of Data from Europe to the United States of America (“USA”).
+On July 16, 2020, the European Court of Justice issued a judgement declaring the EU-US Privacy Shield Framework invalid.
+==========
+Index Exchange now relies on other transfer mechanisms for the cross-border transfer of Data previously covered by the Privacy Shield (as described in Part A above).
+However, the Privacy Shield Framework still provides privacy protections to you.
+With that in mind, Index Exchange continues to certify to the Department of Commerce that we adhere to the Privacy Shield Framework policies and comply with our obligations under the program for Data regarding EEA, UK, or Swiss individuals that is transferred to the USA.
+You can find more information about Privacy Shield, including a list of companies that participate, such as Index Exchange, here.
+For any Data transferred under Privacy Shield, if there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern.
+Index Exchange will investigate and attempt to resolve any Privacy Shield-related complaints or concerns within forty-five (45) days of receipt.
+==========
+If you have an unresolved Privacy Shield complaint or concern that we have not addressed satisfactorily or in a timely manner, you may contact the International Centre for Dispute Resolution/American Arbitration Association (“ICDR/AAA”), a US-based, third-party dispute resolution provider (free of charge).
+To find out more about ICDR/AAA or to file a complaint, please go here.
+==========
+You may also have the option to select binding arbitration for the resolution of your complaint under certain circumstances.
+To find out more about the Privacy Shield’s binding arbitration scheme please see here.
+==========
+California Residents
+The California Consumer Privacy Act (CCPA) applies to the collection, use, and disclosure of personal information collected from California residents.
+The CCPA requires us to disclose to California consumers the following:
+The categories of personal information collected
+Specific pieces of personal information collected
+The categories of sources from which we collect personal information
+The purposes for which we use personal information
+The categories of third parties with whom we share personal information with
+The categories of information that we “sell” or discloses to third parties
+Information as to how you can access, delete, or opt-out of the sale of your personal information.
+==========
+We must provide you with this information for the 12-month period preceding your request.
+We have provided the above-noted disclosures in this Policy.
+If you have any questions, please do not hesitate to Contact Us.
+==========
+Data Security
+The security, integrity, and confidentiality of your Data are extremely important to us.
+We implement technical, administrative, and physical security measures to protect your information from unauthorized access, disclosure, use, and modification.
+Such measures include, but are not limited to: (a) encryption, (b) controls that limit the access of your data both technically and at our physical data center locations, and (c) internal information security practices such employee training on the safe handling of Data.
+We regularly review our security procedures to ensure the protection of your information.
+Please be aware that, despite our best efforts, no security measures are perfect or impenetrable.
+==========
+If you have reason to believe your interaction with us is no longer secure, please immediately notify us in accordance with the Contact Us section below.
+Data Retention
+We retain your Data for the time needed to provide our Platform Services, or as otherwise required or permitted by law.
+Our maximum retention period is thirteen (13) months, after which we de-personalize Data by aggregating it, and these aggregate datasets cannot be traced back to individuals.
+==========
+Your Privacy Rights
+Please find details on how you can exercise your privacy rights below.
+Access and Deletion Data
+You can access or delete the Data we may have about you by using our User Rights Request Form.
+Data Portability
+When you submit a request to access your information, Index Exchange will provide your Data to you in a pdf document.
+Correct Your Data
+You have the right to correct your Data.
+However, please note that any such correction is subject to our practical limitations.
+==========
+The Data we Access is in the form of technical identifiers and changing it can be impossible/impractical.
+If you feel the Data we have about you is incorrect and would like us to rectify, please Contact Us at privacy@indexexchange.com for assistance.
+==========
+Object to Accessing
+The ads you see on Publisher Digital Properties may be tailored to your interests.
+Index Exchange offers options to opt-out of (“stop” or “object to”) ‘interest-based’, or ‘personalized’ advertising.
+==========
+This ensures you will not receive advertising based on your personal interests.
+Kindly note, opting-out of personalized advertising does not mean you will no longer see online ads, it simply means you will not see ads tailored to your personal interest.
+==========
+WebBrowser Option to Opt–Out
+To opt-out of the Accessing of your Data for personalized advertising, please visit the Network Advertising Initiative’s opt-out page.
+Please note that when you opt-out, a cookie will be stored in your web browser signaling your opt-out preference to Index Exchange.
+If your browser is configured to block third-party cookies, then the opt-out cookie may not work.
+If you delete your browser cookies, you will need to opt-out again.
+The opt-out will only apply to the specific browser in which you set it, and the opt-out Access must be repeated for each different browser.
+==========
+Mobile Opt-Out
+Please find below information on how to opt-out of the Accessing of personalized advertising on your mobile device.
+Option 1: Visit aboutads, download the Digital Advertising Alliance’s AppChoices mobile app, and follow the instructions provided in the AppChoices mobile app.
+Option 2: Adjust the advertising preferences on your mobile device:
+In iOS – please visit Settings > Privacy > Advertising > Limit Ad Tracking;
+In Android – please visit: Settings > Google > Ads > Opt out of interest-based ads.
+More information on your mobile opt-out choices can be found here.
+Television & Digital Video Programming Opt-Out:
+Digital video programming devices (such Smart TVs and apps on Smart TVs) may give you the ability to opt out of the use of your Data for advertising purposes.
+To determine if your device has these options, please visit your device’s setting menu(s).
+You may wish to consult the following guidance for consumer choice mechanisms on various connected devices.
+California: Do Not Sell my Personal Information:
+To submit a request to opt-out the sale of your information, please visit this link.
+==========
+Right to Lodge a Complaint – Europe
+Index Exchange complies with our obligations under European privacy laws and makes every effort to ensure your rights are protected and respected.
+If you have any questions or complaints regarding our Data processing, please Contact Us directly, or through our Data Protection Officer (DPO).
+You have a right to lodge a complaint with your local Data Protection Supervisory Authority if you wish to dispute the way we Access your Data.
+Please see the contact details of supervisory authorities below:
+EU Data Protection Authorities
+The Swiss Data Protection Authority
+UK Information Commissioner’s Office
+Corporate Privacy Policy
+The information in the section above describes how Index Exchange Accesses information in connection with our corporate relationships (i.e., if you are a client or business and you are engaging in a business relationship with Index Exchange).
+For clarity, this Section applies to your interactions with us in a business capacity only.
+Such business-related activities include when you: (a) register to become a member on the Index Exchange client user interface; (b) use the Index Exchange client user interface; (c) attend an Index Exchange sponsored event; and/or; (d) participate in a business relationship with Index Exchange that requires the submission of your information to Index Exchange (i.e., negotiating your business relationship with us, or providing responses to our company surveys).
+==========
+Collectively, these are our Commercial Purposes for collecting your information.
+Index Exchange may also collect your professional and academic background when you send us your CV/resume to work with us (Employment Purposes).
+==========
+Type of Information We Collect
+Index Exchange may collect your full name, mailing and/or billing address, email address, company name, job title, department or job role, and similar contact data (your Identifiable Data) in the course of our business relationship with you.
+Purpose and Legal Bases for Using Identifiable Data
+Listed below are the purposes and legal bases for which Index Exchange may Access your Identifiable Data in the course of our business relationship with you.
+Management of the contractual or pre-contractual relationship: Index Exchange uses your Identifiable Data to service accounts and respond to inbound inquiries related to sales or technical support requests and for billing purposes.
+==========
+This may include sharing inviting you to provide feedback to us using a third-party service provider.
+We may internally use Identifiable Data for analytical purposes, for example, to improve our UI or the services we provide to you.
+==========
+We may also use your Identifiable Data in the assessments of your CVs/resume and to manage our recruitment processes.
+Legitimate interest: As applicable, we may use Identifiable Data to send you marketing and promotional communications (for clarity, this is not for Employment Purposes), to evaluate and improve our internal services, and to build our relationship with you.
+Consent: Kindly note, you provide us with consent to use your Identifiable Data for the above Purposes and Employment Purposes when you participate in a business relationship with Index Exchange.
+Transfer of Identifiable Data
+Index Exchange does not sell, supply, distribute or otherwise make your Identifiable Data available to any third party under any circumstances.
+We may be required to disclose your Identifiable Data to comply with our legal requirements, or in cases where we believe in good faith that disclosure is required by law.
+==========
+We may transfer your Identifiable Data internationally to any of our data center locations globally, ensuring that any international transfer of your Data is compliant with the laws of that region.
+When we transfer Identifiable Data outside of the EEA, we ensure that appropriate legal protections are in place under European data protection legislation.
+These protections may include technical measures, such as encryption, or a legal mechanism such as the Standard Contractual Clauses approved by the European Commission.
+Your Privacy Rights
+You retain your rights to access, correction, erasure, limitation, and objection of the processing of your Identifiable Data.
+You have the right to revoke consent granted to Index Exchange at any time and to file claims with appropriate Data Protection Authority.
+For more information and/or to exercise your rights, please contact us at privacy@indexexchange.com or via the following address: Index Exchange c/o Privacy 74 Wingold Avenue, Toronto, Ontario M6B1P5 Canada.
+You may also contact our DPO at gdpr@legalarmy.net.
+==========
+Data Retention
+Index Exchange will only retain information for as long as it is necessary to carry out our intended Purposes as described herein.
+Any of the Identifiable Data you provide us through the channels will be deleted once it is no longer necessary to manage our business relationship with you.
+Any Identifiable Data retained is in compliance with our legal obligations and will only be shared if there is a legal obligation for us to do so, based on a request from the appropriate authorities.
+==========
+Data Security
+We implement technical, administrative, and physical security measures to protect your information from unauthorized access, disclosure, use, and modification.
+We regularly review our security procedures to ensure the protection of your information.
+Please be aware, despite our best efforts, no security measures are perfect or impenetrable.
+==========
+If you have reason to believe that your interaction with us is no longer secure, please notify us immediately in accordance with the Contact Us section below.
+Other
+Please note that all other sections of this Policy may also be applicable to the processing of your Data (for example, the Cookie and Website Notice below will also apply if you visit one of our websites).
+Website And Cookie Notice
+This Website and Cookie Notice explains how Index Exchange uses cookies.
+==========
+Cookies are text files that store small pieces of information.
+They are stored on your device when the website is loaded on your browser.
+On our Website, cookies help us make our Website function properly.
+On our Platform, cookies help our clients deliver personalized advertising to you.
+==========
+For ease, this Policy breaks down Index Exchange’s use of cookies in two sections:
+Website Cookies (on indexchange.com and all of our international sites)
+Platform Services Cookies
+The information below outlines how Index Exchange uses cookies in our interactions with you.
+Website Cookies
+Use of cookies on our Website:
+Our website uses first-party and third-party cookies.
+First-party cookies belong to us and are necessary for website functioning (e.g., the pages loading correctly).
+Third-party cookies belong to website service providers (such as Google Analytics or WordPress) and help us understand how the website performs.
+==========
+We do not collect your Data on our website.
+The following are types of cookies we use on our Website:
+Essential: Cookies that are essential for you to experience the full functionality of our site (for example, ensuring the links on our webpages work properly).
+Statistical: Cookies that analyze the performance and improvement of our website.
+Functional: Cookies that help with website functioning, such as embedding video content.
+Preference: These cookies help us store your settings and browsing preferences (e.g., language) to ensure you have a better and more efficient experience on your future visits.
+==========
+You can find a list of cookies enabled on our Website here.
+Please note that we are not responsible for the operation of third-party cookies.
+==========
+The data collection, use, and sharing practices of these third parties is governed by their privacy policies and differ from those found in this Policy.
+Index Exchange Platform
+As noted previously, the Index Exchange Platform is our technology that helps our clients deliver advertising to you.
+==========
+The Platform uses the following first-party cookies to facilitate the delivery of advertising.
+Please note that cookies are limited to websites only.
+They are not applicable to mobile or digital video programming apps that you visit.
+Ad-Serving Cookies Purpose Duration of Processing
+(the amount of time the cookie remains on your browser)
+CMID Unique cookie identifier which links your browser to an internal Index Exchange user file.
+==========
+1 year (renewed every time you visit a Publisher’s Digital Property)
+CMO Provides a signal to us if you have opted-out of using any online behavioral advertising opt-out tools (such as the NAI opt-out above).
+5 years
+CMPS Identifies the profile server for load-balancing and quick responses to your webpage page.
+90 days (renewed every time you visit a Publisher’s digital property)
+CMPRO Identifies the profile server for load-balancing and quick responses to your webpage page.
+90 days
+CMTEST Confirms if we can create cookies.
+1 hour
+CMTS Identifies the back-up server for load-balancing and quick responses.
+90 days
+CMRUM3 Contains a mapping table that matches user IDs with those of Buyers.
+==========
+1 year
+CMDD Measures how many unique pages engaged with on a web property.
+1 day
+CMGO Identifies the primary server for load-balancing and quick responses.
+==========
+Expires when you close your browser
+How can you control the cookie preferences?
+If you decide to change your preferences through your browsing session, you can click on the “Privacy & Cookie Policy” tab on your screen.
+This will display the consent notice again enabling you to change your preferences or withdraw your consent entirely.
+==========
+In addition to this, different browsers provide different methods to block and delete cookies used by websites.
+You can change the settings of your browser to block/delete the cookies.
+To find out more about how to manage and delete cookies, you can visit: www.allaboutcookies.org.
+For more information, please Contact Us.
+==========
+Self-Regulation Initiatives
+Index Exchange supports efforts for self-regulation in the digital advertising industry.
+Index Exchange is a member of several industry groups or initiatives, including: the Network Advertising Initiative (NAI); the Digital Advertising Alliance (DAA) and the Interactive Advertising Bureau (IAB); all of which help set industry standards for the ethical processing of your Data.
+Index Exchange adheres to the NAI Code of Conduct and also participates in the IAB’s Transparency & Consent Framework and complies with its specifications and policies.
+Index Exchange’s identification number within the framework is: Vendor ID 10.
+==========
+Changes To This Policy
+We may change this Policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes.
+The date at the top of this Policy reflects the most recent changes made.
+If we make material changes to this Policy, we will post the revised Policy on our website and may take additional measures to inform you, as required by applicable data protection laws.
+Contact Us
+Questions for Index Exchange
+If you have any questions for us, please contact us by e-mail at privacy@indexexchange.com or at the following address:
+Attn: Index Exchange c/o Privacy
+74 Wingold Avenue, Toronto, Ontario
+M6B1P5 Canada
+Data Protection Officer
+You can also contact our DPO at gdpr@legalarmy.net or at:
+Attn: Index Exchange Data Protection Officer
+Legal Army, S.L., B88103700
+María de Molina, 60 4th, Madrid, Spain, 28006
+==========

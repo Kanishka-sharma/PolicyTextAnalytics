@@ -1,0 +1,198 @@
+Last modified: March 11, 2020
+Apester Ltd. and its affiliated companies and subsidiaries (collectively “Company”, “we” or “us”) provides a platform intended for: (i) owners or operators of websites, applications or other digital assets and services (“Digital Assets” and “Publishers” respectively), enabling to create, embed and share within the Digital Assets interactive content units (“Content Unit”) including, but not limited, online quizzes, questionnaires, feedback applications or other features, for such Digital Asset’s end users (“Users”) to interact with; and (ii) third party advertisers (“Advertisers”) to provide advertisements and other promotional content (“Ads”) to be displayed on Content Unit ((i) and (ii) collectively shall be referred to as the “Services”).
+The Publishers and Advertisers shall be referred to collectively herein as “Business Partners”.
+==========
+This privacy policy (“Privacy Policy”) governs the data collection practices used by us and our privacy practices with respect to the data we collect from individuals who access and use our website available at: https://apester.com/ (“Visitors”), our Business Partners who use and register for our Services and Users.
+Each of the Business Partners, Users, and Visitors shall also be referred to herein as “you”.
+Our Visitors, Business Partners, and their Users’ privacy is important to us.
+We therefore encourage you to read this Privacy Policy carefully prior to accessing or using our website or any of our Services.
+This Privacy Policy explains which information we may collect from our Visitors, Business Partners and their Users, how such information may be used or shared with others, how we safeguard it and how each of the aforementioned individuals may exercise their rights related to their Personal Data (as such term is defined below) as required, among others, and where applicable, according to the EU General Data Protection Regulation (“GDPR”) and the California Consumer Privacy Act (“CCPA”).
+In the event you are a California resident and the CCPA apply to you – please review our CCPA Privacy Notice
+Subject to applicable law (and specifically the GDPR), our lawful basis for processing Personal Data is as follows:
+(i) We process certain Online Identifiers (as described below) during a Visitor’s use of our website and for functionality and operational purposes, which we have a legitimate interest in processing;
+(ii) We process a Business Partner’s Personal Data when they use our Services in order to perform our contract with the Business Partner;
+(iii) When we send direct marketing to our Business Partners, we process data which we have a legitimate interest in processing;
+(iv) We and our third-party partners may use cookies for advertising purposes, which, subject to applicable law requirements, we will request your consent for us to do so; and
+(v) In the event you contact us, we will process your contact details and other information you choose to provide us with in order to perform our contract with you.
+This Privacy Policy constitutes an integral part of our Terms of Service available at: https://apester.com/terms-of-service/ , as well as any agreement signed between us and the Business Partner (“Terms”).
+Definitions used herein but not defined herein shall have the meaning ascribed to them in our Terms.
+==========
+If you have any questions about this Privacy Policy, please contact us at: privacy@apester.com.
+We reserve the right to periodically amend or revise the Privacy Policy which will go into effect immediately upon the implementation of the revised Privacy Policy on our website.
+The last revision date will be reflected in the “Last modified” heading located at the top of the Privacy Policy.
+==========
+We will make a reasonable effort to notify you in the event that we implement any changes that substantially changes our privacy practices.
+We recommend that you review this Privacy Policy periodically to ensure that you understand our privacy practices and to check for any amendments.
+==========
+If you are a Visitor, User, or Business Partner, we may collect certain information about you, that can be classified, as follows:
+(i) Non-Personal Data: aggregated, non-personal non-identifiable information which may be made available or gathered via your use of our website, Services, or interaction with a Content Unit or Ads.
+We are not aware of the identity of the individual from which the Non-Personal Data is collected.
+==========
+(ii) Personal Data: we may collect from you, during your access or interaction with our website, use of our Services, or interaction with a Content Unit or Ads, individually identifiable information, namely information that identifies an individual or may with reasonable effort be used to identify an individual
+We act as a Processor of Personal Data we collect from Users on behalf of our Business Partners.
+We are defined as the Controller of the Personal Data we collect from our Business Partner’s and website’s Visitors.
+==========
+The types of data that we collect as well as the purpose for processing such data are specified in the table below.
+Data We Collect from Business Partners and Visitors:
+Type of Data How Do We Use It?
+==========
+Business Partners’ Registration or Demo Request:
+If you are or wish to become a Business Partner you may be required to provide us with certain information such as: your full name, email address, phone number and country.
+Additionally, during the registration process you will be required to create a username and password.
+We will use this data for the purpose of performing our contract with you, i.e., to provide the Services and to designate your account.
+==========
+Your contact details will be used in order to send you needed information related to our Services and our business engagement (e.g., send you a welcome message, notify you regarding any updates to our Services, send applicable invoices, etc.) and additional occasional communications and updates related to the Services, as well as provide you with tips related to our Services, and promotional and marketing emails.
+We may also use the information in order to verify your identity.
+Information Provided Voluntarily:
+If you voluntarily contact us in any manner whether for support, to submit a request or for other inquiries whether by sending us an email or through other means of communications, e.g., any online form available on our website, you may be asked to provide us with your contact information such as your full name, phone number, email address and country.
+==========
+Furthermore, if you use our live chat feature, you may be sharing additional information with the representative assisting you through the chat.
+We will use this data solely for the purpose of responding to your inquiries and provide you with the support or information you have requested.
+We will retain our correspondence with you for as long as needed, subject to applicable law.
+==========
+We currently use Hubspot as our chat service provider.
+Hubspot’s privacy policy is available here.
+==========
+Log in Through Social Network:
+When you log in to our Services
+through your Facebook or Google+ account, we will process certain information
+such as your Facebook ID, name and may process the information you made public.
+We will use this data for the purpose of providing our Services to you, i.e., to designate your account.
+==========
+Your contact details will be used in order to send you needed information related to our Services such as stores
+in your area that fit your preferences.
+Moreover, it will be used for additional occasional communications and updates related to the Services such as payment methods for your purchase, as well as providing you with tips
+related to our Services.
+Newsletter Subscription:
+If you voluntarily subscribe to our newsletter through the website (or otherwise agree to receive our updates and content), you may be requested to provide us with your email address and name.
+You can unsubscribe at any time using the unsubscribe option within the body of the applicable email or by contacting us directly.
+We use this information solely to provide you with the content you have requested.
+Please note that, we use MailChimp, and Sendgrid services for email marketing.
+MailChimp privacy policy is available here: https://mailchimp.com/legal/privacy/
+Sendgrid privacy policy is available here: https://www.twilio.com/legal/tos
+IP and Technical Non-Personal Data:
+When you access our website or interact with our Services, we may collect certain online identifiers (e.g. your IP address) as well as technical Non-Personal Data (e.g. viewing and usage information that relates to your interaction with the website, the amount of time you spend viewing certain portions of the website, your browser type, approximate geographical location, language used, operating system type, etc.).
+==========
+We use this data for our legitimate interests of (I) operating, providing, maintaining, protecting, managing, customizing and improving our website and the way in which we offer it; (ii) enhancing your experience; (iii) auditing and tracking usage statistics and traffic flow; and (iv) protecting the security of the website, as well as our and third parties’ rights (subject to applicable law requirements).
+If we use third-party cookies on our website we will obtain your consent if required under applicable law.
+==========
+Recruitment
+If you are interested in working with us, you may voluntarily send us your CV by through the means of communications we make available on our website.
+In the event you send us your CV, note that, your provision of Personal Data in connection with recruiting is voluntary, and you determine the extent of information you provide us.
+We do not request or require sensitive personal information concerning religion, health, sexual orientation, or political affiliation in connection with recruiting.
+We will use the information you have provided solely to communicate with you, to manage our recruiting and hiring processes, and for compliance with corporate governance and legal and regulatory requirements.
+If you are hired, the information may be used in connection with employment and corporate management.
+==========
+Data We Collect from Users:
+Type of Data Purpose of Processing
+Technical Non – Personal Data:
+Apester will collect information regarding Users’ that interact with Content Units or Ads.
+Such information includes online identifiers such as IP address, UDID Cookie ID and Session ID connected to surveys (please note that we do not process cross device information).
+as well as technical Non-Personal Data, such as, type of operating system, type of browser, access time and date, type of device, User’s click stream and actions in the Content Unit, approximate geographical location, as well as the URL of the Content Unit and referrals.
+In addition, we will process information provided by the User voluntarily while interacting with the Content Unit (for example, answers to a quiz or survey, emails, names, etc.) Such information may qualify as Personal Data in some jurisdictions; however, we do not make any use of such data to directly identify individuals or to associate it with individuals.
+==========
+We use this data for (i) operating, providing, maintaining, protecting, managing, customizing and improving our Services and the way in which we offer them as well as to provide Users with personalized Ads; (ii) enhancing your experience; and (iii) auditing and tracking usage statistics and traffic flow as well as calculate payments related to the Services we provide to Business Partners.
+Where required under applicable law, we will require our Business Partner to request for your consent to collect such data and share it with us.
+Depending on the nature of your interaction with the website or Services, the above detailed data is collected as follows:
+● In the event you voluntarily choose to provide us with information, e.g., when you contact us or if you are a Business Partner and register for our Services.
+● Automatically, including through the use of cookies (as detailed below and in our Cookies Policy), and other similar tracking technologies.
+==========
+We will ask for your consent to collect Personal Data and offer you the choice to opt-out of such collection if we are required to do so in accordance with applicable law.
+Users that wish to opt out from the collection and processing of Personal Data by Apester may opt out by turning off the toggle below.
+==========
+You may also opt out of certain Advertisers’ cookies and browser-enabled, interest-based advertising at the Network Advertising Initiative’s (“NAI”) website- NAI consumer opt-out and the Digital Advertising Alliance’s (“DAA”) website- DAA opt-out page.
+Or the European Interactive Digital Advertising Alliance (“EDAA”) website Your Online Choices page.
+==========
+Our Business Partners may also provide ways for you to opt out from or limit their collection of information from and about you.
+Please refer to the Business Partner’s privacy policies.
+Please note, however, that we are not responsible for the privacy practices of our Business Partners, and other third parties.
+We or our third-party affiliates and Business Partners may use “Cookies” and similar tracking technologies for various purposes.
+==========
+A cookie is a small piece of text that is sent to your browser and stored on your computer or mobile device.
+All cookies used by Apester are persistent cookies, meaning, they will be stored on your device after the browser session has expired.
+==========
+Any cookie will be deleted within up to 90 days after it has been placed unless configured otherwise
+Cookies may be used for different purposes such as: (i) allowing you to navigate between pages efficiently, (ii) enabling automatic activation of certain features, (iii) remembering your preferences, and (iv) making the interaction between you and our Services quicker and easier.
+Cookies are also used to help customize your experience and for advertising purposes (including personalized advertising).
+You can find more information about cookies at www.allaboutcookies.org.
+==========
+Most browsers will allow you to erase cookies from your computer’s hard drive, block acceptance of cookies, or receive a warning before a cookie is stored.
+You may remove cookies by following the instructions in your device preferences.
+However, please note that if you choose to disable cookies, some features of our website may not operate properly and your online experience may be limited.
+Please see our Cookie Policy for more information.
+==========
+We may send our Business Partners an email or other messages about us or our Services.
+We may also send our updates or newsletter to individuals who have registered to these Services.
+==========
+You can remove your Personal Data from our mailing list and stop receiving promotional communications from us by following the unsubscribe link located at the bottom of each communication or by emailing us at privacy@apester.com.
+Please note that in the event you are our Business Partner, even if you unsubscribe, we reserve the right to send you service-related communications, including service announcements and administrative messages, relating either to your account or to your transactions the Services, without offering you the opportunity to opt out of receiving them unless you terminate and delete your account.
+If you wish to delete your account, please contact us at the email above.
+Note that even if we will delete your account, we will not delete certain information required under applicable law or otherwise, required for the legitimate purposes of our business.
+For example, we will not delete any invoices sent to you as we need it for the purpose of managing our financials.
+==========
+Sharing Data with Third Parties
+We do not share any Personal Data collected from you with third parties or any of our partners except in the following events:
+● Legal Requirement: We will share your information in this situation, only if we are required to do so in order to comply with any applicable law, regulation, legal process or governmental request (e.g., to comply with a court injunction, comply with tax authorities, etc.);
+● Policy Enforcement: We will share your information, solely to the extent needed in order to: (i) enforce our policies and agreements; or (ii) to investigate any potential violations thereof, including without limitations, detect, prevent, or take action regarding illegal activities or other wrongdoings, suspected fraud or security issues;
+● Company’s Rights: We will share your information in order to establish or exercise our rights, to prevent harm to our rights, property or safety, and to defend ourselves against legal claims when necessary, subject to applicable law;
+● Third Party Rights: We will share your information, solely to the extent needed in order to prevent harm to the rights of our users, yourself or any third party’s rights, property or safety;
+● Affiliated Companies and Corporate Transactions: We may share your information with our parent company, any of our subsidiaries, joint ventures, or other companies that are under common control with the Company (“Affiliated Companies”) solely if and when applicable or necessary for the purposes described in this Privacy Policy, as well as in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale).
+In the event of the above, we will make our best efforts to ensure that our Affiliated Companies or acquiring company assumes the rights and obligations as described in this Privacy Policy.
+==========
+● Online Identifiers: We may share Online Identifiers with our advertising partner’s and to detect fraud.
+● Service Providers: We may share your information with third parties that perform services on our behalf (e.g. servers, service functionality and support, marketing, etc.).
+==========
+We reserve the right to use, disclose or transfer (for business purposes or otherwise) aggregated and processed Non-Personal Data to third parties, including, inter alia, affiliates, for various purposes including commercial use.
+This information may be collected, processed and analyzed by us and transferred in a combined, collectively and aggregated manner (i.e., your information is immediately aggregated with other users) to third parties.
+==========
+Our Website and Services may link to other websites of third-parties.
+Any information you provide on the linked pages is provided directly to this third-party and is subject to that third-party’s provider’s privacy policy.
+Apester is not responsible for the content or privacy practices of web sites to which it links.
+==========
+Links from Apester’s site to third parties or other sites are provided for convenience.
+You should learn about the privacy practices of each web site before providing them with Personal Data.
+==========
+Data protection and privacy laws may provide you with some of the following principal rights (depending on your jurisdiction) with respect to your Personal Data, which you may exercise:
+● The right to access your Personal Data;
+● The right to ensure your Personal Data is accurate, complete and up to date;
+● The right to have your Personal Data amended (by correcting, deleting or adding information);
+● The right to object to the processing of your Personal Data;
+● The right to send or “port” your Personal Data;
+● The right to file a complaint with a supervisory authority in your jurisdiction; and
+● The right to withdraw consent, subject to legal or contractual restrictions and reasonable notice;
+Please review our Privacy Rights Policy to learn more.
+In the event that you contact us and request to exercise any of your rights detailed above, we may request that you provide us with certain information in order to verify your identity and locate your data.
+==========
+Such a process may take a certain period of time, subject to applicable privacy laws.
+Please note that, you may have different rights than those which we listed above subject to privacy protections laws in your jurisdiction.
+==========
+If you wish to exercise any or all of the above rights, please fill out the Privacy Rights Request (“PRR”) form available here , and send it to our privacy team at: privacy@apester.com.
+If you wish to receive more information or in the event that you have any additional complaints about your privacy rights, please contact us at: privacy@apester.com.
+==========
+Unless you instruct us otherwise and subject to applicable laws, we retain the information we collect for as long as needed to provide our Services and to comply with our legal obligations, resolve disputes and enforce our agreements if applicable.
+We use physical, technical and administrative security measures for the services that we believe are in compliance with applicable laws and industry standards in order to prevent your information from being accessed without the proper authorization, improperly used or disclosed, unlawfully destructed or accidentally lost.
+==========
+It is important for you to remember however, that unfortunately, the transmission of information via the internet cannot be 100% secure.
+As such, although we will do our best to protect your Personal Data, we cannot guarantee the security of data transmitted via our website or our Services and any transmission of your data shall be done at your own risk.
+==========
+Please contact us at: privacy@apester.com if you feel that your privacy was not dealt with properly or was dealt with in a way that was in breach of our Privacy Policy or if you become aware of a third party’s attempt to gain unauthorized access to any of your Personal Data.
+We will make a reasonable effort to notify you and the appropriate authorities (if required by applicable law) in the event that we discover a security incident related to your Personal Data.
+==========
+Our website and Services are not directed nor is it intended for use by children (the phrase “child” shall mean an individual that is under the age defined by applicable law and specifically under the age of 16) and we do not knowingly process a child’s information.
+We will discard any information that we receive from a user that is considered a “child” immediately upon our discovery that such a user shared information with us.
+Please contact us at: privacy@apester.com if you have reason to believe that a child has shared any information with us.
+==========
+We may store or process your Personal Data in various territories including the United States.
+Please note, that if you are a resident of the EEA we will take appropriate measures to ensure that your Personal Data receives an adequate level of data protection when it is being transferred out of the EEA.
+==========
+Our website does not respond to Do Not Track signals.
+For more information about Do Not Track signals, please see: http://www.allaboutdnt.com/.
+==========
+If you have any questions about this Privacy Policy, you may contact us as follows:
+● By sending an email to our Data Protection Officer at: privacy@apester.com
+● By mail at:
+Apester Ltd.
+HaAhim Mislavuta St. 11
+Tel Aviv, Israel 6701022
+● Facsimile copies can be sent to the following number: 153-3-6020065, however we do encourage you to reach out via email which is checked more often.
+==========

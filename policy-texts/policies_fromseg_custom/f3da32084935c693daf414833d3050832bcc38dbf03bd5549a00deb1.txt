@@ -1,0 +1,247 @@
+KDE is a Community which has been formed by its collective members for the purpose of the development and promotion of open source computer software.
+This policy governs how the information which may be collected from or provided by you will be held and used as part of us providing services to you which allow you to participate in the KDE Community.
+Legal Entity
+The KDE Community is represented in legal and financial matters by the K Desktop Environment e.V. (known as the KDE e.V.), a registered non-profit in Germany.
+More information on the KDE e.V. can be found on its website.
+==========
+Reason for collecting personal information
+We collect personal information in order to provide you with services on our websites.
+This information is collected only where necessary to deliver those services as outlined below.
+==========
+For instance, in order to make a post on the Forum, you are required to create a KDE Identity account.
+We require this in order to send you notifications when others respond to your posts, and to allow people to associate responses with previously made responses.
+Updating your personal information
+In most cases our services provide the ability for you to update your information on a self-service basis.
+==========
+To do this, please follow the steps below as noted for each individual service.
+Should you have any issues following them, or have other questions which are not answered below, please get in touch with us as detailed in the Contact Information section.
+==========
+What information do we collect?
+Information collected is dependent on the service
+The information we collect from you will vary depending on the service being accessed, the level of access you hold on that service and the nature of your interactions with that service.
+With the exception of aggregated website statistics, anonymous donations and regular server logging, no information is collected from people accessing our services over the web who have not logged into them.
+Aggregated website statistics
+The KDE Community makes use of a Piwik/Matomo instance (which we host and have exclusive control over) to gather statistics on visitors to our websites.
+==========
+It has been configured to immediately anonymise all IP records, with only the first two bytes of IP records being retained, and detailed records being removed from our systems automatically after 30 days.
+Following the removal of detailed records, only highly aggregated summary reports are retained by our Piwik/Matomo installation.
+Should your browser be configured to send either a Piwik/Matomo specific opt out cookie, or a standard Do Not Track (DNT) notice, then information on you will not be collected.
+==========
+Access to the reports which this system can produce is only granted to those members of the KDE Community who have a legitimate interest or other need to access them (for instance as part of work on promotion for their individual project).
+Access is removed once an individual no longer has a need to access the information it contains.
+==========
+Regular server logging
+In order to protect the security of our systems, and to assist us in ensuring the smooth and uninterrupted provision of service to the KDE Community our systems automatically log every request they receive.
+This logging includes the full IP address and user agent of the requestor, along with the referring page which sent them to us and the nature of the request they made to us.
+These logs are only made accessible to system administrators who have responsibilty for the smooth operation of our services, and are automatically removed from our systems after 14 days.
+==========
+KDE Identity
+To ease the use of our services, the KDE Community offers a service which allows for users to register once for access to a number of our services.
+During this process, you’ll be asked to provide your name and email address, along with a password, and be given the choice of a series of usernames.
+Once confirmed, your account will then be created and you’ll be able to access services which use KDE Identity for authentication.
+Should this information need to be updated at any time, this can be done in a self-service manner through the KDE Identity site.
+As part of this process, you’ll also have the option of providing us with optional additional information should you wish.
+==========
+Once populated, this information will be made accessible to those sites you have used your KDE Identity account to login.
+Profiles created on the KDE Identity platform are not made publicly accessible, with the exception of KDE Developers and Members of the KDE e.V., whose name and email address are made accessible to the public.
+All other user profiles are considered private and only made accessible to sites you login to.
+Information is not transferred from KDE Identity to those services until you login to them for the first time.
+Bug Tracking System
+Participation on the KDE Bug Tracking System, powered by the Bugzilla software, requires registration of a separate account.
+==========
+During this process, you’ll be asked to provide an email address and password, and optionally, your name.
+Once registered, you can update this information at any time by updating the profile it holds of you.
+==========
+As an open bug tracking system, your email address and your name, if you provided one, will be made publicly accessible to both logged in and anonymous users of the system.
+Additionally, any action taken on the system will result in emails being sent to registered users who have an interest in the bugs you are creating, commenting on, or otherwise modifying.
+Emails will also be sent to public mailing list(s) for any action taken on a bug, and these lists may be archived by third parties.
+==========
+As a security mechanism, Bugzilla keeps track of unsuccessful logins and may notify site administrators as well as the owner of an account by email when certain thresholds have been met.
+When this takes place, information regarding the last request including the IP address of the submitter will be sent to those parties.
+Actions that are security sensitive in nature, such as the creation of accounts and reset of passwords will also result in the IP address of the submitter being sent to the account owner’s email address as part of the account activation or password reset email.
+==========
+Forum
+Participation in topics and other discussions on the KDE Community Forums (the Forum), powered by the phpBB software, requires use of a KDE Identity account.
+On your first login to the Forum, you will be given the option of choosing a different name for public display purposes, as your Forum profile will be publicly accessible.
+The forum only makes use of your email address from the KDE Identity platform, and does not make use of any other information in your profile.
+By default it will not disclose your email address publicly, however this setting may be updated on a self-service basis through your account settings on the Forum.
+==========
+Once selected you will not be able to change your display name except by contacting the forum staff.
+Should you need to update your email address, this can be done by changing it on KDE Identity.
+In order to prevent abuse, the forum software internally logs all actions taken, including attempts to login and posts made, recording the full IP address and time the action took place.
+==========
+Content Management Systems
+Contributing articles, stories and pages to the various websites we host which use Content Management Systems requires having an account on those sites.
+In many cases, this account will need to be a KDE Identity account.
+==========
+As part of registering or updating your profile held by these systems, you will be given the option to provide information on yourself, including your name, email address and IRC handle.
+Once provided this information will be made accessible through a publicly visible profile (with the exception of your email address, which will always be kept private).
+From time to time we may also provide the option to comment on articles and stories on these Content Management Systems.
+==========
+Where commenting is made possible without an account, you’ll be asked to provide your name and email address.
+While the name you provide may be made public and displayed alongside your comment, the email address you provide will not be made publicly accessible and will only be retained for the purposes of contacting you regarding your comments should that become necessary.
+Comments made when logged in using an account will be associated with that account instead and linked to your public profile on that site.
+In order to prevent abuse, our Content Management Systems may internally log all actions taken, recording the full IP address, time of the action, the page being visited at the time and the previous page you visited.
+==========
+Gitlab
+Participation on our community collaboration platform, Gitlab, requires use of a KDE Identity account.
+As part of logging in, your first and last name from your KDE Identity profile along with your KDE Identity username will be made public.
+==========
+In addition to this, Gitlab will also retrieve your primary and secondary email addresses from Identity, which will be used for sending you notifications and for populating the commit metadata in commits you make through the Web IDE or when merging in merge requests.
+No other information from your KDE Identity profile will be made public or accessed by Gitlab.
+Should you need to update your name or the email addresses that Gitlab uses, this should be done by updating your KDE Identity account.
+Gitlab also offers you a profile which allows you to specify other information such as your personal website and social media account profiles, as well as your preferences for how some information is disclosed such as your primary email address.
+You can update these at any time through the User Settings area in Gitlab.
+As our primary collaboration platform, Gitlab provides a public activity feed of all activity taking place on it, which includes all KDE source code repositories.
+All these events will be associated with the respective Gitlab profile for the individual taking the action where this is possible, and this information will be retained indefinitely within Gitlab.
+Due to its role as our primary collaboration platform, activity on Gitlab may results in emails or other notifications being sent to other contributors, public mailing lists and other public forums.
+These notifications will contain details regarding what has been changed (such as the creation or update of a code review request, the addition of a comment on a task or a commit being reverted in a repository) along with the name and Gitlab account name of the individual who made the change.
+==========
+Wikis
+Making changes on any of the Wikis we operate, powered using the Mediawiki software, requires use of your KDE Identity account via Phabricator.
+On your first login, you’ll be required to choose a name for display purposes, as usernames on Mediawiki installations are publicly visible.
+During the login process, your email address will be made available to our wikis, which will be used for the purposes of notifying you of changes to pages you have requested to watch, and will not be made public.
+==========
+Should you wish to change your Wiki display name, you will need to contact the Sysadmin team who can arrange this for you.
+In order to prevent abuse, all actions you take, such as the creation or modification of pages, along with the time that event took place, will be logged indefinitely and associated with your account on the wiki.
+These records will be publicly accessible as part of the page history, as well as in the overall wiki change history.
+==========
+Conference Attendance System
+When registering for a conference managed by our conference attendance system, you will be asked to provide your name, contact details such as email addresses and IRC nicknames and optionally other information such as a biography, along with your roles in the KDE Community and any food preferences you may have.
+This information can be updated at any time through your account settings in the conference management system.
+This information will be held confidentially and will not be made publicly accessible.
+Access to the information will only be provided to those involved in planning and running the conference(s) you have opted to attend within the system to allow them to facilitate the organisation of the conference.
+==========
+Surveys
+To facilitate gathering collective opinion and other beliefs from the wider community, we may from time to time conduct surveys of our community.
+As part of this process, no personally identifying information is collected, although individual surveys may ask questions of you for which the information you provide could be used to identify you (such as your email address).
+In all instances, your provision of this information is optional and is not required to complete the survey.
+==========
+Survey results will be kept confidential, and only made accessible to those members of our community who are running the survey, although aggregate results, statistical analyses and excerpts of written comments may be released as part of public reports from time to time.
+In order to secure access to those results and to allow for survey operators to perform the initial setup, operators will be provided with an account on our survey platform, Limesurvey.
+==========
+As part of this process, their name and email address, along with a username assigned to them will be registered with the platform.
+This information is held only for the purposes of allowing these users to manage the surveys they have created, and will not be retained once their access is removed.
+At this time there is no automated process to remove survey datasets once a survey has been completed and the necessary results tabulated.
+Season of KDE
+Participation in the Season of KDE program requires the students, mentors and administrators involved to provide various information in order to allow us to connect students with mentors of appropriate projects.
+This information includes names, email addresses and chat service nicknames (such as IRC handles).
+This information can be updated at any time during the program through the Season of KDE portal.
+==========
+In addition, those students selected as finalists will also need to provide a postal address and their T-Shirt size in order to allow us to ship them their finalist prizes.
+As part of this process, this information may be shared with the KDE e.V. Board in order to facilitate the logistics of shipping the packages to the finalists.
+Following the conclusion of shipping this information is removed from our systems.
+==========
+Source Code Repositories
+As an open source software development community, KDE produces a large quantity of source code, which we store in Source Code Management systems known as Git and Subversion.
+These systems store our code and the changes to it in records known as commits, which include the change to the code, an annotation from the developer (commit message), the time and date of the change and the identity of the person making the change.
+For Git, the identity information is stored in the form of the name and email address, both of the person committing the change to the repository, as well as the person who authored the change originally where that is different.
+In the case of Subversion, this identity information is stored in the form of the username assigned to you when you were granted a KDE Developer account.
+==========
+As part of the process of entering commits into our repositories, various actions may be automatically taken.
+This includes sending of emails concerning the commits to public mailing lists (which are archived by third parties) as well as directly to individuals named in the commits or who have otherwise registered their interest with us in regard to certain forms of changes taking place in our repositories.
+It may also include notifications being sent to Bugzilla and Phabricator, which may result in bugs, tasks or code reviews being closed, with reference being made to the commit in question, and the people and mailing lists affected by those being informed of the change and details of it in turn.
+Following this the commits may also be indexed by systems such as Phabricator, propagated to third party mirrors of our repositories (such as Github) and be made publicly available (through our anongit and anonsvn services) for anyone to access.
+==========
+By entering commits into our repositories you acknowledge that the information contained in them will form part of the public record of open source development activity undertaken by the KDE Community, and that these records constitute part of the historical record of our community.
+As a consequence of them being historical records, it is not possible to rectify them once they have been entered into our repositories as this would constitute a modification of the historical record, which is also prevented by cryptographic security mechanisms built in to both Git and Subversion.
+Further, as computer source code is a creation in which intellectual property rights (copyright) are held by the author, removal of those records is not possible as we are legally required to keep records on who was responsible for authoring changes in the code we hold.
+==========
+Mailing Lists
+A core component of our operation as an open source community is our use of mailing lists to communicate and collaborate on various matters concerning the software we develop.
+As part of this, we use mailing list management software (in our case Mailman) to manage subscriptions made by members to our various mailing lists.
+==========
+As part of the process of subscribing to mailing lists, you’ll be asked to provide your email address, as well as optionally your name.
+Once your subscription is confirmed, you’ll begin to receive copies of all messages sent to the mailing list.
+Depending on the list configuration, the list of subscribers to it will either be public, available to list members, or only accessible by the list administrator, a setting which you will be able to view prior to subscribing to the list.
+Should you wish to unsubscribe at any time this can be done through Mailman’s interface, after which all records of your subscription will be removed from our system.
+==========
+The distribution of messages to mailing list participants, along with all of the information contained in them (including the senders name and email address) is a key part of the proper operation of a mailing list.
+As part of this, emails you send to our mailing lists will be distributed to other subscribers, whose email in most cases will be hosted on systems outside of our control, and which may be located outside of the European Economic Area.
+In some instances, the subscriber may be a third party public mail archiving service, who will in turn publicly publish your email on their website.
+By sending an email to one of our mailing lists, you consent to us redistributing your message in this manner.
+==========
+In some cases, we may also archive lists ourselves.
+These archives can also be accessed through Mailman, and depending on the list configuration will either be publicly accessible, or accessible only by members of the list.
+==========
+Should you need to have a message which you have sent to the list amended or removed, please contact the Sysadmin team.
+To ensure the smooth operation of our mailing lists and other email services, logs are kept regarding all accesses and messages which we receive.
+These logs include the IP address of the originating mail server, the sender and any recipients email addresses, along with the subject of messages and the results of any automated assessments our systems make of those messages while processing them.
+These logs are retained for a period of 30 days after which they are automatically removed, and are only accessible during this time by system administrators who are responsible for the operation of our mail services.
+==========
+Jabber Chat Service
+In order to allow our contributors to communicate in real time, KDE offers a Jabber service under the kde.org and kdetalk.net domains.
+Registration of accounts on both domains is currently not open to the public and can only be done through contacting the Sysadmin team.
+==========
+As part of the account creation process, a handle (known as a Jabber ID) is assigned to you following the form of accountname@domain, along with an initial password.
+Through the use of your account, you may create an address book of contacts (which will be stored on the server) and may make your presence (away/available/busy) status available to those contacts.
+==========
+You may update these at any time through any standard Jabber client using your account credentials and this information will be stored privately for your use only.
+To ensure the smooth operation of the Jabber service, logs are kept regarding all access made to this service.
+These logs include the IP address of the client and handle of the account involved, but do not include the content of any messages or other information exchanged through the service.
+==========
+Logs are retained for a period of 12 weeks, after which they are automatically removed from our systems.
+No other information is retained by us in regards to the Jabber service.
+==========
+Reimbursements, Donations & Join the Game
+As part of supporting the KDE Community, we provide facilities for people to donate funds to us and for us to reimburse members of the community who have incurred costs we have agreed to compensate them for.
+Due to the nature of this involving the transfer of funds we are required to retain more information than usual in order to meet our tax and other statutory obligations and to allow us to prepare financial statements as required.
+Except where required to facilitate the transfer or meet our legal obligations this information is kept confidential and is not disclosed to others except as outlined below.
+==========
+During the process of making a donation to us through our website, you will be offered the opportunity to make a public remark regarding your donation.
+The text you provide at this point will be published publicly on our website, alongside the time and amount of the donation here.
+Should you wish to update this remark in the future, please contact the KDE e.V. Board.
+==========
+For those opting to make a recurring donation through our Join the Game program, you’ll be asked to provide information including your name, a billing address and whether you wish for your membership to made public.
+Should you opt to make your membership public, then the name you’ve provided us will be published on the list of members on the Join the Game website.
+This information and privacy preference can be updated at any time following joining the program by updating your user profile on the Join the Game site.
+In order to facilitate the process of reimbursing members of our community for costs they’ve incurred, we require various information to be provided by the community member.
+==========
+The exact requirements for this are documented in our Reimbursements Policy, which can be found on the KDE e.V. Website.
+This information is collected solely in order to facilitate the processing of the reimbursement request and will only be made accessible to those involved in this process.
+Following the completion of the reimbursement request, the information collected as part of it will be retained as part of our accounting records.
+==========
+KDE Store
+The KDE Store (located at store.kde.org) is operated on behalf of the KDE Community by a third party, Hive01 GmbH, and forms part of the OpenDesktop.org network of sites.
+As it is operated separately, it is covered by its own separate privacy policy which can be found on their website.
+No part of this privacy policy applies to the KDE Store.
+All inquiries regarding the collection and use of information by the KDE Store should be referred to the contact referred to in its own privacy policy.
+==========
+Phabricator
+Participation on our community collaboration platform, Phabricator, requires use of a KDE Identity account.
+On your first login, you’ll be prompted to choose a different username for display purposes, as Phabricator will provide a public profile on you for others to access.
+As part of this, your first and last name from your KDE Identity profile will be made public.
+No other information from your KDE Identity profile will be made public, and the only other information Phabricator uses from your KDE Identity profile will be your email address (which will be kept private).
+Should you need to update your name or email address that Phabricator uses, this should be done by updating your KDE Identity account.
+As our primary collaboration platform, Phabricator provides a public activity feed of all activity taking place on it, as well as in all KDE source code repositories.
+All these events will be associated with the respective Phabricator profile for the individual taking the action where this is possible, and this information will be retained indefinitely within Phabricator.
+Due to its role as our primary collaboration platform, activity on Phabricator may results in emails or other notifications being sent to other contributors, public mailing lists and other public forums.
+These notifications will contain details regarding what has been changed (such as the creation or update of a code review request, the addition of a comment on a task or a commit being reverted in a repository) along with the name and Phabricator account name of the individual who made the change.
+==========
+Use of Third Parties
+As part of the operation of our services, we may use third party intermediaries to ensure you receive the best possible experience while using our services.
+As a result of this, your information may transit through their systems on its way between you and us while you are accessing our services.
+To help ensure a consistent experience while browsing our websites and other content, we make use of CDN services from Datacamp Limited and Web Application Firewall services from Imperva (Incapsula).
+==========
+As a consequence of this, some website resources may be served by their systems instead of ours.
+Their respective privacy policies are located on their websites, located at CDN77.com for Datacamp Limited and Incapsula.com for Imperva.
+==========
+As part of ensuring your ability to access our services, we are required to provide DNS servers to allow your computer to turn the human friendly address (such as www.kde.org) into something your computer can use (an IP address) to access our services.
+We make use of the Content DNS service from Bytemark Limited to provide this.
+Their privacy policy can be found on the Bytemark Website
+To facilitate the processing of donations, at times we may make use of the services of Paypal.
+Their privacy policy can be found on the Paypal.com website.
+==========
+Changes in the Privacy Policy
+We may change the privacy policy when we add new services, retire existing services and update existing ones.
+When this is done, except where the updates are minor (such as correcting typographical errors) we will post an announcement regarding the update on our website and detail the impact of the changes on you.
+==========
+Contact information
+Should you have any queries or other matters which aren’t addressed above, please feel free to contact us as described below.
+For queries relating to updating or removing information, or relating to how our services operate and publish data, please contact the Sysadmin team in the first instance.
+This can be done by sending an email to sysadmin@kde.org, or alternatively by filing a ticket (KDE Identity account required)
+For all other queries, please contact the KDE e.V. Board.
+They can be reached by email at kde-ev-board@kde.org.
+Alternatively, should you wish to send your query via physically addressed mail, it can be sent to our office who will bring it to the attention of the Board.
+Our current postal address can be found on the Contact section of the KDE e.V. website.
+==========

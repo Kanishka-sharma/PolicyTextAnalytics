@@ -1,0 +1,205 @@
+The Wayback Machine - https://web.archive.org/web/20160406062614/https://slashdot.org/index2.pl?fhfilter=privacy
+New Website Lets Anyone Spy on Tinder Users (theguardian.com)
+Posted by manishs on Tuesday April 05, 2016 @03:48PM from the security-woes dept.
+An anonymous reader cites an article on The Guardian: Tinder isn't as private as many of its users think, and a new website which aims to exploit that is causing concern among users of the dating app Swipebuster promises to let Tinder users find out whether people they know have an account on the dating app, and even stalk them down to their last known location.
+The website charges $4.99 to let someone see whether the target is using Tinder, and can narrow down results by first name, age, gender and location.
+But it doesn't do so by hacking into Tinder, or even by "scraping" the app manually.
+Instead, it searches the database using Tinder's official API, which is intended for use by third-party developers who want to write software that plugs in with the site.
+All the information that it can reveal is considered public by the company, and revealed through the API with few safeguards.
+==========
+We Live In The Dark Ages of Internet Security, Says Kaspersky Labs CEO
+Posted by manishs on Tuesday April 05, 2016 @02:00PM from the security-woes dept.
+An anonymous reader cites a report on TheMerkle: It is never a positive sign when one of the world's leading security firms mentions how the world is currently in the "Dark Ages" of computer security.
+That particular statement was made by Kaspersky Labs CEO Eugene Kaspersky during the NCSC One conference in The Hague.
+Enterprises and consumers need to step up their protection sooner rather than later, as the number of security threats keeps increasing.
+Update: 04/05 18:41 GMT by M :Reader Rob MacDonald has posted the following insightful comment (slightly edited for clarity and length): We're in the dark ages by design.
+==========
+We've allowed the alphabet agencies to compromise our security, at every level, including hardware.
+The one that doesn't have an exploit at shipping, gets intercepted and modified in transit.
+The encryption algorithms we've been using were compromised at such a level it took this long to see it.
+==========
+WhatsApp Enables End-To-End Encryption For All Forms of Communications By Default
+Posted by manishs on Tuesday April 05, 2016 @01:40PM from the setting-precedent-for-everyone-else dept.
+Popular instant messaging app WhatsApp, on Tuesday, announced that it is turning on end-to-end encryption for all its users by default.
+The company says that every call a user makes, every text message they send, all photos and videos they share will now be more secure.
+Furthermore, the encryption status of any chat is visible under the chat's preferences screen.
+The announcement comes a little over a year after the Facebook-owned company partnered with Open Whisper Systems, a nonprofit software group that develops collaborative open source projects with a mission to "make private communication simple."
+The end-to-end encryption feature is available on the latest version of the app.
+==========
+In a blog post, Open Whisper Systems further explains the feature: Once a client recognizes a contact as being fully e2e capable, it will not permit transmitting plaintext to that contact, even if that contact were to downgrade to a version of the software that is not fully e2e capable.
+This prevents the server or a network attacker from being able to perform a downgrade attack.
+==========
+In a blog post, WhatsApp writes: While WhatsApp is among the few communication platforms to build full end-to-end encryption that is on by default for everything you do, we expect that it will ultimately represent the future of personal communication.
+WhatsApp has also made available the technical details about how the two companies implemented this feature (PDF).
+For those of you who haven't heard of WhatsApp, it's an instant messaging and voice calling app.
+==========
+The free service, which is available across all popular platforms, is used by more than a billion people worldwide every month.
+A report on Wired says that a team of only 15 engineers enabled this security feature for over a billion users.
+==========
+Privacy researcher and activist Christopher Soghoian rightfully adds, "Google has no excuse."
+Tomorrow's PS4 Update To Add Game Streaming for PC and Mac, Privacy Features (polygon.com)
+Posted by manishs on Tuesday April 05, 2016 @12:00PM from the playstation-4-camp dept.
+An anonymous reader cites a report on Polygon: The PlayStation 4's newest software update will be out tomorrow, April 6, adding PC remote play capabilities, a new live streaming channel, and several improvements to its social networking features, among others.
+With the update, the PS4 will support remote play on PCs running Windows 8.1 or Windows 10 or later and Mac OS X 10.10 and 10.11.
+You can read more about it on PlayStation's official blog post.
+==========
+FBI Says a Mysterious Hacking Group Has Had Access to US Govt Files for Years (vice.com)
+Posted by manishs on Tuesday April 05, 2016 @10:40AM from the strange-confessions dept.
+Lorenzo Franceschi-Bicchierai, reporting for Motherboard: The feds warned that "a group of malicious cyber actors," whom security experts believe to be the government-sponsored hacking group known as APT6, "have compromised and stolen sensitive information from various government and commercial networks" since at least 2011, according to an FBI alert obtained by Motherboard.
+The alert, which is also available online, shows that foreign government hackers are still successfully hacking and stealing data from US government's servers, their activities going unnoticed for years.
+[...] In the alert, the FBI lists a long series of websites used as command and control servers to launch phishing attacks "in furtherance of computer network exploitation (CNE) activities [read: hacking] in the United States and abroad since at least 2011."
+==========
+Toyota Teams With Microsoft On Connected Cars (usatoday.com)
+Posted by BeauHD on Monday April 04, 2016 @10:30PM from the way-of-the-future dept.
+An anonymous reader quotes a report from USA TODAY: Toyota announced an enhanced relationship with Microsoft on Monday aimed at delivering "connected car" services to drivers in ways they probably never could have imagined.
+Already, drivers ask the infotainment system in their cars for restaurant recommendations, but many locations often would require that a driver turn around.
+But with Toyota Connected, the system might be modified to only recommend restaurants on the highway ahead -- and then only the kinds of food that the driver usually prefers.
+==========
+Road information can be delivered to drivers based on driving patterns -- knowing the routes they usually take.
+Auto insurance could be priced more accurately because the system could report on a driver's actual miles and routes traveled.
+==========
+Medical-related sensors could also be built into the car, like heartbeat monitors or sensors on the steering wheel.
+Some of the services could be offered to customers wirelessly by being beamed directly into their cars, but Lobenstein said that customer privacy considerations will be paramount.
+==========
+Toyota Connected hopes to have its first products within a year.
+Toyota Connected, as it's called, is built on Microsoft's Azure cloud computing platform.
+Toyota plans to invest $5.5 million in the new venture, even though much of the technology will be based on their current research and development for smart automobiles.
+US Army Hopes To Outfit Soldiers With Tiny Drones By 2018 (engadget.com)
+Posted by BeauHD on Monday April 04, 2016 @09:13PM from the high-tech-warfare dept.
+An anonymous reader quotes a report from Engadget: The U.S. Army has requested industry information on the feasibility of making tiny drones that would help infantry gather intelligence on a small scale, such as peeping over a hill or around a building.
+==========
+its dream recon machine would weigh no more than a third of a pound, launch within one minute and fly for at least 15 minutes.
+Ideally, the drones would be in service as soon as 2018. "
+==========
+[A nano-drone] will send real-time video back to the operator to give them real-time situational awareness of what's in the immediate vicinity," says Phil Cheatham, the deputy branch chief for electronics at the Army's Maneuvers Center for Excellence (MCOE).
+Cheatham says he and his team want something cheap enough to deploy with every squad, noting the Army already uses satellite imagery and larger drones to provide broader battlefield intelligence.
+==========
+BlackBerry Makes Privacy and Control Subscription in BBM Free
+Posted by manishs on Monday April 04, 2016 @12:02PM from the good-guy-BlackBerry dept.
+BlackBerry, on Monday, announced it is making all the privacy features in BBM (BlackBerry Messenger) messaging app free to use.
+Prior to the announcement, the Canadian company charged $1 monthly premium subscription for the advanced privacy and control features.
+From the company's blog post: These enhanced privacy and control features give users full ownership over what they share through BBM -- even after it leaves their phone.
+==========
+With "Retract," users can retract messages and pictures from recipients they sent mistakenly or no longer wish to make accessible.
+"Timer," meanwhile, gives users control over how long their contacts can view shared messages, pictures, or location information.
+==========
+FBI Wants To Access Terror Suspect's Skype Records (bostonglobe.com)
+Posted by manishs on Monday April 04, 2016 @10:01AM from the fbi-vs-your-privacy dept.
+Milton J. Valencia, reporting for BostonGlobe: The FBI is investigating whether a third, unknown person discussed an alleged terrorism plot with Alexander Ciccolo, the Western Massachusetts man accused of planning to attack a state university with guns and explosives on behalf of the Islamic State terror group.
+FBI Special Agent Jeffrey J. Lawrence said in an affidavit filed in US District Court in Springfield last week that Ciccolo told a witness who was cooperating with the FBI that he had discussed his terrorism plans with one other person.
+==========
+The affidavit was part of an application for a search warrant authorities filed with the court.
+Officials are seeking access to Ciccolo's online Skype account as part of their investigation into the alleged terror plot.
+The search warrant seeks to have Microsoft -- which owns Skype -- provide the government with logs and the content of conversations and written messages made on Ciccolo's account, as well as passwords.
+Given Microsoft's stance on these matters, the company is likely to hand over the data FBI is looking for.
+==========
+There Are Some Super Shady Things In Oculus Rift's Terms of Service (gizmodo.com)
+Posted by BeauHD on Monday April 04, 2016 @03:15AM from the buyer-beware dept.
+An anonymous reader quotes a report from Gizmodo: While the [Oculus Rift] is cool, like any interesting gadget, it's worth looking through the Terms of Service, because there are some worrisome things included.
+Quite a few of the items in the document are pretty typical in any sort of Terms of Service agreement.
+==========
+These include details like waiving your right to a juried trial and agreeing to go into arbitration instead.
+Oculus can also terminate your service for myriad reasons, and third parties can collect information on you.
+However, there are some even more devilish details in the Rift's full Terms of Service.
+If you create something with the Rift, the Terms of Service say that you surrender all rights to that work and that Oculus can use it whenever it wants, for whatever purposes.
+Basically, if you create something using the device, Oculus can't own it, but the company can use it -- and they don't have to pay you for for using it.
+Oculus can use it even if you don't agree with its use.
+Oculus can collect data from you while you're using the device.
+Furthermore, the information that they collect can be used to directly market products to you.
+As UploadVR noted, the Oculus Rift is a device that is always on (much like Microsoft's Xbox One Kinect feature) which leads to further concerns about when the information will be collected.
+==========
+MPAA Opposes Proposed Minnesota Revenge Porn Law, Saying It Limits Speech (arstechnica.com)
+Posted by EditorDavid on Sunday April 03, 2016 @02:51AM from the avenging-revenging dept.
+New Minnesota legislation is "attempting to penalize those who post explicit photos or videos of ex-lovers on the Internet without permission," reports the Associated Press.
+But while 27 states across America have already passed laws against "revenge porn", Hollywood's lobbying arm, the MPAA, argues that Minnesota's bill doesn't specifically require an intent to harass in their definition of the crime, which "could limit the distribution of a wide array of mainstream, Constitutionally protected material, including items of legitimate news, commentary, and historical interest," according to Ars Technica.
+==========
+The MPAA adds that "images of Holocaust victims, or prisoners at Abu Ghraib, or the Pulitzer-Prize winning photograph entitled 'Napalm Girl' -- which shows a young girl running screaming from her village, naked, following a Napalm attack -- could be prohibited under the terms of this legislation."
+"This is the same MPAA that fiercely supported the Stop Online Piracy Act of 2012," notes Ars Technica, though "many claimed that legislation would also curtail free speech because SOPA could lead to the removal of domains that host infringing material."
+But the state's ACLU chapter is also opposing Minnesota's bill, according to the Associated Press, pointing out that it doesn't require an offender to be aware that they're invading someone's privacy, and arguing that "We're not doing victims of revenge porn any service by passing a law that can't be upheld in court, that will let people go free."
+==========
+Mozilla Co-Founder's Ad-blocking Brave Browser Will Pay You Bitcoin To See Ads (pcworld.com)
+Posted by manishs on Saturday April 02, 2016 @09:30PM from the everybody-wins?
+dept.
+An anonymous reader writes: Brave, a new privacy and speed focused web browser for Windows, Mac, Linux, iOS, and Android, backed by Mozilla co-founder Brendan Eich, will pay its users in bitcoin to watch ads.
+From a PCWorld article, 'Under this plan, advertisers pay for a certain number of impressions, and Brave aggregates those payments into one sum.
+==========
+Websites that participate in the scheme get 55 percent of the money, weighted by how many impressions are served on their sites.
+For both users and publishers, Brave deposits the money into individual bitcoin wallets, and both parties must verify their identity to claim the funds.
+==========
+This requires an email and phone number for users, and more stringent identification steps for publishers.
+Users who don't verify will automatically donate their share of the funds back to the sites they visit most.'
+==========
+It appears Brave's strategy hinges on, among other things, collecting your browsing data to display relevant ads.
+The aforementioned article also says that users will have an option to block all ads by paying a monthly subscription to Brave.
+Not sure how many people would want to buy that.
+==========
+Oculus 'Always On' Services and Privacy Policy May Be a Cause for Concern (uploadvr.com)
+Posted by manishs on Saturday April 02, 2016 @10:00AM from the privacy-is-a-luxury dept.
+Will Mason, reporting for Upload VR: It turns out when you install the software to run Facebook's Oculus Rift, it creates a process with full system permissions called "VRServer_x64.exe."
+This process is always on, and regularly sends updates back to Facebook's servers.
+==========
+The process' main purpose is to help detect when the Rift is turned on and on your face so that it can launch Oculus Home, but the further reaching implications of it are potentially much more salacious.
+Digging into the Oculus Rift's Privacy Policy reveals that Facebook is not the only company that is able to collect your data, as under the policy "third parties may also collect information about you through the Services," this includes entities on the "related companies" list.
+The company plans to utilize your data to, among other things, "market to you."
+Surprised?
+==========
+CIA Left Inert Explosives On School Bus After Exercise (reuters.com)
+Posted by BeauHD on Friday April 01, 2016 @05:16PM from the whoops dept.
+An anonymous reader writes: Students were transported in a Virginia school bus carrying inert explosives left by the CIA, officials said.
+The explosives were discovered in the engine, only after the Loudoun County Public Schools bus was undergoing maintenance.
+"The CIA assured Loudoun officials the training material used in this exercise is stable and posed no danger to students on board the bus," it said in a statement.
+The school district said the inert explosives, left behind by a CIA canine team, were inside a container and part of them apparently fell out into the engine space.
+==========
+Reddit Deletes Surveillance 'Warrant Canary' In Transparency Report (reuters.com)
+Posted by BeauHD on Friday April 01, 2016 @07:30AM from the deductive-reasoning dept.
+Arthur Dent '99 writes: Today, Reddit deleted wording in its transparency report that would normally indicate that they had not received any "national security letters" or "other classified requests for user information."
+Such "national security letters" contain penalties for telling others about the request, as the government wishes to keep the request secret.
+However, because Reddit had placed pre-existing wording in their transparency report in the event of such a letter, they were able to simply delete the existing wording to passively inform others that a request had been received, without actually saying anything at all.
+This usage of pre-existing wording is known as a "warrant canary" to indicate danger, such as real canaries were used in the past to indicate the presence of deadly gases in coal mines.
+==========
+FCC Proposes New Restrictions On How Broadband Providers Share Data
+Posted by BeauHD on Thursday March 31, 2016 @07:41PM from the problematic-for-cable-providers dept.
+An anonymous reader quotes a report from The Verge: In a 3-2 vote, the FCC agreed to propose new privacy rules for broadband providers like Comcast and Verizon, as part of the FCC's new powers under Section 222 of Title II.
+The proposal will now enter a comment period, in which providers and other stakeholders will weigh in, before the commission can vote on whether to approve it.
+==========
+Under the proposed rules, providers would have implicit permission to collect any data necessary for providing internet service, typically including name, IP address and other basic subscriber information.
+Unless the customer opts out, providers would also be able to collect and share data specifically for the purpose of marketing other communications services.
+Any other use of the data, like sharing it with third-party marketing programs, would require explicit consent from the customer.
+The rules would also institute new transparency and data security requirements.
+==========
+CloudFlare Wants Tor To Change Or Risk CAPTCHA Blockades (thestack.com)
+Posted by manishs on Thursday March 31, 2016 @10:00AM from the offering-helping-hand dept.
+An anonymous reader writes: CloudFlare's co-founder Matthew Prince has publicly appealed to work with the Tor Project on implementing a solution that will stop the high incidence of Tor users being challenged by CAPTCHAs whilst browsing.
+Prince proposes the implementation of a Tor plugin that would communicate with CloudFlare servers to provide temporary, anonymous identification to bypass the CAPTCHAs, and has presented the code on GitHub.
+Other possibilities mooted include the adoption of higher-level encryption, which would be likely to adversely influence a network which already has native (and inevitable) latency issues.
+CloudFlare's public post on the matter comes after five turbulent weeks of comments-section debate between CloudFlare and Tor, and seems to be an appeal for public arbitration on the matter.Prince further noted that 94% of the traffic CloudFlair sees is "per se malicious."
+==========
+From his blog post: That doesn't mean they are visiting controversial content, but instead that they are automated requests designed to harm our customers.
+A large percentage of the comment spam, vulnerability scanning, ad click fraud, content scraping, and login scanning comes via the Tor network.
+To give you some sense, based on data from Project Honey Pot, 18% of global email spam, or approximately 6.5 trillion unwanted messages per year, begin with an automated bot harvesting email addresses via the Tor network.
+CNBC Just Collected Your Password and Shared It With Marketers (pcworld.com)
+Posted by BeauHD on Wednesday March 30, 2016 @04:49AM from the irony-at-its-best dept.
+SpacemanukBEJY.53u writes: An article published by CNBC on Tuesday offered tips on how to create a secure password, complete with a form that tested submitted passwords.
+==========
+While well-intended, security experts said it exposed passwords to third-party advertisers.
+Also, the form created to test a password didn't use SSL/TLS, which meant someone on the same network could have sniffed it.
+Even worse, the tool claimed to not store the passwords, but an acute observer found they were actually being inputted into a Google Docs spreadsheet.
+==========
+CNBC quickly withdrew the article.
+Global Majority Backs a Ban On 'Dark Net,' Poll Says (reuters.com)
+Posted by manishs on Tuesday March 29, 2016 @06:40PM from the it's-hard-to-please-people dept.
+Alastair Sharp reports for Reuters: Seven in 10 people say the 'dark net' -- an anonymous online home to both criminals and activists fearful of government surveillance -- should be shut down, according to a global Ipsos poll released on Tuesday.
+The findings, from a poll of at least 1,000 people in each of 24 countries, come as policymakers and technology companies argue over whether digital privacy should be curbed to help regulators and law enforcement more easily thwart hackers and other digital threats.
+==========
+Chinese QQ Browser Caught Sending User Data To Its Servers
+Posted by manishs on Tuesday March 29, 2016 @10:40AM from the something-smells-fishy dept.
+An anonymous reader writes: A report from the Citizen Lab at the University of Toronto reveals that the popular QQ Browser is collecting sensitive user information and sending it in an insecure manner to its servers.
+The Android version is collecting data such as the user's search terms, browsing history, nearby Wi-Fi networks, and the user's device IMSI and IMEI codes.
+For the Windows version of QQ Browser, the app was caught collecting data such as the user's browsing history, hard drive serial number, MAC address, Windows hostname, and Windows user security identifier.
+All of this is sent unencrypted, or with a weak encryption, to Tencent's servers, QQ Browser's manufacturer.
+Additionally, the update process is flawed and delivered in an insecure manner that allows others to manipulate upgrade patches with malicious software.
+This is the third browser caught exhibiting this behavior after UC Browser and Baidu Browser.
+"You stay here, Audrey -- this is between me and the vegetable!"
+-- Seymour, from _Little Shop Of Horrors_
+Working...
+==========

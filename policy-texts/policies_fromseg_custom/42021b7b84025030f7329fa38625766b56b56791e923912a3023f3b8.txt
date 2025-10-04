@@ -1,0 +1,87 @@
+ExpressVPN’s core mission is to enable customers to use the internet privately and securely with the help of a VPN.
+We’re not only committed to safeguarding your privacy, but also are transparent about the information we do and don’t collect.
+We keep no activity logs and no connection logs.
+And we invite independent auditors and testers to review our privacy policy and technology.
+==========
+ExpressVPN does NOT and WILL NEVER log:
+IP addresses (source or VPN)
+Browsing history
+Traffic destination or metadata
+DNS queries
+We have carefully engineered our apps and VPN servers to categorically eliminate sensitive information.
+As a result, ExpressVPN can never be compelled to provide customer data that does not exist.
+What ExpressVPN collects and why:
+As outlined in our Privacy Policy, ExpressVPN collects minimal information about your usage of our services:
+Apps and app versions successfully activated
+Dates (not times) when connected to the VPN service
+Choice of VPN server location
+Total amount (in MB) of data transferred per day
+None of the above data enables ExpressVPN or anyone else to match an individual to specific network activity or behavior.
+We are unable to answer questions related to data that we do not possess, such as how a customer has used our VPN service.
+==========
+Why does ExpressVPN need to collect any information at all?
+To troubleshoot technical issues related to ExpressVPN apps
+To provide technical support to customers, identify connection problems, and give country-specific advice on how to use our service
+To enable ExpressVPN engineers to identify and fix network issues
+ExpressVPN also collects anonymized analytics data such as speed test data, connection failures, and crash reports.
+These diagnostic reports do NOT tie back to individual users because we’ve engineered our apps to never know which user sends which data.
+==========
+You can specify in the settings menu of any ExpressVPN app whether you wish to send this data to us.
+What ExpressVPN does not and will never collect:
+ExpressVPN does not keep activity logs or connection logs from our users.
+Here’s what that means:
+No activity logs.
+ExpressVPN does not see, record, or store which websites you visit.
+==========
+We never log the destination or contents of your traffic, and we run our own private, encrypted DNS on every VPN server for added privacy and anonymity.
+No connection logs.
+ExpressVPN never logs connection timestamps, session duration, your source IP address, or the ExpressVPN IP address that your computer assumes when connected to the VPN.
+==========
+ExpressVPN takes your privacy seriously.
+Our commitment to your privacy means we never keep sensitive information and eliminate both activity logs and connection logs.
+Our systems are built around NOT knowing how customers use our services.
+==========
+ExpressVPN cannot answer questions like “Which users were connected to a given IP address at a specific time?”
+or “Which users accessed a particular website?”
+==========
+because we simply never possess that data.
+Other VPN providers claim “no logs” on their privacy policies without going into much detail.
+==========
+Do they know if customers manage to use their apps successfully?
+Can they enforce a limit on simultaneous usage from more than five devices?
+==========
+If a provider claims to “know nothing” but won’t answer simple questions about what they specifically do or don’t know, then it would be reasonable to question their claims of “no logs.”
+Unfortunately, most providers lack transparency when it comes to what matters most to VPN users: your privacy.
+==========
+To protect our customers’ privacy, ExpressVPN only keeps the bare minimum information required to operate a highly reliable VPN service at scale.
+For more details, please review ExpressVPN’s Privacy Policy.
+In addition, independent audit professionals from PwC exhaustively examined our code and interviewed our team members in order to confirm whether our VPN servers were in compliance with our privacy policy, including our policy of not collecting activity logs or connection logs.
+==========
+The audit also checked that TrustedServer technology operates as we’ve described.
+Learn more about the independent audit report.
+==========
+ExpressVPN supports the fight for digital rights
+ExpressVPN is committed not only to providing a private VPN service to help people all over the world be more anonymous, but also to supporting the cause of privacy itself.
+Offshore VPN based in the BVI
+ExpressVPN is based in the British Virgin Islands (BVI).
+BVI law affords more privacy and anonymity than U.S. or European law, making ExpressVPN an ideal offshore VPN.
+Learn more about the BVI.
+Private VPN apps for every device
+ExpressVPN has easy-to-use VPN apps for every device and VPN extensions for your favorite browsers:
+Check out these manual configurations and setup tutorials for a wide range of other devices and platforms.
+The ExpressVPN apps make it easy for anyone to enjoy a fast, private internet connection without worrying about logging of your sensitive information.
+==========
+Learn more about using a VPN
+What is a VPN?
+Get to know how a VPN protects your online traffic from snooping
+Learn more
+30
+DAY
+MONEY-BACK GUARANTEE
+Need a VPN that doesn’t keep connection or activity logs?
+==========
+Try ExpressVPN risk-free for 30 days.
+If you’re not satisfied with ExpressVPN’s fast, private VPN service for any reason, contact Support within 30 days and get a full refund.
+It’s that simple.
+Get ExpressVPN
+==========

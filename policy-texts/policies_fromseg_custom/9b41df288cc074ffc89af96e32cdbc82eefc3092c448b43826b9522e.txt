@@ -1,0 +1,121 @@
+Remerge Service Privacy Policy
+Remerge GmbH, Remerge Inc. and Remerge KK (collectively, “remerge” or “we”) respect your privacy and are committed to protecting it through our compliance with this policy.
+This privacy policy governs and details the main privacy principles we apply to the data we receive from advertisers (the “Controller” in terms of the applicable data protection regulations) and process through our service, where remerge is processor of data.
+You may retrieve corresponding information and the contact details of remerge GmbH the address or commercial register data from our imprint at https://remerge.io/imprint.html.
+To access our privacy policy governing our website, please click here.
+If you are an advertiser and wish to engage in business with us, please make use of our template Data Processing Agreement (“DPA”) located at https://remerge.io/dpa.html and including as Annex 1 our Technical and organizational measures to ensure the security of processing, also referred to as “TOMs” as well as our list of Sub-Processors as Annex 2.
+==========
+What We Do
+Remerge specializes in delivering display app retargeting campaigns for mobile app developers inside other apps that are relevant to the user.
+To do so, we do not collect any data from data subjects directly but receive user data from the Controller who wants to promote its product.
+We bid on real-time-bidding platforms where inventory inside other apps is auctioned resulting in the advertisement of the Controller being delivered to the inventory.
+The advertisement revenues generated enable our partnering publishers and developers to provide content-rich services that are more relevant to their users, supporting them to offer their app or service for free or at a subsidized cost.
+==========
+Opt-Out
+If you as a user want to opt-out of what we do, please refer to your operating system settings, or follow instructions below:
+Android Users (version 2.3 and above)
+To use the “opt-out of interest-based advertising” option, follow the instructions provided by Google here: Google Play Help.
+If you don’t have the Google Play Services installed on your device, you won’t receive remerge’s services.
+iOS users (version 6 and above)
+To use the “Limit Ad-Tracking” option, follow the instructions provided by Apple here: Apple Support Center
+Please note that these are device settings and will disable interest-based ads from all providers, and not just for us.
+We have decided to offer this way of opting-out, as we estimate users will either want to receive interest-based advertising or no interest-based advertising at all.
+==========
+The above described way is most efficient to achieve that goal.
+While we do provide the possibility to opt-out of remerge processing only, that would only mean that someone else but us would deliver the exact same advertisements.
+How We Do It (data collection and use)
+First off, we do not know who you (as a user) are.
+==========
+This has some implications.
+For once, we have no direct relationship with the Controllers’ users whose information we process.
+A user of a Controllers’ app, who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Controller directly as the Controller is the body collecting the data.
+==========
+If a user wishes us to stop being considered for interest-based advertising please refer to the section about opt-out of tracking above or check the section Your (EU) Data Subject Rights below.
+That said, we receive, and process data solely provided by the Controller.
+The Controller determines the purposes and means on how we process users’ data.
+We have established several technical and legal measures to safeguard that the Controller’s users have given their consent for our processing.
+Data we receive from the Controller widely differs.
+We typically only receive
+
+mobile identifiers such as the ID for Advertising for iOS (IDFA), Google Advertising ID
+
+However, from time to time the Controller may decide to relay further, so-called attribution data to us, which typically relates to the behavior of users inside the Controllers’ apps and may include:
+
+installation and first opening of an app on user’s mobile device
+user interactions within an app (e.g. in-app purchases, registration)
+information regarding which advertisements users have seen or clicked on
+certain metadata, such as timestamp, device type and model, app and app version, country
+
+We do not work with or knowingly receive sensitive personal data or data that we consider to be sensitive, such as:
+
+health data
+data coming from children under the age of 13
+sensitive financial data
+adult-oriented products or services’ data
+highly accurate location data from GPS or similar
+Whenever data is received by us, that we do not work with, it is instantly deleted, as we whitelist only the types of data, that we do work with.
+We do not share or disclose the user data with anyone else except in response to lawful requests by public authorities, including national security or law enforcement requirements.
+We store the data only as long as the Controller has appointed us to deliver our service or the Controller has informed us on the withdrawal of the user’s consent.
+==========
+The Purpose
+We process the information we received from the Controller for the purpose of displaying interest-based advertising customized to users’ inferred interests or preferences but also in aggregated form for the purpose of performing analysis aiming to improve our services and technologies.
+The information helps us to provide targeting options for Controllers.
+This filtering procedure also leads to serving advertisements that are most likely interesting for app users.
+Further to that, we use the data received in aggregated form to analyze the performance of an advertising campaign for the Controller and to provide Controllers with performance reports.
+We are unable to combine the data we receive in a way that would enable us to personally identify users and we do not combine the data with any third party data that would enable us to do so.
+==========
+Data security and retention
+The security of information is fundamental to remerge.
+We have implemented physical and technical industry-standard security measures, which don’t stop at using firewalls and encryption to protect your personal information.
+You may ascertain yourself of the measures in place by reading Annex 1 of our template DPA stating our Technical and organizational measures to ensure the security of processing located at https://remerge.io/dpa.html.
+However, as no method of transmission over the Internet, or method of electronic storage, is 100% secure, we cannot guarantee absolute security.
+If you have any further questions about the security of your personal data, you may contact us at privacy@remerge.io.
+==========
+Whenever we receive data from the Controller, the data is provided to us either through our client dashboard or API and occurs in encrypted form.
+Whenever we transfer data received from the Controller, the transfer is at all times limited to the pseudonymous ID for Advertising for iOS (IDFA), Google Advertising ID or similar mobile identifiers, should they come into place.
+We do not transfer any of the other information that we may receive from the Controller.
+==========
+Whenever we transfer data, we use transport encryption.
+Whenever data is at rest, we encrypt the data.
+We transfer the data only to our own dedicated servers at data center providers that fulfil the highest physical and technical security standards and we have GDPR compliant data processing agreements in place with each provider.
+==========
+A comprehensive list of our Sub-Processors can always be found in Annex 2 of our template DPA located at https://remerge.io/dpa.html.
+We will retain your information for as long as the Controller’s account with us is active or as needed to provide the Controller with services, whichever is shorter.
+We will delete personal data immediately when the Controller informs us that the user has withdrawn consent.
+We will however retain and use information as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+==========
+Your (EU) Data Subject Rights
+Remerge is committed to assist its Controllers as to data subjects’ rights under GDPR.
+Please note that under the GDPR we process data as processor and not as a Controller.
+As a processor, we are obliged and committed to assist the Controller to fulfill data subjects’ GDPR rights.
+Therefore, if users wish to exercise their rights under the GDPR or have any questions in this matter, please contact the relevant Controller directly.
+Whenever needed and upon request, we will assist the Controller.
+==========
+Users may identify the respective Controller of the user’s data as follows: The Controller either is the advertiser of the advertisement that has been shown on the user’s device or the app developer of the app the advertisement was shown in.
+Our position as a processor does not limit the user’s right to lodge a complaint with a data protection supervisory authority.
+Accessing your data
+We provide the Controller access to a dashboard and API where the Controller may enter the user’s advertising identifier and where we have a system in place to delete the advertising identifier and any information associated with such identifier from our systems.
+In any event, users may yet contact us at privacy@remerge.io to seek help on how to figure out and contact their respective Controller to request from the Controller access to their personal data and request deletion or correction.
+As we do not store or associate the advertising identifiers with any personal information, but still need to identify the user, to process such request, we need the user to state its advertising identifier, accessible through its mobile device, depending on operating system and version used.
+We would further require the user to evidence, that such advertising identifier is its, to protect the user’s and other users’ data from manipulation or deletion by third parties.
+And last but not least, we would require the name of the App the advertisement was shown in or the brand or product that was advertised.
+Please keep in mind, that we do have to protocol and document such requests and you obviously would leave us with a lot more information than we previously might have had about you.
+==========
+Legal Disclaimer
+We reserve the right to disclose or transfer your personal information as required by law (based on Art. 6 (1) f) GDPR), as part of a merger, acquisition, dissolution or sale of assets, and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process.
+You will be notified via email and/or a prominent notice on our website of any change of ownership, uses of your personal information, and choices you may have regarding your personal information.
+We may also disclose your personal information (based on Art. 6 (1) c) GDPR) when we believe in good faith that disclosure is necessary to protect your safety or the safety of others, investigate fraud or respond to a government request.
+We may also disclose your personal information to any other third party with your prior consent.
+==========
+However, if and to the extent storage rights or duties are stipulated by law, we will block the corresponding data from any further use.
+Contact Information
+To ask questions about or to comment on this privacy policy and our privacy practices, contact us at: remerge GmbH, Oranienburger Strasse 27, 10117 Berlin, Germany or by sending an email to privacy@remerge.io at any time.
+You may also contact our data privacy officer directly: Ilan Leonard Selz, Am Hamburger Bahnhof 4, 10557 Berlin or berlin@isico-datenschutz.de
+Changes to our Privacy Policy
+Please note that we may update or change this privacy policy.
+If we revise our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+==========
+If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective.
+Please regularly check the Remerge website www.remerge.io for the latest version of the privacy policy.
+Effective Date: 2018/05/25
+==========

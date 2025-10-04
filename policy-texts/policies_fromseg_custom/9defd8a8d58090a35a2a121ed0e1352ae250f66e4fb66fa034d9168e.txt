@@ -1,0 +1,182 @@
+1.
+Introduction
+Carbon is the Revenue Management Platform operated by Carbon (AI) Limited (“us”, “we”, “our” and includes our Group Companies and affiliates) and our clients, IntentMatch is our Intent based Ad delivery Platform and AdIQ is our real-time Ad Unit optimisation tool.
+==========
+Our vision is to support an advertising funded internet by allowing our Publisher clients to deliver personalised advertising to your devices and measure its value and performance in return for the free content they provide.
+As an internet user you should see more relevant advertising where our platform is in use.
+==========
+We are committed to protecting the privacy of our users and we never process data which allows you to be identified as an individual such as name, email or postal address unless we have your consent to do so.
+This policy is intended to inform you how we, Carbon, our partners and our clients collect, use and disclose your information along with your options for managing your preferences.
+This policy does not apply to our partners and clients who each have their own privacy policies covering their use and disclosure of information.
+==========
+As part of our commitment to privacy, We are a member of the Network Advertising Initiative (“NAI”)  and participate in the Digital Advertising Alliance (“DAA”) self-regulatory program.
+We adhere to each of their codes of conduct and principles and you can learn more at the NAI about interest based advertising and how to opt out of receiving targeted advertising from any of their members.
+==========
+We will review and update this Policy from time to time to reflect any legal or technical changes required.
+Your continued use of our websites or the websites of third parties after an amendment to this or their policy shall be deemed to be your continued acceptance of the updated terms.
+You should periodically review this Policy so that you remain up-to-date with any changes made.
+==========
+For the purposes of the Data Protection Act 2018 (the “Act”) and any applicable legislation replacing or amending the Act, we are the Data Controller.
+Any processing by us or Carbon is compliant with regional privacy laws and if you have any questions you can contact us at privacy@carbonrmp.com.
+2.
+==========
+How we collect information
+We and our partners use the following common online technologies to collect information from your web browser usage:
+Cookies
+Small text files containing a string of characters used to identify a specific Internet browser.
+Non-cookie based IDs
+Identifiers stored in a browser’s cache in order to persistently identify the same user.
+Pixels/beacons
+JavaScript, iFrames or transparent images.
+==========
+Statistical IDs
+A probabilistic method of identifying a device based on a set of its characteristics that have a reasonable likelihood of being unique in aggregate (e.g. using a hash of the IP address, user-agent string and screen resolution).
+Hashed Email addresses
+A standard process of converting a directly identifiable email address to an encrypted version which is consistent and anonymous but cannot be reversed.
+We also use secure server-to-server connections with some of our partners and third parties to collect information using a mechanism called “cookie syncing” where we and our partner/third party use a “match table” to append information collected based on different Identifiers into our Platform.
+3.
+==========
+What Information do we store and process?
+We store and process information about your online activity and the devices that you use in accordance with regional legislative requirements such as the GDPR and the CCPA.
+==========
+Information is collected by us or our partners and includes the following:
+Device Information
+Includes operating system and version, device type, make and model, data connection type and ISP (Internet Service Provider).
+Identifiers
+Includes IP addresses, cookies, hashed email addresses, non-cookie or statistical identifiers.
+Browser information
+Includes language preferences, user agent string, browser type (e.g. Chrome or Safari) and version.
+Activity information
+Includes the referring website address, date and time of visit, visited domain and page content, frequency and duration of visit, on-page or in-app activity (such as click-out data, search keywords and ads viewed), non-precise location information such as Country and City and real-time bid information (a Publisher auctions advertising units to Advertisers which results in the exchange of information regarding the ad unit such as type and format and information regarding the auction such as the advertisers bidding and the winning cost).
+Consent information
+Consent/privacy choices strings/signals depending on the relevant country laws, for example the iab TCF (Transparency and Consent Framework) consent strings in the EU/EEA to meet the requirements of GDPR and the US Privacy string to meet the requirements of CCPA.
+==========
+Inferred information
+By analysing your activity over a period of time we create and store information about your level of affinity with segments (a segment is a group of Identifiers who have one or more characteristics in common) or demographics; for example your pattern of browsing history for the last week indicates that you are likely to buy a new television soon or that you are a long time fan of a particular sport/team.
+Third party information
+We receive information from third parties which we append to your profile using a common Identifier and can include your interest or intent for categories of data (e.g. automotive or gardening) as well as demographic signals (e.g. gender and age range).
+==========
+Sensitive information
+We do not knowingly collect or infer any Sensitive information including ethnicity, political opinions, religious or philosophical beliefs, trade union membership or personal data concerning your health, sex life, sexual orientation or genetic/biometric data We do not knowingly collect any personal data about children, financial account numbers, insurance plan numbers and criminal convictions/offenses.
+We do collect or infer some non-sensitive health or financial data, such as skin-care products and dietary requirements; those segments are listed here.
+==========
+Third Party information
+Your activity on any other website is subject to that third parties own privacy policy and we do not monitor, control or endorse the information collection or privacy practices of those third parties.
+We encourage you to become familiar with the privacy practices of every website you visit or third party service provider that you deal with and to contact them if you have any questions about their respective privacy policies and practices.
+Additional information
+If you browse our corporate website (www.carbonrmp.com) you may provide your email address and if you are a Carbon client you will provide us with additional personal information.
+4.
+==========
+How we use your Information
+We use your information for the following:
+Aggregation, analytics and profiling
+Combine the Device, Browser and Activity information that we or our partners collect from you with Third Party information in order to build a more detailed profile of you and your interests.
+We may also enrich your profile with Inferred data and may link together multiple profiles which we believe to be yours across different browsers and devices.
+Pre-packaged audiences
+By analysing your profile our platform will include you in audiences that we make available to our Publisher clients to use if they choose.
+Modelling
+We may combine your de-identified profile with many others in order to infer relationships between Activity and intent segments / demographics and build statistical models.
+==========
+Cross-device matching – to support a unified advertising experience across the multiple devices you may use.
+We use a combination of mathematical techniques to infer the likelihood that multiple devices belong to the same user or household.
+R&D
+To improve our platform and conduct internal research and development.
+==========
+And your information is used by our Publisher clients and partners for the following:
+– Custom audiences – include you (your Identifiers) in audiences for advertiser campaigns which they believe you will respond to based on your profile.
+Personalised advertising
+Based on which audiences you belong to, deliver targeted advertising to you on your devices on their Publisher site(s) and across the internet (this includes interest based advertising, re-targeting and cross-platform targeting).
+Measurement
+Analyse and improve the effectiveness of campaigns.
+==========
+If you browse our corporate website and provide your email address we will send you marketing information about products and services we offer.
+We may also pass your information to one or more selected third parties for marketing purposes.
+If you are a Carbon client we will use your information to provide our platform and services to you.
+You can find more information about how personalised advertising works by visiting http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
+==========
+Legal basis for EU processing
+Any personal information from EU data subjects is processed by us under the consent provisions of the GDPR.
+At the point that your information was provided to us or our partners you will have indicated your privacy/consent preferences through the use of a Consent Management Platform as operated by our Publisher clients or partners (or as evidenced by an appropriate consent string accompanying your information).
+5.
+==========
+Opting out
+There are a number of ways you can opt-out of personalised advertising, however you will still see online adverts but they may be less relevant to you as they will no longer be based on your interests.
+Please also be aware that different devices and browsers use different technologies so you will need to follow the process for all devices and browsers that you wish to opt-out from.
+Browser Opt-out
+To opt-out of personalised advertising by us and our partners as a result of our platform you can click https://carbondmp.com/ads/ and follow the instructions there.
+Your choice is only applied to the browser you are using at the time and our opt-out mechanism uses either a third-party or first-party cookie so if these are not enabled in your browser or if you use certain ad-blocking tools our mechanism may not work correctly (though we will remove any statistical or non-cookie identifiers present at the time of opt-out).
+Please also note that deleting your cookies is not the same as opting out and if you clear your cookies you will need to renew your opt-out choice.
+You can also opt-out from multiple companies who participate in the following:
+Digital Advertising Alliance Consumer Choice – www.aboutads.info/choices
+Network Advertising Initiative – www.networkadvertising.org/choices
+Mobile Opt-out
+If you use an iOS device you may choose to “Limit Ad Tracking” within your settings or for Android devices you may choose “Opt out of Interest-Based Ads” also in the settings menu.
+==========
+You can also find more information at http://www.networkadvertising.org/mobile-choice on how to opt-out for most of the major mobile operating systems.
+Cross-device Opt-out
+To effectively opt-out of cross-device targeting you must opt-out on every device and browser using the methods above.
+==========
+Unsubscribe from our email marketing
+If you previously submitted your email address on our corporate website but no longer wish to receive marketing emails you can either follow the unsubscribe instructions in the most recent email received from us.
+Please be aware that it may take up to 72 hours for your details to be removed from our marketing communications systems.
+==========
+If you are a Carbon client and opt-out of email marketing, we will still send you emails that are required for us to deliver our services to you and meet our contractual obligations.
+“Do Not Track”
+Some browsers are able to send a request to websites to not collect or track browsing activity (“Do Not Track”).
+However, there are currently no industry standards defined regarding the use of those signals and as a result we do not honour “Do Not Track” signals.
+You can find more information here – https://allaboutdnt.com/
+If you have any questions about how to opt-out of personalised advertising, please contact us at privacy@carbonrmp.com.
+7.
+==========
+Your Rights
+We recognise that in accordance with data protection laws in various countries that you have certain rights in relation to your personal information.
+In order to exercise those rights you can complete a Subject Access Request form (https://carbonrmp.com/subject-access-request/) and we will respond to your request within 72 hours of receipt and will fully process your request within 30 days.
+Depending on your request, we may need you to provide additional information which allows us to confirm your identity as a security precaution to ensure that we only share personal information with the correct person.
+==========
+You can also email privacy@carbonrmp.com if you have any questions regarding your information and exercising your rights.
+EU Data Subjects
+If you are located within the European Union you have certain rights under Chapter III of the GDPR:
+Receive a copy of any personal information we hold about you.
+Ask us to update or correct any incorrect personal information we hold
+Request deletion of your personal information
+Object to us processing your personal information
+Withdraw previously provided consents
+Your right to data portability for personal information you provided directly to us
+Submit a complaint to the supervisory authority in Europe
+You can submit a complaint to the Information Commissioner’s Office (ICO) here – https://ico.org.uk/make-a-complaint/ and you can either submit a Subject Access Request form or email us at privacy@carbonrmp.com to exercise your other rights.
+==========
+You can withdraw any previously provided consent by re-visiting the website on which you originally consented and either updating your choices on their Consent Management Platform or by reviewing their privacy policy for guidance.
+California residents
+If you are located within the State of California you have certain rights under the California Consumer Privacy Act (CCPA):
+The right to know what information we store about you and your devices.
+The right to delete the information we store about you and your devices.
+The right to opt-out of the sale of your information to third parties.
+==========
+We will not discriminate against you in any way if you choose to exercise your rights under CCPA.
+You can opt out of the sale of your personal information by emailing us at privacy@carbonrmp.com or you can submit a Subject Access Request form to exercise your other rights.
+For the purpose of CCPA, we have sold all categories of personal information collected for certain processing purposes over the previous twelve months.
+8.
+==========
+When We Transfer Your Information
+The information that we and our partners collect from you may be transferred and stored in a country other than the country of origin.
+When doing so we will ensure that the level of protection of your personal information is not reduced and such transfers shall be contractually protected using standard EU approved model contract clauses where appropriate.
+We follow appropriate security procedures in the storage and transfer of your personal information so as to prevent unauthorised access by third parties.
+We also require those parties to whom we transfer personal information to comply with the same.
+==========
+However, unfortunately, the transmission of information via the Internet is not completely secure.
+So, we cannot ensure the security of your personal information transmitted via the internet.
+Any such transmission is at your own risk and you acknowledge and agree that we shall not be responsible for any unauthorised use, distribution, damage or destruction of your personal information, except to the extent we are required to accept such responsibility by law.
+9.
+==========
+Children
+Our products and services are not designed for or intended to be used by Children (where a Child is defined as under the age of 16) and we do not knowingly collect personal information from Children.
+If you notify us that we have received personal information from your Child without your consent we will use reasonable efforts to remove that information from our Platform.
+10.
+==========
+Data Retention Period
+We retain the data collected for our products and services for the purpose of personalised advertising for up to 90 days from the date of the last user interaction.
+Aggregated or de-identified data is used for reporting and analysis, and may be retained for up to two years.
+11.
+Changes to this Privacy Policy
+From time to time we may update this Privacy Policy and will post the revised Privacy Policy here, noting the Effective Date for the revised Privacy Policy at the top of the page.
+==========

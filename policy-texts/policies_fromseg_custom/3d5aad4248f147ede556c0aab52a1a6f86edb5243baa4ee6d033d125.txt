@@ -1,0 +1,82 @@
+Privacy Policy
+This privacy policy applies to the European Union citizens protected by the GDPR legal framework.
+Pub Ocean considers the protection of Internet user data privacy to be of utmost importance, and adheres
+        strictly to the data privacy laws of the European Union and United Kingdom.
+Pub Ocean's web traffic measurement and analytics platform ("RTA") acts as a data processor on behalf of the
+        publishers who installed the RTA tracker on their web sites.
+No data to third parties
+Pub Ocean RTA does not pass any data to third parties.
+==========
+IP addresses
+
+        The IP address is sent with every request, so that the server knows where to send its responses.
+Each Internet
+        user attains an IP address from an Internet service provider (ISP) as soon as they connect to the Internet.
+The
+        ISP knows which IP addresses were used at which time and by which Internet user.
+The law requires that the ISP
+        retains this information.
+==========
+Pub Ocean does not store full IP Address.
+We use full IP address for geographic analysis (IP2Geo mapping).
+After
+        the process is completed last octet of the IP address is set to zero.
+The geographical analyses function via a database that contains the IP address information of various ISPs with
+        the geographic location of the IP address included down to the city level.
+The individual address of the
+        Internet user is unknown.
+==========
+Cookies and Local Storage
+
+        Cookies and local storage that RTA sets are so-called "session cookies".
+These cookies (and local storage
+        entries) do not cause any harm to the Internet userâ€™s hard drive and do not contain any viruses.
+This data
+        cannot be associated with individual people.
+RTA uses the following cookies:
+
+
+            Session details (used for session recognition; duration is a session) - stored in browser local storage,
+        
+DeviceID cookie - expires after 30 days.
+Disclaimer for Data Storage
+
+        To be excluded from tracking while on the websites that uses RTA, a cookie called rtaOptOut can be set from the
+        domain pubocean.com
+    
+This exclusion from tracking is only good so long as the OptOut cookie is not deleted.
+==========
+To prevent further tracking of your activity on RTA-operated websites, please click here:
+        http://rta.pubocean.com/api/v1/metrics/opt-out.
+Opt-out means that your device identifier (from cookie) will not be stored.
+The session data used for the
+        measurement purposes will still be collected.
+==========
+Data Protection Inquires
+
+        Your trust is important to us.
+If you have any questions regarding Data Privacy or our Data Privacy policy
+        please get in touch with PubOcean Data Protection Team via dataprotection@pubocean.com.
+The following data is collected:
+
+time of the visit,
+page view identifier,
+session identifier,
+landing page query parameters (UTMs, GCLID, etc),
+page view url,
+content details (content title, author, category, etc.),
+ip address with last octet set to zero,
+device identifier (if only explicit consent has been provided, implicitly the consent is not provided),
+client headers: user agent, languages and referer,
+browser details (family, version),
+browser language,
+screen resolution,
+browser window resolution,
+advertising partners' response details,
+geo data derived from IP address (country, city, approximate location),
+
+Last updated: 2018-05-24
+
+
+;
+==========

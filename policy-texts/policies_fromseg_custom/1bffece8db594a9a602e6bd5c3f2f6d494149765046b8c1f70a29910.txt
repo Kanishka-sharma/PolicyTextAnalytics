@@ -1,0 +1,216 @@
+TERMS OF SERVICE
+Last Updated November 5, 2013
+THIS DOCUMENT CONTAINS THE TERMS OF SERVICE THAT GOVERN YOUR USE OF FASTLY SERVICES.
+Fastly Services are offered by Fastly Inc., with a mailing address of PO Box 78266, San Francisco, CA 94107, USA.
+Fastly, Inc. ("Fastly", "us", "our", and/or "we") have proprietary rights in services that we offer customers ("Customer", "you", and/or "your") under these Terms of Service.
+"Parties" refers to both Fastly and Customer, "Party" to either individually.
+==========
+Agreement.
+BY ACCESSING FASTLY SERVICES YOU AGREE TO BE LEGALLY BOUND BY THESE TERMS OF SERVICE.
+IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS OF SERVICE, DO NOT USE FASTLY SERVICES.
+Remedy.
+YOUR REMEDY FOR DISSATISFACTION WITH FASTLY SERVICES IS TO STOP USING FASTLY SERVICES.
+==========
+Changes to Terms of Service.
+We may change these Terms of Service at any time without notice to you.
+We will post changed terms on the website and change the "last updated" date.
+Changed Terms of Service become effective upon your first use of Fastly Services after changed Terms of Service have been made available.
+CHECK THE WEBSITE REGULARLY TO VIEW THE CURRENTLY-EFFECTIVE TERMS.
+==========
+DEFINITIONS
+"Intellectual Property Rights" means all patents, copyrights, design rights, trade marks, service marks, trade secrets, know-how, database rights and other rights in the nature of intellectual property rights (whether registered or not), and all applications for the same which may now, or in the future, subsist anywhere in the world, including the right to sue for and recover damages for past infringements.
+"Cached Data" means the data objects from your website that the Fastly CDN Service delivers to your end users, whether those objects are delivered from a cache server in a Fastly POP or delivered directly from your website and are only transmitted via the Fastly CDN Service.
+"Transmitted Data" means Cached Data that is only transmitted via the Fastly CDN Service from your website to your end users and is not stored in the Fastly POPs.
+"Service Materials" refers collectively to the Fastly Service Guide, the Fastly Website, the rules and/or guidelines contained in Fastly-provided service documentation, writings by Fastly staff on Fastly-official Blog postings and Wiki pages, Fastly staff responses to Service Tickets, Fastly-accepted Training Materials, Fastly-written Release Notes, and other Fastly materials that inform customers how to configure settings to invoke specific features and operations.
+The "Fastly CDN Service" is the service we provide that makes the transmissions of your Cached Data more efficient by caching it (automatically storing a copy of Cached Data at one or more intermediate locations – called POPs for Points of Presence – on a temporary basis) and delivering it from those locations to your end users, who generate requests for your Cached Data by accessing and using your website.
+==========
+"Control Panel" refers to the management applications that let you (i) define via a user interface how you want the Fastly CDN Service to operate with respect to the Cached Data from your website(s), and (ii) perform other management functions described in the Fastly Service Guide.
+"Fastly API" refers to the application programming interface that lets you define via program calls how you want the Fastly CDN Service to operate with respect to the Cached Data from your website(s).
+An API Key is required to use the Fastly API.
+"Fastly Website" is the website at www.fastly.com.
+At this website you: (i) create your Customer Account, (ii) log into your Customer Account, (iii) access the Control Panel, (iv) and obtain the API Key required to use the Fastly API.
+"Optional Services" are services that complement the Fastly CDN Service, and cannot meaningfully operate independent of it.
+==========
+Optional Services include support for SSL sessions, log record delivery to a syslog, historical reporting, and the like.
+Additional Terms and Conditions may apply to Optional Services; these are "Supplemental Terms".
+"Fastly Services" means (collectively) the Fastly CDN Service, Control Panel, Fastly API, Fastly Website, and Optional Services, plus other customer capabilities and service features we offer in the future.
+"Terms" refers collectively to these Terms of Service, the notices contained or referenced herein, the Supplemental Terms, and the Service Materials (defined above).
+==========
+"Customer Account" refers to the Fastly service management system instance under which you provision and manage your use of Fastly Services, and by which you are invoiced for your use of them.
+You specify a username and password and enter required and optional Customer Account Information when you create a Customer Account.
+A Customer Account may be for your personal use or for use by an organization.
+You log into a Customer Account from the Fastly Website, using the username and password you specified.
+After logging into a Customer Account you can access the Control Panel and obtain the unique API Key required to use the Fastly API.
+==========
+"Law" means any declaration, decree, directive, legislative enactment order, ordinance, regulation, rule or other binding restriction of or by any federal, state, municipal, regulatory authority, judicial or administrative body.
+TERMS
+CUSTOMER ACCOUNT.
+By creating a Customer Account for your personal use, you agree that you will comply with the Terms and you accept liability in the event of your non-compliance.
+By creating a Customer Account for an Organization, you warrant that you have the organization's authority to agree to these Terms on behalf of the organization, that the organization will comply with the Terms, and that the organization accepts liability in the event of their non-compliance.
+==========
+You are required to provide required information ("Customer Account Information") to create an account.
+You warrant that the Customer Account Information you provide is true, accurate, current, and complete.
+You agree to maintain and promptly update the Customer Account Information to keep it truthful, accurate, current, and complete.
+We reserve the right to change at any time the Customer Account Information required to create and/or maintain a Customer Account.
+==========
+We are not required to provide advance notice of you of such changes.
+If you do not provide newly-required information we may suspend or terminate your account.
+We are not liable to you or any third party should we exercise such right.
+==========
+You or your organization are solely responsible for maintaining the confidentiality of the Customer Account's username(s) and password(s), and for any and all acts or omissions that occur through the use of your or your organization's username(s) and password(s).
+You agree you will not allow individuals within your organization to use others' Customer Account's username(s) and password(s).
+You agree you will not allow any individual outside of your organization to use your organization's Customer Account, and we reserve the right to immediately terminate your account if you do so.
+==========
+The Customer Account Information you enter is available to Fastly employees who use it to provide you with Fastly Services and Support.
+It is transferred into and used by the business Applications such as SalesForce.com and Zendesk that Fastly uses and may be visible to third party staff providing Fastly support for such applications.
+You agree to the transfers and uses noted in this paragraph, and you grant us the right to disclose your Customer Account Information in conformance with our Privacy Policy, which is specifically incorporated by this reference into these Terms.
+==========
+CACHED DATA.
+You agree you are solely responsible for the Cached Data that you configure the Fastly CDN Service to deliver for you, as you decide whether Cached Data objects on your website will be cached, for how long they will be cached, who can access them, whether they are to be encrypted when transmitted over the Internet, what level of encryption shall be used, and when the Cached Data objects are to be removed from the caching service.
+You agree to defend at your own expense any action against Fastly brought by any third party ("Claim(s)") that your Cached Data infringes any Intellectual Property Rights or other rights of any third party, and you agree to pay those costs and damages finally awarded against us in such action that are specifically attributable to such Claim or those costs and damages agreed upon in a monetary settlement of such Claim.
+You nevertheless agree that we have the right, at our sole discretion, to remove any Cached Data in the event we receive a notice that a third party believes that Cached Data infringes on a patent, trademark, trade secret, copyright, right of publicity, or other proprietary right of any party.
+==========
+You hereby consent to such removal and waive any claim against us arising out of such removal of content.
+You agree that we are, however, not responsible for any failure to or delay in removing such content, nor are we under any obligation to do so.
+PROPRIETARY RIGHTS.
+You acknowledge that we own all Intellectual Property Rights in the Fastly Services and Service Materials.
+We agree that, except as stated herein, each party shall retain all right, title and interest in and its respective patents, copyrights, trade secrets, trade names, trademarks (whether registered or unregistered), or any other intellectual property.
+==========
+We acknowledge that you solely own all Cached Data and that we acquire no right or interest in it as a result of this Agreement.
+LICENSED USE OF FASTLY SERVICES.
+We grant you a limited, non-exclusive, non-assignable or transferable license under Fastly's Intellectual property Rights to use Fastly Services and the Service Materials, subject to the limitations of this Agreement, to make the transmissions of your or your organization's Cached Data more efficient.
+In consideration you agree to pay the Fastly Services Fees as described below and comply with these Terms of Service.
+==========
+NO LICENSE TO RESELL, SUBLICENSE, DUPLICATE OR DISTRIBUTE AND YOUR WARRANTY.
+We do not grant you the right to resell or sublicense Fastly Services to any third parties, and you warrant that you will not do so.
+You are not authorized to sell, resell, reproduce, duplicate, copy or distribute to any third party any of the Service Materials you receive or to which you have access, and you warrant that you will not do so.
+==========
+YOUR RESPONSIBILITIES.
+You agree to pay the Fastly Services usage and other fees that you incur.
+You agree that it is your responsibility to configure Fastly Services using the Control Panel and/or the Fastly API so that Fastly Services deliver your Cached Data in the manner you want.
+You agree that you shall not assist third parties in obtaining access to the Fastly Services other than as required for you to use the Fastly Services as permitted by the Terms.
+You agree that you shall not reverse compile, disassemble, reverse engineer or otherwise reduce to human perceivable form the any of the capabilities of the Fastly Services.
+==========
+You agree that your use of Fastly Services is subject to all applicable laws and you agree to comply with them.
+FASTLY SERVICES FEES
+The Rates and Prices that apply to your use of Fastly Services are those reflected on the Fastly.com website under "Pricing", or as we otherwise agree in writing.
+"Writing" includes an email from a Fastly VP (or higher) individual.
+==========
+We will invoice you at the beginning of each month for fees incurred during the prior month.
+You agree to pay the amount due within fifteen (15) days after receiving our invoice, and that you will pay us 1.5% interest per month (or the maximum rate permitted by applicable law) from the date due until paid.
+We will add Sales and other such taxes to the amount of the invoice and you agree to pay those amounts.
+By entering a credit card's information using the Billing tab of the Fastly Control Panel, you authorize the card you enter to be charged automatically at the end of each month.
+There are no refunds or returns, however, billing errors will be promptly corrected.
+==========
+WARRANTIES.
+Your Warranty.
+You warrant to us that you and/or the organization that you have created a Customer Account for (a) have the power to perform your or its obligations under this Agreement, (b) that this Agreement is valid, binding and enforceable against you or it in accordance with the terms, and (c) that you or it will comply with all applicable laws and regulations regarding the performance of its obligations under this Agreement and your or its use of Fastly Services.
+Our Warranties.
+We warrant: (i) that Fastly is a validly existing entity in good standing under the laws of Delaware; (ii) that Fastly has full corporate power and authority to execute, deliver and perform its obligations under this Agreement; (c) this Agreement is valid, binding and enforceable against Fastly in accordance with the terms; and (d) Fastly will comply with all applicable laws regarding the performance of its obligations under this Agreement.
+Our Services Warranty.
+==========
+We warrant that Fastly Services shall perform in substantial conformance to the Service Materials.
+In the event of non-conformance, we alone determines: (i) if the non-conformance is due to the incorrect operation of the Fastly Service or due to the incorrect representation of the Fastly Service's intended operation in the Service Materials, and (ii) if the non-conformance is ‘substantial'.
+Disclaimer of Other Warranties for Fastly Services.
+The Fastly Services Warranty does not cover the results if you use Fastly Services in a manner contrary to the Service Materials.
+We shall not be responsible for any errors or omissions in, or improper operation or incorrectness of, the Fastly Service and/or the Service Materials.
+We shall not be responsible for any delays, breakdowns or interruptions in your use of the Fastly Services.
+The Fastly Services are provided on an "AS IS" and "AS AVAILABLE" basis WITH ONLY THE "SUBSTANTIAL CONFORMANCE" WARRANTY ABOVE, without ANY OTHER warranty of any kind, either express or IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OR THE WARRANTY OF NON-INFRINGEMENT.
+WITHOUT LIMITING THE FOREGOING, WE MAKE NO WARRANTY THAT THE SERVICES WILL (A) MEET YOUR REQUIREMENTS, (B) BE PROVIDED IN A MANNER THAT IS UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, nor (C) that THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES WILL BE EFFECTIVE, ACCURATE OR RELIABLE, OR (D) that THE QUALITY OF services will MEET YOUR EXPECTATIONS OR BE FREE FROM MISTAKES, ERRORS OR DEFECTS.
+WE MAY MAKE CHANGES TO THE FASTLY SERVICES AT ANY TIME WITHOUT NOTICE, HOWEVER, WE ARE UNDER NO OBLIGATION TO CHANGE THE FASTLY SERVICES.
+==========
+Disclaimer of Warranties for Service Materials.
+SERVICE MATERIALS ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OR THE WARRANTY OF NON-INFRINGEMENT.
+WITHOUT LIMITING THE FOREGOING, WE MAKE NO WARRANTY THAT THE SERVICE MATERIALS WILL (A) MEET YOUR REQUIREMENTS, (B) BE FREE OF TECHNICAL OR OTHER MISTAKES AND CONTENT ERRORS, INACCURACIES OR TYPOGRAPHICAL ERRORS, NOR (C) THAT THE SERVICE MATERIALS WILL BE ACCURATE OR RELIABLE, OR (D) THAT THE QUALITY OF SERVICE MATERIALS WILL MEET YOUR EXPECTATIONS OR BE FREE FROM MISTAKES, ERRORS OR DEFECTS.
+WE MAY MAKE CHANGES TO THE FASTLY MATERIALS AT ANY TIME WITHOUT NOTICE, HOWEVER, WE ARE UNDER NO OBLIGATION TO CHANGE THE SERVICE MATERIALS.
+==========
+LIMITATION OF LIABILITY.
+IN NO EVENT SHALL WE BE LIABLE TO YOU FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, INCLUDING LOST PROFITS OR REVENUE, LOST SAVINGS, LOSS OF USE OF THE FASTLY SERVICES OR ANY SUBPART THEREOF, BUSINESS INTERRUPTION, OR COST OF SUBSTITUTED FACILITIES, EQUIPMENT OR SERVICES, OR OTHER ECONOMIC LOSS ARISING OUT OF A BREACH BY US OF ANY OF OUR REPRESENTATIONS, WARRANTIES OR AGREEMENTS CONTAINED IN THIS AGREEMENT, WHETHER OR NOT WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND WHETHER ANY CLAIM FOR RECOVERY IS BASED ON THEORIES OF CONTRACT, NEGLIGENCE OR TORT (INCLUDING STRICT LIABILITY).
+YOU AGREE THAT IN NO EVENT SHALL OUR AGGREGATE LIABILITY TO YOU AND ANY OTHER THIRD PARTY IN CONNECTION WITH THE PERFORMANCE OF ANY OR ALL OF THE SERVICES ARISING IN CONNECTION WITH THIS AGREEMENT, REGARDLESS OF THE FORM OF CLAIM OR ACTION, EXCEED AN AMOUNT EQUAL TO THE TOTAL AMOUNT OF FEES YOU HAVE PAID TO FASTLY IN THE TWELVE MONTH PERIOD PRECEDING THE CLAIM.
+INDEMNIFICATION.
+Mutual Gross Negligence Indemnification.
+Either Party (the "Indemnifying Party") shall defend at its own expense any action against the other Party (the "Indemnified Party") brought by any third party ("Claim(s)") arising out of or in connection with its gross negligence or willful misconduct, and the Indemnifying Party will pay those costs and damages finally awarded against the Indemnified Party in such action that are specifically attributable to such Claim or those costs and damages agreed upon in a monetary settlement of such Claim.
+==========
+Cached Data Indemnification.
+Customer shall defend at its own expense any Claim that the Cached Data infringes any proprietary or other rights of any third party.
+Customer will pay those costs and damages finally awarded against Fastly in such action that are specifically attributable to such Claim or those costs and damages agreed upon in a monetary settlement of such Claim.
+Fastly Infringement Indemnification.
+Fastly shall defend at its own expense any Claim by a third party that (i) the Fastly Services infringe any proprietary or other rights of any third party and Fastly will pay those costs and damages finally awarded against Customer in such action that are specifically attributable to such Claim or those costs and damages agreed upon in a monetary settlement of such Claim.
+==========
+In the defense or settlement of the Claim, Fastly may obtain for Customer the right to continue using the Fastly Services, replace or modify the Fastly Services so that it becomes noninfringing or, if such remedies are not reasonably available, remove all infringing portions of the Fastly Services.
+Fastly shall have no liability if the alleged infringement is based on (a) a modification of the Fastly Services by anyone other than Fastly; (b) Customer's use of the Fastly Services other than as described in the Service Materials provided by Fastly; or (c) the use of the infringing Fastly Services or portions thereof that begins after Customer has received notice of the alleged or actual infringement from Fastly or any appropriate authority.
+THE FOREGOING STATES FASTLY'S ENTIRE LIABILITY FOR PATENT, COPYRIGHT, OR OTHER PROPRIETARY RIGHTS INFRINGEMENT OR MISAPPROPRIATION, AND STATES CUSTOMER'S SOLE AND EXCLUSIVE RIGHT TO INDEMNIFICATION FOR SAME.
+Indemnification Procedures.
+==========
+If any Claim is commenced against a Party entitled to indemnification under the Indemnification clauses above (the "Indemnified Party"), notice thereof must be given to the party that is obligated to provide indemnification (the "Indemnifying Party") as promptly as practicable.
+If, after such notice, the Indemnifying Party acknowledges that this Agreement applies with respect to such Claim, then the Indemnifying Party will be entitled, if it so elects, in a notice promptly delivered to the Indemnified Party, but in no event fewer than ten (10) days prior to the date on which a response to such Claim is due, to immediately take sole control of the defense and investigation of such Claim and to employ and engage attorneys reasonably acceptable to the Indemnified Party to handle and defend the same, at the Indemnifying Party's sole cost and expense.
+The Indemnified Party will cooperate, at the cost of the Indemnifying Party, in all reasonable respects with the Indemnifying Party and its attorneys in the investigation, trial and defense of such Claim and any appeal arising therefrom; provided, however, that the Indemnified Party may also, at its own cost and expense, participate, through its attorneys or otherwise, in such investigation, trial and defense of such claim and any appeal arising therefrom.
+The Indemnifying Party may not enter into any settlement of a claim that involves a remedy other than the payment of money without the approval of the Indemnified Party.
+After notice by the Indemnifying Party to the Indemnified Party of its election to assume full control of the defense of any such Claim, the Indemnifying Party will not be liable to the Indemnified Party for any legal expenses incurred thereafter by such Indemnified Party in connection with the defense of that Claim.
+If the Indemnifying Party does not assume full control over the defense of a Claim subject to such defense as provided in this Section, the Indemnified Party will have the right to defend the Claim in such manner as it may deem appropriate, at the cost and expense of the Indemnifying Party.
+==========
+CONFIDENTIAL INFORMATION
+Confidential Information.
+The Parties may each have access to information that is confidential to the other ("Confidential Information").
+"Confidential Information" of a Party means all information and documentation of that Party, whether disclosed or accessed by the other Party in connection with this Agreement, including: (i) with respect to Customer, all of the Cached Data; (ii) with respect to both Parties, the terms and pricing of this Agreement; (iii) any information developed by reference to or use of the Customer's or the Fastly's Confidential Information; and (iv) any other information clearly identified in writing at the time of disclosure as confidential.
+Exceptions.
+A Party's Confidential Information shall not include information that (i) is or becomes a part of the public domain through no act or omission of the recipient; (ii) was in the recipient's lawful possession prior to the disclosure and had not been obtained by the recipient either directly or indirectly from the disclosing Party as evidenced by the recipient's written records and the recipient has no obligation of confidentiality other than pursuant to this Agreement or any confidential agreement between the Parties entered into before the Effective Date; (iii) is lawfully disclosed to the other Party by a third party without restriction on disclosure provided that (a) such recipient has no knowledge that such information is subject to confidentiality agreement and (b) such information is not of a type or character that a reasonable person would have regarded it as confidential; or (iv) is independently developed by the recipient as documented by the recipient's written records, without reference to the Confidential Information of the disclosing Party.
+==========
+Use and Nondisclosure.
+The Parties agree to not to use the other's Confidential Information except in connection with the performance or use of the Fastly Services, the exercise of legal rights under this Agreement or as required by law.
+This obligation shall last during the term of this Agreement and for a period of five years after termination of this Agreement.
+The Parties agree, unless required by Law, not to make each other's Confidential Information available in any form to any third party or to use each other's Confidential Information for any purpose other than as permitted under this Agreement.
+Each Party agrees to take all reasonable steps to ensure that Confidential Information is not disclosed or distributed by its employees or agents in violation of the terms of this Agreement.
+If disclosure of Confidential Information is requested by a state or federal regulatory agency or as may be required by Law or judicial or administrative process (such as by oral questions, interrogatories, requests for information or documents in legal proceedings, subpoena, civil investigative demand or other similar process), the disclosing Party shall not disclose Confidential Information without first providing the recipient with reasonable prior written notice of such disclosure request or requirement so that the recipient may seek a protective order or other appropriate remedy or waive compliance with the provisions of this Agreement, unless the disclosing Party is prohibited by law from providing such prior notice to recipient.
+The disclosing Party shall reasonably cooperate with the recipient to preserve the confidentiality of the Confidential Information including, without limitation, by cooperating with the disclosing Party to obtain an appropriate protective order or other reliable assurance that confidential treatment will be accorded the Confidential Information.
+==========
+MARKETING ACTIVITIES.
+You agree that we may publicly list you (including your Company or Organization) as using Fastly Services on the Fastly website and in Fastly marketing materials, and may publicly announce the fact that you are using Fastly's CDN Services (iii) we may publish and send out materials containing your name and logo and / or trademark provided we comply with your organization's style guidelines for use of same.
+You agree that we may at our sole option, though subject to your providing us with appropriate materials, include on the Fastly website a link to the your website.
+You acknowledge (a) that we have no control over the content of your linked website, (b) that we have no control over the collection and usage of personal information by your website and (c) that we have no liability to you or any third parties for any activities conducted on Your website.
+==========
+GENERAL
+Assignment.
+We may freely assign our rights and obligations under these Terms of Use.
+If you have any type of unpaid account, you may not assign your rights and obligations under these Terms of Use to any party, and any purported attempt to do so will be null and void.
+If you have a paid account, you may not assign your rights and obligations under these Terms of Use to any party without our consent, and any purported attempt to do so will be null and void.
+==========
+Termination of Use.
+We acknowledge and agree that you may terminate your use of Fastly Services at any time, at your sole discretion, in the absence of a written agreement between you and us to the contrary.
+You acknowledge and agree that we may, in our sole discretion, for any reason or for no reason and with or without notice to you, suspend or delete your Customer Account and/or suspend or terminate your use of Fastly Services in whole or in part.
+Upon termination your right to use Fastly Services immediately ceases.
+You acknowledge and agree that we shall not be liable to you or any third party for any claims or damages arising out of any termination or suspension or any other actions taken by us in connection with or as a consequence of such termination or suspension.
+==========
+Rights and Obligations Upon Termination.
+The obligations of Fastly and Customer in the Sections and subsections titled: Proprietary Rights, Your Responsibilities, Fastly Service Fees, all Warranty sections, all Limitation of Liability sections, Indemnification, Confidential Information, , and General shall survive termination or expiration of this Agreement.
+Effective as of the Termination Date of this Agreement, all licenses granted hereunder shall immediately terminate and each party shall return and make no further use of equipment, property, materials and other items (and all copies thereof) belonging to the other party.
+Illegal activity.
+Any suspected fraudulent, abusive or illegal activity may be referred to appropriate law enforcement authorities and may constitute a reason to terminate your use of Fastly Services and delete your Customer Account.
+==========
+Governing Law.
+This Agreement shall be governed by the laws of the State of California, excluding its conflict of law provisions.
+Jurisdiction.
+Legal proceedings shall be instituted in a state court in San Francisco County, California, or in a federal court in the Northern District of California.
+==========
+Notices.
+You will send Notices to us via email to the attention of Customer Service at support@fastly.com.
+We will either broadcast notices or messages through the Fastly Website to you, or send email to you at the email address reflected in your Customer Account Information.
+==========
+Miscellaneous.
+If we take legal action to enforce the terms of this Agreement and prevail, you agree to pay our attorney fees and expenses.
+You agree that you will institute any legal action against us within one year after the cause for the action arises, and that if you do not do so you are forever waiving your right to do so.
+Force Majeure.
+Fastly shall not incur liability for non-delivery or delay in delivery of Fastly Services from any event beyond its reasonable control, whether or not foreseeable by you and/or us, including but not limited to, labor disturbance, war, fire, accident, adverse weather, inability to secure transportation, governmental act or regulation, and other causes or events beyond its reasonable control, whether or not similar to those which are enumerated above.
+==========
+Full Force.
+If any part of these Terms of Use is held invalid or unenforceable, that portion shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the remaining portions shall remain in full force and effect.
+Any failure by us to enforce or exercise any provision of these Terms of Use or related rights shall not constitute a waiver of that right or provision.
+==========
+Changes to Agreement.
+These Terms of Use may only be superseded by a Fastly Master Service Agreement signed by you and us.
+They cannot be altered, supplemented, or amended by any document(s) other than a written agreement signed by you and us.
+Any attempt by you to alter, supplement or amend this document by other means, such as entering an order for Fastly Services which are subject to additional or altered terms and conditions shall be null and void.
+To the extent that anything in or associated with this site, or in or associated with other Fastly-provided materials in conflict or inconsistent with these Terms of Use, these Terms of Use shall take precedence.
+Entire Agreement.
+These Terms of Use constitute the entire agreement and understanding between you and us concerning the subject matter of this agreement and supersedes all prior agreements and understandings between you and us with respect to that subject matter.
+==========

@@ -1,0 +1,248 @@
+If you are interested in learning about how we collect, use, and disclose information through  our digital advertising technology, you have come to the right place.
+If you are interested in learning how we collect, use, and disclose information through other corporate activities, such as on our corporate website, AppNexus.com, please click here.
+To go directly to our opt out, click here
+ Privacy Self-Regulation: You might like to know right up front that AppNexus is a member in good standing of the Network Advertising Initiative (NAI), which is an association dedicated to responsible data collection and its use for digital advertising.
+Our Platform adheres to the NAI Code of Conduct for Web and Mobile.
+==========
+BACKGROUND INFORMATION
+What is in this document?
+This document provides information about our digital advertising technology platform (the Platform), which enables our clients to buy and sell digital advertising, and then describes our policies about data collection and use.
+Our goal is to be transparent about our business by describing our technology in simple terms so that Internet users can understand our practices.
+We know that this is complicated, so if you have any questions about this information, please contact us here.
+==========
+What is the AppNexus Platform?
+AppNexus is not an ad network or a data broker.
+AppNexus is a digital advertising technology platform.
+By "platform," we mean a technology that provides tools for advertisers, or buyers, to purchase ad space and for website and mobile application publishers, or sellers, to sell their ad space in the most efficient way possible.
+==========
+Sellers want their ads to be relevant to their readers, which helps them to offer content for no cost or lower cost.
+Buyers want to use their advertising dollars efficiently by reaching the right audiences, and by measuring the effectiveness of their ads.
+To accomplish these goals, buyers and sellers use our Platform to engage in a variety of techniques, including interest-based advertising, real-time (or programmatic) advertising, contextual, and location-based advertising.
+The Platform also provides buyers and sellers other tools, like the ability to measure how effective their ads were, to help prevent malware or other bad activity, and similar functions designed to make the buying and selling of ad space seamless, efficient, and effective.
+They may also use our Platform to buy and sell data to help make the ads that end users see more relevant.
+==========
+The Platform is operated by AppNexus Inc., 28 W 23rd Street, 4th floor, New York, NY, 10010, USA.
+What do we mean by Platform Data?
+The Platform is designed to use certain types of data, that all together we call Platform Data.
+It includes data generated through the Platform as well as data clients receive from other sources and then use on the Platform, or that they buy or sell through the Platform.
+This may include information about Internet users’ browsers and devices, such as:
+the type of browser and its settings,
+information about the device’s operating system,
+cookie information,
+information about other identifiers assigned to the device, and
+the IP address from which the device accesses a client’s website or mobile application
+information about the user’s activity on that device, including web pages and mobile apps visited or used
+information about the geographic location of the device when it accesses a website or mobile application
+inferences or information about users’ interests that are created, acquired, bought, sold, or used by our clients
+Most of the data that the Platform receives from browsers and devices might also be called “HTTP header data” or “clickstream data.”
+Platform Data does not include data that by itself identifies an individual, such as name, address, phone number, email address, or government identifier.
+AppNexus does not allow data that directly identifies an individual to be collected or used on the Platform.
+==========
+Glossary of basic terms
+Ad Server: An ad server, in its simplest form, is the computer responsible for delivering an ad to be shown in a web page or a mobile app.
+Today, communications may be sent to several servers in the process of selecting and delivering an ad.
+This occurs in a matter of milliseconds (thousandths of a second).
+==========
+Beacons, Pixels, Tags, and SDKs: Beacons (also sometimes referred to as web beacons or pixels) and tags are elements included in web pages to enable companies to collect data, serve advertising, and provide related services, such as measuring ad effectiveness or preventing fake ad traffic.
+They do this by allowing communication between a web browser and a server.
+A beacon is a small transparent image that is placed on a web page.
+A tag is a small piece of website code that is run by the web browser.
+An SDK is a piece of computer code that developers include in their mobile applications.
+==========
+Cookie: A cookie is a small text file that is stored in a web browser by a website or ad server.
+By saving information in a cookie, websites and servers can remember preferences or recognize web browsers from one visit to another or from one website to another.
+Non-Cookie Technology:  Companies sometimes use alternative methods that perform functions similar to cookies in order to identify unique browsers or devices.
+For example, some platforms, such as Apple’s iOS and Google’s Play Services for Android, provide unique IDs to be used for advertising.
+Additionally, mathematical or statistical techniques are sometimes used to try to identify devices.
+These "Statistical Identifiers" are not 100% accurate.
+==========
+ID Synching: ID synching (sometimes also referred to as cookie syncing is a common and long-standing process in the digital advertising industry.
+It enables advertisers to link up  data from multiple advertising platforms.
+(In other words, it helps advertisers buy ads in more than one place.)
+Here’s an example of how it works.
+==========
+Let’s say you sell a product on your website.
+A customer visits your site.
+Your website stores a cookie to identify that customer’s browser, and the cookie contains an ID of 12345.
+You then associate that ID with information about what the customer shopped for on your site.
+==========
+If you want to then use that information to advertise to that user, you might go to an online advertising marketplace to buy ads.
+In order to buy the right ads and show them to the right user, you’ll need to match your ID, which is 12345 to the ID that the marketplace has assigned to the same customer (which let’s say for this example is ABCDE).
+The result is a record that says ID 12345 = Marketplace ID ABCDE.
+That way, when the marketplace offers to sell you an ad to be shown to ABCDE, your system will know that ABCDE is the same as 12345, and you can pick the right ad to show the customer.
+Cross-Device Mapping:  Cross-device mapping is the process of making inferences that certain devices are related to each other, i.e. they belong to the same user or household.
+==========
+This is done using either “statistical” or “deterministic” methods (or a combination).
+“Statistical” refers to using mathematical techniques to make intelligent guesses that certain devices are related.
+“Deterministic” means using known relationships, for example logins that use the same email address or other personal information, to link multiple devices to a single user.
+When this method is used companies typically mask the actual email address.
+==========
+Interest-Based Advertising: Interest-based advertising uses information collected across multiple web sites or mobile apps to predict users' preferences and to show ads that are most likely to be of interest to them.
+For example, if a user visits a travel site or uses a travel app, she might see travel-related ads on another site or app.
+Advertisers may also use other information they have or can acquire about users’ interests.
+Users have choices with respect to this type of advertising, as discussed below.
+==========
+Precise Geographic Location: Your device may be capable of sharing your precise geographic location with the apps or web pages you visit using that device.
+Devices use one or more methods to determine your location, including GPS coordinates and information about wifi networks in your vicinity.
+(Geographic location determined from IP address is typically not considered to be “precise.”)
+Devices such as iPhone or Android phones typically ask for users’ consent before installing or using an app that accesses the device’s precise geographic location.
+==========
+The app, in turn, may make this information available to third-party advertising companies in order to make the ads you see more relevant.
+Real-Time Transactions (Also called Real-Time Bidding or Programmatic Advertising): Advertising buyers are able to bid in "real time" for the opportunity to show an online advertisement when a web page is loaded or an app is used.
+The winning bidder gets to show its ad.
+Of course, the explanations above are simplified.
+There are many resources available on the web to learn more about these concepts and online advertising in general.
+==========
+Although we have no responsibility for the content of these sites, we offer the following as good places to learn more:
+OnGuardOnline.gov: onguardonline.gov
+All About Cookies: www.allaboutcookies.org
+Wikipedia: en.wikipedia.org/wiki/Online_advertising
+AboutAds.info, For Consumers page: www.aboutads.info/consumers
+The Network Advertising Initiative: networkadvertising.org/managing/learn_more.asp
+In the EU: www.youronlinechoices.com
+About web browser cookie settings: — Internet Explorer: http://windows.microsoft.com/en-US/internet-explorer/delete-manage-cookies#ie=ie-11 — Firefox: support.mozilla.com/en-US/kb/Cookies — Chrome: www.google.com/support/chrome — Safari: http://support.apple.com/kb/PH19214?viewlocale=en_US&locale=en_US
+Cookie use by the Platform
+Although the specific cookies employed on the AppNexus Platform may change from time to time, this describes the purposes for which the AppNexus Platform uses cookies.
+These cookies enable our clients to target ads to users, to evaluate how well their ads work, and to see users’ opt-out choices.
+For a detailed description of cookies set by the Platform, see AppNexus Cookies.
+The Platform uses cookies to distinguish between unique web browsers, and to store data for advertising purposes, including interest-based advertising.
+The Platform uses cookies to store ad delivery and reporting data for clients, such as, for example, which ad was shown, the number of times a particular ad has been shown, and how recently an ad was shown to a particular web browser.
+The Platform uses cookies to enable ad buyers to track users' responses (clicks and conversions) to ads purchased on the platform.
+The Platform uses cookies with non-unique values for server load-balancing and similar technical purposes.
+The Platform uses non-unique cookies to store users' opt-out choices.
+The Platform may also use some Non-Cookie Technologies for these purposes (as defined above and as detailed below).
+Cookies play a role in cross-device linking in that cookies from different browsers or devices might be associated with each other.
+Some browsers or other software may be configured to block 3rd party cookies by default.
+==========
+THE APPNEXUS PLATFORM PRIVACY STATEMENT
+Effective Date: 6/1/2016
+This privacy statement describes AppNexus's practices and policies with regard to Platform Data.
+It may describe how AppNexus enables or allows clients to use the Platform, but otherwise does not apply to our clients' or other 3rd parties' practices.
+Companies participating on the Platform own their own data, and AppNexus retains limited rights to use it to run the Platform.
+==========
+(That's part of what makes it a Platform.)
+What information do we collect and use?
+The Platform is designed to collect and use only Platform Data as described in this document.
+Details.
+How do we collect information?
+The Platform uses cookies, beacons, tags, mobile SDKs, and some non-cookie technologies to collect and store Platform Data about web browsers and devices across web sites and apps and over time.
+Details.
+==========
+For what purposes do we use the collected information?
+AppNexus uses the information collected on the Platform to provide, operate, manage, maintain, and enhance the Platform.
+Details.
+==========
+What information do we share with third parties?
+Clients have access to their Platform Data that they collect, acquire, or use on the Platform, and may remove it from the Platform for their own use.
+AppNexus may provide Platform Data to partners and service providers for the purpose of operating, managing, maintaining, or enhancing AppNexus’s services, including for the safety and security of the platform and the online industry, or as required by law, AppNexus does not share the information collected on the Platform with other third parties, unless legally required.
+Details.
+==========
+How is the information stored and how long is it kept?
+Platform Data is stored using generally accepted security standards.
+It is usually aggregated or deleted within 30-60 days, but may be retained in the Platform for up to 18 months from the date of collection before aggregation or deletion.
+Details.
+==========
+What are your choices?
+Web browser users may opt out of the use of the Platform for interest-based advertising in their web browser.
+Mobile app users have access to choices provided by certain apps or in their device system software.
+Details.
+==========
+What happens if this privacy statement is changed?
+Check this policy for changes.
+Material changes will not be applied to previously collected Platform Data.
+Details.
+==========
+Questions?
+Send a message here.
+What Information Do We Collect and Use?
+The AppNexus Platform allows clients to collect and use Platform Data.
+The Platform collects information provided by third-party sources to allow clients to use such data to target ads.
+To do this, clients and data providers may use ID synching to enable the use of this information through the Platform.
+AppNexus does not collect, use, or allow its clients to transfer to or use on the Platform, data that, by itself, directly identifies an individual, such as name, address, phone number, email address, or government identifier.
+We also prohibit certain categories of sensitive data from being collected, used, or transferred on the Platform.
+AppNexus may collect Precise Location Information when, for example, an app makes such information available through the Platform.
+How Do We Collect Information?
+The Platform uses cookies, beacons, tags, mobile SDKs, and in some cases non-cookie technologies, to collect Platform Data associated with particular web browsers or devices.
+For What Purposes Do We Use the Information?
+==========
+AppNexus uses the information collected on the Platform to provide services to its clients, which primarily means we provide, operate, manage, maintain, and enhance the Platform.
+The Platform enables AppNexus's clients to collect, buy, and sell data and to use Platform Data to buy and sell online advertising.
+Sometime AppNexus staff give "hands-on" help to clients using the Platform for these purposes, for example by configuring advertising campaigns for clients to best meet their objectives.
+Particular advertising-related purposes for which AppNexus clients may use the Platform Data on the Platform include:
+Interest-based advertising (To opt out of interest-based advertising on the Platform, go to the "What are your choices?"
+section below.)
+==========
+Limiting the number of times a user sees a particular ad
+Showing ads in a particular sequence
+Customizing ads to a particular location
+Showing ads related to the content of the web page on which they are shown
+Determining how users respond to ads
+Reporting aggregated statistics regarding, for example, the effectiveness of online advertising campaigns
+The Platform may use Platform Data for cross-device mapping in order to serve or measure advertising on related devices on behalf of our clients.
+Typically, companies using technology like the AppNexus Platform own the data that they provide to and get from the Platform.
+While the AppNexus Platform is designed to use only certain types of data, and Platform clients are prohibited from bringing data onto the Platform that directly identifies an individual, when clients remove their data from the Platform, their use of that data is governed by their own privacy policies and applicable laws, rules, or regulations.
+==========
+What Information Does AppNexus Share With Third Parties?
+AppNexus may provide Platform Data to partners and service providers in order to provide, operate, manage, maintain, and enhance AppNexus's services.
+AppNexus may provide, or enable others to collect, information for purposes of protecting the safety and security of the online ecosystem, including to detect and prevent malicious activity or fake traffic.
+AppNexus may also disclose such information in the event we reasonably suspect malicious activity or fake traffic, or believe that we are legally required to do so.
+==========
+AppNexus may also share aggregated data derived from the Platform, including, for example, statistics about Platform activity.
+Clients have access to their Platform Data that they collect, acquire, or use on the Platform, and may remove it from the Platform for their own use.
+Finally, we may transfer Platform Data to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+==========
+How is Platform Data Stored and How Long is it Kept?
+AppNexus uses generally accepted industry security standards to protect data on the Platform.
+Platform Data is stored using generally accepted security standards.
+==========
+It is usually aggregated or deleted within 30-60 days, but may be retained in the Platform for up to 18 months from the date of collection before aggregation or deletion.
+Aggregated data is used for reporting and analysis, and may be stored in the Platform for up to 2 additional years.
+When clients remove their data from the Platform, their storage and retention of data is governed by their own privacy policies and applicable laws, rules, or regulations.
+==========
+What are your choices?
+Opt Out of Interest-Based Advertising: You can opt out of interest-based advertising.
+AppNexus Web Browser Opt Out: You can click below to opt out of having the Platform used to select ads for your browser based on your online web browsing behavior.
+When you opt out, an opt out cookie (from adnxs.com) will be stored in your web browser.
+The Platform will know the choice you have made when it sees your opt out cookie, and will apply your choice to all companies' using the Platform.
+==========
+If you block or delete the opt out cookie, you will not be opted out and will need to allow cookies from AppNexus and renew your opt-out choice.
+Important things to note about the opt out:
+Blocked cookies: The opt out cookie may not work if your browser is configured to block third-party cookies.
+Deleting or protecting opt outs: If you delete your cookies, you will need to opt out again.
+There are browser plugins to help you preserve your opt out cookies.
+For more information, please visit http://www.aboutads.info/PMC.
+==========
+Only this browser: The opt out only applies to the browser profile in which you set it.
+For example, if you set the opt out while using Firefox, but then use Chrome, the opt out will not be active in Chrome.
+To opt out in Chrome, you will need to repeat the opt out process.
+This is because the cookies cannot be read between different browsers or browser profiles.
+The opt out does not block or delete cookies: It also does not prevent the use of cookies or other technologies for purposes other than selecting ads based on your interests as inferred by your online behavior.
+==========
+If you opt out, data may still be collected about your web browsing activities and you will still see advertising.
+Ads may be selected, for example, based on the content of the web page in which they are shown.
+If you wish to block or delete cookies altogether, you can use web browser settings to do so.
+==========
+Learn More: To learn more about interest-based advertising, and to access the opt outs of other online advertising companies, visit the Network Advertising Initiative opt out page.
+AppNexus Mobile App Opt Out: Mobile device system software such as Apple iOS or Google Play Services provide an opt out choice that is communicated to companies providing in-app advertisements.
+For more information, or to opt out using these mechanisms, consult your device settings.
+Location:  Most mobile devices offer you the ability to stop the collection of location information at any time by changing the preferences on your device.
+You may also be able to stop the collection of location information by particular apps by adjusting the settings for individual apps or following the standard uninstall process to remove specific mobile apps from your device.
+==========
+Industry Self-Regulation
+AppNexus supports industry self-regulation, and endorses best practices and self-regulatory requirements that apply to the Platform.
+AppNexus is a member in good standing of the Network Advertising Initiative (NAI), and adheres to the NAI Code of Conduct for Web and Mobile.
+Additionally, the following industry sites provide useful information about industry self-regulation of interest-based advertising:
+US: www.networkadvertising.org and www.aboutads.info
+EU: www.youronlinechoices.com
+U.S.-E.U. and U.S. Swiss Safe Harbor Framework
+If we transfer personal information from the European Union to the United States, we adhere to the principles of the U.S.-E.U. Safe Harbor Framework and U.S.-Swiss Safe Harbor Framework, as set forth by the U.S. Department of Commerce (http://export.gov/safeharbor/).
+For questions or complaints related to the collection, retention, or use of data under either of the Safe Harbor Frameworks, please contact us here.
+Unresolved privacy complaints under either of the Safe Harbors will be referred to the American Arbitration Association as an independent dispute resolution mechanism.
+==========
+What Happens if this Privacy Statement is Changed?
+Check this page for changes.
+We may change this privacy statement at any time.
+However, if we were to make material changes, those changes would not be applied to Platform Data collected prior to such changes.
+More Questions?
+If you have questions about privacy on the AppNexus Platform, you may send us a message here.
+==========

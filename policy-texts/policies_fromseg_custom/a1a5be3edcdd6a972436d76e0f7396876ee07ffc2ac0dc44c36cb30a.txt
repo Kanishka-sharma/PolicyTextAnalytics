@@ -1,0 +1,104 @@
+e/rocketfuel_syncOracleDetects whether partner data synchronization is functioning and currently running - This function sends user data between third-party advertisement companies for the purpose of targeted advertisements.
+SessionPixelanjAppnexusRegisters a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.3 monthsHTTPuuid2AppnexusRegisters a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.3 monthsHTTPadscores/g.
+==========
+pixelNeustarPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.SessionPixelsp.plOathRegisters user behaviour and navigation on the website, and any interaction with active campaigns.
+This is used for optimizing advertisement and for efficient retargeting.
+==========
+SessionPixelhttps://cx.atdmt.com/FacebookSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.SessionPixelr20.gifGoogleSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.SessionPixel_uetsidbfpartners.clickUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+PersistentHTML_uetsid_expbfpartners.
+clickContains the expiry-date for the cookie with corresponding name.
+PersistentHTML_uetvidbfpartners.
+clickUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+PersistentHTML_uetvid_expbfpartners.
+clickContains the expiry-date for the cookie with corresponding name.
+PersistentHTMLadal_out_queue_adalyserTracker_getbfpartners.
+==========
+clickUsed to track the visitor across multiple devices including TV.
+This is done in order to re-target the visitor through multiple channels.
+==========
+PersistentHTMLcBidswitchRegulates synchronisation of user identification and exchange of user data between various ad services.1 yearHTTPtuuidBidswitchRegisters whether or not the user has consented to the use of cookies.1 yearHTTPtuuid_luBidswitchContains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites.
+This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.
+==========
+1 yearHTTPMUIDMicrosoftUsed widely by Microsoft as a unique user ID.
+The cookie enables user tracking by synchronising the ID across many Microsoft domains.1 yearHTTPbkpaOraclePresents the user with relevant content and advertisement.
+==========
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.6 monthsHTTPbkuOracleRegisters anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.6 monthsHTTPtracking/track/v3/pAdalyserUsed to track the visitor across multiple devices including TV.
+This is done in order to re-target the visitor through multiple channels.
+==========
+SessionPixelCMIDCasalemediaCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 yearHTTPCMPROCasalemediaCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+3 monthsHTTPCMPSCasalemediaCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.3 monthsHTTPCMRUM3CasalemediaCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 yearHTTPCMSTCasalemediaCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 dayHTTPrumCasalemediaCollects data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.SessionPixelping.gifTwitchNecessary for the implementation and functionality of Twitch video-content on the website.
+SessionPixelmautic_device_idcrm-v3.
+==========
+unikrn.comUsed to identify the visitor across visits and devices.
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+1 yearHTTPmautic_referer_idcrm-v3.
+==========
+unikrn.comCollects information on user behaviour on multiple websites.
+This information is used in order to optimize the relevance of advertisement on the website.1 dayHTTPmtc_idcrm-v3.
+unikrn.comUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+SessionHTTPmtc_sidcrm-v3.
+==========
+unikrn.comUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+SessionHTTPdemconf.jpgAdobeSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+SessionPixeldemdexAdobeVia a unique ID that is used for semantic content analysis, the user's navigation on the website is registered and linked to offline data from surveys and similar registrations to display targeted ads.179 daysHTTPdpmAdobeSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.179 daysHTTPIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPtest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPeverest_g_v2Adobe IncUsed for targeted ads and to document efficacy of each individual ad.1 yearHTTPmako_uidEyeotaCollects data on user visits to the website, such as what pages have been accessed.
+The registered data is used to categorise the user's interest and demographic profiles in terms of resales for targeted marketing.1 yearHTTPfrFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTPtrFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.SessionPixel_fbpFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTPoutbrain_cid_fetchOutbrainCollects data on the user’s navigation and behavior on the website.
+==========
+This is used to compile statistical reports and heatmaps for the website owner.1 dayHTTPeng_mthltv.
+unikrn.comTracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.
+PersistentHTMLmautic_device_idhltv.
+==========
+unikrn.comUsed to identify the visitor across visits and devices.
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+PersistentHTMLmtc_idhltv.
+==========
+unikrn.comSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.PersistentHTMLmtc_sidhltv.unikrn.comSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.PersistentHTML_kuid_SalesforceRegisters a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.179 daysHTTPsd-session-idlive.
+==========
+rezync.comRegisters data on visitors from multiple visits and on multiple websites.
+This information is used to measure the efficiency of advertisement on websites.
+179 daysHTTPdata-rkMedia.
+==========
+netCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+1 yearHTTPunifiedPixelOutbrainCollects data on the user’s navigation and behavior on the website.
+This is used to compile statistical reports and heatmaps for the website owner.SessionPixellocal_copy_unique_idTwitchContains data on visitor's video-content preferences - This allows the website to remember parameters such as preferred volume or video quality.
+The service is provided by Vimeo.com.PersistentHTMLlocal_storage_app_session_idTwitchNecessary for the implementation and functionality of Twitch video-content on the website.
+PersistentHTMLlocal_storage_device_idTwitchNecessary for the implementation and functionality of Twitch video-content on the website.
+PersistentHTML___utmv#BetfredCollects information on visitor behaviour on multiple websites.
+This information is used on the website, in order to optimize the relevance of advertisement.SessionHTTPzync-uuidrezync.
+==========
+comSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.179 daysHTTPeudZeta GlobalRegisters user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.1 yearHTTPeudsZeta GlobalRegisters anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.SessionHTTPrudZeta GlobalRegisters user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.1 yearHTTPrudsZeta GlobalRegisters user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.SessionHTTPsmdZeta GlobalPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.1 yearHTTPpxrcLiveRampThis cookie registers data on the visitor.
+The information is used to optimize advertisement relevance.
+2 monthsHTTPrlas3LiveRampCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 yearHTTPyt.innertube::requestsYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLytidb::LAST_RESULT_ENTRY_KEYYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-cast-availableYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-cast-installedYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLp2ScorecardresearchRegisters user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.SessionPixelyt-remote-connected-devicesYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLyt-remote-device-idYouTubeStores the user's video player preferences using embedded YouTube videoPersistentHTMLUIDScorecardresearchCollects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address.
+==========
+The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.2 yearsHTTPsc_atSnap INCUsed by Snapchat to implement advertisement content on the website - The cookie detects the efficiency of the ads and collects visitor data for further visitor segmentation.1 yearHTTPaudienceSpotxUsed to determine whether the video-ads have been displayed correctly on the website - This is done to make video-ads more effective and ensure that the visitor is not shown the same ads more times than intended.
+The cookie also detects whether the visitor has any Do Not Track preferences.1 yearHTTPpartnerSpotxUsed in context with video-advertisement.
+==========
+The cookie limits the number of times a user is shown the same advertisement.
+The cookie is also used to ensure relevance of the video-advertisement to the specific user.
+==========
+SessionPixeli/adsctTwitterThe cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+SessionPixelsyncTelariaCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+SessionPixelusage.gifTracksjsUsed to track the visitor's usage of GIFs - This serves for analytical and marketing purposes.SessionPixelA3Verizon MediaCollects information on user behaviour on multiple websites.
+This information is used in order to optimize the relevance of advertisement on the website.1 yearHTTPVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPyt.innertube::nextIdYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.PersistentHTMLyt-remote-fast-check-periodYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-appYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTMLyt-remote-session-nameYouTubeStores the user's video player preferences using embedded YouTube videoSessionHTML888Cookie888 SportPending29 daysHTTPnlbi_#BetfredPendingSessionHTTPpagead/viewthroughconversion/613085440GooglePendingSessionPixelpagead/1p-conversion/#GooglePendingSessionPixelgameTypehltv.
+gainskins.comPendingPersistentHTMLvms--vm-abdhb.
+==========
+vntsm.comPendingPersistentHTMLBETSLIP_BETShltv.unikrn.comPendingPersistentHTMLBETSLIP_UKGhltv.unikrn.comPendingPersistentHTMLEXPOSURE_CONSENThltv.unikrn.comPendingPersistentHTMLINSTANTBEThltv.unikrn.comPendingPersistentHTMLREGISTER_SOURCEhltv.unikrn.comPendingPersistentHTMLREGISTER_SOURCE_TYPEhltv.
+unikrn.comPendingPersistentHTMLREGISTER_SOURCE_URLhltv.
+unikrn.comPendingPersistentHTMLREGISTER_SOURCE_VARIATIONhltv.
+unikrn.comPendingPersistentHTMLVAULT_APPLIED_ITEMShltv.
+unikrn.comPendingPersistentHTMLuffiliate_click_46498_1873612_ic.
+aff-handler.
+comPending29 daysHTTPimg.gifAdvertising TechnologiesPendingSessionPixelsentry_device_idTwitchPendingPersistentHTMLsession_storage_last_visited_twitch_urlTwitchPendingSessionHTML#.
+gifLiveRampPendingSessionPixelimg/#/r20.gifCitrixPendingSessionPixelRichHistoryTwitterPendingSessionHTMLCWunikrn.comPendingSessionHTTP
+==========

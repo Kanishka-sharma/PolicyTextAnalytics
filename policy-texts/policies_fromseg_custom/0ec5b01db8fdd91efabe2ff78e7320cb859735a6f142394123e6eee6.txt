@@ -1,0 +1,47 @@
+Safe Harbor Privacy Notice
+Last Updated: April 2, 2015
+This Safe Harbor Privacy Notice (the “Safe Harbor Notice”) complements Red Hat’s Privacy Statement (the “Privacy Statement”).
+In case of inconsistency, this Safe Harbor Notice prevails over the Privacy Statement for the processing of personal information covered by the Privacy Statement that is transferred from the European Economic Area (“EEA”) or Switzerland to the United States.
+Capitalized terms not defined herein are used as defined in the Privacy Statement.
+==========
+Introduction
+Red Hat, Inc. and its subsidiaries in the United States (“Red Hat U.S.”) are committed to respect and protect the personal information Red Hat companies collect through the redhat.com website, and other websites which we operate and on which we post a direct link to the Privacy Statement (“Personal Information”).
+Accordingly, Red Hat, Inc. has certified that it abides by the principles set forth by the United States Department of Commerce regarding the collection, storage, use, and transfer of Personal Information transferred from the EEA or Switzerland to the United States (the “Safe Harbor Principles”).
+==========
+This Safe Harbor Notice describes how Red Hat U.S. implements the Safe Harbor Principles.
+Safe Harbor Principles
+Red Hat U.S.’s practices regarding the collection, storage, use, and transfer of Personal Information comply with the Safe Harbor Principles of notice, choice, onward transfer, security, access, data integrity, and enforcement and dispute resolution.
+==========
+Notice Red Hat’s Privacy Statement describes the types of Personal Information that Red Hat collects, the purposes for which it collects such Personal Information, the types of third parties to which it discloses such Personal Information, the rights and choices of individuals, and how to contact Red Hat with any inquiries or complaints.
+Choice In the event Personal Information is (i) to be used for a new purpose incompatible with the purposes for which the Personal Information was originally collected or subsequently authorized, or (ii) transferred to a third party exercising independent control over the Personal Information, individuals are given, where practical and appropriate, an opportunity to object to have their Personal Information so used or transferred.
+==========
+Onward Transfer of Personal Information Red Hat U.S. may transfer Personal Information as described in the Privacy Statement.
+Red Hat U.S. will only transfer Personal Information to a service provider exercising independent control over the Personal Information that: (1) is subject to laws based on the European Union Data Protection Directive 95/46 or Swiss Federal Data Protection Law, (2) subscribes to the Safe Harbor Principles; or (3) contractually agrees to provide at least the same level of protection for Personal Information as is required by the relevant Safe Harbor Principles.
+==========
+Except as described in the Privacy Statement, Red Hat U.S. will only transfer Personal Information to a non-service provider exercising independent control over the Personal Information when individuals have been provided notice and have given their consent, and, where required, that third party has entered into a written agreement with Red Hat U.S. Where Red Hat U.S. has knowledge that a non-service provider third party is using or sharing Personal Information in a way that is contrary to these Safe Harbor Principles, Red Hat U.S. will take reasonable steps to prevent or stop such processing.
+Red Hat U.S. may share Personal Information as required by law or legal process, such as responding to a duly authorized information request of a police or governmental authority, to enforce or protect the rights of Red Hat, when such disclosure is necessary or appropriate to prevent physical harm or financial loss as permitted by applicable law, or in connection with an investigation of suspected or actual illegal activity.
+Red Hat U.S. may also share Personal Information in the context of a business transaction involving part or all of Red Hat, such as a merger, acquisition, consolidation, or divestiture.
+Such a transaction may involve the disclosure of Personal Information to prospective or actual purchasers, or the receipt of it from sellers.
+It is Red Hat U.S.’s practice to seek appropriate protection for information in these types of transactions.
+Following such a business transaction, you may contact the entity to which we transferred your Personal Information with any inquiries concerning the use of that information.
+Security Red Hat U.S. takes reasonable precautions to help protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+Access Where appropriate, individuals have reasonable access to their Personal Information and may request corrections, deletions, or additions, except where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy or where the rights of persons other than the individual would be violated.
+==========
+Data Integrity Red Hat U.S. takes reasonable steps to limit the collection and usage of Personal Information to that which is relevant for the intended purposes for which it was collected, and to ensure that such Personal Information is reliable, accurate, complete and current.
+An individual may contact Red Hat U.S. as indicated below or in the Privacy Statement to request that their Personal Information be updated or corrected.
+Enforcement and Dispute Resolution Red Hat U.S. has established procedures to periodically verify implementation of and compliance with the Safe Harbor Principles.
+Red Hat U.S. conducts an annual self-assessment of its practices regarding Personal Information intended to verify that the assertions Red Hat U.S. makes about its practices are true and that such practices have been implemented as represented.
+==========
+In case of disputes, individuals are able to seek resolution of their questions or complaints regarding collection, storage, use, transfer, and other processing of their Personal Information in accordance with the Safe Harbor Principles.
+If an individual feels that Red Hat U.S. is not abiding by this Safe Harbor Privacy Notice or is not in compliance with the Safe Harbor Principles, he or she should first contact Red Hat U.S. at the contact information provided below.
+Red Hat U.S. has agreed to cooperate with the European Data Protection Authorities for the purpose of handling any unresolved complaints regarding Personal Information.
+==========
+Amendment This Safe Harbor Notice may be amended consistent with the requirements of the United States Department of Commerce’s Safe Harbor Framework.
+When we update this Safe Harbor Privacy Notice, we will also revise the "Last Updated" date at the top of this document.
+Questions If you have any questions concerning the Safe Harbor Privacy Notice or any of our privacy practices you can contact:
+Red Hat, Inc.
+Corporate Legal Group
+100 East Davie Street
+Raleigh, North Carolina 27601
+United States
+==========

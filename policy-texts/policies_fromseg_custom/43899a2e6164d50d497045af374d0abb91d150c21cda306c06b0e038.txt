@@ -1,0 +1,128 @@
+PRIVACY NOTICE FOR THE GLOMEX-PLAYER
+In this privacy notice we inform you about the processing of personal data when using the glomex player in third-party online services as well as on our video platform “video.glomex.com”.
+glomex offers a wide range of free video content that can be embedded by third parties in their online services or by glomex in its own video platform “video.glomex.com”.
+It is only possible to provide users with premium video content free of charge by showing them targeted advertising when they use the glomex player.
+On the basis of pseudonymised data, glomex cooperates with advertising partners in order to display targeted advertising in the glomex player which is based on the user’s interests and internet surfing habits.
+The glomex player is either embedded in third-party online services (e.g. on a website) or is available on our video platform “video.glomex.com”.
+If the glomex player is embedded in a third-party online service, please also refer to that third party’s privacy notice for more information about how it processes personal data.
+1) Controller
+The glomex player is offered by glomex GmbH, Dieselstraße 1, 85774 Unterföhring.
+==========
+If you have any questions regarding data protection, you can contact our data protection officer at any time at the postal address given or by email: privacy@glomex.com.
+We expressly point out that emails sent to this address will not be read solely by our data protection officer.
+If you wish to share confidential information, please first use this email address to request direct contact with our data protection officer.
+==========
+If the glomex player is embedded in third-party online services (e.g. on a website), then glomex and the provider of the online service concerned are jointly responsible for enabling data processing in the glomex player (they are “joint controllers” under data protection law).
+For this reason, we kindly ask you to also refer to the privacy notice of the provider of that online service for more information about how it processes personal data.
+glomex and its advertising partners are jointly responsible for enabling data processing by the advertising partners (they are “joint controllers” under data protection law).
+The contact details of these advertising partners can be found in Section 3 (Recipients of the data).
+==========
+2) Data processing in connection with the glomex player
+2.1 Categories of data processed, legal basis
+In principle, content is provided in combination with relevant advertising by using the IP address, cookies and comparable technologies (hereinafter also referred to as “identifiers”).
+glomex collects the following usage data via the glomex player:
+Current IP address of the device (this is pseudonymised by erasing the last part of the IP address)
+Derived from the IP address: information about the region or location
+Date and time of video playback in the glomex player
+Technical data about the device and operating system used (user agent data)
+Technically necessary information about the glomex player’s configuration settings (localStorage)
+The user’s interactions with the glomex player as well as with ads displayed in it (e.g. clicking on an ad)
+Non-personal information about video content and the overall performance/popularity of ads
+Without this data processing, glomex would not be able to provide its services.
+==========
+The legal basis of the processing is glomex’s legitimate interest (Art. 6(1) Sentence 1(f) GDPR) in making our service more user-friendly.
+glomex also uses the aforementioned usage data for billing its clients, troubleshooting, preventing fraud as well as improving the service it provides (e.g. by means of A/B split tests).
+The legal basis for these data processing operations is also Art. 6(1) Sentence 1(f) GDPR, based on glomex’s legitimate interests as described above.
+glomex’s advertising partners (see also Section 3) also use further identifiers (such as cookies) to collect information about your activities in the glomex player and on third-party websites and to subsequently merge this collected, pseudonymised usage data in order to be able to offer you as a user targeted advertising in the glomex player that corresponds to your browser activities and your interests.
+The legal basis for this processing is your consent (Art. 6(1) Sentence 1(a) GDPR), which you have given the provider of the website in which the glomex player is embedded.
+2.2 Purposes of data processing for the glomex player
+If a user plays a video in the glomex player, then glomex provides the video content from its rights holders by means of an integration service and combines it with targeted advertising from various advertising partners.
+For billing and fraud prevention purposes, glomex records how the glomex player is used; it is responsible for this data processing.
+If a user clicks on an ad displayed in the glomex player, for example to view the online service being advertised, then this will be recorded by glomex.
+glomex receives data about interactions with ads, video content as well as the pseudonymised IP address, allowing it to invoice its clients for its services, to verify invoices, and to measure the efficiency of ads placed by glomex’s clients.
+==========
+glomex also uses the usage data, as well as the data about interaction with the glomex player and with ads, for troubleshooting and to improve the services it provides, e.g. by means of A/B split tests.
+By loading its advertising partners’ cookies and other advertising technologies in the glomex player, glomex initiates the processing of personal data by its advertising partners.
+glomex and its advertising partners are jointly responsible for enabling data processing by the advertising partners (they are “joint controllers” under data protection law).
+The advertising partners (see Section 3) control, and are independently responsible for, the subsequent processing, storage and forwarding of usage data.
+glomex has no way of influencing these processing operations.
+3) Recipients of the data
+glomex currently cooperates with the following advertising partners for the monetization of the video content it makes available:
+1&1 Mail & Media GmbH, Elgendorfer Str.
+==========
+57, 56410 Montabaur, Germany • Privacy Notice
+Axel Springer SE, Axel Springer Str.
+65, 10969 Berlin, Germany • Privacy Notice
+ATG Ad Tech Group GmbH, Friedensallee 38, 22765 Hamburg, Germany • Privacy Notice
+Burda Community Network GmbH, Arabellastr.
+23, 81925 Munich, Germany • Privacy Notice
+Freshclip GmbH & Co.
+KG, Kaiser-Wilhelm-Ring 22, 50672 Köln, Germany • Privacy Notice
+Goldbach Austria GmbH, Laimgrubengasse 14, 1060 Vienna, Austria • Privacy Notice
+Goldbach Germany GmbH, Feringastr.
+12 B, 85774 Unterföhring, Germany • Privacy Notice
+1 PULS 4 GmbH, Maria Jacobi Gasse 1, 1030 Vienna, Austria • Privacy Notice
+plista GmbH, Torstr.
+33-35, 10119 Berlin, Germany • Privacy Notice
+Phaistos Networks S.A., 76, 25th Martiou, 70400 Mires, Irakleio, Greece • Privacy Notice
+SevenOne Media GmbH, Medienallee 4, 83774 Unterfoehring, Germany • Privacy Notice
+SevenOne Media (Schweiz) AG, Limmatstr.
+275, 8005 Zurich, Switzerland • Privacy Notice
+Smartstream TV GmbH, Dachauer Str.
+15A, 80335 Munich, Germany • Privacy Notice
+Ströer Digital Media GmbH, Kehrwieder 8-9, 20457 Hamburg, Germany • Privacy Notice
+WebAds B.V., Keizersgracht 256, 1016 EV Amsterdam, Netherlands  • Privacy Notice
+Yieldlab AG, Colonnaden 41, 20354 Hamburg, Germany • Privacy Notice
+Netpoint Media GmbH, Rheinallee 60, 55283 Nierstein, Germany • Privacy Notice
+The ADEX / Partnership with ProSiebenSat.1 Digital Data
+glomex uses a service provided by ProSiebenSat.1 Digital Data GmbH, Medienallee 7, 85774 Unterföhring (PSDD) for the purpose of optimising advertising.
+==========
+As “joint controllers” under data protection law, glomex and PSDD are jointly responsible for enabling data collection by PSDD in this context.
+PSDD uses The ADEX as a processor for this purpose.
+The ADEX is a company based in Germany (Torstraße 19, 10119 Berlin).
+==========
+The ADEX offers technologies for optimally placing and controlling ads for users based on their individual interests and usage behaviour on websites, as well as for making it possible to measure their share as a percentage of “conversion” – the path from the first ad to the final purchase.
+Cookies, web beacons or similar technologies are used for this purpose.
+==========
+The usage data collected in this manner is stored under a pseudonym.
+This pseudonym is assigned information about user activities on our websites, services, applications and tools (e.g. advertising banners clicked on, subpages visited, search queries sent, etc.).
+==========
+The IP address transmitted from a user’s device is completely anonymised and used to form household networks.
+In household networks, devices connected to the internet, such as computers, telephones, connected TVs and others, can be identified and the usage data collected from individual websites can be combined across the various devices.
+Neither personal data nor a user’s specific location can be determined from the information obtained in this way.
+This means that it is impossible to identify the user personally.
+==========
+If the user has not given their consent to the embedding of usage-based advertising, then a technically necessary cookie will be stored in order to take account of the user’s preference in the future.
+Such a cookie will also be stored if, in the context of the TCF (https://iabeurope.eu/transparency-consent-framework), the user has not consented to tracking for the purpose of usage-based advertising.
+==========
+Further information, in particular about which data The ADEX processes, the rights of users, but also about how The ADEX shares data, can be found in its privacy notice: https://theadex.com/datenschutz-plattform/.
+If glomex uses external service providers and discloses data to them, then they may only use the data to fulfil their task and in connection with specific instructions.
+The service providers are contractually bound to the data protection requirements.
+==========
+For cases where data is processed in countries outside the European Union, appropriate safeguards are in place to protect data subjects (e.g. Standard Contractual Clauses).
+4) Storage period
+glomex stores personal data that is relevant for billing (e.g. pseudonymised IP addresses and data about the user agent) for up to ten years for commercial and tax law reasons.
+The user may adjust the storage period for localStorage files in their browser settings.
+==========
+Information about how long our advertising partners store data can be found in the respective advertising partners’ privacy notices (see Section 3).
+5) Your rights
+Under the GDPR, you have a number of rights in connection with your personal data.
+These rights do not apply without limitation – in some cases, or depending on how exactly your data is used, you may not be entitled to them, or exceptions may apply (for example, when we process data to comply with our legal obligations), but in these cases we will inform you.
+You always have the right
+to request access to, or a copy of, all personal data concerning you that we process;
+to rectification of your personal data, if you consider the information we hold to be inaccurate;
+to request that we erase your personal data if you believe that we have no right to process it;
+to withdraw your consent to our processing of your personal data (if the processing was based on consent);
+to restriction of the processing of your personal data;
+to data portability under certain conditions;
+to object to the processing of your personal data under certain conditions or to object to the processing of your data for marketing purposes.
+==========
+If you wish to withdraw your consent to the storage of our advertising partners’ cookies, please follow the instructions for changing your cookie settings on the website via which you have called up the glomex player.
+You also have the right to lodge a complaint with the data protection supervisory authority responsible for glomex (Bayerisches Landesamt für Datenschutzaufsicht, Postfach 606, 91511 Ansbach, Germany).
+If you are resident in a member state of the European Economic Area, you can also contact your local data protection supervisory authority.
+==========
+6) Changes to this privacy notice
+As glomex continues to develop its services, changes to this privacy notice may become necessary.
+This website always contains the latest version of the privacy notice.
+Last amended: November 2020
+==========

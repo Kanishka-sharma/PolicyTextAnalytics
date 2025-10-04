@@ -1,0 +1,479 @@
+Last updated: May 11, 2021
+Teads offers an advertising marketplace that proposes innovative advertising solutions to publishers and advertisers all over Europe, the United States, Latin America and Asia.
+Publishers use Teads’ advertising solutions to monetize their ad spaces either directly or through Teads advertising demand including other advertising buyer partners.
+Advertisers or their intermediaries (e.g. media agencies) display their advertising campaigns through Teads advertising solutions on the websites or apps of our publisher partners.
+Teads advertising technology collects and uses data to help make online advertising more relevant as well as for ad delivery and reporting purposes.
+Scope of this privacy policy
+Teads SA., together with its affiliates (“Teads”, “we”, “us”, or “our”) recognizes the importance of privacy and is committed to providing transparency and control over the use of the data in online advertising.
+This privacy policy details Teads’ data practices on how we collect, use, process and share the data we may collect through our advertising services (collectively, the “Services”) as well as the ways in which individuals may exercise control over the use of information collected by us.
+This privacy policy does not describe Teads’ data practices relating to information Teads collects through its website www.teads.com, and only pertains to Teads’ Services.
+Your use of the Services is also governed by the Terms of Use.
+As used herein, “personal data” means any information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular Teads customer or consumer or his or her household.
+==========
+The Privacy Policy focus on specific regulations such as GDPR in Europe and CCPA in California (USA).
+However, Teads is committed to offering you the best privacy protection.
+==========
+Therefore opt-out mechanisms provided herein are accessible to any data subject that intends to benefit from these mechanisms.
+Please note that we may update or change this privacy policy.
+If we make any material changes we will notify you by means of a notice on our website prior to the change becoming effective.
+==========
+User identification
+We do not collect or process information related to (i) name, user address, place of work, date of birth, email address, or phone number, (ii) hardware-based identifiers such as UDID or MAC Address or (iii) sensitive targeting categories as defined by the European Interactive Digital Advertising Alliance (EDAA) in the European Economic Area (EEA) and under other applicable law (e.g. religion, political opinion, health).
+In order to deliver personalized ads as well as non-personalized ads, Teads uses the following 3 methods to identify users depending on the device they use, whether they access our Services on web or mobile, and operating system:
+Cookie-based identification
+Teads drops a cookie on the user web and/or mobile browser.
+Cookies are alphanumeric identifiers that are created on your device through your web browser for record-keeping purposes.
+Cookies are used to identify a user and store a randomly generated identifier to identify his or her browser across visits.
+Cookie-less environments
+For browsers setup to not allow cookies to be dropped, Teads uses an identification methodology based on IP address non-reversible encryption, browser, and device characteristics.
+This method allows Teads to identify a user in order to provide the same level of services, such as reporting and targeting information to users, segmenting users, and capping the number of times the same ad is shown to the same user.
+Advertising ID
+Teads uses its software development kit (“SDK”) technology to identify your advertising ID for mobile applications.
+For Google Android operating system, we use the Google Advertising ID and for Apple iOS the IDFA.
+==========
+You can opt-out of the use of these technologies as described in Section 9.
+Information We Collect
+We do not collect information about you directly, but we collect data through our web tags on publisher web pages, or through our SDK within publisher mobile apps.
+We also automatically collect the information listed below about your use of our Services through tracking technologies such as cookies, pixel tags, beacons, and embedded scripts.
+These tools help us collect and measure session information, time spent on certain pages, and page interaction information.
+Automatically Collected Information.
+==========
+Identifiers: IP address, advertising ID for inApp.
+Internet or other electronic network activity information:
+Page URL
+Browser Information (e.g. Browser name and version)
+Device Information (e.g. Device type, OS)
+Network carrier information (e.g. Wifi, 4G or Wired connection)
+Mobile application information (e.g. Application name or IDFA)
+User Interactions with Teads Ad
+Geological Information:
+Non-Precise Geolocation data: On web and web mobile, we collect non-precise location information at the country and/or city level that are derived from user IP Address.
+Precise Geolocation data: On mobile apps, when a user opts-in for Geo Location on the publisher’s app, precise user geolocation (latitude / longitude) might be transferred to Teads’ SDK by the mobile app, but this data is neither stored nor used by Teads.
+==========
+To note, you can opt-out at any time by following the process described in section 10.
+Information We Infer.
+We may derive information or draw inferences from you based on the information we or our partners collect.
+For example, we may use data drawn from trusted providers in order to infer general users’ interests (e.g. socio-demographic, brand affinity) and improve advertising relevance for users.
+==========
+Data use
+We use the information we collect for various business and commercial purposes, including those described below: 
+Target advertising: We use the data to filter ad delivery according to the user profile, such as his interests, location, device used or page content;
+User frequency Capping: We use data to prevent displaying the same ad to the same user too many times;
+Analyzing traffic and user interactions:  We use data for monitoring and reporting the campaign delivery for advertisers and publishers and for internal business analysis;
+Delivering ads:  We may transmit part of the user profile to programmatic buyers so that they can deliver their advertising campaigns;
+Providing, maintaining, and improving our Services: We use data to improve our Services and technology, including training our ad delivery algorithms;
+Cross device experience: We use data to provide a consolidated experience through a user’s different device or browser environments, and we may link the Teads identifiers on the different browsers and environments the user is using;
+Providing customer service: We may use data to resolve disputes, feedback, or other issues related to our Services;
+Debugging, identifying, and repairing errors: We may use data to fix issues that impair the functionality of our Services;
+Protecting the rights and property of Teads and Complying with Law: We may use data to protect our rights and property and comply with our legal obligations, including to detect, investigate, and prevent fraud and other illegal activities and to enforce our agreements; and
+Carry out certain short-term activities: We may use data for other short-term, reasonable internal purposes related to our Services or your ongoing relationship with us.
+Insights: We may use the data to deliver aggregated insights, at advertising campaign or market levels.
+Data Disclosure
+Data shared with Third Parties.
+In order to provide the Services, we need to share data (including personal information) with third party vendors, service providers, contractors or agents who perform functions on our behalf, including the ones listed below.
+Our service providers are authorized to use the information we provide only as necessary to provide these services to us.
+==========
+Programmatic Buyers.
+We may send part of the user profile to programmatic buyers using demand side platforms such as Google Display & Video 360, who buy our ad placements through programmatic ad auctions.
+==========
+Those companies are responsible as independent controllers of the data used to deliver their ads on Teads’ network.
+Viewability measurement.
+We transmit data to companies specialized in campaign measurement such as MOAT or IAS in order to verify that our ads are viewable.
+Fraud detection.
+We transmit data to companies such as DoubleVerify in order to prevent delivering our ads on fraudulent traffic, such as non-human traffic.
+Geo-location.
+==========
+We transmit the IP address of the user to buy-side partners that may use it to derive non-precise geolocation.
+Analytics and Audience measurement.
+We transmit data to companies such as Nielsen, ComScore or Mediametrie in order to validate the accuracy of our targeting or measure the demographic reach of our network.
+==========
+Affiliates.
+We may disclose the information we collect through the Services to our affiliates or subsidiaries for the purposes described in this privacy policy; however, if we do so, their use and disclosure of your personal information will be subject to this privacy policy.
+==========
+Hosting.
+We utilize third party hosting and data-center providers to store data.
+==========
+Other Disclosures.
+We also may disclose information in the following circumstances.
+==========
+Business Transfers.
+If we are or may be acquired by or merged with another company, if any of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company.
+==========
+In Response to Legal Process.
+We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal processes, such as in response to a court order or a subpoena.
+==========
+To Protect Us and Others.
+We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Service or this Policy, or as evidence in litigation in which Teads is involved.
+==========
+Aggregate and De-Identified Information.
+We may share aggregate or de-identified information about users with third parties for marketing, advertising, research or similar purposes.
+Sale of Personal Information.
+Teads uses data for its business to serve clients and combines such data with other information to help enhance its products and services.
+==========
+Such use may be considered a “sale” under the California Consumer Privacy Act (the “CCPA”).
+As Teads uses and combines data it receives with other information to help enhance its products and services, Teads considers itself a third party for CCPA purposes.
+Advertisers (and their intermediaries) and publishers that work with Teads should include a “Do Not Sell” link on their website(s) to comply with the CCPA as interpreted by the California Attorney General.
+==========
+Additional Disclosures for Individuals in Europe
+If you are located in the European Economic Area or Switzerland, you have certain rights and protections under the law regarding the processing of your personal data.
+Legal Basis for Processing.
+==========
+When we process your personal data, we will do so, e.g., in the following situations:
+We have obtained your valid consent prior to place cookies and/or process personal data
+We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the products or services you have requested).
+We have a legitimate interest in processing your personal data.
+For example, we may process your personal data to send you marketing communications, to communicate with you about changes to our products and Services, and to provide, secure, and improve our products and Services.
+We find such processing is necessary to comply with our legal obligations.
+==========
+Data Subject Requests.
+You have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred.
+You may also have the right to object to, or request that we restrict, certain processing.
+If you would like to exercise any of these rights, you may contact us as indicated below.
+==========
+Data Retention and Security
+We retain the data linked to a user up to 12 months from the date of collection.
+We may also store aggregated and non-personal data for a longer period than 12 months for financial and statistical reasons.
+For security reasons, user’s IP address is stored in a private security log for a period of 4 months.
+Teads cookie is kept up to 365 days after the last user interaction with our services.
+==========
+Teads uses generally accepted industry security standards to protect data.
+Your personal information will be retained in accordance with our data retention policy which is designed to retain data for as long as needed for us to comply with our contractual obligations, employment obligations, and other business purposes, including global legal obligations to retain data.
+==========
+We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our Terms of Use, or take other actions permitted by law.
+We have implemented reasonable security measures to protect the information we collect from unauthorized access, exfiltration, theft, loss, misuse, disclosure, alteration, or destruction.
+Please be aware that despite our best efforts, no data security measures can guarantee security.
+==========
+You should take steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private.
+We are not responsible for any lost, stolen, or compromised passwords or for any activity on your account via unauthorized password activity.
+==========
+Transfer of Information to the U.S. and Other Countries
+Teads is based in Luxembourg and we process and store information throughout the United States, Europe, Latin America, and Asia.
+Teads ensures to use appropriate safeguard mechanism when required.
+Privacy Policies of Third Parties
+This privacy policy only addresses the use and disclosure of information and data by Teads.
+Publishers, advertisers and other websites that may be accessible through our Services have their own privacy policies and practices that govern the collection, use, and disclosure of your personal information when you interact with their services and use their products.
+We encourage you to familiarize yourself with the privacy policies provided by all third parties prior to giving them information or taking advantage of an offer or promotion.
+==========
+Choices for Access, Deletion, Opt-Out of Sale, and Right to Non-Discrimination for California.
+If you are a California resident, you have the right to know what personal information we collect, disclose, and “sell” about you (as that term is used in the CCPA).
+Additionally, you have the right to access, delete and opt-out from the “sale” of your personal information.
+To exercise these rights, please follow the instructions below:
+How to Request Access to Personal Information: You may request access to your personal information twice in a 12-month period.
+To do so, please, email us at dpo@teads.com.
+US residents can as well call us at 1-866-467-8688 (1-866-I-OPT-OUT).
+When being prompted, please use the code 777#.
+.
+==========
+Account holders can request access to their personal information at any time by logging into their accounts on the Services.
+In response, we will produce an Access Report detailing the personal information we have collected, disclosed, and/or sold about you.
+This Access Report will be delivered by mail or electronically at your request.
+How to Request Deletion of Personal Information: You may request that Teads delete the personal information it has collected and/or maintained about you.
+To do so, please email us at dpo@teads.com.
+US residents can as well call us at 1-866-467-8688 (1-866-I-OPT-OUT).
+When being prompted, please use the code 777#.
+==========
+Note, we may need to retain certain personal information as permitted by law, such as to complete the transaction for which the personal information was collected, provide a requested good or service, detect security incidents, protect against malicious, deceptive, fraudulent or illegal activities, comply with legal obligations or to enable solely internal uses that are reasonably aligned with your expectations or lawful within the context in which you provided the information.
+How to Opt-Out of the Sale of Personal Information: We offer an opt-out from the use of cookies and other tracking technologies in connection with our Services, which may in some cases constitute the sale of your personal information under the CCPA or other privacy laws.
+To opt-out of the sale of your personal information, please click Do Not Sell My Personal Information or follow the browser setting instructions below.
+This will cause information to cease to be added to any cookies or other tracking technologies that have been set on our Services or block them entirely.
+==========
+It will also inhibit targeted advertising.
+Please note that you will need to opt out again if you visit one of our Services from a different device or browser or if you clear your cookies.
+==========
+Verification
+Please note, we will take steps to verify your identity before fulfilling any consumer request.
+If you maintain an account with us, we will verify your identity through existing authentication practices for the account (e.g., login and password).
+If you are not a registered member, we will verify your identity by matching two or three data points that you provide with data points that we maintain and have determined to be reliable for the purposes of verification (e.g., browser and device ID).
+==========
+Authorized Agents
+You can use an authorized agent to make such requests on your behalf.
+But we may require the agent to provide a written permission and verify his/her identity or demonstrate that he or she has power of attorney.
+==========
+Anti-Discrimination Right
+You have the right to be free from discrimination in product quality, goods or services if you choose to exercise your privacy rights under the CCPA.
+Do Not Track Signals
+Do Not Track is a privacy preference that users can set in their web browsers.
+When a user turns on the Do Not Track signal, the browser sends a message to websites requesting them not to track the user.
+At this time, we stop running targeted advertising when we receive a “do not track” signal.
+For information about Do Not Track, visit www.allaboutdnt.org.
+==========
+Opt-out from Teads personalized advertising
+If you do not want us to show you personalized ads (based on your inferred interests) please follow the below instructions:
+To opt-out from your web browser in any devices:
+If you opt-out, you will still see ads, including contextually tailored ads (i.e., ads tailored to the current website or app you are viewing) and ads based on your current location; they just may not be relevant to your interests.
+The opt-out mechanism will only opt you out of personalized advertising delivered by Teads in this browser or in mobile applications on this device (e.g., phones, tablets).
+==========
+It will not opt you out on other devices or in other browsers you use.
+Most web browsers are set to accept cookies by default.
+If you prefer, you can usually choose to set your browser to remove or reject browser cookies.
+Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+==========
+Opt-out information is stored in a cookie for 5 years.
+If you delete your cookies, this information will also be deleted, and you will need to renew your opt-out choices.
+==========
+For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.youronlinechoices.com, www.aboutads.info/choices, and other similar sites.
+To opt-out from an in an app environment:
+If you opt-out, you will still see ads, including contextually tailored ads (i.e., ads tailored to the current website or app you are viewing) and ads based on your current location, they just may not be relevant to your interests.
+==========
+If you want to disable Teads personalized ads, please refer to your operating system settings.
+Mobile device system software are providing mechanisms that allow users to opt-out of the use of information about their usage of mobile apps to deliver targeted ads to their mobile device.
+For more information, or to opt-out using these mechanisms, consult your device settings (e.g. “Opt-out of Interest-Based Ads” on Android devices and “Limit Ad Tracking” on iOS devices).
+Please note that this is a device setting which will disable personalized ads from all providers, and not just for Teads.
+If your device’s advertising identifier is reset, you will need to renew your opt-out choice for that device.
+==========
+Children’s Privacy
+Our Services are not directed to children under the age of sixteen (16) in the United States or children under the age of legal majority in jurisdictions outside the United States, nor do we market products or services to such children.
+Teads Self-Regulation Commitments
+Teads is committed to initiatives that intend to provide greater transparency and control for users and as such adheres to the following self-regulation initiatives:
+The IAB Europe Teads belongs to the IAB Europe and  conforms to the OBA Framework.
+The IAB Europe offers consumers an online web opt-out platform and provides general information to consumers about privacy tools.
+==========
+Teads is also an early adopter to the IAB Transparency and Consent framework that allows the users to express their choice and inform the advertising supply chain operators about the user choice.
+Supply chain.
+Ng supply chain.
+==========
+EDAA Teads is a member of the European Digital Advertising Alliance (“EDAA”) and is in compliance the EDAA’s Self-Regulatory Principles.
+EDAA was founded by a European industry coalition representing advertisers, the advertising agency sector, the direct marketing sector, the advertising network sector and the media sector.
+EDAA offers consumers an online web opt-out platform and provides general information to consumers about privacy tools.
+Contact Us
+For any questions about this privacy policy or our data practices, you can contact Teads:
+By email: dpo@teads.com
+By mail: Legal Department (DPO) -Teads – 97 rue du Cherche midi – 75006 Paris – France
+For CCPA Purposes: As described in Section 9 above.
+==========
+Partners
+We may share your data with business partners, who are companies contributing to delivering the service.
+If you want to exercise your rights with these partners, we invite you to follow their guidelines accessible in their Privacy Policy.
+==========
+Partners (being updated):
+Criteo https://www.criteo.com/privacy/
+Partners listed in section 4
+Dernière mise à jour : Mai 11, 2021
+Teads est une plateforme technologique qui propose des solutions publicitaires innovantes aux éditeurs et aux annonceurs en Europe, aux États-Unis, en Amérique latine et en Asie.
+Les éditeurs utilisent les solutions publicitaires de Teads pour monétiser leurs espaces publicitaires, soit directement, soit par le biais des services gérés de Teads.
+Les annonceurs ou leurs intermédiaires (par exemple, les agences média) affichent leurs campagnes publicitaires par le biais des solutions publicitaires Teads sur les sites web ou les applications de nos partenaires éditeurs.
+La technologie publicitaire Teads recueille et utilise des données pour améliorer l’efficacité de la publicité digitale et établir des rapports de campagnes publicitaires.
+Portée de la présente politique de confidentialité
+Teads SA.
+et ses filiales (“Teads”, “nous”, “notre” ou “nos”) reconnaissent l’importance de la vie privée et s’engagent à assurer la transparence et le contrôle de l’utilisation des données dans la publicité digitale.
+Cette politique de confidentialité détaille les pratiques de Teads en matière de données sur la façon dont nous recueillons, utilisons, traitons et partageons les données que nous pouvons recueillir par le biais de nos services de publicité (collectivement, les “Services”) ainsi que les moyens par lesquels les individus peuvent exercer un contrôle sur l’utilisation des informations recueillies par nous.
+Cette politique de confidentialité ne décrit pas les pratiques de Teads en matière de données relatives aux informations que Teads collecte par le biais de son site Web www.teads.com, et ne concerne que les services de Teads.
+Votre utilisation des services est également régie par les conditions d’utilisation.
+==========
+Cette politique de confidentialité couvre les réglementations relatives à la protection de la vie privée en vigueur en Europe (Le règlement 2016/679, dit Règlement Général sur la Protection des Données, dit le “RGPD” et la Directive 2002/58/CE dite “ePrivacy”) et dans l’Etat de Californie aux Etats-Unis d’Amérique (the California Consumer Privacy Act, dit “CCPA”).
+Cette politique de confidentialité se concentre sur certaines règlementations telles que le RGPD en Europe et CCPA en Californie (USA).
+Pour autant, Teads est soucieux de vous offrir la meilleure protection possible de votre vie privée.
+C’est pourquoi, les mécanismes de refus ou de retrait du consentement (opt-out) proposés ci-après sont accessibles à toute personne qui entend bénéficier de ces mécanismes.
+Europe.
+Tel qu’utilisé ici, “données personnelles” signifie toute information identifiant directement ou indirectement une personne.
+USA.
+==========
+Pour les résidents Californiens aux Etats-Unis, le terme “Information personnelle” signifie toute information identifiant directement ou indirectement un consommateur ou son foyer (au sens donné par le CCPA).
+Veuillez noter que nous pouvons mettre à jour ou modifier cette politique de confidentialité.
+Si nous apportons des modifications importantes, nous vous en informerons par le biais d’une notification sur notre site web avant que la modification ne prenne effet.
+Identification de l’utilisateur
+Nous ne recueillons ni ne traitons les informations relatives (i) au nom, à l’adresse de l’utilisateur, au lieu de travail, à la date de naissance, à l’adresse électronique ou au numéro de téléphone, (ii) aux identifiants matériels tels que l’UDID ou l’adresse MAC ou (iii) aux catégories de ciblage sensibles telles que définies par l’Alliance européenne pour la publicité numérique interactive (EDAA) dans l’Espace économique européen (EEE) et en vertu d’autres lois applicables (par exemple, la religion, l’opinion politique, la santé).
+==========
+Afin de diffuser des publicités personnalisées ainsi que des publicités non personnalisées, Teads utilise les 3 méthodes suivantes pour identifier les utilisateurs en fonction du dispositif qu’ils utilisent, s’ils accèdent à nos services sur le web ou le mobile, et du système d’exploitation :
+Identification par cookie
+Teads dépose un cookie sur le navigateur web et/ou mobile de l’utilisateur.
+Les cookies sont des identifiants alphanumériques qui sont créés sur votre appareil par votre navigateur web à des fins d’enregistrement.
+Les cookies sont utilisés pour identifier un utilisateur et stocker un identifiant généré de manière aléatoire pour identifier son navigateur au fil des visites.
+Environnements sans cookies
+Pour les navigateurs configurés de manière à ne pas permettre le dépôt des cookies, Teads utilise une méthodologie d’identification basée sur le cryptage non réversible de l’adresse IP, les caractéristiques du navigateur et du dispositif.
+Cette méthode permet à Teads d’identifier un utilisateur afin de fournir le même niveau de services, tels que l’analyse et le ciblage des informations aux utilisateurs, la segmentation des utilisateurs et le plafonnement du nombre de fois qu’une même annonce est présentée au même utilisateur.
+Identification de la publicité
+Teads utilise sa technologie de kit de développement logiciel (“SDK”) pour identifier votre identifiant publicitaire pour les applications mobiles.
+Pour le système d’exploitation Google Android, nous utilisons le Google Advertising ID et pour Apple iOS l’IDFA.
+==========
+Vous pouvez à tout moment refuser l’utilisation de ces technologies comme décrit dans la section 9.
+Informations que nous collectons
+Nous ne collectons pas d’informations sur vous directement, mais nous recueillons des données par le biais de nos tags web sur les pages web des éditeurs, ou par le biais de notre SDK dans les applications mobiles des éditeurs.
+Nous recueillons également automatiquement les informations énumérées ci-dessous sur votre utilisation de nos services par le biais de technologies de suivi telles que les cookies, les tags de pixels, les tags et les scripts intégrés.
+Ces outils nous aident à collecter et à mesurer les informations relatives aux sessions, le temps passé sur certaines pages et les informations relatives à l’interaction avec les pages.
+Informations collectées automatiquement.
+Identificateurs : Adresse IP, identifiant publicitaire pour inApp.
+Informations relatives à l’activité sur Internet ou sur d’autres réseaux électroniques :
+Identificateurs: Adresse IP, identifiant publicitaire pour inApp.
+Informations relatives à l’activité sur Internet ou sur d’autres réseaux électroniques :
+URL de la page Informations sur le navigateur (par exemple, nom et version du navigateur)
+Informations sur le navigateur (par exemple, nom et version du navigateur)
+Informations sur le dispositif (par exemple, type de dispositif, système d’exploitation)
+Informations sur le support réseau (par exemple, Wifi, 4G ou connexion câblée)
+Informations sur l’application mobile (par exemple, nom de l’application ou IDFA)
+Interactions entre les utilisateurs et les annonces de Teads
+Information de géolocalisation :
+Données de géolocalisation non précises : Sur le web et le web mobile, nous recueillons des informations de localisation non précises au niveau du pays et/ou de la ville, qui sont dérivées de l’adresse IP de l’utilisateur.
+Données de géolocalisation précises : Sur les applications mobiles, lorsqu’un utilisateur opte pour la géolocalisation sur l’application de l’éditeur, la géolocalisation précise de l’utilisateur (latitude / longitude) peut être transférée au SDK de Teads par l’application mobile, mais ces données ne sont ni stockées ni utilisées par Teads.
+A noter, vous pouvez exercer votre droit de refus ou de retrait à tout moment en suivant la procédure décrite à l’article 10.
+Informations que nous déduisons :
+Nous pouvons déduire des informations sur la base des informations que nous ou nos partenaires recueillons.
+Par exemple, nous pouvons utiliser des données provenant de fournisseurs de confiance afin de déduire les intérêts généraux des utilisateurs (par exemple, socio-démographiques, affinités avec une marque) et d’améliorer la pertinence de la publicité pour les utilisateurs.
+Utilisation des données
+Nous utilisons les informations que nous recueillons à diverses fins commerciales et professionnelles, y compris celles décrites ci-dessous :
+Publicité ciblée : Nous utilisons les données pour filtrer la diffusion des publicités en fonction du profil de l’utilisateur, comme ses centres d’intérêt, son emplacement, le dispositif utilisé ou le contenu de la page ;
+Plafonnement de la fréquence des utilisateurs : Nous utilisons les données pour éviter d’afficher trop souvent la même publicité au même utilisateur ;
+L’analyse du trafic et des interactions des utilisateurs : Nous utilisons les données pour surveiller et rendre compte de la diffusion de la campagne pour les annonceurs et les éditeurs et pour l’analyse commerciale interne ;
+Diffusion des annonces : Nous pouvons transmettre une partie du profil de l’utilisateur à des acheteurs d’espaces publicitaire en programmatique afin qu’ils puissent diffuser leurs campagnes publicitaires ;
+Fournir, maintenir et améliorer nos services : Nous utilisons les données pour améliorer nos services et notre technologie, y compris la formation de nos algorithmes de diffusion des annonces ;
+Expérience croisée des dispositifs : Nous utilisons les données pour fournir une expérience consolidée à travers les différents dispositifs ou environnements de navigation d’un utilisateur, et nous pouvons relier les identifiants Teads sur les différents navigateurs et environnements que l’utilisateur utilise ;
+Fournir un service à la clientèle : Nous pouvons utiliser les données pour résoudre des litiges, des retours d’information ou d’autres questions liées à nos services ;
+Débogage, identification et réparation des erreurs : Nous pouvons utiliser les données pour résoudre les problèmes qui nuisent à la fonctionnalité de nos services ;
+Protéger les droits et la propriété des Teads et se conformer à la loi : Nous pouvons utiliser les données pour protéger nos droits et nos biens et nous conformer à nos obligations légales, notamment pour détecter, enquêter et prévenir la fraude et d’autres activités illégales et pour faire respecter nos accords ; et
+Pour les US.
+==========
+Effectuer certaines activités à court terme : Nous pouvons utiliser les données à d’autres fins internes raisonnables et à court terme liées à nos services ou à votre relation continue avec nous.
+Insights : Nous pouvons utiliser les données pour fournir à nos clients un aperçu global, au niveau des campagnes publicitaires ou du marché.
+Divulgation des données
+Données partagées avec des tiers.
+Afin de fournir les services, nous devons partager des données (y compris des informations personnelles) avec des vendeurs, prestataires de services, contractants ou agents tiers qui exercent des fonctions en notre nom, y compris ceux énumérés ci-dessous.
+Nos prestataires de services sont autorisés à utiliser les informations que nous leur fournissons uniquement dans la mesure où cela est nécessaire pour nous fournir ces services.
+Acheteurs d’espaces publicitaire en programmatiques : Nous pouvons envoyer une partie du profil d’utilisateur à des acheteurs programmatiques utilisant des plateformes de demande telles que Google Display & Video 360, qui achètent nos placements publicitaires par le biais d’enchères publicitaires programmatiques.
+Ces sociétés sont responsables, en tant que responsable des traitements indépendants, des données utilisées pour diffuser leurs annonces sur le réseau de Teads.
+Mesure de la visibilité.
+Nous transmettons les données à des sociétés spécialisées dans la mesure des campagnes telles que MOAT ou IAS afin de vérifier que nos annonces sont visibles et correctement affichées
+Détection des fraudes.
+Nous transmettons des données à des sociétés telles que DoubleVerify afin d’empêcher la diffusion de nos publicités sur des trafics frauduleux, tels que les trafics non humains.
+Géolocalisation.
+Nous transmettons l’adresse IP de l’utilisateur à des partenaires acheteurs d’espaces publicitaire en programmatique qui peuvent utiliser l’IP pour en dériver une localisation non précises au niveau du pays et/ou de la ville.
+Analyse et mesure d’audience.
+==========
+Nous transmettons des données à des entreprises telles que Nielsen, ComScore ou Mediametrie afin de valider la précision de notre ciblage ou de mesurer la portée démographique de notre réseau.
+Affiliés.
+Nous pouvons divulguer les informations que nous recueillons par le biais des Services à nos affiliés ou filiales aux fins décrites dans la présente politique de confidentialité ; toutefois, si nous le faisons, leur utilisation et leur divulgation de vos informations personnelles seront soumises à la présente politique de confidentialité.
+Hébergement.
+Nous faisons appel à des tiers fournisseurs d’hébergement et de centres de données pour stocker les données, tel qu’Amazon Web Services ou Google Cloud.
+Autres divulgations.
+Nous pouvons également divulguer des informations dans les circonstances suivantes.
+Transferts d’activités.
+==========
+Si nous sommes (ou pouvons être) acquis par une autre entreprise ou fusionnés avec celle-ci, si l’un de nos actifs est transféré à une autre entreprise ou dans le cadre d’une procédure de faillite, nous pouvons transférer les informations que nous avons recueillies auprès de vous à l’autre entreprise.
+En réponse à une procédure judiciaire.
+Nous pouvons également divulguer les informations que nous recueillons auprès de vous afin de nous conformer à la loi, à une procédure judiciaire, à une ordonnance du tribunal ou à d’autres procédures légales, par exemple en réponse à une ordonnance du tribunal ou à une assignation à comparaître.
+Pour nous protéger et protéger les autres.
+Nous pouvons également divulguer les informations que nous recueillons auprès de vous lorsque nous pensons qu’il est nécessaire d’enquêter, de prévenir ou de prendre des mesures concernant des activités illégales, des suspicions de fraude, des situations impliquant des menaces potentielles à la sécurité de toute personne, des violations de nos conditions d’utilisation ou de cette politique, ou comme preuve dans un litige dans lequel Teads est impliqué.
+Informations agrégées.
+Nous pouvons partager des informations agrégées sur les utilisateurs avec des tiers à des fins de marketing, de publicité, de recherche ou à des fins similaires.
+Vente d’informations personnelles.
+==========
+Le chapitre suivant s’adresse uniquement aux résidents californiens (USA) soumis à la réglementation CCPA.
+Teads utilise des données pour ses activités afin de servir ses clients et combine ces données avec d’autres informations pour aider à améliorer ses produits et services.
+Une telle utilisation peut être considérée comme une “vente” au sens de la loi californienne sur la protection de la vie privée des consommateurs (“CCPA”).
+Comme Teads utilise et combine les données qu’elle reçoit avec d’autres informations pour aider à améliorer ses produits et services, Teads se considère comme une tierce partie aux fins du CCPA.
+.
+==========
+Les annonceurs (et leurs intermédiaires) et les éditeurs qui travaillent avec Teads doivent inclure un lien “Ne pas vendre” sur leur(s) site(s) web pour se conformer au CCPA tel qu’interprété par le procureur général de Californie.
+Divulgations supplémentaires pour les particuliers en Europe
+Si vous êtes situé dans l’Espace économique européen ou en Suisse, vous bénéficiez de certains droits et protections en vertu de la loi concernant le traitement de vos données personnelles.
+Base juridique du traitement.
+Lorsque nous traitons vos données à caractère personnel, nous le faisons, par exemple, dans les situations suivantes :
+Lorsque nous avons obtenu votre consentement valide, préalablement au dépôt de traceurs et/ou de traitement de données personnelles
+Pour nos clients et partenaires professionnels, nous pouvons utiliser vos données à caractère personnel pour nous acquitter des responsabilités qui nous incombent en vertu de notre contrat avec vous (par exemple, le traitement des paiements et la fourniture des produits ou services que vous avez demandés).
+Nous avons un intérêt légitime à traiter vos données à caractère personnel, par exemple, pour vous envoyer des communications commerciales, pour communiquer avec vous sur les changements apportés à nos produits et services, et pour fournir, sécuriser et améliorer nos produits et services.
+Nous estimons qu’un tel traitement est nécessaire pour nous conformer à nos obligations légales.
+Demandes des personnes concernées.
+==========
+Vous avez le droit d’accéder aux données personnelles que nous détenons sur vous et de demander que vos données personnelles soient rectifiée, effacées ou transférées.
+Vous pouvez également avoir le droit de vous opposer à certains traitements ou de demander que nous les restreignons.
+Si vous souhaitez exercer l’un de ces droits, vous pouvez nous contacter comme indiqué ci-dessous.
+Conservation et sécurité des données
+Nous conservons les données liées à un utilisateur jusqu’à 12 mois à compter de la date de collecte.
+Nous pouvons également conserver des données agrégées et non personnelles pendant une période supérieure à 12 mois pour des raisons financières et statistiques.
+Pour des raisons de sécurité, l’adresse IP de l’utilisateur est conservée dans un journal de sécurité privé pendant une période de 4 mois.
+Le cookie Teads est conservé jusqu’à 365 jours après la dernière interaction de l’utilisateur avec nos services.
+Teads utilise les normes de sécurité généralement acceptées dans l’industrie pour protéger les données.
+Vos informations personnelles seront conservées conformément à notre politique de conservation des données qui est conçue pour conserver les données aussi longtemps que nécessaire pour nous permettre de respecter nos obligations contractuelles, nos obligations en matière d’emploi et d’autres objectifs commerciaux, y compris les obligations légales globales de conservation des données.
+Nous pouvons conserver certaines informations des comptes fermés afin de nous conformer à la loi, de prévenir la fraude, d’aider aux enquêtes, de résoudre les litiges, d’analyser ou de dépanner les programmes, de faire respecter nos conditions d’utilisation ou de prendre d’autres mesures autorisées par la loi.
+Nous avons mis en place des mesures de sécurité requises par les réglementations pour protéger les informations que nous recueillons contre tout accès non autorisé, toute exfiltration, tout vol, toute perte, tout abus, toute divulgation, toute altération ou toute destruction.
+Pour autant, sachez que malgré tous nos efforts, nous ne pouvons garantir 100% de fiabilité dans un environnement digital.
+==========
+En conséquence, nous vous recommandons de prendre des mesures pour vous protéger contre tout accès non autorisé à votre mot de passe, votre téléphone et votre ordinateur, notamment en vous déconnectant après avoir utilisé un ordinateur partagé, en choisissant un mot de passe robuste que personne d’autre ne connaît ou ne peut facilement deviner, et en gardant votre login et votre mot de passe privés.
+Nous ne sommes pas responsables des mots de passe perdus, volés ou compromis ou de toute activité sur votre compte par le biais d’une activité non autorisée.
+Transfert d’informations vers les Etats-unis et d’autres pays
+Teads est basé au Luxembourg et nous traitons et stockons des informations à travers les États-Unis, l’Europe, l’Amérique latine et l’Asie.
+Teads s’assure dès lors de garantir un niveau de protection adéquat, en conformité avec le RGPD.
+Politiques de protection de la vie privée des tiers
+La présente politique de confidentialité ne concerne que l’utilisation et la divulgation d’informations et de données par les Teads.
+Les éditeurs, les annonceurs et les autres sites Web qui peuvent être accessibles par l’intermédiaire de nos services ont leurs propres politiques et pratiques de confidentialité qui régissent la collecte, l’utilisation et la divulgation de vos informations personnelles lorsque vous interagissez avec leurs services et utilisez leurs produits.
+Nous vous encourageons à vous familiariser avec les politiques de confidentialité de tous les tiers avant de leur donner des informations ou de profiter d’une offre ou d’une promotion.
+Choix d’accès, de suppression,
+Le chapitre suivant s’adresse uniquement aux résidents californiens (USA) uniquement soumis à la réglementation CCPA.
+Pour exercer ces droits, veuillez suivre les instructions ci-dessous :
+Comment demander l’accès aux informations personnelles : Vous pouvez demander l’accès à vos informations personnelles deux fois sur une période de 12 mois.
+Pour ce faire, veuillez nous envoyer un courrier électronique à l’adresse suivante : dpo@teads.com.
+Les résidents des États-Unis peuvent également nous appeler au 1-866-467-8688 (1-866-I-OPT-OUT).
+Lorsque vous êtes invité à le faire, veuillez utiliser le code 777#.
+.
+==========
+Les titulaires de compte peuvent demander à tout moment l’accès à leurs informations personnelles en se connectant à leur compte sur les services.
+En réponse, nous produirons un rapport d’accès détaillant les informations personnelles que nous avons collectées, divulguées et/ou vendues à votre sujet.
+Ce rapport d’accès vous sera remis par courrier ou par voie électronique à votre demande.
+Comment demander la suppression d’informations personnelles : Vous pouvez demander à Teads de supprimer les informations personnelles qu’elle a collectées et/ou conservées à votre sujet.
+Pour ce faire, veuillez nous envoyer un courriel à l’adresse suivante : dpo@teads.com.
+Les résidents des États-Unis peuvent également nous appeler au 1-866-467-8688 (1-866-I-OPT-OUT).
+Lorsqu’on vous le demandera, veuillez utiliser le code 777#.
+Notez que nous pouvons être amenés à conserver certaines informations personnelles dans la mesure où la loi le permet, par exemple pour mener à bien la transaction pour laquelle les informations personnelles ont été collectées, fournir un bien ou un service demandé, détecter des incidents de sécurité, assurer une protection contre des activités malveillantes, trompeuses, frauduleuses ou illégales, respecter des obligations légales ou permettre uniquement des utilisations internes qui sont raisonnablement conformes à vos attentes ou légales dans le contexte dans lequel vous avez fourni les informations.
+Comment refuser la vente d’informations personnelles : Nous proposons une option de refus de l’utilisation de cookies et d’autres technologies de suivi en rapport avec nos services, ce qui peut dans certains cas constituer la vente de vos informations personnelles en vertu de l’ACFPC ou d’autres lois sur la protection de la vie privée.
+Pour refuser la vente de vos informations personnelles, veuillez cliquer sur DO NOT SELL MY PERSONAL INFORMATION ou suivre les instructions de configuration du navigateur ci-dessous.
+Cela aura pour effet de faire cesser l’ajout d’informations à tout cookie ou autre technologie de suivi qui a été paramétré sur nos services ou de les bloquer entièrement.
+Cela empêchera également la publicité ciblée.
+Veuillez noter que vous devrez vous désinscrire à nouveau si vous visitez l’un de nos services à partir d’un autre appareil ou navigateur ou si vous supprimez vos cookies.
+==========
+If you are a California resident, you have the right to know what personal information we collect, disclose, and “sell” about you (as that term is used in the CCPA).
+Additionally, you have the right to access, delete and opt-out from the “sale” of your personal information.
+==========
+Vérification
+Veuillez noter que nous prendrons des mesures pour vérifier votre identité avant de répondre à toute demande de consommateur.
+Si vous êtes titulaire d’un compte chez nous, nous vérifierons votre identité par le biais des pratiques d’authentification existantes pour le compte (par exemple, login et mot de passe).
+Si vous n’êtes pas un membre enregistré, nous vérifierons votre identité en comparant deux ou trois points de données que vous nous fournissez avec des points de données que nous maintenons et que nous avons déterminés comme étant fiables aux fins de vérification (par exemple, navigateur et identifiant de l’appareil).
+Agents autorisés
+Vous pouvez faire appel à un agent autorisé pour effectuer ces demandes en votre nom.
+Mais nous pouvons exiger que l’agent fournisse une autorisation écrite et vérifie son identité ou démontre qu’il dispose d’une procuration.
+Droit de lutte contre la discrimination
+Vous avez le droit de ne pas être victime de discrimination en matière de qualité des produits, de biens ou de services si vous choisissez d’exercer vos droits en matière de protection de la vie privée en vertu de la CCPA.
+Do not Track
+Do Not Track (signifiant « ne pas suivre ») est une préférence de confidentialité que les utilisateurs peuvent définir dans leur navigateur web.
+Lorsqu’un utilisateur active le signal “Do Not Track”, le navigateur envoie un message aux sites web leur demandant de ne pas suivre l’utilisateur.
+À ce moment-là, nous cessons de faire de la publicité ciblée lorsque nous recevons un signal “Do Not Track”.
+Pour plus d’informations sur le signal “Do Not Track”, visitez le site www.allaboutdnt.org.
+Opt-out from Teads publicité personnalisée
+Si vous ne souhaitez pas que nous vous montrions des annonces personnalisées (basées sur vos intérêts supposés), veuillez suivre les instructions ci-dessous :
+Pour utiliser votre droit de retrait (opt out) via votre navigateur web dans n’importe quel appareil :
+Si vous choisissez d’utiliser votre droit de retrait (opt out) , vous verrez toujours des annonces publicitaires, y compris des annonces contextuelles (c’est-à-dire des annonces adaptées à la ligne éditoriale du site web ou à l’application que vous consultez actuellement) et des annonces basées sur votre emplacement actuel ; il est possible qu’elles ne correspondent pas à vos intérêts.
+Le mécanisme d’exclusion ne vous permettra de ne pas recevoir les publicités personnalisées diffusées par Teads dans ce navigateur ou dans les applications mobiles de cet appareil (par exemple, les téléphones, les tablettes).
+Il ne vous exclura pas des autres appareils ou des autres navigateurs que vous utilisez.
+La plupart des navigateurs web sont configurés pour accepter les cookies par défaut.
+Si vous préférez, vous pouvez généralement choisir de configurer votre navigateur pour qu’il supprime ou rejette les cookies.
+Veuillez noter que si vous choisissez de supprimer ou de rejeter les cookies, cela pourrait affecter la disponibilité et la fonctionnalité de nos services.
+Les informations de refus sont stockées dans un cookie pendant 5 ans.
+Si vous supprimez vos cookies, ces informations seront également supprimées, et vous devrez renouveler vos choix de non-participation.
+Pour plus d’informations sur les annonces basées sur les intérêts, ou pour refuser que vos informations de navigation sur le web soient utilisées à des fins de publicité comportementale, veuillez consulter www.youronlinechoices.com, www.aboutads.info/choices, et d’autres sites similaires.
+Pour utiliser votre droit de retrait (opt out) via un environnement “in an app” :
+Si vous choisissez d’utiliser votre droit de retrait dit d’opt out et, vous verrez toujours des publicités, y compris des publicités contextuelles (c’est-à-dire des publicités adaptées au site web ou à l’application que vous consultez actuellement) et des publicités basées sur votre emplacement actuel, mais elles peuvent ne pas correspondre à vos intérêts.
+Si vous souhaitez désactiver les annonces personnalisées Teads, veuillez vous référer aux paramètres de votre système d’exploitation.
+Les logiciels de système pour appareils mobiles fournissent des mécanismes qui permettent aux utilisateurs de refuser l’utilisation d’informations sur leur utilisation des applications mobiles pour diffuser des publicités ciblées sur leur appareil mobile.
+Pour plus d’informations, ou pour refuser d’utiliser ces mécanismes, consultez les paramètres de votre appareil (par exemple, “Refus des publicités basées sur les intérêts” sur les appareils Android et “Limiter le suivi des publicités” sur les appareils iOS).
+Veuillez noter qu’il s’agit d’un paramètre de l’appareil qui désactivera les publicités personnalisées de tous les fournisseurs, et pas seulement pour les Teads.
+Si l’identifiant publicitaire de votre appareil est réinitialisé, vous devrez renouveler votre choix de désengagement pour cet appareil.
+Vie privée des enfants
+Nos services ne sont pas destinés aux enfants de moins de seize (16) ans et nous ne commercialisons pas de produits ou de services destinés à ces enfants.
+Engagements d’autorégulation des Teads
+Teads s’est engagé dans des initiatives qui visent à offrir une plus grande transparence et un meilleur contrôle aux utilisateurs et, à ce titre, adhère aux initiatives d’autorégulation suivantes :
+L’IAB Europe Teads appartient à l’IAB Europe et se conforme au cadre de l’OBA.
+L’IAB Europe offre aux consommateurs une plateforme web de retrait en ligne et fournit des informations générales aux consommateurs sur les outils de protection de la vie privée.
+Teads est également l’un des premiers à adopter le cadre de transparence et de consentement de l’IAB (IAB TCF) qui permet aux utilisateurs d’exprimer leur choix et d’informer les opérateurs de la chaîne d’approvisionnement publicitaire sur le choix de l’utilisateur.
+EDAA Teads est membre de l’Alliance européenne pour la publicité numérique (“EDAA”) et respecte les principes d’autorégulation de l’EDAA.
+L’EDAA a été fondée par une coalition industrielle européenne représentant les annonceurs, le secteur des agences de publicité, le secteur du marketing direct, le secteur des réseaux publicitaires et le secteur des médias.
+L’EDAA offre aux consommateurs une plateforme web de retrait en ligne et fournit des informations générales aux consommateurs sur les outils de protection de la vie privée.
+Contactez-nous
+Pour toute question concernant cette politique de confidentialité ou nos pratiques en matière de données, vous pouvez contacter Teads :
+Par courrier électronique : dpo@teads.com
+Par courrier : Service juridique (DPO) -Teads – 97 rue du Cherche midi – 75006 Paris – France
+Pour les besoins de l’ACCP : Comme décrit dans la section 9 ci-dessus.
+Partenaires
+Nous pouvons partager vos données avec des partenaires commerciaux, qui sont des entreprises contribuant à la fourniture du service.
+Si vous souhaitez exercer vos droits auprès de ces partenaires, nous vous invitons à suivre leurs directives, accessibles dans leur politique de confidentialité.
+Partenaires (en cours d’actualisation) :
+Criteo https://www.criteo.com/privacy/
+Et les partenaires cités en article 4.
+==========

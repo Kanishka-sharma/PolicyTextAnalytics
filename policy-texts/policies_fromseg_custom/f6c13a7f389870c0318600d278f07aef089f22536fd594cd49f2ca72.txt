@@ -1,0 +1,59 @@
+Privacy Policy
+Effective date: 19/09/2014 This policy provides an overview of the type of data that Remerge collects, how we use these data and what safeguards we have put in place in order to ensure their protection.
+About Remerge
+We deliver display app retargeting campaigns of third party mobile app developers inside other apps.
+These ads are selected based on user’s geographic location, device information, their use of other apps integrated with our partners and information provided to us about the user by publishers and developers.
+We enable our partnering publishers and developers to provide content-rich services that are more relevant to their users, often using advertising revenues they generate to offer their services for free or at a subsidised cost.
+1.
+==========
+Data We Collect
+We collect data regarding the behaviour of users inside our partners’ apps.
+We may combine the data we collect with other types of data.
+We do not knowingly collect data that we consider to be sensitive.
+We consider the following data as sensitive:
+Health data Data that are coming from children under the age of 13 Certain financial data Adult-oriented products or services’ data Highly accurate location data from GPS or similar Device data that we collect: Apple’s Advertising ID (IFA) is a convention adopted by Apple to allow advertising data collection while preserving user privacy Android’s Advertising ID is an ID developed by Android to help personalize the Android experience Operating system (e.g. iOS, Android) Type of the device (e.g. smartphone, tablet) Type of the mobile browser (e.g. Safari, Google Chrome etc.) Network provider The coarse geo-location of your device (country) Data concerning ads that you had been served: Basic details of the ad delivered (e.g. advertiser’s name, type of advertising, etc.) The app where the ad was delivered The user’s interaction with the ad (i.e. whether he clicked, hid, muted otherwise interacted with the ad) The certain actions performed after clicking on the ad (e.g. downloading an application, making a purchase, etc.) We do not collect any personally identifiable information (PII) for advertising from you and do not combine the foregoing data with any of your personally identifiable information without your prior consent.
+1.
+==========
+Use of Data
+We use the information we collect in order to display interest-based advertising customised to individuals’ inferred interests, preferences and locations but also in order to perform analysis aiming to improve our services and technologies.
+The information also helps us to provide targeting options for advertisers.
+==========
+This filtering procedure leads to serving adverts that are most likely interesting for the final app users.
+We also use the information to analyse the performance of advertising campaigns of our partners and to provide them with performance reports.
+==========
+Neither our partners nor we combine the data collected by us with other data in a way that would enable our partners or us to personally identify you.
+We provide the data we collect only to users of our services that are strictly related with these data.
+We never share data with non-related parties such as other companies or individuals.
+The partners then may use the data for various purposes, such as targeting advertisements or other content targeting to visitors.
+We may also use some of the data we collect that can be publicly disclosed to create industry reports, analyses, and similar materials that we may use for sales, marketing or other business purposes.
+As described above, we share data only with the users of our service that are strictly related with these data.
+However, there are some exceptions where we may also provide data to third parties such as regulatory authorities and law enforcement officials when we believe in good faith that the law requires it.
+2.
+Other Terms
+Security of the data: We take all the appropriate measures in order to protect the data that are under our control from unauthorized access, disclosure, alteration, or destruction.
+==========
+Children’s Privacy: We do not knowingly collect data from anyone under 13 years of age.
+Retention of the data: We retain data for no more than two years unless we have a business need to retain it for a longer time period.
+3.
+==========
+Changes To The Policy
+We may make changes to this Policy from time to time when new technologies, industry practices, regulatory requirements or for other purposes require it.
+The most recent version of the Policy will always be posted on the Site.
+If we do make any changes, we will also update the “Effective Date” posted at the top of the Policy.
+==========
+If you have additional questions or would like further information, please feel free to email us at privacy@remerge.io or write to us at:
+remerge GmbH Attn: Chief Privacy Officer Gryphiusstraße 13 10245 Berlin, Germany
+4.
+Opt Out
+Remerge takes user privacy policy seriously, thus we support the “Do not track” option.
+Following the steps below you can opt-out from being included in the Remerge services.
+==========
+Android Users From your Android applications screen open the “Google Settings” App -> Ads -> and Check the option “Opt out of internet-based ads”
+or You can use this app available in Google Play to find your Android ID In the form to the left, select Android from the Platform dropdown and paste your Android ID into the Device Identifier box iOS Users For iOS 7 Users
+From your iOS home screen, go to Settings -> Privacy -> Advertising On the Advertising screen, turn “Limit Ad Tracking” on Please note that this is a global setting and will disable ad tracking on the device level, not just for Remerge
+For iOS 6 Users
+From your iOS home screen, go to Settings -> General -> About -> Advertising On the Advertising screen, turn “Limit Ad Tracking” on Please note that this is a global setting and will disable ad tracking on the device level, not just for Remerge For iOS 5 (and below) Users Launch iTunes and connect your iOS device On the Summary tab, locate the information about your iPhone, including its name, capacity, software version, serial number and phone number.
+Click the Serial Number label to reveal the Identifier (UDID) Right click on Identifier (UDID) to copy the value In the form to the left, select iOS from the Platform dropdown and paste your UDID into the Device Identifier box
+Other Platforms
+For native applications, we only currently collect data for Android & iOS We do not currently collect data for Windows Phone or BlackBerry
+==========

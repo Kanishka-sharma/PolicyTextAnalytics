@@ -1,0 +1,18 @@
+Docker respects your preferences concerning the collection and use of your personal data.
+These are some of the measures we take to protect your personal data.
+Privacy Policy
+Docker’s Privacy Policy details the different ways personal data received from users of our website (“Website”) collected via the Website, email, SMS, telephone, WAP or other means may be collected, used, and disclosed by Docker.
+==========
+Data Processing Addendum
+The EU General Data Protection Regulation (GDPR) came into effect on May 25, 2018.
+GDPR has a long reach and applies if you are based in the EU or do business in the EU.
+==========
+If you have any EU personal data in your Docker account, such as names, email addresses, ID numbers, or anything else that is personally identifiable, then GDPR applies.
+You are a Controller of personal data under GDPR, so you need to enter into GDPR-compliant data processing agreements with any online services and third party vendors you rely on, including Docker.
+These agreements are called a Data Processing Addendum, or DPA.
+The processing of EU personal data must be governed by a GDPR-compliant data processing agreement.
+Docker provides a standard DPA to extend GDPR privacy principles, rights, and obligations regarding personal data stored in the production system/technical instance of Docker’s subscriptions and/or services provided by Docker and ordered by a Docker customer.
+Subprocessors
+Docker uses third party subprocessors, such as cloud computing service providers and customer support software, to provide our services.
+We enter into a GDPR-compliant data processing agreement with each subprocessor, and require the same of them.
+==========

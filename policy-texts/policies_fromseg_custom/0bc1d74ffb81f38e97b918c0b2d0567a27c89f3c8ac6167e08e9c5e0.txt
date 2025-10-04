@@ -1,0 +1,197 @@
+LOCALSENSOR PLATFORM PRIVACY POLICY
+Effective date: April 12th, 2018
+
+KEY TAKEAWAYS
+How did you get here?
+You are probably using an app serving you news, weather data, traffic information or the like.
+The owner of the app maintains
+				the app by means of serving you ads.
+This way the app can be offered for a lower fee or no fee at all.
+How is Localsensor involved in this?
+Localsensor helps advertisers to show great engaging ads to persons like you based on what we think you might find interesting.
+==========
+That is what we call interest-based advertising.
+What do you mean by 'interest' in interest-based advertising?
+We do our best to serve you ads that appeal to you.
+E.g. if you visit a city more than average we might serve you ads
+				that show you local deals for that particular city.
+==========
+We are not interested in you personally (sorry :-/).
+We only try to reach large groups
+				who might find something more interesting.
+This way you get more relevant ads.
+You are not selling my data to other parties, right?
+No, and we will never do so.
+We only use your data to serve you great ads through our platform.
+==========
+When did I gave my consent for this?
+When you installed the app or at any other time the app asked you for your consent for advertising in this app.
+If I want to reconsider all of this, where do I start?
+You have the right to revoke your consent at any time.
+==========
+You can also reset your Advertiser Identifier in your device and
+				your Advertiser Identifier link to segments will be wiped out completely.
+You also have the right to get the segments
+				we have linked your device Advertiser Identifier with.
+Please drop us an email at
+				privacy@localsensor.com
+
+How can I manage my Advertiser ID?
+Your Advertiser Identifier (ID) is directly managed by the operating system of your device being either android or iOS.
+For iOS you could visit the following link:
+				https://support.apple.com/en-us/HT202074
+				and for Android you could go to:
+				https://support.google.com/ads/answer/2662922?hl=en.
+==========
+This Privacy Policy is meant to clearly inform you about the way Localsensor uses data related to you and about your rights
+			with regard to this data.
+We therefore ask you to read this Privacy Policy carefully.
+Should you have any concerns or
+			questions after reading it, please do not hesitate to contact us.
+Our team is always here to answer questions and to listen
+			to any suggestions you may have for improving our services or policies.
+You can reach us at: privacy@localsensor.com.
+A.
+==========
+ABOUT LOCALSENSOR
+Localsensor B.V. is a private limited liability company incorporated under the laws of The Netherlands, having its registered
+			offices in Amsterdam, The Netherlands, at the De Entree 234, Floor 4, Unit 4, 1101 EE.
+Localsensor is registered with
+			the Chamber of Commerce under number 55634958.
+You can always reach our Data Protection Officer at
+			privacy@localsensor.com.
+==========
+Localsensor is a mobile advertising technology company.
+We help companies to plan, execute, evaluate and optimize mobile
+			in-app advertising campaigns via our platform (the 'Platform').
+Our clients are companies of all sorts that wish to provide
+			you with mobile in-app advertisements that are relevant and of interest to you.
+Our business partners are publishers that
+			serve you these advertisements in their mobile apps.
+B. LOCALSENSOR'S PLATFORM PRIVACY PRACTICES
+WHAT PERSONAL DATA DOES LOCALSENSOR COLLECT AND PROCESS?
+The personal data we use on our Platform includes data regarding your device (such as resettable Advertiser Identifier,
+			device location and IP-address) and also data regarding operating system, network provider, device location, device model,
+			the used app and interaction with the served advertisement.
+We are keen to limit the collection of personal data to the bare minimum and make the data less specific to prevent personal
+			identification with the data as much as possible.
+FOR WHAT PURPOSES DO WE PROCESS PERSONAL DATA?
+On our Platform, we use the personal data we receive from our business partners for limited and well-defined purposes:
+		
+(1) Programmatic Ad Buying and Ad Serving
+a. First of all, after we receive the personal data, we directly use it to decide whether or not we will serve you an advertisement
+			based on our clients advertising objectives.
+b.
+If your personal data includes location data we might use this data to support the decision whether or not to advertise
+			based on map data.
+c.
+==========
+We also might adapt the advertisement shown based on your personal data.
+(2) Interest-based Segments
+On our Platform, we also use personal data to create segments.
+We process your personal data to improve the segments on
+			our Platform.
+For this we use the pseudonymised Advertiser Identifier on your device.
+We use location data, IP-address, app and publicly available
+			data, like statistical governmental data, to update our segments.
+This helps us to provide you with even more relevant
+			advertisements in the future.
+We provide our clients with filtering options to manage the advertisements that are displayed
+			to you and to target specific segments of users of the apps.
+We will not create segments to such a degree that they can be linked to a single or small group of
+			pseudonymised advertiser identifiers.
+We will also never allow segments be used to harm your personal interests or interest of a group and we will also never allow segments 
+			to be used limit your fundamental rights and freedoms.
+==========
+ON WHAT LEGAL BASIS DO WE PROCESS PERSONAL DATA?
+For purpose (1) Programmatic Ad Buying and Ad Serving we only process your personal data if you gave your consent to 
+			our business partners in their app.
+For purpose (2) Interest-based Segments we build segments in such a broad way that your personal interests and 
+			fundamental rights and freedoms are safeguarded.
+The legal basis for this is a legitimate interest of Localsensor to 
+			be able to help our clients to serve you ads in a much more efficient way so you get more relevant ads.
+==========
+FROM WHOM DO WE RECEIVE YOUR PERSONAL DATA?
+We receive your personal data from our business partners through their programmatic advertising selling platform.
+HOW LONG WILL MY PERSONAL DATA BE STORED?
+==========
+We will retain the data we receive from our business partners only for as long as is necessary for the purposes you gave your
+			consent for.
+Once the personal data has served its purpose, it is immediately deleted.
+For Ad Buying and Ad Serving (purpose 1) we will delete your personal data after 24 hours.
+For Interest-based Segments (purpose 2) we will store your personal data for 24 hours and will only keep a pseudonymised
+			(hashed) version of your Advertiser Identifier to link to interest segments.
+This interest segments we will delete after
+			12 months.
+==========
+Interest segments don't contain personal data.
+HOW DO WE PROTECT PERSONAL DATA?
+We take appropriate technical and organizational measures to protect personal data against loss or any form of unlawful
+			use.
+For example, we limit access to this data only to authorized employees and contractors who need to know that personal
+			data in order to perform their services.
+==========
+We use hashing, encryption, pseudonymisation and de-identification techniques to ensure that the personal data in our segment
+			database can in no way be linked to you as a person.
+This allows us to only identify your device for the purposes of providing
+			our service and prevents your data being used to identify you in real life, either by us, our clients or our business
+			partners.
+WITH WHOM DO WE SHARE DATA?
+We don't share your personal data we receive from our business partners with our advertising clients.
+We only share aggregate,
+			non-individual data with our advertising clients.
+Insofar as this is necessary for ad delivery and associated services, we
+			also share data from our database with our publishing partners.
+We only share personal data with trusted technology service providers for processing based on GDPR compliant sub-processor
+			contracts.
+We will disclose personal data when obligated to do so by law, for instance to law enforcement authorities, our legal advisers
+			or other third parties.
+We may also disclose personal data if this is necessary to enforce our terms and conditions or
+			to protect our rights.
+==========
+This may also include exchanging data with other companies and organizations for fraud protection.
+TRANSFER OF PERSONAL DATA TO COUNTRIES OUTSIDE THE EU
+All personal data is stored within the European Union.
+We will not transfer personal data to outside the European Union.
+==========
+HOW DO WE PROTECT CHILDREN?
+We don't use our Platform to target apps from business partners that are mainly intended for children under the age of 13.
+We are not 
+			knowingly processing personal data of children.
+If we have accidentally done so and we discover this, we will immediately remove all
+			related (personal) data from our Platform.
+COOKIES
+On the Platform, we do not collect data by use of cookies, beacons or the like.
+==========
+C. YOUR RIGHTS
+WHAT ARE MY RIGHTS REGARDING MY CONSENT, VIEWING, CHANGING, DOWNLOADING AND DELETING MY PERSONAL DATA?
+Your consent is linked to your resettable Advertiser Identifier on your device.
+You can, at any time, reset or completely
+			disable your Advertiser Identifier by following instructions through the following links, depending on your device: 
+iOS:
+			https://support.apple.com/en-us/HT202074
+
+Android:
+			https://support.google.com/ads/answer/2662922?hl=en.
+If you wish to know what segments your pseudonymised Advertiser Identifier is associated with on our Platform or if you
+			wish to have this data changed, modified, downloaded or deleted, please contact us via
+			privacy@localsensor.com.
+HOW CAN I LODGE A COMPLAINT
+Your rights regarding your personal data are of utmost importance to us.
+If you feel we haven't served you right we would
+			really like hearing from you.
+You can also lodge a complaint with the Supervisory Authority.
+==========
+For The Netherlands this
+			is the Autoriteit Persoonsgegevens (https://www.autoriteitpersoonsgegevens.nl)
+D. MISCELLANEOUS
+CAN THIS PRIVACY POLICY BE CHANGED?
+We reserve the right to change, update or modify this Privacy Policy at any time at our sole discretion, and will post
+			any new Privacy Policy here.
+Any such change, update or modification will be effective immediately.
+Please check our website
+			regularly at https://www.localsensor.com/privacy.html.
+QUESTIONS?
+If you have any questions, please do not hesitate to contact us via
+			privacy@localsensor.com.
+==========

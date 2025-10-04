@@ -1,0 +1,406 @@
+The Wayback Machine - https://web.archive.org/web/20030105142848/http://www.eff.org:80/privacy/
+
+
+http://www.eff.org/pub/Privacy/
+
+Last Updated Tue Dec 10 10:40:04 PDT 2002
+
+
+
+
+Files in this Archive
+
+eff_privacy_top_12.html
+"EFF Top 12 Ways to Protect Your Online
+    Privacy", a short FAQ to help your excercise your right to be
+    let alone on the Internet.
+20020405_joint_co_comments.html
+Joint comments of the Electronic
+    Frontier Foundation (EFF), the Electronic Information Privacy Center
+    (EPIC), and the KPFA &amp; KFCF radio stations, to the US Federal
+    Communications Commission (FCC) on the privacy threats inherent in,
+    and anti-competitive nature of, proposed regulation 67 Fed.
+Reg.
+5761,
+    dealing with statutory licensing of Internet radio (Apr. 5, 2002)
+20020405_joint_co_comments.pdf
+Joint comments of the Electronic
+    Frontier Foundation (EFF), the Electronic Information Privacy Center
+    (EPIC), and the KPFA &amp; KFCF radio stations, to the US Federal
+    Communications Commission (FCC) on the privacy threats inherent in,
+    and anti-competitive nature of, proposed regulation 67 Fed.
+Reg.
+5761,
+    dealing with statutory licensing of Internet radio (Apr. 5, 2002)
+    [PDF version]
+19990406_EFF_MS_P3P_Paper/index.html
+"'Architecture Is Policy' Case Study:
+    Cooperative Development as a Means for a Standards-Based Implementation
+    for Privacy on the Internet" - EFF/Microsoft white paper on testbed
+    implementation of W3C's Platform for Privacy Preferences (P3P) protocol.
+By Tara Lemmey (EFF) and Saul Kline (MS).
+(Apr. 6, 1999)
+19990421_leahy_electr_rghts.
+==========
+bill
+This is a bill introduced by Senator
+    Leahy some sections of which were eventually incorporated in other
+    bills and in the FCC implementation order relevant to CALEA.
+This
+    bill was read twice on the floor and referred to committee and never
+    was voted on in this form.
+The titles were:
+    Title I: Privacy Protection for Communications and Electronic
+    Information
+    Title II: Promoting Use of Encryption
+    Title III: Privacy Protection for Library Loan and Book Sale Records
+    Title IV: Privacy Protection for Satellite Home Viewers
+199907_ftc_online_privacy_report.html
+July 1999 report of US Federal
+    Trade Commission (FTC) on privacy and online commerce, especially in
+    regards to the World Wide Web.
+(HTML version)
+960514_cavoukian_priv-sec.
+==========
+speech
+Ann Cavoukian (Ontario Asst. Privacy 
+    Commissioner) speech/paper, "Go Beyond Security -- Build in Privacy: One 
+    Does Not Equal the Other", from CardTech/SecurTech 96 Conference, 
+    Atlanta, GA.
+Analyses the difference between confidentiality and 
+    security on the one hand, and the more comprehensive concept of privacy
+    on the other.
+cfp1_convention.
+summaries
+A file containing two summaries of the first
+    conference on computers, freedom and privacy in March 1991.
+cfp2_convention.
+summary
+Steve Cisler's account of the second conference
+    on computers, freedom and privacy in March 1993.
+comp_privacy_4th_amend.
+==========
+paper
+Computer Privacy and the Fourth Amendment 
+    by Michael Borella
+cyber_barbwire_johnson.
+article
+"Barbed Wire Fences in Cyberspace: The
+    Threat Posed by Calls for Ownership of Transactional Information",
+    article by David Johnson.
+==========
+Excerpt: "Concerned about the threat to
+    privacy created by such electronic dossiers, some have called for new
+    laws granting each of us "ownership" of all the transactional
+    information generated as we move around the network...This may produce
+    a sort of cattle drive vs. sheep herder battle on the electronic
+    frontier.
+Either "information wants to be free" or we can all put
+    barbed wire around the tracks we leave -- but we can't have both a
+    free information range and a system of information ownership.
+The
+    First Amendment implications of any such privacy regime are staggering."
+good_fences_johnson.
+==========
+article
+"Electronic Communications Privacy: Good
+    Sysops Should Build Good Fences", article by David Johnson.
+Excerpt:
+    "Congress was right to make the extent of electronic privacy
+    protection depend substantially on context-any other approach would have
+    interfered with open access to communications intended to be publicly
+    disseminated.
+But the result of this approach is that every system
+    operator ("Sysop") of an electronic communications system or remote
+    computing service bears an added burden-a duty to make clear to all
+    concerned which types of messages may be disclosed to others and
+    which may not."
+==========
+microsoft_wizard.
+article
+
+microsoft_wizard.
+==========
+response
+
+ota_priv_sec.
+report
+OTA's September 1994 report focusing on safeguarding
+    unclassified information in networks, not on the security or 
+    survivability of networks themselves, or on the reliability of network 
+    services to ensure information access.
+OTA's analysis examines policy
+    issues in three 1) cryptography policy, including federal information 
+    processing standards and export controls; 2) guidance on safeguarding 
+    unclassified information in federal agencies; and 3) legal 
+    issues and information security, including electronic commerce, privacy, 
+    and intellectual property.
+ota_priv_sec_report.
+==========
+summary
+September 1994 summary of the report named
+    ota_priv_sec.
+report in this directory.
+phone_92_privacy_conf.
+transcript
+A transcript from the July 1992
+    Conference on Telephone Privacy regarding what could be done about the 
+    IRS taking phone records.
+priv_sec_resource.
+==========
+list
+List of non-net resources for privacy seekers and
+    computer security buffs compiled by David Johnson March 1994.
+privacy.kit
+This is a "toolkit," put together by Robert Luhn, of 
+    resources and information about privacy.
+It is divided into reviews of: 
+    Books, Newsletters and Journals, Reports/Pamphlets, Advocacy Groups, 
+    Online Resources for Computer Users and Other resources.
+privacy_anonymity.
+faq
+August 1993 FAQ regarding identity, privacy and
+    anonymity on the internet.
+privacy_for_sale.
+faq
+Feb 1993 FAQ-like document compiled by Doug Monroe
+    providing information on how to find out what information there is 
+    about yourself that can be accessed by others.
+privacy_gilmore.
+==========
+speech
+Transcripts of a speech given by John Gilmore at
+    the first conference on computers, freedom, and privacy in March 1991 
+    dealing with the reasons why privacy is essential for our society.
+Subdirectories in This Archive
+
+Up to the Parent Directory
+Anonymity/
+Directory pertaining to anonymity and anonymous remailers.
+CALEA/
+Link to directory of information on the Communications Assistance
+    to Law Enforcement Act of 1996 (CALEA, a.k.a. the "Digital Telephony"
+    Surveillance Bill), and resistance to related FBI attempts to gain
+    new KGB-style surveillance powers.
+==========
+Caller_ID/
+Directory pertaining to the "Caller ID" debate (including
+    CLI and CNID).
+Children/
+Directory of info on children's privacy
+Cordless_Wireless/
+Directory pertaining to privacy rights and cordless
+    phones.
+Marketing/
+Directory pertaining to marketing, data-mining
+    junkmail, credit agencies, and other commercial and consumer
+    privacy issues.
+Includes datamining and profiling
+    (dossier-building) on individuals.
+==========
+Cookies are one of the major ways
+    people are tracked on
+    the Web and web bugs (a.k.a. webbugs, web-bugs) are another way one can
+    be tracked.
+Crypto/
+Directory of information pertaining to encryption issues
+    (including export restrictions, cryptanalysis, public use of
+    encryption technology, etc.)
+Digital_money/
+Directory pertaining to electronic monetary and credit 
+    transactions - "online commerce", e-cash, etc. - and the inherent privacy
+    and security concerns that arise with these developments.
+Digital_signature/
+Directory pertaining to the US Digital Signature 
+    Standard (DSS), and other cryptographic authentication technology.
+==========
+Email_Internet_Web/
+Directory of info about general e-mail privacy and
+    privacy issues relating to the Internet and/or World Wide Web
+Foreign_and_local/
+Directory containing info on privacy issues at the
+    local, state, foreign national, and international/multinational levels.
+GII_NII/
+Directory of info about privacy issues relating to
+    concepts of the global or national "Information Infrastructure"
+Gilmore_v_NSA/
+Directory pertaining to the Gilmore case, a case involving 
+    NSA refusal of a Freedom of Information Act (FOIA) request for treatises on
+    cryptanalysis.
+ID_SSN_fingerprinting/
+Directory containing files relating to the use and 
+    abuse of social security numbers (= single identification numbers in 
+    Canada and other places), government databases of personal citizen 
+    information, fingerprinting systems and privacy, and ID cards and other 
+    identification schemes.
+(A.k.a. Govt_databases_and_ID directory.)
+==========
+ITAR_export/
+Directory pertaining to US International Traffic in Arms 
+    Regulations (ITAR) and their unconsitutional export restrictions on 
+    encryption.
+Also covered are the Export Administration Regulations
+    (EAR), the successor to ITAR, as well as the AECA (Arms Export Control
+    Act), the legislation enabling ITAR and EAR.
+==========
+ITS_IVHS_driver_priv/
+Directory of information concerning so-called 
+    Intelligent Transportation Systems (a.k.a. Intelligent Vehicle Highway
+    Systems) and driver privacy.
+Key_escrow/
+directory of files on governmental encryption key "escrow", 
+    in which copies of all users' encryption keys are held by governments or 
+    "trusted third parties" for the convenience of law enforcement and 
+    intelligence agencies.
+This issue ties in directly with ITAR crypto 
+    export policy (see http://www.eff.org/pub/Privacy/ITAR_export/).
+==========
+Location_tracking/
+directory of information on the tracking systems
+    for locating individuals.
+Includes cell phone tracking, abuse of
+    GPS, and implatable microchips (currently used only on animals, but
+    with an enormous potential for future abuse in humans.)
+==========
+Medical/
+Directory containing misc.
+documents related to medical records
+    privacy.
+Misc/
+Directory containing misc.
+privacy-related documents.
+==========
+Newin/
+Directory pertaining to (once) new and unsorted privacy
+    information.
+Old/
+Directory containing misc.
+documents related to privacy, which are 
+    outdated but may have some historical or research interest.
+Security/
+Directory pertaining to computer security (and cracking).
+Material more specifically about user privacy and cryptographic system
+    protection are located in other Privacy subdirectories.
+==========
+SLAPP/
+Directory of information about "strategic lawsuits against
+    public participation" (SLAPPs) - largely or entirely bogus cases
+    (or other legal tactics) targeting underfunded critics, whistleblowers
+    or competitors to expose and silence them.
+Surveillance/
+Directory of information concerning surveillance,
+    wiretapping, and privacy issues.
+(See Clipper and CALEA directories for
+    info on those specific two issues.)
+TIA/
+Total Information Awareness Systems Overview
+Workplace/
+Directory of documents on workplace privacy
+
+
+
+ Related On-Site Resources
+
+
+Relaxation of Export restriction on encryption
+and head off the Clinton Administration's attempts to impose key
+    "escrow".
+Doug Monroe's Privacy Info Source  Index
+    (an independent project for which EFF is providing server space).
+Immigration
+    Bills  Archive
+Terrorism and 
+    Militias  Archive
+ Clipper
+A directory of information on the Gaovernment's original
+    Clipper scheme.
+Links to Related Off-Site Resources
+
+
+  The Presidentiol Privacy Archives
+"Before now, there was no one place that the government's policy in this 
+       area was easily accessable" - Sol Berman, Ohio Supercomputer Center.
+==========
+If you know of documents you would like to see here there is a link on 
+       the page to request them.
+The Privacy
+  Foundation, and...
+...the related Privacy
+  Center at the U. of Denver.
+The Cyphernomicon
+A bulletized summary of all major online privacy and 
+    anonymity issues.
+(Be patient - doesn't always come up the first
+    time.)
+Ultimate-anonymity.
+==========
+com
+Home of the ONLY web based pgp encrypting NYM remailer.
+The Privacy Pages
+
+Privacy Journal
+"Visitors will find tips for protecting their own privacy,
+    guidance for corporate privacy policies, and even a quiz to
+    test their knowledge of privacy protections and privacy
+    abuses.
+Our site includes information about ordering books
+    from Privacy Journal and our monthly newsletter."
+Cypherpunks FTP Archive at Berkeley
+
+Brian Combs' Cryptography
+    WWW Archive
+
+CPSR Cyber-rights Page.
+==========
+Current topics (fastest-changing page): 
+    Censorship and the Communications Decency Act, Always-on Internet 
+    access and high bandwidth, Domain name registration on the Internet,
+    Privacy issues, Encryption and key recovery, Copyright and 
+    intellectual property proposals, Universal service and Internet 
+    pricing, MCI/WorldCom and other mergers, Spamming (unsolicited 
+    commercial electronic mail), The Telecommunications Act of 1996,
+    Digital telephone wiretapping, Government documents online, Wireless
+    digital networks, Digital television, Internet telephony, 
+    The Church of Scientology vs. the Net 
+
+EF-Canada's
+PGP & Crypto Links Page.
+Full
+    Disclosure
+a journal on privacy, security, surveillance, and public 
+    access to government information.
+Kafka's 
+    Privacy Homepage
+An archive of underground journals and zines.
+Am.
+==========
+Soc.
+for Industrial Security (ASIS)
+Security Management Magazine
+
+Privacy Forum Digest
+The
+    Freebooter
+an online journal dedicated to liberty, privacy and free 
+    enterprise.
+==========
+Brad Cox's "Big Brother" Document Archive.
+The Codex Privacy Page
+    Mostly a commerce site, but does offer "The World's 
+    Greatest Links to Big Brother, Surveillance & Privacy Sites".
+Links
+    to The Codex's Privacy & Security Links page.
+==========
+Electronic Privacy Info.
+Center's
+Encryption Policy pages.
+Computer Privacy Digest
+
+Telecom Privacy Digest
+
+The Congressional Internet Caucus
+A new group of US legislators trying to protect the Internet
+
+
+webmaster@eff.org
+==========

@@ -1,0 +1,137 @@
+Scroll Privacy Policy
+Effective January 27, 2020
+Welcome to Scroll’s Privacy Policy.
+Privacy and transparency are the building blocks of a better internet, and we want you to understand how we collect, store and use your data both to deliver Scroll and to ensure sites are fairly rewarded for the content they create.
+If you have any questions as you’re reading through this, please contact us at privacy@scroll.com.
+This Privacy Policy applies to all users of our Website(s), our mobile apps and any associated services (collectively, the “Services”).
+==========
+Our values
+We believe that the internet can be better— that at its best it can feel magical.
+We built Scroll as a membership that directly supports sites creating a great content experience.
+Sites no longer have to use distracting advertising and your private data to fund themselves.
+The internet doesn’t restrict you to a single application or browser, and neither does Scroll.
+==========
+It was built to work everywhere you discover content.
+The funds from your membership are distributed to the sites you actually engage with, not the ones that trick you into clicking.
+We believe you should have the ability to determine how your personal data is shared with others.
+==========
+How the service works
+Summary
+Scroll works everywhere you read content served by sites within the Scroll network.
+As a member, when you visit a site, they determine whether you’re logged in to Scroll via a cookie or similar technology.
+The site then serves you a more private, ad-free experience, defined by our agreement with them.
+==========
+Scroll measures the amount of time you spend with the content and serves a visual element on each page, currently a bar with our logo at the bottom of the site, which (a) signals to you that you’re logged in to Scroll and are on a partner site and (b) provides unique ways to interact with the content, such as the ability to listen to that article.
+How the cookies work
+When you log in to scroll.com on any browser (e.g. Chrome, Safari, Facebook, Twitter), Scroll will set a cookie or cookies identifying the logged-in account by token ("login cookies").
+As you visit sites in Scroll's network, your login cookies will be used to obtain per-site identifiers ("site tokens") stored in cookies or browser storage on partner sites.
+These identifiers are random strings that may be rotated periodically.
+They do not identify who you are to partner sites nor do they help sites know you are the same user across browsers or extended periods of time.
+In some cases these strings may be "nonces," in other cases they may be tokens that partially authenticate you with scroll.com.
+At any point, you can log in to or log out from scroll.com on each or every device on which you use Scroll.
+==========
+However, in order to obtain the benefits of an ad-free environment, you’ll need to remain logged in with cookies enabled.
+When you log out, all Scroll cookies and any site token associations are deleted immediately.
+Site cookies and other identifiers set by Scroll will remain until you revisit their site or until a certain amount of time has passed in accordance with our policies.
+At any time, you may turn on or off various services provided or powered by Scroll, such as email newsletters, mobile notifications and similar non-critical communications from Scroll.
+==========
+A brief word from our lawyers
+If you do not agree to any terms or conditions, you should not use the Services.
+As set forth in the Terms of Service, you agree that any dispute over the terms contained in this Privacy Policy and Terms of Service, or any other agreement we have with you, will be governed by the laws of the State of New York without regard to its conflict of laws rules.
+This Privacy Policy does not apply to the practices of companies or other third parties we don’t own or control, including sites in the Scroll network or other partners.
+We encourage you to review the privacy policies and statements of these third parties to understand their information practices.
+Our Privacy Policy applies only to information collected on the Scroll Network and Services.
+What information we collect and how we use it
+From you directly
+Registration – Your validated email address, or an email address and password, gives you access to the Scroll network.
+==========
+At this time, no other personal information is needed to register for Scroll.
+Payment – When you subscribe to Scroll, your payment information will be sent directly to Stripe, our third-party payment processor.
+We do not retain the credit card number or similar payment details.
+We will keep your zip code to calculate our sales tax liability and in the future we may use this information so that Scroll can bring you relevant content.
+Stripe’s processing of your payment information is governed by its Privacy Policy.
+If in the future we offer additional Services that require you to provide additional PII, we will seek and obtain your prior consent.
+At any time, you can rescind this consent by notifying us at privacy@scroll.com.
+==========
+From your use of the Scroll Network and Services
+As you visit sites in the Scroll network and Services, we will use cookies, browser storage, and similar technologies to capture the amount of time you spend and your completion percentage within each URL, article, video, or other content.
+We use this information to:
+Determine how much of your payment should go to each participating site you visit.
+Provide you a history of your reading across all devices.
+==========
+Power recommendations and other features
+Improve the provided Service using anonymous and aggregated data
+Enforce our contractual rights with sites in the Scroll network.
+We also collect certain log information regarding your access and use of the Scroll Network and Services.
+This log information includes your IP address, device information such as browser or phone type, the URL or screen visited, and referring URL.
+This log information is used to measure how Scroll is discovered by new users, to see how Scroll is used by our members, to identify possible abuse, and to diagnose technical problems, among other purposes.
+==========
+Additionally, we use Google Analytics and other similar services to help us analyze and understand usage of the Services and on our participating sites.
+What Scroll network sites may and may not collect
+Our agreements with our partner sites require them, to the extent they control, to provide their content to Scroll members in an ad-free environment.
+In addition these agreements limit their ability to use services that collect and share browsing data for advertising.
+==========
+This is unique for Scroll members and core to our promise of delivering a more private experience to our users.
+Participating sites may still use cookies or other technologies and services to gather analytics about visits to their sites and improve the user experience.
+You are advised to review their Terms of Service or similar document for more information on how they use cookies, etc.
+==========
+Participating sites may also collect certain PII about Scroll members that access their sites via the Scroll Network for purposes of providing this access.
+However, our agreements prohibit participating sites from disclosing your PII to unaffiliated third parties, such as for marketing purposes or online advertising.
+What information we share and why
+We share usage data about our members on the Scroll Network and the Services with participating sites and partners in four ways:
+Monthly payments—We pay participating sites each month based on how much you and other Scroll members consume their content.
+To explain these payments, we provide them with data as to what percentage of each anonymized subscriber’s time is spent viewing their content for each month.
+Aggregated Anonymous data—We also provide participating sites aggregated anonymous user data regarding their performance, in total and by individual piece of content, compared to other participating sites.
+For example, we may tell News Today that their average time per article is 0:45 which is in the 85th percentile of the Scroll network.
+These metrics help them project how much money they may earn from Scroll, understand how their content is performing as compared to their peers and competitors, and create and serve better content to improve member engagement.
+==========
+Your PII only with your explicit permission—If you want to share any personal information, including your browsing history across our network, with our partners, we will give you the ability to authorize that.
+We will also give you tools to manage what you’ve authorized so that you can stop sharing that data at any point.
+At that time, the partner is contractually required to delete any data you’ve shared through Scroll.
+==========
+A brief word from our lawyers
+In addition, we may also share your information with law enforcement agencies.
+For example, to determine whether there has been misuse of the web site or other systems, we may report PII and other information shared with us to law enforcement officials.
+We may disclose personally identifiable information if required to do so by law or subpoena (reserving the right, however, to oppose any such requests if we deem legally justified) or if we believe that disclosure is necessary to conform to the law, comply with legal process served on us or our related organizations, or investigate, prevent, or take action regarding suspected or actual illegal activities, to enforce our Terms of Service or this Privacy Policy, take precautions against liability, to investigate and defend ourselves against third party claims or allegations, and to protect the security or integrity of our web site or the Services.
+We may transfer your information in the event of a sale, merger, assignment, or transfer of our assets.
+==========
+Keeping Your Information Secure
+We keep your information on secured servers and use reasonable and industry-standard administrative and technical measures to safeguard your PII from loss, misuse and unauthorized access, disclosure, and destruction.
+For example, the service is only available over HTTPS encryption, and we continuously monitor our services for potential abuse.
+Employee access to data is tightly controlled and monitored.
+==========
+Sites in the Scroll network and other partners are contractually required to maintain the security of your information, and our credit card processing vendor uses industry-leading security measures to protect your information both during the transaction and after it is complete.
+Some final words from our lawyers
+Please be aware that no security measures are perfect or impenetrable.
+We cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
+==========
+Children’s Privacy
+We do not knowingly collect or solicit personally identifiable information from children under thirteen (13) years of age.
+You must be at least 13 years old to use the Services or to comment on any portion of the Website.
+If you are not 13 years old, please do not send any personal information about yourself or attempt to sign up for any of the Services.
+==========
+Other Terms
+If you are a California resident, California’s “Shine-The-Light” law permits you to request information regarding the disclosure of your PII to a third party for the third party's direct marketing purposes.
+To make such a request, please contact us using the contact information provided below.
+However, we do not rent, sell or otherwise make available your PII to others for marketing purposes.
+==========
+We make reasonable efforts to honor Do Not Track signals for users who are not logged into Scroll.
+The Scroll Network and Services are operated and hosted in the United States.
+By using these services, you consent to having your PII transferred to and processed in the United States.
+==========
+If you are located outside the United States, please be aware that any information you provide to us will reside on servers hosted by third-party providers located in the United States.
+The Scroll Network and Services operate in accordance with the privacy laws of the United States; however, some sites may be located outside the United States and, therefore, subject to that jurisdiction’s privacy laws.
+Although we will collect and use your information only as stated in this Privacy Policy, United States law governing the protection of personal information may not be the same as those in other jurisdictions, including in your home country.
+==========
+Changes to this Privacy Policy
+Our Terms of Service and/or Privacy Policy may change from time to time.
+The last date this Privacy Policy was revised is set forth above.
+We will post any privacy policy changes here, and if the changes are significant, we will provide a more prominent notice.
+In some cases, we will provide email notification of privacy policy changes.
+We will also keep prior versions of this Privacy Policy available so you can review historical changes.
+==========
+Contact Us
+Scroll is located at 195 Plymouth Street, Brooklyn, NY 11201.
+If you have any questions or comments about this Privacy Policy, including what PII and other information we collect and how we use it, you may email us at privacy@scroll.com.
+Scroll is committed to protecting your data, and we encourage you to contact us.
+==========

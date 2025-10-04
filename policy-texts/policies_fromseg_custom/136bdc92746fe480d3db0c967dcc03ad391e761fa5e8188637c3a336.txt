@@ -1,0 +1,48 @@
+Privacy Privacy is one of the foundations of Microsoft's Trustworthy Computing.
+Microsoft has a longstanding commitment to privacy, which is an integral part of our product and service lifecycle.
+==========
+We work to be transparent in our privacy practices, offer customers meaningful privacy choices, and manage responsibly the data we store.
+The Microsoft Privacy Principles, our specific privacy statements, and our internal privacy standards guide how we collect, use, and protect Customer Data.
+General information about cloud privacy is available from the Microsoft Privacy Web site.
+We also published a white paper Privacy in the Cloud to explain how Microsoft is addressing privacy in the realm of cloud computing.
+The Azure Privacy Statement describes the specific privacy policy and practices that govern customers' use of Azure.
+Location of Customer Data Microsoft currently operates Azure in data centers around the world.
+In this section, we address common customer inquiries about access and location of Customer Data.
+Customers may specify the geographic area(s) ("geos" and "regions") of the Microsoft datacenters in which Customer Data will be stored.
+Available geos and regions are shown below.
+Please see service availability by region.
+==========
+Geo (Previously major region) Region (Previously sub-region)     United States US Central (Iowa)US East (Virginia)US East 2 (Virginia)US North Central (Illinois)US South Central (Texas)US West (California)   Europe Europe North (Ireland)Europe West (Netherlands)   Asia Pacific Asia Pacific Southeast (Singapore)Asia Pacific East (Hong Kong)   Japan Japan East (Saitama Prefecture)Japan West (Osaka Prefecture)   Brazil Brazil South (Sao Paulo State)One-way replication to US South Central (Texas)      Microsoft may transfer Customer Data within a geo (e.g., within Europe) for data redundancy or other purposes.
+For example, Azure replicates Blob and Table data between two regions within the same geo for enhanced data durability in case of a major data center disaster.
+Microsoft will not transfer Customer Data outside the geo(s) customer specifies (for example, from Europe to U.S. or from U.S. to Asia) except where necessary for Microsoft to provide customer support, troubleshoot the service, or comply with legal requirements; or where customer configures the account to enable such transfer of Customer Data, including through the use of:  Features that do not enable geo selection such as Content Delivery Network (CDN) that provides a global caching service; Web and Worker Roles, which backup software deployment packages to the United States regardless of deployment geo; Preview, beta, or other pre-release features that may store or transfer Customer Data to the United States regardless of deployment geo; Azure Active Directory (except for Access Control), which for Europe may transfer Active Directory Data to the United States, and for Asia, Japan, and Brazil may store Active Directory Data globally; Azure Multi-Factor Authentication, which stores authentication data in the United States;    Microsoft does not control or limit the geos from which customers or their end users may access Customer Data.
+==========
+See the E.U. Data Protection Directive section below for information on the regulatory framework under which Microsoft transfers data.
+E.U. Data Protection Directive The E.U. Data Protection Directive (95/46/EC) sets a baseline for handling personal data in the European Union.
+The E.U. has stricter privacy rules than the U.S. and most other countries.
+==========
+To allow for the continuous flow of information required by international business (including cross border transfer of personal data), the European Commission reached an agreement with the U.S. Department of Commerce whereby U.S. organizations can self-certify as complying with the Safe Harbor Framework.
+Microsoft (including, for this purpose, all of our U.S. subsidiaries) is Safe Harbor certified under the U.S. Department of Commerce.
+==========
+In addition to the E.U. Member States, members of the European Economic Area (Iceland, Liechtenstein, and Norway) also recognize organizations certified under the Safe Harbor program as providing adequate privacy protection to justify trans-border transfers from their countries to the U.S.  Switzerland has a nearly identical agreement ("Swiss-U.S. Safe Harbor") with the U.S. Department of Commerce to legitimize transfers from Switzerland to the U.S., to which Microsoft has also certified.
+The Safe Harbor certification allows for the legal transfer of E.U. personal data outside E.U. to Microsoft for processing.
+Under the E.U. Data Protection Directive and our contractual agreement, Microsoft acts as the data processor, whereas the customer is the data controller with the final ownership of the data and responsibility under the law for making sure that data can be legally transferred to Microsoft.
+It is important to note that Microsoft will transfer E.U. Customer Data outside the E.U. only under very limited circumstances.
+==========
+See the Location of Data section for details.
+Microsoft also offers additional contractual commitments to its volume licensing customers:  A Data Processing Agreement that details our compliance with the E.U. Data Protection Directive and related security requirements.
+E.U. Model Contractual Clauses that provide additional contractual guarantees around transfers of personal data.
+Scope: The following Azure features are covered by the current Data Processing Agreement and the E.U. Model Contractual Clauses: Cloud Services (Web and Worker Roles), Virtual Machines (including with SQL Server), Storage (Blobs, Tables, Queues), Virtual Network, Traffic Manager, Websites, BizTalk Services, Media Services, Mobile Services, Service Bus, Multi-Factor Authentication, Active Directory, Rights Management Service, and SQL Database.
+Please contact your Microsoft account manager or Microsoft Volume Licensing for details.
+==========
+Customer Data and Other Data Types  Customer Data is all the data, including all text, sound, software or image files that you provide, or are provided on your behalf, to us through your use of the Services.
+For example, Customer Data includes data that you upload for storage or processing in the Services and applications that you or your end users upload for hosting in the Services.
+==========
+It does not include configuration or technical settings and information.
+Administrator Data is the information about administrators (including account contact and subscription administrators) provided during sign-up, purchase, or administration of the Services, such as name, address, phone number, and e-mail address.
+==========
+Metadata includes configuration and technical settings and information.
+For example, it includes the disk configuration settings for an Azure Virtual Machine or database design for an Azure SQL Database.
+==========
+Access Control Data is used to manage access to other types of data or functions within Azure.
+It includes passwords, security certificates, and other authentication-related data.
+==========

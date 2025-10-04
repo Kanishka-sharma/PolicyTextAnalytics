@@ -1,0 +1,143 @@
+HUMAN Security, INC.
+PRIVACY POLICY
+Updated: November 29, 2021
+At Human Security, Inc. (“HUMAN”) (f.k.a. “White Ops”), we are committed to ensuring data protection and privacy.
+==========
+As such, we have implemented, and will maintain, a comprehensive written information security program that includes administrative, technical, and physical safeguards to preserve the confidentiality, security, integrity, and availability of data and to protect against unauthorized access, use, disclosure, alteration or destruction of data.
+This statement provides a general outline of the policies and procedures we maintain and follow to safeguard personal data.
+==========
+HUMAN is compliant with applicable data protection and privacy legislation, such as the GDPR (as updated by the EU Standard Contractual Clauses) which governs the processing of personal data within the European Economic Union and CCPA which governs personal data processing for California residents.
+The framework of these legislative acts relates to the collection of personal data, which is information that can be used to uniquely identify an individual such as name, address, birthdate and email address collectively referred to as “Personal Information.”
+==========
+The only Personal Information we may collect is as follows:
+
+Dashboard.
+HUMAN may collect Personal Information from clients and prospective clients for its Dashboard, but this requires a User ID and password to use.
+We use this information in order to create and maintain business records, billing information, and for other purposes essential to our client relationships.
+We generally store this information for so long as we maintain a business relationship with a given client and for a reasonable time after the termination of the business relationship, for billing and compliance purposes.
+Our Dashboard also collects certain non-personally identifiable information.
+For example, we log reporting transactions for the purposes of monitoring and improving our quality of service and the overall performance of the Dashboard and our client reporting in general.
+==========
+Information from Other Sources.
+We may receive Personal Information from other sources, including our clients or third-party service providers (“Partners”).
+To the extent we receive such third-party sourced information we will treat the information as Personal Information to be protected under this Privacy Policy.
+We are not responsible for the accuracy of any information provided by third parties or third-party policies or practices.
+==========
+HUMAN may use the personal data provided by our Partners to provide Partner services in accordance with the terms applicable to the relevant Partner service and otherwise with the Partners’ instructions.
+Within the scope of our authorization to do so, and in accordance with our commitments under privacy legislation, HUMAN will work with its Partners to provide individuals access to personal data about them that we hold on behalf of our Partners.
+We also will take reasonable steps to enable individuals, either directly or in connection with the Partners, to correct, amend, or delete personal data that is demonstrated to be inaccurate.
+To the extent HUMAN may transfer data to third parties, including any service providers and other partners, we will make reasonable commercial efforts to ensure that any processing of personal data by such third parties is not inconsistent with relevant privacy legislation.
+Personal data that is transferred to us by our Partners may be subject to disclosure pursuant to legal requests or other judicial and government process, such as subpoenas, warrants, or orders, or in response to national security or law enforcement requests.
+It is possible that HUMAN can be held liable for unlawful transfer of personal data to third parties.
+==========
+With regard to Personal Information of an individual in the European Economic Area (EEA) or United Kingdom, HUMAN transfers Personal Information from the EEA and/or the United Kingdom to the United States through the protections provided by the EU Standard Contractual Clauses, herein incorporated by reference.
+We will ensure that any Partners comply with the EU Standard Contractual Clauses.
+The EU Standard Contractual Clause Agreement can be found at https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021D0914&from=EN
+Enforcement.
+HUMAN’s compliance with privacy regulations are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.
+==========
+Your Rights.
+Various laws around the globe regulate the processing of personal information.
+These laws often grant a specific set of rights to people whose data is being processed.
+To honor these rights, we will provide you with information about whether we hold any of your Personal Information.
+If you provide us with your Personal Information, you may have the following rights with respect to that information:
+
+To access your Personal Information that is collected and used
+To rectify any errors, outdated information, or omissions in user information
+To delete or erase your Personal Information from our records
+To request that your user information not be used to contact you
+
+Please understand that as a matter of general business practice, we do not store or collect the personally identifiable information of individuals with the exception of IP addresses.
+As a result, we are unable to associate individuals to the data that we process, which may make it difficult to find, edit, or delete that information.
+==========
+You will not be discriminated against for exercising your privacy rights.
+To exercise any of these rights, or to understand the choices and means offered for limiting the use and disclosure of personal data, please contact us by email: privacy@humansecurity.com
+We will respond to your request to change, correct, or delete your information within a reasonable timeframe and notify you of the action we have taken.
+==========
+We will not knowingly or intentionally share Personal Information with any third party absent your consent.
+Presently, HUMAN does not transfer Personal Information to any third parties, nor does it sell Personal Information.
+==========
+In the event it later determines the need to transfer Personal Information to any third party acting as a data controller, HUMAN will comply with all relevant notice requirements ; and will enter into a contract with the third party controller limiting the purposes for which the data may be processed, ensuring that the recipient will provide the same level of protection as HUMAN.
+Any such transfer of information will be for a limited and specified purpose, and only after it is ascertained that the agent agrees to provide at least the same level of privacy protection as required by us.
+HUMAN will further take reasonable steps to ensure that the agent effectively processes this data in a manner consistent with us who will, upon notice, take reasonable steps to stop and remediate any unauthorized processing; and upon request, provide a summary or copy of privacy provisions of its contract with the agent to the Department of Commerce.
+==========
+Without limiting the foregoing, we will take reasonable and appropriate measures to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration, and destruction.
+We will further take reasonable steps to limit processing to the purposes for which the Personal Information was collected, and to ensure that the Personal Information collected (i.e. not through a third party) is reliable for its intended use, accurate, complete, and current.
+==========
+HUMAN will otherwise retain personal information for as long as needed for the purpose of collection; and adhere to the GDPR and CCPA guidelines for as long as it retains such information.
+In compliance with the principles related to privacy regulations, HUMAN commits to resolve complaints about our collection or use of your personal information.
+EU and Swiss individuals with inquiries or complaints regarding our privacy policy should first contact HUMAN at: Privacy@humansecurity.com
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+==========
+HUMAN’S PRIVACY POLICY FOR TECHNOLOGY AND SERVICES
+HUMAN provides cutting-edge anti-fraud solutions across a spectrum of industries from advertising to eCommerce to Big Data and Enterprise Business.
+This Privacy Policy describes our practices in connection with information that we collect through our products, services and reporting platforms.
+Our Detection Tag and the technology behind it (our "Technology") determines human or non-human on a per-session level by examining and analyzing certain characteristics upon each pageload.
+==========
+Collection and Use of Internet Data.
+HUMAN uses various technologies, described below, to collect session-specific data in order to deliver anti-fraud solutions to our customers (collectively, our "Services").
+The Services use JavaScript and/or pixels that place a small piece of HTML code either on a webpage, across a domain, or at the server level, to collect information about web or mobile app visits.
+This information is used to provide the Services.
+==========
+The types of data we collect using this technology include:
+
+Various parts of the HTTP Header (including IP Address, HREF, Referrer, and User Agent)
+Various technical aspects of the browser
+Generalized user interaction data
+
+Our customers can pass parameters and information from Third-Party Digital Media Services (or any other integrated web service) to HUMAN for reporting (i.e. campaign id, placement id, ad id, etc.).
+Some web services offer macros that allow their Cookie ID, Unique Id or identified Mobile Device ID to be passed to other companies involved in the measurement and delivery of the asset.
+HUMAN customers may elect to have that Cookie Id, Unique ID or Device ID passed to HUMAN for reporting on non-HUMAN activity and other fraud behaviors.
+In general, our technology does not utilize cookie data or mobile Device ID in the detection and prevention of fraudulent online activity; and therefore, HUMAN does not send nor collect cookie data through the browser’s http header elements, nor directly collect the Device ID through mobile applications.
+We may work, alone or with our Partners, to anonymously integrate analytic data with data that those partners have independently collected to deliver enhanced anti-fraud services.
+==========
+Use of Information.
+HUMAN collects minimal personally identifiable information ("PII") via our Services.
+Some of the PII collected includes IP address, browser type, referring URL, and information on the click behavior of the visitor during a browser session.
+==========
+We use this information in order to provide our Services, and we may share that information with our clients to help them ensure fraud-free advertising campaigns and eCommerce transactions, and to ensure the security of online Enterprise business products and services.
+We also use the information for analytics that aid us in building an historic record of behavior patterns in order to enhance future Services, without collecting any personally identifiable information.
+==========
+Data Security and Integrity.
+HUMAN makes every reasonable effort to protect the information in our care from loss, misuse, alteration or destruction.
+==========
+Only authorized employees and clients have access to the data that we gather, and that access is limited by need.
+All employees who have access to client data are enjoined to maintain the confidentiality of such information.
+No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while we strive to use all commercially reasonable means to protect client information, we cannot guarantee absolute security.
+==========
+Use of Collected Data.
+Except as otherwise stated herein, HUMAN does not share information gathered by the Services except: (1) as is necessary to execute the Services; (2) in aggregated formats for general corporate marketing and industry benchmarking; (3) for sharing with official affiliates and/or partners of HUMAN or service providers of HUMAN (where the service providers are required to use the information only to perform services for HUMAN); (4) as required by law or to comply with legal process; or (5) to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+==========
+Client Portal (Our "Dashboard").
+Subject to and notwithstanding the use of Personal Information as described therein, this section explains how HUMAN collects, uses, stores and protects the information gathered from our Client Portal, which is also sometimes referred to as the HUMAN Dashboard.
+The Dashboard is a password protected website for clients and prospective clients, which are usually businesses.
+==========
+Data Reporting.
+HUMAN shares collected information with our clients, affiliates and partners to perform and deliver the antifraud services that we have been contracted to provide.
+The primary means by which we provide information to our customers is in aggregated reports provided as part of the HUMAN Services, including but not limited to our customer dashboard, which is password protected.
+Use of the dashboard provides each client only with access to their own company's information and provides potential clients only with access to sample reports within the Dashboard.
+We may also provide aggregate, anonymized data in our marketing and promotional materials.
+==========
+Use of Cookies on The Dashboard.
+Cookies are small pieces of information transferred to your computer's hard drive through your web browser to enable our systems to recognize your preferences and settings.
+We use cookies on the Dashboard to maintain authenticated access and user sessions.
+We also use cookies to ensure authorized access to client-specific secure content and reports.
+When accessing client-specific secure content, you are acting as a representative of your company and your interactions with our site in this capacity are governed by our relationship agreement with your company.
+==========
+Most browsers automatically accept cookies and you may manually disable them.
+For more information on disabling cookies, go to the "help" menu on your browser.
+Please note that if you disable cookies, the Client Portal may not operate correctly.
+==========
+For more information about cookies, please see our HUMAN privacy Policy, below.
+Use of Cookies on The Website.
+We may collect cookies on our website.
+We do not collect cookies on client sites as part of the information gathered by our Technology.
+==========
+Changes to Our Privacy Policies.
+HUMAN may change and update these Privacy Policies, including materially changing the use made of personal information described herein.
+Any change or update to our privacy policy will be posted on our Website at least 30 days prior to their implementation.
+Your continued use of the Technology and the Services after the effective date of any changes will constitute your acceptance of all of the changes.
+==========
+Contacting Us.
+If you have questions regarding our privacy practices, please submit a privacy inquiry, or send us an email at privacy@humansecurity.com
+==========

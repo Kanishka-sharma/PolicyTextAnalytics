@@ -1,0 +1,1220 @@
+Service Data is collected from your use of our websites, products, and services.
+Service Data is used primarily to provision the products or services.
+Service Data is also used for the compatible and legitimate uses of research, to compile statistics, analytics, aggregated reporting, product development, In-product messaging, and direct marketing.
+Before Service Data is used for secondary purposes,  pseudonymize or anonymize the Service Data.
+For all Service Data, we practice “data minimization”, which means we limit our collection and retention of your data to only what is necessary, adequate and relevant to achieve our processing purpose.
+Below we list our products and the Service Data that each collects.
+There may be other products (current or future) that require us to collect certain types of personal data to enable full product functionality.
+==========
+We will always inform you prior to collecting any such information, usually in the terms of service or end user license agreement (EULA) or the privacy notice applicable to the product or service.
+Personal data collected as part of Service Data is necessary to the provision of the product functionality.
+When personal data is no longer needed we limit or stop using it in line with the minimization principle.
+For example, your email, the URLs of websites you have visited, your files, are scanned for malware detection and protection; then we remove your email address and other personal data or we hash any identifiers turning the Service Data into pseudonymized or anonymized data for paid users and anonymized data for free users before we re-use the Service Data for research, analytics, statistics, reporting, cross-product development, in-product messaging, and marketing.
+.
+==========
+The primary processing of Service Data will be to perform the contract to provision the product or service to you.
+The secondary processing of Service Data will be as compatible for our legitimate interests to provide you the benefits of research, analytics, cross-product development, and cross-product in-product messaging.
+If we need to process your Service Data for a purpose that requires consent, we will notify you separately of this and the general rules of providing and withdrawing consent shall apply.
+==========
+Website Log Files
+We collect the information in the form of server log files that tell us generally about the visitors to our site, which may include general geographic regions, length of visits, the webpages you request, the URLs of the site you were viewing before clicking on our websites, your IP Address, cookies, the type of web browser and operating system you are using, click-stream data and so forth.
+If a user downloads a product from our website, we connect the installation GUID with the user’s website log.
+We use this information to fulfil our legitimate interests, which are to analyse overall trends, administer our webpages, track users’ use of the webpages, help us improve our website(s), and to better understand the users’ experience on our website(s) when downloading and activating our products.
+==========
+Device and Network Information
+We may collect information about the computer or device you are using, our products and services running on it, and, depending on the type of device it is, what operating systems you are using, device settings, application identifiers (AI), hardware identifiers or universally unique identifiers (UUID), software identifiers, IP Address, location data, cookie IDs, and crash data (through the use of either our own analytical tools or tolls provided by third parties, such as Crashlytics or Firebase).
+Device and network data is connected to the installation GUID.
+We collect device and network data from all users.
+We collect and retain only the data we need to provide functionality, monitor product and service performance, conduct research, diagnose and repair crashes, detect bugs, and fix vulnerabilities in security or operations (in other words, fulfil our contract with you to provision the service).
+We also use your device and network data for in-product-messaging and cross-product development.
+Premium or paid customers can manage in-product messaging for marketing purposes and cross-product development in the applicable product settings.
+We collect information in the form of statistics through our own or third-party analytics about which apps have been installed or uninstalled, how they are used, the number of active users, and the impact apps have on device performance and battery consumption (collectively, “AppInfo”).
+From this we study device and network behaviour, purchasing history and trends to measure the relative success of our products over time (in other words, serve our legitimate interests).
+==========
+Analytics and Crash Reporting
+We use analytical tools, including third party analytical tools, which allow us to, among other things, identify potential performance or security issues with our products, improve their stability and function, understand how you use our products, and websites, so that we can optimize and improve your user experience, as well as evaluate and improve our campaigns.
+While we generally prefer using our own analytical tools, we sometimes need to partner with other parties, which have developed and provide us with their own tools and expertise.
+Below, we list these partners, their tools which we use, as well as additional information on where and how we use them.
+==========
+Tool
+
+
+
+
+Product
+
+
+
+
+Tool Provider
+
+
+
+
+Description
+
+
+
+
+Privacy Policy
+
+
+
+
+
+
+Google Analytics
+
+
+
+
+Desktop:
+
+
+                      Desktop AV - Avast and AVG both
+                  
+
+                      CCleaner Desktop
+                  
+
+                      CCleaner Cloud
+                  
+
+                      Avast Cleanup
+                  
+
+                      AVG TuneUp
+                  
+
+Mobile:
+
+
+                      Call Blocker (Avast Call Blocker)
+                  
+
+                      WifiFinder (Avast WifiFinder)
+                  
+
+                      Passwords (Avast Passwords)
+                  
+
+                      Smart Home Security (Avast Skyline/Scout/IOT)
+                  
+
+                      Battery Saver (Avast Battery Saver)
+                  
+
+                      Gallery Doctor (AVG Photo Cleaner)
+                  
+
+                      Gallery (Flayvr Media Gallery)
+                  
+
+                      Mobile Security (Avast Antivirus)
+                  
+
+                      AntiVirus Free (AVG Antivirus)
+                  
+
+                      AntiVirus Pro (AVG Antivirus)
+                  
+
+                      AntiVirus Tablet Free (AVG Antivirus)
+                  
+
+                      AntiVirus Tablet Pro (AVG Antivirus)
+                  
+
+                      AntiVirus Xperia (AVG Antivirus for Sony)
+                  
+
+                      Cleaner (AVG Cleaner)
+                  
+
+                      Cleaner Xperia (AVG Cleaner for Sony)
+                  
+
+                      Cleanup (Avast Cleaner)
+                  
+
+                      CCleaner Android (Piriform CCleaner)
+                  
+
+                      Alarm Clock Xtreme Free (AVG Alarm Clock)
+                  
+
+                      Alarm Clock Xtreme Pro (AVG Alarm Clock)
+                  
+
+                      SecureLine (Avast VPN)
+                  
+
+                      AVG Secure VPN (AVG VPN)
+                  
+
+                      SecureMe (Avast VPN)
+                  
+
+                      HMA!
+VPN (Privax VPN)
+                  
+
+
+
+                      Google
+                  
+
+
+
+                      Our apps use Google Analytics to allow us to understand how
+                      our users use and interact with our products and how to
+                      improve our products.
+Where our apps use Google Analytics
+                      for Apps or the Google Analytics for Firebase SDKs, Google
+                      Analytics collects an app-instance identifier — a randomly
+                      generated number that identifies a unique installation of
+                      an app.
+Whenever a user resets their Advertising Identifier
+                      (Advertising ID on Android, and ID for Advertisers on iOS),
+                      the app-instance identifier is also reset.
+Where our apps
+                      have implemented Google Analytics with other Google
+                      Advertising products, like AdWords, additional advertising
+                      identifiers may be collected.
+Google Analytics also
+                      collects Internet Protocol (IP) addresses to provide and
+                      protect the security of the service, and to give us a sense
+                      of which country, state, or city in the world our users
+                      come from (also known as "IP geolocation").
+We do implement
+                      measures and best practices in order to avoid sending
+                      personal data when collecting Analytics Data such as:
+                      Safeguarding our data, IP Anonymization, IP masking, data
+                      retention, user deletion and access management.
+==========
+https://support.google.com/analytics/answer/6004245
+                          
+
+
+
+
+
+                              https://policies.google.com/privacy
+                          
+
+
+
+
+
+                              https://support.google.com/analytics/answer/6366371?hl=en&ref_topic=2919631
+                          
+
+
+
+
+
+
+
+Firebase Analytics
+
+
+
+
+Mobile:
+
+
+                      Avast Mobile Security (Avast Antivirus)
+                  
+
+                      AntiVirus Free (AVG Antivirus)
+                  
+
+                      AntiVirus Pro (AVG Antivirus)
+                  
+
+                      AntiVirus Tablet Free (AVG Antivirus)
+                  
+
+                      AntiVirus Tablet Pro (AVG Antivirus)
+                  
+
+                      AntiVirus Xperia (AVG Antivirus for Sony)
+                  
+
+                      Cleanup (Avast Cleaner)
+                  
+
+                      Cleaner (AVG Cleaner)
+                  
+
+                      Cleaner Xperia (AVG Cleaner for Sony)
+                  
+
+                      CCleaner Android (Piriform CCleaner)
+                  
+
+                      Alarm Clock Xtreme Free (AVG Alarm Clock)
+                  
+
+                      Alarm Clock Xtreme Pro (AVG Alarm Clock)
+                  
+
+                      Call Blocker (Avast Call Blocker)
+                  
+
+                      WifiFinder (Avast Wifi Finder)
+                  
+
+                      SecureLine (Avast VPN)
+                  
+
+                      AVG Secure VPN (AVG VPN)
+                  
+
+                      HMA!
+VPN (Privax VPN)
+                  
+
+
+
+                      Google
+                  
+
+
+
+                      Firebase Analytics is a service that helps us understand
+                      our users and how they use apps including information about
+                      interactions with the user's mobile applications.
+Firebase
+                      Analytics uses identifiers for advertising on mobile
+                      applications (for example, Android Advertising ID and
+                      Identifier for Advertisers for iOS - IDFA), and we will
+                      collect the AAID and IDFA for these above-mentioned
+                      purposes.
+Users who wish to opt-out of the AAID and IDFA
+                      advertisement tracking can do so through device advertising
+                      settings for mobile apps within your device and users who
+                      wish to avoid tracking by Firebase Analytics can opt-out in
+                      application settings.
+Data collected will be transmitted to
+                      and stored by Google on servers globally.
+https://firebase.google.com/support/privacy/
+                          
+
+
+
+
+
+                              https://policies.google.com/privacy
+                          
+
+
+
+
+
+
+
+Firebase Crash Reporting
+
+
+
+
+Mobile:
+
+
+                      Avast Mobile Security (Avast Antivirus)
+                  
+
+                      AntiVirus Free (AVG Antivirus)
+                  
+
+                      AntiVirus Pro (AVG Antivirus)
+                  
+
+                      AntiVirus Tablet Free (AVG Antivirus)
+                  
+
+                      AntiVirus Tablet Pro (AVG Antivirus)
+                  
+
+                      AntiVirus Xperia (AVG Antivirus for Sony)
+                  
+
+                      Cleanup (Avast Cleaner)
+                  
+
+                      Cleaner (AVG Cleaner)
+                  
+
+                      Cleaner Xperia (AVG Cleaner for Sony)
+                  
+
+                      CCleaner Android (Piriform CCleaner)
+                  
+
+                      Alarm Clock Xtreme Free (AVG Alarm Clock)
+                  
+
+                      Alarm Clock Xtreme Pro (AVG Alarm Clock)
+                  
+
+
+
+                      Google
+                  
+
+
+
+                      To improve the stability of mobile applications, we use
+                      crash reporting services to collect information about the
+                      devices that you use and your use of our applications (for
+                      example the timestamp of when you launched the application
+                      and when the crash occurred) which enables us to diagnose
+                      and resolve problems.
+This allows us to deliver to you
+                      stable, functioning services and improve our applications
+                      in the future.
+The data collected does not contain any
+                      information which can personally identify you.
+The data
+                      will be transmitted to and stored by Google (Firebase Crash
+                      Reporting and Fabric Crashlytics) on servers globally.
+==========
+https://firebase.google.com/support/privacy/
+                          
+
+
+
+
+
+                              https://policies.google.com/privacy
+                          
+
+
+
+
+
+
+
+Fabric Crashlytics
+
+
+
+
+Mobile:
+
+
+                      Avast Mobile Security (Avast Antivirus)
+                  
+
+                      AntiVirus Free (AVG Antivirus)
+                  
+
+                      AntiVirus Pro (AVG Antivirus)
+                  
+
+                      AntiVirus Tablet Free (AVG Antivirus)
+                  
+
+                      AntiVirus Tablet Pro (AVG Antivirus)
+                  
+
+                      AntiVirus Xperia (AVG Antivirus for Sony)
+                  
+
+                      Passwords (Avast Passwords for Android)
+                  
+
+                      Cleanup (Avast Cleaner)
+                  
+
+                      Cleaner (AVG Cleaner)
+                  
+
+                      Cleaner Xperia (AVG Cleaner for Xperia)
+                  
+
+                      CCleaner Android (Piriform CCleaner)
+                  
+
+                      SecureLine (Avast VPN)
+                  
+
+                      AVG Secure VPN (AVG VPN)
+                  
+
+                      HMA!
+VPN (Privax VPN)
+                  
+
+                      Alarm Clock Xtreme Free (AVG Alarm Clock)
+                  
+
+                      Alarm Clock Xtreme Pro (AVG Alarm Clock)
+                  
+
+
+
+                      Google
+                  
+
+
+
+
+
+                              https://try.crashlytics.com/terms/privacy-policy.pdf
+                          
+
+
+
+
+
+                              https://policies.google.com/privacy
+                          
+
+
+
+
+
+
+
+AppsFlyer
+
+
+
+
+Desktop:
+
+
+                      HMA!VPN for desktop
+                  
+
+Mobile:
+
+
+                      SecureLine (Avast VPN)
+                  
+
+                      HMA!
+VPN (Privax VPN)
+                  
+
+                      AVG Secure VPN (AVG VPN)
+                  
+
+                      Avast Mobile Security (Avast Antivirus)
+                  
+
+                      AntiVirus Free (AVG Antivirus)
+                  
+
+                      AntiVirus Pro (AVG Antivirus)
+                  
+
+                      AntiVirus Tablet Free (AVG Antivirus)
+                  
+
+                      AntiVirus Tablet Pro (AVG Antivirus)
+                  
+
+                      AntiVirus Xperia (AVG Antivirus for Sony)
+                  
+
+                      Cleanup (Avast Cleaner)
+                  
+
+                      Cleaner (AVG Cleaner)
+                  
+
+                      Cleaner Xperia (AVG Cleaner for Xperia)
+                  
+
+                      CCleaner Android (Piriform CCleaner)
+                  
+
+
+
+                      AppsFlyer
+                  
+
+
+
+                      AppsFlyer is a third party SDK (software development kit)
+                      embedded into our software.
+==========
+It allows us to analyze our
+                      marketing campaigns.
+We use it for the purpose of
+                      understanding through which marketing campaign you were
+                      directed to us and to evaluate the success and performance
+                      of our marketing campaigns.
+The data collected by AppsFlyer
+                      includes data such as IP Address, identification of the
+                      advertising campaign, app event data such as first app
+                      launch and settings and device info.
+Access to this data
+                      and its protection is governed by the AppsFlyer privacy
+                      policy.
+Data necessary for the identification of a
+                      marketing campaign and evaluation of its success is also
+                      shared with respective advertising providers.
+You can opt
+                      out of AppsFlyer Analytics tracking by changing the privacy
+                      settings within your app (Third Party Analytics switch) or
+                      by following the instructions available in AppsFlyer’s
+                      Privacy Policy.
+==========
+https://www.appsflyer.com/privacy-policy/
+                          
+
+
+
+
+
+
+
+Facebook Analytics
+
+
+
+
+Mobile:
+
+
+                      SecureLine (Avast VPN)
+                  
+
+                      HMA!
+VPN (Privax VPN)
+                  
+
+                      AVG Secure VPN (AVG VPN)
+                  
+
+                      Mobile Security (Avast Antivirus) (deprecated in newer
+                      versions)
+                  
+
+                      Cleanup (Avast Cleaner)
+                  
+
+                      Cleaner (AVG Cleaner)
+                  
+
+                      Cleaner Xperia (AVG Cleaner for Xperia)
+                  
+
+                      CCleaner Android (Piriform CCleaner)
+                  
+
+                      Gallery (Flavyr Media Gallery)
+                  
+
+                      Battery Saver (Avast Battery Saver)
+                  
+
+                      Alarm Clock Xtreme Free (AVG Alarm Clock)
+                  
+
+                      Alarm Clock Xtreme Pro (AVG Alarm Clock)
+                  
+
+
+
+                      Facebook
+                  
+
+
+
+                      Facebook Analytics is primarily integrated into the older
+                      versions of our software and the newer ones no longer use
+                      it.
+It helps us understand the makeup of people who engage
+                      with our app by logging events from the app via Facebook’s
+                      Android SDK.
+This tool enables us to observe how many users
+                      install the app, how frequently users activate the app, how
+                      much time users spend using it, and other demographic
+                      information which helps us better understand how users
+                      interact with our product.
+==========
+https://www.facebook.com/about/privacy
+                          
+
+
+
+
+
+                              https://developers.facebook.com/docs/analytics/overview
+                          
+
+
+
+
+
+
+
+HockeyApp
+
+
+
+
+                      Mac and iOS products
+                  
+
+                      Avast Mobile Security (Avast Antivirus)
+                  
+
+                      SecureLine (Avast VPN)
+                  
+
+                      HMA!
+VPN (Privax VPN)
+                  
+
+                      AVG Secure VPN (AVG VPN)
+                  
+
+                      SecureMe (Avast VPN)
+                  
+
+                      Passwords (Avast - Mac and iOS)
+                  
+
+
+
+                      Microsoft
+                  
+
+
+
+                      We use this analytical tool only in older versions of some
+                      of our applications, so if you have not updated yours in a
+                      while, it is possible it is integrated in the application.
+We use this tool for the purposes of beta distribution,
+                      crash reporting, user metrics, feedback, and internal
+                      workflow integrations.
+https://privacy.microsoft.com/en-us/PrivacyStatement
+                      
+
+
+
+
+
+
+Mixpanel
+
+
+
+
+Desktop:
+
+
+                      Avast SecureBrowser
+                  
+
+
+
+                      Mixpanel Inc.
+Our apps use Mixpanel to allow us to understand how our
+                      users use and interact with our products and how to improve
+                      our products, in particular from a user experience and
+                      interactivity perspective.
+In this respect, we process data
+                      concerning events, timeframes (intervals within which the
+                      events took place), lengths of interaction, location
+                      (country-level) and similar necessary information.
+We do
+                      not use this analytical tool to process any information
+                      which can be used to identify you (such as your name,
+                      address, e-mail address, etc.).
+==========
+https://mixpanel.com/legal/privacy-policy/
+                          
+
+
+
+
+
+
+
+Logentries
+
+
+
+
+Desktop:
+
+
+                      CCleaner
+                  
+
+                      Defraggler
+                  
+
+                      Recuva
+                  
+
+                      Speccy
+                  
+
+                      CCleaner Mac
+                  
+
+                      CCleaner Cloud
+                  
+
+
+
+                      Rapid 7
+                  
+
+
+
+                      Logentries is a cloud-based repository where we send
+                      multiple logs from our desktop apps to logentries such as
+                      activations and installer logs and update check pings.
+This
+                      allows us to search the logs and run queries on the data
+                      for the purposes of tracking errors, fixing bugs and
+                      resolving technical issues, as well as compiling generic
+                      statistics on, e.g., user, install or activation count and
+                      understanding how you use our products.
+We also log
+                      parameters from a device to check if they are eligible for
+                      certain installer offers, such as Chrome or Avast.
+This tool uses unique identifiers of the installation and
+                      device.
+These unique identifiers contain IP addresses, but
+                      we hash this data and do not keep it in its original form
+                      as soon as possible (usually within 30 days) when data gets
+                      stored.
+==========
+https://www.rapid7.com/privacy-policy
+                          
+
+
+
+
+
+
+
+Loggly
+
+
+
+
+Desktop:
+
+
+                      CCleaner Cloud
+                  
+
+
+
+                      SolarWinds (Loggly)
+                  
+
+
+
+                      Loggly is a cloud-based repository where we send errors
+                      logs from CCleaner Cloud so that we can search, filter and
+                      query the data and receive alerts.
+Loggly is used to
+                      display error messages from our log files.
+We gather error
+                      messages from each agent log file and send them to Loggly,
+                      which analyzes it.
+We use this tool to find common errors in our applications,
+                      identify new errors which may occur, determine our business
+                      performance and identify geographical areas in which we can
+                      improve.
+Each entry in Loggly has a computer ID, but it
+                      does not contain any information which can personally
+                      identify you.
+==========
+https://www.loggly.com/about/privacy-policy/
+                          
+
+
+
+
+
+
+
+
+Specific products for your PC collecting your Service Data
+Avast and AVG AntiVirus & Internet security products & services
+Our AntiVirus and Internet security products require the collection of usage data to be fully functional.
+Some of the usage data we collect include:
+· potential malware threats to your device and the target of those threats, including copies of files or emails marked as potential malware, file names, cryptographic hash, vendor, size, date stamps, associated registry keys, etc.;
+· information about how you use our products and their features, including data about your particular device, installation and uninstallation rates, language, technical parameters and manufacturer of a device, device security information (password attributes, encryption level), etc.;
+· information about where our products and services are used, including approximate location, zip code, area code, time zone, the URL and information related to the URL of sites you visit online; and
+· we collectively call this information “Clickstream Data”
+We use this Clickstream Data to provide you malware detection and protection.
+We also use the Clickstream Data for security research into threats.
+We pseudonymize and anonymize the Clickstream Data and re-use it for cross-product direct marketing, cross-product development and third party trend analytics.
+Avast CommunityIQ
+Avast CommunityIQ is a threat monitoring service.
+==========
+Information about a threat detected in your device is sent to our server, so we can observe how the threat spreads and block it.
+This is vital for the functioning of our service and our ability to keep your device secure.
+When you download our products and services, you will automatically be opted into our CommunityIQ, and your device is able to provide security-related information when needed.
+You may choose to opt out via product settings.
+==========
+By remaining in our CommunityIQ, you actively help yourself and others in the Avast community to experience a higher standard of security.
+Our security experts process the data acquired by our CommunityIQ to update our databases of viruses and infected websites, and for historical and statistical purposes to understand where the threat is coming from, the levels of threat per country, how many persons visited the malicious website and the number of people we protected.
+We process this data for the purposes of antivirus functionality and to protect your device.
+The data is collected from your entire submission process online.
+For both desktop and mobile users, this includes URLs of visited websites, IP Addresses, approximate geolocation of user or Internet Service Provider (ISP), device IDs together with the information on the nature of the detected threat.
+We collect this information to ascertain the source of the infection.
+==========
+Geolocation gives the approximate location, for example, the latitude and longitude of the IP Address.
+However, if you access a malicious website while using Wi-Fi, then your IP Address can be location data.
+Depending on your ISP, your IP Address may indicate an exact location or the location of the ISP office or your location at a country level.
+==========
+We may provide a method for manual submission of suspected malware, or a way to add more information about the source of an infection.
+Files and information submitted through this process will be retained as long as is necessary for security research and providing you protection.
+Avast File Reputation Service
+FileRep is a database of executable files sourced from users who participate in the service.
+The files (or their hashes, that is, de-identified versions of the files) are stored and evaluated for the purpose of determining which are infectious and updating virus databases.
+Your participation is voluntary, and the data is stored in a way that limits its potential to be associated with individual users, for example, by hashing so the data is anonymous.
+This means it can be personally identifiable data if reversed by a “key”.
+==========
+However, the risks are lowered.
+In participating, you actively help yourself and others to experience a higher standard of security.
+If you do not want to participate, you can opt-out by unticking the box ‘Enable reputation services’ in the general settings menu.
+==========
+CyberCapture
+CyberCapture is a feature in our AntiVirus that detects and analyses rare, suspicious files.
+If you attempt to run such a file, CyberCapture locks the file from your PC and sends it to the our Threat Lab where it is analysed in a safe, virtual environment.
+You are notified when the analysis is complete.
+Currently, CyberCapture triggers when you run or download suspicious files from the Internet that CyberCapture has not previously encountered.
+We plan to expand this condition in the future to cover more sources.
+CyberCapture is able to handle large files, but it may take longer to deliver such files to the Threat Lab.
+All files are uploaded over an encrypted connection, which means your data is inaccessible to hackers.
+==========
+When CyberCapture is enabled, we collect information about you, your device IDs, your operating system, for example, whether you are using Windows 10 or XP, and we know your approximate location, usually at the country level.
+CyberCapture is enabled by default in the latest version of our AntiVirus.
+We strongly recommend that you keep CyberCapture enabled.
+If you would like to disable CyberCapture, open the product user interface and go to Settings.
+Avast CleanUp
+CleanUp is offered as a Windows program.
+It removes unneeded files, registry entries, broken shortcuts and other similar items.
+It also provides system tuning features like program deactivator.
+==========
+For it to function, we process and store the following:
+· originating IP Address; scanned systems history including data about operating system, patch level;
+· system health, hardware information (including CPU), graphics card information, hard drive information;
+· system data information, which is a list of computer software installed, directory listing of software, registry name and entries, registry hives and executables; and
+· other operational data, for example, errors and error messages.
+We use this data for operational purposes, and to provide you with a fully functional service.
+Avast Secure Browser
+In the default setting, our Secure Browser will process:
+· your IP Address;
+· the GUID number assigned to your installation of the Browser;
+· cookies usage data; and
+· browser extensions.
+We use the data we collect to provide the Browser’s functionality, to monitor performance and to improve our services.
+You can access and manage key privacy features from the Secure Browser’s settings:
+
+Browser Security & Privacy Center
+The built in Security & Privacy Center is a curated collection of some key security and privacy features, tools and settings, organized into one management console making it easier for you to control and manage your online privacy and security.
+==========
+Anti-Phishing
+This blocks malicious websites and downloads to help prevent your personal computer (PC) from becoming infected with viruses, spyware, and ransomware.
+Privacy Cleaner
+This cleans your browser history, cached images, cookies including both first-party and third-party cookies, and other junk with just one click, to keep your activity private and free up disk space.
+Stealth Mode
+This prevents your browsing history from being stored and removes any tracking
+cookies (both first-party cookies and third-party cookies) or web cache you pick up during that browsing session.
+==========
+Avast Secure Browser will also process the following data locally on your PC:
+· your browsing history;
+· personal information and passwords;
+· a list of permissions;
+· thumbnail-sized screenshots of websites that you visit;
+· cookies or data from websites you visit;
+· data saved by browser extensions and add-ons;
+· data on what you downloaded from websites;
+· data imported from other browsers; and
+· bookmarks.
+You can manage the data stored locally on your machine in the Browser settings.
+Data stored locally on your machine is not collected by our servers.
+You can manage this information in several ways:
+· you can delete your browsing history, cookies and site data by visiting the Security & Privacy Center and using the ‘Privacy Cleaner’ tool;
+· you can stop our Secure Browser from accepting cookies from publisher websites by ensuring that ‘Anti-Tracking’ is turned on from within the Security & Privacy Center;
+· you can modify the cookie setting policy under the us Secure Browser Settings by going to Settings/Advanced settings/Security & Personal Privacy/Content settings;
+· you can review stored passwords using the Secure Browser default password manager in the Secure Browser Settings.
+Go to Settings/Advanced settings/Passwords and forms/Manage passwords; and
+· you can view and manage your stored Autofill information in the Secure Browser Settings.
+Go to Settings/Advanced settings/Passwords and forms/Autofill settings.
+==========
+Avast Passwords
+Avast Passwords is a feature that stores user passwords and notes under a single master password or fingerprint and permits the user to log on to multiple sites using a unitary sign-on credential.
+On Windows, our Passwords forms an integral part of the AntiVirus, which can be activated by the user by either performing a smart scan or by opening the feature in the product menu.
+On other platforms (Android, iOS and Mac) Passwords is a standalone program.
+When activated, Passwords will check whether you have stored any passwords via your browser and will suggest you move these passwords to Passwords, so they can be stored securely.
+When you choose to do so, Passwords will upload these passwords and remove them from your browser.
+==========
+Please note that the browser check happens locally on your device and none of your passwords are sent to our servers.
+Your passwords and other personal data are stored locally on your devices and encrypted by the Passwords app.
+However, when you choose to activate the optional feature "Synchronisation & Backup" to synchronise and backup your passwords across all your devices, you are required to create an account.
+Your personal data, that is, your passwords and notes, which may include credit card details, will be backed up on our remote server in a securely encrypted form, readable only via a “master key” on your device.
+Thus, it cannot be decrypted by us.
+The data collected by our Passwords is necessary to provide the product functionality.
+==========
+Identity Guard/Passwords/HackCheck
+This functionality works in a number of ways.
+It allows you to check whether the passwords to your online accounts have been compromised.
+We are able to do this by searching through the database of leaks which we know about.
+You can do this through a number of our products which have this functionality.
+==========
+· Hack Check – Hack Check is our website where you can check your leaks simply by entering your email.
+You will then be sent the results of the check to your email.
+Our service will then also send you periodical emails as to whether we have learned that your credentials have leaked.
+You can unsubscribe from receiving these messages by clicking the unsubscribe link in the footer of these emails.
+· Identity Guard – Identity Guard is a function within Avast Mobile Security where you can enter an email address and get back feedback on whether or not your credentials have leaked.
+The functionality also stores e-mail addresses with respect to which no leak was detected, and will notify you if we learn that your credentials leaked at a later date.
+· Password Guardian – Password Guardian is a function within the Passwords product.
+When you store your credentials in the Passwords product, in an encrypted vault, we will notify you if we learn that your credentials have leaked elsewhere.
+==========
+Antispam
+Antispam is a product functionality that is designed to protect you against unwanted emails (spam).
+The software may collect information contained in emails reported by you as spam or identified as spam by a third-party tool (Mailshell).
+When you report an email as spam, the email is sent to the third party.
+==========
+Your consent is required for each of these submissions if you use the default setting.
+We do not collect, use or store your personal data.
+We do not share your software or device ID or any of our generated IDs with the third party.
+In general, Mailshell does not have information about individual users or devices and is not able to connect any information to you.
+If you wish to know in detail what data Mailshell collects from you, please go to their website.
+==========
+Avast SafePrice
+When you use SafePrice, information related to certain shops or products, URLs, the installation GUID, a timestamp of the offer, purchase, product name and number, merchant’s name, product links, prices and the categories of your purchased items, location at country level will be collected or transferred to us.
+This information is used to retrieve available offers, for example, coupons or cheaper prices from third parties partnering with us.
+We request offers anonymously from those third parties and will not transfer or disclose your personal data to them.
+At this stage, you do not communicate with the third party, only with us, and we do not forward any information to the third party except your country level geolocation and language.
+We do not give them your personal identifiers, so no emails and no names.
+==========
+The third parties may use cookies in relation to the services they provide on or via SafePrice.
+For example, when you click on an offer presented within the product, a cookie may be placed on your computer.
+Third party/third party's partner/service provider sites, offers and/or cookies are not controlled by us and are not subject to this privacy policy.
+In the end, you buy directly from the seller.
+We do not have access to your credit card details as you deal directly with the third-party companies.
+==========
+Avast BackUp
+The Avast BackUp service is provided by a third party under contract with us, and the privacy policy, terms of service, and EULA of the third party apply to any information that users provide in connection with the Avast BackUp service.
+Avast BackUp provides backup and storage capabilities for personal data that otherwise would reside only on your computer's hard drive.
+For the BackUp to work, data on your hard drive must be transferred to a centrally hosted site so that it can be "backed up."
+If your hard drive contains personal information, that information will be transferred to the host site for storage and subsequent retrieval.
+Techniques used to protect this information during storage and transmission are described below.
+==========
+Service Data specific to CCleaner Desktop Apps and Other Products
+All Piriform desktop apps receive usage data via log files.
+We collect usage data such as your device ID, your browser type and version, your operating system, your IP Address and information on software you have installed as necessary for the functioning of your Piriform desktop apps and to check if you qualify for any installer or in-app promotions we may market.
+The collecting and processing of your usage data is automatic once you install the app.
+Desktop apps 
+CCleaner Mac
+CCleaner for Apple Mac cleans and de-clutters your hard drive, makes your operating system run faster and helps make your browsing on the internet more private and secure.
+Recuva
+Recuva is a windows app that allows you to search your hard drives and USB drives and recover any deleted files (if deleted with standard windows deletion).
+Speccy
+Speccy is a windows tool that allows you to receive an audit of your computer hardware and software.
+You may publish this information to an online page if you wish to share.
+The audit does not include IP Addresses (http://speccy.piriform.com/results/HSP0RYoxXz3SniCDtOLxcJN).
+Defraggler
+Defraggler allows you to optimise your older hard drives so they run faster.
+Software as a Service (SaaS) Product
+SaaS products allow you to connect to and use cloud-based apps via the Internet.
+CCleaner Cloud
+CCleaner Cloud is offered as both a free and paid version.
+==========
+The platform allows users and businesses to remotely manage their computers centrally from the platform.
+For free users, we collect personal data including your name, email address, IP Address and computer events, for example when you install software.
+This data is necessary to provide and improve our services by connecting this data with the usage logs.
+For Professional and Business users, we collect the same personal data as for the free user and additionally, we may collect your company name, billing information and mobile number.
+The data is necessary to complete the contract when you subscribe to our services.
+Business-only Product
+CCleaner Network
+CCleaner Network is a business-only product that is installed locally on your server and allows you to manage and clean your company’s computers.
+We do not receive any data as this is a local-only closed network product.
+==========
+Service Data Specific to Your Mobile
+Avast and AVG Products & Services
+In the sections below, we look at what data is collected when you use AMS, AVG AntiVirus and AVG Protection for Xperia, in addition to variations of these apps developed specifically for tablets or alternative app stores.
+When you first run these apps following installation, you have the option to subscribe to use the paid version.
+If you stay on the free version, we will serve third party ads; if you do not want to view third party ads, you may choose the paid version.
+Whatever your choice, your service data is not connected to your Billing Data, because there is no Billing Data for free users and for paid customers, as described above, your Billing Data is collected only by the app store where you purchased the product.
+If you use the free version of our apps, the services are supported by third party ads.
+Choosing to install the free version means data such as your IP Address will be provided to the third party ad server.
+In some instances, Avast Mobile Security (AMS) or AVG AntiVirus may come preinstalled on your mobile device upon purchasing it from the store and you can deactivate them within the product Settings – Personal Privacy.
+==========
+Web Shields
+Web Shield Lite is on by default and is only effective on some browsers and Android operating system versions.
+When enabled in a supported configuration, the app reads URLs from the browser in realtime and sends them to our server via the URL information service.
+We check the URL against our database of known threats and then display an alert if the URL is a known threat.
+==========
+Web Shield with Accessibility is off by default.
+You need to grant Accessibility permission to activate this feature.
+While it is the same service as Web Shield Lite, it is capable of checking URLs in more browsers and operating systems.
+The list of supported browsers and operating systems sometimes changes due to the development of or changes to third party services.
+==========
+We may use anonymous browsing data for third party trend analytics.
+All users may turn off data sharing in product Settings – Personal Privacy.
+Avast AntiTheft for Android
+AntiTheft is a function within AMS.
+It is off by default.
+==========
+When you choose to turn it on, you can request location on demand from my.avast.com or through SMS commands from another phone.
+AntiTheft is designed to protect data residing on your mobile phone in the event of theft.
+For AntiTheft to function, we must collect and store information about your phone and its approved users.
+The types of data we collect include the following:
+· a list of approved SIM cards;
+· a phone number to notify you in the event of unauthorized SIM card replacement;
+· a number where calls and messages can be forwarded in the event of theft;
+· your mobile’s unique identifier or International Mobile Equipment Identity (IMEI) when you activate AntiTheft.
+We use this data to locate and identify your lost device, and to help you report the lost device to police and cell phone carriers.
+If the phone was stolen, it may block the thief from using the device.
+The collected data is used to provide you the functionality.
+Last Known Location is a feature within AntiTheft, also off by default.
+When you activate the feature, we send more frequent location updates to the server to help you track your device's last known location.
+==========
+Avast Call Blocker
+The Call Blocker feature is only available on Android versions below 9.0.
+This paragraph does not apply to Android 9.0 and above.
+Call Blocker is a feature of AMS which allows you to block unwanted callers.
+It is off by default.
+==========
+When on, we build a database of SPAM callers by analysing patterns of high volume callers across our user base.
+When you (an AMS user) call a third party, or a third party calls you, we will have the following record in our database: the third-party phone number, the time of the call, and an anonymous key code number assigned to this particular record.
+This allows us to count the number of calls made to a specific recipient in order to evaluate whether the call is a spam or not.
+==========
+Your GUID is disconnected from this data.
+We do not collect the phone numbers of our users.
+Therefore, the data we collect from you is anonymized and we are not able or intending to trace the call record to you.
+However, we are able to see the phone numbers of third parties who called our AMS users in general or which phone numbers were called by our AMS users.
+The purpose of this data collection is to identify high volume callers; therefore, we look at aggregations, not at individuals.
+==========
+You may shut off this feature in your discretion via the product Settings.
+Avast Wi-Fi Finder
+Avast Wi-Fi Finder for Android provides information about free hotspots.
+It is based on crowdsourced data, meaning that every user has to willingly contribute to the database.
+We use the data collected for sharing with other Wi-Fi Finder users.
+You may turn off data collection by not using the WIFI sharing feature.
+==========
+We collect this data:
+· the location of the device when you use “submit a hotspot”;
+· names of hotspots you submit to the database;
+· some technical information about the network (speed, signal strength, security assessment, and frequency
+· mac address and IP Address of the device;
+· the install GUID and hardware identifier; and
+· hotspot passwords.
+In some Android versions, we need your location permission to scan Wi-Fi networks for security threats.
+Any time we’re given the location permission, we may use it to refine our databases of Wi-Fi networks, including the locations of Wi-Fi hotspots and dangerous networks.
+Avast Battery Saver
+The Battery Saver is an app that helps you monitor what apps are running in the background, speed up your mobile device, and save the battery.
+==========
+We collect AppInfo for the purpose of delivering this feature.
+Battery Saver has a functionality, Smart Profile that can switch your device setting automatically to preserve the battery upon an event you set up, for example, when you come home.
+In doing this, you have to reveal your location Wi-Fi or give us permission to use your Android mobile operating system’s location so that the event can be triggered.
+This data is stored locally on your device and is not transmitted to us.
+==========
+We track the usage of this feature via Google Analytics, so we would know the demographic and geographic statistics of our users who have enabled Smart Profile.
+We do not have information on the individual user.
+As Google is a third party, the third-party privacy policy applies.
+Smart Profile is enabled by default, but you may disable this via product settings.
+==========
+AppInfo
+AppInfo is an Avast library used in our product features such as App Insights, for the purposes of displaying how much time is spent on the device, broken down by app, by total data, and by day; enhancing our cloud based threat detection; improving other Avast products; for Avast marketing; for third party ads; and for analytics.
+To this end, it analyzes device information such as: language; make and model; operating system version; telecom provider; and city and country.
+Additionally, we observe the list of currently installed apps; the time when an app is installed or removed; the source of an installed app; Wi-Fi and carrier data consumption per app; time that an app is in the foreground; battery and CPU consumption per app; and which permissions are granted to each app.
+The specific scope of information collected is dependent on permissions granted to the app.
+We may share statistical data that has been anonymized and aggregated geographically and so, cannot be used to identify individuals, with third parties for trend analytics.
+You can always turn off the specific features which use data from the AppInfo library in your settings, or change your preferences for the processing of this data in the privacy settings.
+==========
+Avast ApkRep
+We use the ApkRep to build a database of Android apps sourced by users of AMS.
+We collect and store hashes of app files together with the installation GUID, as well as metadata about the apps (e.g. application package name, application signing certificate information, source market identifier and file size).
+We process this on the legal basis of our legitimate interests in analysing your data to find infectious apps and to update our virus databases, which is necessary to continuously improve AMS to keep you secure.
+==========
+Avast Android CleanUp, AVG Cleaner, AVG Cleaner for Xperia, and CCleaner for Android (Piriform)
+Avast Android CleanUp, AVG Cleaner, AVG Cleaner for Xperia, and CCleaner for Android (Piriform) access your device storage to delete data that is not in use.
+You will be asked to allow your Android operating system to access your device storage.
+The feature sees what’s in your device, for example the apps and files you have downloaded, ranging from your music playlist to photos.
+However, everything takes place locally on your device and nothing is transmitted to our servers.
+Since we do not collect or store any personal data, any data collected is anonymous.
+We also offer you a Cloud service connection for you to back up your files so nothing important gets deleted.
+You may sign-in to Google Drive, Dropbox or Microsoft OneDrive directly from CleanUp.
+This feature is optional.
+If you use this feature, you will be storing your files with a third party and thus this is subject to the third party’s terms of service and privacy policy.
+==========
+Avast Family Shield
+Family Shield is a location-based mobile phone application service.
+The master user installs the application on his/her device and then also on the device of a connected user, for example a child.
+The application collects users’ telephone numbers, location of mobile device, location-based information, website domains, and app usage history, to provide the requested service.
+==========
+One of its features is for the master user to know where a connected user is (for example, using the application, a mother or father can connect their device with the device of a child or parent and then see where their child or parent is located).
+Another feature allows the master to set parameters that will block or permit specific websites, and/or applications from running on or from being collected from the connected user's device.
+This application also provides the master user with the battery level of the connected user's device.
+==========
+Login is managed using Facebook login, but we use the Facebook login information only for authentication.
+We do not collect any information regarding your Facebook account beyond this authentication.
+We use the data we collect in order to deliver the Family Shield functionality (perform the contract we have with you).
+==========
+Avast Mobile Campaign and News Feed
+From time to time, we will run mobile campaigns.
+The goal of our campaigns is to show messages to you to promote various features of our apps and offer discounts on paid features.
+We use three kinds of messaging formats:
+· Notifications
+· Overlays
+· Purchase screen
+Here are some examples of general events which we use to trigger messaging:
+· First launch
+· App installation
+· Subscription changes
+· Features changed
+· Trial changed
+· Seasonal events (such as national holidays)
+Each app can also define its own events, for example:
+· EULA accepted
+· AV scan threats found
+· App update
+· Safe clean
+· Low battery
+Apart from campaigns, when you use our apps on your Android, you will receive news feed from us, for example, once you complete a virus scan or CleanUp process, you are directed to a result screen that offers a Facebook-news-feed-like experience.
+==========
+Each feed has multiple cards.
+You can scroll the feed vertically.
+Each card has its own function.
+We may offer information or tips, promote our apps or guide you to a screen, application, Google Play or web page when you tap on the card.
+We also display third party advertisement cards to free users.
+==========
+We use our servers to download relevant content for you, so we will transmit some of your data in the request, for example, your hardware ID, the install GUID, and device information like language, vendor, model, and android version.
+Your data is used to deliver content, which is relevant to you.
+AVG Alarm Clock, Open Weather and Taboola
+AVG Alarm Clock
+When you install Alarm Clock, which is an app that you can set to wake you up, you will also receive by default, weather (via Open Weather), news (via Taboola), and third party ads via regular ad SDKs.
+You may opt out of receiving news and weather reports via Settings – My Day Dashboard.
+==========
+Through Alarm Clock, we collect and process anonymous statistical data in our own analytics system and we share pseudonymized or anonymised data with third-party analytics and crash reporting.
+We collect only the personal data necessary for us to enable our third-party providers to send you relevant information.
+You may opt out of third party analytics through Settings – Personal Privacy.
+Open Weather
+You receive weather information from Open Weather, our third-party service provider.
+This service is on by default and we share your approximate location data, so you will receive relevant weather forecasts, for example, East Coast, USA.
+However, if you wish to have the weather forecast for a specific location, for example, Brooklyn, New York, you have to turn on this setting.
+==========
+Apart from Alarm Clock, you can receive Open Weather on your charge screen when you install AntiVirus, Cleaner and Battery Saver.
+Taboola
+Alarm Clock will also show you news articles from Taboola, our third-party news aggregator.
+We share some of your data with Taboola, such as your IP Address, your device, browser and operating system, your hardware ID, news websites you visited and your preferred language, for you to receive locale specific news.
+AVG Gallery, Gallery Doctor and Photo Cleaner for iOS
+AVG Gallery
+Gallery is a smart app that you can install in your Android to help you organise your photos and videos into significant moments.
+==========
+Through Gallery, we collect analytics data in our internal analytics system, and through third party analytics like Google Analytics and third party crash reporting (Crashlytics).
+AVG Gallery Doctor
+Gallery Doctor is a free app that helps you free up storage space in your mobile by identifying bad & similar photos in your Android gallery.
+It does not collect any personal data.
+==========

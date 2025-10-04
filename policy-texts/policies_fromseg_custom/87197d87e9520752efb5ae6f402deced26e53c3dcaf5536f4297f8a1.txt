@@ -1,0 +1,37 @@
+Get our top stories
+follow gizmodo
+A new iPhone app called Highlight is poised to be this year's breakout hit at South by Southwest, the Austin tech and media conference that has become known as a web service kingmaker after launching services like Twitter and Foursquare to a wide audience in years past.
+In the context of a major tech conference, Highlight makes an appealing promise: let it run in the background of your phone, persistently collecting your location data, and it will notify you when your friends, their friends, or people with shared interests are nearby.
+Highlight is only the most prominent in a collection of apps offering this sort of "ambient social networking."
+==========
+These features are nifty, and could certainly help enhance serendipity for users in Austin and elsewhere.
+But the application and its website provide no privacy policy, data retention policy, or even any technical explanation for how it works in order to allow users to make an informed decision about their data.
+==========
+We've e-mailed Highlight to ask about their privacy policy, but haven't yet heard back.
+Instead, upon installation, the application tells the user that it requires a connection to her Facebook profile and access to her iPhone's location sensors.
+Unlike "check in" services like Foursquare, Highlight collects and shares location data with other users continuously unless you manually pause it.
+It doesn't take much imagination to figure out how sending such a steady stream of location data to a third party with no posted privacy or data retention policy could go very wrong: the application could be indefinitely storing location histories on their servers for every user, including likely interactions between them.
+Further, Highlight has access not only to locally stored personal data but also can access the Facebook photos, profile details, and other data on that service.
+In other words, in the process of installing and authorizing this app, users don't know how much information they are handing over.
+==========
+Without more details about their policies and practices, how confident can they be in the security of that data against the threat of government subpoenas, unauthorized intrusions, or rogue employees?
+John Biggs at TechCrunch has already written an article about Highlight's privacy practices, complaining that their text message feature "leaks" the phone numbers of other user contacts — the equivalent of using "CC" instead of "BCC" on a bulk email.
+==========
+Biggs doesn't point the finger directly at Highlight (his actual words are: "I don't want to go all EFF on you") but it's not a very auspicious introduction for the newly launched app.
+Highlight's creators are probably well-intentioned, and their practices seem to be common in the world of mobile app development.
+==========
+But "industry standard" is no defense, and as companies like Path and Hipster have learned the hard way, the right time to implement good privacy and security practices isn't after there's been a problem and bad media coverage — it's during the initial development.
+These issues bring to the fore a bigger problem in the world of mobile development today.
+==========
+In an effort to work quickly to put out a "minimum viable product" and see what sticks, developers are sometimes cutting one too many corners.
+An app can't be considered a viable product unless it respects the rights of users, and one without a published privacy policy runs afoul of our recent mobile user privacy bill of rights; without providing a user with the transparency and accountability of a policy, an app can't even be evaluated to see if it respects the other rights.
+==========
+Of course, a privacy policy that's readable and accurate is one necessary step: the California Online Privacy Protection Act of 2003 requires operators of online services that collect personally identifiable information from California residents to conspicuously post and comply with a privacy policy.
+And the California Attorney General's recent agreement with the major app marketplace operators will help to make app privacy policies available in a standardized and accessible way, but that's not enough.
+==========
+Privacy policies can be incomprehensible, overbroad, and subject to change at any time.
+App developers need to think about both policies and practices from a privacy perspective, and do their part to respect their users from the ground up.
+Highlight may yet come out of South by Southwest as the most-buzzed about new service.
+But unless they remedy their privacy problems, they could be undone just as quickly by another privacy scandal.
+Republished from Electronic Frontier Foundation's Deeplinks blog with permission.
+==========

@@ -1,0 +1,82 @@
+ST, BRAM, ZEROPOWER, SNAPHAT, 
+          TAGRAM, TIMEKEEPER, W.A.R.P., are registered trademarks 
+          of companies belonging to the STMicroelectronics Group.
+Z8 and Z80 are registered trademarks of Zilog Inc.
+==========
+COMBO is a registered trademark of National Semiconductor.
+IBM PC is a registered trademark of International Business Machines 
+          Corporation.
+NEC is a registered trademark of Nippon Electric Company.
+SUN is a registered trademark of Sun Microsystems Corporation.
+DEC is a registered trademark of Digital Equipment Corporation.
+Microsoft, Windows and the Windows logo are registered 
+          trademarks of Microsoft Corporation.
+FROM, is a registered trademark of U.S. federally 
+
+TRADEMARKS 
+Krypto, SmartJ, SmoothDrive, Mozart, PowerMESH, 
+          Max247 BiPORT, TIMEKEEPER, TAGRAM, ISOWATT218, 
+          ISOWATT220, LightFlash, TO-220FP, ISOTOP, 
+          VIPower, OPTIMWATT, Occam, PowerSO-10, PowerSO-20, 
+          HEPTAWATT, MULTIWATT, PENTAWATT, Max220, I-Max220, 
+          Max247, Tone Pulse, SNUBBERLESS, SnoopTAG, 
+          WORD DIALER, CONTINUOUS ARRAY, BCD,CAPHAT, 
+          POLYUSE, ST6, ST9, ST18 are trademarks of 
+          companies belonging to the STMicroelectronics Group.
+==========
+Z8000 is a trademark of Zilog Inc.
+E™CMOS is a trademark of Lattice Semiconductor Corp.
+VAX and VMS are trademarks of Digital Equipment Corp.
+==========
+MENTOR is a trademark of Mentor Graphics Inc.
+System Hilo is a trademark of GenRad Inc.
+Racal Redac is a trademark of Racal Redac Inc.
+==========
+APOLLO, HP9000 are trademarks of Hewlett-Packard Corp.
+CADENCE, VERILOG are trademarks of Cadence Design System 
+          Inc.
+Synopsys is a trademark of Synopsys Inc.
+Unix is a trademark of ATT/BELL Laboratories.
+==========
+Purchase of I2C Components by STMicroelectronics, conveys
+          a license under the Philips I2C Patent.
+Rights to use these
+          components in an I2C system, is granted provided that the
+          system conforms to theI2C Standard Specifications as defined
+          by Philips.
+* All other brands and names are property of their respective owners.
+==========
+Search Engine
+The www.st.com search engine is powered by Synomia®
+
+ Linked Sites:
+The linked sites are not under the control of STMicroelectronics
+          and STMicroelectronics is not responsible for the content of any linked
+          site or any link contained in a linked site, and is providing the links
+          solely for convenience of customers.
+STMicroelectronics reserves the right to terminate any link or linking
+          program at any time.
+STMicroelectronics does not endorse companies or
+          products to which it links and reserves the right to note as such on
+          its web pages.
+If you decide to access any of the third party sites linked to this
+          site, you do this entirely at your own risk.
+==========
+Disclaimer of Warranty:
+Information furnished is believed to be accurate and reliable.
+However, STMicroelectronics assumes no responsibility for the consequences
+          of use of such information nor for any infringement of patents or other
+          rights of third parties which may result from its use.
+No license is
+          granted by implication or otherwise under any patent or patent rights
+          of STMicroelectronics.
+==========
+Specifications mentioned in this publication
+          are subject to change without notice.
+This publication supersedes and replaces all information previously
+          supplied.
+STMicroelectronics products are not authorized for use as critical components
+          in life support devices or systems without express written approval
+          of STMicroelectronics.
+Copyright Information
+==========

@@ -1,0 +1,194 @@
+QuantumCast digital GmbH Data Protection Privacy Notice
+1.
+The identity and contact details of the organization, its representative, and its Data Protection Officer 
+The following Data Protection Privacy Notice (DPPN) applies to data processing by:
+Organization:      
+QuantumCast digital GmbH (hereinafter “Organization” or “we/us”)
+Head Officer:       
+Thomas Mosch
+Tschaikowskistraße 33
+04105 Leipzig
+Germany
+Telephone: +49 (0)341 / 9999 7296
+E-Mail:  hello@quantumcast.info
+Questions about data protection can be sent to the above address care of Thomas Mosch, or by e-mail at hello@quantumcast.info.
+2.
+==========
+Collection and storage of personal data, as well as means and purpose of use thereof
+a) Upon visiting Organization's website
+Upon accessing one of our websites, www.quantumcast-digital.de, www.quantumcast-digital.com, and docs.quantumcast-digital.
+com, your web browser will automatically send information to the servers hosting our sites which will be temporarily stored in a so-called logfile without any action on your behalf before said information is automatically deleted.
+==========
+Said information consists of:
+the IP address of the device requesting a website
+date and time of the request
+name and URL of the requested file
+the URL of the website that contained the link the request originated from
+information about the web browser you are using, the operating system of your device as well as the name of your internet provider
+The above named data is used for the following purposes:
+to ensure a frictionless display of our websites
+to ensure a comfortable user experience on our websites
+to analyze our system's security, and stability
+for additional administrative purposes
+Our right to collect and use data for these purposes is laid out in GDPR Art. 6(1)(f).
+Under no circumstances do we use the data collected to draw any conclusions about your person.
+We also use cookies and analytical services on our website.
+You can find more details about these in sections 4 and 5 of this DPPN.
+b) Upon connecting to an audio stream
+The following personal data is recorded in a logfile on the servers hosting our websites when you access one of our audio streams, even if the audio itself hasn't begun playing:
+name of the requested stream
+date and time of the request
+size of the data transfer
+record of request success, or failure
+type of web browser being used for request
+abbreviated IP address to preserve anonymity
+anonymized online identifier
+record of whether an ad was played and, if so, which one
+Your app or device will also generate a unique listener-ID that will be sent to us and processed by us but QuantumCast will not store it.
+Our right to collect and use data for these purposes is laid out in GPDR Art. 6(1)(a) (consent) and GDPR Art. 6(1)(f) (legitimate interest).
+QuantumCast's legally permissible use of this data is as a service provider that makes third party produced radio, and web-only-based programs commercially available through audio streaming.
+The logfiles are held due to the need to analyze system errors and are deleted after seven days.
+==========
+c) Upon contacting us
+You can contact us at any time through e-mail, hello@quantumcast.info, as well as over Slack and Teams.
+Providing a valid e-mail address or username is necessary so that we know who has sent the request and can reply to it.
+==========
+Additional identifiers are voluntary.
+Personal data processing for the purposes of contact is done with your voluntary consent in accordance with GDPR Art. 6(1)(a).
+You can find out more about Slack's and Microsoft Teams' data protection policies at the following addresses: 
+https://slack.com/intl/de-de/trust/privacy/privacy-policy?geocode=de-de  
+https://privacy.microsoft.com/de-de/privacystatement
+Any personal data that we collected as a result of your inquiry will be deleted immediately upon the resolution of the issue in question, as long as we are not required by German tax law under § 147 Abs.
+3 AO to keep a record for 10 years.
+d) Web Portal
+Our customers can manage streaming content through a web portal made available to them.
+==========
+The company streamABC GmbH, Tschaikowskistr.
+33, 04105 Leipzig manages the portal.
+==========
+A customer e-mail address, which could be considered personal data, is necessary to log into the site.
+Additional personal data is not processed by us on the web portal.
+==========
+E-mail addresses are processed according to GDPR Art. 6(1)(b) for the purposes of fulfilling contractual obligations or according to GDPR Art. 6(1)(f) to insure a smooth execution of business processes.
+E-mail addresses are stored for the duration of the contractual relationship and subsequently deleted.
+==========
+e) Job Applications
+All personal data that you provide to us in an application, in particular your full name and contact information such as mailing address, e-mail address, and telephone number, will be processed by us based on your agreement as set out in GDPR Art. 6(1)(a).
+All applications are either deleted or destroyed after 6 months.
+==========
+f) Support Inquiries
+Support inquiries sent by e-mail are processed through the Zammad software from Zammad GmbH, Marienstraße 18, 10117 Berlin, and converted into a ticket which is processed by our employees.
+This process requires the processing of the inquirer's e-mail address which is based on their agreement as set out in GDPR Art. 6(1)(a) as well as for the purpose of fulfilling contractual obligations as set out in GDPR Art. 6(1)(b).
+3.
+==========
+Sharing of Data
+The anonymized logfiles mentioned in Section 2.
+b) of this notice are sent to the following service providers that have all been hired for the purpose of analyzing listening behavior:
+Arbeitsgemeinschaft Media-Analyse e.V., Franklinstraße 52, 60468 Frankfurt am Main
+INFOnline GmbH, Brühler Str.
+==========
+9, 53119 Bonn
+STREAMALYZR GmbH & Co.
+KG, Boyenstr.
+==========
+41, 10115 Berlin
+TBSC The Brand Support Company GmbH & Co.
+KG, Wieseneckstraße 26, 90571 Schwaig bei Nürnberg
+Radioanalyzer, Nyrtov 11, 9000 Aalborg, Denmark
+Quantyoo GmbH & Co.
+==========
+KG, Trautenwolfstraße 3, 80802 München
+The listener-IDs are additionally shared with third parties for advertising purposes.
+No further sharing of the data occurs.
+4.
+==========
+Cookies
+We use cookies on our website.
+Cookies are small files that your browser generates automatically when you visit our site and stores on your device (laptop, tablet, smartphone, etc.).
+Cookies do not harm your device, do not contain any viruses, trojans, or other malware.
+Cookies contain information about the device that you are using.
+This does not mean that we obtain any direct information about your identity.
+==========
+One of the functions of cookies is to improve your experience when using our services.
+We use so-called “session cookies” to recognize that you have already visited individual pages on our site.
+These cookies are automatically deleted when you leave our site.
+The legal processing of these cookies' data is to ensure the smooth operation of our website as set out in GDPR Art. 6(1)(f).
+Most web browsers accept cookies automatically but you can set your browser to not store any cookies or to warn you before a new cookies is stored.
+Deactivating cookies completely can prevent you from accessing all of our website's functions.
+5.
+==========
+Google Fonts
+Our website uses Google Fonts to display non-locally stored fonts.
+Google Fonts is a service offered by Google Ireland Limited (hereinafter “Google”), Gordon House, Barrow Street, Dublin 4, Ireland.
+In order for certain fonts on our website to be displayed properly, a connection to Google servers in the USA is established when you access our website.
+==========
+The legal accessing of this service to ensure our website's optimization and economical operation is set out in GDPR Art. 6(1)(f).
+Upon accessing our website, the accessor's IP address and the visited site are sent to Google.
+Further information on Google's policies concerning personal data can be found here: https://policies.google.com/privacy.
+6.
+==========
+Social Media
+We maintain accounts on a variety of social networks, and platforms, including Twitter, YouTube, and GitHub, to get in touch with the members of these platforms, customers, potential customers, and users, and to inform them about our services and special offers.
+Please, be aware:
+Personal data of users of social networks and social media platforms is typically processed for market research, and advertising purposes.
+==========
+Behavior data is recorded using cookies, or similar technologies on the user's device.
+User profiles can, for example, be created based on this data to discern a user's interests.
+Said profiles can be used to generate targeted advertising both on, and off these platforms and be used independently of the locally stored cookies when the user's are logged into the platforms on other devices.
+==========
+Personal user data collected and stored through the use of social networks and social media platforms may be processed outside of the European Union (EU) which can put user's at risk, e.g. limitations on their ability to enforce their rights.
+The personal data of user's of our online presence in social networks and social media platforms, including the transfer of personal data to the owners of said networks and platforms in the USA, is based on the user's (implied) consent as set out in GDPR Art. 6(1)(a), as well as Art. 49(1)(a).
+We can not insure that personal data transferred to a GDPR non-compliant country, like the USA, will be treated using the standards set out by the GDPR.
+Local laws of GDPR non-compliant countries may force the service providers located there to hand over personal user data to government agencies or other government organisations.
+Any attempt to contact us through a social media platform's messaging or chat system is voluntary and we do not accept responsibility for the safety of any personal data shared with us through such systems or processing of said information by third parties.
+Please, inform yourself independently about the user agreements and data protection policies of the sites and platforms in question.
+==========
+For more detailed information about some of the platform's data processing policies and opt-out options, please, see the links below:
+Twitter: Twitter International Company, One Cumberland Play, Fenian Street, Dublin 2, D02 AX07, Irland, https://twitter.com/de/privacy
+YouTube: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, https://policies.google.com/privacy
+GitHub: GitHub Inc., 88 Colin P Kelly Jr.
+St., San Francisco, Kalifornien, USA, https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement
+Readthedocs.com: https://docs.readthedocs.io/en/stable/privacy-policy.html
+Only the social networks and social media platform providers have access to the personal user data of their users and data based on the communication on their platforms.
+==========
+Only they can give information about how it is processed and stored by them.
+Requests for information about this data is most effectively directed directly to these providers but you can always contact us as well.
+==========
+7.
+User Rights
+You have the following rights:
+according to GDPR Art. 15, to request information about your personal data that we have processed, in particular about the purpose of the processing, the type of personal data, the types of recipients of the data, the planned period of storage, the right to correction, deletion, or objection to the data, the right to limitation of the processing of the data, the right to object, the origin of your data if it was not collected by us, whether an automated decision making process was applied, including profiling, as well as the right to request meaningful information about details of the information;
+according to GDPR Art. 16, to demand the correction of inaccurate or incomplete personal data stored by us without delay;
+according to GDPR Art. 17, to demand the deletion of personal data stored by us, as long as the data is not necessary for the exercise of freedom of opinion and information, the performance of a legal obligation, for reasons of public interest or for the enforcement, performance, or defense of legal rights;
+according to GDPR Art. 18, to demand limits on the processing of your personal data, as long as you contest the accuracy of the data, the processing is illegal but you refuse deletion of the data, and we no longer need the data but you need the data to enforce, perform, or defend a legal right or you have filed an objection to the processing of the data under GDPR Art. 21; 
+according to GDPR Art. 20, to obtain or have a third party obtain your personal data,  that is in our possession, that you provided to us, in a structured, common, and machine readable format ; 
+according to GDPR Art. 7(3), to withdraw your permission to allow us to collect, process, and store your personal information.
+==========
+As a consequence, we will not be able to continue data processing that was based upon that permission in the future; and
+according to GDPR Art. 77, to file a complaint with a data protection agency.
+Typically you will be able to contact the appropriate agency in your home, or work jurisdiction or the jurisdiction of our corporate offices.
+8.
+==========
+Right to Object
+As long as your personal data is being processed for permissible purposes as set out in GDPR Art. 6(1)(f), you have the right to object to said processing according to GDPR Art. 21 as long as the grounds for such an objection arise from either your particular situation or are directed against direct advertising.
+The later case is a general right to object and no particular situation must be given for us to act upon your objection.
+Send an e-mail to privacy@quantumcast.info to exercise your right to withdraw, or object.
+9.
+==========
+Data Security
+We use the widely used Secure Socket Layer (SSL) process in conjunction with your browser's highest encoding level when you visit our website.
+Typically this involves 256 bit encoding.
+If you browser does not support 256 bit encoding, we fall back on 128 bit v3 technology.
+You can tell that individual pages from our website were transferred encoded to you by the key, or lock symbol that appears in the bottom status bar of your browser window.
+==========
+We employ additional appropriate technical and organizational security measures to protect your personal data from accidental or deliberate manipulation, partial or total loss, destruction, or unauthorized access by third parties.
+Our security measures are constantly upgraded based on technological developments.
+10.
+==========
+Date of and Changes to this Data Protection Privacy Notice
+This DPPN is valid as of February 2021.
+This notice may be updated due to changes to our website and the products and services offered thereon or based on changes to legal or government administrative requirements.
+You can access and print the current version of this DPPN at:
+https://www.quantumcast-digital.com/privacy-policy
+https://www.quantumcast-digital.de/datenschutz
+==========

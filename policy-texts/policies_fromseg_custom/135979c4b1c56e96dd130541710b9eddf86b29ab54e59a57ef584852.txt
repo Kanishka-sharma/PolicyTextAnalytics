@@ -1,0 +1,210 @@
+This Privacy Policy applies to MyTraffic.
+This Privacy Policy describes how MyTraffic collects, uses, shares, and secures the personal information you provide.
+It also describes your choices regarding use, access, and correction of your information.
+1.
+==========
+PREAMBLE
+Mytraffic company activity is focused on doing marketing studies, including production of statistical data, traffic analysis and catchment area potential, for players in real estate & retail, and for public players, particularly cities.
+It should be noticed that the whole Mytraffic business targets B2B customers.
+==========
+Example of statistical data produced :
+- Average number of visitors per day passing in front of 48 rue de Béthune in Lille (France),
+- % of visitors to the Quartier Pigalle from the Quartier Nation in Paris.
+- Evolution in the monthly number of visitors to the Condé-sur-Sarthe Commercial Activity Zone.
+==========
+- Heat map of pedestrian traffic in Amiens city (France) centre.
+- Averaged socio-demographic profile (based on INSEE information) of pedestrian traffic in the Bordeaux Saint André district.
+==========
+These data are aggregated data, i.e. several data of the same type put together in order to produce what is known as aggregated data, which contains the desired information but makes it impossible to identify the part of the aggregate information corresponding to a given individual.
+None of them allows, directly or by cross-checking, to identify and a fortiori to target an individual user.
+==========
+This Policy is meant to show transparency and loyalty towards our customers and users of our solutions, and to comply with the regulations on data protection (European GDPR Directive).
+Please find below all information related to collection, processing & protection of users’ rights & data.
+Personal data encompasses any information or combination of information enabling the identification of a physical person.
+As part of its activities, MyTraffic exploits two types of data which can be considered as personal data from a GDPR perspective:
+Part of statistical data produced by MyTraffic for its customers are derived from the processing of Users’ geolocated smartphones data (defined as “raw data” hereafter), which can be potentially considered as personal data in the frame of GDPR regulation.
+To operate its business (statistics proposed to its clients through software or studies), MyTraffic can collect and process personal information from its prospects & clients, in order to manage its commercial relationship with them, and to ensure the proper functioning of its Products & Services.
+2.
+==========
+DEFINITIONS
+Smartphone Geolocation data or Raw data: Smartphone geolocation data (pings journey).
+This data may be considered as a Personal Data, from GDPR perspective.
+It is treated as such by MyTraffic.
+==========
+Enriched / Qualified or Converted Data: Statistical data, from raw data processing, in order to analyse footfall of an area or in front of a commercial address, such as « 2 520 visitors in front of the 32, rue de Clichy, in Paris, the June, 15 2018 ».
+This data is anonymous & statistical by design.
+3.
+CONTACT IN CHARGE OF PERSONAL DATA PROCESSING
+The company MyTraffic SAS, registered at RCS Bobigny, under the number 814 849 113, operates as Personal Data Controller for the two categories of personal data.
+4.
+==========
+CATEGORIES OF DATA PROCESSED BY MYTRAFFIC
+As part of its various solutions and services, MYTRAFFIC offers statistical analysis to commercial real estate players, to support them in their expansion and/or in the management of their sales outlets.
+The added value of our service lies in the production and the analysis of statistics, from several data sources.
+==========
+4.1 Smartphone geolocation data 
+In order to analyse physical flows (footfall) in a geographic area, MyTraffic acquires data from data partners, then exploits geolocation data of smartphones, at France country scale.
+Geolocation raw data includes the following components:
+- Device geolocation (latitude / longitude)
+- Timestamp
+- Device advertising identifiers (IDFA for iOS, AAID for Android)
+- Device operating system (iOS, Android) 
+- App-ID
+- Settings - Foreground / Background geolocation
+- Settings -  Precise geolocation  
+Even if MyTraffic has no other information that would allow identification of the smartphone holder (name, email, phone, address ...), these raw data could be potentially considered, in the framework of GDPR, as personal data, and will therefore be treated as such by MyTraffic.
+MyTraffic thus ensures that the data partner has collected the raw data with the consent of the user of the smartphone, for the purpose of Marketing Study or Geo-based analytics as described below.
+==========
+The user may deactivate the geolocation function of his mobile device at any time, in the System Parameters (as described hereunder).
+Geolocation data is used along with an advertising identifier.
+The advertising identifier is a unique ID for a device.
+It can be reset, at any time, by the user, following this approach:
+- iOS: go to "Settings", then "Privacy", then "Advertising", then "Reset Advertising ID".
+- Android: go to "Settings" then "Google", then in "Ads".
+==========
+Most data partners from whom Mytraffic can collect geolocation data are referenced by the IAB.
+The list of IAB members and Mytraffic suppliers is available at this link.
+For further info on our partners, you may contact us at contact@mytraffic.fr.
+==========
+4.2 Data on Prospects / Clients and on MyTraffic.io Website visitors
+MyTraffic proposes solutions to B2B customers, in real estate, retail & public industry.
+In order to manage its commercial prospection, to manage its interactions with its customers and to get its customers access to its SaaS software, MyTraffic exploits data of contacts on its Prospects and Customers (with the name / first name / function / company / email address / mobile phone / mailing address, those elements being professional contact details).
+4.3 Open Data
+To carry out its analysis for its clients, MyTraffic uses a variety of open data sources, including INSEE, BODACC, Trade Court, other Open Data (transport, admissions to cinemas, administration locations, etc.) or retail websites (with for example the addresses of their points of sale).
+==========
+These data are by nature statistical data, with no Personal features.
+4.4 Client Data for Analytics
+In some cases, our clients rely on us to process their data (such as commercial activity of their points of sale) & hydrid them with our data, in the frame of our contractual relationship.
+==========
+These data are transmitted, in accordance with the GDPR regulation, and are processed by MYTRAFFIC within the limits of the execution of the contract, to produce statistical analysis, without any search for individuals, and for the only only benefit of the client.
+MYTRAFFIC commits to delete all these data as soon as the contractual relationship with the customer ends.
+5.
+==========
+END PURPOSE OF PERSONAL DATA PROCESSING
+We process your personal data, complying with the 2016/679 GDPR general rule (issued April 27, 2016), as detailed here after:
+5.1 Smartphone geolocation data
+MyTraffic exploits and processes raw smartphone geolocation data, in order to convert them into statistics & marketing study, proposed to real estate and retail players, such as large retail networks, real estate brokers, or public players, such as cities.
+MyTraffic commits to ensure that the raw data are collected with the user opt-in for the appropriate end-purpose (Marketing Study or Geo-based analytics).
+5.2 Prospects / Clients data, and data on MyTraffic.io website visitors
+MyTraffic processes the prospects and clients’ data to manage the commercial relationships with them (all being professionals) and ensures the proper operations of its solutions & services, as expected in General Terms & Conditions.
+Users data are therefore stored and processed to:
+- Manage access to the MyTraffic website
+- Send a newsletter to clients / prospects who asked for it
+- Handle commercial interactions with prospects & clients
+- Manage subscription, access & performance of MyTraffic SaaS solution
+- Ensure online payment (with our Stripe partner) to access certain products
+- Manage preferences & searches done by clients on our SaaS platform
+6 LEGAL GROUND FOR PERSONAL DATA PROCESSING
+6.1 Smartphone geolocation data
+MyTraffic acquires, from data partners, only smartphone geolocation data with the opt-in for the Analytics purpose.
+==========
+The opt-in of the user is stored in the Consent Management platform (CMP) of the data partner and/or of the app publisher operating the data collection.
+Each user may opt-out, following the indications detailed by the app publisher for the app used, then data collection will be stopped.
+6.2 Prospects / Clients data, and data on MyTraffic.io website visitors
+Passive Collection
+MyTraffic and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website.
+This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
+==========
+You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+On MyTraffic.io website
+MyTraffic uses the following cookies, to manage MyTraffic.io website visitors :
+Type of cookie - Supplier - Objectives 
+Analytics - Google Analytics - Statistics on site visits
+Analytics - Mouseflow - Navigation monitoring
+In order to enhance our services, the Mouseflow cookie registers your mouse navigation, and convert this info into heatmaps on our different product pages.
+These data are only used for statistic purpose and cannot be used to identify any individual.
+Any user may deactivate Mouseflow cookie via its web browser, with following link: https://mouseflow.com/opt-out/
+For other cookies, user is proposed when entering our website, to upload or refuse our cookie on his device.
+The user may, at any time, reset its web-browser to block cookie installation and / or erase those already stored.
+==========
+The MonLocalCommercial.fr website, published by MyTraffic, is subject to a specific data management policy, accessible via the link: https://www.monlocalcommercial.fr/rgpd/.
+On SaaS platform
+MyTraffic uses the following cookies, in order to ensure the best service level of its SaaS platform:
+Type of cookie - Supplier - Objectives
+Analytics - Google Analytics - Statistics on SaaS visits
+Analytics - Crisp - Chatbot solution
+Technical - Stripe - Online payment solution
+Analytics - Amplitude - SaaS users’ behaviour tracking
+Analytics - Hotjar - SaaS users’ behaviour tracking
+Crisp chatbot cookie is used to answer clients / SaaS platform users’ requests (implying their opt-in).
+Amplitude software analyzes the users’ behavior (pages visited, clicks, time spent) (MyTraffic customers) on the SaaS platform (anonymizing their data).
+The Hotjar software also analyzes the behavior (mouse movement) of the visitors (MyTraffic clients) on the SaaS platform (anonymising their data).
+==========
+On website and SaaS platform, in any case, cookies are erased after 13 months.
+We decline all responsibility in case of downgraded level of our services, in case you suppressed or blocked cookies.
+To get further information on cookies, you may visit the French-authority CNIL website:
+https://www.cnil.fr/fr/site-web-cookies-et-autres-traceurs
+7.
+==========
+PERSONAL DATA RECIPIENTS
+7.1 Smartphone geolocation data
+Smartphone geolocation data (defined as « raw data ») are fully restricted to a MyTraffic internal use.
+After processing, these data are converted into business insights & statistics, with no longer personal feature.
+These statistics are proposed to MyTraffic B2B clients, retail and real estate players, under a software format and/or through ad-hoc marketing study.
+==========
+7.2 Prospects / Clients data, and data on MyTraffic.io website visitors
+MyTraffic processes the whole dataset for its own business purpose and under a strict confidentiality.
+To handle this data processing, MyTraffic may have recourse to suppliers for data storage, security, maintenance or specific services supply.
+The User accepts that its data may be transmitted to those suppliers, for those specific cases.
+For the rest, data are not transmitted to any third-party.
+8.
+==========
+DATA STORAGE
+8.1 Smartphone geolocation data
+Raw smartphone geolocation data are stored on Amazon Web Services (AWS) servers, located in the European Union, in Germany.
+Data converted in statistics are also stored on Amazon Web Services servers, in Germany.
+==========
+8.2 Prospects / Clients data, and data on MyTraffic.io website visitors
+These data (contact details) are managed through Hubspot CRM, which stores its data on Google cloud servers, located in Francfurt (Germany – European Union).
+None of the data collected & processed by MyTraffic is transferred on servers located out of European Union.
+9.
+PERSONAL DATA RETENTION PERIOD
+9.1 Smartphone geolocation data
+Smartphone geolocated data (or “raw data”) are stored by MyTraffic within a maximum 105-day period.
+==========
+After 105 days, those data are deleted, with an irreversible approach.
+Data converted into statistics have no retention period limitation.
+9.2 Prospects / Clients data, and data on MyTraffic.io website visitors
+MyTraffic keeps those raw Data, only the period of time enough to manage processing.
+Those retention limits are defined with regards to the MyTraffic business end-purpose, complying with contractual & regulatory prescriptions.
+10.
+==========
+USERS’ RIGHTS ON THEIR PERSONAL DATA 
+In the limits set by GDPR regulation, and especially the 15 & 22 chapters of 20176/679 GDPR, Users may exercise their rights on their personal data.
+Any user may ask to access his data, to rectify or delete them, ask for limiting data processing, oppose data processing or ask for portability.
+==========
+These rights may be freely exercised through a request to our Data Protection Officer (DPO), attaching your ID document.
+For the smartphone geolocation data, within the 105 days after collection, User may exercise his rights directly towards app publisher and/or our data partners (list accessible with specific request to our DPO).
+In the case the User wants, specifically or in parallel, exercise his rights to MyTraffic, within the same period, User will communicate to MyTraffic his advertising identifier (IDFA for iOS, or GAID for Android), accessible following this process:
+- For iOS : upload an app to get your IDFA, using this link :
+https://itunes.apple.com/us/app/the-identifiers/id564618183?mt=8;
+- For Android: access to your GAID identifier in your smartphone parameters, clicking in the “Advertising” section.
+User may withdraw his opt-in at any time (while keeping valid personal data collected prior to the consent withdrawal).
+==========
+Any request, to be handled, will need an email.
+We will respond to your request within a reasonable timeframe.
+If you would like to discontinue receiving newsletters, you may update your email preferences by using the “Unsubscribe” link found in emails we send to you.
+11.
+==========
+SECURITY
+MyTraffic commits to ensure the highest level of security in management, processing and storage of personal data.
+We have set-up organisational & technical measures to manage risks and to protect personal data.
+We apply specific security rules to protect our systems, with 2-FA, encryption, access restriction, antivirus software.
+MyTraffic office is secured.
+The full staff is aware of security & protection rules for personal data (Charter, Internal Rules specific for Personal Data).
+12.
+==========
+CONTACT & CLAIM 
+In order to exercice your rights, as described here above, or for any question regarding Personal Data managed by MyTraffic, you may contact us at the following address: MyTraffic, 26, rue Henry Monnier 75009 Paris - France, or by email at : support@mytraffic.fr.
+In accordance with GDPR, MyTraffic has appointed, as DPO, Me Yaël COHEN-HADRIA (ERNST & YOUNG SOCIETE D'AVOCATS).
+For any question on Personal Data, any User may contact our DPO at : yael.cohen.hadria@ey-avocats.com.
+In case you have no answer to your request, you may claim your rights to the French Cnil at : https://www.cnil.fr/fr/agir
+For any matter regarding UK data, you may also contact our UK Data Protection Representative : Kurendeep RAI -  rkurendeep@mytraffic.co.uk.
+Or by mail at : Commission Nationale de l'Informatique et des Libertés, 3 Place de Fontenoy - TSA 80715, 75334 PARIS CEDEX 07 – France.
+13.
+==========
+CHANGES TO THIS PRIVACY POLICY
+We may update this Privacy Policy to reflect changes to our information practices.
+If we make any material changes, we will notify you by means of a notice on this website prior to the change becoming effective.
+We encourage you to periodically review this page for the latest information on our privacy practices.
+==========

@@ -1,0 +1,123 @@
+Cookies / Tracking
+Last Updated: 6 June 2016
+On NBCUniversal online services, we, along with our advertising partners and vendors, use a variety of technologies to learn more about how people use NBCUniversal online services.
+You can find out more about these technologies and how to control them in the information below.
+This policy forms part of the NBCUniversal Privacy Policy available here.
+==========
+COOKIES AND OTHER TRACKING TECHNOLOGIES AND HOW WE USE THEM
+USE OF COOKIES BY OUR ADVERTISING PARTNERS
+YOUR COOKIE CHOICES AND HOW TO OPT OUT
+EXAMPLES OF COOKIES USED ON NBCUNIVERSAL ONLINE SERVICES
+DEFINITIONS
+CONTACT US
+1.
+COOKIES AND OTHER TRACKING TECHNOLOGIES AND HOW WE USE THEM
+Like many companies, we use Cookies and other Tracking Technologies on our online services (referred to together from this point forward as “Cookies”, unless otherwise stated) including HTTP cookies, flash cookies, HTML5 and Flash local storage, web beacons/GIFs, embedded scripts, ETags/cache browsers.
+We may use Cookies for a variety of purposes and to enhance your online experience, for example, by remembering your log-in status and viewing preferences from a previous use of an online service, for when you later return to that online service.
+==========
+In particular, our online services use the following categories of Cookies:
+Strictly Necessary Cookies: We may use Cookies required for system administration, to prevent fraudulent activity, improve security or allow you to make use of shopping‑cart functionality.
+We are not required to obtain your consent to Cookies that are strictly necessary.
+Analytics and Performance-Related Cookies:  We may use Cookies to assess the performance of our online services, including as part of our analytic practices to improve the content offered through the online services.
+Functionality-Related Cookies:  We may use Cookies to tell us, for example, whether you have visited the online services before or if you are a new visitor and to help us identify the features in which you may have the greatest interest.
+==========
+Targeting-Related Cookies:  We may use Cookies to deliver content, including ads, relevant to your interests on our online service and third party sites based on how you interact with our advertisements or content.
+We have set out further information about the use of Cookies by our Ad Network partners below.
+Your use of our services indicates your consent to such use of Cookies.
+For further information about our use of Cookies and your opt-out choices, see “Your Rights”.
+See here for examples of each type of cookie used on NBCUniversal online services.
+2.
+USE OF COOKIES BY OUR ADVERTISING AND ANALYTICS PARTNERS AND OTHER THIRD PARTIES
+The advertising networks and / or content providers that deliver ads on our online services, our analytics partner and other third parties may use Cookies to uniquely distinguish your web browser and keep track of information relating to your interaction with online services including ads shown.
+Some of these companies may combine information they collect from our online services with other information they have independently collected relating to your browser’s activities across other online services.
+These companies collect and use this information under their own privacy policies.
+Examples of these companies, their privacy policies, and the opt-outs they offer can be found in the table below:
+3.
+==========
+YOUR COOKIE CHOICES AND HOW TO OPT  OUT
+You can choose whether to accept the use of Cookies and we have explained how we can exercise your rights, as follows:
+Most browsers are initially set up to accept HTTP cookies.
+The “help” feature of the menu bar on most browsers will tell you how to stop accepting new cookies, how to receive notification of new cookies, and how to disable existing cookies.
+For more information about HTTP cookies and how to disable them, or restrict the categories of cookies you wish to accept, you can consult the information at www.allaboutcookies.org/manage-cookies/.
+==========
+Controlling the HTML5 local storage on your browser depends on which browser you use.
+For more information regarding your specific browser please consult the browser’s website (often in the Help section).
+For more information about Flash “cookies” or local storage objects or LSOs, and how to disable them, you can consult the information provided at http://kb2.adobe.com/cps/526/52697ee8.html.
+See “Use of Cookies by our Advertising Partners” for further information about how to opt out of Advertising Cookies.
+Please note that rejecting Cookies does not mean that you will no longer see ads when you visit our online services.
+Please note, however, that without HTTP cookies and HTML5 and Flash local storage, you may not be able to take full advantage of all our online services features and some parts of the online services may not function properly.
+You may opt out of additional third party advertising networks by going to the Network Advertising Initiative’s Website at http://www.networkadvertising.org/managing/opt_out.asp and following the directions there.
+The effect of opting out of third party advertising networks is explained on each opt out page.
+Note that for some sites, the effect of opting out of third party advertising means that customized advertising will not be delivered to you.
+Information regarding your usage of the online services may still be collected for research, analytics or internal operations purposes.
+We are not responsible for the effectiveness of any such opt-out options.
+==========
+California Business & Professions Code Section 22575(b)(as amended effective January 1, 2014) provides that California residents are entitled to know how NBCUniversal responds to “Do Not Track” browser settings.
+NBCUniversal does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed.
+We continue to review new technologies and may adopt a standard once one is created.
+4.
+==========
+EXAMPLES OF COOKIES USED ON NBCUNIVERSAL ONLINE SERVICES
+The following table sets out some examples of the individual cookies we use and the purposes for which we use them:
+Cookie Category
+Company
+Cookie Name
+Purpose
+Content
+Expiry
+More info
+Strictly Necessary Cookies
+NBCUniversal
+has_js
+These cookies are required to operate our digital properties
+Stores site implementation  specific information
+Session cookie (expires when browser is closed)
+Drupal specific cookie
+Performance Cookies
+Omniture (Adobe)
+Adobe Omniture Analytics:s_vi [Unique ID]
+Cookies in this category enable NBCUniversal to measure the performance of our digital properties
+Unique visitor ID time/date stamp
+Updated every page view
+http://www.adobe.com/privacy/analytics.html
+Functionality Cookies
+NBCUniversal
+_dy_geo
+Capture user geo location information
+User geo location, ex "US.NA.US_CA.
+US_CA_Universal City
+30 days
+  Targeting Cookies
+DoubleClick
+Google DoubleClick: _gads
+Advertising cookies enable more precise ad delivery to our visitors
+Unique user identifier and other user specific ad serving data
+2 years
+http://www.google.com/intl/en/policies/
+5.
+DEFINITIONS
+Cookies
+A cookie is a small piece of data sent from a website as the user is browsing that website and stored in a user's web browser.
+Cookies are stored as small text files containing a string of characters.
+==========
+They communicate certain information to us or to third parties about how online services are used (e.g. which pages and advertisements have been viewed), about users’ preferences (e.g. what size font a user prefers) and for site functionality (e.g. remembering where a user paused watching video content).
+Regular cookies maycan generally be disabled or removed by tools that are available as part of most browsers, and in some but not all instances can be blocked in the future by selecting certain settings.
+Please be aware that if you disable or remove cookies or HTML5 cookies on your device, some parts of our online services may not function properly, and that when you revisit our online service your ability to limit cookies is subject to your browser settings and limitations.
+==========
+Web Beacons
+Web beacons or similar technologies may be used for a number of purposes, including to count visitors to the online service, to monitor how users navigate the online services, to count how many emails we sent that were actually opened, or to count how many particular articles or links were actually viewed.Clear gifs are tiny graphics with a unique identifier, similar in function to cookies.
+In contrast to HTTP cookies, which are stored on a user’s computer hard drive, clear GIFs are embedded invisibly on web pages and are about the size of the period at the end of this sentence.
+Embedded Script
+An embedded script is programming code that is designed to collect information about your interactions with the online service, such as the links you click on.
+The code is temporarily downloaded onto your device from our web server or a third party service provider, is active only while you are connected to the online service, and is deactivated or deleted thereafter.
+==========
+ETag, or entity tag
+A feature of the cache in browsers, an ETag is an opaque identifier assigned by a web server to a specific version of a resource found at a URL.
+If the resource content at that URL ever changes, a new and different ETag is assigned.
+Used in this manner, ETags are a form of device identifier.
+ETag tracking may generate unique tracking values even where the consumer blocks HTTP, Flash, and/or HTML5 cookies.
+6.
+CONTACT  US
+For any queries in relation to this Cookies and Tracking Technologies Policy please contact us at privacy@nbcuni.com or Chief Privacy Officer, NBCUniversal Legal Department, 30 Rockefeller Plaza, New York, NY 10112, US.
+For enquiries from outside of the US please contact us at privacy@nbcuni.com or Chief Privacy Officer, Central Saint Giles, St Giles High Street, London, WC2H 8NU, UK
+==========

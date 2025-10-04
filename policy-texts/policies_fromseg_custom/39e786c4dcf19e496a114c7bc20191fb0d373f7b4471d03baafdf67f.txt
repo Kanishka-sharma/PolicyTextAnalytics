@@ -1,0 +1,282 @@
+Cookie Policy
+During the course of any visit to a Guinness World Records web site (including challengers.guinnessworldrecords.com and guinnessworldrecords.com (“together the “Site”)), Guinness World Records Limited (“us” or “we” or “our”), and certain third parties will look to set cookies on your computer.
+Cookies are small pieces of information that are stored by your browser on your computer's hard drive.
+The cookies that we look to set on your computer do not contain any personally identifiable information, but they do enable us to provide features such as personalization and in certain cases, to provide targeted advertising to you based on previous sites you have visited.
+Most web browsers automatically accept cookies, but you can usually change your browser.
+For additional information on finding and controlling your cookies, please see the provisions at the end of this Cookie Policy entitled "HOW TO FIND AND CONTROL YOUR COOKIES."
+==========
+Cookies in themselves do not identify the individual user, just the computer used (although certain cookies will be associated with your personal information, where such information is used in the related account (for example your account on the Site or your Facebook, Google+ or Twitter account if applicable) where you choose to interact with the Site with that account.
+We also use what are known as web beacons.
+The Site therefore contains electronic images (called a "single-pixel gif" or "Web beacon") that allow us to count page views or to access cookies.
+In general, any electronic image viewed as part of a web site, including an ad banner, can act as a web beacon.
+Web beacons are typically very small, 1 by 1 pixel size, banner like files.
+The web beacons that we use do not collect, gather, monitor or share any personal information about visitors to the Site, they are just the technique we use to compile our anonymous, aggregated statistics about web site usage.
+The Web Beacon system we use to collect this information is called Google Analytics (www.google.com/analytics) provided by Google, Inc.
+==========
+Web beacons achieve a similar effect to cookies and references to cookies in this policy, are to both pure-form cookies and web beacons.
+OUR, AND THIRD PARTY, USAGE OF COOKIES
+Our and third party usage of cookies when you visit the Site falls into one of the below four categories.
+Below you will also find a table detailing the specific cookies used on the Site.
+1.
+==========
+Essential cookies
+We use some cookies on the Site which are essential to provide certain features of the Site to you.
+For example where you have an account with us, We will use a cookie to remember that you are an account holder and provide enhanced features to you.
+Where you disable such cookies, these enhanced features of the Site will not be available to you as you will be unable to login to your account.
+Provider
+Name of cookie
+Duration
+More information
+
+
+member.guinnessworldrecords.com
+aspxanonymous
+1 week
+
+
+
+
+aspxauth
+On closure of the browser
+
+
+
+challengers.guinnessworldrecords.com
+_challengers_session
+On closure of browser
+
+
+
+2.
+==========
+Performance Cookies
+We, via third party platforms, uses cookies on the Site to help gather data about how visitors use the Site.
+We also collect and accumulate other anonymous data that helps us understand and analyse the Internet experience of our visitors.
+For example, we accumulate visitor data relating to referring domains, the type of browsers used, operating system software, screen resolutions, color capabilities, plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement.
+We also record number of visits, paths taken and time spent on the Site.
+None of this information is personally identifiable and we only share this information in the aggregate, reflecting overall web site or Internet usage trends.
+==========
+Additionally, part of the Site available at the sub-domain challengers.guinnessworldrecords.com uses software provided by New Relic to monitor performance of the Site.
+As part of this New Relic sets a cookie to monitor usage of the site and collect similar data as above.
+Provider
+Name of cookie
+Duration
+More information
+
+
+Google Analytics
+_utma
+2 years
+http://www.google.com/policies/privacy/
+                        You can also opt-out of Google Analytics’ monitoringat https://tools.google.com/dlpage/gaoptout
+        
+
+
+_utmb
+30 minutes
+
+
+_utmc
+On closure
+
+
+_utmd
+1 minute
+
+
+_utmv
+1 second
+
+
+_utmz
+6 months
+
+
+New Relic (challengers.guinnessworldrecords.com)
+JSESSIONID
+5 minutes
+http://newrelic.com/privacy
+
+
+Twitter will also set Google Analytics cookies when you access the site as part of the display of our Twitter feed on the Site for the same purpose as outlined above.
+3.
+==========
+Functionality Cookies
+We use these type of cookies to remember your preferences on the Site.
+The primary example of such usage is to allow us to remember your details where you login to your account, so you don’t have to do this each time you visit the Site.
+The Site also uses various third party sites and software to display content to you.
+As part of this both third party sites look to set cookies.
+==========
+Disabling the relevant cookies will mean you are unable to access this extended functionality as expanded upon below.
+Where a third party uses a cookie as described below, you should note that the data collected about you is anonymous and no information is transferred that could be used to identify you.
+When you login with your Facebook account to make comments on the Site, Facebook sets various cookies.
+As part of this Facebook will be able to identify that you have visited the Site, and may subsequently use the information to display more relevant ads to you on its own site.
+Certain cookies are used to set user preferences and to protect users for example by monitoring suspicious login activity, or where the user is accessing the Site from a public computer.
+Google’s +1 feature allows users to ‘+1’ articles and stories on the Site.
+Google sets a cookie to allow them to monitor the sites where you have ‘+1ed’ content, including by displaying the particular article that you have +1ed on your Google+ account.
+==========
+With Twitter, information on our Twitter feed is drawn directly from Twitter’s servers, they look to place cookies on your computer.
+These serve various purposes including allowing Twitter to identify that you have visited this site.
+We also use YouTube to display certain videos on the Site.
+As part of this, YouTube sets various cookies to collect statistics on your viewing of YouTube videos on the Site and to remember your preferences.
+You should be aware that if you have personal information associated with any of the above-mentioned accounts, the cookies used by the third parties will be associated with your account and as a result, your personal information.
+Provider
+Name of cookie
+Duration
+More information
+
+
+Twitter
+Original_referrer
+On closure of browser
+https://twitter.com/privacy
+
+
+_twitter_sess
+On closure of browser
+
+
+Guest_id
+3 days
+
+
+K
+7 days
+
+
+Pid
+2 years
+
+
+Google
+plusone.google.com
+10 years
+http://www.google.com/policies/privacy/
+
+
+APISID
+10 years
+
+
+HSID
+10 years
+
+
+NID
+6 months
+
+
+SAPISID
+10 years
+
+
+SSID
+10 years
+
+
+Youtube
+PREF
+10 years
+http://www.google.com/policies/privacy/
+
+
+VISITOR_INFO1_LIVE
+6 months
+
+
+use_hitbox
+On closure of browser
+
+
+Facebook
+Act
+On closure of browser
+http://www.facebook.com/help/?page=176591669064814
+
+
+C_user
+On closure of browser
+
+
+Datr
+2 years
+
+
+Locale
+7 days
+
+
+Lu
+2 years
+
+
+X
+On closure of browser
+
+
+Xs
+On closure of browser
+
+
+Google Translate
+PREF
+2 years
+http://www.google.com/policies/privacy/
+
+
+4.
+==========
+Behaviourally Targeted Advertising Cookies
+We and advertisers we work with use cookies to display advertisements that may be of interest to you.
+For example, if you have looked at a particular product on a site visited prior to visiting the Site, the provider of the product  may think you are interested in the product and display an advertisement for the same product on the Site through a third party ad network.
+It is important to note that we do not disclose your identity to advertiser, and such advertisers will only have access to your personal information if you decide to supply it directly to them whether through the advertisement or otherwise.
+Our main advertising partner is the Rubicon Project however as part of our work with them, third party advertisers will also look to place cookies relating to advertising, on your computer.
+Any cookie that is not referred to in this policy but that which is attempted to be set through your use of the Sites, will relate to third party advertising and accordingly, should be rejected if you do not wish to be part of such activity.
+==========
+Provider
+Name of cookie
+Duration
+More information
+
+
+Rubicon Project
+Rdk
+1 minute
+http://www.rubiconproject.com/privacy/
+
+
+Rdk15
+10 seconds
+
+
+Rsid
+On closure of browser
+
+
+Ruid
+3 months (approximately)
+
+
+Ses15
+17 hours (approximately)
+
+
+Pux
+3 months (approximately)
+
+
+HOW TO FIND AND CONTROL YOUR COOKIES
+Your browser settings will enable you to see and control the cookies that are presently set on your computer.
+You may also delete all cookies and restrict the cookies that may be set on your computer in future.
+In particular, you may wish to restrict third party cookies from being set.
+Details of how to manage cookies for the most common browsers can be found below.
+- Internet Explorer: http://support.microsoft.com/kb/196955
+- Google Chrome: https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer;=95647&p;=cpn_cookies
+- Mozilla Firefox: http://support.mozilla.org/en-US/kb/Cookies
+- Safari: http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html
+- Opera: http://www.opera.com/browser/tutorials/security/cookies/
+
+MORE INFORMATION
+For more information about cookies, please visit allaboutcookies.org.
+If you wish to ask any questions regarding the above policy, please contact privacy@guinnessworldrecords.com.
+==========

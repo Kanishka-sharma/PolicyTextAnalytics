@@ -1,0 +1,595 @@
+Protecting your privacy and personal data is very important to us.
+We therefore only use your personal data within the scope of legal regulations, in particular the General Data Protection Regulation ("GDPR") and the German Federal Data Protection Act ("BDSG").
+With this privacy policy, we would like to inform you - regardless of whether you set up a DeepL Pro account, use our various apps or visit our website - about the nature, scope and purposes of the collection, use and processing of your personal data by DeepL GmbH.
+1.
+==========
+Data controller / Contact / Data Protection Officer
+The data controller responsible for data processing pursuant to the GDPR, BDSG, other data protection laws applicable in the member states of the European Union, and other regulations relating to data protection is:
+DeepL GmbH
+Maarweg 165
+50825 Cologne
+Germany
+If you have any questions or concerns about privacy, please contact privacy(at)deepl.com.
+For the conclusion of a data processing agreement pursuant to Art. 28 GDPR (see in detail section 4) and for general questions about our products, please contact sales(at)deepl.com.
+Further information on the processing of your data when contacting DeepL can be found in section 11.
+DeepL's external corporate Data Protection Officer, Dr. Christian Lenz, can be contacted at the following address: dhpg IT-Services GmbH, Bunsenstr.
+10a, 51647 Gummersbach, via email to datenschutz(at)dhpg.de, or by telephone on +49 2261 8195 0.
+2.
+==========
+Scope of Data Protection
+Data protection applies to personal data as defined by the GDPR, i.e. all information relating to an identified or identifiable natural person.
+An identifiable natural person is deemed to be a natural person who can be identified directly or indirectly, in particular by means of assignment to an identifier such as a name, an identification number, location data, an online identifier or to one or more specific attributes.
+3.
+==========
+Texts and Translations - DeepL Translator (free version)
+When using our translation service, please only enter texts that you wish to transfer to our servers.
+The transmission of these texts is necessary in order for us to provide the translation and offer you our service.
+We process your texts, the documents you upload and their translations for a limited period of time to train and improve our neural networks and translation algorithms.
+==========
+This also applies to corrections you make to our translation suggestions.
+The corrections are forwarded to our servers to check them for accuracy and, if necessary, to update the translated text according to your changes.
+==========
+If you use the glossary feature and enter certain pairs of terms there, this data is only stored locally and is not forwarded to our servers.
+Therefore, you cannot use your glossary entries in another browser or on another device.
+==========
+Please note that according to its Terms and Conditions, you may not use DeepL Translator for the translation of texts containing personal data of any kind.
+The translation of personal data is only possible as part of a DeepL Pro subscription (please see section 4).
+4.
+==========
+Texts and Translations - DeepL Pro
+When using our DeepL Pro subscription to translate texts, the texts or documents you submit will not be permanently stored and will only be kept temporarily to the extent necessary for the production and transmission of the translation.
+After complete performance of the contractually agreed services all submitted texts or documents and their translations will be deleted.
+==========
+When using DeepL Pro, your texts will not be used to improve the quality of our services.
+For further information on the processing of your data within the DeepL Pro subscription, please refer to section 5 of this privacy policy and our DeepL Pro Terms and Conditions.
+Please note that using DeepL Pro for the translation of texts containing personal data of any kind is only permitted if there is a justification for this under data protection law.
+Therefore, our T&C provide for the conclusion of a data processing agreement (see section 8.1.3 of DeepL Pro Terms and Conditions).
+To enter into such an agreement, please contact sales(at)deepl.com.
+5.
+==========
+Registration and Signing up for a DeepL Pro Subscription
+5.1.
+Registration and Login at DeepL
+In order to sign up for and subsequently use your DeepL Pro subscription, you will need to register and create an account at DeepL.
+To ensure that you can log in, the following personal data will be stored:
+E-mail address
+Password
+IP address
+We process this data as part of the contract initiation process based on Art. 6 para.
+==========
+1 sentence 1 lit.
+b) GDPR.
+Your IP address is processed in accordance with Art. 6 para.
+1 sentence 1 lit.
+f) GDPR, as it is in our legitimate interests to match your IP address with IP addresses that have misused our service in the past for fraud prevention purposes.
+==========
+If you do not take out a DeepL Pro subscription after registering, your data will be deleted after one month.
+If your company uses Single Sign-On (SSO) to log in to DeepL, there is no need for a separate registration with DeepL.
+When you log in via Single Sign-On your company transmits your email address as well as your first and last name directly to us.
+We also process this data on the basis of Art. 6 para.
+==========
+1 sentence 1 lit.
+b) GDPR.
+5.2.
+==========
+Signing up for DeepL Pro
+If you sign up for a DeepL Pro subscription after registering, the following personal data will also be collected and processed for the purposes of concluding and fulfilling the contract and preparing invoices:
+First name, surname, and where applicable, company name
+Address
+Payment details
+Tax numbers (where applicable)
+Selected subscription option
+Possibly other, additional data you provided during the registration process.
+In order to process payments, we forward the necessary payment data to our authorized payment service provider Stripe Payments Europe Ltd, Block 4, Harcourt Centre, Harcourt Road, Dublin 2, Ireland.
+==========
+Where necessary, Stripe will transfer the data to Stripe, Inc., located in the USA.
+Further information on data protection at Stripe and compliance with the requirements of Art. 44 GDPR can be found here and here.
+==========
+We have concluded a data processing agreement with Stripe, which allows Stripe to process the data solely in accordance with our instructions and not for its own purposes.
+In addition to the aforementioned data, we process further (usage-)data relevant for the provision and billing of our service, such as subscription ID, time of the subscription conclusion, billing period, successful payment processing, log-ins, number of translated characters and documents, upgrades and downgrades.
+The processing and storage of the aforementioned data is necessary for the conclusion of the contract as well as its performance and is therefore justified according to Art. 6 para.
+==========
+1 sentence 1 lit.
+b) GDPR.
+==========
+We store the data for the duration of the contract term and subsequently, if applicable, for the duration of statutory retention periods, insofar as these prescribe the retention for the respective types of data.
+We will delete your account if you wish to do so after cancelling your subscription.
+Otherwise, we will maintain your account so that it can be reactivated for you in the event of a renewed subscription without you having to register again.
+This is in accordance with our legitimate interests pursuant to Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR.
+==========
+In your account in the section “usage”, you can also view data about your usage behaviour e.g., - depending on your subscription - the number of characters translated in the past or the number of documents translated.
+If you have a consumption-based subscription, such as the DeepL API Pro, you can also view the monthly costs incurred.
+We justify this data processing based on our legitimate interests pursuant to Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR, as we seek to meet our customers' wish to visualise information on usage behaviour in a transparent manner and the graphical representation of the development of consumption over the contract period is considered to be also in the interest of our customers.
+5.3.
+==========
+Processing of the Submitted Texts and Translations
+We process the texts you submit to DeepL Pro and their translations only temporarily, insofar as this is necessary for the creation and transmission of the translation.
+The processing is therefore justified by Art. 6 para.
+==========
+1 sentence 1 lit.
+b) GDPR.
+==========
+Your texts and the translations will - within the framework of the contractual agreements and as stated in section 4 - not be stored permanently and will be deleted after the performance of the contractually owed service.
+If you use our glossary feature and store certain term pairs there, this data will be forwarded to our servers and stored for your account.
+If you want to use the glossary function as part of our service, the data processing that takes place in this context is necessary for the performance of our contract and is therefore also justified by Art. 6 para.
+==========
+1 sentence 1 lit.
+b) GDPR.
+6.
+==========
+Translation of documents
+6.1.
+Translation of .
+==========
+docx and .
+pptx Documents with DeepL Translator and DeepL Pro
+You can translate documents in .
+docx and .
+==========
+pptx format both with DeepL Pro as well as with DeepL Translator.
+When using document translation in DeepL Translator, section 3 of this privacy policy applies.
+If you translate documents of the file types mentioned above while you are logged in to your DeepL Pro account, the texts you submit will only be processed temporarily and will be deleted after the completion of the translation process, including the translations themselves (see also section 4 and 5.3 of this privacy policy).
+6.2.
+Translation of PDF documents with DeepL Translator and DeepL Pro
+DeepL offers the translation of PDF documents for both DeepL Translator and DeepL Pro; in this respect, section 6.1 applies accordingly.
+Please note the following specifics: The actual translation of your documents will continue to be provided exclusively by DeepL and processed on our infrastructure in the EEA.
+In order to be able to translate PDF documents, it is necessary for technical reasons to convert the content of the PDF files into formatted text.
+==========
+For this purpose, we use the API of Adobe Systems Software Ireland Limited, 4-6 Riverwalk, City West Business Campus, Dublin 24, Republic of Ireland ("Adobe API").
+The PDF documents are sent to the Adobe API, converted there, sent back to DeepL in the required format and translated by DeepL.
+The infrastructure of Adobe Inc., 345 Park Ave, San Jose, CA 95110, USA, is also used in the conversion process.
+To make the text translated by DeepL available to you again in PDF format, the Adobe API is used once more (this time in reverse order).
+Adobe stores the files received on its servers for a maximum period of 24 hours.
+==========
+We have concluded a data processing agreement with Adobe Systems Software Ireland Limited and therefore the transferred data may only be processed according to our instructions.
+To justify the data transfer to the USA, Adobe Systems Software Ireland Limited and Adobe Inc. have agreed on EU standard contractual clauses, Art. 46 para.
+==========
+2 lit.
+c) DSGVO.
+==========
+Further information on the handling of personal data at Adobe can be found here.
+If you upload documents containing personal data for PDF translation as a DeepL Pro customer in accordance with section 4 of this privacy policy, we will process this data in accordance with your express instructions.
+You give us this instruction by confirming before each translation of a PDF document that you want to translate it using the Adobe API.
+As a DeepL Pro customer, you have the option of permanently saving the instruction in the translation settings of your account.
+==========
+For team accounts, the translation of PDF documents is only possible after prior authorisation by the team administrator.
+When using the DeepL API Pro, we cannot ask you for your instruction before each translation of a PDF document for technical reasons.
+You therefore give us your instruction by allowing the use of this function in your account settings prior to translating PDF documents.
+==========
+You can adjust your instruction at any time in the translation settings in your account.
+In consequence, we will ask you again for your confirmation before each translation of a PDF document.
+Further explanations on how to manage your translation settings depending on the DeepL Pro subscription you have chosen can be found here.
+Free users who want to translate PDF documents with DeepL Translator will also find further information there.
+If you choose not to translate PDF documents, your texts will still be processed exclusively within the European Economic Area.
+6.3.
+Temporary Storage of Metadata when Translating Documents
+Regardless of whether you use our paid or free service when translating documents, particularly the following data is stored for each translation process:
+Status/progress of the translation process
+Document file type
+Selected language pair for translation
+Estimates of time needed for the translation
+References to the applied glossary (when using DeepL Pro)
+Content of the applied glossary (when using the free translator)
+Number of characters calculated
+Errors that occurred during the translation process
+This information is processed in accordance with Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR based on our legitimate interest in improving the functionality of our products, as this makes it easier to identify any sources of error related to the translation process.
+The data is stored in a database that can only be accessed by selected employees and is automatically deleted after 14 days.
+7.
+==========
+Automatic Collection of Data via Website Access
+Regardless of whether you use our paid or free service, your device automatically transmits certain data for technical reasons when you access our website www.deepl.com.
+The following data that you may send us will be stored:
+Date and time of access
+Browser type and version
+Operating system
+URL of the website previously visited
+Volume of data transmitted
+Requested domain
+Notification of successful data retrieval
+Search term when using a web browser
+Abbreviated/anonymized IP
+Full IP address
+Diagnostic information in the event of errors
+Processing is carried out in accordance with Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR based on our legitimate interest in improving the stability and functionality of our website.
+==========
+The data is stored for purely technical reasons.
+Website access data is used for error analysis, ensuring
+system security, logging access to DeepL Pro and to improve our translation service.
+==========
+Based on your IP address, we also use geolocation to determine the region from which you are visiting our website.
+We use this information to check whether we can offer you the DeepL Pro service in your region, which corresponds to our legitimate interests pursuant to Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR.
+The storage of the full IP address for the users of the DeepL free version for a maximum period of 14 days is also justified by our legitimate interest in achieving the listed purposes, Art. 6 para.
+1 sentence 1 lit.
+==========
+f) GDPR.
+The storage of IP addresses of users of the paid DeepL Pro subscription for the duration of the contract is justified by Art. 6 para.
+==========
+1 sentence 1 lit.
+b) GDPR.
+8.
+==========
+Cookies and Web Storage
+We use "cookies" and web storage objects to provide you with a variety of features and improve your user experience.
+Cookies and web storage objects are small text files that are temporarily stored on your computer via your browser.
+If you do not want us to use cookies or web storage objects, you can change your browser settings accordingly.
+Please note that if you completely disable the use of cookies or web storage objects, the functionality and scope of the website may be impaired.
+We specifically use cookies or web storage objects in the following categories:
+Necessary: These cookies or web storage objects are necessary for our website to work properly, for you to be able to navigate smoothly, and for you to be able to use the most important functions.
+==========
+This includes security features, features that allow easy access, and settings such as the display language of the website and the translation language.
+Statistical data about the use of our website is additionally collected.
+We use these cookies or web storage objects on account of our legitimate interest in the presentation of our products and our company as a whole.
+Processing is based on Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR.
+==========
+Performance: In order to continuously improve our website, we collect data for statistical and analytical purposes.
+We and our external service providers use these cookies or web storage objects with your explicit consent in accordance with Art. 6 para.
+==========
+1 sentence 1 lit.
+a) GDPR.
+==========
+Comfort: We use these cookies or web storage objects to make using our website more comfortable for you.
+For example, we remember which areas of the website you have already visited and help you to use the website in the best possible way.
+==========
+In accordance with Art. 6 para.
+1 sentence 1 lit.
+==========
+a) GDPR, we only use these cookies or web storage objects with your explicit consent.
+The following table lists the different types of cookies and web storage objects that may be used on our website.
+Cookies or web storage objects are stored until the specified expiration time or until you delete them in your browser or, if it is a session cookie, until the session has expired.
+You can withdraw your consent for the use of cookies or web storage objects in the categories “Performance” and “Comfort” in each of these categories directly in the table below.
+With the exception of the third-party cookies from our payment service provider Stripe (see explanatory notes, section 5.2), the customer support software from Zendesk (see explanatory notes, section 11.1) and the marketing software from HubSpot (see explanatory notes, section 12) the information generated by cookies and web storage objects is transmitted to servers within the EU and stored exclusively there.
+Data is not passed on to third parties.
+==========
+Overview of the cookies and web storage objects used by DeepL:
+Necessary
+Context ID Description Technology Expiry Owner
+Site localization IDil DescriptionStores the interface language selected by the user.
+TechnologyCookie Expiry1 month OwnerDeepL
+Site localization IDi18nextLng DescriptionStores the interface language selected by the user.
+TechnologyLocal Storage ExpiryPersistent Data OwnerDeepL
+Privacy Settings IDprivacySettings DescriptionStores the user's cookie-banner decision.
+You can change the settings here.
+==========
+TechnologyCookie Expiry12 months OwnerDeepL
+Translator IDLMTBID DescriptionUsed to guarantee the origin of a request to the translator and protect from malicious visitors.
+This ensures that the service is not compromised for the remaining visitors.
+TechnologyCookie Expiry6 months OwnerDeepL
+Translator IDLMT DescriptionStores settings made explicitly by the user.
+E.g. preferred translation language or entries in the glossary.
+==========
+TechnologyLocal Storage Expiry1 month OwnerDeepL
+Discovery and Onboarding IDclickOnWordHint, LMT_MessageBox, onboardingData, showAppOnboarding, AppOnboardingInfo DescriptionStores if the user has on-boarded with features to ensure that onboarding prompts are only displayed once.
+TechnologyLocal Storage Expiry1 to 6 months OwnerDeepL
+Checkout Process IDFurther details about Stripe 3rd party cookies can be found under https://stripe.com/cookies-policy/legal.
+==========
+DescriptionFraud detection and security for check-out and payments.
+This cookie is only set if you enter the checkout process or view your account payment information.
+TechnologyCookie (3rd party) ExpirySession to 2 years OwnerThird Party - Stripe
+Checkout Process IDuserCountry DescriptionStores the user's selected country during the checkout process.
+TechnologyLocal Storage / Cookie ExpirySession OwnerDeepL
+Checkout Process IDnewpro-checkout DescriptionStores the user's selected DeepL Pro plan during the checkout process.
+TechnologyLocal Storage Expiry7 days OwnerDeepL
+DeepL Pro-User Login/Session IDdl_session DescriptionStores users login token to keep the user logged in on the site.
+Permanently stored when "remember me" is selected during the login, or expires after 30 minutes of inactivity if not.
+==========
+TechnologyCookie Expiry100 years OwnerDeepL
+DeepL Pro-User Login/Session IDdl_logoutReason DescriptionWhen you get logged out accidentally, we will help you with an error message.
+We use this cookie to deliver this message to you so you can prevent this problem in the future.
+TechnologyCookie ExpirySession OwnerDeepL
+DeepL Pro-User Login/Session IDep DescriptionIp-Based Enterprise Account login token.
+Checked once per session and deleted afterwards.
+TechnologyLocal Storage ExpirySession OwnerDeepL
+DeepL Pro-User Login/Session IDuser DescriptionStores the display name of logged-in users to display their name.
+Deleted if the user logs out.
+==========
+TechnologyLocal Storage Expiry7 days OwnerDeepL
+Release process IDreleaseGroups DescriptionUsed for gradual, controlled releases to ensure stability, quality and performance of our service and infrastructure.
+TechnologyCookie Expiry1 month OwnerDeepL
+Session ID IDdapSid DescriptionSession ID and timestamp.
+Automatically deleted after 30 minutes of inactivity.
+==========
+TechnologyCookie ExpirySession OwnerDeepL
+App Usage Statistics - only for DeepL Apps IDappUsageStats DescriptionRemembers when the user last used the app.
+TechnologyLocal Storage ExpiryPersistent Data OwnerDeepL
+Sales Form Usage Statistics IDsalesContactStats DescriptionRemembers when the user submitted the form.
+TechnologyLocal Storage ExpiryPersistent Data OwnerDeepL
+Document translation IDLMT_doctranslate_client DescriptionUsed to bind an ongoing document translation process to a user and protect the document translation feature from excessive use by individual users.
+This ensures that the service is not impacted for the remaining users.
+==========
+TechnologyCookie Expiry1 month OwnerDeepL
+Security IDdapUid DescriptionUser identifier to ensure correct operation of our systems, including to identify malicious bots and measure performance.
+TechnologyCookie Expiry12 months OwnerDeepL
+Product Support/Zendesk IDzendesk DescriptionThird-party cookie used by our ZenDesk support tool.
+Necessary for the operation of the service (bot detection and session management).
+TechnologyCookie Expiry1 month OwnerThird Party - Zendesk
+Product Support/HubSpot IDhubspot DescriptionThird-party cookie used by our HubSpot sales tool.
+Used for session management and to prevent misuse.
+==========
+TechnologyCookie Expiry1 month OwnerThird Party - HubSpot
+Performance
+Context ID Description Technology Expiry Owner
+Visit Count IDdapVn DescriptionStores how many times the user has visited the site.
+TechnologyCookie Expiry12 months OwnerDeepL
+Comfort
+Context ID Description Technology Expiry Owner
+Translator IDuserRecommendations DescriptionUsed for feature discovery.
+TechnologyCookie Expiry7 days OwnerDeepL
+Translator IDuserRecommendationFlags DescriptionUsed to store additional translator settings of the user.
+==========
+TechnologyLocal Storage Expiry6 month OwnerDeepL
+Product information IDapiDocsVisited DescriptionStores whether API documentation has been visited to help users select the correct package at checkout.
+TechnologyLocal Storage ExpiryPersistent Data OwnerDeepL
+9.
+==========
+DeepL Apps
+In addition to the translation service on our website, we also offer apps for Windows and macOS operating systems, as well as a mobile app for iOS, through which you can also translate texts.
+You can use the Windows, macOS and iOS apps in both the free version and the paid Pro version.
+Section 3 of this privacy policy therefore also applies to the use of the apps in the free version, and sections 4 and 5 apply to the use of the Pro version.
+The Windows and macOS apps use the same interfaces for creating translations as the web-based service, therefore sections 6 and 7 of this privacy policy also apply to the use of the apps.
+When you download our apps from app stores, your hardware ID, the IP address of your device and, if applicable, a customer ID such as your Apple ID are collected.
+We have no influence on this data collection, therefore the data protection conditions of Apple and Windows apply, which you can access here and here respectively.
+When translating texts with our apps, for technical reasons - regardless of whether you use our paid or free service - your device will automatically transmit certain data.
+The following data which you can transmit to us, is stored:
+Date and time of access
+Version of the app
+Operating system
+Volume of data transmitted
+Notification of successful data retrieval
+Abbreviated/anonymized IP address
+Full IP address
+Diagnostic information in the event of errors
+Type of mobile device (only for macOS)
+Language in use
+Time zone difference from Greenwich Mean Time (GMT)
+Access status/HTTP status code
+The processing of this data is based on our legitimate interest in ensuring and improving the stability and functionality of our services, Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR.
+==========
+This data is stored solely for technical reasons.
+Data relating to access is used for error analysis, ensuring system security, logging access to DeepL Pro and to improve our translation service.
+The full IP address of users using the free version of DeepL is stored for a maximum period of 14 days, which is also justified by our legitimate interest in achieving the listed purposes, Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR.
+The full IP address of DeepL Pro users is stored for the duration of the contract on the basis of Art. 6 para.
+1 sentence 1 lit.
+b) GDPR.
+We use cookies and web storage objects in our apps for Windows and macOS.
+==========
+You can find more information on this in section 8.
+The use of cookies and web storage objects in our apps cannot be deactivated for technical reasons.
+If you do not (or no longer) agree to their use in the respective app, you can delete the app and alternatively use the web-based service where you can manage your settings in this regard.
+No cookies are used in the iOS app.
+However, a unique user ID (no cross-device ID) is used, which allows us to track, for example, the source and target language settings, how many characters are translated, whether the copy button is used, and if so, how it is used.
+The processing of this data is based on our legitimate interest (Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR) to better understand the needs of our users and to be able to adapt the app according to customer requirements.
+10.
+==========
+DeepL API Free
+In addition to the paid DeepL API Pro, we also offer a limited free version of our API (DeepL API Free).
+For further information, please see our DeepL Pro Terms and Conditions and section 3 (see above) on using the free version of DeepL.
+In order to use DeepL API Free, it is necessary to register with DeepL and create an account.
+==========
+For this purpose, your data will be processed in accordance with section 5.1, i.e., your email address, the password you chose, and your IP address will be stored.
+If you select the API Free option during the checkout process, further data, as specified in section 5.2, will be collected.
+Although no costs are incurred when using DeepL API Free - subject to a (possible) upgrade - your payment data is collected in order to prevent improper use of API Free.
+Solely for this purpose, payment information is also passed on, in accordance with section 5.2, to the payment service provider we have commissioned, Stripe Payments Europe Ltd.
+We process the data mentioned in sections 5.1 and 5.2 as part of the initiation or fulfillment of the free-of-charge usage contract concluded between you and us on the basis of Art. 6 para.
+==========
+1 sentence 1 lit.
+b) GDPR.
+If no order is placed following registration, we will store your data for one month and then delete it.
+11.
+==========
+Contacting our Sales or Support Team
+You have the possibility to contact us via various contact forms on our website.
+You can also contact us directly by email.
+11.1.
+==========
+Support and Sales Requests
+If you would like to send us a sales enquiry in order to receive further information about our products and subscription plans or to start contract negotiations, you are welcome to use our sales contact form.
+In addition to your email address, you are required to provide your name and telephone number; all other information is optional.
+==========
+For the provision of our contact form, we use the HubSpot service (see section 12), where your request is pre-filtered and then forwarded to the ticket system of the provider Zendesk Inc. ("Zendesk"), 1019 Market Street, San Francisco, CA 94103, USA.
+We use Zendesk to process your enquiry and your further communication with us, we also use the service to manage our customer database.
+This may also involve the transfer of your contract data to the USA.
+We have entered into a data processing agreement with Zendesk and Zendesk may therefore only process the data in accordance with our instructions and not for its own purposes.
+Further information on the handling of personal data at Zendesk and on compliance with the requirements of Art. 44 GDPR can be found here and here.
+==========
+We also use Salesforce' Customer Relationship Management (CRM) to manage our customer database, including existing and potential customers and customer contacts, and to organize sales and communication processes.
+Furthermore, Salesforce CRM enables us to analyse our customer-related processes.
+We have concluded a data processing agreement with Salesforce and Salesforce is therefore only allowed to process the data according to our instructions and not for its own purposes.
+The customer data is stored on servers in the EU.
+==========
+If you contact our support team with questions about your contract and its implementation via our contact form, it is necessary to provide a valid email address so that we know who the inquiry comes from and can respond to it.
+We also use the aforementioned ticket system Zendesk to respond to your enquiry.
+For both support and sales enquiries including any subsequent correspondence, Art. 6 para.
+==========
+1 sentence 1 lit.
+b) GDPR serves as the legal basis for the processing of your personal data, as the processing is necessary for the initiation of the contract or the conclusion and performance of our contract.
+Art. 6 para.
+1 sentence 1 lit.
+==========
+b) GDPR also provides justification for the processing of personal data that may be contained in documents sent to our Support team.
+We will store your data for the duration of our business relationship and subsequently for the duration of the legal retention periods where this is required.
+The processing of your personal data as part of our customer database and the analyses of our customer-related processes is based on Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR, as this is in our legitimate interest.
+==========
+If you have contacted our Support team via the contact form, it is possible that we will subsequently inquire by email about your satisfaction with our customer service.
+In this case, we will process your data on the basis of our legitimate interests in accordance with Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR in order to determine customer satisfaction and to continuously improve our service.
+11.2.
+==========
+Privacy Requests
+You also have the option of contacting privacy(at)deepl.com with questions or concerns about data protection at DeepL.
+We process your data in accordance with Art. 6 para.
+==========
+1 sentence 1 lit.
+a) GDPR on the basis of your voluntarily given consent.
+We also use the Zendesk ticket system to respond to privacy enquiries, so please also note the above explanations in this regard under section 11.1.
+12.
+==========
+DeepL Newsletter
+12.1.
+Product Emails
+If you have signed up for DeepL Pro or DeepL API Free, we will occasionally send you emails with news on our products, such as the launch of new languages and new features as well as on related products and services.
+This will also include information and tips on how to get the most out of DeepL Pro.
+We are entitled to use the email address you provided when signing up for a DeepL Pro/DeepL Free API subscription in this way under the legal conditions of §7 para.3 of the German Act against Unfair Competition (UWG).
+Given our existing contractual relationship, it is also in our legitimate interest to inform you as set out above (Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR).
+==========
+If you do not wish to receive such emails from us, you can object to the use of your email address for this purpose at any time by sending an email to support(at)deepl.com.
+Of course, each of our emails contain an unsubscribe link at the end.
+For sending the newsletter, we use a service provided by HubSpot, Inc. with headquarters at 25 First Street, 2nd Floor, Cambridge, MA 02141 USA ("HubSpot"), for more information see 12.3.
+12.2.
+==========
+Marketing Emails
+If you like to receive more detailed information about our company, products, services and promotions, you can sign up for our marketing newsletter.
+We may send you information about special offers, promotions and marketing campaigns and other news from DeepL from time to time.
+The processing of your data is based on your consent (Art. 6 para.
+==========
+1 sentence 1lit.
+a) GDPR).
+==========
+You can withdraw your consent at any time with effect for the future by sending an email to support(at)deepl.com.
+Of course, our emails each contain an unsubscribe link at the end.
+We use the HubSpot service to send the marketing newsletter, for more information please see 12.3.
+12.3.
+Email Service Provider HubSpot
+For sending the newsletters, we use a service provided by HubSpot, Inc. with headquarters at 25 First Street, 2nd Floor, Cambridge, MA 02141 USA.
+==========
+As part of this, your data may also be transferred to the USA.
+We have concluded a data processing agreement with HubSpot and therefore HubSpot may only process the data according to our instructions and not for its own purposes.
+You can find more information on HubSpot’s handling of personal data here and here.
+HubSpot also statistically records which emails you open and which links you click on in our emails (opening and click rates).
+This allows us to understand which content is of interest to our users, which corresponds to our legitimate interests pursuant to Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR.
+13.
+==========
+DeepL’s Social Media Pages
+DeepL operates several social media profiles (also called “pages”) on various social networks e.g., Facebook, Twitter, LinkedIn and Xing.
+There we regularly publish posts about our products, new product features as well as new job offers.
+==========
+If you interact with our pages or contact us via them and are a member of the respective social network, we may receive and process data that identify you.
+As operator of the pages, we also have the option of viewing anonymous statistics on the interaction of visitors with our pages (insight function).
+For this purpose, the operators of the social networks record your interactions with our pages using cookies and similar technologies.
+You can find more information on this kind of data processing by Facebook and LinkedIn here and here.
+The legal basis for the operation of our social media profiles and the insights function is our legitimate interest within the meaning of Art. 6 para.
+==========
+1 sentence 1 lit.
+f) GDPR in using the pages as an information channel for our company.
+==========
+With regard to the insights function, we have a legitimate interest in understanding the visits and interactions with our page in order to be able to respond to them and to further improve our presence.
+Insofar as your consent given to the social network justifies the data processing within the framework of the respective social platform, processing is carried out on the basis of this consent.
+Please note that we together with the operator of the respective social network are jointly responsible for the data processing operations triggered when you visit our page.
+However, the operators of the social networks may also process your data for their own purposes,
+which are not depicted in this privacy policy.
+==========
+It is also possible that data collected about you will be transferred to third countries, in particular the USA.
+We have no influence on this data processing and refer to the privacy policies of the respective social networks e.g., for Facebook here, for Twitter here, for LinkedIn here and for Xing here.
+==========
+In principle, you can assert your rights (see section 16 below) both against us and against the operator of the respective social platform.
+However, we would like to point out that despite the joint controllership, you can most effectively assert your rights with the operators of the social networks.
+If you need help, you can contact us.
+14.
+==========
+Job Applications
+We offer you the opportunity to apply for a position at DeepL via our career page and the integrated career portal, or by email.
+This digital recruitment process means that in order to complete the application procedure, your application data (usually name, contact information, cover letter, resume, as well as other supporting documents and credentials) is collected and processed electronically.
+The personal data you provide will be used exclusively for processing your job application.
+Your personal data will only be passed on or otherwise transferred to persons involved in the recruitment process.
+==========
+The legal basis for the processing of your applicant data is Art. 6 para.
+1 sentence 1 lit.
+b) GDPR in conjunction with Art. 88 para.
+1 GDPR in conjunction with § 26 para.
+1, 8 sentence 2 BDSG ("Bundesdatenschutzgesetz": German Federal Data Protection Act).
+==========
+If, following the recruitment process, an employment contract is concluded, we will store your personal data as part of your personnel file for the purpose of standard organizational and administrative procedures, in compliance with the more extensive legal obligations.
+In this case, the legal basis for the processing of your data is Art. 6 paragraph 1 sentence 1 lit.
+b) GDPR in conjunction with Art. 88 para.
+==========
+1 GDPR in conjunction with § 26 para.
+1 BDSG ("Bundesdatenschutzgesetz": German Federal Data Protection Act).
+==========
+In the event of a rejection on your part or ours, we will retain the data submitted to us for up to a maximum of six months following notification of the rejection.
+We will subsequently delete the data unless legal regulations require us to store the data for a longer period.
+If you expressly agree to a longer storage period of your data e.g., for your inclusion in our internal applicant pool, the data will be further processed based on your consent in accordance with Art. 6.
+para.
+==========
+1 sentence 1 lit.
+a) GDPR.
+==========
+Your data will then be stored in our pool of applicants for 1000 days.
+You can withdraw your consent at any time with effect for the future.
+==========
+In order to process your application data, it will be forwarded to the service provider Recruitee B.V., Keizersgracht 313, 1016 EE Amsterdam, The Netherlands, which operates the application system.
+Further information on data protection at Recruitee can be found here.
+We have concluded a data processing agreement with Recruitee, which means that Recruitee may only process the data in accordance with our instructions and not for its own purposes.
+15.
+==========
+Data Security
+Your connections to our website and our apps are protected with encryption techniques in line with the current state of the art.
+The level of protection also depends on which encryption your Internet browser and/or mobile device supports.
+You can tell whether an individual page of our website is transmitted in encrypted form by looking at the closed key or lock symbol in the status bar of your browser.
+==========
+We also use suitable technical and organizational security measures to protect your data against accidental or intentional manipulation, partial or complete loss, destruction or unauthorized access by third parties.
+Our security measures are continuously improved in line with technological developments.
+16.
+==========
+Your Rights
+The following rights are granted by European Union directives and regulations.
+If you wish to exercise any of the rights listed below, please contact us at the above address.
+==========
+Right to confirmation and right of access - We will gladly confirm whether we are processing any of your personal data, which data we are processing, and for what purpose we are processing it.
+Right to rectification - If any of the data we have stored is incorrect, we would certainly be happy to correct it.
+Right to erasure - Should you wish your personal data to be deleted, we will comply with your request as far as legally possible.
+Right to restriction of processing - Should you wish to restrict use, we will comply with your request as far as legally possible.
+Right to withdraw your consent - Should you wish to revoke any previously granted consent, we will comply with your request.
+==========
+Revocation does not affect the permissibility of the processing of your data up to now.
+In addition, you can object to the further processing of your data if we process your data based on our legitimate interest (Art. 6 para.
+==========
+1 sentence 1 lit.
+f), Art 21 GDPR).
+==========
+If we process your data for the purpose of direct advertising, you have a general right to object.
+If we do not process your data for advertising purposes, the objection must be based on your particular situation.
+You also have the right to lodge a complaint regarding the processing of your personal data with a supervisory authority, such as the data protection supervisory authority responsible for us: Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen, Kavalleriestraße 2 - 4, 40213 Düsseldorf, email: poststelle(at)ldi.nrw.de.
+17.
+==========
+Changes to the Privacy Policy
+We reserve the right to amend this privacy policy.
+The current version of the privacy policy can be accessed at any time on our website.
+Last update: September 2021
+==========

@@ -1,0 +1,53 @@
+Data privacy
+Meetrics provides products to analyze Internet usage for advertisers and publishers.
+The intention of Meetrics’ services is to improve web pages and online advertisements.
+The data collected is based on individual page visits and indicates if and for how long advertisements and content has become visible during a page visit.
+The data collected will not be sold to third parties without any exception.
+Meetrics makes use of javascripts or image requests to conduct the analysis of a particular page visit.
+For this purpose, the javascript or image request will be added to a web page.
+==========
+Meetrics’ services meet the strict privacy policies determined by European and German laws.
+Meetrics anonymizes the data collected to hinder insights which could reveal private information about the users visiting the web pages analyzed.
+Meetrics takes special care that no names, addresses, telephone numbers, or comparable private data are collected and stored.
+Meetrics does not store data which can be associated with individuals, without exception.
+==========
+Servers log ip addresses for technical reasons.
+The servers serving the Meetrics scripts log the ip addresses as well, but encrypt and anonymize them by using md5-hash algorithms.
+While every logged ip address is deleted immediately, the encoded ip address is used to detect page visits.
+By taking these measurements, Meetrics does not store data which can be associated with individuals.
+==========
+Please feel free to contact us with further questions at:
+datenschutz@meetrics.net
+Meetrics GmbH, Berlin, Germany
+Use of cookies
+The usage of cookies might affect the privacy of Internet users.
+For this reason, Meetrics reduces the application of cookies to a minimum depending on the product.
+Meetrics Ad Attention (Ad Visibility) – No Use of cookies
+The Meetrics Ad Attention product aims at measuring and improving the visibility of online advertisements and composes the main product of Meetrics.
+Meetrics Ad Attention makes no use of cookies, neither HTML Cookies nor Flash Cookies (LSO).
+News Attention – No use of cookies
+The Meetrics News Attention product aims to measure and improve the usage of online news portals.
+Meetrics News Attention makes no use of cookies by default.
+If publishers explicitly allow the use of third-party cookies and inform their users, the News Attention script might make use of cookies, strictly respecting European and German privacy laws, to provide additional features, i.e. to identify recurring visitors.
+==========
+See below on how to prevent the usage of cookies.
+Meetrics Ad & Panel Attention – read only usage of cookies
+The Meetrics Ad & Panel Attention product is able to conduct ad effectiveness tracking for market research studies using online panels.
+For this purpose, the Ad & Panel Attention script might read cookies (HTML and LSO).
+It does not write any cookies on publisher sites.
+The writing of cookies will be carried out on the site of the online panel provider.
+The company which maintains the online panels, confirm that the users of the panel are adequately informed about the purpose of the panel and the data collected and the compliance with privacy laws.
+Meetrics Ad & Contact Attention – restricted use of third party cookies
+The Meetrics Ad & Contact Attention product is able to conduct ad effectiveness tracking for market research studies.
+If publishers explicitly allow the use of third party cookies, the Ad & Contact Attention script might make use of them to count how often a user came in contact with a particular ad.
+==========
+See below on how to prevent the usage of cookies.
+For further information about cookies and the private policy please visit these web sites also: www.meine-cookies.org or www.iabeurope.eu
+Cookie opt-out
+Meetrics respects if users want to restrict the usage of cookies.
+Please follow the link “Cookie Opt out” below.
+Meetrics will stop placing cookies in the user’s browser (as far as cookies are used at all, eg for the Ad & Contact Attention and the News Attention products).
+Would you like to stop Meetrics placing cookies in your Browser?
+Please follow this link: Opt-out for Cookies
+If you would like to know more about how Meetrics handles cookies, please send an email to: datenschutz@meetrics.net
+==========

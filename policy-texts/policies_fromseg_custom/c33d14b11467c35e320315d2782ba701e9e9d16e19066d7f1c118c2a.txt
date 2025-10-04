@@ -1,0 +1,109 @@
+HTC cooking up fix for security flaw
+HTC Thunderbolt
+(Credit: Sarah Tew/CNET)
+HTC is promising to plug a security hole in its Android phones that gives certain mobile apps access to a user's personal information.
+Recently discovered by a trio of researchers, the vulnerability can expose e-mail addresses, network and GPS locations, phone numbers, SMS data, and system logs to apps that connect to the Internet.
+The flaw exists among HTC's portfolio of Android phones, including the Evo 3D, the Evo 4G, and the Thunderbolt, and has been traced to a logging tool that HTC recently installed during a software update.
+Related stories:
+• Thunderbolt, other HTC phones have big security hole, report claims
+• Security duo finds another pair of vulnerabilities in Android
+• Android hole could be used to disable antivirus apps
+In a statement released today, HTC acknowledged the security hole in its software but tried to assuage its users about the impact.
+"HTC takes claims related to the security of our products very seriously.
+==========
+In our ongoing investigation into this recent claim, we have concluded that while this HTC software itself does no harm to customers' data, there is a vulnerability that could potentially be exploited by a malicious third-party application," the company said in its statement.
+"A third party malware app exploiting this or any other vulnerability would potentially be acting in violation of civil and criminal laws.
+So far, we have not learned of any customers being affected in this way and would like to prevent it by making sure all customers are aware of this potential vulnerability."
+==========
+… Read full post & comments
+New Webroot kicks off with micro-installer
+When a security suite vendor tells you that they've "overhauled" their programs, often the changes are somewhere between a new coat of paint and an oil change.
+In rebranding its products under the name Webroot SecureAnywhere, Webroot has also rewritten its software from the ground up.
+Webroot SecureAnywhere Antivirus (download), Webroot SecureAnywhere Essentials (download) and Webroot SecureAnywhere Complete (download) come with the tiniest, fastest installers in the security suite scene, new cloud-based protection, and free mobile apps as part of an effort to protect users across multiple machines and devices.
+Android (download) and iOS (download) versions are available as well.
+==========
+The main interface for the new Webroot SecureAnywhere.
+(Credit: Webroot)
+It's hard to understate how impressive the new Webroot installer is.
+It's so miniscule that you measure its size in kilobytes, not megabytes.
+==========
+Weighing in at a feather-light 560KB, this stub installer winds up downloading and installing … Read full post & comments
+Avira 12's got new threads, install, and engines
+After several years of minor changes that were touted as big improvements, Avira today released a new version with some serious heft behind it that the publisher hopes will position the free antivirus for future growth.
+Avira Free Antivirus 12, available exclusively today from CNET Download.com, along with the paid upgrades Avira Antivirus Premium 12 and Avira Internet Security 12, bring a new interface, tighter security engines, and an impressively zippy installation process to the suites.
+Avira 12 renews commitment to security
+The new installation is much improved and is among the fastest out there.
+The company says that it developed the two-click installation as part of its "less is more" strategy, where it offers the same level of protection as before without the hassle.
+==========
+… Read full post & comments
+Facebook adds WebSense safe browsing to its defenses
+This is the warning that will pop up if WebSense determines that a Web link is unsafe on Facebook.
+(Credit: Websense)
+Facebook is adding a Websense Web link blacklist service to its arsenal of defenses designed to protect users from clicking on links that lead to sites hosting malware.
+The social-networking site will be using Websense ThreatSeeker Cloud service, which warns people when they click on a link on Facebook that could be malicious, the companies announced today.
+Facebook will start rolling out the service today.
+==========
+The partnership follows one that Facebook announced in May with the free Web of Trust safe surfing service.
+Facebook also has its own blacklist.
+The larger the pool of blacklists the better the chances users will be protected from malware, basically.
+When users click on a link, the online blacklist databases are checked to see if the link is flagged.
+If the link is … Read full post & comments
+Microsoft falsely labels Chrome as malware
+Google has released a new version of Chrome after Microsoft's antivirus software flagged the browser as malware and removed it from about 3,000 people's computers on Friday.
+Microsoft apologized for the problem and updated its virus definition file to correct the false-positive problem, according to a post from Ryan Naraine at ZDNet.
+But not before the damage was done.
+==========
+Even though the problem directly affected only a relatively tiny fraction of Chrome users, Google decided to spin up and distribute updated beta and stable versions of Chrome.
+"Earlier today, we learned that the Microsoft Security Essentials tool began falsely identifying Google Chrome as a piece of malware ("PWS:Win32/Zbot") and removing it from people's computers," said Mark Larson, Chrome engineering manager, in a blog post Friday.
+"We are releasing an update that will automatically repair Chrome for affected users over the course of the next … Read full post & comments
+Thunderbolt, other HTC phones have big security hole, report claims
+By: Edward Moyer October 2, 2011 5:53 PM PDT
+Post
+Print
+E-mail
+HTC Android smartphones including the Evo 3D, the Evo 4G, and the Thunderbolt contain a flaw that gives Internet-connected apps installed on the devices access to personal information such as text message data, location info, e-mail addresses, and phone numbers, according to a trio of security researchers.
+The HTC Thunderbolt
+(Credit: Sarah Tew/CNET)
+Researcher Artem Russakovskii says that he, Justin Case, and Trevor Eckhart have discovered a vulnerability involving logging tools that HTC recently installed on the devices during a software update.
+Such tools, Russakovskii writes, might normally be used for remote analysis of problems on a device, among other things.
+==========
+But the problem here is that, because of this purportedly misguided update, "any app on affected devices that requests a single android.permission.INTERNET (which is normal for any app that connects to the Web or shows ads)" can, Russakovskii says, get access to:
+"the list of user
+… Read full post & comments
+Hackers post data on JP Morgan Chase CEO
+James "Jamie" Dimon, chief executive of J.P. Morgan Chase, is the latest target of hackers' anti-Wall Street wrath.
+(Credit: J.P. Morgan Chase)
+Hackers have posted personal information about the chief executive of J.P. Morgan Chase in solidarity with the Occupy Wall Street protests.
+The document released on Pastebin by "CabinCr3w" includes information about CEO James Dimon's addresses, family, business connections, political contributions and legal information.
+A spokeswoman for J.P. Morgan Chase said the company is declining to comment.
+The same hackers posted personal data of Goldman Sachs CEO Lloyd Blankfein and of New York Police Deputy Inspector Anthony Bologna earlier this week after Bologna was seen in videos pepper-spraying peaceful demonstrators in the face last weekend.
+Bologna, who also is accused of unprovoked pepper-spraying of others in other incidents during the demonstrations, is under investigation for those actions.
+==========
+The protests, which began … Read full post & comments
+Browsers tackle the 'BEAST' Web security problem
+Browser makers are devising ways to protect people from a security protocol weakness that could let an attacker eavesdrop on or hijack protected Internet sessions.
+Potential solutions include a Mozilla option to disable Java in Firefox.
+The problem--considered theoretical until a demonstration by researchers Juliano Rizzo and Thai Duong at a security conference in Argentina last week--is a vulnerability in SSL (Secure Sockets Layer) and TLS (Transport Layer Security) 1.0, encryption protocols used to secure Web sites that are accessed using HTTPS (Secure Hypertext Transfer Protocol).
+The researchers created software called BEAST (Browser Exploit Against SSL/TLS) that can decrypt parts of an encrypted data stream and can be used in what is known as a "man-in-the-middle" (MITM) type of attack.
+==========
+BEAST uses JavaScript running in the browser and … Read full post & comments
+Sony's data loss didn't breach Privacy Act
+By: Suzanne Tindal September 29, 2011 10:48 AM PDT
+Post
+Print
+E-mail
+Sony Computer Entertainment (SCE) Australia wasn't on the wrong side of the law when it experienced a massive data breach due to a cyber attack earlier this year, according to Australian Privacy Commissioner Timothy Pilgrim.
+The commissioner had decided to investigate April's Sony PlayStation Network (PSN) breach, which saw hackers gain access to over 70 million customer records.
+SCE Australia told the Commissioner that each individual's name, address (city, state, postal code), country, email address, date of birth, online ID, PSN/Qriocity password and possibly credit card data could have been accessed during the attack.
+Principles set out in the Privacy Act require organizations to take reasonable steps to protect personal information and ensure that they only use or disclose personal information for the purpose that it was collected.
+Read more of "Sony's data loss didn't breach Privacy Act" at ZDNet Australia.
+==========
+What does your mobile carrier know about you?
+Just what personal information does your mobile carrier store about you, and for how long?
+A memo from the Department of Justice sheds some light on this question.
+Obtained from the Department of Justice by the ACLU through the Freedom of Information Act, the memo entitled "Retention Periods of Major Cellular Service Providers" reveals the data retention policies of six major U.S. mobile carriers.
+==========
+Dated August 2010, the memo says it's directed for "Law Enforcement Use Only," so it was written specifically for police and legal authorities in cases where they need to obtain cell phone records.
+As revealed in the memo, mobile carriers capture a variety of data about you, including call detail records (who you called and when), text message details (who you texted and when), text message content, bill copies, payment history, and even which cell towers you use.
+Another category, called Subscriber Information, presumably … Read full post & comments
+==========

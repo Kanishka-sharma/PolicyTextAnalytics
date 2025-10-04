@@ -1,0 +1,235 @@
+PLAIN ENGLISH PRIVACY POLICY
+Last Updated March 2nd, 2017
+Almost every privacy policy we’ve ever read is incomprehensible.
+Yes, you can read our legal team approved policy below this plain english version.
+If you want plain english, keep reading.
+==========
+We collect data about individual mobile devices.
+We use that data to keep apps free by helping ourselves and our customers make more money in mobile and to build better products.
+We never have individual visibility into what a specific device is doing at any time.
+Instead, we group data from all the devices we measure to create groups of similar audiences: the business traveler, the soccer parents, the frequent shopper, etc.
+How we collect data...
+Companies that work with us integrate our product into their apps either through our SDK (software development kit) or via our API (application program interface).
+==========
+Those are just fancy words that mean their apps can pass us information, and we can pass information back to their apps.
+Data we collect
+The device ID, or the unique identifier for your smartphone or tablet.
+We create our own anonymous and randomized device ID based off your device’s actual device ID.
+This allows us to have an anonymous identifier from which we can begin to build a persona for that device; like Business Traveler or Sports Enthusiast.
+==========
+Your Location.
+If you share location with an app using our SDK, we track the latitude and longitude coordinates of the phone when you open the app.
+This is called “Precise Location Data”.
+We can also track location if your device came into contact with any beacons, a type of Bluetooth Low Energy sensor.
+Over time, we may able to determine a home or work location for the device based upon usage patterns.
+If you’ve disabled or opted out of location sharing, we don’t collect or store your location.
+==========
+Other Data Collected
+The advertising ID that Apple and Google require for each unique device.
+They require that advertisers use these identifiers, instead of the device ID.
+Apple’s is called the IDFA.
+Google calls theirs the Advertising ID.
+The operating system on your phone.
+We, and our customers, want to know if you’re sporting a 2 year old model or the gigantic iPhone 6 Plus.
+That says something about you, and if your device can even support our product.
+==========
+Which version of the app you have running.
+If we’ve pushed out an app upgrade, the app version allows us to track how quickly it’s being adopted.
+Whether or not you’ve got location services enabled.
+If location is turned on for an app, we’ll gather your device’s location.
+If not, we won’t look at location.
+Whether or not you’ve got Bluetooth enabled.
+If this is turned on, your app can detect when it comes within proximity of a Bluetooth sensor, or beacon.
+Many retailers are installing these in their stores across the country.
+It allows us to verify that you’ve actually visited a location.
+==========
+The language setting of your phone, which in techno-speak is called “locale”.
+Advertisers want to know if you speak English, Spanish, French, etc so that you can get ads in your preferred language.
+The IP addresses to which your device connects.
+When your phone or tablet connects to WiFi, for example, it connects to a specific IP address.
+We collect these IP addresses as it can help determine other devices that connect to the same WiFi, such as your home laptop or desktop computer.
+The wifi router to which your device connects.
+When your phone connects to a wifi router, we receive back the names of that router, known as the SSID and BSSID.
+==========
+We store this data indefinitely as long as the device remains active.
+If you get rid of your smartphone or tablet, and it’s inactive for 180 days, we purge this device’s data.
+We do not collect any Personally Identifiable Information on persons under 13 years of age.
+Why we collect data
+This is our mission: create value in mobile.
+The more data we collect, the more we understand about an app’s overall audience.
+This data helps companies create more value in mobile, i.e. make more money, in two ways.
+==========
+First, companies pay higher advertising rates to reach more well-defined audiences.
+As a result, the Reveal Mobile powered ads you receive on your smart phone or tablet will be more relevant to you and a better match to the audience the advertiser is trying to reach.
+The only thing worse than ads is irrelevant ads.
+==========
+Second, companies build better products when they know who their audience is, what they prefer, and what they respond to.
+Better products result in happier customers, more product usage, and therefore more money.
+Why do companies need to make money with their mobile apps?
+==========
+Any company that shares their content freely on the internet must pay their teams to produce it, build the product, host the product, and deliver that content.
+These companies typically fund their mobile products through advertising.
+Your access to the app and its content is free, however you “pay” with your data.
+This how many internet businesses operate today, and is similar to getting discounts at the grocery store by using your loyalty cards, or getting points for using airline miles programs, and just about anything you get for “free”.
+==========
+More things we do with data...
+We add to it.
+We take data from other sources, like US Census data, and add that to the data we collect.
+This data doesn’t personally identify you or your device, but instead allows us to put like devices into similar groups such as age ranges, income ranges, gender, and education level.
+==========
+We share it with the customer that embedded our SDK in their app.
+App publishers embed our SDK in their app so that they can see and understand their mobile audience makeup.
+They can then create targeted audience segments to sell to advertisers.
+We provide our customers with a user interface to see their mobile audience data, and to create those segments.
+We may sell it.
+==========
+We may make our data available to other companies to use as well.
+These data companies may then add their own data on top of the data we’ve already provided.
+Do we ever sell the ability to look up a specific device and see all of the details about it?
+Absolutely not.
+Purchasing data occurs at a broader and anonymized audience level.
+==========
+Here’s how it typically plays out.
+An advertiser wants to reach a targeted audience, like male homeowners in their late 30’s, on any app they can.
+Just before the ad loads on an app, the technology delivering those ads checks to see if any of our data matches up with the type of audience the advertiser wants to reach.
+If it does, we deliver the ad, and charge for using our audience data.
+==========
+Opt-in
+Apps on Apple devices, like iPhones, and Android/Google devices, like Samsung Galaxy, ask for permission to collect data in different ways.
+Older Android phones running older Android operating systems require you to accept any permissions that the app asks for before you can install the app.
+If you downloaded the app, you’ve opted in.
+Newer Android phones allow you to opt-in or out of location sharing after downloading the app.
+Apple apps allow you to download the app, but then to opt-out of sharing location, Bluetooth settings, and certain advertising settings on your device’s Settings > General pages.
+==========
+If you opt-out of any of these after downloading an app using Reveal Mobile, we honor these settings and don’t collect those data points.
+Opt-out
+We believe in being open and transparent with everyone about the data we collect and why.
+Still, you’ve read this and decided it’s not for you.
+==========
+That’s okay, and we’re here to help.
+Our product respects the advertising settings on your phone to limit ad tracking.
+If you disable ad tracking on your phone or tablet, we no longer collect or store any data about your device.
+You can also email optout@revealmobile.com and we’ll remove your device(s) from our database within 7 business days or less.
+You’ll need to provide us with the IDFA (iPhones) or Advertiser ID (Android phones) in order for us to remove your device.
+We don’t collect any email addresses, names, or phone numbers, so we need this identifier to find your device in our database.
+If you want to see the data we have stored for your device and you’ve shared your IDFA / AdID, email info@revealmobile.com.
+We’ll then verify you are who you say you are, and then provide you with that data.
+Still have questions?
+Email us at info@revealmobile.com and we’ll respond.
+==========
+You can also reach us at 919-573-9701 or write to us at 3344 Hillsborough St, Suite 100, Raleigh, NC 27607.
+THE OFFICIAL LEGAL PRIVACY POLICY
+Last Updated March 2nd, 2017
+Reveal Mobile, Inc. (“Reveal Mobile,” “we” or “us”), the builder of the Reveal Mobile product, is committed to protecting your privacy.
+We know that you care about how information about you is used and shared, and we appreciate your trust that we will use that information carefully and sensibly in accordance with this Privacy Policy.
+Please read this Privacy Policy carefully so that you understand our privacy practices.
+==========
+This Privacy Policy governs the personally identifiable information (“Personal Information”) collected by Reveal Mobile through our websites at www.revealmobile.com (the “Website”) and the non-personally identifiable information (“Non Personal Information) or Personally Identifiable Information through mobile applications using the Reveal Mobile SDK (the “Mobile Product”).
+Except as specifically set forth below, the terms of this Privacy Policy apply to the Websites and our Mobile Products.
+By visiting our Websites, you agree to the terms of this Privacy Policy with respect to your use of our Websites and any Personal Information that you may provide to us through the Website.
+If you are using one of our Mobile Products, whether provided directly by Reveal Mobile or by one of our content partners (“Publishers”), your use of the Mobile Product will be governed by the terms of this Privacy Policy, which is available in the “About” section of the Mobile Product under Developer Privacy Policy.
+This Privacy Policy will govern our collection, sharing and use of your Personal Information and Non Personal Information.
+==========
+If you do not agree to the terms of this Privacy Policy, you should not install the Mobile Product and/or should deinstall the Mobile Product immediately.
+Your use of the Mobile Product shall constitute your acceptance of the terms of this Privacy Policy.
+Privacy of Children
+Protecting the privacy of children is especially important.
+==========
+For that reason, Reveal Mobile does not knowingly collect any Personal Information from anyone under the age of 13.
+In no other way do we knowingly collect or maintain personally identifiable information from persons under 13 years of age, and no part of our Website is directed to persons under 13.
+If Reveal Mobile learns that Personal Information of persons under 13 years of age has been collected through its Website or a Mobile Product, then Reveal Mobile will take the appropriate steps to delete this information.
+Information Collection and Use, by Reveal Mobile
+Website
+Information you Provide.
+You are not required to register or provide any Personal Information in order to browse our Website and learn more about our company, our products and our technology.
+However, if you request or download any white papers or other information or sign up for our newsletter, you will be required to provide certain limited Personal Information such as your name, email and telephone number.
+==========
+We will use such information to confirm and deliver your request to you.
+We do not share this Personal Information with any third party, other than our service providers if necessary to fulfill your request, or as otherwise described in this Privacy Policy.
+For example, if you sign-up for our newsletter, we may provide your Personal Information to our service provider that manages and delivers our newsletters.
+==========
+Browser-Level Information: When you browse our Website or use any of our Mobile Products, our web server automatically collects limited information about your computer configuration or device or, such as the type of browser software you use and the operating system you’re running and your IP address.
+Reveal Mobile does log non-personally-identifiable information including IP address, profile information, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, from users and visitors to the Website and the type of mobile device you use, the IP address of your mobile device, your mobile operating system, and the type of mobile browsers you use.
+This data is used to manage our Website, including diagnosing problems with our Website, track usage and improve the Website.
+User IP addresses are recorded for security and monitoring purposes.
+==========
+Cookies: We also use “cookies” to track which pages of our Website you visit.
+We use the services of an independent company to help us measure the effectiveness of how visitors use our Website.
+To do this, we use Web beacons and cookies provided by our marketing company.
+The type of information we collect include pages visited, videos viewed, etc.
+This information helps us learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see.
+==========
+Because cookies are stored on your computer or device, not on our site, you can set your browser to decline cookies and can delete them from your computer or device.
+Mobile Products
+The Reveal Mobile Product provides an SDK which collects data about mobile devices.
+This Privacy Policy does not govern the use by a Publisher of any Personal Information you may provide to the Publisher through our Mobile Product or otherwise.
+Before sharing Personal Information with any Publisher, you should review the privacy policy of the Publisher.
+Automatically Collected Information; Other Non-Personally Identifiable Information.
+==========
+When you use any of our Mobile Products, our web server automatically collects limited information about your computer configuration or device, such as the type of browser software you use and the operating system you’re running and your IP address.
+Reveal Mobile does log non-personally-identifiable information including IP address, SSID/BSSID, profile information, browser type, browser language, platform type, domain names, the type of mobile device you use, the IP address of your mobile device, your mobile operating system, and the type of mobile browsers you use.
+This data is used to manage the Mobile Product, including diagnosing problems with the Mobile Product, track usage and improve the Mobile Product.
+Aggregate Information Used to Serve and Target Ads: We may aggregate the information we collect from users of our Mobile Products and provide this to third parties to target ads on the Mobile Product.
+(For example, we may use this information to tell advertisers the general demographic information of the audience.)
+When we aggregate your information, no specific personal information is included, and you cannot be identified from this aggregate information.
+==========
+Location Data –  By opting in to share your location data, the Mobile Product also allows us to collect information regarding your location, or the location of your device, by using GPS coordinates provided by your mobile device, or if you come within proximity of a Bluetooth Low Energy (BLE) device such as a beacon (“Location Data”).
+When any of our Mobile Products is open on your mobile device, we periodically receive Location Data.
+Most GPS-enabled mobile devices can identify a user’s location to within less than 50 feet.
+For some devices that share location, we are able to infer a home or work location based upon frequent usage patterns.
+==========
+You can opt-out of our collection of such Location Data by turning off the GPS capability of your mobile device and rejecting our request to collect such data upon installation of the Mobile Product.
+If following installation of the Mobile Product, you wish to opt out of the collection of Location Data, you can change the preferences on your mobile device (by turning off the GPS capability for the Mobile Product) or by deinstalling the Mobile Product.
+If you choose not to permit the Mobile Product to collect such Location Data, certain of the Mobile Product’s services may not be available to you, such as weather information for your area, and the advertisements displayed within the Mobile Product may be of less relevance and interest to you.
+Reveal Mobile stores Location Data, and Location Data is passed through to the service providers and partners, including ad networks, ad serving companies and third party information providers, as described below.
+Opt-Out of Information Collection.
+You can stop all collection of information by the Mobile Product easily by uninstalling the Mobile Product or by emailing optout@revealmobile.com.
+You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+==========
+Disclosure and Sharing of Information
+Information about our customers is an important part of our business.
+We do not rent, sell, or share your Personal Information or Location Data other than as described in the Privacy Policy, including as follows:
+We may disclose your Personal Information to our service providers who work on behalf of Reveal Mobile, including to provide our Website or the Mobile Product or fulfill user requests.
+However, these companies are not allowed to share this information or to use it for their own purposes.
+We may disclose your Location Data to third parties for the purposes of providing targeted advertisements and information our advertising partners believe may be of relevance and interest to you; these third parties include but are not limited to data aggregators, ad networks and ad serving companies, such as Google, UberMedia, Qualia and others.
+==========
+Advertising helps us provide the Mobile Product and helps our Publishers provide free services and content.
+You can opt-out of our collection of such Location Data by turning off the GPS capability of your mobile device and rejecting our request to collect such data upon installation of the Mobile Product.
+We may disclose your Personal Information and Location Data to third parties to provide you with targeted information as requested by you.
+For example, we will provide your Location Data to a third party partner so that they can provide you with location specific advertising.
+We may disclose non-personally identifiable information, including your IP address and as part of an aggregate data set to third parties for the purposes of providing targeted advertisements and information our advertising partners believe may be of relevance and interest to you.
+We may disclose your Personal Information to comply with legal requirements or to respond to a subpoena, search warrant or other legal process or government request received by Reveal Mobile, whether or not a response is required by applicable law.
+We may disclose your personal information to enforce our rights in our Website and Mobile Products or to protect the rights, property or safety of members of the Reveal Mobile community, our Publishers, other visitors to our Mobile Products, the public, or Reveal Mobile and its employees.
+==========
+As our business grows, we may buy or sell various assets.
+In the event that Reveal Mobile or some or all of our assets are acquired by another company, information about our users may be among the transferred assets.
+In the event that Reveal Mobile goes through a bankruptcy, reorganization, receivership or similar event, you understand and agree that we may not be able to control how your Personal Information or Location Data collected by us is treated, transferred or used.
+Please keep in mind that whenever you voluntarily make your Personal Information available for viewing by third parties on any part of our Website or an Mobile Product, that information can be seen, collected and used by anyone who visits the site.
+==========
+We cannot control and therefore cannot be responsible for any unauthorized third-party use of such information.
+Please respect the privacy of others by not posting their personal information on our site without their permission.
+Data Retention If you provide Personal Information to us through our Website, such as signing-up for our newsletter, you may request that we delete such Personal Information from our system, by sending a request to optout@revealmobile.com, or by choosing the limit ad tracking setting on your device’s privacy settings page.
+We will promptly cease use of any such Personal Information and will remove such Personal Information from our servers in accordance with our standard practices, but within at least two weeks.
+==========
+Certain non-personally identifiable information relating to your use of the Website or Mobile Products, such as device IDs, may be retained indefinitely, but we do not use or share such information once you have deinstalled the Mobile Product.
+Social Media Sites, Links To Other Sites
+We may have pages, accounts or presence on various social networking and media sites or services, such as Facebook and Twitter.
+Any information you post or provide through such social media sites and services will be subject to the policies of the applicable site or service.
+The Website and Mobile Products may include advertisements and links to third-parties web sites or service whose privacy policies we do not control.
+When you access another app or site, use of any information you provide on such site or app, and any information collected by the site operator, is governed by the privacy policy of the operator of the app or site you’ re visiting.
+If you click through to any of the advertisers on a Mobile Product, the advertiser may also track your device.
+==========
+We do not have access to or control any information they may contain.
+Tracking
+We do not track or collect Personal Information about your online activities once you leave our Website or Mobile Product.
+Security
+Reveal Mobile has taken steps to protect the confidentiality of the Personal Information it collects from users of its Website and Mobile Products.
+Information we gather on Reveal Mobile is stored within Reveal Mobile controlled databases (or databases hosted on our behalf) on servers maintained in protected environments, and we limit access to such information to Reveal Mobile employees who we believe need to see that information to provide you with services or otherwise do their jobs.
+However, no physical or electronic security system is impenetrable, and we cannot guarantee the security of our servers or databases, nor can we guarantee that the information that you supply to us won’t be intercepted during transmission over the Internet.
+Changes to Our Privacy Policy
+Because the web and Mobile Products are evolving mediums, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on our Website and/or within the applicable Mobile Product and update the Effective Date of the policy to reflect the date of the changes.
+By continuing to use the Website or Mobile Product after we post any such changes, you accept the Privacy Policy as modified.
+Contacting Us with Questions
+For more information, or if you have questions about this Privacy Policy, please contact us at info@revealmobile.com.
+You can download or print a copy of this Privacy Policy at http://revealmobile.com/privacy/, or contact us at info@revealmobile.com to request a copy, or write to 3344 Hillsborough St, Suite 100, Raleigh, NC 27607
+==========

@@ -1,0 +1,382 @@
+In this Policy you will find information on what cookies are, what cookies may be set when you visit www.amadeus.com and how to manage them.
+What is Cookie
+A cookie is a small file placed on your device (e.g computer or mobile phone) when you visit a website.
+Cookies are used to make your use of the website easier as well as provide business and marketing information to the website operator.
+The term cookies includes similar technologies for collecting and storing information, such as Local Shared Objects (commonly referred to as "flash cookies") and web beacons or web bugs (including transparent or clear gifs).
+==========
+Types of Cookies
+There is a distinction between session cookies and persistent cookies and between first party and third party cookies.
+Session cookies allow actions to be tracked during a single browser session.
+They are deleted from your device when you close the browser.
+==========
+Persistent cookies remain on your device between sessions and allow a website to “recognise” a user on their return and to remember their preferences, they will remain stored on your device until deleted or they reach a specified expiry date.
+Session and persistent cookies can be either first or third-party cookies - a first-party cookie is set by the website being visited.
+A third-party cookie is issued by a party other than website being visited.
+Opting out of cookies
+We use cookies to ensure that we give you the best experience on our website and to allow us to improve our site.
+By continuing to browse the site without making any changes to your browser settings to restrict or delete cookies you are consenting to our use of cookies in this way.
+Browsers can be set to allow you to reject all cookies, or to accept cookies from websites only for the duration of your visit.
+Some browsers will allow you to reject just third party cookies.
+If you want to know how to do this please look at the help menu on your browser.
+==========
+Please be aware that if you choose to delete or restrict cookies some features of this website may not work.
+For general information about cookies and how to disable them, please visit http://www.allaboutcookies.org/
+  How we use cookies
+We use session and persistent cookies for the following purposes:
+Strictly necessary cookies - These are essential cookies that are required for the operation of the website and to allow you to use its features.
+They include, for example, cookies that enable you to log into secure areas of our website and carry out specific tasks.
+Analytical/performance cookies – These cookies collect anonymous information about how visitors use our website.
+This aggregated information is used help us to improve the way our website works.
+Functionality cookies - These cookies are used to recognise you when you return to our website, record information about choices you have made and allow us to tailor the website to your needs.
+This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of location preference).
+==========
+Targeting cookies - These cookies record your visit to our website, the pages you have visited and the links you have followed and information from IP addresses.
+These cookies will be used to make our website and the advertising displayed on it more relevant to you and your interests.
+We may use third party service providers to perform these services for us and when this is the case the cookies may be set by third party (third party cookies) with our permission.
+The third party service providers may share information with other parties.
+These cookies are not controlled by Amadeus.
+The third party cookies are identified in the detailed list below.
+==========
+Embedded content
+Sometimes we embed images, videos or other content from third party websites.
+As a result when you visit the page featuring this content you may be presented with cookies from these websites.
+We do not control these cookies and cannot prevent these sites or domains from collecting information on your use of this content.
+You should check the relevant party’s website for more information.
+Social networking and sharing tools
+On some pages we may feature embedded share buttons or widgets that allow you to share content with friends through a number of social networking sites.
+==========
+These social networking sites may set cookies that can identify you as an individual when you are also logged into their services.
+We do not control these cookies and you should check with the relevant website to see how your information is used.
+Detailed table setting out cookies used
+The table below details the most frequently used cookies on www.amadeus.com and explains their use.
+We will keep our cookies lists as up to date as possible.
+==========
+COOKIE NAME FIRST / THIRD PARTY FUNCTIONALITY DESCRIPTION
+cookies_acepted
+1st
+Functionality Cookies
+When the user accepts our cookies, we set up this one not to ask him/her again
+BIGipServer~Corporate~WCM
+1st
+Strictly Necessary Cookies
+The load balancer uses this cookie to maintain a user in the same machine during a session
+JSESSIONID
+1st
+Strictly Necessary Cookies
+This cookie is used to identify you as a user between pages during a session.
+SS_X_JSESSIONID
+1st
+Strictly Necessary Cookies
+This cookie is used to identify you as a user between pages during a session.
+ALIAS
+1st
+Strictly Necessary Cookies
+This cookie is used to identify you as a user between pages during a session.
+==========
+__utmv
+3rd
+Analytical/Performance Cookies used to store visitor-level custom variable data.
+Google Analytics (*)
+__utma
+3rd
+Analytical/Performance Cookies used to distinguish users and sessions.
+Google Analytics
+__utmb
+3rd
+Analytical/Performance Cookies used to determine new sessions/visits.
+Expires in 30 min.
+==========
+Google Analytics
+__utmc
+3rd
+Analytical/Performance Cookies
+Google Analytics
+__utmz
+3rd
+Analytical/Performance Cookies used to store the traffic source or campaign.
+Google Analytics
+_gat
+1st
+Analytical/Performance Cookie
+used to throttle the request rate.
+Expires in 10 min.
+Google Analytics
+_ga
+1st
+Analytical/Performance Cookies used to distinguish users.
+Expires in 2 years.
+==========
+Google Analytics
+s_cc
+1st
+Analytical/Performance Cookie.
+Determines whether cookies are enabled in the browser
+Adobe Marketing Cloud (**)
+s_sq
+1st
+Analytical/Performance Cookie.
+Stores information about the previous link clicked.
+Adobe Marketing Cloud
+s_fid
+1st
+Analytical/Performance Cookie.
+==========
+A 'fallback' visitor identifier.
+It contains a randomly generated, unique id.
+Adobe Marketing Cloud
+s_nr
+1st
+Analytical/Performance Cookie.
+==========
+Stores date of visit and if visitor is new or returning.
+Adobe Marketing Cloud
+utag_main
+1st
+Analytical/Performance Cookie used by Tealium (Tag Management System) in order to serve analytics cookies.
+Adobe Marketing Cloud
+is
+3rd
+Analytical/Performance Cookies
+Idio Analytics & Personalization Service - This session cookie, in conjunction with the iv cookie, enables identifying anonymously - no IP is collected - a visitor’s session.
+iv
+3rd
+Analytical/Performance Cookies
+Idio Analytics & Personalization Service - This persistent cookie anonymously - no IP is collected - identify a blog visitor for purpose of enabling Amadeus to track visitor’s actions across the the blog.
+eBusinessCookie1
+1st
+Used by KANA for external authentication/authorization
+Used only in eSupport Centre
+lsp-login-profileid8701
+1st
+Used for saving login information
+(last 4 digits change in each release)
+Used only in eSupport Centre
+lsp-login-logintype8701
+1st
+Used for saving login information
+(last 4 digits change in each release)
+Used only in eSupport Centre
+lsp-login-officeid8701
+1st
+Used for saving login information
+(last 4 digits change in each release)
+Used only in eSupport Centre
+lsp-login-agentsign8701
+1st
+Used for saving login information
+(last 4 digits change in each release)
+Used only in eSupport Centre
+lsp-login-username8701
+1st
+Used for saving login information
+(last 4 digits change in each release)
+Used only in eSupport Centre
+lsp-login-userid8701
+1st
+Used for saving login information
+(last 4 digits change in each release)
+Used only in eSupport Centre
+lsp-login-organisation8701
+1st
+Used for saving login information
+(last 4 digits change in each release)
+Used only in eSupport Centre
+isLoginFromSSO8701
+1st
+Used for saving login information
+(last 4 digits change in each release)
+Used only in eSupport Centre
+esc-google-trans
+3rd
+Used for the Google Translate
+plug-in
+Used only in eSupport Centre
+googtrans
+3rd
+Used by the Google Translate
+plug-in
+Used only in eSupport Centre
+LBROUTEID
+1st
+Used by Load Balancer, stores the nodes the user is connected to
+Used only in eSupport Centre
+com.silverpop.iMAWebCookie
+1st
+Analytical/Performance Cookie used by Silverpop to assign a Unique Identifier to the visitor.
+==========
+Used to pass individual identity to Engage along with specific actions.
+Silverpop Engage
+com.silverpop.iMA.page_visit
+1st
+One “per session” cookie created for each page visited in the session.
+Used to distinguish the first visit to a webpage by an individual from subsequent visits.
+Silverpop Engage
+com.silverpop.iMA.session
+1st
+The Unique Identifier for the current browsing session.
+Used to associate a series of individual events to a single functional browsing session.
+Silverpop Engage
+cookie_notice_acepted
+1st
+Set when the user accepts the cookies in order not to ask them again.
+==========
+Functionality Cookies
+_icl_current_language
+1st
+Remembers user language preference
+Functionality Cookies
+inbound_referral_site
+1st
+Remembers visitor journey for analytical tracking
+Analytical/Performance Cookies used to store visitor-level custom variable data.
+wp_lead_uid
+1st
+Remembers visitor journey for analytical tracking
+Analytical/Performance Cookies used to store visitor-level custom variable data.
+lead_session
+1st
+Remembers visitor journey for analytical tracking
+Analytical/Performance Cookies used to store visitor-level custom variable data.
+==========
+AWSELB
+3rd (app.hubspot.com)
+AWS Elastic Load Balancer
+Performance Cookies.
+Amazon
+_gauges_unique_hour
+3rd (hubspot.com)
+Gauges Analytics
+Performance Cookies.
+_gauges_unique_day
+3rd (hubspot.com)
+Gauges Analytics
+Performance Cookies.
+_gauges_unique_month
+3rd (hubspot.com)
+Gauges Analytics
+Performance Cookies.
+_gauges_unique_year
+3rd (hubspot.com)
+Gauges Analytics
+Performance Cookies.
+_gauges_unique
+3rd (hubspot.com)
+Gauges Analytics
+Performance Cookies.
+apex__product
+3rd (hubspot.com)
+Salesforce Analytics
+Strictly Necessary.
+__hstc
+3rd (hubspot.com)
+Hubspot Analytics.
+The main cookie for tracking visitors.
+==========
+It contains: the domain, utk (see below), initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session) (Expires: 2 years)
+Targeting.
+__hssrc
+3rd (hubspot.com)
+Hubspot Analytics.
+Whenever HubSpot changes the session cookie, this cookie is also set.
+==========
+We set it simply to the value "1", and use it to determine if the user has restarted their browser.
+If this cookie does not exist when we manage cookies, we assume it is a new session.
+(Expires: None.
+Session cookie)
+Targeting.
+__hssc
+3rd (hubspot.com)
+Hubspot Analytics.
+Cookie for keeping track of sessions.
+This is used to determine if we should increment the session number and timestamps in the __hstc cookie.
+It contains: the domain, viewCount (increments each pageView in a session), session start timestamp.
+(Expires: 30 min)
+Targeting.
+hsfirstvisit
+3rd (hubspot.com)
+Hubspot Analytics.
+This cookie used to keep track of a user's first visit.
+(Expires: 10 years)
+Targeting.
+hsPagesViewedThisSession
+3rd (hubspot.com)
+Hubspot Analytics.
+This cookie used to keep track of page views in a session.
+(Expires: Session cookie)
+Strictly Necessary.
+==========
+hubspotutk
+3rd (hubspot.com)
+Hubspot Analytics.
+This cookie is used for to keep track of a visitor's identity.
+This cookie is passed to HubSpot on form submission and used when deduplicating contacts.
+==========
+(Expires: 10 years)
+Strictly Necessary.
+hubspot.hub.id
+3rd (hubspot.com)
+Hubspot Authentication
+Strictly Necessary.
+hubspotauth
+3rd (hubspot.com)
+Hubspot Authentication
+Strictly Necessary.
+hubspotauthcms
+3rd (hubspot.com)
+Hubspot Authentication
+Strictly Necessary.
+hubspotauthremember
+3rd (hubspot.com)
+HubSpot Authentication
+Functionality.
+_hs_opt_out
+3rd (hubspot.com)
+Opt out of HubSpot tracking.
+==========
+This cookie is used by the opt-in privacy policy to remember not to ask the user to accept cookies again.
+This cookie is set when you give users the choice to opt out of cookies.
+(Expires: 2 years)
+Targeting.
+__hs_do_not_track
+3rd (hubspot.com)
+This cookie is set when you give users the choice to opt out of cookies and they choose to do so.
+It disables tracking and personalization.
+(Expires: 2 years)
+Targeting.
+==========
+hubspotutktzo
+3rd (academy.hubspot.com)
+Time Zone Offset
+Functionality.
+__hluid
+3rd (hubspot.com)
+In-app usage tracking
+Targeting.
+mp_id_mixpanel
+3rd (hubspot.com)
+In-app usage tracking
+Targeting.
+==========
+Mixpanel.
+__hs_testcookie
+3rd (hubspot.com)
+This cookie is used to test whether the visitor has support for cookies enabled.
+(Expires: Session cookie)
+Targeting.
+ELOQUA
+3rd (eloqua.com)
+This cookie has a value pair of guid = randomly generated string of characters and numbers.
+Targeting.
+ELQSTATUS
+3rd (eloqua.com)
+This cookie gets dropped automatically.
+Targeting.
+==========
+(*) Google Analytics – these cookies are used to collect information in an anonymous form about how visitors use the website.
+The information is used to compile reports and help us improve the site.
+Click here for an overview of privacy at Google http://www.google.com/analytics/learn/privacy.html
+(**) Adobe Marketing Cloud – these cookies are used to collect information in an anonymous form about how visitors use the website.
+The information is used to compile reports and help us improve the site.
+.
+Click here for an overview of privacy at Adobe http://www.adobe.com/privacy.html
+==========

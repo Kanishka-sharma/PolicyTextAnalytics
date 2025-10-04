@@ -1,0 +1,551 @@
+TreSensa
+Technologies, Inc.
+GDPR
+Privacy Notice
+Effective
+Date: September 30, 2020
+ 
+Scope of
+this Notice:
+This GDPR privacy notice (the “Notice”) is included in our Privacy
+Policy and applies to the ‘personal data,’ as defined in the GDPR, of natural
+persons located in the EEA (“EEA Individuals”) processed by TreSensa.
+Except as otherwise defined within this GDPR Privacy Notice, all terms herein
+shall have the meaning set forth in the Privacy Policy or, if not defined
+herein or in the Privacy Policy, the GDPR.
+To the extent of any
+conflict between this Notice and the Privacy Policy, this Notice shall control
+only with respect to EEA Individuals and their personal data.
+If you are
+located elsewhere, please see our Privacy Policy here.
+Controller
+Details: TreSensa
+acts as a data controller of personal data regarding the following categories
+of EEA Individuals: (a) end-users (“End-Users,” “you,” or “your”)
+who are served our Playable Ads via a Platform, (b) our business partners, such
+as our service providers and prospective/current marketer customers (“Business
+Contacts”), and (c) our Website visitors (“Website Visitors”) for
+the purposes and under the legal bases described below.
+Please note that, in
+some cases, the categories of data subjects above may overlap (e.g., Business
+Contacts using the Website).
+Controller’s EU Representative: ePrivacy GmbH, Große
+Bleichen 21, 20354 Hamburg, Germany
+ 
+Purposes
+and Legal Basis of Processing:
+
+
+
+Data Subject
+
+
+Purpose and Legal Basis
+
+
+
+
+General (applies to all data subjects
+  below)
+
+
+Information Security: Our web servers will log
+  your IP address and other information (e.g., browser information, operating
+  system, request date/time, user agent string, referral and exiting URL) in
+  order to maintain an audit log of activities performed.
+==========
+We use this
+  information pursuant to our legitimate interests in logging high-level
+  Website and Playable Ad usage, combating DDOS or other attacks, and removing
+  or defending against malicious users on the Website and Playable Ads.
+End-Users
+
+
+Bidding/Serve Ads: TreSensa relies on the
+  consent given by End-Users to the Platform to bid and serve advertisements
+  and, with respect to Post-Engagement Data (as such term is defined below), to
+  the customer website or app clicked through by End-User from our Playable
+  Ads.
+Given how the bidding and use of our
+  Playable Ads work, TreSensa does not have a direct presence on such Platforms
+  or customer sites and thus is not in a practical position to directly gain
+  such consent before our Playable Ads are served to or used by End-Users;
+  thus, TreSensa will rely on such Platforms or customer sites to obtain
+  consent on its behalf, such as through their use of a consent management
+  platform or notice, including those that may list TreSensa as a partner or
+  member of an industry-wide consent framework.
+Refining Bid
+  Models/Segments/Multi-Variant Testing: TreSensa has a legitimate interest in
+  refining its bid models, creating End-User segments, and doing multi-variant
+  testing (as explained below), as such processing activities assist TreSensa
+  in serving the most relevant and enjoyable Playable Ad to an End-User.
+Business
+  Contacts
+
+
+Personalized and Automated
+  Direct Marketing: TreSensa has a legitimate interest in personally following up
+  with prospective customers that inquire about TreSensa’s services and sending
+  direct marketing emails to prospective or current customers regarding new or
+  future offerings.
+TreSensa limits follow-ups to leads that do not display
+  further interest in TreSensa’s services and always provides a ‘Manage Email
+  Preferences’ link for automated direct marketing emails.
+You may always reach
+  out to Privacy@TreSensa.com in cases where you no
+  longer wish to receive emails from the TreSensa team personally (or respond
+  directly within such email).
+Executing Contractual
+  Documentation:
+  TreSensa will process Business Contact Data as necessary to perform a
+  contract with such Business Contact or as needed during sales negotiations
+  with such Business Contact.
+General Business Development: There are multiple
+  ancillary activities that TreSensa has a legitimate interest in pursuing when
+  it comes to developing a business relationship or ensuring customer
+  satisfaction, such as answering inquiries via phone or email or providing
+  customer support.
+==========
+Website
+  Visitors
+
+
+Web Audience Measurement: TreSensa uses Google
+  Analytics on its Website for its legitimate interest in web audience
+  measurement.
+These analytics are collected solely on TreSensa’s behalf and is
+  not shared with Google.
+Information collected by Google Analytics includes
+  static or dynamic IP Address (last octet anonymized), geolocation (up to
+  city-level only), browser type and language, referring and exit pages (with
+  URLs), pages visited and for how long, and other metrics.
+Website Visitors
+  can opt-out of Google Analytics by clicking here.
+==========
+What
+Personal Data is Collected from End-Users: TreSensa understands that the online
+advertising ecosystem can be confusing or opaque.
+While all companies operate
+differently, TreSensa would like to be transparent in how we collect and use
+your personal data.
+Personal data collection and use is best explained through
+the three ‘phases’ below:
+
+Bidding/Ad Serving: Many Platforms (also referred to as
+     ‘Publishers’) are supported through the serving of advertisements to End-Users.
+==========
+To do so, Platforms put their ad space (“Inventory”) on various ad
+     exchanges or networks so that such Inventory can be purchased by
+     advertisers.
+TreSensa, like many advertisers, uses a “Demand-Side
+     Platform” (a “DSP”), which aggregates Inventory from multiple
+     networks or exchanges so that we can have access to and manage Inventory
+     all from one environment.
+In some cases we may do direct integrations with
+     Platforms where we purchase Inventory without going through an ad exchange
+     or network.
+When you log onto or otherwise use a
+Platform that serves ads, certain information about your device is sent to
+advertisers so that they can determine if they would like to serve you an ad.
+==========
+This information includes your advertising ID (e.g., iOS IDFA or Android GAID)
+(“AdID”), the Platform you are on, browser type and version, device type
+(e.g., iPhone 10), carrier, operating system type and version, geolocation,
+time, and day of week (collectively, “Bidstream Data”).
+Bidstream Data
+is not identifiable but for the collection of your AdID, which is a unique yet
+resettable identifier for your device.
+This AdID cannot identify
+you by name; further, TreSensa does not collect IP address and we only obtain
+city-level geolocation information.
+Engagement with Our Playable Ads: Upon reviewing the Bidstream Data,
+     we will bid against other advertisers to serve you a Playable Ad if we
+     believe such Playable Ad would be of interest to you.
+This process is
+     called real-time bidding, which is a type of programmatic advertising, and
+     it happens in fractions of a second.
+==========
+If we win, we will serve you a
+     relevant Playable Ad and drive success for our customers.
+When you click on one of our Playable Ads,
+we will collect information about your engagement with that Playable Ad.
+This information
+includes how long you play the Playable Ad, if you click the link to the
+application or product we are advertising (called a ‘click-through’) or install
+such application, completion of game, what level you completed or score you
+obtained (if relevant) within the Playable Ad, and similar data (collectively,
+“Engagement Data”).
+Again, this Engagement Data is not identifiable but
+for the tying of such data with your AdID (which, again, cannot reference you
+by name and is resettable by you at any time).
+Note that this Engagement Data
+is about your interaction with the Playable Ad, rather than any measurement of
+your personal characteristics.
+==========
+Post-Engagement Data from Customers: In some cases, we may receive
+     information from our customers regarding actions taken by you within their
+     app or on their site whether after you’ve clicked through from our
+     Playable Ad or otherwise (for example, customers may share if you are
+     already an existing client, in which case we can refrain from serving you
+     an ad to install their app or sign up for their service) (“Post-Engagement
+     Data”).
+Such information is obtained and sharable with us pursuant to
+     the consent you provide to our customers.
+This Post-Engagement Data is not
+     identifiable but for the tying of such data with your AdID (which, again,
+     cannot reference you by name and is resettable by you at any time).
+Note
+     that this Post-Engagement Data is about your interaction within our
+     customer’s app or site, such as a download of the app, the level of usage
+     of the app, or purchase on a retail site, rather than measurement of your
+     personal characteristics besides, at most, high-level interest in an app
+     or product (see End-User Segments below for more
+     information).
+Refining
+Programmatic Bid Models/Multi-variant Testing: TreSensa collects and uses the Bidstream
+Data, Engagement Data, and Post-Engagement Data described above to build and
+refine our statistical models to help us bid intelligently on future or
+returning End-Users on various Platforms.
+==========
+For example, we may look at data
+across End-Users and determine that End-Users on WiFi engage more with our
+Playable Ads than those on 3G/LTE or that certain Platforms lead to more
+Playable Ad engagement than others.
+Further, if we receive Bidstream Data from
+an End-User that we have seen before, we can determine how much to bid on such
+End-User and what Playable Ad to serve depending on if, and how much, they’ve
+previously engaged with our Playable Ads.
+We also engage in something we call
+“multi-variant testing,” whereby we change variables within the Playable Ad
+(for example, button placement, colors/fonts, wording, playable difficulty
+level, and offers within the end screen) to see how such variables may support
+our customers’ main goals for their Playable Ad campaign.
+==========
+End-User
+Segments:
+As you can imagine, the bidding process for serving ads is highly automated
+and, thus, it is helpful to categorize certain End-Users into ‘segments.’
+When
+End-Users belonging to a segment show up on a Platform, we adjust our bid for
+that End-User accordingly and serve them a Playable Ad most relevant to that
+End-User.
+The data placed within these segments is purged from the segment
+within three (3) months of the date it was first added to the segment (but the
+underlying End-User data is retained pursuant to our retention schedule).
+==========
+Examples of the
+types of segments used by TreSensa are lists of:
+· 
+AdIDs of
+End-Users that engage with the Playable Ads
+· 
+AdIDs of
+End-Users that click through to install a customers’ app or visit a customer’s
+site
+· 
+AdIDs of
+End-Users that download the application promoted on the Playable Ad
+· 
+AdIDs of
+End-Users that have taken a pre-set action within the Playable Ad (e.g., shared
+the Playable Ad, activated a coupon, played through to a certain point in the
+Playable Ad, joined a sweepstakes, answered a survey, etc.)  
+· 
+AdIDs of
+End-Users that had previously downloaded an application promoted by a Playable
+Ad or AdIDs supplied by customers as part of Post-Engagement Data that enable
+us to refrain from showing such End-Users an ad for an application they have
+already downloaded
+· 
+AdIDs
+curated from Bidstream Data based on visits to certain groupings or collections
+of Platforms
+TreSensa
+does not segment End-Users based on personal characteristics
+besides, at most, high-level interests.
+In other words, TreSensa does not
+determine, predict, or infer an End-User’s age group, gender, income level,
+political leanings, household size, or similar data points; assuming TreSensa
+receives the applicable Post-Engagement Data pursuant to your consent, TreSensa
+may see that an AdID made a purchase on a site or app linked from a Playable
+Ad, thus indicating a general level of interest in such products, and serve
+similar Playable Ads to such AdID.
+Even then, we will likely receive an
+anonymous product value or a yes/no if you purchased a product on the site or
+app, rather than the specific product purchased (though that is also possible, depending
+on the campaign).
+TreSensa’s primary focus is simply the End-User’s
+interactions with our Playable Ads, the device information associated with such
+End-User, and which Playable Ads drive app installs, product purchases, or
+other similar End-User actions.
+==========
+AdID Pseudonymization: As mentioned above, the
+lynchpin of the Bidstream Data and Engagement Data described above being
+‘personal data’ is that such data is tied to your AdID, which is a unique
+identifier for your device that you can reset at any time.
+However, to further
+respect your privacy, we will be implementing processes to pseudonymize your
+AdIDs.
+In other words, when we receive your AdID, we will scramble it so that
+the identifier we maintain within our data is not your actual AdID.
+This ‘scrambled’
+AdID is what we will use when we carry out our various processing activities
+(e.g., creating segments, refining bid models, doing research, etc.).
+We will
+keep your real AdID in a separate table with limited access to a small group of
+personnel, in case you want to effectuate your various rights or we need to
+match your true AdID with your scrambled AdID to recognize you and serve you
+the most relevant Playable Ad based on your past interaction with us.
+We are
+also working with our partners to potentially directly receive AdIDs
+pseudonymously going forward.
+Your
+Rights: Natural persons have a right to: (i) request access to, correction
+and/or erasure of their personal data; (ii) object to processing of their
+personal data; (iii) restrict processing of their personal data; and (iv)
+request a copy of their personal data, or have a copy thereof sent to another
+controller, in a structured, commonly used and machine readable format under
+the right of data portability.
+==========
+These rights may be exercised by
+contacting: Privacy@TreSensa.com.
+Objecting
+to Legitimate Interest/Direct Marketing: Natural persons may object to personal
+data processed pursuant to TreSensa’s legitimate interest.
+In such case, TreSensa
+will no longer process their personal data unless TreSensa demonstrates
+appropriate overriding legitimate grounds for the processing or if needed for
+the establishment, exercise, or defense of legal claims.
+Natural persons
+also may object at any time to processing of their personal data for direct
+marketing purposes, such as email marketing or use of their data for segments
+or refining our bid models.
+In such case, their personal data shall no longer
+be used for that purpose.
+==========
+Natural persons will be able to fulfill such rights
+directly, such as via the ‘Manage Email Preferences’ link within an email or
+Opt-Out link within our Playable Ads, as applicable, but may always reach out
+to Privacy@TreSensa.com or our address given
+below.
+Please note that if you opt-out of receiving email
+marketing from us, we may still send you important administrative or
+transactional messages via email, from which you cannot opt out (unless an
+applicable retention schedule or right to erasure request requires deletion of
+such email address).
+Currently, if a natural person opts-out of use of their
+data for segments or refining our bid models, such person will no longer
+receive Playable Ads from TreSensa.
+Right to
+Lodge a Complaint: In
+accordance with GDPR Article 77, natural persons also have the right to lodge a
+complaint about TreSensa’s processing of their personal data with a competent
+supervisory authority, in particular in the Member State of their habitual
+residence or place of work, or where an alleged GDPR infringement took place,
+as applicable.
+Further, as applicable, natural persons may exercise their
+third-party beneficiary rights under TreSensa’s Standard Contractual Clauses.
+==========
+Retention: Twenty-four (24) months for End-User
+and Website Visitor data; Thirty-six (36) months for Business Contact data.
+Categories
+of Recipients: TreSensa discloses personal data with the following recipients:
+· 
+Beeswax: Our programmatic bidding
+infrastructure provider
+· 
+Amazon
+Web Services:
+Cloud-based data storage provider
+· 
+BCNL
+Consulting LLC:
+US-based consultant who helps manage AWS and IT services
+· 
+POINT: Outsourced US-based IT
+service provider with potential access to TreSensa workstations
+· 
+Redsmin: France-based real-time
+administration and monitoring tool for TreSensa’s in-memory databases housed
+within Amazon Web Services
+· 
+Google
+Analytics: 1st-party
+web audience measurement
+· 
+Neorick
+(PTY) Ltd: Consultant providing data analysis,
+management and modeling support
+· 
+Game
+Studio Customers (and their attribution and/or data management partners): Game Studio Customers located
+worldwide that we build Playable Ads for to drive app installs.
+Game Studio
+Customers receive reports that do not include any personal data;
+however, their attribution or data management partners will receive End-Users’
+AdIDs to attribute that a click-through or app install originated from an
+End-User interacting with a TreSensa Playable Ad.
+· 
+Brand
+Customers (and, when applicable, their attribution and/or data management
+partners): Customers
+located worldwide that we build Playable Ads for to drive brand awareness,
+consideration, time spent with brand, coupon redemptions, loyalty program
+sign-ups, purchases of Customers’ products, and other similar brand-focused
+outcomes.
+Brand Customers and/or their attribution or data management partners
+may receive End-Users’ AdIDs to support the Brand Customer’s overall marketing
+efforts and/or to attribute that the particular action or outcome originated
+from an End-User interacting with a TreSensa Playable Ad.
+==========
+Governmental
+Access Requests: TreSensa may be required to disclose personal data in response
+to lawful requests by public authorities, including for the purpose of meeting
+national security or law enforcement requirements.
+We may also disclose
+personal data to other third parties when compelled to do so by government
+authorities or required by law or regulation including, but not limited to, in
+response to court orders and subpoenas.
+Corporate
+Restructuring:  In the event of a merger, reorganization, dissolution or
+similar corporate event, or the sale of all or substantially all of our assets,
+we expect that the information that we have collected, including personal data,
+would be transferred to the surviving entity in a merger or the acquiring
+entity.
+==========
+All such transfers shall be subject to our commitments with respect to
+the privacy and confidentiality of such personal data as set forth in this GDPR
+Privacy Notice.
+This GDPR Privacy Notice shall be binding upon TreSensa and its
+legal successors in interest.
+Transfer of
+Personal Data outside the EEA: TreSensa is certified under the E.U.-U.S.
+Privacy Shield and continues to comply with the requirements thereunder.
+Notwithstanding the foregoing, TreSensa relies upon Standard Contractual Clauses  (the “SCCs”) and
+Swiss-U.S. Privacy Shield to import EEA Residents’ personal data to our data
+centers for our various processing activities.
+When transferring such data to
+TreSensa’s agents (such as our service providers) or other controllers (such as
+our customers) in countries that have not received an ‘adequacy decision’ by
+the European Commission, TreSensa meets the obligations under the SCCs and
+Swiss-U.S. Privacy Shield for onward transfers of personal data to ensure
+adequate protection for your personal data.
+Updates to
+this GDPR Privacy Notice: If, in the future, we intend to process your personal data for a
+purpose other than that which it was collected, we will provide you with
+information on that purpose and any other relevant information at a reasonable
+time prior to such processing.
+After such time, the relevant information
+relating to such processing activity will be revised or added appropriately
+within this GDPR Privacy Notice, and the “Effective Date” at the top of this
+page will be updated accordingly.
+==========
+Contacting
+Us: If you
+have any questions regarding our privacy practices, please contact us via email
+at Privacy@TreSensa.com or write to us at:
+TreSensa Technologies, Inc.
+443 Park Avenue South, Suite
+506
+New York, NY 10016
+Attn: Privacy
+ 
+EU-US and
+Swiss-US Privacy Shield Framework (For EEA, UK & Swiss Data Transferred
+into the United States)
+ 
+Important
+Notice for Residents of the European Economic Area, the United Kingdom and
+Switzerland:
+TreSensa complies with the EU-US Privacy Shield Framework and the Swiss-US
+Privacy Shield Framework as set forth by the US Department of Commerce
+regarding the collection, use, and retention of personal data from the European
+Union member countries (including Iceland, Liechtenstein, and Norway), the
+United Kingdom, and Switzerland to the United States, respectively, pursuant to
+the EU-US and Swiss-US Privacy Shield.
+TreSensa has certified that it adheres
+to the Privacy Shield principles of Notice, Choice, Accountability for Onward
+Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement
+and Liability (the “Privacy Shield Principles”).
+To learn more about the
+Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/.
+==========
+TreSensa is
+subject to the investigatory and enforcement powers of the Federal Trade
+Commission (FTC) and/or the Department of Transportation.
+In compliance with the US-US
+and the Swiss-US Privacy Shield Principles, TreSensa commits to resolve
+complaints about your privacy and our collection or use of your personal
+information.
+European Union, United Kingdom and Swiss individuals with
+inquiries or complaints regarding this Privacy Shield Privacy Notice should
+first contact TreSensa at Privacy@TreSensa.com with the subject line, “Privacy Shield.”
+TreSensa has further committed to refer unresolved privacy complaints under the
+EU-US and the Swiss-US Privacy Shield Principles to the BBB EU PRIVACY SHIELD,
+a non-profit alternative dispute resolution provider located in the United
+States.
+If you do not receive timely acknowledgement of your complaint, or if
+your complaint is not satisfactorily addressed by TreSensa, please visit https://bbbprograms.org/privacy-shield-complaints for more information and
+to file a complaint.
+==========
+The services of the BBB EU PRIVACY SHIELD are provided at
+no cost to you.
+Please do not refer GDPR complaints to BBB EU Privacy Shield.
+If these processes do not result in a resolution, you may also contact your
+local data protection authority, the US Department of Commerce, and/or the
+Federal Trade Commission for assistance.
+If your Privacy Shield complaint
+cannot be resolved through the above channels, under certain conditions, you
+may invoke binding arbitration for some residual claims not resolved by other
+redress mechanisms.
+==========
+See Privacy Shield Annex 1 at  https://www.privacyshield.gov/article?id=ANNEX-I-introduction. 
+ 
+Opt-In and Opt-Out to Certain
+Onward Transfers under the Privacy Shield: Individuals have the opportunity to
+opt-out of sharing of their personal data with third parties other than our
+agents or before we use it for a purpose other than which it was originally
+collected or subsequently authorized.
+To limit the use and disclosure of your
+personal information, please submit a written request to Privacy@TreSensa.com with the subject line “Privacy
+Shield.”
+We will not disclose your
+sensitive personal information to any third party without first obtaining your
+opt-in consent.
+You may grant such consent by contacting us at Privacy@TreSensa.com.
+==========
+In each instance, please allow
+us a reasonable time to process your response.
+Your Privacy Shield Rights: Upon request to Privacy@TreSensa.com with the subject line “Privacy
+Shield,” we will provide you with confirmation as to whether we are processing
+your personal data pursuant to the Privacy Shield, and have such data
+communicated to you within a reasonable time.
+You have the right to access,
+correct, amend, or delete the personal data processed pursuant to the Privacy
+Shield where it is inaccurate or has been processed in violation of our privacy
+disclosures to you.
+We may require payment of a non-excessive fee to defray our
+expenses in this regard.
+Please allow us a reasonable time to respond to your
+inquiries and requests.
+==========
+Retention of Personal Information under the Privacy Shield: We will retain the personal
+information processed pursuant to the Privacy Shield in a form that identifies
+you pursuant to our data retention periods in Retention above.
+We may continue processing such personal information for longer periods, but
+only for the time and to the extent such processing reasonably serves the
+purposes of archiving in the public interest, journalism, literature and art,
+scientific or historical research and statistical analysis, and subject to the
+protection of our privacy disclosures.
+After such time periods have expired, we
+may either delete your personal information or retain it in a form such that it
+does not identify you personally.
+How We Protect Your Personal Information under the Privacy
+Shield: TreSensa takes very seriously the security and privacy of the
+personal information that it collects pursuant to the Privacy Shield.
+Accordingly, we will implement reasonable and appropriate security measures to
+protect your personal information from loss, misuse and unauthorized access,
+disclosure, alteration and destruction, taking into account the risks involved
+in processing and the nature of such data, and comply with applicable laws and
+regulations.
+==========

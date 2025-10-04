@@ -1,0 +1,98 @@
+Privacy Policy
+ 
+Instreamatic Inc. (“Instreamatic,” “we”, or “us”) is an audio and voice dialogue ad serving technology company.
+We enable publishers and advertisers to interact with their audience by providing voice-based user interaction with the publishers’ and advertisers’ audio and audio-visual content.
+Our customers use our solutions to deliver relevant online user interaction into their streams.
+The following sets forth the privacy practices and policy (“Privacy Policy”) related to the business we operate.
+==========
+It covers all data on website/apps visitors and listeners that we collect on behalf of a client for the purpose of delivering and enhancing our services.
+We are committed to protecting consumer privacy by informing you of what information we collect, how we use it, and with whom we may share it.
+We adhere to the Privacy Principles adopted by the Interactive Advertising Bureau (IAB).
+What information do we collect to perform our services?
+==========
+On behalf of our clients we can collect and process some or all of the following types of information from website/app visitors and users:
+
+Browser identifier or cookie;
+IDFA or GAID for mobile app users (if enabled);
+IP Address;
+Information about the ads that used to be played to a certain visitor/listener in the last 48 month;
+Device/Browser language;
+Operating system and its version;
+Device type;
+Instreamatic SDK version installed in the client’s application;
+Ad specific information: number of impressions, number of clicks, numbers of users exposed, percentage of ad content played, reaction to the ad;
+Real-time location data (if granted by the end-user);
+Calendar avaliability data in order to create events on behalf of the client (if granted by the end-user);
+Anonymous audio-recordings of the responses to Dialogue Ads and text-version of this audio-recordings;
+
+Other types of data can be collected on behalf of the client, if requested and granted by the end-user.
+This types of data should be indicated in the Privacy Policy document of this certain Client.
+We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support.
+The collection and use of all the data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by Instreamatic.
+Furthermore, we collect and use only non-PII that does not directly or in combination with other information identify you as an individual.
+We may also obtain non-PII from third party data vendors that receive such non-PII pursuant to their own privacy policies.
+==========
+We do not collect PII via our advertising technology.
+The information we collect by providing our services is meant to be traced back to a specific individual only for the purposes of the voice interaction and possibly for related transactions with the user.
+How do we use this information?
+==========
+We process the voice data to enable user interaction with the publishers’ and advertisers’ content, including offering the ability to purchase specific programming or items during the voice interaction.
+Such voice data is retained for an appropriate amount of time for the processing of the requested transactions and any further period for purposes of the transaction and maintaining a legal record of the transactions.
+We also process the data to find elements that will help us determine which products/services could be relevant to you and to improve the quality of the ads you’ll be served.
+For example, we may use the geo-location data to determine potential likelihood to listen to an ad or we may use the data collected to prevent the same ads to be served to you repeatedly.
+We also use the information we collect to maintain, improve and develop new services.
+==========
+We finally deliver a list of anonymous user identifiers and produce reports and analytics for our business partners.
+Disclosure of information
+We share anonymous user identifiers and aggregated information with established 3rd party publishers/advertisers such as the number of users who visited a publisher site, or the number of users who listened to a particular ad, strictly for serving advertisements.
+We may share information with companies, organizations or individuals outside of Instreamatic if we have a good-faith belief that we are obligated to do so by law or as necessary to protect ourselves or others.
+==========
+We may allow others to provide audience measurement and analytics services to us, to serve advertisements on our behalf across the Internet, and to track and report on the performance of those advertisements.
+These entities may use their own cookies, web beacons, SDKs, and other technologies to identify your device when you visit our site and use our Services, as well as when you visit other online sites and services.
+Finally, we may transfer information in our possession to a successor entity in connection with a corporate change in control such as a merger or acquisition or the sale of company assets.
+==========
+Other Website
+Through our services, we may link to other websites operated by other companies.
+This Privacy Policy does not apply to these linked websites.
+Each website should be checked for its own privacy policy.
+==========
+We do not exercise control over the manner in which our business partners label their custom data segments, but as applicable, we encourage our business partners to adhere to self-regulatory codes offered by the Network Advertising Initiative (NAI), Digital Advertising Alliance (DAA), and/or certain other industry standards.
+Data security
+We take appropriate measures to ensure that all personal data is kept secure including security measures to prevent personal data from being accidentally lost, or used or accessed in an unauthorised way.
+We limit access to your personal data to those who have a genuine business need to know it.
+==========
+Those processing your information will do so only in an authorised manner and are subject to a duty of confidentiality.
+We also have procedures in place to deal with any suspected data security breach.
+We will notify you and any applicable regulator of a suspected data security breach where We are legally required to do so.
+==========
+Unfortunately, the transmission of information via the internet is not completely secure.
+Although We will do Our best to protect your personal data, We cannot guarantee the security of your data transmitted through any online means, therefore any transmission remains at your own risk.
+How long We keep the data
+We will hold all the data for 48 months.
+==========
+Personal information will be deleted on one of the following occurrences:
+
+deletion of your personal information by end-user (or by another person engaged by the end-user); or
+receipt of a written request by end-user (or another person engaged by the end-user) to us.
+End-user rights
+
+access personal data and to certain other supplementary information that this Privacy Policy is already designed to address
+require Us to correct any mistakes in your information which We hold
+require the erasure of personal data concerning you in certain situations
+receive the personal data concerning you which you have provided to Us, in a structured, commonly used and machine-readable format and have the right to transmit those data to a third party in certain situations
+claim compensation for damages caused by Our breach of any data protection laws.
+If you would like to exercise any of those rights, please:
+
+contact Us using Our Contact details below,
+let Us have enough information to identify you,
+let Us have proof of your identity and address, and
+let Us know the information to which your request relates.
+==========
+Changes to This Policy
+This Privacy Policy is subject to change.
+We will post the updated version on our Website.
+Whenever a change is significant, we will place a prominent notice on this Website.
+We encourage you to periodically review this page for the latest information on our privacy practices.
+Questions or Comments
+If you have questions or comments regarding our Privacy Policy, please contact us at support@instreamatic.com
+==========

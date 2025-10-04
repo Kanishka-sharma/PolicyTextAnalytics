@@ -1,0 +1,202 @@
+TERMS OF SERVICE
+
+THIS TERMS OF SERVICE (AGREEMENT) GOVERNS YOUR 15-DAY FREE TRIAL OF THE SERVICES.
+IF YOU PURCHASE OUR SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ONGOING USE OF THOSE SERVICES.
+==========
+BY CLICKING ON THE "ACCEPT" BUTTON, YOU OR THE ENTITY OR COMPANY THAT YOU REPRESENT (CUSTOMER) ARE UNCONDITIONALLY CONSENTING TO BE BOUND BY AND ARE BECOMING A PARTY TO THIS SERVICES AGREEMENT.
+CUSTOMER'S CONTINUED USE OF ANY SERVICES OF WISTIA, INC. (WISTIA) SHALL ALSO CONSTITUTE ASSENT TO THE TERMS OF THIS AGREEMENT.
+IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.
+1.
+==========
+DEFINITIONS
+
+Confidential Information
+means all trade secrets, know-how, inventions, developments, software and other financial, business or technical information disclosed by or for a party in relation to this Agreement, but not including any information the receiving party can demonstrate is (a) already known by it without restriction, (b) rightfully furnished to it by a third party without restriction and without breach of any obligation to the disclosing party, (c) generally available to the public without breach of this Agreement or (d) independently developed by it without reliance on such information.
+All pricing information is Wistia's Confidential Information.
+Customer Data
+means all Customer registration information and other transaction data collected, processed and retained by Wistia in connection with providing the Services, including without limitation content submitted by Customer Managers and Contacts.
+==========
+Plan
+means (a) Wistia's Basic, Enhanced or Premium plan, as applicable and as further described on Wistia's website available at: http://wistia.com/pricing and (b) the applicable block of embedded plays purchased by Customer.
+Services
+means the service hosted by Wistia and provided to Customer under this agreement.
+Systems
+means modems, servers, software, network and communications equipment and ancillary services that are owned, controlled or procured by Customer.
+Updates
+means any patch, revision or update to the Services delivered by Wistia.
+2.
+==========
+15-DAY FREE TRIAL
+
+We will make one or more Services available to Customer on a trial basis free of charge until the earlier of (a) the fifteenth day after Customer's acceptance of this Agreement or (b) the start date of any Purchased Services ordered by Customer.
+Additional trial terms and conditions may appear on the trial registration web page.
+Any such additional terms and conditions are incorporated into this Agreement by reference and are legally binding.
+==========
+A credit card is not required to start a 15-day free trial.
+ANY DATA CUSTOMER ENTERS INTO THE SERVICES DURING YOUR 15-DAY FREE TRIAL WILL BE PERMANENTLY LOST UNLESS CUSTOMER PURCHASES A SUBSCRIPTION TO THE SAME SERVICES AS THOSE COVERED BY THE TRIAL, PURCHASE UPGRADED SERVICES, OR EXPORT SUCH DATA, BEFORE THE END OF THE 15-DAY TRIAL PERIOD.
+CUSTOMER CANNOT TRANSFER DATA ENTERED DURING THE 15-DAY FREE TRIAL TO A SERVICE THAT WOULD BE A DOWNGRADE FROM THAT COVERED BY THE TRIAL; THEREFORE, IF CUSTOMER PURCHASES A SERVICE THAT WOULD BE A DOWNGRADE FROM THAT COVERED BY THE TRIAL, CUSTOMER MUST EXPORT CUSTOMER'S DATA BEFORE THE END OF THE 15-DAY TRIAL PERIOD OR CUSTOMER'S DATA WILL BE PERMANENTLY LOST.
+NOTWITHSTANDING SECTION 8 (WARRANTIES AND DISCLAIMERS), DURING THE 15-DAY FREE TRIAL THE SERVICES ARE PROVIDED "AS-IS" WITHOUT ANY WARRANTY.
+3.
+==========
+PURCHASED SERVICES
+3.1 Services.
+Subject to all terms and conditions of this Agreement, Wistia will use commercially reasonable efforts to provide the Services.
+Wistia may provide the Services to Customer directly, or indirectly using contractors or other third party vendors or service providers.
+Use of the Services by Customer shall not unreasonably interfere with use of the Services by other Wistia customers.
+==========
+3.2 Users.
+Customer's use of the Services is limited to the number of administrative user (Manager) seats specified in the Customer's Plan.
+Each Manager may appoint the number of Services end users (Contacts) specified in the Plan and determine what Services feature permissions to grant to such Contacts, provided that the aggregate use of the Services by all Customer Managers and all Customer appointed Contacts may not exceed the maximum limits as specified in the Plan.
+Customer shall be responsible for any breaches of this Agreement and/or the Acceptable Use Policy by its Managers and Contacts.
+==========
+3.3 Security Measures.
+Customer, Customer Managers and Customer appointed Contacts may access the Services as Wistia instructs through a combination of user names and passwords.
+3.4 Passwords.
+==========
+Customer shall take full responsibility and liability for the security of each of its Managers' and Contacts' user names and passwords, and shall be solely responsible for all use of the Services through such user names or passwords.
+Customer agrees to immediately notify Wistia of any unauthorized use of the Services or any other breach of security known to Customer.
+==========
+3.5 Changes.
+Wistia reserves the right to modify or discontinue any Services or Plan (in whole or in part) at any time by giving at least 60 days notice to Customer.
+3.6 Limitations.
+==========
+Wistia will not be responsible or liable for any failure in the Services resulting from or attributable to (a) Customer's Systems, (b) network, telecommunications or other service or equipment failures outside of Wistia's facilities, (c) Customer's or third party's products, services, negligence, acts or omissions, (d) any force majeure or cause beyond Wistia's reasonable control, (e) scheduled maintenance or (f) unauthorized access, breach of firewalls or other hacking by third parties.
+3.7 Systems.
+==========
+Customer shall obtain and operate all Systems needed to connect to, access or otherwise use the Services, and provide all corresponding backup, recovery and maintenance services.
+Customer shall ensure that all Systems are compatible with the Services.
+Customer shall maintain the integrity and security of its Systems (physical, electronic and otherwise).
+4.
+==========
+SUPPORT AND MAINTENANCE
+4.1 Support.
+Wistia will use commercially reasonable efforts to provide Customer with support and maintenance services for the Services in accordance with its standard practices (as amended from time to time).
+Customer agrees that Wistia will have the right to charge in accordance with its then current policies for any support services resulting from problems, errors or inquiries relating to Systems or any other network, equipment, service or software not owned, controlled or procured by Wistia.
+==========
+4.2 Updates.
+Wistia shall have no obligation to provide Updates, except that Wistia will provide Customer with any Update that it makes generally available without charge to its similar customers.
+5.
+==========
+PROPRIETARY RIGHTS
+5.1  Customer Data.
+As between the parties, Customer shall own all Customer Data.
+Wistia shall not disclose to third parties or use any Customer Data except as reasonably necessary to provide the Services or to comply with any legal, regulatory or similar requirement or investigation.
+Customer hereby grants Wistia a nonexclusive and royalty-free right and license to use the Customer Data solely for the purpose of providing the Services.
+Customer agrees to indemnify and hold Wistia harmless from all claims, damages, liabilities, losses, costs and expenses (including attorneys' fees) arising out of any use or disclosure of Customer Data permitted hereunder.
+Customer agrees to create archival copies or backup copies of all Customer Data.
+==========
+5.2 No Implied License.
+Except for the limited rights and licenses expressly granted hereunder, no other license is granted, no other use is permitted and Wistia (and its licensors) shall retain all right, title and interest in and to the Services (including all intellectual property and proprietary rights embodied therein).
+Customer shall not take any action inconsistent with such rights.
+==========
+5.3 Restrictions.
+Except as specifically permitted in this Agreement, Customer shall not directly or indirectly (a) use any of Wistia's Confidential Information to create any software, documentation or service that is similar to the Services or any documentation provided in connection therewith, (b) disassemble, decompile, reverse engineer or use any other means to attempt to discover any source code of the Services, or the underlying ideas, algorithms or trade secrets therein (except and only to the extent that these restrictions are expressly prohibited by applicable statutory law), (c) encumber, sublicense, transfer, rent, lease, time-share or use the Services in any service bureau arrangement or otherwise for the benefit of any third party, (d) use or allow the transmission, transfer, export, re-export or other transfer of any product, technology or information it obtains or learns pursuant to this Agreement (or any direct product thereof) in violation of any export control laws or regulations of the United States or any other relevant jurisdiction or (e) permit any third party to engage in any of the foregoing proscribed acts.
+==========
+5.4 Trademark.
+Customer shall not alter, obscure or remove any printed or on-screen trademark, patent legend or other proprietary or legal notice.
+6.
+==========
+CONFINDENTIALITY
+6.1  Confidentiality.
+Except for the specific rights granted by this Agreement, the receiving party shall not use or disclose any of the other's Confidential Information without its written consent, and shall use reasonable care to protect the other's Confidential Information, including ensuring that its employees and contractors with access (a) have a need to know for the purposes of this Agreement and (b) are bound by obligations of confidentiality at least as protective as those provided herein.
+Each party shall be responsible for any breach of confidentiality by its employees and contractors.
+Promptly after any termination of this Agreement (or at the disclosing party's request at any other time), the receiving party shall return all of the other's tangible Confidential Information, permanently erase all Confidential Information from any storage media and destroy all information, records and materials developed therefrom.
+Each party may disclose only the general nature, but not the specific terms, of this Agreement without the prior consent of the other party; provided, either party may provide a copy of this Agreement or otherwise disclose its terms in connection with any financing transaction or due diligence inquiry.
+==========
+6.2 Compelled Disclosure.
+Nothing herein shall prevent a receiving party from disclosing any Confidential Information as necessary pursuant to any court order, lawful requirement of a governmental agency or when disclosure is required by operation of law (including disclosures pursuant to any applicable securities laws and regulations); provided, that prior to any such disclosure, the receiving party shall use reasonable efforts to (a) promptly notify the disclosing party in writing of such requirement to disclose and (b) cooperate with the disclosing party in protecting against or minimizing any such disclosure or obtaining a protective order.
+7.
+==========
+PAYMENTS
+7.1  Fees.
+Customer agrees to pay Wistia the fees, in the amounts and at the times specified in the selected Plan.
+7.2 Credit Card Information.
+In order to set up an account with Wistia, Customer must provide Wistia with accurate and complete billing information including legal name, address, telephone number, and a valid credit card.
+Customer's card will never be charged without its authorization.
+By submitting such credit card information, Customer gives Wistia permission to charge all fees incurred through its account to the designated credit card.
+Wistia reserves the right to terminate this Agreement in accordance with Section 10 hereto if Customer does not provide a valid credit card for the payment of fees hereunder.
+7.3 Payment Terms.
+==========
+The Services are billed in advance on a monthly basis and such monthly fees are non-refundable.
+There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for months unused with an open account.
+For any upgrades or downgrade in Plan level, Customer's credit card will automatically be charged the new rate for the next billing cycle.
+==========
+7.4  Taxes.
+All payments are exclusive of federal, state, local and foreign taxes, duties, tariffs, levies, withholdings and similar assessments (including without limitation, sales taxes, use taxes and value added taxes), and Customer agrees to bear and be responsible for the payment of all such charges, excluding taxes based upon Wistia's net income.
+All amounts due hereunder shall be grossed-up for any withholding taxes imposed by any foreign government.
+8.
+==========
+LIMITED WARRANTY AND DISCLAIMERS
+8.1  Services.
+Wistia warrants that it will provide the Services in a manner consistent with general industry standards reasonably applicable to the provision thereof.
+Notwithstanding the foregoing, Services may be temporarily unavailable, when deemed reasonably necessary or prudent by Wistia to repair, maintain or upgrade the Services or for causes beyond Wistia's reasonable control.
+Wistia will notify Customer at least 48 hours in advance of any known Service-related outages.
+==========
+8.2  Disclaimers.
+EXCEPT AS SPECIFICALLY PROVIDED HEREIN, THE SERVICES ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+==========
+WISTIA DOES NOT WARRANT THAT THE SERVICES WILL MEET CUSTOMER'S REQUIREMENTS OR THAT THEIR OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE.
+TO THE FULLEST EXTENT PERMITTED BY LAW, WISTIA HEREBY DISCLAIMS (FOR ITSELF AND ITS SUPPLIERS) ALL OTHER WARRANTIES, WHETHER EXPRESS OR IMPLIED, ORAL OR WRITTEN, WITH RESPECT TO THE SERVICES INCLUDING, WITHOUT LIMITATION, ALL IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, QUIET ENJOYMENT, INTEGRATION, MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE AND ALL WARRANTIES ARISING FROM ANY COURSE OF DEALING, COURSE OF PERFORMANCE OR USAGE OF TRADE.
+9.
+==========
+LIMITATION OF LIABILITY
+EXCEPT FOR DEATH, BODILY INJURY OR FRAUD, AMOUNTS OWED TO THIRD PARTIES PURSUANT TO THE INDEMNIFICATION OBLIGATIONS HEREIN AND BREACHES OF SECTION 5.3, OR TO THE EXTENT THAT ANY EXCLUSION OR LIMITATION OF ITS LIABILITY IS VOID, PROHIBITED OR UNENFORCEABLE BY APPLICABLE LAW, IN NO EVENT SHALL EITHER PARTY (OR ITS SUPPLIERS) BE LIABLE CONCERNING THE SUBJECT MATTER OF THIS AGREEMENT, REGARDLESS OF THE FORM OF ANY CLAIM OR ACTION (WHETHER IN CONTRACT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE), FOR ANY (A) MATTER BEYOND ITS REASONABLE CONTROL (INCLUDING ANY ERROR OR DAMAGE ATTRIBUTABLE TO ANY NETWORK OR SYSTEM), (B) LOSS OR INACCURACY OF DATA, LOSS OR INTERRUPTION OF USE, OR COST OF PROCURING SUBSTITUTE TECHNOLOGY, GOODS or SERVICES, (C) INDIRECT, PUNITIVE, INCIDENTAL, RELIANCE, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES INCLUDING, BUT NOT LIMITED TO, LOSS OF BUSINESS, REVENUES, PROFITS OR GOODWILL, OR (D) ANY DIRECT DAMAGES, IN THE AGGREGATE, IN EXCESS OF THE AMOUNTS PAID TO WISTIA HEREUNDER WITH RESPECT TO THE SERVICES THAT GAVE RISE TO THE CLAIM DURING THE TWELVE-MONTH PERIOD PRIOR TO THE DATE THE CAUSE OF ACTION AROSE, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THESE LIMITATIONS ARE INDEPENDENT FROM ALL OTHER PROVISIONS OF THIS AGREEMENT AND SHALL APPLY NOTWITHSTANDING THE FAILURE OF ANY REMEDY PROVIDED HEREIN.
+10.
+==========
+TERM AND TERMINATION
+10.1  Term.
+This Agreement shall commence on the date that this Agreement is accepted and shall continue in effect for the initial term specified in the Plan (or if no such term is specified, then for 1 month).
+Unless terminated earlier as permitted herein, the Agreement will be extended automatically for additional terms of 1 month at the end of the initial term and each renewal term.
+Either party may elect not to renew this Agreement by giving written notice thereof to the other party at least 30 days prior to the end of the then current initial or renewal term.
+==========
+10.2 Non-Renewal Notice.
+Customer is solely responsible for properly notifying Wistia of its desire for this Agreement to not automatically renew by following the non-renewal directions available on the Wistia website, at: http://wistia.com.
+==========
+10.3  Termination.
+This Agreement may be earlier terminated by either party, in whole or in part, (a) if the other party materially breaches a provision of this Agreement and fails to cure such breach within 10 days (5 days in the case of non-payment) after receiving written notice of such breach from the non-breaching party, or (b) immediately upon written notice, if the other party makes any assignment for the benefit of creditors, or a receiver, trustee in bankruptcy or similar officer is appointed to take charge of any or all of the other party's property, or the other party seeks protection under any bankruptcy, receivership, trust deed, creditors arrangement, composition or comparable proceeding or such a proceeding is instituted against the other party and is not dismissed within 90 days, or the other party becomes insolvent or, without a successor, dissolves, liquidates or otherwise fails to operate in the ordinary course.
+10.4  Effects of Termination.
+==========
+Upon any expiration or termination of this Agreement, all rights, obligations and licenses of the parties shall cease, except that (a) all obligations that accrued prior to the effective date of termination (including without limitation, all payment obligations) shall survive, (b) Wistia may, but shall not be obligated to, delete archived Customer Data (provided, that upon Customer's written request received within 30 days after the effective date of termination, Wistia shall provide Customer with a copy of archived Customer Data in the currently existing archived format) and (c) the provisions of Sections 5 (Proprietary Rights), 6 (Confidentiality), 7 (Payments), 8.2 (Disclaimers), 9 (Limitation of Liability), 11 (General Provisions) and this Section 10 shall survive.
+11.
+==========
+GENERAL PROVISIONS
+11.1  Entire Agreement.
+This Agreement (together with the applicable Plan(s)) constitutes the entire agreement, and supersedes all prior negotiations, understandings or agreements (oral or written), between the parties about the subject matter of this Agreement.
+==========
+In the event of any conflict or inconsistency between the Services Agreement and the Plan, the terms and conditions in the Plan will prevail and be controlling, and the terms and conditions in the Services Agreement will prevail and be controlling over terms set forth in Customer's purchase order (or other similar document).
+Customer's purchase order is only effective as its unqualified commitment to access and pay for the Services upon the terms (and only the terms) set forth herein.
+==========
+No waiver, consent or, except as expressly provided herein, modification of this Agreement shall bind either party unless in writing and signed by the party against which enforcement is sought.
+The failure of either party to enforce its rights under this Agreement at any time for any period will not be construed as a waiver of such rights.
+If any provision of this Agreement is determined to be illegal or unenforceable, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable.
+If this Agreement is required to be registered with any governmental authority, Customer shall cause such registration to be made and shall bear any expense or tax payable in respect thereof.
+==========
+11.2  Governing Law.
+This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, USA, without regard to its conflicts of law provisions.
+==========
+Neither the United Nations Convention on Contracts for the International Sale of Goods nor any enactment of the Uniform Computer Information Transactions Act shall apply to this Agreement.
+The sole jurisdiction and venue for actions related to this Agreement will be the state or federal courts located in Massachusetts having jurisdiction over Wistia's offices, and both parties consent to the jurisdiction of such courts with respect to any such action.
+In any action or proceeding to enforce or interpret this Agreement, the prevailing party will be entitled to recover from the other party its costs and expenses (including reasonable attorneys' fees) incurred in connection with such action or proceeding and enforcing any judgment or order obtained.
+==========
+11.3  Remedies.
+Except as specifically provided otherwise, each right and remedy in this Agreement is in addition to any other right or remedy, at law or in equity.
+==========
+Each party agrees that, in the event of any breach or threatened breach of Section 4 or 5, the non-breaching party will suffer irreparable damage for which it will have no adequate remedy at law.
+Accordingly, the non-breaching party shall be entitled to injunctive and other equitable remedies to prevent or restrain such breach or threatened breach, without the necessity of posting any bond.
+==========
+11.4  Notices.
+Except as otherwise provided in Section 10.2, any notice or communication hereunder shall be in writing and either personally delivered or sent via confirmed facsimile, recognized express delivery courier or certified or registered mail, prepaid and return receipt requested, addressed to the other party at its address specified in the Plan, or at such other address designated in a subsequent notice.
+All notices shall be in English, effective upon receipt.
+==========
+11.5  Assignment.
+This Agreement and the rights and obligations hereunder may not be assigned, in whole or in part, by either party without the other party's written consent (which shall not be unreasonably withheld).
+However, without consent, either party may assign this Agreement to any successor to all or substantially all of its business which concerns this Agreement (whether by sale of assets or equity, merger, consolidation or otherwise).
+This Agreement shall be binding upon, and inure to the benefit of, the successors, representatives and permitted assigns of the parties hereto.
+==========
+11.6  Independent Contractors.
+The parties shall be independent contractors under this Agreement, and nothing herein will constitute either party as the employer, employee, agent or representative of the other party, or both parties as joint venturers or partners for any purpose.
+==========
+11.7 Publicity.
+Neither party will make public announcements or issue press releases relating to this Agreement or the terms hereof without the prior written consent of the other party, which consent shall not be unreasonably withheld or delayed.
+==========

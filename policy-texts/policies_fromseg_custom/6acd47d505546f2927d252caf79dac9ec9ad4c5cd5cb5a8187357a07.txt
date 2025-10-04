@@ -1,0 +1,118 @@
+RUN PRIVACY POLICY
+Who We Are and What We Do
+RUN, Inc. (“RUN”, “we”, “us” or our) is a technology solutions provider in the digital media marketplace.
+Our clients are primarily advertisers, ad agencies, Web site and app publishers, data providers, and other businesses that utilize our services.
+Our technology solutions (“Technology”) include programmatic advertising platforms that empower our clients with both self-serve and managed service capabilities, and include real-time bidding for media placement and analytics.
+Our Technology is used by advertisers to connect with consumers.
+By analyzing consumer data and targeting ad placement, we are able to optimize the performance of an ad campaign for an advertiser while providing a more relevant and meaningful online experience for consumers who view the ads we deliver.
+This policy describes our privacy practices with respect to the data we collect on behalf of our clients through our Technology, as well as the information collected on our own Web site.
+RUN is committed to privacy and this policy outlines the kinds of information we collect, how we collect information, how we use and disclose collected information, and how you can control, correct and/or update the information.
+==========
+We support industry self-regulation and adhere to applicable industry guidelines.
+RUN is a member in good standing of industry associations that establish best practices in the area of online advertising, including the Interactive Advertising Bureau (“IAB”), the Digital Advertising Alliance (“DAA”), and the Mobile Marketing Association.
+RUN adheres to the IAB Code of Conduct and the Self-Regulatory Principles for Online Behavioral Advertising.
+RUN complies with the cross-industry enhanced notice standard as set forth in the Self-Regulatory Program for Online Behavioral Advertising.
+==========
+To that end, advertisements served through RUN’s Technology may include the AdChoices icon which alerts consumers that information used to infer their interests is being gathered or used to improve the ads they view.
+The AdChoices icon also allows consumers to control how their information is collected and used.
+Data Collection for Our Clients
+Information We Collect
+Our Technology does not collect what is generally considered Personally Identifiable Information (“PII”), which is information that can be used to uniquely identify an individual, such as your name, physical address, e-mail address, Social Security Number, credit card number, account numbers, passwords or personal health information.
+As part of the process of delivering ads through our Technology, we do collect non-Personally Identifiable Information (“non-PII”) about your interaction with our Technology.
+Non-PII cannot be linked to a specific individual and may include information such as your device (e.g., a computer, tablet, smartphone, gaming console or smart/connected TV), the date and time of your visit, browser type, web pages visited when viewing an ad, and information about your interaction with our Technology when viewing content on your device, including whether you interacted with the advertisement (viewed a video ad to completion or clicked on an ad), and what content you viewed (which advertisement we delivered to you).
+==========
+For example, if you visit a number of automobile-related Web sites, you may be flagged as being interested in purchasing an automobile.
+RUN also obtains non-PII such as behavioral, contextual and demographic data from third party providers that we can use to serve targeted ads.
+RUN’s Technology may process non-PII data points to retarget a user across multiple devices.
+==========
+In order to provide content-relevant ads to mobile users we may also collect carrier IDs, information about the apps you use and the location of your device if you have elected to provide that information to the publishers with whom we have partnered.
+How We Collect Information
+For non-PII that we collect, directly or indirectly, we typically employ the use of “pixel tags” and/or “cookies,” which are commonly used on the Internet.
+Pixel tags and cookies help us understand how you use a publisher’s Web site and the effectiveness of an ad so that we can more accurately deliver the types of ads that are relevant to your interests.
+We cannot use pixel tags or cookies to personally identify you and they do not in any way damage your operating system or files.
+You can refuse cookies, but doing so may result in the receipt of the same ads or ads that do not cater to your interests.
+Pixel tags are small bits of code that reside on a webpage and provide a method of information delivery allowing the operator of the page or a third party to collect information about the visitors to the page.
+Cookies are small text files that are stored on the browser of your computer that assign an anonymous identifier to your browser and provide information to the cookie sender.
+In addition to cookies, RUN also uses mobile identifiers such as device IDs that are specific to a user’s hardware, as well as statistical methods for identifying a user across multiple devices with a high degree of accuracy.
+==========
+How We Use Information Collected Through Our Technology
+RUN uses non-PII it receives and collects through its Technology to tailor, target, and assess the effectiveness of the ads we deliver to you, and to avoid showing you the same ads repeatedly.
+Our analysis includes contextual and demographic elements, behaviors and viewing preferences, and we use this information to predict the characteristics and preferences of the viewers on sites that use our Technology.
+We report this information to our advertiser clients in an aggregated, anonymous form to assist them in targeting their ad campaigns to a relevant Internet audience, and to our Web site owner clients to gain an understanding of the general make-up of individuals who visit their site(s).
+Collectively, this information assists advertisers and Web site owners in delivering effective ad campaigns to their audience and allows for a more relevant and meaningful ad experience for the consumer.
+==========
+We may offer our clients the use of a data management platform to enable them to manage their own customer data.
+Each of our client’s own privacy policy governs the collection and use of this data.
+However, if you opt out of our services by following the instructions below, you will also opt out of our clients’ use of the data management platform to influence the types of marketing messages and other content that are displayed to you.
+Data Collection from Our Company Web site
+We only collect PII from our Web site when you choose to provide it to us.
+For example, if you subscribe to our blog, request a demo of our Technology or submit a resume.
+We use this information only to contact you to respond to your inquiry.
+==========
+Once collected, we will maintain your PII for a reasonable time for internal business purposes.
+We also collect non-PII via the site through the use of various technologies, including cookies, pixel tags and device IDs.
+We use non-PII collected on our Web site for internal purposes only, such as to administer, improve and customize the Web site and to enable us to better understand how our Web site is being used by visitors in order to enhance their overall experience.
+We use cookies to make it easier for you to navigate our Web site and to enable us to track and target the interests of our users to improve our online presence.
+Most browsers automatically accept cookies by default, but you can adjust the preferences in the browser of your computer or device to warn you each time a cookie is being sent, or to block some or all cookies.
+While you may still use our site if you reject cookies, your ability to use some areas of our site may be limited.
+==========
+When you turn on Do Not Track (DNT) in your browser, RUN responds by not collecting your information, either directly or through third parties, for the purpose of serving targeted ads based on your browsing history.
+Opting Out and Reviewing Your Ad Preferences
+Your right to make informed decisions about information collection is important to RUN.
+In the event you have voluntarily provided PII to RUN through our company Web site and wish to edit or have it removed from our database completely, please contact us at privacy@runads.com.
+==========
+Please know that in order for us to respond to your request we may require that you verify your identity.
+You also have the choice of opting out of receiving targeted advertising based on aggregated, anonymous information collected through our Technology.
+If you do not want to receive more relevant advertising, customized to your interests, please click here.
+==========
+When you opt out, we will place a cookie in your web browser that identifies you as opted-out.
+Our Technology will recognize your opt out cookie and will preclude advertisers using RUN Technology from displaying targeted ads to you.
+However, the choice to opt out is unique to the browser in which you set it and you may need to repeat your opt out election if you use a different computer or change browsers.
+Also, the opt-out cookie cannot be set if your browser is configured to block third-party cookies.
+Opting out does not prevent the use of cookies or similar means for purposes other than serving interest-based ads derived from your online behavior.
+If you opt out, data may still be collected about your web browsing activities.
+While you will not receive ads based on your interests derived from your online behavior, you will still see advertising, including contextual ads that are based on the content of the web page that you visit.
+To learn more about interest-based advertising, and to access the opt outs of other online advertising companies, visit the Network Advertising Initiative at http://www.aboutads.info/choices/
+Information Sharing and Disclosures
+Except for non-PII data collected through the Technology and provided to our clients, partners, and service providers in an anonymous format to operate or enhance our services, or as required by law, RUN does not rent, sell or share the information collected through the Technology with third parties.
+==========
+In providing its Technology services, RUN works with a variety of third-party vendors and partners.
+These include advertisers, publishers, data providers, content providers, and other service providers.
+RUN may share anonymous, non-PII with them, including statistical, demographic, contextual, behavioral and predictive data, about our users and their use of the Technology, to the extent necessary for RUN to provide the Technology services.
+We may also enhance the non-PII collected via our Technology with non-PII collected from trusted business partners.
+Such information remains anonymous, non-PII and cannot be used to contact or identify any person individually.
+==========
+RUN may share information about individuals as it deems reasonably necessary in order to comply with applicable law, to exercise and protect the legal rights of RUN or its personnel and representatives, and to investigate, prevent or respond to suspected illicit activities, including fraud and threats of harm to individuals.
+If RUN sells all or part of its business, or if any of its departments or technology is acquired or merged with another company, we may transfer information about you, including PII submitted by you on our Web site, to the successor company as part of that transaction.
+Security
+RUN has established reasonable safeguards consistent with industry standards and applicable law, to help prevent unauthorized access, disclosure, modification or destruction of the information we collect.
+==========
+While we are committed to ensuring the security of the information data, you should be aware that no data protection measures can provide 100% guarantee of security.
+Consequently, we -- like everyone else -- cannot warrant or guarantee the complete security of the data in our possession.
+Data Retention
+The amount of time that we retain information on our systems varies in length based on the type of data collected, but is only retained by us so long as necessary to carry out the purposes described in this privacy policy.
+RUN maintains non-PII for a maximum of two years unless required to do otherwise by law, and we reserve the right to delete such information at our convenience.
+Summarized data, consisting of aggregated statistical data not attributable to a uniquely identifiable entity, may be stored indefinitely.
+==========
+Third Party Advertisers and Links
+RUN’s privacy policy does not apply to information collected by third-party advertisers, Web site owners, data providers, or other parties that we may do business with, or other parties linked to our company Web site or otherwise accessible via our Technology.
+This privacy policy applies only to information collected through RUN Technology and by this Web site.
+The information collected or received by any third-party or provider is subject to that company’s own privacy policy.
+This Web site contains links to other sites that are not owned or controlled by RUN.
+Please be aware that we are not responsible for the privacy practices of such third parties or the privacy policies governing their Web sites.
+Children’s Privacy
+We do not intentionally collect information PII or non-PII from, and do not create user segments targeted for, children under 13 years of age.
+If you believe your child or someone else has provided RUN with PII about your child and you would like to have the data removed, please contact us.
+==========
+How to Contact Us
+If you have any questions or concerns about RUN’s privacy policy, you may contact us at this email address: privacy@runads.com, or you can send correspondence to the following address:
+
+    RUN, Inc.
+243 West 30th Street, 6th Floor
+    New York, New York 10001 
+  
+Changes to this Privacy Policy and Additional Information
+RUN may update this policy from time to time, so you should review this policy periodically.
+You may be provided other privacy-related information in connection with your use of our Technology as well as for special feature and services not described in this policy that may be introduced in the future.
+This Privacy Policy was last updated in April, 2014.
+==========

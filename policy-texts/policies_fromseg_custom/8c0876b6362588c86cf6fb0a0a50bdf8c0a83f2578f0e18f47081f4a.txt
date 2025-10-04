@@ -1,0 +1,326 @@
+THIS AGREEMENT GOVERNS YOUR ACQUISITION AND USE OF THE APPBOY SERVICES.
+BY USING THE APPBOY SERVICES, YOU ARE AGREEING TO COMPLY WITH THIS AGREEMENT.
+DO NOT USE THE APPBOY SERVICES IF YOU DO NOT AGREE WITH ALL THE TERMS OF THIS AGREEMENT.
+==========
+DEFINITIONS “Affiliate” shall mean, with respect to a party, any entity, whether incorporated or not, that directly or indirectly controls, is controlled by, or is under common control with such party or its corporate parent, where “control” (or variants of it) shall mean the ability (whether directly or indirectly) to direct the affairs of another by means of ownership, contract or otherwise.
+“Appboy Services” shall mean products and services that are ordered by You under an Order Form and made available to You, including the Appboy SDK, the online access to the Appboy Dashboard and associated online and offline components, as more fully described in the Documentation and at https://www.appboy.com, and shall exclude Beta Services.
+“Billable Users or BU’s” shall mean the number of end-users who have recorded a session in a Customer Application or website in the previous thirty (30) days, or who are messaged or updated via the dashboard of the Appboy Services or APIs through the Appboy Services.
+BU’s are calculated nightly with a rolling 30-day window.
+==========
+“Confidential Information” shall have the meaning set forth in Section 6.
+“Customer Application” shall mean Your products, services or application as made available to Your end users.
+“Data Points” shall refer to a billable unit of use of the Appboy Services, measured by a session start, session end, custom event or purchase recorded, as well as any attribute set on an end user profile.
+Data and events automatically collected by the Appboy Services including, for example, push tokens, device information, location data and all campaign engagement tracking events, such as email opens and push notification clicks, are not counted as Data Points.
+In addition, the setting of an end user’s social network profile information at one point in time shall count as a single Data Point.
+“Documentation” shall mean the online Documentation for the Appboy Services, accessible via https://www.appboy.com, as updated from time to time.
+==========
+“Malicious Code” shall mean viruses, worms, time bombs, Trojan horses and other harmful or malicious code, files, scripts, agents or programs.
+“Monthly Active Users or MAUs” shall mean the number of end-users who have recorded a session in a Customer Application or website in the previous thirty (30) days, calculated nightly on with a rolling 30-day window.
+We reserve the right to reclassify active MAUs to an inactive status after such MAU has had no changes in its user profile or has not been messaged by You for a period in excess of 180 days.
+==========
+“Order Form” shall mean the ordering documents for Your purchases of Services from Us that are executed hereunder by the parties from time to time, including any supplements or addenda thereto.
+“Personal Information” shall mean any information relating to an identified or identifiable person where such data is submitted to the Appboy Services as Your Data.
+“SDK” shall mean any of the Appboy Software Development Kits, that we make available to You from time to time pursuant to the terms hereof.
+“Start Date” shall mean the date on which Appboy shall make the Appboy Services available to You as set forth herein.
+“Subscription Term” shall mean the subscription period set forth on an applicable Order Form.
+“Term” shall have the meaning set forth in Section 10.1.
+“Third Party Providers” shall mean a third party provider through which Your content or functionality interoperates with the Appboy Services, or through which Your content is distributed or accessed such as Google, Facebook, Apple, Microsoft, or Amazon.
+“User” means an individual who is authorized by You to use a Service, for whom You have ordered the Service, and to whom You (or We, at Your request) have supplied a user identification and password.
+Users may include, for example, Your employees, consultants, contractors and agents, and third parties with whom You transact business.
+==========
+“We,” “Us” or “Our” means Appboy, Inc., a Delaware corporation.
+“You” or “Your” means the company or other legal entity for which you are accepting this Agreement, and Affiliates of that company or entity.
+“Your Data” shall mean all electronic data or information submitted by You to the Appboy Services.
+APPBOY SERVICES 2.1 Provision of Appboy Services.
+We shall make the Appboy Services available to You pursuant to this Agreement and all Order Form during a Subscription Term.
+Your purchase of Appboy Services is not contingent upon the delivery of any future functionality or features, or dependent on any oral or written public comments made by Us regarding future functionality or features.
+==========
+In addition, We reserve the right to reclassify a BU as “inactive” and to archive Your Data with respect to inactive end users if, for a period exceeding six (6) months, such end user hasn’t used any Customer Application or been updated or messaged by You,  We may also move an end user to an inactive status if, for a period exceeding twelve (12) months, You do not have current contact information and therefore do not have the ability to send, and have not sent, email or push notifications to such end user.
+We expressly reserve all rights, including all of their related intellectual property rights, not expressly granted to You hereunder.
+2.2 Your Affiliates.
+Your Affiliates may purchase and use subscriptions to the Application Services subject to the terms of this Agreement by executing Order Forms hereunder.
+This Agreement shall apply to such Affiliates and such Affiliates shall be deemed to be “You” as contemplated herein.
+==========
+2.3 Riders for Certain Additional Services.
+If You desire to purchase certain marketing solutions, such as email, as part of the Appboy Services, You acknowledge that certain additional terms and conditions may apply to the provision of such additional services.
+You must execute a Rider to this Agreement in connection with the purchase of such additional services.
+==========
+USE OF THE APPBOY SERVICES 3.1 Our Responsibilities.
+We shall: (a) provide the Appboy Services in a manner consistent with general industry standards reasonably applicable to the provision thereof; (b) use commercially reasonable efforts to ensure that the Appboy Services perform in material compliance with the Documentation; (c) use commercially reasonable efforts to make the Appboy Services available 24 hours a day, seven days a week, except for: (i) planned downtime (for which We shall make good faith efforts to give at least twenty-four (24) hours notice provided via email or through the Appboy Services and/or by other means, and which Appboy shall schedule to the extent reasonably practicable from 10:00 PM until 7:00 AM, EST); or (ii) any unavailability caused by circumstances beyond Our reasonable control, including without limitation, acts of God, acts of government, flood, fire, earthquakes, civil unrest, acts of terror, strikes or other labor problems (other than those involving Our employees), computer, telecommunications, internet service provider, Third Party Providers, or hosting facility failures or delays involving hardware, software or power systems not within Our possession or reasonable control, and denial of service attacks; and (d) provide the Services in accordance with applicable laws and governmental regulations when used according to this Agreement and the Documentation.
+3.2 Your Responsibilities.
+==========
+You are responsible for all activities that occur in Your account(s) and for Users’ compliance with this Agreement.
+You shall: (a) have sole responsibility for the accuracy, quality, integrity, legality, reliability, and appropriateness of all Your Data; (b) prevent unauthorized access to, or use of, the Appboy Services, and notify Us promptly of any such unauthorized access or use; (c) use commercially reasonable attempts to comply with requests made by Us to update various features or functionalities within the Appboy Services to optimize performance of the Appboy Services to customers generally; and (d) comply with all applicable local, state, federal and foreign laws and applicable Third Party Provider terms of service in using the Appboy Services.
+You understand and acknowledge that: (i) We may, in Our reasonable discretion, refuse to distribute any message content that We reasonably believe is defamatory, infringing, or otherwise unlawful; (ii) We may, in Our reasonable discretion, refuse to distribute any messages to any recipient that We reasonably believe is unlawful; and (iii) We have no obligation to review message content, recipient addresses or any other of Your Data.
+3.3 Registration and Subscriptions.
+You must have an account to access and use the Appboy Services and must register at http://www.appboy.com.
+==========
+3.4 Protection of Your Data.
+We will maintain administrative, physical and technical safeguards for the protection of the security, confidentiality and integrity of Your Data.
+Those safeguards will include, but will not be limited to, measures for preventing access, use modification or disclosure of Your Data by Our personnel except (a) to provide the Services and prevent or address service or technical problems, (b) as compelled by law in accordance with the Confidentiality section below, or (c) as expressly permitted in writing by You.
+Additionally, You acknowledge and agree that the Appboy Services may collect information, including Personal Information, of Your end users.
+You are responsible for ensuring that You have all necessary consents and approvals, and have made such disclosures, as shall be necessary or desirable to enable You to process such Personal Information in accordance with all applicable laws.
+==========
+3.5 Use Guidelines.
+You shall use the Appboy Services solely for Your internal business purposes as contemplated by this Agreement and shall not: (a) license, sublicense, sell, resell, rent, lease, transfer, assign, distribute, time share or otherwise commercially exploit or make the Appboy Services available to any third party, including providing directly or indirectly to any third party a time-share or subscription service or to function as a service bureau or application service provider, except as expressly contemplated by this Agreement; (b) send via or store within the Appboy Services infringing, obscene, threatening, defamatory, fraudulent, abusive, or otherwise unlawful or tortious material, including material that is harmful to children or violates third party privacy rights; (c) imitate or impersonate another person or his, her or its email or other address or contact information, (ii) create false accounts for the purposes of sending unsolicited messages (spam), or (iii) send messages to individuals who have asked not to receive future messages from Customer (opted out); (d) send via, upload to, or store within the Appboy Services any Malicious Code; (e) interfere with or disrupt the integrity or performance of the Appboy Services or the data contained therein; or (f) attempt to gain unauthorized access to the Appboy Services or its related systems or networks.
+3.6 Legal Requirements.
+3.6.1.
+==========
+Restricted Data.
+The Appboy Services may not be used for any purpose related to establishing an individual’s eligibility for credit, employment or insurance, or for any other consumer-initiated transaction, as such terms are defined in the U.S. Fair Credit Reporting Act or any similar law.
+You shall not submit to the Appboy Services or use the Appboy Services to collect, store or process sensitive personal information, including, without limitation (a) social security numbers, passport numbers, military numbers, voter numbers, driver’s license numbers, taxpayer numbers, or other government identification numbers; (b) Protected Health Information (as defined in the U.S. Health Insurance Portability and Accountability Act of 1996 and regulations thereunder, as amended “HIPAA”) or similar information under other comparable laws or regulations, or (c) financial account numbers (including, without limitation credit or debit card numbers, or any related security codes or passwords, bank account information or Non-Public Information (as defined in the Gramm-Leach-Bliley Act of 1999, as amended “GLBA”) or similar information under other comparable laws or regulations.
+==========
+3.6.2 Customer Applications.
+You shall (a) include a link to Your privacy policy on any Customer Application, store product information page or such other location that shall enable Your end users to access and read Your privacy policy prior to downloading or purchasing any Customer Application; (b) ensure that Your end users agreements and/or privacy policy shall fully disclose to such end users the types of information that shall be collected by Customer’s Application and the ways that You shall use and share such information, including the sharing of such information with third parties, such as Us , and (c) not (i) knowingly allow children under the age of 13 to access the Appboy Services.
+If the Customer Application is developed, marketed, advertised or directed to children under 13, or if You collect Personal Information of children under 13, You represent that You have parental consent to collect such Personal Information of children under 13, and You further agree to indemnify Us and hold Us harmless for any violations of applicable law arising from the collection of such data in connection with Your use of the Appboy Services.
+For the avoidance of doubt, the parties agree that the liability for any actions or activities involving children under the age of 13 in connection with any Customer Application shall be Your sole and exclusive responsibility.
+==========
+3.6.3 Cookies and Tracking Technologies.
+To the extent You uses cookies or other tracking technologies, You shall be solely responsible (i) for assessing whether such technologies can be used in compliance with applicable legal requirements, and (ii) for providing notice and/or obtaining consent, as may be required by law, for such use of cookies and/or other tracking technologies.
+We disclaim any liability to You or any third party arising from Your use of any cookies and/or tracking technologies.
+==========
+3.7 Third-Party Provider Interaction.
+You shall enable the Appboy Services to access Your Third-Party Provider accounts and any websites operated by You or on Your behalf with respect to which You are using the Appboy Services.
+Subject to the terms of this Agreement, You acknowledge and agree that We may access, collect, process, and/or store information or content from such Third-Party Provider accounts and/or websites in connection with providing the Appboy Services.
+Except for Our obligations with respect to Your Data, We shall not be responsible or liable for: (i) any content provided by You or Your end users to any Third-Party Provider or other website, and any content accessed by You, Your end users, or any third party from any Third-Party Provider or other website, (ii) any interactions or communications between You and/or Your end users and any third parties through any Third-Party Provider or other websites, or (iii) any transactions relating to a separate agreement or arrangement between You or Your end users and any Third-Party Provider or website.
+==========
+FEES & PAYMENT 4.1 Services Fees.
+You shall pay all fees specified on the Order Form entered into hereunder.
+Fees are based on the Appboy Services purchased and not actual usage; payment obligations are non-cancelable; fees paid are non-refundable; and the Appboy Services purchased cannot be decreased during the relevant Subscription Term.
+4.2 Invoicing and Payment.
+==========
+Except as otherwise provided, all fees are quoted and payable in United States dollars.
+Fees for Services will be invoiced in advance and in accordance with the applicable Order Form.
+You shall pay invoices as stated in such Order Form.
+You are responsible for maintaining complete and accurate billing and contact information within the Appboy Services.
+==========
+4.3 Overdue Payments.
+Your failure to pay undisputed invoices as set forth herein shall constitute a material breach of this Agreement and We may impose late fees as contemplated in each order Form.
+If Your account is 30 days or more overdue, We may, in addition to any of Our other rights or remedies, suspend Your access to the Appboy Services, until such amounts are paid in full.
+If such failure to pay has not been cured within 30 days of the due date, then upon written notice, We may terminate this Agreement and any or all outstanding Order Forms.
+4.4 Payment Disputes.
+We shall not exercise Our rights under the “Overdue Payments” section above if You are disputing the applicable charges reasonably and in good faith and are cooperating diligently to resolve the dispute.
+==========
+4.5 Taxes.
+Our fees do not include any direct or indirect local, state, federal or foreign taxes, levies, duties or similar governmental assessments of any nature, including value-added, use, sales or withholding taxes collected by any jurisdiction whatsoever (collectively, “Taxes”).
+You are responsible for paying all Taxes associated with Your purchases hereunder, excluding taxes based on Our net income or property.
+If We have the legal obligation to pay or collect Taxes for which You are responsible under this Section, the appropriate amount shall be invoiced to and paid by You, unless You provide Us with a valid tax exemption certificate authorized by the appropriate taxing authority.
+==========
+PROPRIETARY RIGHTS 5.1 Reservation of Rights.
+Subject to the limited rights expressly granted hereunder, We reserve all rights, title and interest in and to the Appboy Services, including all related intellectual property rights.
+No rights are granted to You hereunder other than as expressly set forth herein.
+5.2 Restrictions.
+You shall not (a) modify, copy or create derivative works based on the Appboy Services; (b) frame or mirror any content forming part of the Appboy Services, other than on Your own intranets or otherwise for Your own internal business purposes; (c) reverse engineer the Appboy Services; (d) alter, remove or suppress in any manner any copyright, trademark or other notices displayed by the Services; or (e) access the Appboy Services in order to (i) build a competitive product or service, or (ii) copy any ideas, features, functions or graphics of the Appboy Services.
+==========
+5.3 Your Data.
+As between You and Us, You exclusively own all rights, title and interest in and to all of Your Data.
+We shall not access Your User accounts, including Your Data, except to (i) provide the Appboy Services, (ii) to respond to service or technical problems, or (iii) at Your request.
+Notwithstanding the foregoing, You grant to Us a worldwide, non-exclusive, royalty-free license to aggregate or compile Your Data with other data, including the customer data of Our other customers, so long as such aggregation or compilation omits any data that would enable the identification of You, your clients, or any individual, company or organization (“Aggregated Data”), solely to (i) provide the Services, (ii) to obtain feedback on and improve the Appboy Services, and (iii) to provide consultative and analytical information to our customers generally.
+We shall have a worldwide, perpetual, royalty-free license to use, modify, distribute and create derivative works based on such Aggregated Data, including all reports, statistics or analyses created or derived therefrom (“Aggregated Data Reports”).
+We shall own all right, title and interest in and to the Aggregated Data Reports.
+==========
+5.4 License to Use Feedback.
+You grant to Us a worldwide, perpetual, irrevocable, royalty-free license to use and incorporate into the Appboy Services any suggestion, enhancement request, recommendation, correction or other feedback provided by You or Users relating to the operation of the Appboy Services.
+5.5 Improvements and Customizations.
+5.5.1 By Us.
+==========
+We shall own all rights, title and interest, including all intellectual property rights, in and to any improvements to the Appboy Services or any new programs, upgrades, modifications or enhancements developed by Us in connection with providing the Appboy Services to You, even when refinements and improvements result from Your request.
+To the extent, if any, that ownership in such refinements and improvements does not automatically vest in Us by virtue of this Agreement or otherwise, You hereby transfer and assign (and, if applicable, shall cause Your Affiliates to transfer and assign) to Us all rights, title, and interest which You or Your Affiliates may have in to such refinements and improvements.
+5.5.2 By You.
+You shall own all rights, title and interest, including all intellectual property rights in and to any customizations, external dashboards, and other functionality that is built in Your systems, but is external to the Appboy Services.
+For clarity, such customizations may interoperate with the Appboy Services but do not on their own include or in any way incorporate any of Our Confidential Information or components of the Appboy Services.
+==========
+5.6 Pre-Existing Intellectual Property.
+All intellectual property rights owned by either party prior to the Effective Date, are and will remain the sole and exclusive property of that party (the “Pre-existing IP”).
+For avoidance of doubt, Pre-existing IP shall also include any intellectual property rights created independently by a party.
+5.7 Publicity; Trademarks.
+Neither party may issue press releases or any other public announcement of any kind relating to this Agreement without the other party’s prior written consent; provided, however, that You hereby consent to the use by Us of Your name and logo in a published listing of Our customers, for use in Our marketing materials, on Our website and in connection with Our presentations, proposals and promotional materials and activities.
+==========
+5.8 Federal Government End Use Provisions.
+We provide the Appboy Services, including related software and technology, for ultimate federal government end use solely in accordance with the following: Government technical data and software rights related to the Appboy Services include only those rights customarily provided to the public as defined in this Agreement.
+This customary commercial license is provided in accordance with FAR 12.211 (Technical Data) and FAR 12.212 (Software) and, for Department of Defense transactions, DFAR 252.227-7015 (Technical Data-Commercial Items) and DFAR 227.7202-3 (Rights in Commercial Computer Software or Computer Software Documentation).
+If a government agency has a need for rights not granted under these terms, it must negotiate with Us to determine if there are acceptable terms for granting those rights, and a mutually acceptable written addendum specifically granting those rights must be included in any applicable agreement.
+==========
+CONFIDENTIALITY 6.1 Definition of Confidential Information.
+As used herein, “Confidential Information” means all confidential and proprietary information of a party (“Disclosing Party”) disclosed to the other party (“Receiving Party”) that (a) if disclosed orally is designated as confidential at the time of disclosure, (b) if disclosed in writing is marked as “Confidential” and/or “Proprietary”, or (c) that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure, including, without limitation, the terms and conditions of this Agreement (including pricing and other terms reflected in all Order Forms hereunder), Your Data, provision of the Services, business and marketing plans, technology and technical information, product designs, and business processes.
+Notwithstanding the foregoing, each party may disclose the existence and terms of this Agreement, in confidence, to a potential purchaser of or successor to any portion of such party’s business resulting from the reorganization, spin-off, or sale of all or a portion of all of the assets of any business, division, or group of such party.
+Confidential Information (except for Your Data) shall not include any information that: (i) is or becomes generally known to the public without breach of any obligation owed to the Disclosing Party; (ii) was known to the Receiving Party prior to its disclosure by the Disclosing Party without breach of any obligation owed to the Disclosing Party; (iii) was independently developed by the Receiving Party without breach of any obligation owed to the Disclosing Party; or (iv) is received from a third party without breach of any obligation owed to the Disclosing Party.
+==========
+6.2 Confidentiality.
+The Receiving Party shall (i) use the same degree of care that it uses to protect the confidentiality of its own confidential information of like kind (but in no event less than reasonable care), (ii) not use any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement, and (iii) except as otherwise authorized by the Disclosing Party in writing, limit access to Confidential Information of the Disclosing Party to those of its and its Affiliates’ employees, contractors and agents who need such access for purposes consistent with this Agreement and who have signed agreements with the Receiving Party containing protections no less stringent than those herein.
+Neither party shall disclose the terms of this Agreement or any Order Form to any third party other than its Affiliates and their legal counsel and accountants without the other party’s prior written consent.
+6.3 Compelled Disclosure.
+If the Receiving Party is compelled by law to disclose Confidential Information of the Disclosing Party, it shall provide the Disclosing Party with prior notice of such compelled disclosure (to the extent legally permitted) and reasonable assistance, at Disclosing Party’s cost, if the Disclosing Party wishes to contest the disclosure.
+6.4 Remedies.
+If the Receiving Party discloses or uses (or threatens to disclose or use) any Confidential Information of the Disclosing Party in breach of confidentiality protections hereunder, the Disclosing Party shall have the right, in addition to any other remedies available to it, to seek injunctive relief to enjoin such acts, it being specifically acknowledged by the parties that any other available remedies are inadequate.
+6.5 Survival.
+Notwithstanding the expiration or termination of this Agreement for any reason, the obligations of confidentiality and non-use set forth in this Section shall extend for a period of two years after such expiration or termination.
+==========
+WARRANTIES & DISCLAIMERS 7.1 Mutual Warranties.
+Each party represents and warrants that it has the legal power to enter into this Agreement; and this Agreement will constitute the legal, valid and binding obligation of each party, enforceable in accordance with its terms.
+7.2 Your Warranties.
+You represent and warrant that You shall not use the Appboy Services in a manner that violates any international, federal, state or local law or regulation.
+7.3 Our Warranties.
+We represent and warrant that: (a) the functionality of the Appboy Services will not be materially decreased during a Subscription Term; (b) We shall utilize software and other security means to prevent the Appboy Services from containing or transmitting Malicious Code, provided it is not a breach of this subpart (b) if You or any of Your Users uploads a file containing Malicious Code into the Appboy Services and later downloads that file containing Malicious Code.
+For any breach of a warranty in this Section 7.3, Your exclusive remedy shall be as provided in the “Termination for Cause” section below.
+==========
+7.4 Disclaimer.
+EXCEPT AS OTHERWISE SPECIFICALLY PROVIDED HEREIN, THE SERVICES ARE PROVIDED “AS IS” AND “WITH ALL FAULTS” AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE EXPRESSLY DISCLAIM ANY AND ALL WARRANTIES, CONDITIONS, REPRESENTATIONS, AND GUARANTEES WITH RESPECT TO THE SERVICES, WHETHER EXPRESS OR IMPLIED, ARISING BY LAW, CUSTOM, PRIOR ORAL OR WRITTEN STATEMENTS, OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+NO REPRESENTATION OR OTHER AFFIRMATION OF FACT, INCLUDING, WITHOUT LIMITATION, STATEMENTS REGARDING CAPACITY, SUITABILITY FOR USE OR PERFORMANCE OF THE SERVICES, NOT CONTAINED IN THIS AGREEMENT SHALL BE DEEMED TO BE A WARRANTY BY US.
+WE MAKE NO WARRANTY OF ANY KIND TO YOU OR ANY THIRD PARTY WITH RESPECT TO ANY THIRD PARTY SOFTWARE USED BY YOU IN CONNECTION WITH THE APPBOY SERVICES.
+==========
+MUTUAL INDEMNIFICATION 8.1 Indemnification by Us.
+We shall defend, indemnify and hold You harmless against any loss, damage or costs finally awarded against You (including reasonable attorneys’ fees) incurred in connection with claims, demands, suits or proceedings (“Claims”) made or brought against You by a third party alleging (a) that Your use of the Appboy Services within the scope of this Agreement infringes the intellectual property rights of such third party, (b) a breach by Us of Our confidentiality obligations under Section 6 hereof; or (c) arising out of Our gross negligence or willful misconduct; provided, however, that We shall have no such indemnification obligation under subsection (a) above to the extent such infringement: (i) relates to use of the Appboy Services in combination with other software, data products, processes, or materials not provided by Us and the infringement would not have occurred but for the combination; (ii) arises from or relates to modifications to the Appboy Services not made or authorized by Us; or (iii) where You continue the activity or use constituting or contributing to the infringement after notification thereof by Us.
+We shall have no obligation to indemnify You to the extent any Claim arises from Your use of any Third Party Platform or Your use of the Appboy Sevices in breach of this Agreement.
+8.2 By You.
+You shall defend, indemnify, and hold Us harmless against any loss, damage, or costs finally awarded against Us (including reasonable attorneys’ fees) incurred in connection with a Claim made or brought against Us by a third party alleging that (a) Your use of the Appboy Services in other than in compliance with this Agreement violates applicable law; (b) Your Data infringes the intellectual property rights of a third party; or (c) a breach by You of Your confidentiality obligations under Section 6 hereof.
+==========
+8.3 Procedure.
+As an express condition to the indemnifying party’s obligation under this Section 8, the party seeking indemnification must: (a) promptly notify the indemnifying party in writing of the applicable Claim for which indemnification is sought; (b) give the indemnifying party sole control of the defense and settlement of the Claim (except that the indemnifying party may not settle a Claim unless it unconditionally releases the indemnified party of all liability; and (c) provide the indemnifying party with all non-monetary assistance, information and authority reasonably required for the defense and settlement of such Claim.
+8.4 Exclusive Remedy.
+This “Mutual Indemnification” section states the indemnifying party’s sole liability to, and the indemnified party’s exclusive remedy against, the other party for any type of claim described in this section.
+==========
+LIMITATION OF LIABILITY 9.1 Limitation of Liability.
+NEITHER PARTY’S LIABILITY WITH RESPECT TO ANY SINGLE INCIDENT ARISING OUT OF OR RELATED TO THIS AGREEMENT WILL EXCEED THE AMOUNT PAID BY YOU HEREUNDER IN THE TWELVE MONTHS PRECEDING THE INCIDENT GIVING RISE TO LIABILITY, PROVIDED THAT IN NO EVENT SHALL EITHER PARTY’S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, EXCEED THE TOTAL AMOUNT PAID BY YOU HEREUNDER.
+HOWEVER, THE ABOVE LIMITATIONS WILL NOT LIMIT YOUR AND YOUR AFFILIATES’ PAYMENT OBLIGATIONS HEREUNDER.
+==========
+9.2 Exclusion of Consequential and Related Damages.
+IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, PUNITIVE, CONSEQUENTIAL OR SPECIAL DAMAGES OF ANY KIND OR NATURE HOWEVER CAUSED AND, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THE FOREGOING DISCLAIMER WILL NOT APPLY TO THE EXTENT PROHIBITED BY LAW.
+==========
+9.3 Time to File Claim.
+NO CLAIM MAY BE BROUGHT BY YOU UNDER THIS AGREEMENT MORE THAN TWO YEARS AFTER THE ACCRUAL OF THE CLAIM.
+TERM & TERMINATION 10.1 Term of Agreement.
+This Agreement commences on the date You first accept it and continues until all subscriptions hereunder have expired or have been terminated.
+==========
+10.2 Term of Subscriptions.
+Subscriptions to the Appboy Services commence on the Start Date and continue for the Subscription Term specified in the applicable Order Form.
+Unless otherwise set forth in an Order Form, subscriptions shall automatically renew for additional periods of one year for the fees set forth in the applicable Order Form unless either party gives the other notice of non-renewal at least 30 days prior to the end of the relevant Subscription Term.
+We reserve the right to increase the fees on renewal by giving You at least sixty (60) days’ notice of such price increase; provided, however, that any such price increase shall not exceed 7% above the price that was in effect for the same products and services in the immediately preceding term.
+==========
+10.3 Termination for Cause.
+A party may terminate this Agreement for cause: (a) upon 30 days’ written notice of a material breach to the other party if such breach remains uncured at the expiration of such period; or (b) immediately if the other party becomes the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation or assignment for the benefit of creditors.
+Upon any termination for cause by You, We shall refund You any prepaid fees covering the remainder of the Subscription Term after the date of termination.
+Termination for cause by You shall not relieve You of the obligation to pay any fees accrued or payable to Us prior to the effective date of termination.
+Upon any termination for cause by Us, You shall remain obligated to pay all fees owed for the remainder of the Subscription Term, all of which fees shall become immediately due and payable in full.
+==========
+10.4 Your Data.
+Following the termination or expiration of this Agreement, We shall terminate provision of the Appboy Services to You and You shall have 30 days to access Your account and download/export Your Data.
+Upon expiration of such 30-day period, We shall convert Your account to an inactive status.
+We shall have no obligation to maintain any of Your Data after 60 days and shall securely overwrite or delete Your Data 90 days following any such termination.
+10.5 Surviving Provisions.
+Section 1 and Sections 4 through 11 shall survive any termination or expiration of this Agreement.
+==========
+GENERAL PROVISIONS 11.1 Relationship of the Parties.
+The parties are independent contractors.
+This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary, or employment relationship between the parties.
+11.2 No Third-Party Beneficiaries.
+There are no third-party beneficiaries to this Agreement.
+==========
+11.3 Export Compliance.
+The Services and derivatives thereof may be subject to export laws and regulations of the United States and other jurisdictions.
+You and We each represent that neither of Us is named on any U.S. government denied-party list.
+You shall not, and shall not permit any User to, access or use any Service in a U.S.-embargoed country (currently Cuba, Iran, North Korea, Sudan or Syria) or in violation of any U.S. export law or regulation.
+11.4 Anti-Corruption.
+==========
+You have not received or been offered any illegal or improper bribe, kickback, payment, gift or thing of value from any of Our employees or agents in connection with this Agreement.
+Reasonable gifts and entertainment provided in the ordinary course of business do not violate the above restriction.
+If You learn of any violation of the above restrictions, You will use reasonable efforts to promptly notify Our Legal Department at generalcounsel@appboy.com(mailto:generalcounsel@appboy.com).
+==========
+11.5 Notices.
+All notices under this Agreement shall be in writing and shall be deemed to have been given upon: (a) personal delivery; (b) the second business day after mailing; (c) the second business day after sending by confirmed facsimile; or (d) the day of sending by email.
+Notices to Us shall be addressed to the attention of Our General Counsel.
+Notices to You shall be addressed to the address you have provided to us in your registration for the Appboy Services.
+==========
+11.6 Waiver and Cumulative Remedies.
+No failure or delay by either party in exercising any right under this Agreement shall constitute a waiver of that right.
+Other than as expressly stated herein, the remedies provided herein are in addition to, and not exclusive of, any other remedies of a party at law or in equity.
+11.7 Severability.
+Any provision of this Agreement which is prohibited and unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof or affecting the validity or enforceability of such provisions in any other jurisdiction.
+11.8 Assignment.
+==========
+Neither party may assign any of its rights or obligations hereunder, whether by operation of law or otherwise, without the prior written consent of the other party (not to be unreasonably withheld, conditioned or delayed).
+Notwithstanding the foregoing, either party may assign this Agreement in its entirety (including all Order Forms), without consent of the other party, in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of its assets not involving a direct competitor of the other party.
+Any attempt by a party to assign its rights or obligations under this Agreement in breach of this Section shall be void and of no effect.
+Subject to the foregoing, this Agreement shall bind and inure to the benefit of the parties, their respective successors and permitted assigns.
+==========
+11.9 Governing Law.
+This Agreement shall be governed exclusively by the internal laws of the State of New York, without regard to its conflicts of laws rules.
+The state and federal courts located in the State of New York, District of Manhattan, New York City, shall have exclusive jurisdiction to adjudicate any dispute arising out of or relating to this Agreement.
+Each party consents to the exclusive jurisdiction of such courts.
+Each party also waives any right to jury trial in connection with any action or litigation in any way arising out of or related to this Agreement.
+==========
+11.10 Entire Agreement.
+This Agreement is the entire agreement between the parties regarding Your use of the Services, and supersedes all prior and contemporaneous agreements, proposals or representations, written or oral, concerning its subject matter.
+No modification, amendment, or waiver of any provision of this Agreement shall be effective unless in writing and signed by the party against whom the modification, amendment or waiver is to be asserted.
+The parties agree that any term or condition stated in Your purchase order or in any other order documentation of Yours is void.
+The language used in this Agreement shall be deemed to be language chosen by both parties hereto to express their mutual intent, and no rule of strict construction against either party shall apply to rights granted herein or to any term of condition of this Agreement.
+==========
+Introduction Appboy collects information through the use of applications created and distributed by third party developers that integrate Appboy software or services (“Developer Applications”).
+This privacy policy describes Appboy’s collection of information from end users of mobile devices who have downloaded a Developer Application that integrates Appboy services and from visitors to our website.
+This privacy policy does not govern any collection or disclosure of information by third parties, including Developer Applications.
+For a complete description of information gathered by any particular Developer Application, see the privacy policy for that Developer Application.
+==========
+If you believe an Developer Application uses Appboy software or services but does not have a privacy policy, contact us at info@appboy.com.
+What Information Does Appboy Collect?
+Appboy collects information through use of Developer Applications, including: Device Information - We collect information about devices running Developer Applications, including platform, a unique Appboy-generated ID, OS version, IP address, carrier information, and a country code.
+Application Usage Information - We collect information about how Developer Applications are used, such as the frequency and duration of usage.
+Website Information - We may collect information provided on our website such as contact information or feedback.
+Additionally, we may use cookies and web beacons to monitor traffic patterns and collect information about previous visits to our web site.
+Personally Identifiable Information - We may collect personally identifiable information shared with Developer Applications.
+We may also collect personally identifiable information from third parties used for authentication, such as when a user logs in to a Developer Application using a Facebook account, and from third party partners such as Facebook, Twitter, and Klout.
+==========
+Personally identifiable information collected may include information like name, email address, location, gender, interests, device, app usage, user ID, and contact information.
+Does Appboy Collect Real Time Location Information?
+Appboy may collect device location information if location services are enabled for any Developer Applications on the device.
+We use location information to provide Developers with information about the use of their Developer Applications.
+See the “Opt-Out” section below for details on limiting the collection of location information.
+How Does Appboy Use Information Collected from You?
+Appboy Internal Use - We use information we collect to provide partner Developers with information about usage of Developer Applications that integrate the Appboy Service.
+==========
+Third Parties - We will share information we collect with third parties only in ways described in this privacy statement.
+We may disclose information we collect : to third parties as required by law, such as to comply with a subpoena or similar legal process; to third parties as we deem necessary, based on our good faith belief, (i) to protect our rights, user safety or the safety of others, (ii) to investigate fraud, or (iii) to respond to a government request; to trusted services providers who work on our behalf, who do not have an independent use of the information we disclose to them, and who have agreed to adhere to the rules set forth in the privacy statement; to third parties in conjunction with a merger, acquisition or sale of Appboy.
+If Appboy is involved in a merger, acquisition, or sale of all or a portion of its assets, affected users will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices users may have regarding this information; to Developers in the form of aggregated, anonymous data about the way Developer Applications are used so that Developers can improve their respective Developer Applications.
+We use information about you collected from third party partners in compliance with the terms set forth by those third parties.
+Automatic Data Collection We automatically collect information about how Developer Applications are used, such as the frequency and duration of usage.
+==========
+This includes details about mobile devices, such as a unique Appboy-generated ID for the mobile device.
+We share anonymous information about use of their respective Developer Applications with Developers, including which Developer Applications users have downloaded and the way those Developer Applications are used, which facilitates improvements to Developer Applications.
+Opt-Out You may opt out of the collection of location information by turning off location services for Developer Applications on your mobile device.
+You may opt out of the collection of personally identifiable information by not providing that information to Developer Applications.
+You can prevent collection of personally identifiable information from third parties such as Facebook or Twitter by not logging in to Developer Applications using your Facebook or Twitter account.
+You can prevent collection of all information by uninstalling Developer Applications that integrate the Appboy Service.
+==========
+If you have any questions or need assistance, feel free to email privacy@appboy.com.
+Data Retention Policy, Managing Your Information Appboy will retain information collected throughout the life of each user’s use of Developer Applications except where prohibited by law.
+If you would like us to delete User Information and Automatically Collected information associated with your record, please contact us at privacy@appboy.com.
+We will keep anonymous information and may need to retain some identifying information to ensure that your request continues to be honored.
+Your information will be deleted from our active database but may remain in our archives.
+If we are required to maintain certain information about you, we will comply with your deletion request after fulfilling any legal requirements.
+==========
+U.S.-EU Safe Harbor Compliance Appboy complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+Appboy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+To learn more about the Safe Harbor program, and to view Appboy’s certification, please visit http://www.export.gov/safeharbor/ The independent resource mechanism for Safe Harbor-related dispute resolution is the EU Data Protection Authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC).
+Appboy agrees to cooperate and comply with the EU Data Protection Authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) to investigate unresolved complaints.
+==========
+Children Appboy does not knowingly solicit data from or market to children under the age of 13.
+If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@appboy.com.
+We will delete such information from our files within a reasonable period of time.
+Security We are concerned about safeguarding the confidentiality of user information.
+We provide physical, electronic, and procedural safeguards to protect information we process and maintain.
+==========
+For example, we limit access to this information to authorized employees who need to know that information in order to operate, develop or improve our Services.
+International Transfer We may, in the process of providing services to you, transfer information that we collect about you or your end users, including personal information, to affiliated entities, or to other third parties across border adn from your country or jurisdiction to other countries or jurisdictions around the world.
+If you or your end users are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring information and permitting the transfer of information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. and the use and disclosure of information about you and your end users, including personal information, as described in this privacy policy.
+==========
+Changes This Privacy Policy may be updated from time to time for any reason.
+We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here, https://www.appboy.com/privacy.
+You are advised to consult this Privacy Policy regularly for any changes.
+Your Consent By using a Developer Application, you are consenting to our collection and processing of information as set forth in this Privacy Policy now and as amended by us.
+==========
+“Processing” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States.
+If you reside outside the U.S. your information will be transferred to the U.S., and processed and stored there under U.S. privacy standards.
+By using the Application and providinginformation to us, you consent to such transfer to, and processing in, the U.S.
+If you have any questions about this Privacy Policy, you may contact us at: Appboy, Inc.
+Privacy Policy Issues 318 West 39th Street, 5th Floor New York, NY 10018 privacy@appboy.com
+==========

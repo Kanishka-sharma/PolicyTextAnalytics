@@ -1,0 +1,249 @@
+Privacy Policy for EEA
+LAST UPDATED: April 2021
+EFFECTIVE: May 2021
+1.
+INTRODUCTION
+InMobi is committed to respecting and protecting individuals' privacy rights.
+==========
+This Privacy Policy explains how InMobi Pte Ltd, its subsidiaries and affiliated companies (collectively, "InMobi" or "we", "us", "our") collect, use, secure, and/or disclose EEA end users’ (“you” or “your”) information when you view ads/ surveys served by InMobi on digital media, sites, owned or operated application(s)/widgets, exchange(s) for demand/supply, marketing automation solutions and other services, such as, fraud detection, reporting, audiences, attribution, analytics, modelling, segments, measurement (“Marketing Platform”)
+InMobi may offer independent mobile applications, web content services, widgets, and/or other software features to consumers through smart devices which may be preloaded on the devices, downloadable, hosted on web or made available through other digital media (“Consumer Offering”).
+This Privacy Policy does not apply to the collection by or processing practices of each of the foregoing services, respectively.
+If you are a consumer of any such Consumer Offering, the applicable privacy policy should be available to you through such services.
+Please refer to the respective privacy policies of each Consumer Offering for a description of its data collection and data use practices.
+To the extent that foregoing Consumer Offering promotes any interest-based advertising using the Marketing Platform services, the terms of this policy would apply to the data processing practices for such Marketing Platform services.
+Marketing Platform services and Consumer Offering are collectively referred to as “Services”.
+“EEA” means all member states of the European Union and for the purpose of this Privacy Policy, U.K. and Switzerland.
+2.
+==========
+INMOBI MARKETING PLATFORM SERVICES
+InMobi is a global ad network with a suite of ad tech products.
+We partner with third-party mobile website publishers and mobile app developers to serve ads on their sites and in their apps, and InMobi may also serve ads on the site and mobile applications that InMobi owns.
+These ads may be customised to their users' interests and geographic locations, which we may derive or infer from information that we collect about how those users interact with such sites and apps (this type of advertising is often called "interest-based advertising" or "targeted advertising").
+This enables our partnering publishers and developers to provide content-rich services that are more relevant to their users, often using the advertising revenues they generate to offer their services for free or at a subsidised cost.
+Further, we may also obtain user data from our data partners, advertisers and/or advertisers’ partners for optimising digital advertising and/or analytical purposes including to provide relevant advertising and reporting.
+Please note that collection, use or storage of such data is governed by the privacy policy of such third-party partners and/or advertisers providing the same.
+==========
+InMobi also engages in campaign planning, measurement (e.g. whether an advertisement was viewed, its timestamp etc.) and attribution of advertisements, whether by itself or through third party measurement partners.
+InMobi may engage in cross-device data collection, which refers to the process of collecting data from devices that have been determined through statistical analysis to be linked or related.
+We, or third parties whom we engage to provide this service, may use cross-device data to provide interest-based advertising services and to deliver tailored ads to users across multiple devices.
+InMobi provides Marketing Platform services, including optimization of advertising campaigns, data analytics/enrichment, segment creation, user acquisition or re-engagement through various digital advertising channels.
+InMobi receives data into its Marketing Platform from various sources, including end user information collected by our systems, applications/offerings, partners, data/cookie vendors or customers (“Sources”), which may include third party apps, sites and services that you use.
+Please refer to the privacy policies of the apps, sites, and services you use to understand how those apps, sites and services collect, use, and share data from your interactions with them.
+InMobi is not responsible for how those third-party apps, sites and services collect and use data.
+==========
+2.1 WHAT PERSONAL INFORMATION DO WE COLLECT?
+When you view an advertisement distributed through InMobi on a site, app or other digital media, we may collect information about your device that you have viewed and your interaction with the advertisement.
+This information enables us to improve our services including recognising your device when you use other sites and apps that have partnered with us.
+Information we may collect includes:
+(a) Device identifiers.
+Device identifiers are alphanumeric strings that are unique to your device.
+These include:
+
+iOS devices’ Identifier for Advertising (IDFA) and iOS Identifier for Vendors (IDFV)
+Google Advertising ID (GAID), or Android ID for Android devices
+International mobile equipment identity (IMEI), in certain jurisdiction as permitted by applicable law
+Cookie IDs
+
+(b) Location information, including:
+
+Geo-location or precise location of your device if you have given the app or site permission to collect your location information
+Location information we infer based on data collected through a WiFi identifier that your device is connected to, in accordance with applicable law and provided location access is permitted
+Location information we infer from your device’s IP address, provided that we will not infer location from an IP address to a more precise than city-level of accuracy unless you have given the app or site permission to collect your location information
+
+(c) Network information, including:
+
+Mobile carrier
+Network provider or ISP
+Network type (e.g., WiFi or cellular)
+IP address
+IDs of WiFi access points to which your device is connecte
+Date and time of connection
+
+(d) Information about apps or sites and our Software Development Kit (SDK), including:
+
+App or site name or version
+App identifier
+SDK version
+API key identifier
+
+(e) Other information about/on your device, including:
+
+Device type (e.g., make and model)
+Device startup time and update time
+Device name
+Screen size
+Memory and hard drive capacity
+Operating system and version (e.g., iOS 14, Android, Windows, Blackberry)
+Mobile browser used (e.g., Chrome, Safari, Firefox)
+Language settings (including country code) and time zone
+App usage
+
+(f) Advertisement information.
+We collect information about the ad presented on your device, including:
+
+The content type of the ad (the advertiser and category, e.g. games, finance, entertainment, news)
+The ad type (e.g. whether the ad is a text, image, video or other format based)
+Where the ad is being served (e.g. the site, digital media or app on which the ad appears)
+Whether you viewed, clicked or otherwise interacted with the ad
+
+(g) Survey information.
+==========
+We may ask users to voluntarily participate in online surveys.
+These surveys help brands improve their products and services offered to you.
+==========
+If you fill out a survey, we may collect your device information described above and information you provide, including your:
+
+Age
+Name
+Email address
+Phone number
+Gender
+Occupation and income range
+Family size and other demographic information
+Preference for brands, modes of travel, and other consumer choices.
+(h) Other marketing information:
+
+In the context of our Marketing Platform Services, our customers, partners or vendors may also disclose to us certain personal or non-personal information they have separately collected about you during your interaction with their apps, sites or services so that we can effectively provide our Services.
+This may in the context of websites, including mobile websites, include cookies, other technologies, or other aggregated characteristics or other identifiers related to your device to understand your interaction with such site and to serve certain types of ads relevant to your interests.
+==========
+These parties serve you cookies in accordance with their own specific privacy/cookie policies and subject to their own applicable legal requirements.
+We do not use the information they provide to us for any purpose other than as permitted by such third parties or for providing or improving our Services.
+==========
+We do not collect any sensitive data such as racial or ethnic origin, political opinions, religious or philosophical beliefs, genetic data, biometric data, data concerning health.
+We may show targeted advertisements to fitness enthusiasts.
+==========
+On occasion, our partnering mobile publishers or app developers may also disclose to us certain information including email addresses of users in a hashed format (not in raw format) they have separately collected about you so that we can improve the relevance of the ads we serve on their behalf.
+They do this in accordance with their own specific privacy policies and subject to their own applicable legal requirements.
+We do not use the information they provide to us for any purpose other than serving you with interest-based ads or for reporting or analytical purpose(s).
+2.3 HOW DO WE USE PERSONAL INFORMATION THAT WE COLLECT?
+==========
+We use the information that we collect about your device to:
+
+Display advertisements on your device, which may include interest-based advertising customized to your interests, preferences, locations
+For bidding to serve advertisements and to determine which ads are most effective
+Analyze (including profiles, statistical analytics, audience segments, insights, data modelling, location analytics etc.) and provide our demand partners or advertisers reports on the effectiveness of advertisements and campaigns, including across different types of devices based on our determination of devices that are related to the same person.
+We, or third parties whom we engage to provide this service, may use cross-device data to provide interest-based advertising services and to deliver tailored ads to users across multiple mobile devices including over the top applications and smart televisions
+Avoid showing you the same ads too many times
+Improve our Services and assist our customers and partners in improving their products and services
+Detect, deter and prevent fraud, fraudulent traffic or to protect the security of our systems
+We may process your survey responses and share the response data with the brands who are our customers/marketers
+
+2.4 WHO DO WE SHARE PERSONAL INFORMATION WITH?
+==========
+(a) Publishers, Developers, Advertisers and Measurement Companies
+InMobi may share the information we collect or receive regarding you as described in this Policy with our publishers, developers, data partners, measurement companies and advertisers.
+These partners may use this information to show you relevant ads, measure your ad/site interaction, identify your interest areas, better understand the site and app traffic usage or user behaviour in order to refine and improve their services.
+Such partners’ use of the information we share with them will be governed by their privacy policies.
+(b) Marketing Partners
+We may share your information with data partners who help us with better understanding your preferences by providing data enrichment, analytics and identification services and measurement companies who help us with attribution and tracking of advertisements distributed through us (“Marketing Partners”)
+(c) With InMobi Affiliates
+We may also share your information with InMobi affiliates so that we can better provide advertising that is relevant to you.
+==========
+(d) Third parties such as advisors and law enforcement authorities
+We may access, preserve, and disclose any information we store associated with you to external parties if we, in good faith, believe doing so is required or appropriate to: comply with law enforcement or national security requests and legal process, such as a court order or subpoena; protect your, our or others’ rights, property, or safety; enforce our policies or contracts; collect amounts owed to us; or assist with an investigation or prosecution of suspected or actual illegal activity.
+(e) Service Providers
+We may share personal information we collect about you with our third-party service providers.
+The categories of service providers to whom we entrust personal information include: IT and related services; fraud detection, information and services; payment processors; customer service providers; and vendors to support the provision of the Services
+(f) Disclosures in the Event of Merger, Sale, or Other Asset Transfers
+If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction, as permitted by law and/or contract.
+4.
+==========
+HOW DO WE KEEP PERSONAL INFORMATION SECURE?
+InMobi uses reasonable technical and organizational measures to protect the information it collects about you in compliance with its legal and privacy requirements and contractual obligations.
+We also seek appropriate contractual protection from our partners regarding their collection, use or treatment of user data.
+Unfortunately, no system is 100% secure, and we cannot ensure or warrant the security of any information you provide to us.
+==========
+To the fullest extent permitted by applicable law, we do not accept liability for unauthorized disclosure.
+By using our Services or providing personal information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of our Services.
+If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on our Services.
+5.
+==========
+HOW LONG DO WE KEEP PERSONAL INFORMATION FOR?
+InMobi may retain the information collected in the context of our Marketing Platform for a period of up to thirteen (13) months, unless otherwise required by law or applicable contract.
+After the 13-month period, InMobi may retain and use such data in aggregated format, as necessary for internal analytical purposes, to comply with its legal obligations, resolve disputes and enforce agreements.
+Please note that the use cases stated in this provision will apply as an exception to your data subject rights related requests.
+==========
+Where we are using personal information to contact for marketing communications, if opted-in we will contact you periodically, if required by applicable laws, to ensure you are happy to continue receiving such communications.
+If informed of election to no longer receive marketing communications from us, InMobi will stop sending the same.
+6.
+==========
+INTERNATIONAL TRANSFERS
+InMobi may share your information with clients, affiliates and other third parties described above who are based in countries outside of your country of residence (for example, if you are an EU resident, we may share your information with our non-EU clients or affiliates), subject to any contractual or legal requirements.
+This means that their processing of your personal information will involve a transfer of data outside of the EEA.
+Whenever InMobi transfers your personal information outside of the EEA, we ensure it is protected by making sure at least one of the following safeguards is in place:
+
+by transferring your personal information to a country that has been deemed to provide an adequate level of protection by the European Commission;
+by using specific contracts approved by the European Commission which give your personal information the same protection it has within the EEA including to US;
+
+If you wish to learn more about the specific circumstances when each of these protection measures are used, you can contact us at privacy@inmobi.com for the details as to how we protect specific transfer of your data.
+7.
+==========
+INFORMATION COLLECTED ON BEHALF OF THIRD PARTIES
+InMobi may offer advertising solutions to clients that include the collection of voluntary information from you as part of an advertisement, e.g. serving an ad that contains an advertiser questionnaire or suveys.
+Such information may consist of personally identifiable information, non-personally identifiable information, or both.
+All of the information that you voluntarily provide in response to this form of advertisement is typically forwarded directly to the relevant client and will be governed by that client's privacy policies in place.
+This information may be temporarily stored by InMobi for the aforesaid purpose and reporting to client, subject to applicable legal requirements.
+For more information see www.inmobi.com/leadgen
+8.
+==========
+COOKIES
+We use cookies and beacons to help us collect some of the information we have described above.
+This may be done when you interact with us or our third-party partners who enable InMobi to collect data related to your interaction with their apps or sites for the purpose of serving relevant Ads to you and/or improve our services.
+We may also use cookies to provide website functionality and advertising to you, and to save you having to provide the information you have already given us on subsequent visits to our site.
+For more detailed information about the technologies we use and your ability to control those cookies, please visit our cookie policy.
+We recommend that you review the privacy policies the third party apps, services or sites that you directly interact with to learn how those third parties use cookies.
+9.
+==========
+PRIVACY OF CHILDREN?
+InMobi complies with the age gating provisions under applicable privacy laws such as General Data Protection Regulation in EEA and Children's Online Privacy Protection Act (COPPA) and California Consumer Privacy Act (CCPA) in the U.S and does not knowingly collect any personal data of children, as applicable.
+10.
+==========
+OTHER WEBSITES?
+Our website and the ads we service may contain links to other websites.
+You should be aware that we are not responsible for the privacy practices of such other websites as those may have different privacy policies and terms of use and are not associated with us.
+You agree that we cannot control these links and we shall not be responsible for any use of such websites.
+11.
+==========
+OPTING OUT OF INTEREST-BASED ADVERTISING
+Opting out of interest-based advertising: If you prefer not to receive interest-based advertising from InMobi, you can opt out at any time by going to the InMobi Opt Out page and submitting your device ID or any other listed identifier.
+If you opt-out of interest-based advertising, you will still receive "generic" ads from InMobi.
+To opt-out of our cross-device ad targeting, you must opt-out on every device browser and device using the appropriate opt-out methods.
+==========
+Opting out of surveys: Each survey that you participate in will provide opt-out instructions, including an option to skip questions, which if elected will ensure that we do not include your device for that survey.
+Please note that if you opt-out of a survey you may still receive other survey requests.
+If we reach out to you through marketing communication modes such as emails, you will have the option to unsubscribe from such marketing communications through links provided in such emails.
+12.
+==========
+YOUR RIGHTS
+Right of access: Where we hold personal information about you, you can ask us for access to this personal information, to correct or update any inaccurate personal information we hold, to stop sending you direct marketing or to stop using your personal information altogether.
+Right to rectification: You have the right to require InMobi to rectify any inaccurate personal information we hold about you.
+You also have the right to have incomplete personal information we hold about you completed, by providing a supplementary statement to us.
+Right to restriction: You can restrict InMobi’s processing of your personal information where:
+
+you think we hold inaccurate personal information about you;
+our handling of your personal information breaks the law, but you do not want us to delete it;
+InMobi no longer needs to process your personal information, but you want us to keep it for legal reasons; or
+where we are handling your personal information because we have a legitimate interest, as described above, and are in the process of objecting to this use of your personal information.
+Where you exercise your right to restrict InMobi from using your personal information, we will then only process your personal information when you agree, except for storage/archival purposes and to handle billing and legal claims.
+Right to data portability: You have the right to receive your personal information in a structured, standard machine readable format and to send this to another organisation controlling your personal information.
+This right only applies to your personal information we are handling because you consented to us using it or because there is a contract in place between us.
+Right to erasure: You have the right to require InMobi to erase your personal information which we are handling in the following circumstances (anonymization would satisfy erasure):
+
+where we no longer need to use your personal information for the reasons we told you we collected it for;
+where we needed your consent to use your personal information, you have withdrawn your consent and there is no other lawful way we can continue to use your personal information;
+when you object to our use of your personal information and we have no compelling reason to carry on handling it;
+if our handling of your personal information is in violation of applicable law; and
+when we must erase your personal information to comply with a law we are subject to.
+Right to complain: You have the right to lodge a complaint with the Information Commissioner's Office, the supervisory authority for data protection issues.
+If you would like to exercise any of these rights, you may be able to make the update within your account settings or by contacting us using the details provided below.
+13.
+==========
+CHANGES TO THIS PRIVACY POLICY
+We may amend this Privacy Policy at any time.
+The amended Privacy Policy will be displayed on our site.
+If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective.
+Please check our Privacy Policy regularly to ensure you have read the latest version.
+14.
+CONTACT US
+If you have any questions about this Privacy Policy, please contact us at privacy@inmobi.com.
+==========

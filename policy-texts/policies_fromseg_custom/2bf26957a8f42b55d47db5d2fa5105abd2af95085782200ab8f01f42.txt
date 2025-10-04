@@ -1,0 +1,135 @@
+We (the folks at Automattic) run the Akismet anti web spam service to help you keep spam from your site.
+To use Akismet, please register with us to obtain an Akismet API Key.
+==========
+API Keys are free for personal use, and we offer paid licenses for commercial use.
+You can use your Akismet API Key with our WordPress Plugin or by itself.
+Please make sure you read through, understand and agree with the terms of this agreement before you start to use the Akismet Website, download the Akismet WordPress Plugin or use your Akismet API Key.
+==========
+We’ve decided to make these Terms available under a Creative Commons Sharealike license.
+You’re more than welcome to copy them, adapt them, and repurpose them for your own use.
+Just make sure to revise the language so that your Terms reflect your actual practices.
+==========
+Also, if you do use these Terms, we’d appreciate a credit and link to Akismet.com somewhere on your website.
+The Akismet.com website ("Website") is a hosted anti comment spam service ("Service") operated by Automattic.
+Any use of the Website and Service is subject to the following Akismet Terms and Conditions of Use ("Terms and Conditions"), as well as to Automattic"s Privacy Policy, all of which are incorporated by reference into these Terms and Conditions.
+When you use an Akismet API Key ("API Key"), download the Akismet WordPress Plugin ("Plugin"), or access any part of the Website or use the Service, you agree that you have read, understood, and agree to be bound by the these Terms and Conditions concerning your use of: (a) the Website and Service; (b) the API Key; and (c) the Plugin.
+==========
+We use the term "Designated Countries" to refer to Australia, Canada, Japan, Mexico, New Zealand, Russia, and all countries located in the European continent.
+If you reside in the "Designated Countries," your agreement is with Aut O’Mattic A8C Ireland Ltd.
+If you reside outside of the "Designated Countries," your agreement is with Automattic Inc.
+We refer to Aut O’Mattic A8C Ireland Ltd. and Automattic Inc. collectively as "Automattic" or "we" throughout this agreement.
+==========
+General.
+Free keys are for personal, non-commercial sites only.
+==========
+For more details about what we consider a commercial site, please see our Should I choose a free or paid subscription?
+support page.
+==========
+To obtain an API Key for personal use or purchase an API Key for commercial use, and to download the Plugin to use our Service, you must first register with the Website.
+After obtaining or purchasing an API Key, you will be able to use the Service.
+==========
+Automattic may in its sole discretion change, modify, suspend, make improvements to or discontinue any aspect of the Website and Service, temporarily or permanently, at any time and without notice to you.
+Under no circumstances will Automattic be liable for any such change, modification, suspension, improvement or discontinuance.
+If you do not agree with any of these changes, you must terminate your account as set forth in Section 14.
+==========
+Registration and Access.
+By registering with Automattic, you represent and warrant that the information you provide to Automattic in connection with any registration process is true and accurate, and that you will promptly notify Automattic if any of that information changes.
+Automattic may use the information that you provide during the registration process, in particular your email address: (a) to communicate with you about the Website and Service, including without limitation, any changes to Automattic’s Privacy Policy or other policies; (b) respond to your emails to us regarding spam; and (c) for all other purposes stated in Automattic’s Privacy Policy.
+Automattic reserves the right to terminate your access to and use of all of the Automattic websites if you provide false or inaccurate information.
+==========
+If you obtain or purchase an API Key, you are responsible for maintaining the security of your API Key, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with your API Key.
+You must immediately notify Automattic of any unauthorized uses of your API Key, your account or any other breaches of security.
+Automattic will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions.
+You agree to not share or misuse your access credentials.
+Your access and use of the Automattic API and the API key are subject to Automattic’s API guidelines and any successor terms published by Automattic.
+==========
+Commercial Use Plans, Fees, and Automatic Renewal.
+For commercial sites, you must obtain an API Key by purchasing one of our paid plans (any plan other than Personal), each of which has an API usage limit.
+If you exceed your API usage limit, Automattic reserves the right to restrict or throttle your API calls.
+==========
+Akismet plans automatically renew as recurring subscriptions.
+You’ll see the then-current price and subscription period at the time of purchase.
+==========
+If you subscribed during a promotion, used a coupon code, or otherwise received a discount, your subscription will automatically renew for the full price of the subscription at the end of the discount period.
+By enrolling in a subscription, you authorize us to automatically charge the subscription fee (and any applicable taxes) to your designated payment method for each subsequent subscription period until you or we cancel the subscription or the subscription is cancelled for other reasons.
+==========
+You can view your renewal date and manage your plan by going to https://akismet.com/account/.
+To cancel a plan, click the "Cancel" link next to the plan you wish to cancel and confirm by clicking "Yes, remove this subscription from my account."
+==========
+Automattic reserves the right to change the payment terms and fees upon thirty (30) days prior written notice to you.
+Your continued use of the API Key constitutes your acceptance of all of the changed payment and fee terms.
+==========
+Responsibility of Website Visitors.
+Automattic has not reviewed, and cannot review, all of the material posted to the Website, and cannot therefore be responsible for that material’s content, use or effects.
+By operating the Website, Automattic does not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful or non-harmful.
+==========
+You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses and other harmful or destructive content.
+Automattic disclaims any responsibility for any harm resulting from the use by visitors of the Website, or from any downloading by those visitors of content there posted.
+Content Posted on Other Websites.
+==========
+We have not reviewed, and cannot review, all of the material, including computer software, made available through the websites and webpages to which the Website links, and that link to the Website (for example software linked to from the Development section of the site).
+Automattic does not have any control over those non-Akismet websites and webpages, and is not responsible for their contents or their use.
+By linking to a non-Akismet website or webpage, Automattic does not represent or imply that it endorses such website or webpage.
+You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses and other harmful or destructive content.
+==========
+Automattic disclaims any responsibility for any harm resulting from your use of non-Akismet websites and webpages.
+Copyright Infringement and DMCA Policy.
+As Automattic asks others to respect its intellectual property rights, it respects the intellectual property rights of others.
+If you believe that material located on or linked to by the Website violates your copyright, you are encouraged to notify Automattic in accordance with Automattic’s Digital Millennium Copyright Act ("DMCA") Policy.
+Automattic will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material.
+In the case of a user who may infringe or repeatedly infringes the copyrights or other intellectual property rights of Automattic or others, Automattic may, in its discretion, terminate or deny access to and use of the Website or Service.
+In the case of such termination, Automattic will have no obligation to provide a refund of any amounts previously paid to Automattic.
+Trademarks.
+==========
+Automattic, Akismet, Akismet.com, the Akismet.com logo, WordPress, WordPress.com, the WordPress.com logo, and all other trademarks, service marks, graphics and logos used in connection with WordPress.com, or the Website are trademarks or registered trademarks of Automattic or Automattic’s licensors.
+Other trademarks, service marks, graphics and logos used in connection with the Website may be the trademarks of other third parties.
+Your use of the Website grants you no right or license to reproduce or otherwise use any Automattic or third-party trademarks.
+==========
+Changes.
+The Website, Service, and these Terms and Conditions may be changed at the sole discretion of Automattic and without notice.
+You are bound by any such updates or changes, including but not limited to those affecting these Terms and Conditions, and so should periodically review these Terms and Conditions.
+==========
+Communications with Automattic.
+All notices and other communications to Automattic required under this Agreement should be directed to the Automattic contact page.
+==========
+Notice shall be deemed given twenty-four (24) hours after notice is sent.
+Alternatively, we may give notice by email to the email address provided during the registration process.
+In such a case, notice is deemed given three (3) days after the date of mailing.
+==========
+Limitation of warranties of Automattic, its suppliers and its licensors.
+Except as otherwise expressly stated, all content posted to or available from the Website and the Service are provided "as is", and Automattic, its suppliers and its licensors make no representations or warranties, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, title or non-infringement of proprietary rights.
+Automattic makes no representations and warranties regarding uptime for the Service and the accuracy of the Service in identifying spam or non-spam.
+You understand and agree that you download from, or otherwise obtain content or services through, the Website at your own discretion and risk, and that Automattic, its suppliers and its licensors will have no liability or responsibility for any damage to your computer system or data that results from the download or use of such content or services.
+Some jurisdictions may not allow the exclusion of implied warranties, so some of the above may not apply to you.
+==========
+Limitation of liability of Automattic, its suppliers and its licensors.
+Except as otherwise expressly stated, in no event will Automattic, its suppliers or its licensors be liable to you or any other party for any direct, indirect, special, consequential or exemplary damages, regardless of the basis or nature of the claim, resulting from any use of the Website or Service, or the contents thereof or of any hyperlinked website including without limitation any lost profits, business interruption, loss of data or otherwise, even if Automattic, its suppliers or its licensors were expressly advised of the possibility of such damages.
+In no event will the aggregate liability for any and all of your claims against Automattic, its suppliers and its licensors arising out of or related to use of the Website and Service, or the contents thereof or of any hyperlinked website exceed the amounts actually paid by you to Automattic during the 12-month period prior to the date a claim is made.
+Some jurisdictions may not allow the exclusion or limitation of liability for certain incidental or consequential damages, so some of the above limitations may not apply to you.
+==========
+You agree that this Section 11 represents a reasonable allocation of risk.
+General Representation and Warranty.
+==========
+You represent and warrant that your use of the Website and Service will be in accordance with the Automattic Privacy Policy, with these Terms and Conditions, with any applicable laws and regulations, including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside, and with any other applicable policy or terms and conditions.
+Indemnification.
+You agree to defend, indemnify and hold harmless Automattic, its contractors and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys' fees, arising out of your use of the Service, including but not limited to out of your violation of any representation or warranty contained in these Terms and Conditions.
+Termination.
+Automattic may terminate this Agreement, your rights under this Agreement, and your access to and use of the Website and Service in its sole discretion, for any reason or no reason at all, (including but not limited to failure to pay your fees), with or without cause and without notice or liability to you or any third party.
+Any termination of these Terms and Conditions automatically terminates the license to use the Service and this Website and to use your API Key.
+You may terminate these Terms and Conditions for any reason upon thirty (30) days prior written notice to Automattic.
+Survival.
+Upon termination, all rights and obligations created by this Agreement will terminate, except that you will continue to be bound by those terms that would by their nature survive such termination, including without limitation those concerning intellectual property rights, disclaimers of warranties and limitations of liability; representations, warranties and indemnity obligations; general provisions; and any payment obligations in accordance with our refund policy.
+==========
+Data Processing Agreement.
+If you need a data processing agreement (DPA) with us for the GDPR requirements that apply to us as a data processor for your website, please follow these instructions.
+Miscellaneous.
+==========
+These Terms and Conditions constitute the entire agreement between Automattic and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Automattic, or by the posting by Automattic of a revised version.
+Except to the extent applicable law, if any, provides otherwise, these Terms and Conditions, any access to or use of the Website will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in San Francisco County, California.
+==========
+If any part of these Terms and Conditions is held invalid or unenforceable, that part will be construed to reflect the parties' original intent, and the remaining portions will remain in full force and effect.
+A waiver by either party of any term or condition of these Terms and Conditions or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof.
+==========
+Automattic may assign its rights under these Terms and Conditions without condition.
+These Terms and Conditions will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
+==========

@@ -1,0 +1,196 @@
+VeriSign, Inc.'s Privacy StatementVersion 2.0 - May 24, 2000 VeriSign is committed to providing you with excellent service for all of our products.
+Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire VeriSign site.
+VeriSign is a licensee of the TRUSTe Privacy Program and is authorized to use the TRUSTe trustmark.
+TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent.
+VeriSign has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe because VeriSign wants to demonstrate its commitment to your privacy.
+Members of the TRUSTe Privacy Program agree to adhere to TRUSTe's established privacy principles of disclosure, choice, access, and security.
+Members of the TRUSTe Privacy Program also agree to comply with ongoing TRUSTe oversight and its alternative dispute resolution process.
+In keeping with TRUSTe's Privacy Program, this Privacy Statement will inform you of:
+What information our site gathers about you
+How we use and with whom we share the information we gather
+Your ability to opt-out of future notifications
+What security procedures we have in place to protect your information from loss, misuse, or alteration
+How you can correct or update your information
+With respect to VeriSign's Public Certification Services, the VeriSign Certification Practice Statement ("CPS") presents the practices that VeriSign and our affiliates, subscribers, customers, and relying parties follow in issuing, managing, and using certificates and in maintaining a certificate-based public key infrastructure and related trust services.
+The CPS is intended to legally bind and to provide notice to all parties that create and use certificates within the context of VeriSign's Public Certification Services.
+Before you apply for, use, or rely upon a certificate, you should read the CPS.
+==========
+With respect to VeriSign's Public Certification Services, this Privacy Statement is intended to supplement the CPS, not replace it.
+In addition to our Public Certification Services, VeriSign and its subsidiaries provide other Internet trust services and products that are not covered by the CPS.
+For these non-Public Certification Services and products, this Privacy Statement is intended to set forth our privacy commitment to our site visitors and subscribers.
+We strive to have our subsidiaries adopt privacy policies with similar protections and commitments.
+==========
+Questions regarding this Privacy Statement should be directed to practices@verisign.com.
+Please specify "Privacy Statement" in the subject line of your e-mail.
+If you do not receive a reply from us or if you believe that your inquiry has not been satisfactorily resolved, please contact TRUSTe.
+==========
+To return to the site, please use the "Back" button on your browser.
+Overview
+Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience.
+We at VeriSign are acutely aware of and sensitive to the privacy concerns of our subscribers and other visitors to our Web site.
+Whether you are a customer of our various products and services or a visitor to our site, we assure you that we do not collect personal information from you unless you provide it to us.
+If you are enrolling for a VeriSign digital certificate ("Digital ID"), you may be asked to provide certain personal information.
+Please note, however, that we are asking for this information for the limited purposes of creating your Digital ID, providing the services that may be part of your Digital ID, and authenticating your identity in order to issue you a Digital ID.
+You should also be assured that we do not provide or sell information about our customers or site visitors to vendors that are not involved in the provision of VeriSign's public certification and other services.
+If you would like to read more about the practices related to the issuance of Digital IDs, see our Public Key Infrastructure (PKI) Disclosure Statement at http://www.verisign.com/repository/disclosure.html and our CPS at http://www.verisign.com/repository/CPS/
+This Privacy Statement applies to VeriSign Inc.'s site.
+Each of our subsidiaries maintains its own privacy policy that may be viewed on its Web site.
+For our Public Certification Services, VeriSign has a "network" of domestic and international "Affiliates" that provide certain certification services on a worldwide basis.
+We strive to provide our visitors and subscribers with the highest level of privacy possible, and therefore require that our Affiliates offer no less protection than that offered in this Privacy Statement and the CPS.
+In addition, each of our Affiliates must meet the data protection requirements of their relevant national laws.
+Please note that our site contains links to other sites.
+VeriSign is not responsible for the privacy practices, privacy statements, or content regarding these other sites.
+Privacy Policy Enforcement
+VeriSign supports TRUSTe's comprehensive assurance process.
+==========
+In order to ensure compliance with its Privacy Program, TRUSTe monitors our site by conducting initial and periodic reviews and "seeding" (tracking unique identifiers in our site's database).
+TRUSTe also relies on online users to report violations of posted privacy statements or specific privacy concerns.
+If a TRUSTe participant is suspected of not conforming to the TRUSTe principles, TRUSTe will investigate the issue, which could result in penalties, additional audits, or revocation of the participant's right to use the TRUSTe trustmark.
+Extreme violations may even be escalated to the Federal Trade Commission ("FTC").
+==========
+These enforcement measures are intended to provide some assurances that you can rely on our representations in this Privacy Statement.
+For more information on the TRUSTe assurance process, see http://www.truste.org/users/users_how.html
+If you feel that we are violating this Privacy Statement, please contact us at practices@verisign.com.
+Please specify "Privacy Statement" in the subject line of your e-mail.
+If you feel that we do not provide you with an appropriate response, you may file a report with TRUSTe at http://www.truste.org/users/watchdog.html
+Information We Gather from You
+Personal Information
+We do not collect any personal information from a visitor to our site unless that visitor explicitly and intentionally provides it.
+==========
+Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life.
+If you are simply browsing our site, we do not gather any personal information about you.
+There are two ways in which you may explicitly and intentionally provide us with and consent to our collection of certain personal information:
+E-mail - We use links throughout our site to provide you with the opportunity to contact us via e-mail to ask questions, request information and materials, or provide comments and suggestions.
+You may also be offered the opportunity to have one of our representatives contact you personally to provide additional information about our products or services.
+To do so, we may request additional personal information from you, such as your name and telephone number, to help us satisfy your request.
+==========
+Enrollment - If you choose to enroll for one of our products or services, we will request certain information from you.
+Depending on the type of product or service that you request, you may be asked to provide different personal information.
+For certain products, we may require your name, address, telephone number, e-mail address, credit card number, and social security number.
+Other products may require different or supplemental information from you in order to apply.
+==========
+For a detailed listing of the type of personal information requested for our various products, please refer to the enrollment page for the particular product or service and, for Digital IDs, Section 4.2 of our CPS at http://www.verisign.com/repository/CPS
+For some individual Digital IDs (typically our Class I Digital IDs) you may be asked if you wish to submit certain optional information, such as your country of residence, zip code, age, gender, or other information.
+This optional information is referred to as personalization information and is discussed below.
+All information that we collect and process for the purposes of enrolling you for one of our products or services is designed to be the minimum amount of information we require in order to enroll and service you for such product or service.
+==========
+Statistical Information About Your Visit
+When you visit our site, our computers may automatically collect statistics about your visit.
+This information does not identify you personally, but rather about a visit to our site.
+We may monitor statistics such as how many people visit our site, which pages people visit, from which domains our visitors come and which browsers people use.
+We use these statistics about your visit for aggregation purposes only.
+These statistics are used to help us improve the performance of our Web site.
+==========
+Use of Cookies
+We only use "cookies" as described in this Section.
+A "cookie" is a piece of information that our Web site sends to your browser, which then stores this information on your system.
+If a cookie is used, our Web site will be able to "remember" information about you and your preferences either until you exit your current browser window (if the cookie is temporary) or until you disable or delete the cookie.
+Many users prefer to use cookies in order to help them navigate a Web site as seamlessly as possible.
+You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender with personal or other information from your computer.
+==========
+If you choose not to accept a cookie, you will still be able to use our Web site.
+Our uses of "cookies" are limited to the following specific situations: If you are accessing our services through one of our enterprise (OnSite service) customers, our Web server may automatically send your browser a temporary cookie, which is used to help your browser navigate our site.
+The only information contained in these temporary cookies is a direction value that lets our software determine which page to show when you hit the back button in your browser.
+This bit of information is erased when you close your current browser window.
+==========
+The second situation in which we may use cookies is when you visit our Web site and request documentation or a response from us.
+When you are filling out a form you may be given the option of having our Web site deliver a cookie to your local hard drive.
+This type of cookie is not temporary, although you can always delete or disable it through your browser preferences.
+You might choose to receive this type of cookie in order to save time in filling out forms and/or revisiting our Web site.
+We only send this type of cookie to your browser when you have clicked on the box labeled "Please remember my profile information" when submitting information or communicating with us.
+Even if you choose to receive this type of cookie, you can always set your browser to notify you when you receive any cookie, giving you the chance to decide whether to accept it in each situation in which one is sent.
+To find more information about cookies, if you are using Microsoft Internet Explorer® as your browser, go to the Microsoft Web site at http://www.microsoft.com/info/cookies.htm?RLD=291 or if you are using Netscape Navigator® as your browser, go to the Netscape Web site at http://home.netscape.com/security/basics/index.html
+How We Use and With Whom We Share the Information We Gather
+We assure you that the information we gather from you is used by us only as explained below.
+==========
+Sending you responses and updates
+We generally respond to any e-mail questions, requests for product or service information, and other inquiries that we receive.
+We may also retain this correspondence to improve our products, services, and Web site, and for other disclosed purposes.
+Frequently we retain contact information so that we can send individuals updates or other important information about our services and products.
+Occasionally these updates or other important information may be sent out by third parties on our behalf.
+Please be assured that any third party who contacts you in this capacity has executed a confidentiality agreement with us that contains a provision ensuring the privacy and security of any transferred information and limits the third party's use of the shared information to sending updates or providing services on our behalf.
+==========
+Facilitating the support, renewal, and purchase of our products and services
+We may use the information you submit to contact you to discuss the support, renewal, and purchase of our products and services.
+We may also provide the information you have submitted to us to a VeriSign subsidiary, business partner, representative or Affiliate (either within or outside the United States) so that the subsidiary, business partner, representative or Affiliate can contact you and facilitate the support, renewal, and purchase of VeriSign products and services.
+Our Affiliates are members of the VeriSign Trust Network (a certificate-based public key infrastructure that permits interoperable and secure electronic commerce and communications) and help us provide our foreign-based (and certain domestic) customers with support, assistance, and the provision of our products and services in their local markets.
+==========
+You may receive a communication directly from one of our subsidiaries, business partners, representatives or Affiliates.
+Please be assured that any subsidiary, business partner, representative or Affiliate who contacts you for one of these purposes has agreed to use the information we supply only in accordance with a confidentiality agreement or, with respect to Digital IDs, our CPS.
+To find out the names and locations of the subsidiaries, business partners, representatives and/or Affiliates to whom we have provided your information, please contact us at:
+VeriSign, Inc.
+==========
+Attention: Support
+1350 Charleston Road
+Mountain View, California 94043
+Facilitating the provision of certain included products and services (if you are applying for certain types of Digital IDs)
+Certain types of Digital IDs come with additional third-party services or products that are included with the Digital ID.
+If you purchase one of these Digital IDs, we may forward some or all of the information in your application to third party providers so that they can provide you with the service or product and follow up with you directly regarding their service or product or an upgrade.
+Please be assured that we have agreements with these third-party service or product providers that prevent them from disclosing the information to other parties.
+Validating your identity (if you are applying for certain types of Digital IDs)
+Certain types of Digital IDs require that we compare some of the information in your application to information contained in a third-party database or with some other third party source.
+We do this in order to authenticate your identity and other attributes.
+These third parties have executed confidentiality agreements with us that prohibit the further sharing or use of such information.
+==========
+Forming the contents of a Digital ID
+The exact information that appears in our different types of Digital IDs is set forth in the relevant enrollment page, our CPS, and this Privacy Statement.
+Generally this information is limited to e-mail address and name, but certain classes of Digital IDs contain additional information.
+For example, Server IDs may contain the organization's Dun and Bradstreet number.
+==========
+Please note that all information that you provide us that forms the content of a Digital ID will be "published."
+Publication of Digital IDs in an accessible location (a repository) is an integral part of enabling the widespread use of Digital IDs.
+Your Digital ID will be published in our repository so that a third party may access, review, and rely upon your Digital ID.
+You should have no expectation of privacy regarding the content of your Digital ID.
+If you are applying for certain types of Digital IDs, you may be asked if you would like to include designated portions of the enrollment information (as disclosed and explained on the applicable enrollment page) in your Digital ID.
+==========
+Inclusion of this information is strictly voluntary.
+We provide you with this option in order to permit certain Web sites to read and use personalization information so that you are provided with an enhanced and customized experience and/or are able to obtain quicker and more accurate registration at these sites.
+If you choose to include personalization information in your Digital ID, this additional information will be kept confidential, as it does not form part of the content of your Digital ID.
+If we are required to disclose by law
+If we are required by law to disclose certain information to local, state, federal, national or international law enforcement authorities, we will do so.
+==========
+Surveys
+From time-to-time we may request information from customers via surveys.
+Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information.
+Survey information will be used for purposes of monitoring or improving the use of and satisfaction with this Web site.
+Your Ability to Opt-Out of Further Notifications
+From time-to-time, we notify our subscribers of new products, announcements, upgrades and updates.
+If you would like to opt-out of being notified, please contact us at our mailing address:
+VeriSign, Inc.
+==========
+Attention: Support
+1350 Charleston Road
+Mountain View, California 94043
+If you would like to change your preferences online, please visit http://www.verisign.com/compref/ Please be aware that we reserve the right to notify our subscribers of any information that affects the security of our products or services.
+Our Security Procedures
+We consider the protection of all personally identifiable information we receive from our Web site visitors and subscribers as critical to our corporate mission.
+Please be assured that we have security measures in place to protect against the loss, misuse, and alteration of any information we receive from you.
+==========
+As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information.
+In order to try to minimize this risk, we encrypt all information that you submit in ordering one of our products or services using the Secure Sockets Layer (SSL) protocol.
+Our security procedures are also subject to an annual SAS-70 Type II audit by an internationally-recognized accounting firm.
+==========
+How You Can Update or Correct Your Information
+We cannot update or correct information contained in a Digital ID without destroying the integrity of the Digital ID because we digitally sign each subscriber's Digital ID as a part of the Digital ID issuance process.
+If we were to subsequently modify or remove any information listed in a Digital ID, our digital signature would not verify the Digital ID's new content.
+Furthermore, if a subscriber (sender) then digitally signed a message with his or her private key, a third party would not be able to properly verify the sender's signature (created using the sender's private key) because the sender's Digital ID would have been altered after the key pair's creation.
+For more information and tutorials on digital signatures, Digital IDs, keys, and related subjects, click here http://www.verisign.com/repository
+If you would like to update or correct any information in our records that is not contained in your Digital ID, please contact us via e-mail at id-support@verisign.com (for Class 1 and Class 2 Digital IDs) or at support@verisign.com (for Class 3 Digital IDs) or at our mailing address:
+VeriSign, Inc.
+==========
+Attention: Support
+1350 Charleston Road
+Mountain View, California 94043
+How You Can Revoke (Deactivate) Your Digital ID
+When a third party wants to rely on a Digital ID, it is important for the third party to know its status (for example, whether it is valid, suspended (where available) or revoked).
+The third party may do this by accessing our repository and querying for the status of the Digital ID.
+We do not generally delete Digital IDs (and their content) from our on-line repository because a third party might not then be able to check its status.
+You may, however, revoke (deactivate) your Digital ID.
+A revoked Digital ID will still appear in our repository with an indication that it has been revoked.
+If you are a Digital ID subscriber and would like to have your Digital ID revoked (deactivated) from our database, please visit our site at https://digitalid.verisign.com/revoke.htm and follow the listed instructions or contact us via e-mail at id-support@verisign.com (for Class 1 and Class 2 Digital IDs) or at support@verisign.com (for Class 3 Digital IDs) or at our mailing address:
+VeriSign, Inc.
+Attention: Support
+1350 Charleston Road
+Mountain View, California 94043
+Be sure to read our Privacy FAQ
+==========

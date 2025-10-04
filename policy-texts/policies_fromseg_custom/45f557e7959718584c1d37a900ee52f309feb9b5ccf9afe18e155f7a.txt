@@ -1,0 +1,90 @@
+Legal Notices
+cPanel Inc. ("cPanel") makes information and products available on this web site, subject to the following terms and conditions.
+By accessing this site, you agree to these terms and conditions.
+cPanel reserves the right to change these terms and conditions, and the products, services, prices, and programs mentioned in this site at any time, at its sole discretion, without notice.
+cPanel reserves the right to seek all remedies available by law and in equity for any violation of these terms and conditions.
+Any rights not expressly granted herein are reserved.
+==========
+Copyright
+The information on this web site is protected by copyright.
+Except as specifically permitted, no portion of this web site may be distributed or reproduced by any means, or in any form, without cPanel's prior written permission.
+COPYRIGHT NOTICE
+  © 1997-2006 cPanel Inc., PO Box 307, White Haven, PA 18661 USA.
+All rights reserved.
+==========
+Trademarks
+Please see the Trademark Usage Policy for a complete list of cPanel trademarks.
+Use of Software
+The software and accompanying documentation available to download from this site are the copyrighted work of cPanel.
+Use of the software is governed by the terms of the end user license agreement, which accompanies such software.
+If no license accompanies the download, the terms of the license, which accompanied the original product being updated, will govern.
+You will not be able to use, download, or install any software unless you first agree to the terms of the end user license agreement.
+==========
+Use of Materials
+All materials contained in this website are the copyright property of cPanel, its subsidiaries, any third party affiliates, and/or partners of cPanel.
+All trademarks are proprietary to cPanel, its subsidiaries, third party afflicted and/or partners of cPanel.
+==========
+Unless otherwise expressly specified, the materials and services on this website are for your personal and non-commercial use, and you may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from the website without the written permission of cPanel.
+Warranties and Disclaimers; Liability Limitations
+Except as expressly provided otherwise, all information and software on this web site are provided "as is" without warranty or conditions of any kind, either express or implied, including, but not limited to, the implied warranties or conditions of merchantability or fitness for a particular purpose.
+In addition, except as expressly provided otherwise, cpanel disclaims any warranties of non-infringement.
+In no event shall cPanel be liable for any special, incidental, indirect or consequential damages of any kind, or any damages whatsoever (including without limitation, those resulting from: (1) reliance on the materials presented, (2) loss of use, data or profits, (3) delays or business interruptions, (4) and any theory of liability, arising out of or in connection with the use or performance of information) whether or not cPanel has been advised of the possibility of such damages.
+==========
+cPanel assumes no responsibility for inaccuracies, errors or omissions in the information or software or other documents which are referenced by or linked to this web site.
+cPanel may make changes to the website, information, software, website, documents, publications, prices, technical specifications, product offerings and any other information and materials on the website at any time and without notice.
+Submissions
+cPanel may, but is not obligated to, review or monitor areas on its site where users may transmit or post communications, including the user forums.
+cPanel is not responsible for the accuracy of any information, data, opinions, advice, or statements transmitted or posted on the user forums.
+You are prohibited from posting or transmitting to or from this web site any libelous, obscene, defamatory, pornographic, or other materials that would violate any laws.
+However, if such communications do occur, cPanel will have no liability related to the content of any such communications.
+==========
+Accounts and Security
+If any of the services on the website requires you to open an account, you must complete the registration process by providing us with true, current, complete and accurate information as prompted by the applicable registration form, and you will maintain and promptly update such information to keep it true, current, complete and accurate.
+You also will choose a password and a user name.
+You are entirely responsible for maintaining the confidentiality of your password and account.
+Furthermore, you are entirely responsible for any and all activities that occur under your account.
+==========
+You agree to notify cPanel immediately of any unauthorized use of your account or any other breach of security.
+cPanel will not be liable for any loss that you may incur as a result of someone else using your password or account, either with or without your knowledge.
+However, you could be held liable for losses incurred by cPanel or another party due to someone else using your account or password.
+You may not use anyone else's account at any time, without the permission of the account holder.
+==========
+You acknowledge and agree that certain services may provide password-restricted access to customer information such as names and certain terms of your contracts.
+By using this website and registering for such services, you consent to cPanel's display of such information via the services and accept all risks of unauthorized access to such information.
+If you provide any information that is false, inaccurate, out of date, or incomplete, or cPanel has reasonable grounds to suspect that such information is false, inaccurate, not current, or incomplete, cPanel may suspend or terminate your account and refuse any and all current or future use of the services or any portion thereof.
+You are responsible for all costs and charges, including without limitation, phone charges and telecommunications equipment, that you incur in order to use the services.
+==========
+Compliance with Laws
+Governing Law and Jurisdiction
+You agree that all matters relating to your access to, or use of, this web site shall be governed by the laws of the state of Texas.
+cPanel makes no representation that information on this web site are appropriate or available for use in all countries, and prohibits accessing materials from territories where contents are illegal.
+Those who access this site do so on their own initiative and are responsible for compliance with all applicable laws.
+Export Control Laws
+Product, including software and documentation, available on the cPanel web site is subject to export controls administered by the United States and other countries.
+Diversion contrary to U.S. law is prohibited.
+==========
+Export, re-export or import of certain product may require action on your behalf prior to purchase and it is your responsibility to comply with all applicable international, national, state, regional and local laws, and regulations, including any applicable import and use restrictions.
+cPanel product is currently prohibited for export or re-export to Cuba, North Korea, Iran, Iraq, Libya, Syria and Sudan or to any country subject to relevant trade sanctions.
+In addition, cPanel product is prohibited for export or re-export to any person or entity on the U.S. Department of Commerce Denied Persons, Entities and Unverified Lists, the U.S. Department of State's Debarred List, or on the U.S. Department of Treasury's lists of Specially Designated Nationals, Specially Designated Narcotics Traffickers or Specially Designated Terrorists, as the same may be revised from time to time, or for use with chemical or biological weapons, sensitive nuclear end-users, or missiles.
+By downloading or using product from this site, you are agreeing to the foregoing and all applicable export control laws.
+You are also warranting that you are not under the control of, located in, or a resident or national of any such country or on any such list.
+==========
+The information on export laws provided herein is not necessarily complete.
+For more information on export laws, please contact the U.S. Department of Commerce, Bureau of Industry and Security (BIS).
+More information on BIS can be found at: http://www.bxa.doc.gov.
+==========
+General Information
+The Terms of Use constitute the entire agreement between you and cPanel and govern your use of the website, superseding any prior agreements between you and cPanel on the subject matter (including, but not limited to, any prior versions of the Terms of Use).
+Notwithstanding the prior provision, to the extent, and only to the extent, that any terms set forth in this Terms of Use expressly contradicts any terms of a prior written agreement between you and cPanel in effect as of the date of your use of the website and specifically regarding your use of the website ("Executed Agreement"), such contradictory terms set forth in the Executed Agreement shall govern.
+You also may be subject to additional terms and conditions that may apply when you use other cPanel services, third-party content or third-party software.
+You must not assign or otherwise transfer the Terms of Use nor any right granted hereunder.
+California law and controlling U.S. federal law govern any action related to the Terms of Use, without regard to the principles of choice of law.
+==========
+The parties specifically disclaim the U.N. Convention on Contracts for the International Sale of Goods.
+The failure of cPanel to exercise or enforce any right or provision of the Terms of Use does not constitute a waiver of such right or provision.
+==========
+If a court of competent jurisdiction finds any provision of the Terms of Use to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the Terms of Use remain in full force and effect.
+Regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the website or the Terms of Use must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+The section titles in the Terms of Use are for convenience only and have no legal or contractual effect.
+cPanel Web Site Feedback Form
+==========

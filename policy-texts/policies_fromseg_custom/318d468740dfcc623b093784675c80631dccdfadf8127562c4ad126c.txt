@@ -1,0 +1,85 @@
+Responding to complaints by privacy activists, the White House has quietly abandoned YouTube as the provider of the embedded videos on the president's official home page.
+With the release of the latest weekly video address, the White House has shifted to a Flash-based video solution using Akamai's content delivery network.
+The White House's decision to move away from the Google-owned video-sharing site will likely be met with praise by privacy activists and could mark the beginning of a real backlash in response to Google's insatiable thirst for detailed data on the browsing habits of Web surfers.
+Ironically, the decision by the White House comes days after YouTube began to roll out new policies to better protect the privacy of visitors who view videos embedded into federal government Web sites.
+==========
+The move by YouTube may prove to be too little, too late.
+This is the new embedded video tool used by the White House.
+(Credit: Whitehouse.gov)
+The White House's decision to embed YouTube videos in the president's official home page drew instant criticism from privacy activists.
+In addition to several critical posts on my blog, by the Electronic Frontier Foundation (here and here), the Center for Democracy and Technology and the Center for Digital Democracy blasted the choice of video providers.
+==========
+The focus of the criticism was on the use of long-term tracking cookies by the Google-owned video-sharing site.
+When the new White House site first went live in January, every visitor to the president's blog would be issued a tracking cookie, even those who did not click the "play" button to watch the video.
+The White House acted quickly, and soon deployed a technical fix to the cookie issue, which protected Web surfers who did not click the play button.
+However, the tens of thousand of people who clicked play were still issued a cookie, and thus tracked by YouTube.
+In an unannounced change over the weekend, the White House appears to have solved the remaining cookie privacy issue for those Web site visitors who wish to watch the president's weekly video message.
+==========
+Out with YouTube, in with Akamai
+As of Saturday, the White House seems to have ditched YouTube as its video provider.
+Visitors to the White House blog can now click play to view a Flash-based video that loads directly from the White House's own Web servers.
+This solution, which appears to use Akamai's content delivery network, does not make use of tracking cookies.
+The president's tech team seems to have finally hit on an optimal solution--one which protects the privacy of the visitors to the White House site, while still permitting the president to spread his message.
+==========
+The White House is still posting copies of the videos to its official YouTube channel.
+However, the president no longer provides free advertising to YouTube by embedding those videos on a taxpayer-funded site.
+Furthermore, the White House has copied one of the coolest of YouTube's social features: the ability for users to easily share and embed videos on their own sites.
+Each of the White House-hosted videos includes an "embed" link under it that can be copied and pasted onto any other Web site or blog.
+==========
+It is unclear whether this switch away from YouTube marks a permanent shift in policy for the White House, or whether the Oval Office geek squad is merely testing an alternate video provider.
+While the latest video is served using Akamai's servers, the older videos remain as embedded YouTube files.
+YouTube's new cookie rules
+The timing of the White House's decision to switch to Akamai is rather strange, given the recent moves by YouTube to offer a more privacy-preserving solution for videos used on federal government sites.
+==========
+Within the last couple weeks, YouTube has silently rolled out its own updates in response to the cookie-related criticism.
+People wishing to embed a YouTube video can now select a delayed cookies option when copying the embed URL.
+This is the new delayed cookies option for YouTube embeds.
+==========
+(Credit: Screenshot of YouTube)
+That choice will cause the embedded videos to be served from an alternate domain, www.youtube-nocookie.com, which registrar records reveal was first registered on January 23 2009, just one day after this blog first mentioned the White House/YouTube cookie issue.
+New documentation on the YouTube site reveals:
+Enabling delayed cookies means that the YouTube video player will not set any non-session cookies on the computer of a visitor (viewing the page on which the YouTube video is embedded).
+The YouTube video player may set non-session cookies on the visitor's computer once the visitor clicks on the YouTube video player.
+This option is rather similar (yet still inferior) to the technical fix that was previously used (and since disabled) by the White House, as well as the open source MyTube tool developed by the Electronic Frontier Foundation.
+==========
+A prominent privacy policy
+In another new move by YouTube, the site now appears to be directly embedding a link to its privacy policy in all videos that are played from government sites.
+This is the new privacy policy link in .
+gov-hosted YouTube videos.
+(Credit: Whitehouse.gov)
+When those same videos are viewed at YouTube.com, or when embedded in a blog or other non-.
+gov site, the clickable link to the privacy policy is gone.
+Webmasters for various state agencies seemed to notice the new policy last week and initially complained to YouTube, thinking that the new youtube-nocookie.
+com was a phishing site.
+A representative from YouTube told the Webmasters:
+The privacy policy link you see on your embed player is in response to federal regulations regarding privacy on embed players.
+We're working to remove it from state and local .
+gov sites as soon as possible.
+==========
+Still not perfect
+While the decision by the White House to ditch YouTube is a good one, unresolved issues remain.
+First, as previously noted by the Electronic Frontier Foundation, the White House Web site makes use of an "invisible pixel" style Web bug/tracker on every page on the site, hosted by WebTrends.com.
+Ideally, the White House should take its Web analytics technology in-house and abandon the use of this third party tracking technology.
+Otherwise, at the very least, the White House privacy policy should be updated to note the tracking cookies used by WebTrends.
+Second, the White House still has not published the waivers it issued to YouTube (and potentially other third parties), which permitted the sites to use long-term tracking cookies.
+The Electronic Frontier Foundation has repeatedly asked for these documents-- requests that the White House has ignored.
+Given the president's much-publicized commitment to transparency, it is time that the White House publishes these documents.
+==========
+Third, in its recent move to include privacy policy links in videos embedded at .
+gov Web sites, YouTube has clearly demonstrated that it has the ability to modify the services it provides depending on the referrer information associated with incoming requests.
+YouTube should build on this and adopt a policy of not logging any data associated with .
+gov-referred requests.
+That is, the site would be free to keep logs on the videos viewed by visitors to its own site as well as those embedded on blogs, but it would opt to immediately forget all identifying information associated with requests from government sites.
+==========
+While the White House seems to understand the cookie privacy issue, it is unlikely that members of the House and Senate are equally as tech savvy.
+After all, some of them can barely figure out Twitter.
+YouTube videos are heavily used on the Web sites of those in the House and Senate.
+YouTube should adopt sane logging policies for visitors who view these videos, so that we don't have to wait for the House and Senate to fix the problem themselves.
+YouTube did not return a request for comment, while a representative for the White House Web team declined to speak on the record.
+Christopher Soghoian delves into the areas of security, privacy, technology policy and cyber-law.
+==========
+He is a student fellow at Harvard University's Berkman Center for Internet and Society , and is a PhD candidate at Indiana University's School of Informatics.
+His academic work and contact information can be found by visiting www.dubfire.net/chris/.
+He is a member of the CNET Blog Network, and is not an employee of CNET.
+Disclosure.
+==========

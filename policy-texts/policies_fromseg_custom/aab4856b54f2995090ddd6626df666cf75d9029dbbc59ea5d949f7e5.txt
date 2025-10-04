@@ -1,0 +1,122 @@
+Cybercriminals are increasingly moving from stealing just personal data to capturing trade secrets and other corporate intellectual capital that they can easily sell through the underground market, according to a new report from McAfee and the SAIC.
+In today's release of a new study, "Underground Economies: Intellectual Capital and Sensitive Corporate Data Now the Latest Cybercrime Currency" (PDF), McAfee and the Science Applications International Corporate find that the theft of trade secrets, marketing plans, R&D data, and even source code is on the rise, especially as such information is often unprotected.
+==========
+Based on a global survey of IT professionals, the report uncovered a number of findings.
+A quarter of the companies surveyed said a data breach or just the threat of one has put a halt on plans for a merger or new product launch.
+==========
+Among those that actually suffered a data breach, only half of them ... Read full post & comments
+Barrett Lyon's blog revealed that traffic destined for Facebook was mysteriously re-routed through China.
+(Credit: Blyon.com)
+A funny thing happened to some traffic heading to Facebook earlier this week.
+It ended up going out of the way through China.
+Barrett Lyon, an entrepreneur and network security expert who blogged about the incident on Tuesday, suggested it was merely an accident.
+But Rodney Joffe, senior technologist at DNS (Domain Name System) registry Neustar, disagrees and described it as "route hijacking."
+"It's real.
+It is happening.
+It can't be described as an 'accident' anymore," Joffe, who observed similar traffic snafus involving China last year, said in an e-mail to CNET today.
+==========
+China is notorious for its efforts at censoring the Internet, and free speech activists worry about the government being able to snoop on citizens' Internet communications, although what officials there would want with U.S. citizens' ... Read full post & comments
+Originally posted at InSecurity Complex
+If you use TripAdvisor you may soon be getting more spam.
+The travel site told customers in an e-mail today that someone had breached its network and stolen e-mail addresses for an undisclosed number of its members.
+"This past weekend we discovered that an unauthorized third party had stolen part of TripAdvisor's member email list," Steve Kaufer, co-founder and chief executive, wrote in the e-mail.
+==========
+"We've confirmed the source of the vulnerability and shut it down.
+We're taking this incident very seriously and are actively pursuing the matter with law enforcement."
+==========
+He did not divulge how many e-mail addresses were exposed, but said it was "only a portion of all member e-mail addresses."
+Meanwhile, passwords remained secure, he said, adding that the site does not collect credit card or financial information and does not sell or rent its member list.
+In an FAQ on the TripAdvisor site ... Read full post & comments
+Originally posted at InSecurity Complex
+(Credit: ICS-CERT)
+Flaws in SCADA software, used to monitor and control sensors and operations at utilities and other critical infrastructure facilities, seem to keep coming out of the woodwork:
+• Last week, the U.S. ICS-CERT (Industrial Control System Computer Emergency Response Team) issued several advisories about vulnerabilities exposed in SCADA (supervisory control and data acquisition) software.
+==========
+One was in an ActiveXcontrol in WellinTech KingView V6.53 human machine interface (HMI) software used in power, water, and aerospace industries, mostly in China.
+The researcher publicly released exploit code for the hole and the vendor released an update that resolves the problem.
+==========
+The second vulnerability was reported in Progea's Movicon 11 HMI product, used primarily in Italy.
+It too has been patched.
+==========
+• Also last week, a Russian firm released exploits targeting 11 unpatched, or zero-day, holes in SCADA software, which The Register was first to report.
+• Three days ... Read full post & comments
+Originally posted at InSecurity Complex
+A long-known but little-discussed vulnerability in the modern Internet's design was highlighted yesterday by a report that hackers traced to Iran spoofed the encryption procedures used to secure connections to Google, Yahoo, Microsoft, and other major Web sites.
+==========
+This design, pioneered by Netscape in the early and mid-1990s, allows the creation of encrypted channels to Web sites, an important security feature typically identified by a closed lock icon in a browser.
+The system relies on third parties to issue so-called certificates that prove that a Web site is legitimate when making an "https://" connection.
+The problem, however, is that the list of certificate issuers has ballooned over the years to approximately 650 organizations, which may not always follow the strictest security procedures.
+And each one has a copy of the Web's master keys.
+Compromise related to fraudulent digital certificates is traced to IP addresses in Iran, Comodo says.
+... Read full post & comments
+Originally posted at Privacy Inc.
+==========
+Update, 7:01 p.m. PT: with Hotz saying he is on a long-planned vacation.
+If you've been following the drama between Sony and hacker GeoHot (aka George Hotz) then you're in for a fun twist today: Sony is accusing Hotz of fleeing the country, but Hotz says he's just enjoying spring break.
+==========
+Sony makes the allegation in a court filing (PDF, see page 2, line 24) dated Friday.
+After news stories began appearing today, Hotz wrote a blog post to set the record straight.
+"Actually, it's true I'm in South America, on a vacation I've had planned and paid for since November.
+I mean, it is spring break; hacking isn't my life," he writes.
+==========
+"Rest assured that not a dime of legal defense money would ever go toward something like this.
+And of course [Sony-employed law firm Kilpatrick Townsend & Stockton] loves the idea of painting me as an international fugitive.
+I have been in contact with my lawyers almost every day; I would not let the case suffer."
+==========
+George Hotz telling Sony how he feels.
+(Credit: YouTube)
+Hotz is well known for reverse-engineering the multi-digit code that allows the installation and execution of non-Sony-recognized code on PlayStation 3s, essentially allowing anyone with a PS3 to run homebrew software, or even pirated games.
+A federal magistrate a couple weeks ago OK'd Sony's request for Hotz to hand over his hacking gear--his PS3 consoles, computers, and other equipment--untouched.
+==========
+It seems that before turning the stuff in, he allegedly made edits, deleting key evidence that Sony likely planned to use against him.
+What's more, Hotz was allegedly caught lying about having a PlayStation Network (PSN) account.
+But Sony says it was able to prove that in February of last year, Hotz allegedly purchased a new PS3 and, tracing the serial number, Sony says it concluded that he had set up a PSN account under the screen name "blickmanic," which is also a name Hotz used on previous Web forums on iPhone jailbreaking.
+... Read full post & comments
+Originally posted at Crave
+With more than 15 years experience testing hardware (and being obsessed with it), Crave freelance writer Matt Hickey can tell the good gadgets from the great.
+==========
+He also has a keen eye for future technology trends.
+Matt has blogged for publications including TechCrunch, CrunchGear, and most recently, Gizmodo.
+==========
+Matt is a member of the CNET Blog Network and is not an employee of CBS Interactive.
+E-mail Matt.
+==========
+Customers of Play.com have been left open to spam fraud after one of the online retailer's suppliers suffered a data breach.
+Play.com wrote to users on Monday outlining the problem, which it said may have exposed e-mail addresses, but not credit card details.
+"We are e-mailing all our customers to let you know that a company that handles part of our marketing communications has had a security breach," said the message.
+"Unfortunately this has meant that some customer names and e-mail addresses may have been compromised."
+Read more of "Play.com admits data breach" at ZDNet UK.
+==========
+The U.S. government is warning that critical infrastructure systems are at risk of being compromised or attacked in response to the public release of exploits for dozens of holes in four different supervisory control and data acquisition, or SCADA software products.
+Saying he had no previous knowledge of SCADA systems before beginning his analysis "some months ago," Italian researcher Luigi Auriemma yesterday posted proof-of-concept software targeting Siemens Tecnomatix FactoryLink, Iconics GENESIS32 and GENESIS64, 7-Technologies IGSS (Interactive Graphical SCADA System) and DATAC RealWin products to the BugTraq security e-mail list.
+SCADA systems allow employees at utilities and other industrial plants to monitor and control sensors and operations.
+==========
+"In technical terms, the SCADA software is just the same as any other software used everyday," Auriemma wrote, adding that he was able to exploit common bugs including exploit stack, heap and integer overflows, as well as perform arbitrary command executions and memory ... Read full post & comments
+Originally posted at InSecurity Complex
+Nearly 13 million American adults who use social networks are more than willing to accept friend requests from strangers of the opposite gender, a new survey from Harris Interactive has found.
+According to Harris Interactive, 18 percent of men will accept a woman's friend request, even if they do not know the person.
+About 7 percent of women will accept an unknown man's friend request.
+A total of 5 percent of U.S. adults will accept every friend request they receive.
+==========
+The key to stealing a person's identity is built with just a handful of pieces.
+And much of that information is openly available on social networks.
+==========
+(Credit: Harris Interactive)
+Only 50 percent trust that their connections will keep their information private.
+Yet more than 24 million Americans leave their personal information "mostly public" on social networks.
+==========
+The results are based on a survey last month
+... Read full post & comments
+Originally posted at The Digital Home
+Don Reisinger is a technology columnist who has written about everything from HDTVs to computers to Flowbee Haircut Systems.
+Don is a member of the CNET Blog Network, posting at The Digital Home.
+He is not an employee of CNET.
+==========
+Disclosure.
+Draft legislation would provide new privacy protections for Americans by requiring police to obtain search warrants to track the locations of cars and cell phones.
+The forthcoming bill being prepared by Sen. Ron Wyden (D-Oregon) and reviewed by CNET would provide legal protections for "geolocation information," meaning data that can locate a person through a wireless device or through a GPS tracker placed on a vehicle.
+Even though police are tapping into the locations of mobile phones and implanting GPS bugs thousands of times a year, the legal ground rules remain unclear, and federal privacy laws written a generation ago are ambiguous at best.
+Courts have split over how easy it should be for police to track Americans electronically, and whether the same rules should apply to live tracking and obtaining stored information about someone's earlier whereabouts.
+"I think that ... Read full post & comments
+Originally posted at Privacy Inc.
+==========

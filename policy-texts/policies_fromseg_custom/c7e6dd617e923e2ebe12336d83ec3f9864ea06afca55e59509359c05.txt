@@ -1,0 +1,211 @@
+1.
+INTRODUCTION 
+Retargetly is an independent full stack data solution.
+==========
+We operate a technology platform consisting of two entities: a data unit and a consulting unit, providing data solutions and analysis for the benefit of publishers, advertisers and end users alike.
+We are committed to respecting all applicable privacy laws and ensuring your data is secure.
+==========
+This Privacy Notice explains how Retargetly uses and protects personal information.
+Retargetly may change this Notice from time to time by updating this page.
+You should check back to ensure that you are up to date with any changes.
+Retargetly does not hold any data that makes you directly contactable, such as names, addresses (physical or e-mail), payment or similar information.
+Retargetly is a NAI (Network Advertising Initiative) member and we adhere to the NAI Code of Conduct.
+If you have any additional questions and wish to contact our Compliance Department please send us an email at privacy [at] retargetly.com.
+2.
+==========
+WHO IS THE DATA CONTROLLER FOR OUR ACTIVITIES?
+The organization responsible for deciding why and how your personal information is handled – referred to as a “Data Controller” - is:
+Company Name:
+Retargetly LLC
+Company Number:
+37-1778728
+Company Address:
+1201 N Orange St, Suite 700 #7352
+Wilmington, DE 19801-1186
+United States of America
+The company’s Data Protection Officer is:
+Vincent Potier
+dpo [at] retargetly.com
+3.
+WHAT ARE THE PURPOSES FOR WHICH YOUR DATA IS PROCESSED?
+==========
+Retargetly provides services that assist data partners with access to large amounts of user data to fund their activities through advertising; and brands or advertising agency clients to tailor advertisements better to the anticipated interests and preferences of particular internet users.
+We do this by obtaining data from a variety of sources (please see Section 5 below), and using it to create audiences of what are likely to be similar groups of users e.g. that have common interests, a common age group or location.
+==========
+We have two main activities, data segments and DMP.
+For data segments, we source data from publishers, clients, third parties, and we then create enriched data segments.
+For our DMP activity (data management platform), we either let clients manage their data sets or we white label it to other parties.
+This allows us or our clients to show you advertising that is more relevant and interesting to you, on one or more devices that you use.
+In order for us to receive and process your data, you will have already consented to accepting cookies or similar technologies from us or one of our data partners.
+You can always change your cookie preferences as set out in Section 10 below.
+In addition, we will process data in order to measure the effectiveness of advertising (e.g. whether an ad was viewable, clicked on, or led to a purchase), controlling your experience (e.g. knowing how many times an ad was seen or limiting the number of times it’s shown on a particular device), detecting and combating fraud, testing and improving ad campaigns, and analyzing trends in e-commerce and web use.
+4.
+==========
+WHAT CATEGORIES OF DATA DO WE PROCESS?
+WHAT IS OUR LEGAL BASIS FOR PROCESSING IT?
+==========
+We process information such as the following:
+cookie IDs,
+device IDs (such as IP addresses), 
+advertising IDs (such as mobile advertising IDs), 
+mobile device usage data (such as apps used),
+location data received from your device, 
+url’s (webpages) visited or searched, 
+interactions with ads (e.g. views, clicks, purchases), 
+advertising bid requests, and 
+demographic information such as age, gender, city/region, income, language.
+If we receive information that could be used to determine the identity of users (e.g. phone numbers, ID card numbers, email addresses), then this information is permanently hashed (or anonymized).
+==========
+So even though, under the laws of some places, the data we use is subject to the rules on personal data protection, we do not process personally identifiable information that can identify particular individuals.
+Where applicable laws permit, we sometimes process special categories of data (such as inferences regarding people’s ethnic origin, or non-sensitive medical conditions; these are available in the following link).
+In the EU/EEA/UK we do not process special categories of data and we do not create audiences from these categories of data.
+==========
+We do not knowingly process data relating to children under 18 years of age.
+If you are a parent or guardian and believe that we may have processed data relating to a child you are responsible for, please refer to the sections below on managing choices and legal rights.
+==========
+We rely on various legal bases for our data processing:
+When we are a data controller (data segments), our legal basis will be consent.
+Still we believe we also have a legitimate interest to collect and process personal data for the following purposes:
+Frequency measurement (counting the number of times ads have been seen): this is necessary if we want to make sure ads are not shown more than a certain number of times to the same user
+Click count (counting the number of times ads seen have been clicked on); this is necessary to understand which creative formats generate interest and engagement and which ones don’t
+Frequency capping; ensuring ads are not shown to the same users more than a certain number of times
+Understanding browsing behaviours of aggregated users
+Testing ads
+Conversion tracking (counting the number of times users who have seen ads have proceeded to buy a product or service); this is necessary to understand the overall return on investment of that ad and therefore whether the investment on that campaign is worthwhile and whether publishers will receive more or less investment 
+View-through measurement; understanding whether users have made purchases after having seen ads
+Where we apply the legitimate interest legal basis, we ensure that we take into account your expectations and rights, and that they do not override our business interests.
+When we are a data processor (for example, when client data is managed in our DMP), we will rely on the legal basis of our clients.
+Some of our data partners may rely on different legal bases.
+These should be explained to you before your data is collected.
+5.
+==========
+WHERE DOES THE DATA ORIGINATE FROM?
+Retargetly collects data directly on partner websites and apps using cookies, pixels or similar data identification tools.
+These partners could be clients, advertisers, agencies, publishers, third party data aggregators etc.
+When you visit a website or app operated by one of our data partners, they may ask for your consent to use cookies to personalize your advertising experience, so this data can be automatically sent to us.
+Data providers who also have many relationships with website and app publishers may also provide us with their data, and advertisers may already have data lists that they provide to us for provision of advertising services.
+==========
+We also gather data from sources such as Equifax, Navent, and Almundo.com which may help give us a more complete picture of users’ interests.
+Where we believe that we are seeing data relating to the same user or device, or different devices relating to the same user, we may combine these different data sources in order to make the results more complete and accurate.
+We require all our data partners only to collect data in accordance with applicable laws and to ensure that proper information and choices are given to all users.
+6.
+==========
+ARE THERE ANY OTHER RECIPIENTS OF YOUR DATA?
+For our clients and data providers, we may provide analyses and insights in the form of aggregated data, which does not include any individual personal data.
+Still, some selected clients may receive complete exports of our data at a granular level (cookie IDs, device IDs, segment IDs…).
+We also may provide data to third party platforms that provide technology for the purchasing of ad placements such as demand side platforms, data management platforms and ad networks.
+We also work with selected external data processors, e.g. for audience measurement, secure hosting or data storage providers.
+Certain clients may have access to our platform on a white label basis for the purposes of creating customized audiences or data analyses for their own clients.
+We may also need to provide data to other entities in our group of companies (currently located in Argentina, USA, Mexico, Brazil) that provide technical or support services.
+==========
+We would rely on the appropriate transfer mechanisms.
+Occasionally we may receive a request from a government, law enforcement agency or regulator requesting data from us, and we would normally comply with such request without having to notify you or other users.
+7.
+==========
+IS YOUR DATA TRANSFERRED INTERNATIONALLY?
+Other companies in our corporate group and some of the technical service providers referred to above may be located outside of your country.
+==========
+In particular, where we send data originating from the EU/EEA/UK to other places, we put in place safeguards designed to ensure that data is processed in a way equivalent to the rules applicable in the EU.
+These may include various transfer mechanisms such as for example the European Commission approved standard contract clauses for other transfers outside the EU.
+A copy of these safeguards may be made available if we receive a valid request.
+8.
+==========
+FOR HOW LONG DO WE RETAIN DATA?
+We retain audience data for up to 18 months for advertising purposes.
+Aggregated and anonymized or statistical data may be retained for 18 months for reporting.
+9.
+==========
+COOKIES
+A cookie is a small piece of data sent from a website and stored in a user’s web browser while the user is browsing that website.
+Every time the user loads the website, the browser sends cookie information back to the server to notify the website that it recognizes the user.
+You can find more information about different types of cookies here.
+==========
+We use persistent cookies that enable us to track and target the interests of our users to enhance the experience on our partners’ websites.
+Persistent cookies remain on your device for an extended period of time.
+You can remove or manage persistent cookies by following the directions provided below.
+10.
+==========
+HOW CAN YOU MANAGE COOKIES AND OTHER TECHNOLOGIES?
+If you no longer want to allow us to use your data for personalized ads, you can manage this directly as explained here.
+Please note that this procedure will block ads that are displayed by Retargetly, and if you have accepted cookies from other advertising providers you may need to repeat the process in relation to those.
+Of course, most websites and apps contain advertising, so those non-tailored ads will not be affected by managing cookies.
+==========
+Please manage your choices here: http://retargetly.com/optout/ 
+Managing choices in these ways sets a new cookie in your browser, which needs to be retained in your browser so that advertising providers recognize you as a visitor that has made this choice.
+If you clear that cookie from your browser, use a different web browser, or use a new device, you will need to repeat the process.
+You can also remove cookies from your web browser by following the directions provided in your browser’s “help” section.
+Remember that some cookies are essential for using different features of certain websites, so if you clear all cookies then those features may not work as expected, or you may need to accept some cookies on your next visit.
+For opting out in mobile devices please review your system privacy controls.
+For more information visit: https://www.networkadvertising.org/mobile-choice
+11.
+==========
+WHAT ARE YOUR RIGHTS?
+If you are located in the EU/EEA/UK, the GDPR lists the following rights: 
+The right to be informed
+The right of access 
+The right of rectification
+The right to erasure
+The right to restrict processing
+The right to data portability 
+The right to object
+The right not to be subject to automated decision-making
+Concretely, this means you have many rights in relation to data relating to you e.g.:
+to request access to it
+to request rectification of incorrect data
+to ask for it to be erased (the “right to be forgotten”)
+to object to its processing
+to ask for a copy to take to another service provider (“data portability”).
+==========
+If our data processing is based on your consent, then you can always withdraw that consent (but any processing that took place before withdrawal will still be legal).
+If you request that data be erased, the usual method for this is to remove all personally identifying elements so that the data is permanently anonymized and cannot be traced back to you.
+As we do not process contact or identification data such as names or emails we may not know whether or not we are processing any data relating to you, and may not always be able to meet specific requests, but we will always use reasonable efforts to do so.
+In case of any issue, please contact us using the details in this Notice and we will help as far as we can.
+If you believe that we have not respected your rights then you also have a right to make a complaint to the Supervisory Authority in your country (e.g. in Spain, the Agencia Española de Protección de Datos).
+12.
+==========
+CALIFORNIA CONSUMER PRIVACY ACT
+The CCPA (California Consumer Privacy Act) is a privacy law implemented on January 1 2020 in the State of California which defines personal information more broadly, ensures greater transparency, accountability and provides consumers with extended rights as to the collection and use of their personal information.
+Your rights under the CCPA:
+Your rights under the CCPA can broadly be divided into the following categories: (1) right to notice, (2) right to access, (3) right to opt out (or right to opt in), (4) right to request deletion, and (5) right to equal services and prices.
+Right to notice: Under the CCPA, businesses must inform consumers at or before the point of collection what categories of personal information will be collected and the purposes for which these categories will be used.
+==========
+Right to access: Consumers have the right to request that a business disclose the categories of personal information collected; the categories of sources from which personal information is collected; the business or commercial purpose; the categories of third parties with which the business shares personal information; and the specific pieces of personal information the business holds about a consumer.
+If a business sells personal information or discloses it for business purposes, consumers have the right to request the categories of information so sold or disclosed.
+Right to opt out: Consumers have the right—at any time—to direct businesses that sell personal information about the consumer to third parties to stop this sale, known as the right to opt out.
+If a consumer is a minor, the CCPA provides for a right to opt in to the sale of data (exercised by the minor if the consumer is between 13 and 16 years of age, or by the minor’s parent or guardian if the consumer is under 13 years old).
+Businesses must wait at least 12 months before asking consumers to opt back in.
+Right to request deletion: Consumers also have the right to request deletion of personal information, but only where that information was collected from the consumer.
+Like the right to erasure under the GDPR, this right is subject to exceptions.
+For instance, businesses need not delete personal information necessary for detecting security incidents, exercising free speech, protecting or defending against legal claims, or—in what is potentially a broad and likely contentious category—for internal uses reasonably aligned with the consumer’s expectations.
+==========
+Right to equal services and prices: The CCPA prohibits businesses from discriminating against consumers by denying goods or services, charging a different price or rate for goods or services, providing a different level or quality of goods or services, or suggesting that they will do any of these things based upon a consumer’s exercise of any CCPA rights.
+Put differently, consumers have a right to equal services and prices.
+Exercising your rights under the CCPA:
+According to the law (see paragraph above), you are entitled to request specific pieces of personal information (as defined under the CCPA) that we have about you, the business purpose for which the personal information was collected, categories of personal information, categories of sources from which the personal information was collected, categories of personal information that we either shared, transferred, sold with a business purpose, categories of those third parties to which the personal information was sold for a business purpose.
+==========
+If you want to do such a request, you can write to privacy [at] retargetly.com or call us toll free at +1 800-207-6471 and we will respond within 45 days as per the law.
+We reserve the right to verify your identity if you make such a request.
+However, we may not be able to respond to your request if it goes against applicable law.
+(Please note that we do transfer personal information collected through our network of partners to third parties and as such are considered as having disclosed or sold data (as defined under the CCPA) over the past twelve months.)
+13.
+==========
+Lei Geral de Proteção de Dados Pessoais (LGPD).
+The Lei Geral de Proteção de Dados Pessoais (LGPD) applies to any resident or any company (located in Brazil or abroad) collecting or/and processing data from Brazilian residents.
+==========
+A data protection authority will soon be established and will offer guidelines and guidance with regards to compliance.
+Retargetly collects data based on a valid legal basis such as consent (consentimento) or legitimate interests (interesses legítimos) as per article 7.1 of LGPD.
+Retargetly is in the process of appointing a Data Protection Officer ("Encarregado").
+Data subjects have the following rights under the LGPD:
+Confirmation of processing
+Access
+Correction
+Anonymization or deletion
+Portability
+Elimination
+Information
+Revocation of consent
+Opposition
+Rectification  
+
+Version: 22 September, 2020
+==========

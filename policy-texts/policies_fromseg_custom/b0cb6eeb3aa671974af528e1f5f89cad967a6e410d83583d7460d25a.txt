@@ -1,0 +1,283 @@
+Data protection declaration
+
+                With this data protection declaration we would like to inform you about how we process personal data.
+We are aware of the importance of the processing of personal data for the user and accordingly observe all relevant legal requirements.
+The protection of your privacy is of the utmost importance to us.
+==========
+Therefore, it goes without saying that we comply with the legal provisions on data protection.
+Group-oriented data protection
+
+                To what extent and in what form we process and store personal data depends on the respective group of persons.
+==========
+We differentiate as follows: Publishers, merchants and users.
+Publisher are website operators who use our service by implementing the digidip code to activate the digidip service on their website.
+The control and ongoing use of the digidip account is carried out via a web-based portal, which is available via login in the browser.
+Merchants are advertisers (or agencies or networks who represent merchants) who use the digidip technology to network with publishers who use our service.
+If desired, the control and use of the digidip merchant account takes place via a web-based portal, which is available via a login in the browser.
+Under partners we combine both groups, merchants and publishers.
+Users are those Internet users who use the Publishers' websites.
+Relevance
+
+                From the user's point of view and under data protection aspects, the following digidip technology components are relevant:
+            
+
+Tracking of clicks on outgoing links
+Tracking of purchase transactions
+
+
+                In this context, no personal data such as names or e-mail addresses that can be traced back to a natural person are visible to digidip at any time.
+==========
+Contact
+
+                digidip GmbH 
+                Sabrina Spielberger, CEO 
+                Skalitzer Str.
+68 
+                10997 Berlin 
+info@digidip.net
+
+
+
+External Data Protection Officer
+
+                ePrivacy GmbH 
+                represented by Prof. Dr. Christoph Bauer 
+                Große Bleichen 21, 20354 Hamburg, Germany 
+
+
+                For all questions and concerns regarding the security of your data, you can contact us and our data protection officer at privacy@digidip.net
+
+
+                If you have a particularly sensitive concern, please contact our data protection officer by post, as communication by e-mail can always be subject to security gaps.
+==========
+Personal Information
+
+                Personal data is all information about personal and factual circumstances of a specific or identifiable person.
+This includes information and data such as your name, address or other postal address, telephone number or e-mail address.
+Legal basis
+
+                Your data will be processed on the following legal bases:
+            
+
+With regard to data that you provide in forms, etc., with your consent, Art. 6 para.
+==========
+1 lit.
+a) GDPR
+In relation to services which you make use of, for the execution of a contract with you, Art. 6 para.
+1 lit.
+b) GDPR
+In addition, in particular for statistical data and online identifiers, on the basis of justified interests, Art. 6 para.
+1 lit.
+==========
+f) GDPR (see below)
+
+
+
+Justified interests
+
+                When processing your data, we pursue the following legitimate interests:
+            
+
+Improvement of our offer
+Protection against misuse
+Statistics
+
+
+
+Sources of data
+
+                Unless otherwise stated, we receive the data from you (including the equipment you use).
+Data processed and purpose of use
+
+                Personal data is only collected by us if and only to the extent and for the purpose for which you voluntarily provide us with the data as part of the registration process.
+==========
+Publisher
+digidip stores the following registration data for contract fulfilment and customer support:
+
+Name and surname
+Address (street, house number, postcode, city, country)
+Web page(s)
+E-mail address(es)
+Login details
+Bank account(s)/Paypal
+Tax information (tax number, tax exemption)
+User data (see “User” below)
+
+
+                        The customer profiles created are used in the course of complete customer support.
+These include: Information on the use of our services, information on technical or usage updates, support, master data updates, delivery of payout-relevant documents, document archiving and access to performance and analysis information.
+Merchant
+digidip stores the following registration data for contract fulfilment and partner support:
+
+Name and surname
+Address (street, house number, postcode, city, country)
+Web page(s)
+E-mail address(es)
+Login data, if applicable
+Tax information (tax number)
+
+
+                        The profiles created are used in the course of the complete partner support.
+These include: Information on the use of our services, information on technical or usage updates, support and master data updates.
+User
+
+                        Furthermore, digidip stores data of users who visit a website of publishers who use digidip and thus use our technology.
+These are exclusively pseudonymised data which do not allow any conclusions to be drawn about a natural person, but nevertheless provide a definable profile.
+This data is collected using a cookie.
+The following data is stored in detail:
+
+
+Surfing behaviour (clicked links)
+Browser and browser version
+Operating system
+Screen size
+Device type
+Country
+City
+Time of access
+Referrer (from which website the user came)
+Online shop used and, if applicable, order value
+Transaction ID
+IP address
+
+
+
+                        The previously listed data are provided with an arbitrary online identifier (cookie ID) and thus result in a definable profile.
+==========
+However, personal data such as names, addresses, e-mail addresses etc. cannot be viewed or stored by digidip at any time.
+The collected user data serve the following purposes:
+                    
+
+Execution of digidip services for partners
+Aggregated reporting for partners only (no detailed data transfer)
+
+
+                        Users who do not agree to the data storage can unsubscribe on our Opt-Out page.
+Data transmission to third countries
+
+                Data may be transferred to third countries outside the European Union.
+==========
+This is done on the basis of statutory contractual regulations, which provide for an to ensure adequate protection of your data and which you can view on request.
+Duration of storage
+
+                We store your data:
+            
+
+If you have consented to the processing at most until you have consented to your consent revoked.
+If we need the data for the execution of a contract, at most as long as the contractual relationship with you exists or legal retention periods are in effect.
+If we use the data on the basis of a legitimate interest, not more than as long as your interest in deletion or anonymization does not outweigh.
+==========
+Backup of data
+
+                We have taken extensive technical and organisational measures to protect your data from unauthorised access, against possible dangers, such as unauthorized access or seizure, unauthorized knowledge, modification or distribution, as well as from loss, destruction or misuse.
+In order to protect your personal data from unauthorized access by third parties during the transmission of your data.
+We secure the data transmissions with SSL-encryption if necessary.
+==========
+It is a matter of to establish a standardised encryption method for online services, in particular for the Web.
+Cookies
+
+                Cookies are small files that your browser places on your device in a designated location directory.
+These cookies can be used, for example, to determine whether you have visited a website or not have visited us before.
+Most browsers automatically accept cookies.
+However, you can set your browser so that no cookies are stored or explicit consent is required before a cookie is saved.
+You can also delete cookies already set at any time.
+Please note that disabling Cookies may lead to restrictions on the use of our website.
+We mainly use so-called session cookies, which support the use of our website.
+These cookies are automatically deleted after a certain period of inactivity or when the browser is closed.
+==========
+Third-party services
+
+                We use the services of third parties for various functions of our service.
+Affilinet
+                Cookies of the Affilinet GmbH affiliate network can be used on this website.
+affilinet can set a cookie on the customer's or user's computer for the correct recording of sales and/or leads.
+This cookie is set by the domain partners.webmaster-plan.
+com or banners.webmasterplan.com and complies with the applicable data protection guidelines.
+==========
+The cookies used by affilinet are stored in the Default setting of the Internet browser accepted.
+If you do not wish these cookies to be stored, please deactivate the acceptance of the cookies of the corresponding domains in your Internet browser.
+Affilinet Tracking Cookies do not store any personal data, but only the ID of the referring partner and the order number of the advertising material (banner, text link or similar) clicked by the visitor, which is used for payment processing.
+When a transaction is completed, the partner ID is used to link the partner to the to be able to assign the commission to the referring partner.
+==========
+You can find more information under the following link:
+                https://www.affili.net/de/footeritem/datenschutz
+
+
+Commission Junction
+                Cookies of the affiliate network "Commission Junction" of ValueClick Deutschland GmbH can be used on this website.
+When a user responds to or views an Internet advertisement hosted by a ValueClick company (including about third-party Web sites or email campaigns) or visits a ValueClick Network page, a cookie and/or a gif file ("cookies") is sent to the user's Internet browser to assign an anonymous, unique identifier.
+Cookies are small files used to optimize and personalize the Internet through the experience of the end user and to recognize visitors who have visited a website before.
+The sole function of these cookies is to provide ValueClick with the information necessary to pay commissions to third parties when an Internet user clicks links on advertisers' websites, generates leads or makes purchases.
+It also optimizes and personalizes the Internet through the experience of the end user.
+If the Internet user accesses the Advertiser Website directly, ValueClick is able to track the activities of the Internet user on this Advertiser Site and pay the website operator who actually referred the Internet user accordingly.
+==========
+Further information can be found under the following link:
+                de.cj.com/legal/privacy-policy
+
+
+Zanox
+                This website is a member of the affiliate program of Zanox.de AG ("Zanox").
+To document transactions (e.g. leads and sales), Zanox stores cookies on user devices, websites or other online offerings of Zanox partners.
+(e.g. register for a newsletter or place an order in an online shop).
+==========
+These cookies are used solely for the purpose of correctly allocating the success of an advertising material and the corresponding billing within the Zanox network.
+Personal data is not collected, processed or used by Zanox.
+==========
+In a cookie, only the information about it is placed, when a certain advertising medium was clicked on by a terminal device.
+The zanox Tracking Cookies store an individual sequence of digits that cannot be assigned to the individual user.
+This documents the affiliate program of an advertiser, the publisher, the time of the user's action (click or view).
+Zanox also collects information from the terminal from which a transaction is made, e.g. the IP address, the operating system and the calling browser.
+Further information can be found under the following link:
+                www.zanox.com/export/sites/zanox/de/ueberzanox/datenschutz/datenschutzrichtlinie/20120822_datenschutzinformationen.pdf
+
+
+                You may refuse the use of cookies by selecting the appropriate settings on your browser.
+However, we would like to point out that in this case you may not be able to use all functions of this website to their full extent.
+Amazon
+                Our company is a Amazon Europe S.à.r.l.
+affiliate program participant and partner of the advertising program, which is designed to provide a medium for websites through which advertising ads and links to amazon.com can be earned.
+==========
+Amazon uses cookies to trace the origin of orders.
+Among other things, Amazon can recognize that you have clicked the partner link on this website.
+==========
+For more information on Amazon's use of data, please refer to the company's privacy policy:
+                www.amazon.de/gp/help/customer/display.html
+
+
+Others
+                A current list of all services can be published on written request to privacy@digidip.net, since this constantly changes.
+Rights of the person concerned
+
+                Right of information, rectification, revocation, complaint, cancellation and blocking:
+            
+
+You have the right to request information as to whether and which of your personal data is processed by us.
+You also have the right to request the correction or completion of your personal data.
+Under certain circumstances, you have the right to request that your personal data be deleted.
+Under certain circumstances, you have the right to request that the processing of your personal data be restricted.
+You may revoke your consent to the processing and use of your data in whole or in part at any time with effect for the future.
+You have the right to receive your personal data in a common, structured and machine-readable format.
+==========
+If you have any questions, comments, complaints or requests for information in connection with our declaration on data protection and the processing of your personal data, you can also contact our data protection officer in writing.
+You also have the right of appeal to the competent supervisory authority if you believe that the processing of personal data concerning you violates the legal provisions.
+Requirement or obligation to provide data
+
+                If this is not explicitly stated in the survey, the provision of data is not necessary or obligatory.
+==========
+User Opt-Out
+
+                You can exercise your rights as a person concerned via the following link.
+This means, among other things, that you can inform yourself about the data stored by you, correct it, trigger its deletion and unsubscribe for future storage (opt-out).
+==========
+https://digidip.net/opt-out
+
+
+
+
+Status of this data protection declaration
+                21.05.2018
+            
+
+                We reserve the right to change this data protection declaration at any time with effect for the future.
+This data protection declaration was created with the help of ePrivacy GmbH.
+==========

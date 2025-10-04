@@ -1,0 +1,948 @@
+Use of Cookies by Lookout
+Like most providers of online services, we use cookies and other tools to collect and analyze information regarding your usage of our Site.
+Cookies are small data files that we store on your computer or device.
+For details, see: online cookies information.
+How We Use Cookies
+We use “session” cookies to monitor aggregate usage and web traffic information on our Site.
+Session cookies disappear when you log out and close your browser.
+We also use “persistent” cookies to recognize you when you return to use our Site.
+Persistent cookies can stay on your computer for a longer period of time than session cookies do.
+We also use “analytical” cookies.
+They allow us to recognize and count the number of visitors and to see how visitors move around our Site and how they are interacting with our Site.
+This helps us to improve the experience on our Site.
+Finally, we may use other standard technologies, such as clear gifs and local storage to analyze, collect and aggregate data about your use of our Site.
+We use the data we collect from these tools as described below.
+Cookies from Third-Parties
+We believe it is important for you to know what third-party cookies we use on our Site.
+Below is a list of some of the third-party cookies that we currently use, and as we develop and improve our Site, we will maintain a complete list of all the cookies we use at the following link: cookie policy.
+==========
+Adobe Experience Cloud — We use cookies from Adobe Experience Cloud (including Marketo, Bizible, and other Adobe products).
+These cookies help us track your visits to our Site and enable us to create an engaging marketing experience for you, to provide you with relevant marketing information.
+For example, these cookies let us know information like which emails have been opened, and which links are clicked.
+==========
+You can read the Adobe Privacy Policy here, Bizible Privacy Policy here, and Marketo Privacy Policy here .
+Google Analytics and MixPanel — These cookies allow us to see how you use our Site so that we can improve your experience.
+We encourage you to read the Google Privacy Policy and MixPanel Privacy Policy.
+==========
+If you don’t want data reported by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on.
+Google AdWords — These cookies allow our vendors to serve ads based on your past visits to our sites and for remarketing purposes.
+Google may use this cookie and other tracking technology to show you our ads across the internet.
+Google permits you to opt out of Google's use of these cookies by visiting Google's Ads Settings.
+==========
+Greenhouse — These cookies are used to provide you with a personalized user experience when you apply for a job with us.
+You can read the Greenhouse Privacy Policy here.
+Hotjar — Hotjar uses cookies to process information including standard internet log information and details of the visitor’s behavioral patterns upon visiting our site.
+This is done to provide you with a better experience, and to facilitate the use of certain functions.
+==========
+Hotjar stores this information in a pseudonymized user profile.
+Hotjar does not process this information to identify individual users or to match it with further data on an individual user.
+You can read the Hotjar Privacy Policy here.
+LeadSpace - Lookout uses LeadSpace to enable us to provide a more streamlined experience on our forms, and to ensure more accurate data in our database.
+For more information, review the LeadSpace Privacy Policy here.
+==========
+LinkedIn Insights — These cookies help us track your visits and your interactions on our Site so that we can provide you with an engaging marketing experience.
+They also enable us to deliver more relevant services and content on lookout.com and on LinkedIn’s partner sites.
+You can read the LinkedIn Privacy Policy here.
+==========
+RollWorks (Parent company: NextRoll) — These cookies help us recognize your device and understand how you use our Site so that we can improve our services to reflect your interests and serve you advertisements about the products and/or services that are likely to be of more interest to you.
+Specifically, NextRoll collects information about your activity on our site to enable us to (a) measure and analyze traffic and browsing activity on our Site; and (b) show advertisements for our products and/or services to you on third-party sites.
+We may share data, such as hashed email derived from emails or other online identifiers collected on our Site with NextRoll.
+This allows our partners to recognize and deliver you ads across devices and browsers.
+We encourage you to read the NextRoll Privacy Policy.
+==========
+Social Media Features —Social media features such as a “like” button may be hosted by a third party.
+If you use these Features, they may collect your IP address, and set a cookie to enable the feature to function properly.
+Your interactions with these features are governed by the privacy policy of the company providing the feature, not by our Notice.
+Cookies Settings
+
+
+
+
+Functional Cookies
+These cookies enable the website to provide enhanced functionality and personalisation.
+==========
+They may be set by us or by third party providers whose services we have added to our pages.
+If you do not allow these cookies then some or all of these services may not function properly.
+mtp.lookout.com
+
+
+border_session
+
+
+
+1st Party
+
+
+lookout.com
+
+
+_ie_eml
+
+
+
+1st Party
+
+
+info.lookout.com
+
+
+__cf_bm
+
+
+
+1st Party
+
+
+personal.support.lookout.com
+
+
+_help_center_session, _zendesk_shared_session, _zendesk_authenticated, _zendesk_session
+
+
+
+1st Party
+
+
+www.lookout.com
+
+
+__atuvs, __atuvc
+
+
+
+1st Party
+
+
+zdusercontent.com
+
+
+__cfduid
+
+
+
+3rd Party
+
+
+zdassets.com
+
+
+__cfduid
+
+
+
+3rd Party
+
+
+lookout.zendesk.com
+
+
+_zendesk_shared_session, _zendesk_authenticated, __cfduid, __cfruid, _zendesk_session, _zendesk_thirdparty_test
+
+
+
+3rd Party
+
+
+brightcove.com
+
+
+_bc_uuid
+
+
+
+3rd Party
+
+
+p14.zdusercontent.com
+
+
+_zendesk_authenticated, _zendesk_session, _zendesk_shared_session
+
+
+
+3rd Party
+
+
+vimeo.com
+
+
+vuid
+
+
+
+3rd Party
+
+
+
+
+Strictly Necessary Cookies
+These cookies are necessary for the website to function and cannot be switched off in our systems.
+==========
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+These cookies do not store any personally identifiable information.
+Targeting Cookies
+These cookies may be set through our site by our advertising partners.
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.
+They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
+If you do not allow these cookies, you will experience less targeted advertising.
+==========
+com
+
+
+_fbp
+
+
+
+1st Party
+
+
+lookout.com
+
+
+trwv.uid, trwsa.sid, _biz_dfsA, trwv.crd, trwv.vc, _biz_flagsA, trwsb.cpv, trwv.eml, trwsb.sid, _biz_kvpA, trwv.cvd, trwsb.stu, trwv.lvd, _ie_cpn
+
+
+
+1st Party
+
+
+doubleclick.net
+
+
+test_cookie, IDE
+
+
+
+3rd Party
+
+
+advertising.com
+
+
+APID
+
+
+
+3rd Party
+
+
+openx.net
+
+
+i
+
+
+
+3rd Party
+
+
+adscale.de
+
+
+uu
+
+
+
+3rd Party
+
+
+powerlinks.com
+
+
+pl_user_id
+
+
+
+3rd Party
+
+
+demdex.net
+
+
+demdex
+
+
+
+3rd Party
+
+
+s7.addthis.com
+
+
+__atrfs, __atuvs, __atuvc
+
+
+
+3rd Party
+
+
+dpm.demdex.net
+
+
+dpm
+
+
+
+3rd Party
+
+
+navdmp.com
+
+
+__cfduid
+
+
+
+3rd Party
+
+
+bidswitch.net
+
+
+tuuid_lu, tuuid, c
+
+
+
+3rd Party
+
+
+tapad.com
+
+
+TapAd_3WAY_SYNCS, TapAd_DID, TapAd_TS
+
+
+
+3rd Party
+
+
+casalemedia.com
+
+
+CMRUM3, CMPS, CMPRO, CMST, CMID
+
+
+
+3rd Party
+
+
+semasio.net
+
+
+SEUNCY
+
+
+
+3rd Party
+
+
+adnxs.com
+
+
+uuid2
+
+
+
+3rd Party
+
+
+ispot.tv
+
+
+pt
+
+
+
+3rd Party
+
+
+acct.bizible.com
+
+
+ARRAffinity
+
+
+
+3rd Party
+
+
+adform.net
+
+
+uid
+
+
+
+3rd Party
+
+
+taboola.com
+
+
+t_gid
+
+
+
+3rd Party
+
+
+surveywall-api.
+survata.com
+
+
+svResp
+
+
+
+3rd Party
+
+
+dpx.airpr.com
+
+
+an_airpr_recent_visit
+
+
+
+3rd Party
+
+
+slideshare.net
+
+
+__utmz, lang, __utma, __utmt, __utmc, _uv_id, __utmb, bcookie
+
+
+
+3rd Party
+
+
+ads.linkedin.com
+
+
+lang
+
+
+
+3rd Party
+
+
+agkn.com
+
+
+ab
+
+
+
+3rd Party
+
+
+sjrtp4.marketo.com
+
+
+BIGipServersjrtp4_https
+
+
+
+3rd Party
+
+
+i.liadm.com
+
+
+_li_ss
+
+
+
+3rd Party
+
+
+adentifi.com
+
+
+adtheorent[idfa], adtheorent[cuid]
+
+
+
+3rd Party
+
+
+go.sonobi.com
+
+
+HAPLB5S
+
+
+
+3rd Party
+
+
+mathtag.com
+
+
+mt_misc, mt_mop, uuid
+
+
+
+3rd Party
+
+
+bluekai.com
+
+
+bkdc, bku, bkpa
+
+
+
+3rd Party
+
+
+analytics.yahoo.com
+
+
+IDSYNC
+
+
+
+3rd Party
+
+
+app-abk.
+marketo.com
+
+
+__cf_bm, __cfduid, BIGipServerabkweb-nginx-app_https
+
+
+
+3rd Party
+
+
+facebook.com
+
+
+fr
+
+
+
+3rd Party
+
+
+bizographics.com
+
+
+lang
+
+
+
+3rd Party
+
+
+scorecardresearch.com
+
+
+UIDR, UID
+
+
+
+3rd Party
+
+
+betweendigital.com
+
+
+dc, tuuid, ut
+
+
+
+3rd Party
+
+
+digitru.st
+
+
+DigiTrust.v1.identity
+
+
+
+3rd Party
+
+
+px.powerlinks.com
+
+
+dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3A7d4e5e19-749b-4100-83bf-ebb7d05c6888%5BRK4HKGXHgtIEVKbJURVocwGV0NjR5q7Lu_2mai6p7BI%3D%5D, awxxxx, dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3Ab4dd5e90-44c5-4700-99b2-90489c768826%5BRRixT4gvgE1cGzBQSgGIWhwnx6daSUyMpjd8I7-KiK0%3D%5D, dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3Ae46c5e18-cc8a-4200-b937-3e24310aa828%5B5F_5St4S0e2AsBlzJHExXRQRlz1sgQ6JVC91u_PVXec%3D%5D, dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3A8b3f5e90-001c-4100-b92b-5b08baa1d562%5BItb8S7MH1MTr4SDVjnsFeT-eE-53kn8EhWuTAcg82YQ%3D%5D, dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3Ae93e5e19-8186-4100-ae1d-cb7ffab08903%5BWOkGdXQ7CKF6tqQ3oB7JnNpYUt_J71aMskH9wp1DzDg%3D%5D, dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3Aed025e19-745e-4900-a070-6f6ffafa5782%5BKiqkee_4H5xe1xfxK0GNmTRv3pid4i1mzevx8oiMxxQ%3D%5D, dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3Ab2e75e18-d9f4-4d00-b572-ebadbf832192%5BKbvNESJnZ3VV3N8I57x2KirIcl34Ad73uWjQCkx-BMk%3D%5D, dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3A5d225e18-f6c0-4900-969b-f4ea4b5b92e8%5BYhg11dh76a3PhJXgja7JU72lfzX6_XVdky8V4TT9EOk%3D%5D, dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3A341f5e18-e71b-4b00-89bf-6a3b36568e07%5BKqWzEZP-T6nyj1YDBBask3CT55zythglNkotWhMH08Y%3D%5D, sync_917a4813-f4e0-43b6-a0a7-80027d9ef834, dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3A5c695e19-3c0b-4900-8809-8e31f684a4dd%5BiyNweoQiWt3CS2XfY11Qo0d44QNoc45a3_GuhX4uOGs%3D%5D, dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3Aacc55e19-035c-4600-9a7e-6456649f4340%5BlutX3tQGRlFiDlMsrXwJMP0EK5bgzBuVqJx2EKOgz5g%3D%5D, dsps, dsps%3Aaa4e7548-789b-4df8-a72f-d951a5b206eb%3Ab2e55e19-578e-4300-a927-b8d6a42d3d42%5BKwEqQdpEnIcJNonBIDwV8PItPzhtgsRh10IUunW33v4%3D%5D
+
+
+
+3rd Party
+
+
+www.facebook.com
+
+
+
+
+
+
+3rd Party
+
+
+google.com
+
+
+NID
+
+
+
+3rd Party
+
+
+rlcdn.com
+
+
+pxrc, rlas3
+
+
+
+3rd Party
+
+
+yahoo.com
+
+
+APID, B, APIDTS, A3
+
+
+
+3rd Party
+
+
+lijit.com
+
+
+ljt_reader
+
+
+
+3rd Party
+
+
+sjrtp4-cdn.
+marketo.com
+
+
+BIGipServersjrtp4_https
+
+
+
+3rd Party
+
+
+crwdcntrl.net
+
+
+_cc_dc, _cc_id, _cc_cc, _cc_aud
+
+
+
+3rd Party
+
+
+www.linkedin.com
+
+
+bscookie
+
+
+
+3rd Party
+
+
+liadm.com
+
+
+lidid
+
+
+
+3rd Party
+
+
+thrtle.com
+
+
+mc
+
+
+
+3rd Party
+
+
+pubmatic.com
+
+
+PugT, PUBMDCID, KRTBCOOKIE_xxxx
+
+
+
+3rd Party
+
+
+youtube.com
+
+
+GPS, VISITOR_INFO1_LIVE, YSC
+
+
+
+3rd Party
+
+
+players.brightcove.net
+
+
+_mkto_trk
+
+
+
+3rd Party
+
+
+tech.convergd.com
+
+
+tuuid, um2, tuuid_lu, c
+
+
+
+3rd Party
+
+
+linkedin.com
+
+
+lang, bcookie, lissc, UserMatchHistory, lidc
+
+
+
+3rd Party
+
+
+spotxchange.com
+
+
+audience
+
+
+
+3rd Party
+
+
+zeotap.com
+
+
+zc1, zc
+
+
+
+3rd Party
+
+
+cdn.syndication.twimg.com
+
+
+lang
+
+
+
+3rd Party
+
+
+krxd.net
+
+
+_kuid_
+
+
+
+3rd Party
+
+
+addthis.com
+
+
+uvc, loc, xtc
+
+
+
+3rd Party
+
+
+bizible.com
+
+
+_BUID
+
+
+
+3rd Party
+
+
+www.slideshare.net
+
+
+language
+
+
+
+3rd Party
+
+
+ih.adscale.de
+
+
+tu
+
+
+
+3rd Party
+
+
+smartadserver.com
+
+
+csync, pid, TestIfCookieP
+
+
+
+3rd Party
+
+
+ads.stickyadstv.com
+
+
+uid-bp-529, sessionId, UID
+
+
+
+3rd Party
+
+
+
+
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+==========
+They help us to know which pages are the most and least popular and see how visitors move around the site.
+All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+==========
+get.lookout.com
+
+
+_s
+
+
+
+1st Party
+
+
+www.lookout.com
+
+
+_hjIncludedInSample
+
+
+
+1st Party
+
+
+faq.lookout.com
+
+
+__utma, __utmc, _utmv#########
+
+
+
+1st Party
+
+
+my.lookout.com
+
+
+__utmz, _gat_UA-nnnnnnn-nn, _gid, __utmb, __utmt
+
+
+
+1st Party
+
+
+blog.lookout.com
+
+
+_ga, _gat_UA-6252142-2
+
+
+
+1st Party
+
+
+lookout.com
+
+
+_gclxxxx, _biz_sid, _gat, _biz_nA, _biz_pendingA, _mkto_trk, _hjTLDTest, _hjAbsoluteSessionInProgress, _hjid, _biz_uid
+
+
+
+1st Party
+
+
+zdusercontent.com
+
+
+__cfruid
+
+
+
+3rd Party
+
+
+bnc.lt
+
+
+_s
+
+
+
+3rd Party
+
+
+script.hotjar.com
+
+
+_hjIncludedInSample, _hjCachedUserAttributes
+
+
+
+3rd Party
+
+
+zeotap.com
+
+
+__cfduid
+
+
+
+3rd Party
+
+
+
+
+How to Control Cookies
+Most Internet browsers automatically accept cookies, but some browsers may permit you to change your settings or use third-party tools to disable cookies or to prompt you before accepting cookies from the websites you visit.
+These browsers or other third-party tools may also permit you to delete cookies you already have.
+Please be aware that some parts of our services may not work for you if you delete or disable cookies.
+==========

@@ -1,0 +1,120 @@
+Akamai is trusted to make digital experiences fast, intelligent, and secure.
+We understand that the way we process personal data is an important part of that trust and are committed to upholding the privacy of our customers, customer’s end users, employees, and online users.
+==========
+Akamai complies with the laws of all countries in which it operates, including the data protection laws in the Americas, Europe, and Asia.
+The Akamai Data Protection and Privacy Program protects the personal information that we process by respecting global privacy principles.
+Akamai’s Global Data Protection Office, headed by our Chief Data Protection Officer, manages this important effort.
+Akamai Data Protection and Privacy Program.
+Learn More.
+Protection of Personal and Sensitive Data at Akamai.
+Learn More.
+Data Protection Rules of Engagement for Akamai's Vendors.
+Learn More.
+==========
+Identity Cloud securely captures and manages customer identity and profile data, and controls customer access to applications and services.
+From enabling fine-grained data access control to allowing companies to manage consent from their customers, Akamai has helped global brands exceed customer privacy expectations and meet regulatory data protection requirements.
+Read also the White Paper "A Guide to Support Data Privacy Requirements with Akamai Identity Cloud."
+Visit the Identity Cloud page for more information about how a CIAM can help satisfy your GDPR compliance needs.
+==========
+Learn More
+Akamai Data Processing Agreement — For Customers
+This agreement supplements and amends Akamai’s Terms & Conditions with its customers.
+Learn More
+Akamai Data Processing Agreement – For Partners
+This agreement supplements and amends the Channel Agreement between Akamai and its partners.
+Learn More
+Akamai Data Processing Agreement – For Vendors
+This agreement supplements and amends the Master Service Agreement and/or the Terms and Conditions of Purchase between Akamai and its vendors.
+Download Now
+Technical and Organizational Measures to Secure the Personal Data
+This overview outlines the technical and organizational measures Akamai has in place to secure the personal data it processes when providing its services.
+Learn More
+Countries in which Akamai Maintains Servers
+This document lists the countries in which Akamai maintains server points of presence and lists the Akamai subsidiaries that own Akamai servers.
+Learn More
+Akamai's Sub-Processors for the Service Provisioning
+Learn More
+HIPAA and HITECH ACT Compliance Statement
+Learn More
+Overview of Personal Data Processing Activities at Akamai
+Learn More
+Overview
+Certain data protection and privacy laws around the world provide for mechanisms to protect personal information in the event that data is transferred from an entity in one jurisdiction to a different entity in a separate jurisdiction.
+==========
+These cross-border data transfer mechanisms are designed to ensure adequate protection of the personal information of individuals when there are no similar protections available in the latter jurisdiction.
+As examples:
+Under Argentinian law, the mechanism is the Argentina Model Clauses on International Data Transfer for any transfer of personal data from Argentina to a non adequate jurisdiction, e.g. the USA.
+Under EU law, most commonly used transfer mechanisms are:
+Binding Corporate Rules, and
+EU Standard Contractual Clauses.
+==========
+Data Transfers by Akamai
+Akamai participates in cross-border transfers in a variety of contexts in providing, developing, and improving its services, including the transfer of personal data in IP transaction log files (e.g. end user IP addresses) between the local Akamai Sales entity and Akamai Technologies, Inc. the U.S. parent company, for further processing in support of security and threat analysis, billing, and service provisioning.
+In addition, Akamai transfers personal data in IP transaction log files when performing support services for customers.
+To ensure 24/7 support, Akamai has implemented "follow the sun" support operations, with major Support Team locations in the U.S., the EU, and India.
+The full list of Akamai affiliates providing support services is available in Akamai’s sub-processor list in the Privacy Trust Center.
+==========
+Akamai also potentially transfers personal information as part of its content delivery services when its customers’ Internet sites and applications collect or otherwise process personal information provided by them or sent to individual users of their services.
+Other than processing of security rules associated with such traffic, Akamai serves basically as a conduit for such data, the nature of which is determined entirely by the design of the Customer’s website or application and the interaction with the end user.
+==========
+Geography Specific Data Transfer Mechanism
+Argentina
+Argentina Model Clauses on International Data Transfer
+Akamai has put in place between Akamai Technologies Argentina S.R.L. and Akamai Technologies Inc. the Argentina Model Clauses on International Data Transfer to ensure personal data transferred from Argentina to the U.S. when providing the Akamai Services to customers for the benefit of Argentinian end users are adequately protected.
+In addition, to customers and partners, the Argentinian Model Clauses on International Data Transfer signed by Akamai are available for download and countersignature.
+Brazil
+Standard Contractual Clauses
+For transfer of personal data from Brazil to third countries, until further guidance on international data transfers is issued by the Brazilian data protection authority, Akamai will rely on the data transfer mechanism approved in Europe due to the similarity between LGPD and GDPR.
+Akamai has put in place between Akamai Tecnologias e Serviços do Brasil Ltda.
+and Akamai Technologies Inc. contractual obligations based on the EU Standard Contractual Clauses on international transfer of data.
+In addition, similar contractual terms based on the EU Standard Contractual Clauses on international transfer of data are available for Brazilian customers and partners for download and countersignature.
+EU
+EU Standard Contractual Clauses 
+Akamai relies on EU Standard Contractual Clauses (“EU SCCs”) as the cross-border transfer mechanism for the EU.1
+Akamai has put in place the EU SCCs Module 3 Processor to Processor signed by the responsible EU Akamai Sales entities in their role as data exporter and Akamai Technologies, Inc., in its role as a data importer.
+Akamai grants customer and partners the option to accede to these SCCs simply by signing its Annex I A, in accordance with Clause 7of the SCCs.
+In case you as a customer or partner prefer to put in place the EU SCCs directly with Akamai, we also offer to execute:
+Module 3 Processor to Processor (partner acting as data exporter and Akamai Technologies, Inc. in their role as data importer),
+or
+Module 2 Controller to Processor (customer acting as data exporter and Akamai Technologies, Inc. in their role as data importer)
+In accordance with the Schrems II case, Akamai has reviewed the contractual, technical and organizational safeguards that it has in place to protect the data transferred to the U.S:, as well as the applicability of the specific government surveillance laws reviewed by the CJEU in that case for data transfers to the U.S.
+==========
+The results are the following:
+Akamai is not an "electronic communications service provider", under applicable laws in the U.S. and therefore, is not subject to access requests under FISA 702.
+Akamai recommends that customers configure Akamai Services in a way that the personal data in the customer’s web properties passes over the Akamai edge servers on a conduit basis and is not stored on the Akamai edge servers (i.e. personal data should not be configured as "cacheable" on the Akamai Edge).
+The personal data in the customer’s web properties is protected in transit by the encryption mechanism(s) chosen and configured by the customer.
+A summary of Akamai’s Information Security Program outlines how Akamai secures inter alia the web properties of its customers.
+A copy of the full program is available to customers and partners under NDA upon request.
+==========
+The updated technical and organizational measures taken to protect the personal data processed when performing the Akamai services are available in the Privacy Trust Center.
+In the updated version, Akamai stresses that we anonymize personal data stored by us, provided the anonymization is not interfering with the processing purpose and the fact that Akamai does not identify end users when it processes end user IP addresses (as part of the Logged Personal Data as defined in Akamai’s DPA).
+The data that Akamai transfers to the U.S. are end user IP addresses and other metadata in log files (defined as Logged Personal Data in Akamai’s DPA) created when an end user accesses a customer’s web properties.
+Strict access controls to Akamai’s networks and systems are in place to protect the personal data transferred against unauthorized access by third parties.
+An end user IP address is pseudonymized data for Akamai, as Akamai is not identifying the end user, nor creating profiles of the end users.
+Akamai processes the end user IP address for the purpose of service delivery, traffic and security analytics.
+For these purposes no identification of the end user is required.
+In guidance on this issue, US government agencies confirmed that they are not interested in metadata (Logged Personal Data) for surveillance purposes.2
+Akamai does not voluntarily permit U.S. or other governmental agencies to access its infrastructure.
+==========
+Akamai challenges law enforcement requests it receives, where legitimate.
+The law enforcement requests Akamai frequently receives are requests for details relating to an IP address.
+As Akamai is not identifying its customers’ end users, it does not hold the requested data and objects to the request, explaining its business.
+An overview of the Akamai Services, respective data flows and data transfers is provided by Akamai to customers and partners to assist them to perform their data transfer risk assessment.
+==========
+UK
+Akamai relies on the EU SCCs published before 2021 for any transfers of UK personal data outside the UK to a non-adequate country, in particular the USA, until the UK data protection authority, ICO, releases UK SCCs for data transfers from the UK to an inadequate country.
+Privacy Shield Program
+Akamai has committed to continued compliance with its obligations under the Privacy Shield Program and ensures appropriate protection of the data transferred, notwithstanding the invalidation of the program by the Schrems II Judgement by the European Court of Justice.
+Data Transfer Mechanism with sub-processors
+The full list of Akamai’s sub-processors and applicable transfer mechanism is available in Akamai’s sub-processor list in the Privacy Trust Center.
+==========
+Execution of clauses
+We kindly ask customers and partners to send the applicable clauses made available by Akamai above fully signed to privacy@akamai.com for awareness and filing.
+Questions
+For any questions relating to data transfers by Akamai, please contact Akamai’s Global Data Protection Office, privacy@akamai.com
+1Akamai will continue to review the viability of implementing other available mechanisms, including Binding Corporate Rules, in order to ensure that it is using the most effective available mechanism(s).
+2E.
+==========
+g. “Information on U.S. Privacy Safeguards Relevant to SCCs and Other EU Legal Bases for EU-U.S. Data Transfers after Schrems II”, available at https://www.commerce.gov/sites/default/files/2020-09/SCCsWhitePaperFORMATTEDFINAL508COMPLIANT.PDF,e.g.
+summary (1) on page 1, updated scope of FISA requests as described on page 12 and the respective case laws in footnote 44.
+==========

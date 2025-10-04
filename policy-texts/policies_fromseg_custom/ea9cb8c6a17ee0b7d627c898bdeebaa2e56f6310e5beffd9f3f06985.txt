@@ -1,0 +1,175 @@
+BritePool General Data Protection Regulation (EU) Privacy Notice
+BritePool, Inc.
+General Data Protection Regulation (EU) Privacy Notice
+Effective Date: April 21, 2020 (last updated 7/1/2020)
+The General Data Protection Regulation (“GDPR”) is a legal framework within the European Union (“EU”) that imposes certain data protection and privacy obligations on Controllers and Processors of personal information of EU individuals (“you”, “your”, “user”).
+BritePool, Inc. (“we”, “us”, “our”) is a B2B identity resolution services company.
+==========
+Through our proprietary technology, robust product offerings and database of unique identifiers (“BPIDs”), we support our advertising clients (“Advertisers”), and others within the advertising ecosystem (publishing partners (“Publishers”), DSPs, SSPs and third-party data providers - collectively, “Customers”), in delivering the most effective advertising across different channels and platforms, including the open Web, mobile, email and addressable TV (“Channels”), without relying on third-party cookies (collectively, “Services”).
+Our Services collectively benefit our Customers by helping ensure that relevant ads reach their intended audiences at just the right frequency, providing a better user experience.
+==========
+BritePool’s Services require the processing of personal data.
+In some instances, BritePool is obligated under the GDPR as a “Controller” because we determine a Processor’s means and purposes of processing the data on our behalf.
+Other times, we are obligated as the “Processor” because we process the data on a Controller’s behalf, instead of our own, pursuant to the Controller’s written contractual instructions and solely for the Controller’s purposes.
+==========
+As a Processor, we do not retain or further share the data.
+This Privacy Notice is intended to provide details about our data processing practices, and how we comply with the GDPR.
+The links below can help you navigate through it all.
+==========
+If any of our practices change, we will revise our posted policies.
+We encourage you to review them periodically to learn of any updates.
+==========
+Data Collection, Use and Storage
+Web Analytics
+Cookies
+Data Protection Rights
+Privacy Policies of Other Websites
+EU Representative
+How to Contact Us
+DATA COLLECTION, USE AND STORAGE
+We pride ourselves in that we collect only a minimal amount of personal data, and only that which is necessary to provide our Services.
+We only use the data we collect for limited lawful purposes.
+==========
+We do not collect any sensitive information, such as information related to an individual’s physical or mental health, race, ethnic origin, political opinions, religious or philosophical beliefs, trade-union membership or sex life, nor do we knowingly collect information about children under age 13.
+BritePool collects personal data directly from individuals who visit our website (“Site”).
+When subscribing to any email newsletters we may offer or inquiring about our Services, users may voluntarily provide certain information, such as first name, company name and email address (“1st Party Data”).
+In this context, BritePool is a Controller of the data.
+We use it to monitor the use of our Site, respond to your inquiries, and provide access to our Services.
+==========
+We do not share 1st Party Data.
+BritePool also collects personal data from third party sources (“3rd Party Data”).
+Depending upon our relationship with the third parties, we may be Controller, Processor or, at times, both.
+3rd Party Data is always encrypted or otherwise restricted to forms that are only indirectly identifying in nature.
+==========
+We collect this type of data from providers of email and Web hosting services (i.e. WIX) to operate our Site and Services.
+We also collect it using Web Analytics Providers (i.e. Google Analytics and StatCounter).
+More on that below.
+==========
+We further collect 3rd Party Data, both online and offline, from our Customers (“Customer Data”).
+As it relates to offline 3rd Party Data, BritePool may share it with and/or receive it from third parties that provide data onboarding and/or other data services (“Data Services”).
+==========
+Our contractual relationship with these third-parties allow us to use common identifiers, in a privacy-compliant way, to activate offline data by matching it with corresponding online identifiers, like cookies, to create anonymized platform IDs and audience segments for more actionable marketing and enhanced campaign performance.
+These offline data sets may include hashed emails or other identifiers but will never include directly identifying information like your name, address or phone number, and it will never be shared outside of the Data Services relationship.
+Regarding online 3rd Party Data, the Customer Data we collect most commonly includes hashed email addresses, but may also include MAIDS and other online identifiers, as well as transactional data.
+We use our online Customer Data to create and/or “match” it to corresponding BPIDs.
+==========
+This matching process converts an anonymous user into a verified one (“Verification”).
+For instance, when a user logs into one of our Publisher’s websites, the Publisher sends BritePool a signal that tells us that the user logged in along with the user’s hashed email address.
+We use the hashed email address to match it to a BPID specific to the user.
+We do not share the hashed email address with any third parties.
+We then return the hashed email to the Publisher along with the corresponding BPID.
+Offline Verification works in a similar way except that it does not happen in real-time.
+==========
+Once Verification is complete, the Publisher can process data under the BPID, and an Advertiser can recognize the user based on the BPID and enter a bid.
+If the bid is won, an ad is served to the user.
+==========
+In addition to the purposes described hereinabove, BritePool may share personal data with third parties for purposes of communicating opt-out requests as applicable.
+BritePool may also share the data as part of a corporate sale, merger or acquisition, or other transfer of all or part of our assets, including as part of a bankruptcy proceeding, or pursuant to a subpoena, court order, governmental inquiry or other legal process, or as otherwise required by law, or to protect our rights or the rights of third parties.
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+==========
+BritePool implements appropriate technical and organizational measures to safeguard individual rights and freedoms.
+Unless otherwise permitted or required by law, BritePool retains personal data for a period up to two years and only for as long as necessary in relation to the purposes for which it is collected or for which it is further processed.
+BritePool securely stores personal data offline in third-party cloud servers located in the US.
+==========
+BritePool complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework, as set forth by the US Department of Commerce, and has certified that it adheres to the Privacy Shield Principles, with respect to the collection, transfer and storage of data here in the US.
+Learn more about Privacy Shield and view our certification page here.
+==========
+All personal data is encrypted both at rest and in transit.
+When the data is no longer necessary for the purposes described herein, BritePool deletes it or anonymizes it in a form which no longer permits identification.
+The legal bases for our data collection, use and storage are consent and/or legitimate interests respectively in accordance with Articles 6(1)(a) and (f).
+==========
+WEB ANALYTICS
+BritePool uses Google Analytics, StatCounter and/or other applications that measure website traffic (“Analytics Provider”) to understand a user’s interaction with, and the performance of, our Site, measure our Site’s effectiveness, improve our Services, and generate sales opportunities.
+Between the companies, BritePool is the Controller; the Analytics Provider is the Processor.
+The Analytics Provider collects and processes data on BritePool’s behalf and pursuant to our written contractual instructions.
+It works this way – when an individual visits our Site, BritePool sets a first-party, session cookie along with a randomly generated, anonymized ID in the user’s browser.
+This enables the Analytics Provider to automatically receive certain information.
+The Analytics Provider may also set cookies on the browser or read cookies that are already there.
+The application does not collect or store any personally identifiable information.
+==========
+The types of data collected include the referring website and user engagement metrics, such as page views and time spent on page.
+This is never combined with other data.
+The Analytics Provider is not permitted to share the data without our consent, except in limited circumstances when required by law.
+BritePool retains full rights over the collection, access, retention and deletion of the personal data collected at all times.
+==========
+Learn more about Google Analytics and privacy here.
+To prevent Google Analytics cookies from being used in your browser, you can install the Google Analytics Browser Add-On.
+Google’s mailing address is Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA.
+==========
+Similarly, you can Manage StatCounter Cookies here.
+StatCounter’s mailing address is StatCounter, Guinness Enterprise Center, Taylor’s Lane, Dublin 8, Ireland, VAT # IE 9582511F.
+==========
+Please be aware that refusing analytics cookies may render some of the features and functions of our Site unusable.
+COOKIES
+Definition.
+Cookies are small text files saved by a website or a third party onto a user’s browser.
+==========
+These pieces of code assign the user a unique identifier and collect certain bits of useful information to help remember the user and enhance the user’s experience.
+BritePool uses cookies on our Site and to provide our Services.
+To learn more about types and our use of cookies, as well as security measures taken, please see BritePool’s Cookie Policy.
+Cookies can be rejected or deleted through a user’s browser, but this may prevent proper working of our website.
+==========
+To learn more, please see Your Online Ad Choices.
+Cookies can also be manually disabled in the Chrome browser.
+Learn more about managing cookies in Chrome here.
+==========
+DATA PROTECTION RIGHTS
+Information.
+You have the right to ask us for information about what personal data we process and the reasons we do so.
+Access.
+You have the right to understand if we process your personal data and, if so, request copies of that data.
+Rectification.
+You have the right to request that BritePool correct or complete any of your personal data that you believe is inaccurate or incomplete.
+Erasure or to Be Forgotten.
+Provided no exceptions apply, you have the right to have BritePool erase your personal data without undue delay if: (i) the data is no longer necessary for its intended purpose; (ii) you withdraw consent and there is no other legal ground for the processing; (iii) you object to the processing pursuant to certain provisions of the GDPR and there are no overriding legitimate grounds; or (iv)  the data has been unlawfully processed.
+Restrict Processing.
+You have the right to have BritePool restrict the processing of your personal data: (i) pending verification of the accuracy of your data when you request to rectify it, or of the legitimate grounds when you object to processing; (ii) if it has been unlawfully processed; or (iii) when you request that we keep it so you can establish, exercise or defend a legal claim.
+In response, BritePool will stop using the data but can continue to store it.
+We may lift the restriction once your concerns are resolved or we no longer need the information.
+==========
+Object to Automated Decision-Making.
+You have the right to object to processing that relies solely on automated or artificial means, including profiling, and produces legal or similar effects.
+Object to Processing.
+==========
+You have the absolute right to object to processing for direct marketing purposes.
+If the processing is based on legitimate interests, you can also object, but only if specific reasons are given.
+==========
+In this case, BritePool can refuse to comply when our reasons for processing override your interests, rights and freedoms, or the processing is for the establishment, exercise or defense of legal claims.
+We may also refuse to comply with, and charge a reasonable fee for the processing of, a request if it is manifestly unfounded or excessive.
+If there are no grounds for refusal, BritePool will stop, or not begin, processing the data for the applicable purpose.
+==========
+Withdraw Consent.
+You have the legal right to withdraw your previously given consent to processing.
+To do so, click here to access our Opt-Out Tool.
+==========
+If you exercise this right, we will remove the data from its intended processing.
+The withdrawal of consent shall not affect the lawfulness of processing based on consent before its withdrawal.
+Portability.
+You have the right, under certain conditions, to request that BritePool transfer your personal data to you or to another organization so long as it does not prejudice the rights and freedoms of others.
+==========
+PRIVACY POLICIES OF OTHER WEBSITES
+Our Site contains links to other websites.
+Our Privacy Policies apply only to our Site.
+Therefore, if you click on any such link, we encourage you to read the linked website’s respective privacy polic(ies), which will govern those parties’ privacy practices.
+==========
+EU REPRESENTATIVE
+VeraSafe has been appointed as BritePool's representative in the European Union for data protection matters, pursuant to Article 27 of the GDPR.
+In addition to the contact mechanisms referenced herein, VeraSafe can be contacted on matters related to the processing of personal data.
+To make such an inquiry, please contact VeraSafe using this contact form: or via telephone at: +420 228 881 031.
+Alternatively, VeraSafe can be contacted at:
+VeraSafe Ireland Ltd.
+==========
+Unit 3D North Point House
+North Point Business Park
+New Mallow Road
+Cork T23AT2P
+Ireland
+HOW TO CONTACT US
+If you have questions about your rights, BritePool’s processing of your personal data or our privacy policies, or you wish to change your contact or account information, you may contact us by emailing gdprinfo@britepool.com.
+Should you wish to exercise any of your GDPR rights, please contact us by email at gdprrights@britepool.com.
+You can also reach us by mail at: BritePool, Inc., 444 New England Avenue, Winter Park, FL 32789, Attn.: GDPR Request.
+==========
+We will respond to you without undue delay and otherwise within thirty (30) days.
+If we do not comply with any of your requests, BritePool will inform you of our decision and the reasons for the same.
+If you wish to pursue said request further, you have the right to make a complaint to the ICO or another supervisory authority and/or seek to enforce your rights through judicial remedy.
+==========

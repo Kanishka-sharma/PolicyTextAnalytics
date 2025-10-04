@@ -1,0 +1,124 @@
+Information we collect
+Information you give us
+The personal information that we receive about you depends on the context of your interactions with Intuit, how your configure your Intuit Account and the choices that you make, including your privacy settings.
+Personal information that you provide may also depend upon what services or experiences you use, your location and applicable law.
+Creating an account.
+We collect information when you create an account, interact with our Platform or activate a subscription.
+==========
+Personal information may include your contact information (such as your name, address, phone number and email), profile photo, billing information (your payment information), usernames and credentials.
+Identification information.
+We collect information to verify your identity, including your name, social security number, social insurance number, driver’s license numbers, government-issued identification details, for example to verify your identity as one of our experts or to help you file your tax return.
+Customer support, product research, training and feedback.
+We may collect personal information when you reach out to us for support, give us feedback, participate in optional surveys, product research or training and you choose to share (“Communication Information”).
+Social and community content.
+We receive content you post on our social media pages and our community pages.
+==========
+Information about others: Please see the section titled, “Information provided by others”, below.
+Biometric Information.
+Please see the section titled, “Biometric Information”, below.
+==========
+Information we get when you use the products and services.
+We may collect certain information about you when you access or use the Intuit Platform.
+This may include:
+
+Device information.
+We may collect information about your device such as Internet Protocol (“IP”) addresses, log information, error messages, device type, and unique device identifiers .
+For example, we may collect IP addresses from you as part of our sign in and security features.
+==========
+Content.
+We may receive information about your business, your finances, expenses, invoices, financial statements, details of your financial transactions, payroll details, payment details, tax return details, details about your customers or vendors or employees, income and wage information, and/or investment information.
+Third-party service content.
+We receive information about you when you sign in to a third-party service with your Intuit Account or when you connect your Intuit Account to a third-party service.
+For example, you may choose to connect your Intuit Account with your bank accounts.
+To sync your financial account information, we must access your financial account information.
+==========
+Usage information.
+We may collect usage information such as the pages you viewed, the features you use, your browser type and details about any links with which you interact.
+Location information.
+Certain features in our platform may collect your precise location information, device motion information, or both, if you grant permission to do so in your device settings.
+For example, if you use our time-tracking service.
+==========
+Expert advice.
+Our platform provides many opportunities for you to connect with live experts, including, for example, accountants or tax preparers.
+When you interact with these experts, we may receive information about the questions you ask, the details of your accounts and the guidance provided to you.
+==========
+Camera and contacts.
+Certain features may have access to your camera and contacts if you grant permission in your device settings.
+Information from cookies and other technologies.
+Intuit and our service providers may use commonly used tools such as cookies, web beacons, pixels, local shared objects and similar technologies (collectively "cookies") to collect information about you (“Cookie Information”) so we can provide the experiences you request, recognize your visit, track your interactions, and improve your and other customers' experience.
+The Intuit Platform is not currently configured to respond to browsers’ “Do Not Track” signals because at this time no formal “Do Not Track” standard has been adopted.
+==========
+You have control over some of the information we collect from Cookies and how we use it.
+For more information, please see our Cookies Policy
+
+Information stored locally.
+Some of our web-enabled desktop services and offerings synchronize with the information on your computer.
+We may also store personal information locally on your device.
+==========
+Biometric Information
+Certain parts of the Intuit Platform make use of biometric personal information (“Biometric Information“), Biometric Information can be subject to additional laws and regulations.
+We collect Biometric Information from you when you enroll in our biometric identity program and automatically as part of our anti-fraud protection and customer support activities.
+These identifiers may include facial recognition information, voiceprints and key-stroke information, as well as mathematical representations of your biometric identifier, such as the template maintained for comparison.
+We use Biometric Information to identify and authenticate you, and for security and similar purposes (such as tracking access in our facilities).
+==========
+We share Biometric Information with third-party service providers who assist with our IT, security and fraud programs, our professional advisors, and as required by law or regulation.
+Intuit does not sell your Biometric Information.
+When we collect Biometric Information, you will receive a specific notice and consent request at the time of that collection.
+You are not required to consent to the collection of Biometric Information in order to use our services, although some functionality may not be available if you decline and you may withdraw your consent at any time.
+Intuit will retain Biometric Information until the purposes for which it was collected have been satisfied or three years from your or your organizational account manager’s last interaction with Intuit, whichever comes first.
+==========
+Information provided by others
+Our platform is designed to help you connect with other people and organizations.
+As a result of those connections, others may be able to input information about you.
+For example, your employer may input information about your salary and work activity in order to process their payroll.
+You may also be able to input or process information about others, for example, if you are an account administrator.
+==========
+If you input information about others into our platform, you must only do so if you have first received the appropriate rights and permissions to do so, including by getting advanced written consent, if required by applicable law.
+At Intuit, we believe that you have rights to information that pertains to you, your household and/or your business.
+If another person has input or processed information in the Intuit Platform on behalf of you, your family or your business (and we are processing such information as an Information Controller),you may ask to receive a copy of your information, even if you do not have an account with us.
+To help protect privacy and the security of your information, you may be asked to provide additional information to verify your identity and/or ownership rights prior to receiving a copy of the information.
+For specific instructions on how to request a copy of your information, please see the section “Your information rights and choices” below.
+==========
+We also obtain information from outside parties or services to run our business.
+We protect and process information obtained from those parties as described in this Statement, consistent with any additional restrictions imposed by the source of the information.
+Our sources may vary over time and depend upon how you use the Intuit Platform.
+For a list of the categories of sources from whom we obtain information, please see the section “Other information sources” below).
+Other information sources
+We may also get information about you from others where permitted by applicable law.
+==========
+For example, we receive information from:
+
+Your service providers.
+If you choose to sync a non-Intuit account/service with your Intuit Account, we will receive information from that account/service according to your settings with that account/service.
+For example, if you connect a point of sale application to your Intuit Account, we may receive details of your business’s sales records.
+==========
+Supplemental information and identity verification providers.
+Service providers who help us verify your identity, the specifics of your business and/or supplement the information you have provided and ensure the accuracy of your information.
+For example, we use third party service providers to validate your mailing address, phone number or provide additional details about your business.
+These providers may include, for example, your financial institution, telecommunications provider or email provider.
+==========
+Support providers.
+Service providers who provide us with information about you or your interaction with the Intuit Platform.
+For example, we may obtain service and support information or technical issues you have raised with these third parties.
+Credit bureaus.
+We receive information, such as your credit report or credit score, from credit bureaus in order to provide you with financial offers.
+==========
+Other users.
+As described in sections “information Provided By Others”, we may get information about you from other users, such as your accountant, bookkeeper, tax preparer, your spouse, your head of household or your employer.
+Risk management, cybersecurity & anti-fraud providers.
+We may receive information from service providers who help us assess risks associated with our offerings, including to help combat fraud, illegal activity and to help protect your personal information.
+Content providers.
+We may receive information from software providers that make user-generated content from their service available to others, such as local business reviews or public social media posts.
+Communication providers & social networks.
+If you give us permission, we may collect information from email providers, communication providers and social networks.
+Joint offering partners.
+We may offer co-branded services or experiences or engage in joint-marketing activities with others, including through our conferences or live events.
+==========
+Publicly-available Sources.
+We collect information from publicly available sources, such as open government databases.
+Government agencies.
+We receive information from government agencies, including from various tax agencies.
+Required information
+Some services and experiences in the Intuit Platform require you to provide information for it to function.
+If you do not wish to provide the required information, you may not be able to use certain features.
+==========

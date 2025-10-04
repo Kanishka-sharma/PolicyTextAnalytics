@@ -1,0 +1,298 @@
+At a Glance - Summary of the Privacy Notice
+Full details of the Privacy Notice follow this summary table.
+To further guide your understanding of this Privacy Notice, please review the list of definitions referencing capitalized terms throughout this notice, at the end of this page.
+Who we are
+Tapad, Inc. (“Tapad”) is a global leader with digital products such as The Device Graph™ (the “Graph” or “Tapad Graph").
+The Tapad Graph provides a transparent, privacy-safe approach to globally connect to consumers through their devices and related Identifiers such as phones, tablets and desktop computers, and connected TVs.
+What we do
+Tapad collects and uses information as described further in this Privacy Notice in connection with the Graph services we provide to Clients and Partners.
+The Graph is an association of likely connections between device Identifiers across platforms including websites, or mobile applications.
+This data is used by our clients for more tailored advertising, marketing, measurement, analytics, and research.
+==========
+We do not collect or create any information that directly identifies a natural person.
+Tapad's Role
+In the creation of the Device Graph, Tapad determines the purpose and means of the processing of data that is collected and stored by Tapad.
+What we collect
+We collect information as users browse the internet through their devices such as computers, phones, or tablets.
+We only collect information that is necessary to provide our Services.
+==========
+The information we collect includes the following:
+
+Unique device Identifiers: Unique device Identifiers (or "unique IDs") allow Tapad to distinguish one browser or device from another, as each device has its own ID.
+The unique IDs that we collect are Cookies, Mobile Ad IDs which are associated with app usage such as IDFAs for iOS, and Android Ad IDs for Android, or other device IDs associated with devices connected to the internet.
+Timestamps which indicate the time the device was recognized
+User Agent Strings that specify information such as type of browser, device and Operating System information
+IP addresses and general location data that can be extrapolated from an IP address, but no more specific than a postal code level
+Web address (also known as "URLs") or app IDs of a webpage or a mobile application where a user is browsing
+
+
+
+
+What we  do not  collect
+We do not collect and store the following information:
+
+Names
+Addresses
+Precise Location Data
+Phone numbers
+Login data with associated passwords
+
+We do not collect any information that directly identifies a natural person.
+==========
+Where
+This Privacy Notice relates to processing globally, with the exception of the European Union and European Economic ("EU and "EEA", respectively).
+For information about processing activities in the EU or EEA area please see our EU privacy notice available here.
+Why (purpose)
+We use our technologies to create likely connections between device Identifiers across platforms including websites, or mobile applications and TV applications.
+==========
+This data is used for more tailored advertising, marketing, measurement, analytics, and research.
+Your Rights & Options
+You may opt out of the Tapad Graph at any time by clicking out Opt-Out link displayed on this page.
+You may also opt-out of Tapad and other companies' data collection practices via the Network Advertising Initiative ("NAI") opt-out page here, or Digital Advertising Alliance's ("DAA") opt-out page here
+
+Opting out of Tapad through any of the mechanisms described above will have the same effect with respect to the Tapad Graph.
+For data access requests or data deletion requests, you may email us at privacy@tapad.com.
+==========
+Please note that we will need your Cookie and/or Mobile Ad IDs in order to identify your devices in our systems.
+Access requests: provides you access to the data we have that may be linked to your devices
+Erasure or deletion requests: allows you to request deletion of any data we may hold relating to your device(s)
+
+
+
+
+FULL PRIVACY NOTICE
+To further guide your understanding of this Privacy Notice, please review the list of definitions referencing capitalized terms throughout this notice, at the end of this page.
+This Privacy Notice describes how Tapad collects and uses information in connection with the services (the “Services”) we provide to our Partners and our Clients.
+Our Services create likely connections between device Identifiers across platforms including websites, or mobile applications.
+==========
+This data is used by our clients for more tailored advertising, marketing, measurement, analytics, and research.
+Tapad is a member in good standing of the industry association the Network Advertising Initiative and adheres to the NAI of Conduct, which is designed to ensure compliance with responsible data collection and use practices.
+We also participate in the  Digital Advertising Alliance self-regulatory program and adhere to the DAA Principles for Online Behavioral Advertising.
+Tapad also participates and adheres to the Interactive Advertising Bureau ("IAB") Online Behavioral Advertising ("OBA") framework.
+Should you have any questions or concerns regarding our use or collection of information, please send an email to privacy@tapad.com
+Our Privacy Principles
+The following general principles guide us in our data collection, usage, protection and product development throughout our product life cycle, and help guide this Privacy Notice:
+
+Notice and Transparency: We explain the information we're collecting and why.
+Offer Meaningful Choice: Consumers can easily opt-out of the Tapad Graph and related services powered by Tapad.
+==========
+Data Minimization: We minimize the amount of data that we collect, process and store, and do not collect information that is directly identifiable to an individual person.
+Data Protection: We follow reasonable practices to ensure all user data is secured and operates in accordance with the requirements of the International Organization for Standardization ISO standard ISO/IEC 27001:2013.
+Each of the four sections described above are explained in more detail below.
+1.
+==========
+Notice and Transparency
+In order to establish connections between devices and provide the Services and Tapad Graph to Clients and Partners, we collect and store the information as described below from devices.
+Tapad collects and uses information through its own and Third Party websites and mobile applications, and in connection with the Services that we provide to Partners and Clients such as advertisers, agencies, marketers, and technology firms.
+Tapad observes these signals generated from internet activity received from devices connected to the internet, and uses various processing logic to establish likely connections and groups together unique Identifiers that are likely associated.
+The associated Identifiers may include those IDs associated with mobile applications on both smartphones and tablets, web browsers across various devices, and connected TVs or applications on connected TVs.
+We collect information as users browse the internet, and we use common tools such as Cookies, SDKs and web server logs.
+==========
+The signals that we use in our Services (creating likely connections between device identifiers) are as follows:
+
+Unique device Identifiers: These can come in multiple forms such as a browser Cookie, Mobile Ad IDs which are associated with app usage such as IDFAs for iOS, and Android Ad IDs for Android, or other device IDs associated with devices connected to the internet, such as televisions or mobile game systems.
+These unique IDs allow Tapad to distinguish one browser or device from another.
+Timestamps: Indicate the time the device was recognized.
+==========
+User Agent Strings: a string of information about the context of the user requesting content, typically including type of browser, device type, operating system, model or version number, and screen size.
+IP addresses: Internet Protocol address and generalized data that can be extrapolated from an IP address (e.g. we may be able to determine a general user location but not more defined than a postal code level).
+Web address (aka URLs) or app IDs: web page or mobile application where a user is browsing.
+We collect information in the following ways:
+
+In a web browser, we may use Pixels to collect information.
+When these web pages are accessed, Pixels generate a notice of the visit.
+When used with Cookies, Pixels can track activity on a site by a particular browser and provide relevant online advertising.
+If Tapad, or a Partner, collects information about a device in a mobile application, we may also use Pixels or an SDK.
+==========
+We may also may exchange data in a batch file, which is a way of receiving a set of data from our partners.
+We do not use or permit our Clients or Partners to send us:
+
+Precise Location Data, such as your exact location at any given time
+Any information that may be directly identifying or re-identified with a natural person such as name, address, clear text email address, username, Social Security Number, government ID information, GPS data, cell site data or phone number
+User or household level demographic information
+
+Tapad itself does not create any statistically-derived Identifiers, or engage in practice called "fingerprinting".
+We do not reinstate Cookies once they have been opted out by you, or conduct history sniffing.
+We do not use local storage on servers.
+==========
+Collected information is used by Tapad only to:
+
+Evaluate the probability and nature of connections between devices (a key attribute of the Tapad Graph)
+Cluster probabilistic associated devices and Pseudonymized IDs
+Understand high level device attributes such as the make, model, country or city the device is being used
+Share this aggregate information with Third Parties
+
+We also use Google and Amazon cloud-based storage and processing systems.
+Google and Amazon are bound by our written instructions as to how to process Tapad data, do not read or modify any Tapad data, nor Client or Partner data, except as otherwise directed by us.
+Tapad also receives matching IDs from Partners and Clients for the purpose of matching existing customers or otherwise known IDs to IDs in Tapad's Graph.
+Matching IDs may represent device IDs, underlying Cookie IDs, customer IDs, or other types of data meaningful to the Partner or Client, and is recognized only as another pseudonym in Tapad's systems.
+==========
+Tapad requires that Partners and Clients obscure and protect all Matching IDs before sending them to Tapad, such that the underlying data is either meaningless to Tapad or is encrypted such that Tapad has no ability to access the underlying data.
+Matching IDs may be used for the purpose of Tapad Graph management and for Tapad's Services.
+Some data in the Tapad Graph (the User Agent Strings and IP data) is translated with assistance from Partners.
+==========
+This information is used for understanding some metadata, such as translating IP addresses, country or city code (in no event would IP address be narrowed to an area more specific than postal code), device platform information or device hardware information (to understand that the User Agent String is a specific device or model type to a general manufacturer), and type of connection.
+In order to comply with COPPA, the Federal Trade Commission's Children's Online Privacy Policy Act of 1998, 15 U.S.C. 6501-6505, we require that our Partners put the necessary filters in place to ensure that they do not transmit this type of data to Tapad nor do they create or associate data to Tapad data that could be used to target children under the age of thirteen (13).
+Categories of recipients and usage
+As described in this Privacy Notice, we share the data that we maintain in The Tapad Graph with our Clients and our Partners.
+Categories of our Clients and Partners are:
+
+Advertisers
+Advertising agencies
+Marketers
+Technology platforms
+Market research firms
+Telecommunications companies
+
+The Tapad Graph may be used by our Partners and Clients to:
+
+Provide targeted advertising to users
+Provide measurement insights, and provide reporting back to Clients and Partners, including statistical reporting in connection with the activity on a website, optimization of location of ad placement, ad performance, reach and frequency metrics
+Market research and analytics, such as user journey mapping
+Understand device information such as type of device, OS, age of device, country or region of the device extrapolated information from IP address, general usage on WiFi or cellular network
+Marketing and advertising analytics
+Website or app Personalization
+
+Countries of Transfer
+Our Clients Partners and service providers are located across the globe in North America, Asia Pacific, Latin America, the European Union and the European Economic Area.
+Tapad covers all its data transfers of data in the EU/EEA to non-EU/EEA countries with EU Standard Contractual Clauses and if needed or requested, with a Data Transfer Agreement.
+2.
+==========
+Offer Meaningful Choice
+If you would like to opt out of Tapad Services, we allow you to do so as described in this section.
+Mobile applications and web browsers operate with different Identifiers even though they may be on the same device.
+This is similar to how different web browsers on your computer have independent Identifiers.
+==========
+Because mobile apps and web browsers have different Identifiers, you may need to opt out of each environment separately.
+When you opt out via one ID that is contained in the Tapad Graph, if we have other device Identifiers associated with that ID in the Tapad Graph, we will automatically remove and opt out all other related Identifiers which Tapad deems to be associated to that ID.
+If we have not probabilistically associated your other Identifiers in the Tapad Graph, then we cannot opt out these other Identifiers.
+Therefore, to ensure thorough opt-out choices are honored, the opt-out process must be performed on each device and browser from which you choose to be opted out.
+==========
+For example, if you want to opt out on your computer browser as well as your mobile device browser, and we do not have the two as associated browsers, you will need to click on the link in the table above in both your computer browser as well as your mobile device browser.
+If you are interested in opting out on your computer or mobile web browser, please visit the "Web Browser Opt-out" section below, or opt out here.
+If you are interested in opting out on your mobile device, please visit the "Mobile Application Opt-out" section below.
+==========
+All of our Clients and Partners are obligated to promptly discard IDs that have been opted out of Tapad data processing upon receipt of refreshed Tapad data.
+Web Browser Opt-out
+If you would like Tapad to stop collecting device data for the Tapad Graph and our associated Services, please click on our Opt-Out link displayed on this page.
+You may also opt out from other companies' data collection practices via the NAI's opt-out page here or the DAA's opt-out page here.
+==========
+We make the best effort to provide a persistent opt-out for all web based environments.
+PLEASE NOTE: In the web browser environment, do not just delete Cookies from your browser.
+The Tapad web browser opt-out works by replacing your unique Cookie ID with a generic opted-out value.
+Thus, if you attempt to opt-out by clearing Cookies, or deleting your devices' content cache, Tapad will not be able to recognize your device as opted out, and if you subsequently visit one of Tapad's website Partners, you may then create a new Tapad Cookie, which may then be included in the Tapad Graph.
+The above opt-out will only be enabled if you are accessing it from a Javascript-enabled browser and Third-Party Cookies are enabled.
+==========
+These two technologies are required for us to provide a persistent opt-out.
+Mobile Application Opt-out
+As mentioned previously, if your mobile ID is associated with the web browser opt-out described above, it will automatically be included in the opt-out.
+However, if it is not included, then the steps below will apply.
+==========
+If you would like Tapad to stop collecting device data for the Tapad Graph and our associated Services, for your mobile applications, please download the  DAA's AppChoice tool for your mobile Operating System and opt out through the application.
+Manage Your Device Settings
+In addition, you may also manage your privacy preferences on your mobile device by adjusting your advertising preferences within your device settings.
+For example:
+
+To adjust your advertising preferences in iOS, visit Settings > Privacy > Advertising > Limit Ad Tracking or Settings > Privacy > Advertising > Reset advertising ID
+To adjust your advertising preferences in Android, visit Settings > Google > Ads > Opt out of Ads Personalization
+
+3.
+==========
+Data Minimization
+We only collect data needed to provide our Services as described under the "Notice and Transparency" section of this Privacy Notice.
+Furthermore, we actively discard data that we may otherwise receive that is not used for building the Graph, as described.
+We do not retain device level data for any longer than necessary to build the Graph, at a maximum of 90 days.
+However, we will retain the data as described in this notice as long as necessary for measuring advertising and marketing campaigns, but in no event longer than fourteen (14) months (even in backup systems).
+==========
+We contractually require all of our Partners to do the same, and further, we require all Clients and Partners to only use the latest Tapad Graph build, which includes recent opt-outs.
+We keep opt-out information for longer than this period so that we can continue to honor opt-out requests.
+Aggregate reports generated from this information may also be kept longer.
+We actively reevaluate our data retention policies on a regular basis to ensure that we only store data as needed to continue to deliver our product to our Clients.
+4.
+==========
+Protect Data
+Tapad takes significant steps to protect the security of the information that we collect.
+To that end, we have designed and deployed hardware, software and networking solutions in an effort to reasonably secure and protect access to our systems and data.
+Tapad's Information Security Management System ("ISMS") operates in accordance with, and is certified to the requirements of ISO standard ISO/IEC 27001:2013.
+However, no data security measures can be guaranteed to be completely effective.
+Consequently, we cannot ensure or warrant the security of any Tapad Graph data or other information.
+In particular, we cannot guarantee that the Tapad Graph data or other information will not be disclosed, altered, or accessed in accidental circumstances or by unauthorized or unlawful acts of others.
+==========
+Legal and Other Disclosures
+We may share Personal Information when we believe such action is appropriate to comply with the law (e.g., legal process or a statutory authorization); to enforce or apply our customer agreements; to initiate, render, bill, and collect for Services; to protect our rights or property, or to protect users of those Services from fraudulent, abusive, or unlawful use of, or subscription to, such Services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of information without delay.
+Tapad Website Data
+In addition to the data we collect for the Services we provide, we also collect information you explicitly provide to the Tapad Sites (www.tapad.com) with your consent.
+In this instance, in addition to collecting data for the purposes listed above, we may also collect user registration information from Tapad sites (www.tapad.com), such as when you sign up for our email newsletter.
+Data would also be collected when a consultation or meeting is requested or when available Marketing material is downloaded from our site.
+This might include our business Clients' or prospects' names, email addresses, company information, title, countries, and phone numbers, and information on which Services they are interested in.
+==========
+We do not sell or rent data collected from our websites, but we may provide it to Third-Party service providers such as Customer Relationship Management ("CRM") platforms as necessary to conduct our business operations.
+In addition to the data collected for our marketing purposes, we also receive and store Personal Information that would be covered under our Services from these website visits so that we can improve our Tapad Services and to analyze our own Client base.
+Your Rights
+Tapad offers the rights to access and erasure to the information of the users whose data we collect and process.
+If you want to execute your right to erasure or access your specific information we may hold, you may request erasure or access by emailing privacy@tapad.com.
+You may also object to your data being processed by opting out, as described earlier in this notice.
+Please note that because we cannot identify requesters based on names or email addresses, requesters will need to present any relevant online Identifiers such as Cookie ID or Mobile Ad IDs to Tapad.
+Whenever you opt out of the processing conducted by Tapad, all Personal Information relating to you and maintained by Tapad will be deleted safely by Tapad within 30 days, except as otherwise noted in this Privacy Notice.
+Additionally, requesters will be asked to return an executed Certification Form that Tapad will provide at the time of the request that is meant to verify the identity of the requester by way of their own admission and under penalty of perjury, as required by relevant laws.
+Contact Details
+Tapad, Inc.
+551 Fifth Avenue, 9th Floor, New York, NY 10176
+You can also contact our Privacy Team directly by emailing privacy@tapad.com.
+Change of Control
+If we undergo a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of our business, information we have collected or otherwise acquired may be one of the assets transferred.
+==========
+Definitions
+"Clients" refer to companies that purchase our product, the Tapad Graph.
+Our Clients include companies that buy advertising, advertising technology companies, companies that engage in marketing, advertising and marketing agencies, market research firms, and market analytics firms.
+"Cookie" is a small piece of data that is stored on your computer by a web browser during internet usage that can then, for example, be used to uniquely identify your browser
+"Consumer" means a natural person who may be identifiable by data that identifies, relates to, describes, is capable of being associated with, or may reasonably be linked, directly or indirectly, with a particular consumer or household, as described in the definition of "Personal Information" below
+"Customer Relationship Management" (CRM) are platforms that help manage a company's interaction with users of their services and/or websites
+"Identifier" or "ID" is a sequence of characters used or assigned to identify or refer to a device
+"Mobile Ad ID" is a set of digits that is assigned to a mobile device by the manufacturers of mobile devices.
+==========
+These are specifically for advertising and marketing purposes (different from a hardware ID) that may be reset.
+For iOS systems made by Apple, this is an IDFA, and for Android systems this is AAID.
+"Obfuscation" is the action of making something obscure, unclear, or unintelligible
+"Operating System" or "OS" is software that controls the operation of a computer or device and directs the processing of programs (as by assigning storage space in memory and controlling input and output functions)
+"Partner" is an entity that which Tapad has a contractual business relationship
+"Personal Information" is data that identifies, relates to, describes, is capable of being associated with, or may reasonably be linked, directly or indirectly, with a particular Consumer or household
+"Personalization" is the act of designing or tailoring a user's online experiences to meet individual preferences
+"Precise Location Data", as defined by the NAI, is information that describes the precise geographic location of a device derived through any technology that is capable of determining with reasonable specificity the actual physical location of a person or device, such as GPS level latitude-longitude coordinates or location-based Wi-Fi triangulation.
+Generally, the use of two or fewer decimal places in latitude-longitude data is equivalent to knowing the location to the area of a circle with a radius greater than 500 meters
+"Pixel" is a piece of code which is used by a website or Third Party to send data to their servers and/or store data on a computer
+
+"Pseudonymization" is a data management and de-identification procedure by which information fields within a data record are replaced by one or more artificial Identifiers, or Pseudonyms
+"SDKs" is an acronym for Software Development Kits.
+==========
+An SDK is a set of code that is embedded directly in Partner mobile applications
+
+"The Tapad Graph" or "the Graph" is Tapad's proprietary technology used to establish probabilistic connections between your Pseudonymized Identifiers
+"Third Party" or "Third-party" is an entity other than Tapad or the Consumer
+"User Agent String" is a string of information about the context of the user requesting content, typically including type of browser, device, Operating System, and other information
+
+ Privacy Notice Changes
+Tapad may modify this Privacy Notice at any time at its sole discretion.
+Use of information collected by Tapad now is subject to the Privacy Notice in effect at the time such information is used.
+Changes to the Privacy Notice shall be announced by posting the updated Privacy Notice on the Tapad Site.
+Changes to this Notice will be reflected in the "Last Updated" date above.
+What's New:
+
+Amended November 4, 2019 to update to current practices which include product offerings, privacy principles, data collection practices, region-specific information, marketing practices and inclusion of At a Glance table and definitions.
+==========
+Amended June 20, 2018 to clarify language throughout.
+Amended April 16, 2018 to update industry membership information.
+Amended March 7, 2018 to comply with the requirements set by GDPR for privacy policies and reflect that Tapad may receive statistical IDs from Partners and delivered to Clients as part of the Tapad Graph reporting.
+Amended April 8, 2017 to reflect that Tapad may collect and use Obfuscated phone number in Pakistan for The Tapad Graph management, analytics, and ad targeting.
+Amended November 22, 2016 to reflect that Tapad may collect and use Obfuscated phone number in Malaysia for The Tapad Graph management, analytics, and ad targeting.
+Amended October 26, 2016, to better explain how users may opt out in mobile applications.
+==========
+Amended June 6, 2016, to reflect that in Tapad may collect and use Obfuscated user identifiers such as email address (or phone number in Thailand only) for The Tapad Graph management, analytics, and ad targeting.
+Amended April 7, 2016 to inform consumers that Tapad adheres to the Digital Advertising Alliance of Canada's Self-Regulatory Principles for Online Behavioural Advertising.
+Amended October 13, 2015 to add information and links for European consumers.
+==========
+Amended November 17, 2014 to describe how we use Precise Location Data and non-sensitive health information and how we share information regarding users' inferred interests.
+Amended May 14, 2014 to reflect re-branding of Evidon to Ghostery.
+Amended April 10, 2014 to clarify that some customers who receive data from us may be unable to honor opt-out requests immediately.
+Amended March 31, 2014 to remove reference to the TRUSTe Ad Preferences Manager.
+==========

@@ -1,0 +1,403 @@
+Privacy Policy
+Last update : 22/03/2021
+ 
+
+
+  General 
+
+
+
+ General 1
+ Identity of data controller, data protection officer and supervisory authority.
+2
+ Why and how do we collect your personal data ?
+.
+3
+ What categories of personal data do we collect ?
+.
+4
+ What are the purposes, legal bases and retention periods for the processing of your personal data ?
+.
+4
+ Who are the recipients of your data ?
+.
+7
+ Are your personal data transferred outside the European Union ?
+.
+8
+ What are your rights regarding your personal data?
+.
+==========
+9
+ Instructions to buyers.
+9
+
+ 
+ 
+1.1.
+==========
+Purpose of this privacy policy   
+This privacy policy is to inform you of the purposes and the treatment modalities of personal data by TabMo, particularly through its Hawk platform, in accordance with Regulation 2016/679/EU of the European Parliament and of the Council of April 27, 2016, (“General Data Protection Regulation”, GDPR) and your rights thereunder.
+For any request for additional information, we invite you to contact the Data Controller, or his Data Protection Officer (DPO), whose contact details are given below.
+1.2.
+==========
+Situations in which this privacy policy applies   
+This privacy policy applies to the following situations :
+
+You are the user of a partner of TabMo for which TabMo operates through its Hawk platform, as " demand-side platform " (or " DSP platform ").
+You are a simple visitor to the site hawk.tabmo.io and you are concerned about the personal data concerning you which may be collected there , when you have filled out the contact form , in order to obtain a demonstration of the Hawk platform.
+You are a TabMo buyer , or work for such a buyer, and as such you have made your contact available to TabMo.
+==========
+Identity of data controller, data protection officer and supervisory authority 
+
+
+
+2.1.
+Responsible for processing
+
+The Data Controller is :
+TabMo Company
+Société par actions simplifiée (SAS)
+24 , rue du Moulin-des-Prés 75013 PARIS
+SIRET n ° 79523686800019,
+represented by Mr. Renaud BIET as President and Mr. Hakim METMER as Managing Director
+09 83 63 37 19
+https://hawk.tabmo.io/
+2.2.
+Data protection officer   
+The Data Protection Officer ( DPO) is :
+Maître Alexis DEROUDILLE 
+Lawyer at the Paris Bar
+44 rue de la Clef
+75005 Paris, France
+Toque n ° 2449
+SIRET n ° 83964295600024
+(SIREN n ° 839 642 956)
+dpo@tabmo.io
+contact@deroudille-avocat.fr
+www.deroudilleavocat.com
+2.3.
+Competent supervisory authority   
+The competent supervisory authority for the protection of personal data is:
+La Commission nationale de l’informatique et des libertés (CNIL)
+3 place de Fontenoy
+75007 PARIS,
+tél : +33153732222
+site internet: www.cnil.fr
+ 
+
+
+ Why and how do we collect your personal data ?
+3.1.
+==========
+What is a DSP (“ demand-side platform”) ?
+A “demand-side platform” (or DSP platform), a category to which the Hawk platform, from TabMo is attached, is a service provider that offers its buyers (media agencies or advertisers), targeted advertising services.
+For this, the DSP buys advertising space to editors (smartphone application, websites, etc.), that it sells then selectively to clients, in addressing them their most likely target audiences.
+This method involves the identification of targeted audiences among the users of said sites or mobile applications, and therefore, the processing of several categories of personal data of these same users.
+Thus TabMo is likely to identify some of your habits, characteristics, distinguishing features, deducted from your terminal activity (smartphone, tablet, computer).
+3.2.
+==========
+What is personal data ?
+Personal data means any information relating to a natural person from which said person can be identified either directly or indirectly .
+The directly identifying data are, for instance, your first and last names.
+Less identifying data can nevertheless be qualified as personal data, insofar as it provides information about you, in particular, when it is crossed with identifying data.
+This is the case, for instance, with your geolocation history.
+3.3.
+==========
+How do we collect your personal data ?
+When you visit the website or mobile application of an editor, and when consent to it, TabMo may collect certain types of data personal about you, they deduced from the use of your terminal.
+These personal data do not allow us to identify you directly .
+==========
+They are only linked to your user identifiers (IP addresses, device IDs, IFA identifiers).
+By crossing this information with other datasets obtained from third party partners, TabMo’s clients may address you personalized advertising.
+As an exception, TabMo may collect certain data directly from you (for example when you visit its website www.hawk.tabmo.io and complete a contact form).
+3.4.
+==========
+How to express my choices on the use of my data?
+TabMo invites you to express your preferences in terms of personalization of advertising content on the platforms of the sites you visit.
+If you would like more information on this subject, we invite you to contact TabMo's DPO , at the address indicated above.
+What categories of personal data do we collect ?
+4.1.
+==========
+Data we collect indirectly from a third party
+
+The following categories of data are collected automatically from your terminal, from a third-party site or from a third-party application, and then transmitted to TabMo :
+
+IDs of connecting your devices : address s IP, Device ID s , id s IFA ; Google advertising cookies;
+geolocation data ;
+data relating to store visits or “ drive to store ” ;
+information on interaction with advertising content, with a view to retargeting advertising ;
+content of the segment category (e.g. male, female, young adult, athlete, traveler, inhabitant of such or such city, etc. )
+
+
+4.2.
+Categories of data we collect directly from you
+
+TabMo directly collects certain personal information from you in the following circumstances :
+
+You are a visiting of the TabMo’s own website ( hawk.tabmo.io ), and that you have filled out the contact form, we collect identifying information (name, email address) ;
+You work for one of our clients or partners, then TabMo may be required to collect and process your credentials : name, email, post, business partner.
+What are the purposes, legal bases and retention periods for the processing of your personal data ?
+5.1.
+==========
+For what purposes do we collect your personal data ?
+The main purposes for which TabMo may collect and processes your personal data, through its HAWK platforms are:
+
+to provide targeted advertising services to TabMo clients (advertising targeting) ;
+to determinate the exposure to advertising messages that have caused a user reaction ( advertising retargeting ) : if we notice that you have clicked on an advertisement concerning a product or service, our clients may then send you advertisements more frequently related to this type of product.
+to end exposure to advertising messages that generated in-store visits ( " drive to store " ) : when the smartphone with which you viewed an advertisement relating to a product or service, was observed in a store offering this product or service, TabMo can deduce an anonymous information on the success of the advertising campaign ;
+to evaluate in real time the impact of an advertising campaign;
+to generate detailed reports on the performance of an advertising campaign ;
+to ensure fraud detection and incident recovery .
+TabMo also addresses certain identifying information (name, email address, phone numbers) in saw th of the following purposes :
+
+allow visitors to the hawk.tabmo.io site to come into contact with TabMo in order, in particular, to obtain a demonstration of the Hawk platform ;
+allow TabMo to correspond with its buyers and partners (natural persons serving as contact for TabMo within its buyers or partners).
+5.2.
+==========
+On what legal bases do we operate the processing of your personal data ?
+In application of the GDPR, any processing of personal data must have a legal basis , i.e. a legal basis which authorizes it .
+Depending on their purpose, the processing operations we carry out may be based on the following legal bases :
+
+your consent ;
+the need with regard to the performance of a contract or pre-contractual measures ;
+our legitimate interest ;
+the need with regard to compliance with a legal obligation to which we are subject.
+5.3.
+==========
+How long do we keep your data ?
+Once your personal data has been collected, TabMo only keeps them for a period of one year (12 months).
+However, data relating to user segments is only processed for the duration of the advertising campaigns, and is deleted after each campaign, that is to say, after the expiration of a period of two (2 ) months.
+Table of correspondences between categories of data collected, purposes, legal bases and retention periods
+
+
+
+Data collected
+Purposes of processing
+Legal basis 
+Duration conservat ion
+
+
+A. Don born operated TabMo via Hawk
+
+
+§  Advertising identifier (IFA), device ID, user's IP address; Google advertising cookies
+ 
+§  Information on the location of the user viewing the advertisement: country, city, geolocation coordinates
+ 
+§  Information about the interaction with the advertising campaign: the advertisement was displayed, the user clicked on the advertisement, the video was viewed 50% ...
+ 
+§  Contextual information related to the advertising space: mobile phone, television, connected watch, “ Out Of Home ” digital sign , with their screen size, type of internet connection, etc.
+==========
+§  Information related to the display context: site address, advertising network, advertising purchase price
+§  Evaluate in real time the impact of an advertising campaign;
+ 
+§  Generate detailed reports on the performance of an advertising campaign.
+Your consent (article 6.1 a ° of the GDPR)
+ 
+ 
+1 year (12 months) following data collection
+ 
+Beyond this period of 12 months, only the imprint of the advertising identifier or the IP is kept (ID fingerprint) without limit of duration
+ 
+Geolocation data can also be kept anonymously beyond the limit of 1 year (12 months)
+
+
+B. Data required for x advertising targeting operations
+
+
+§  Data used by TabMo (see A.)
+ 
+§  Information on the content of the user segment provided by the partner ( Adsquare , Zeotap , Liveramp , Weborama ) : for example women, athletes, travelers, young adults, etc.
+§  Advertising identifiers (IFA) corresponding to said segments, in encrypted form, not directly exploitable by TabMo
+ 
+ 
+§  Offer targeted advertising services to TabMo clients (advertising targeting)
+Your consent (article 6.1 a ° of the GDPR)
+ 
+ 
+2 months from the start of the advertising campaign (the time of the said campaign) then destruction of the data
+
+
+C. Data required for in-store visit identification  operations
+
+
+§  Data used by TabMo (see A.)
+ 
+§  Determine the exposure to advertising messages that generated in-store visits ( " drive to store " )
+Your consent (article 6.1 a ° of the GDPR)
+ 
+ 
+1 year (12 months)
+
+
+D. Necessary data x operations retargeting advertising 
+
+
+§  Data used by TabMo (see A.)
+ 
+§  Determine which exposures to advertising messages elicited a user response ( ad retargeting )
+Your consent (article 6.1 a ° of the GDPR)
+ 
+ 
+1 year (12 months)
+
+
+E.
+Other data 
+
+
+§  contextual information received in real time or in deferred time ;
+ 
+§  HTTP logs
+§  Ensure fraud detection and disaster recovery
+ 
+Legal obligation of the Data Controller (article 6.1 c ° of the GDPR )
+ 
+Legitimate interest of the Data Controller (article 6.1.
+F ° of the GDPR).
+1 year (12 months)
+
+
+§  Identification data of the visitor to the website www.hawk.tabmo.io : name, first name, e-mail address
+ 
+ 
+§  Allow visitors to the www.hawk.tabmo.io website to contact TabMo
+ 
+Legitimate interest of the Data Controller (article 6.1.
+==========
+F ° of the GDPR).
+1 year (12 months)
+
+
+§  Buyer or supplier contact identification data : name, first name, e-mail address, telephone number
+ 
+ 
+§  Allow to TabMo to correspond with buyers
+ 
+Treatment necessary for the performance of a contract between the Head of treatment and client (Article 6.1 b ° RGPD)
+1 year (12 months)
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ Who are the recipients of your data ?
+6.1.
+Authorized personnel   
+Access to the previously mentioned personal data held by TabMo is strictly reserved for our duly authorized staff and bound by a confidentiality agreement.
+6.2.
+==========
+Subcontractors
+
+TabMo may entrust the processing of some of the personal data listed above to its subcontractors , when this is necessary for their subcontracting missions.
+This notably applies to providers that ensure the development and maintenance of  the IT tools we use and our data hosting
+TabMo's subcontractors only process the personal data entrusted to them within the strict framework of the performance of their missions, and in accordance with the documented instructions that they have received from TabMo for this purpose.
+6.3.
+==========
+Buyers and partners - authorized third parties
+
+Insofar as TabMo collects and processes your personal data for the purposes of offering its duly authorized clients targeted advertising services, these same clients may be required to process the personal data referred to above, only to the extent where it is necessary for them to benefit from such services.
+Exceptionally, TabMo may also be required to communicate certain data sets to some of its partners, who are also authorized.
+In both cases, TabMo ensures that these authorized third parties themselves offer the appropriate guarantees in terms of the protection of personal data.
+6.4.
+==========
+Other exceptional cases of disclosure
+
+Apart from the cases listed above, your personal data may only be disclosed in application of European Union or Member State legislation, by virtue of a decision of a competent regulatory or judicial authority, or a supervisory authority of the European Union or of a Member State , or for the need to defend legal rights.
+Are your personal data transferred outside the European Union ?
+7.1.
+==========
+Geographic location of TabMo
+
+TabMo's services are spread over six sites located in France, Germany, the United States and the United Kingdom.
+The personal data referred to above is hosted on servers located exclusively in the European Union.
+Transfers of personal data from the European Union to the aforementioned third countries are exceptionally possible, as access to our databases can take place from the various TabMo sites.
+7.2.
+Transfer to third countries via our partners and subprocessors 
+
+As part of their processing by one of TabMo's subprocessors or partners, your personal data may be transferred to third countries, located outside the European Union, such as the United States, Israel or India.
+7.3.
+==========
+Guarantees in the event of transfers
+
+In the case of a transfer of personal data to a third country, TabMo ensures that the level of guarantees regarding the protection of these data is at least equivalent to that in force in the European Union.
+TabMo ensures that the subcontractor or partner is either located in a country that has been the subject of an adequacy agreement from the Commission of the European Union , or has signed standard contractual clauses with TabMo, validated by the Commission of the European Union, or has subscribed to a binding company regulation.
+Where applicable, TabMo also ensures that additional security measures, such as encryption or pseudonymization are implemented, when the level of risk requires it, in particular in the event of risk of interference by public authorities in third countries.
+==========
+, in accordance with the recommendations of the European Data Protection Board.
+What are your rights regarding your personal data?
+In accordance with Articles 15 to 22 of GDPR, you have the a number of rights regarding the personal data we hold about you.
+In order to exercise these rights, we invite you to contact TabMo or its DPO at the addresses set out above.
+8.1.
+Right of access by the data subject
+
+You have the right to access personal data concerning you which is the subject of processing.
+To help you in your process, the National Commission for Informatics and Liberties (CNIL) provides you with a model letter.
+8.2.
+Right to object
+
+When the processing of your personal data by our services is based on our legitimate interest (see table above), you have the right to object, for your own reasons of legitimate interest, relating to your particular situation, to objecting to a such processing, unless we object to it on compelling legitimate grounds.
+To do this, simply contact us at the aforementioned address.
+8.3.
+Right to withdraw your consent
+
+When the processing is based on your consent (see table above), you have the right to withdraw it at any time.
+To do this, simply contact us at the aforementioned address.
+8.4.
+==========
+Right to erasure (‘right to be forgotten’)
+
+You have the right to ask us to delete your personal information.
+This is the case, for example, if you have exercised your right to object, relying on a legitimate reason specific to your particular situation (see 8 .2), or if you have withdrawn your consent (see 8 .3.)
+.
+To help you in your process, the Commission nationale de l’informatique et des libertés (CNIL) provides you with a model letter.
+8.5.
+==========
+Right to rectification
+
+If you believe that the data we hold is inaccurate, incomplete or out of date, you have the right to obtain rectification and / or updating.
+To help you in your process, the National Commission for Informatics and Liberties (CNIL) provides you with a model letter.
+8.6.
+==========
+Right to restriction of processing
+
+Limiting the processing of data is an alternative measure to their outright erasure.
+When the processing of your personal data is restricted, we can no longer use it without your express consent, with the exception of their retention.
+==========
+However, the exercise or defense of legal rights, the need to protect the rights of another natural or legal person, or for important reasons of public interest of the Union or of a Member State allow us to ignore this obligation.
+You have the right to obtain the restriction of the processing of personal data concerning you in the following situations:
+
+you contest the accuracy of your personal data for the period allowing us to verify the accuracy of the latter; and or
+in the event of unlawful processing on our part and you demand a limitation of their use rather than erasure; and or
+we no longer need personal data for the purposes of processing but they are still necessary for you to establish, exercise or defend legal claims; and or
+in the event of exercise of your right of opposition during the period of verification relating to whether the legitimate reasons which we are pursuing prevail over yours.
+8.7.
+Right to data portability
+
+You have the right to obtain the personal data that you have provided to us in a structured, commonly used and machine-readable format, so that you can reuse them for your own purposes by transmitting them yourself to another controller.
+8.8.
+Right to lodge a complaint with the competent supervisory authority
+
+You have the right to lodge a complaint about the way we handle or process your data with the competent national supervisory authority (see above, 2.
+3.
+competent supervisory authority).
+8.9.
+==========
+Processing times for rights and notification
+
+We undertake to respond to your requests within a reasonable period of time which may not exceed 1 month from receipt of your request, and to notify you of any operation carried out by our services in accordance with your requests.
+Instructions to buyers
+
+
+Buyers are not permitted to serve, through Google’s Authorized Buyers program, creatives that themselves or through their landing pages: (i) promote hacking, dishonest behavior, dangerous products and/or services or that otherwise contain inappropriate content, even if not prohibited by law; (ii) contain adult, alcohol, gambling, healthcare, or political affiliation except where expressly permitted by Google; (iii) advertise any system that (whether by itself or as a bundle in conjunction with other systems) causes ad space to be overlayed on a given site without express permission of the site owner, including, but not limited to, toolbars.
+(iv) appear to be appropriate for a general audience but contain adult themes, including sex, violence, vulgarity, or other distasteful depictions of children or popular children's characters, that are unsuitable for a general audience
+==========

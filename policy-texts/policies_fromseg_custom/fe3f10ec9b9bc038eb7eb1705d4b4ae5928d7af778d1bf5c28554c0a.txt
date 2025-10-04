@@ -1,0 +1,233 @@
+Express Newspapers (together "Express/we/us") are committed to ensuring that your privacy is protected.
+We aim to be as open and transparent as possible around the information we collect when you visit our websites, mobile sites or mobile apps, including through the use of "cookies".
+This policy explains what cookies are and how we use them.
+It also explains the different types of cookies we use, and how you can change or delete them.
+We hope that this policy helps you understand, and feel more confident about, our use of cookies.
+==========
+If you have any further queries, please contact us on Contact Us.
+For information on how your information is collected and used by Express generally, please see our Privacy Policy.
+1.
+What is a cookie?
+1.1.
+==========
+Cookies are small text files they are stored by your browser onto your computer or mobile device.
+They are widely used in order to make websites work or work in a better, more efficient way.
+They can do this because websites can read and write these files, enabling them to recognise you and remember important information that will make your use of a website more convenient (eg by remembering your user preferences).
+1.2.
+Most web browsers automatically accept cookies, but if you do not want information collected this way, there is a simple procedure in most browsers that allows you to deny or accept the cookies feature (please read section 5 below for more details about how to do this).
+1.3.
+==========
+We work with other third party organisations to provide the services on our website.
+A third party is an organisation which is not hosted at the domain address in your browser when you visit our website.
+These third parties may also use cookies on our website and can also place cookies on your device without you visiting their website directly.
+If you would like more information about third party cookies, please read section 4 below.
+1.4.
+==========
+The two types of cookies we use are known as "session" cookies and "persistent" cookies.
+These may be cookies which we use and/or a third party uses.
+1.4.1.
+==========
+Session cookie
+A session cookie is used each time you visit our website to give you a session ID.
+We use this type of cookie to link your actions on our website and each session cookie will only last for a browser session, at the end of which it will expire.
+Each browser session will start when you open your browser window and finish when you close your browser window.
+==========
+After your visit to our website all session cookies are deleted.
+Each time you visit our website you will have a different session ID.
+1.4.2.
+==========
+Persistent cookie
+A persistent cookie allows your preferences or actions across a site (or across different sites) to be remembered.
+It has a longer lifetime than a session cookie and lasts for the period of time specified in the cookie (this will vary from cookie to cookie).
+This type of cookie will not be deleted when you close your browser window and will be stored on your device.
+It will be activated every time you visit a website which created that particular persistent cookie.
+2.
+Cookie categorisation
+To help you understand cookies, we have classified each cookie as one of the following: 
+            (a) strictly necessary cookie;
+(b) performance cookie;
+(c) functionality cookie; and
+(d) targeting or advertising cookie.
+2.1.
+==========
+Strictly necessary cookie
+These cookies are essential to a website in order to enable a user to move around and to use a websites features, such as remembering information entered on forms when a user moves between pages within a browser session.
+Without strictly necessary cookies, certain services on a website may not be made possible and a website may not perform as smoothly as it should.
+2.2.
+==========
+Performance cookie
+Performance cookies collect information about the use of a website and help to improve the way a website works.
+For example, performance cookies may show which are the most frequently visited pages, help to record any difficulties with a website and show whether advertising on a website is effective or not.
+Performance cookies do not collect information that identifies a user personally and all information that is collected by these cookies is aggregated and anonymous.
+2.3.
+==========
+Functionality cookie
+Functionality cookies allow a website to remember the choices you make and to provide enhanced and more personal features.
+Functionality cookies also remember changes you have made, such as customising a certain webpage and for other services you request such as watching a video or commenting on a blog.
+Functionality cookies will not track your activity on other websites.
+2.4.
+==========
+Targeting cookie or advertising cookie
+Targeting cookies or advertising cookies are used to deliver adverts which are more relevant to you and your interests, or to limit the number of times you see the same advert on a website.
+These types of cookie are also used to help measure the effectiveness of an adverting campaign.
+These cookies may be used to remember what you have looked at on a website.
+2.5.
+==========
+What cookies do we use on our website?
+Cookie category
+Cookie name
+Purpose
+
+
+
+
+Strictly necessary
+CAKEPHP
+Session information
+
+
+Strictly necessary
+cookielaw
+Has user accepted cookie policy?
+Strictly necessary
+CookieExists
+Does user have cookies enabled?
+Performance
+weatherData_LocationCode
+Caches weather information
+
+
+Performance
+weatherData_Weather
+Caches weather information
+
+
+Performance
+horoscopeData
+Caches horoscope information
+
+
+Security
+Express[auth][auto]
+For keeping user logged in
+
+
+
+Please note that third parties may also store targeting or advertising cookies on our website and please see section 4 for more information.
+3.
+How do I consent to use of cookies on this website?
+3.1.
+==========
+Accepting strictly necessary cookies and performance cookies is a condition of using our website.
+If you reject these types of cookies then we cannot predict how our website will perform when you visit it nor guarantee your security.
+3.2.
+==========
+You can control the use of functionality cookies, targeting cookies or advertising cookies.
+We explain how you can manage the different cookies we use on our website at section 5.
+If you prevent the use of these types of cookies then this may interrupt some services on our website.
+4.
+==========
+Third parties cookies
+4.1.
+In some cases, we may use third parties to manage our cookies but we do not allow any third party to use these cookies other than for the types of purpose listed in this policy.
+4.2.
+==========
+Third party advertisers and other organisations may also use their own cookies or other technologies to collect information about the content of our website and/or the advertisements you have clicked on.
+This information may be used by them to serve advertisements which they believe are most likely to be of interest to you based on content you have viewed.
+Third party advertisers may also use this information to measure the effectiveness of their advertisements.
+4.3.
+==========
+We do not have access or control over the cookies placed on our website by third parties and use of their cookies is subject to their own privacy policies.
+We recommend that you review the privacy policies of each of our third parties and we have included details at the links below.
+4.4.
+==========
+Cookies placed by third parties may serve different purposes.
+They may be strictly necessary, performance, functionality, targeting or advertising cookies.
+For more information on these different types of cookies and what they do, please see section 2.1 2.4.
+4.5.
+==========
+To disable or reject third party cookies you must go to the relevant third party's website.
+We have explained how you can control third party cookies on your browser for the main web browsers at section 5.
+4.6.
+==========
+What third party cookies are used on our website?
+Strictly necessary cookies Google Analytics
+Performance cookies
+
+Muzu
+Add This
+
+Functionality cookies
+
+http://www.truste.com
+Outbrain
+
+Targeting or advertising cookies
+
+Google adsense
+
+5.
+Managing cookies
+5.1.
+You can control which cookies you get and which you keep on your device.
+Unless you have adjusted your browser settings so that it will refuse our cookies, our system will issue cookies when you visit our website.
+5.2.
+==========
+Many web browsers can be set up to ask for your prior consent before an individual cookie is set on your device.
+This will give you control over your cookies but naturally may interfere with your browsing experience ie if you have to accept each cookie on our website (and on other websites you visit).
+5.3.
+==========
+You may refuse to accept our cookies on your device at any time by activating the setting on your browser which allows you to refuse cookies.
+We have included links below to direct you to the pages of the main web browsers sites which provide details about changing your browser settings.
+For information on how to control cookies on web browsers which are not included below or on other devices which you use to view our website (such as on mobile phones and other mobile devices) please refer to your user manual.
+5.4.
+==========
+Please note that by deleting cookies or disabling future cookies you may be unable to access certain areas or features of our website and it will mean that settings such as your stored username and password may have to be reset.
+If you adjust your cookie settings this will also affect the other websites you visit.
+5.5.
+==========
+All of the major browsers offer tips and guidance for managing the cookies available on your browser including: Cookie settings in Internet Explorer
+
+Cookie settings in Internet Explorer
+Cookie settings in Firefox
+Cookie settings in Chrome
+Cookie settings in Safari for iOS
+Cookie settins in Safari for Mountain Lion
+
+5.6.
+There are also lots of different third party browser plug ins and extensions available which you can download to make it easier to see and control your cookies.
+We have included a list of examples of these for the main browsers below: Ghostery
+6.
+Where can I get more information about cookies?
+6.1.
+==========
+You can find out more information about internet advertising by visiting the following information websites:
+
+www.allaboutcookies.org
+www.yourchoicesonline.eu
+www.networkadvertising.org
+
+6.2.
+Some of these sites enable you to opt out of online behavioural advertising and other tracking cookies (ie in addition to the control settings on your browser as set out in section 5).
+7.
+==========
+Flash Cookies
+7.1.
+We may in certain situations use Adobe Flash Player to deliver special content such as video clips or animation.
+To improve your user experience, Local Shared Objects (commonly known as 'flash cookies') are employed to provide functions such as remembering your settings and preferences.
+Flash cookies are stored on your terminal but they are managed through a different interface than the one provided by your web browser.
+This means it is not possible to manage flash cookies at browser level, in the same way you would manage cookies.
+7.2.
+==========
+You can access Your Flash management tools from Adobe's web site directly.
+The Adobe website provides comprehensive information on how to delete or disable Flash cookies - see www.adobe.com/products/flashplayer/security for further information.
+7.3.
+Please be aware that if you disable or reject Flash cookies for our websites, you may not be able to access certain features of our websites, such as playing video content or using services that require you to sign in.
+8.
+==========
+Email Cookies
+8.1.
+We may set cookies within emails we send to you (if you have consented to receiving emails from us).
+These cookies are used to track how often our emails are opened and clicked on by our customers.
+You can manage email cookies in the same way as website cookies, as explained in section 5.
+==========

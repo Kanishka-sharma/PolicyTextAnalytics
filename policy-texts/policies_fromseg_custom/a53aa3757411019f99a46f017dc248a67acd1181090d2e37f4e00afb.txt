@@ -1,0 +1,167 @@
+CAZAMBA SERVICES PRIVACY POLICY
+
+ 
+Introduction
+This page was last changed on August 31, 2020.
+Cazamba Serviços de Internet Ltda (collectively “Cazamba“, “Company“, “we” or “us“) is a technology company which delivers online advertising services for Brazilian’s largest websites and advertisers, and we collectively refer to them as the “Services” in this document.
+==========
+We would like to be transparent about our business and explain our technology in plain language so that users (“You”) can understand how our Services process personal data.
+This Privacy Policy describes Cazamba’s practices and policies with regard to the use and processing of data when providing the Service.
+It also has descriptions of how Cazamba enables or allows its clients to use the Services.
+Our clients and third-party partners using the Services own their own data, and Cazamba has only limited rights to use such data for the purpose of providing the Service on behalf of these third parties.
+This Privacy Policy (“Policy”) does not describe the collection and use of data by Cazamba from its own corporate websites, which can instead be found at https://cazamba.com/website-privacy/.
+To ensure online privacy, Cazamba respects and defends regulations on the protection of personal data and seeks always to comply with the best practices in the world on this subject.
+==========
+We are affiliated to IAB-Brazil (Internet Advertising Bureau), which recommends good practices and ethical principles to be followed by the market in line with the Internet Civil Code and the International Network Advertising Initiative (NAI) Code.
+What we do
+Cazamba provides a digital advertising technology platform.
+The platform provides tools for advertisers to buy advertising space on digital properties on websites, and for website owners (“Publishers”) to offer and sell their advertising space.
+We also provide tools that can be used to ensure that advertisements are shown to users who are likely to have an interest in a particular ad, and we provide a technology that enables the delivery of advertising content to a website.
+The Service also comprises other tools, such as features to measure the effectiveness of ads, to prevent fraudulent activities and malware, and to predict the reach of ads.
+==========
+What Information Do We Collect and Use
+When we refer to the term “Information”, we mean data that is generated through the Service as well as data that our clients and partners receive from other sources and use in our Service as described in further detail below.
+For some of the Information, Cazamba is legally responsible for the use of the data with respect to privacy regulation – in legal terms it acts as a Controller.
+Other parts of the Information are processed by Cazamba on behalf of its clients, and Cazamba is bound by the instructions of its clients when processing such data.
+This Privacy Policy describes how Information controlled by Cazamba is used within the Service.
+While this Privacy Policy may also explain how Cazamba enables its clients to use their Information within the Service, it does not otherwise apply to the use of Information by our clients or other third parties outside of the Services.
+In order to operate the Service, we may collect and use the following Information:
+Cookie ID:
+In order to link each single interaction to an individual device, Cazamba generates a unique ID for every new browser which interacts with any form of Cazamba advertisements or website tracking.
+The unique ID is stored locally by using a Cookie in the user’s browser.
+The Cookie, by default, expires 60 days after the last interaction.
+The unique ID is either generated as a truly random string containing letters and numbers.
+==========
+We also collect and stores certain Information for its clients related to the interaction that users have with ads and websites: 
+
+The type of browser used by a user, and its settings.
+Information about the device operating system.
+Information about Cookie IDs.
+IP addresses from which a device interacts with a client´s website; IP addresses may be truncated or encrypted or both based on local legislation or other requirements.
+Information about a user’s interaction and activity on web pages, including time of the interaction or activity, the internet addresses involved, and search terms entered into a search engine.
+==========
+Information about the approximate geographic location (city, region, country) of the device when it accesses a website or mobile app derived from truncated IP address information.
+Cazamba may also receive Information from third parties to enable targeted and tailored advertising on websites.
+While Cazamba may provide such data for use by its clients through the Service, it will always do so strictly in accordance with the permissions and restrictions imposed by the third party providing such data.
+Cazamba does not collect, use, or allow its clients to transfer to or use on the Platform, data that, by itself, directly identifies an individual, such as name, address, phone number, email address, or government identifier.
+We also prohibit certain categories of sensitive data from being collected, used, or transferred on the Platform, and we use technical solutions to detect directly identifiable data in the Service and take appropriate action.
+==========
+How we collect Information
+The Service uses cookies, beacons, tagging scripts and pixels to collect Information associated with a browser.
+Cookies are small text files stored in a web browser by a website or ad server.
+By saving information in a cookie, websites and servers can remember preferences or recognize web browsers from one visit to another or from one website to another.
+Beacons, pixels, tagging scripts are elements allowing communication between a web browser and a server.
+A beacon or pixel is a small transparent image that is placed on a web page.
+A tagging script is a small piece of website code that is run by the web browser.
+==========
+Our Use of Cookies
+Cazamba uses cookies for different purposes.
+Generally, cookies enable our clients to target ads to users, to evaluate how well their ads work, and to see users’ opt-out choices.
+The purposes for which we use cookies are as follows:  
+
+The use of cookies enables our clients to distinguish between and recognize web browsers, and to store Information for advertising purposes, including targeted and tailored advertising.
+The use of cookies allows us to store data about the delivery of ads for reporting purposes, such as which ad was shown, the frequency of an ad, and the last time an ad has been delivered to a particular browser.
+The use of cookies enables our clients to track user responses (clicks and conversions) to ads purchased on the platform.
+==========
+How do we use this Information
+Cazamba uses the Information to provide Services to its clients.
+These Services comprise many features for which Information may be used.
+Cazamba may process Information for the following advertising-related purposes:
+We use Information to analyze and report on advertising performance.
+==========
+The Information is processed so that user actions can be attributed to campaigns, targeting data, publishers, and specific advertisements.
+We use Information to improve online advertising experience and efficiency, e.g. to display ads in a sequence, display particular products in response to users’ interest, display ads based on statistical probabilities, or to decide what ad to show or whether to show it.
+This includes capping the frequency of ads shown to a particular user, and the prediction of a likelihood that a particular user will interact with an advertisement.
+We may use Cookies to satisfy end user opt-out requests.
+==========
+We may use Information in order to detect traffic that is not “real” traffic, and to prevent fraudulent activities, such as the use of robots, malware and other suspicious activities.
+We may use Information to facilitate the process of buying and selling online advertising.
+==========
+This includes calculating a price for a bid or bid request, and submitting bid requests or bids to third-party partners.
+With whom we share Information
+We do not rent, sell, or share your Information with third parties except as described in this Privacy Policy.
+The Information will be disclosed to Recipients only to the extent required for the specific purpose, as stipulated in this Privacy Policy.
+We share Information with any of the following recipients:
+
+A client (Advertiser) whose ad you interacted with – we share aggregated, anonymized information on advertising performance.
+==========
+Subcontractors and third party service providers, as well as their subcontractors, which by way of example include (but is not limited to) cloud computing companies, fraud prevention services, and other data verifiers.
+With our subsidiaries and related companies.
+==========
+In connection with legal proceedings – when we are under a legal obligation to do so, for example to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend our legal rights, our partners or any other third party.
+In connection with a sale of our business – if a third party acquires some or all of our business or assets, we may disclose your information in connection with the sale.
+Whenever we believe in good faith that disclosure is necessary to protect our rights or legal claims, enforce our policies, protect your safety or the safety of others, as well as to investigate or prevent any fraud, for security reasons or to help us with any other related technical issue.
+==========
+International Data Transfer
+Cazamba is headquartered in Brazil, and collects and transfers personal data collected in Brazil to countries located in the European Union and the United States.
+This transfer occurs to Cazamba’s cloud computing providers, and such transfers involve only Cazamba’s partner companies that have demonstrated to be in compliance with or conforming to GDPR and Brazilian data protection laws (“LGPD” – Lei Geral de Proteção de Dados).
+==========
+Data Retention
+Cazamba does not keep any Cookie-based Information longer than 13 months.
+In other words, any data that can be related to your internet devices are deleted after maximum 13 months.
+==========
+We will however maintain anonymized information for as long as necessary to fulfill the purposes for which we collect them, including for the purpose of complying with any legal, contractual, accountability or request of competent authorities.
+HOW WE KEEP YOUR INFORMATION SECURED
+We take great care in implementing and maintaining the security of the Services and your information.
+We have put in place appropriate physical and technological safeguards to help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online.
+These safeguards vary based on the sensitivity of the information that we collect and store.
+We employ industry standard procedures and controls to ensure the safety of our users’ information.
+Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse the Services, and we make no warranty, express, implied or otherwise, that we will prevent such access.
+==========
+Your Data Protection Rights
+You will always have rights to privacy and the protection of your personal data, and we, in addition to being concerned about the security of such data, also care that You have access to and knowledge of all your rights regarding personal data.
+In this way, we summarize below all the rights that You have under Brazilian data protection laws and General Data Protection Regulation (GDPR), which are:
+
+Right of access; ii.
+==========
+Right of exclusion; iii.
+Right to restrict processing; iv.
+Right to explain the logic behind the collection of your data; v. Right to data portability; and vi.
+Right to withdraw your consent.
+In this sense, the following is a brief explanation and examples of some of these rights:
+
+Requesting access to your personal data.
+This right allows You to request and receive a copy of your personal data that we hold about You.
+Request for the exclusion of your personal data.
+This right allows You to ask us to exclude your personal data from our platform.
+All data collected will be deleted from our servers when You request it.
+Right of objection to data processing.
+==========
+When we are relying on a legitimate (or third party) interest and there is something about your specific situation that causes You to oppose processing in that field as you believe this impacts your fundamental rights and freedoms.
+You also have the right to contest where we are processing your personal data for direct marketing purposes.
+In some cases, we can demonstrate that we have legitimate grounds for processing your data, which overlap your rights, as in such cases it may be essential to provide the product and / or service.
+==========
+To exercise any of the rights above, you can access our privacy page which contains all the information and a opt-out feature at https://www.cazamba.com/choices.
+Additionally you can always send a e-mail to privacy [at] cazamba.com.
+==========
+OPT OUT
+Cazamba allows Internet Users to Opt-out of: 
+
+Cookie-based targeted advertisements using Cazamba’s Services.
+Tracking of visits across domains and sites through Cazamba technology.
+Any type of cookie-based tracking by third-party technology through Cazamba.
+The opt-out process erases the previously set cookie and places an alternative Cazamba cookie into the Internet user’s browser with a special indication of an “opt-out” choice and with no other data.
+Since random identification numbers of those two cookies are different, no data attributed to the previously set cookie can be attributed to the new “opt-out” cookie.
+==========
+The cookie applies to the specific computer or mobile device and browser combination only.
+If an Internet user wishes to opt-out on other browsers, computers or mobile devices, he or she must repeat the process.
+Please also note that if all cookies are erased from the computer or mobile device, the opt-out cookie is also erased and the process must be repeated.
+Also, if your browser has a Do Not Track (“DNT”) setting applied, all of the requests sent to our Platform will automatically be ignored.
+Please https://www.cazamba.com/choices if you wish to opt-out from targeted advertisements and tracking on Websites.
+==========
+CHANGES TO THE PRIVACY POLICY
+We may update this policy from time to time.
+We will post a prominent notice on our website notifying users when it is updated.
+==========
+Cazamba ensures that privacy practices described in this privacy policy are up to date and reflect current ad-serving and data collection mechanisms employed by Cazamba.
+This Privacy Policy will always include information on the effective date of the most recent version.
+HOW TO CONTACT US
+If you have any general questions about the Services or the information that we collect about you and how we use it, please contact us via email at contato [at] cazamba.com or by sending a letter to:
+Cazamba Serviços de Internet Ltda,
+Rua Amaro Cavalheiro, 347 – CJ 901
+São Paulo, SP
+We will make an effort to reply within a reasonable timeframe.
+==========
+Please feel free to reach out to us at any time.
+If you are unsatisfied with our response, you can reach out to the applicable data protection supervisory authority.
+==========

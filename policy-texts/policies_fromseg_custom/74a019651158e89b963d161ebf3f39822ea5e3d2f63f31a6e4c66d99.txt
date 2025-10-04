@@ -1,0 +1,286 @@
+Introduction
+Bidstack Limited (“Bidstack“, “we“, “us” or “our“) is a cross-platform in-game advertising provider, whose technology enables video game companies and advertisers to create advertising opportunities in-game (the “Platform”).
+Game developers and publishers can integrate adverts into the game environment using our SDK and advertisers can use our technology to buy space and run targeted campaigns within the video game.
+Bidstack uses information provided to it by game publishers and developers to create user profiles and audiences.
+This means that Bidstack tailors advertising to users based on this information and may use certain information to enable it to identify where the same user is playing different video games which use Bidstack’s services.
+Bidstack respects your privacy and is committed to protecting the personal information we receive.
+Please read this privacy policy carefully as it contains important information on who we are and how and why we collect, store, use and share your personal information.
+It also explains your rights in relation to your personal information, how you can opt out of targeted advertising served by Bidstack and how to contact us.
+1.
+==========
+Important information and who we are
+This privacy policy aims to give you information on how Bidstack collects and processes personal information about the users and customers of Bidstack’s clients, together with any personal information that you may provide to us when you use our Platform directly or use https://www.bidstack.com/ and its sub-domains (“Website“).
+Our Platform and Website are not intended for children and we do not knowingly collect personal information relating to children.
+We have stringent processes in place to ensure that where a game user identifies as a child their personal information is not passed to us.
+==========
+In addition, similar to many organisations, our Website may include links to third-party websites, plug-ins and applications provided by the likes of LinkedIn, Twitter, Facebook and Instagram.
+Clicking on those links or enabling those connections may allow third parties to collect or share information about you.
+==========
+We do not control these third-party websites and are not responsible for their privacy practices.
+When you leave our Website, we encourage you to read the policies of those websites you visit.
+==========
+As part of our commitment to upholding high privacy standards and quality advertising, we are a member of several key industry groups.
+This includes the Internet Advertising Bureau (“IAB“), the IAB Europe Transparency and Consent Framework, the Trustworthy Accountability Group (“TAG“) and we are accredited by JICWEBS for complying with the DTSG Brand Safety standards.
+==========
+Bidstack is the controller and responsible for your personal information set out in this privacy policy.
+We are registered with the UK Information Commissioner’s Office under registration number: ZA370854.
+2.
+==========
+The information we collect about you
+We may collect, use, store and disclose different categories of personal information about you.
+As set out below, the information collected depends on whether you are an end user receiving advertising via the Platform, a Website visitor or a customer / partner representative:
+End user
+
+Identity Data includes age, gender, country, region, city, and your Steam, PlayStation, Xbox or other similar gaming platform user identification name, alias or tag.
+Where the data relates to Steam, PlayStation, Xbox, (or other similar gaming platform), this is received from game publishers in a hashed form.
+Technical Data includes internet protocol (IP) address, device type, operating system and platform, connection type, user agent string, mobile carrier, identifiers assigned to your device including advertising identifiers and other technology on the devices you use to access or to otherwise interact with our Platform.
+Usage Data includes information about how you use our Platform and the games that our technology is within.
+Marketing and Communications Data includes your preferences in receiving marketing from us and our third parties and your communication preferences.
+Website visitor
+
+Technical Data includes internet protocol (IP) address, device type, operating system and platform, connection type, user agent string, mobile carrier, identifiers assigned to your device including advertising identifiers and other technology on the devices you use to access or to otherwise interact with our Website.
+Usage Data includes information about how you use our Website.
+==========
+Contact Data includes e-mail address, social media usernames and telephone numbers (where you have provided these to us directly).
+Marketing and Communications Data includes your preferences in receiving marketing from us and our third parties and your communication preferences.
+Customer / partner representative
+
+Contact Data includes e-mail address, social media usernames and telephone numbers (where you have provided these to us directly).
+Marketing and Communications Data includes your preferences in receiving marketing from us and our third parties and your communication preferences.
+==========
+We also process aggregated data for business and commercial purposes.
+For example, we may aggregate your Usage Data to calculate the percentage of users seeing a specific advertisement.
+==========
+We take measures to ensure this data is not personal.
+We do not collect any special categories of personal information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health, and genetic and biometric data).
+Nor do we collect any information about criminal convictions and offences.
+3.
+==========
+How do we collect your personal information?
+We use different methods to collect personal information including via the following:
+Direct interactions.
+==========
+You may give us your Identity Data and/or Contact Data by filling in forms or by corresponding with us by post, phone, e-mail or otherwise, such as where you submit a request to us to exercise a data protection right.
+This includes personal information you provide when you directly register with us, contact us by post, email, telephone, through our website or social media or where you request that marketing be sent to you.
+==========
+Automated technologies or interactions.
+As you interact with our Website and/or Platform, we will automatically collect Technical Data about your equipment and usage of the Website and/or Platform such as frequency of visits and pages accessed.
+We collect this personal information on the Website by using cookies, server logs and other similar technologies.
+==========
+We may also receive Technical Data about you if you visit other websites employing our cookies.
+Please see our cookie policy for further details.
+==========
+Third parties or publicly available sources.
+We will receive personal information about you from various third parties and public sources as set out below:
+
+Identity Data, Usage Data, Technical Data and Contact Data from our game publishers and audience partners;
+Technical Data from analytics providers such as Google; and
+Identity and Contact Data from social media such as Facebook and LinkedIn.
+4.
+==========
+How do we use your personal information?
+We have set out below how we use your personal information, and our lawful basis for doing so where we act as controller.
+Where we act as a processor, it is for our customers as controllers to establish the appropriate lawful basis.
+==========
+We have also identified what our or our customers’ legitimate interests are where necessary.
+Purpose/Activity
+
+
+Type of information
+
+
+Lawful basis for processing including basis of legitimate interest
+
+
+
+
+To provide our services to game publishers, including the provision of  targeted adverts to users on behalf of our game publisher clients.
+This purpose includes profiling users, creating segments, making decisions about the opportunity to place an advert, measuring the performance of adverts, fraud prevention and detection.
+(a) Identity
+(b) Technical
+(c) Usage
+
+
+Consent OR Legitimate Interests.
+The precise basis will depend on the specific processing purpose and the context in which data is processed.
+==========
+If we rely on legitimate interests, these interests will typically be to run the Platform and serve advertising on behalf of our game publisher clients.
+We, or our clients, may have other legitimate interests and, if appropriate, will explain these to you at the relevant time.
+==========
+To comply with our professional, legal and regulatory obligations that apply to our business.
+(a) Identity
+(b) Contact
+
+
+Necessary to comply with a legal obligation.
+To gather and provide information required by or relating to audits.
+enquiries or investigations by regulatory bodies.
+(a) Identity
+(b) Contact
+(c) Technical
+
+
+Necessary to comply with a legal obligation.
+To enable you to provide feedback or to communicate with us.
+(a) Identity
+(b) Contact
+(c) Usage
+
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business).
+==========
+To administer and protect our business and our website (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data).
+(a) Identity
+(b) Contact
+(c) Technical
+(d) Usage
+
+
+Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise).
+==========
+Necessary to comply with a legal obligation.
+To deliver relevant website content to you.
+(a) Identity
+(b) Contact
+(c) Usage
+(d) Technical
+(e) Marketing and Communications
+
+
+Necessary for our legitimate interests (to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy).
+To use data analytics to improve our website, products/services, marketing, customer relationships and experiences.
+(a) Technical
+(b) Usage
+
+
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy).
+To make suggestions and recommendations to you about goods or services that may be of interest to you.
+(a) Identity
+(b) Contact
+(c) Technical
+(d) Usage
+(e) Marketing and Communications
+
+
+Necessary for our legitimate interests (to develop our products/services and grow our business).
+==========
+We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose.
+If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please contact us.
+If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
+5.
+==========
+Sharing of Information
+We may share your information, with the parties set out below for the purposes set out in the table above.
+We require all third parties to respect the security of your personal information and to treat it in accordance with the law.
+We do not allow our third-party service providers to use your personal information for their own purposes and only permit them to process your personal information for specified purposes and in accordance with our instructions.
+==========
+Category
+
+
+Explanation
+
+
+
+
+Connected Third Parties
+
+
+Bidstack Group PLC
+Pubguard
+
+
+
+
+External Third Parties
+
+
+Service providers acting as processors based within the European Economic Area (EEA) who provide:
+
+IT and system administration services (e.g. Amazon Web Services, Microsoft.
+Our third party advertising partners including:
+
+Flashtalking
+DV360
+The Trade Desk Inc
+xAndr
+iPonweb GNBH
+BidSwitch
+Google Ad Manager
+Sizmek Inc
+
+
+
+Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services.
+Tax bodies, regulators and other authorities acting as processors or joint controllers who require reporting of processing activities in certain circumstances.
+==========
+Other Third Parties
+
+
+Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets.
+Alternatively, we may seek to acquire other businesses or merge with them.
+If a change happens to our business, then the new owners may use your personal information in the same way as set out in this privacy policy.
+==========
+To any other third parties with your consent to the disclosure.
+We recommend that you read our advertising partners’ privacy policies for more information as to how they will handle your information.
+6.
+==========
+International transfers
+We will not transfer your personal information outside the European Economic Area except to a country offering a similar level of protection for your personal information by ensuring at least one of the following safeguards is implemented:
+
+where the country has been deemed to provide an adequate level of protection for personal data by the European Commission; 
+where we have used specific contracts approved by the European Commission which give personal information the same protection it has in Europe; or
+where we use providers based in the US, we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to personal information shared between Europe and the US.
+Please contact us if you want further information on the specific mechanism used by us when transferring your personal information outside of the EEA.
+7.
+==========
+Security
+We have put in place appropriate security measures to prevent your personal information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed.
+We have put in place procedures to deal with any security incident involving personal information and will notify you and any applicable regulator of a breach where we are legally required to do so.
+8.
+==========
+Retention
+We will only retain your personal information for no longer than is necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal or regulatory requirements, complaints or contemplated / actual litigation.
+To determine the appropriate retention period for personal information, we consider the amount, nature and sensitivity of the personal information, the potential risk of harm from unauthorised use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal, regulatory, tax, accounting or other requirements.
+==========
+In some circumstances you can ask us to delete your personal information: see below for further information.
+In some circumstances we will anonymise your personal information (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.
+In the event that we do not receive any advertising requests in relation to your profile for a period of 12 months then we will treat your profile as expired and the data connected to your profile may be deleted.
+9.
+==========
+Data protection rights
+You have the following data protection rights:
+
+
+
+
+
+If you wish to access, correct, update or request deletion of your personal information, you can do so at any time by contacting us using the contact details provided under the “How to contact us” heading below.
+In addition, you can object to processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.
+Again, you can exercise these rights by contacting us using the contact details provided under the “How to contact us” heading below.
+==========
+You have the right to opt-out of marketing communications we send you at any time.
+You can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send you.
+==========
+To opt-out of other forms of marketing (such as postal marketing or telemarketing) please contact us using the contact details provided under the “How to contact us” heading below.
+To opt out of the targeted advertising provided via the Platform then please contact us using the contact details provided under the “How to contact us” heading below.
+==========
+If you opt-out of targeted advertising, you will still see ads in the game but these will not be relevant to your interests.
+Your opt-out is only applicable to the Platform and does not opt you out of advertising provided by third party companies.
+==========
+Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time.
+Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+==========
+You have the right to complain to a data protection authority about our collection and use of your personal information.
+For more information, please contact your local data protection authority.
+==========
+In order to respond to your request, we may need to engage with our publisher clients, for example, for them to consider what information to provide or delete.
+We respond to requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+10.
+==========
+Changes
+We keep our privacy policy under regular review.
+Any changes will be posted to this page, and where appropriate may be notified to you when you next start an app or game that engages with our Platform.
+11.
+How to contact us
+If you have any questions or concerns regarding this privacy policy or our privacy practices, please contact our Data Protection Officer via DPO@bidstack.com.
+==========

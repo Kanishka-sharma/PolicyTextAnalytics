@@ -1,0 +1,372 @@
+BMJ cookie policy
+This Cookie Policy (Policy) explains how BMJ Publishing Group Limited, a company registered in England (company number 3102371) with its registered office at BMJ, BMA House, Tavistock Square, London, WC1H 9JR (BMJ, we, our, us), uses cookies on our websites, (such as www.bmj.com, bestpractice.bmj.com, journals.bmj.com  (Websites) and our mobile applications (Apps).
+For the purposes of any applicable data protection laws in England and Wales, including from 25 May 2018 the EU General Data Protection Regulation 2016/679 (GDPR), BMJ is the data controller of your personal data.
+For further information on how we process personal data, our privacy notice is linked here www.bmj.com/privacy.
+If you have any questions about cookies or how your personal data is used by us, you should contact the Data Protection Officer using the details below:
+What are cookies?
+==========
+Cookies are small text files which our Websites and Apps may put on your computer or mobile device when you visit our Websites or use our Apps.
+Cookies are widely used by websites and applications to help remember small amounts of information and give you a better experience using the website or application.
+For example, a cookie will help a website or application to recognise your device the next time you visit so you don’t have to log on again.
+==========
+Certain cookies contain a limited amount of personal information.
+For example, if you click “remember me” when logging in, a cookie will store your username.
+Most cookies won’t collect information that identifies you, and will instead collect more general information to help us analyse how well our Website and Apps are performing overall so we can try and improve them.
+How we use cookies 
+BMJ uses cookies on its Website and Apps to perform different functions.
+These are grouped into four main categories:
+
+Technically necessary cookies.
+==========
+Some essential functions of our Websites and Apps are only possible if information is stored persistently between each page you look at.
+For instance, if you log in to a site to access subscriber only content, we use a cookie to remember that you are logged in, so you do not have to enter your details on each page you visit.
+==========
+Customisation and personalisation cookies.
+In order to allow us to customise our content for you, we need to remember who you are and what you want.
+==========
+We use cookies to record your preferences regarding Website appearance, what content you’ve already read, and to present the information that is most relevant to you.
+Performance monitoring cookies.
+We utilise other cookies to analyse how our visitors use our Websites and Applications and to monitor performance.
+==========
+This allows us to provide a high quality experience by customising our offering and quickly identifying and fixing any issues that arise.
+When we send marketing emails to users who have chosen to receive them, we use a cookie that lets us track the success of campaigns.
+We may use this information to determine which of our emails are more interesting to users.
+==========
+Third party cookies.
+Our Websites sometimes integrate with other companies’ sites.
+For example, we integrate with social networking sites such as Twitter and Facebook, to make it easier for you to share what you have read.
+These sites place their own cookies on your browser as a result of us including their icons and ‘like’ or ‘share’ buttons on our sites.
+==========
+Like most commercial publishers we also sell advertising space, or ‘banner ads’ on some of our Websites.
+These ads are served directly from a 3rd party advertising broker.
+==========
+They place cookies on your browser in order to track how many people have seen a particular ad, and for other technical reasons.
+How to remove or block cookies
+Your internet browser and our Apps have tools that allow you to remove or block cookies.
+==========
+More information can be found here: www.aboutcookies.org or www.allaboutcookies.org.
+What will happen if I block cookies?
+Depending on which cookies you block, the Website or App may stop working, or certain features may stop working correctly.
+If the cookies marked below as ‘technically necessary’ are blocked, the Website or App will probably not be usable.
+BMJ cookie list 
+The list below shows the cookies used on our Websites and Apps, or set by third parties from our sites.
+The list is subject to change.
+==========
+Cookie Name
+
+
+Category
+
+
+Purpose
+
+
+Further Information
+
+
+
+
+_utma, _utmb, _utmc, _utmz
+
+
+Performance  Monitoring, Third party cookies
+
+
+Google Analytics sets these cookies.
+They are used for general aggregated usage statistics
+
+
+https://developers.google.com/analytics/resources/concepts/gaConceptsCookies
+
+
+
+
+APISID, SAPISID, SID, SS, SSID
+
+
+Third party Cookies
+
+
+This is used by the Google +1 recommendation service
+
+
+ 
+
+
+
+
+adestra_ctrk
+
+
+Third party Cookies
+
+
+This is used to track how many people open and respond to marketing emails
+
+
+https://www.adestra.com/home/cookie-policy/
+
+
+
+
+adestra_ctrk_pref
+
+
+Third party Cookies
+
+
+This is used to indicate if you have opted out of tracking in marketing emails
+
+
+https://www.adestra.com/home/cookie-policy/
+
+
+
+
+Auth_token, auth_token_session, guest_id, k, pid, t1, twll
+
+
+Third Party Cookies
+
+
+These are used by Twitter
+
+
+https://twitter.com/privacy
+
+
+
+
+Starting with BIZO, UserMatchHistory,UserPixelRotationList, lang
+
+
+Third Party Cookies
+
+
+These are used by LinkedIn
+
+
+ 
+
+
+
+
+_ceg_[various suffixes]
+
+
+Technically Necessary
+
+
+This is used by our CDN service, CDNetworks, to accelerate content delivery.
+==========
+BMJLearning, BMJPortfolio
+
+
+Performance  Monitoring
+
+
+We use this to provide usage stats to institutional customers
+
+
+ 
+
+
+
+
+RefTrack, RefTrackGroup
+
+
+Performance  Monitoring 
+
+
+We use this to provide usage stats to institutional customers
+
+
+ 
+
+
+
+
+Bpweb.
+siq_cookie
+
+
+Performance  Monitoring 
+
+
+We use this to provide usage stats to institutional customers
+
+
+ 
+
+
+
+
+c_user, datr,
+locale, lu, xs, sp, pl, wd, act, fr
+
+
+Third Party Cookies
+
+
+Facebook uses these cookies.
+We use Facebook buttons to help people share content they find interesting.
+==========
+https://www.facebook.com/help/?page=176591669064814
+
+
+
+
+clinical-evidence
+
+
+Performance  Monitoring
+
+
+We use this to provide usage stats to institutional customers
+
+
+ 
+
+
+
+
+ADRUM
+
+
+Third Party Cookies, Performance  Monitoring
+
+
+AppDynamicsmeasure site traffic independently.
+Web Stats and Traffic Monitoring
+
+
+
+
+Demographics, HSID, LOGIN_INFO, PREF, SID, VISITOR_INFO1_LIVE
+
+
+Third Party Cookies
+
+
+Youtube use these cookies.
+We use YouTube to distribute videos on some of our sites.
+==========
+https://www.google.com/intl/en/policies/privacy/
+
+
+
+
+has_js
+
+
+Technically Necessary
+
+
+Our websites use this to indicate if javascript is working on your browser
+
+
+ 
+
+
+
+
+I18N_LANGUAGE
+
+
+Customisation and Personalisation
+
+
+Some of our websites use this to store your language preference
+
+
+ 
+
+
+
+
+ICSMarker, ICSGuest
+
+
+Technically Necessary
+
+
+Our websites use this to enable single sign on across our products, so you don’t have to log in on each of our sites in turn.
+JSESSIONID
+
+
+Technically Necessary Customisation and Personalisation
+
+
+Our Java based websites use this for a wide range of technical purposes
+
+
+ 
+
+
+
+
+NSC_[alphabetical sequence], AWSALB
+
+
+Technically Necessary
+
+
+Our load balancers use this cookie to help direct traffic between different back end servers
+
+
+ 
+
+
+
+
+NXCLICK2, OAX
+
+
+Third Party Cookies
+
+
+Realmedia, our advertising partner, use this cookie to serve appropriate banner ads
+
+
+https://www.247realmedia.com/EN-US/privacy-policy.html
+
+
+
+
+wisepops [and suffixes]
+
+
+Third Party Cookies
+
+
+Wisepops, anonymised usage information
+
+
+ 
+
+
+
+
+X-HighWire-Backend
+
+
+Technically Necessary 
+
+
+Used by Highwire Press, who deliver our journal sites
+
+
+ 
+
+
+
+
+cookieconsent_status
+
+
+Technically Necessary 
+
+
+Control whether to display the cookie consent message
+==========

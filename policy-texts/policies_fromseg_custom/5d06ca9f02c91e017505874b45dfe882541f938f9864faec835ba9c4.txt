@@ -1,0 +1,264 @@
+The Wayback Machine - https://web.archive.org/web/20200404094856/https://slashdot.org/index2.pl?fhfilter=privacy
+Vint Cerf 'No Longer Contagious' With Covid-19 (twitter.com)
+Posted by EditorDavid on Saturday April 04, 2020 @03:00AM from the Cerf's-up dept.
+DevNull127 writes: Good news — VA Public Health has certified my wife and me as no longer contagious with COVID19," tweeted 76-year-old Vint Cerf, one of the creators of the modern internet.
+He added one word.
+"Recovering!"
+==========
+It seemed especially appropriate that Cerf shared his news online — and that it drew positive responses from grateful people around the world, including several who use the internet in their daily lives.
+Cerf's tweet immediately drew positive responses from the Internet Society, as well as the chief operating officer of the Cloud Native Computing Foundation, YouTube's director of public policy, and a senior director of communications and public affairs at Google.
+==========
+There were also congratulatory posts from a Georgetown professor of technology and law, from Associated Press reporter Frank Bajak, and the executive director of the Global Privacy and Security by Design Centre.
+Cerf followed up his news with a re-tweet of Google's "Community Mobility Reports" charting our aggregate movement trends over time, and a tweet of a University of Pittsburgh press release about progress on a COVID-19 vaccine candidate.
+Earlier in the week Cerf also re-tweeted a humorous compilation of clips from the TV show M*A*S*H that illustrated safe practices while social distancing.
+==========
+Apple Brings Its Hardware Microphone Disconnect Feature To iPads (techcrunch.com)
+Posted by msmash on Friday April 03, 2020 @05:21PM from the upping-the-ante dept.
+Apple has brought its hardware microphone disconnect security feature to its latest iPads.
+From a report: The microphone disconnect security feature aims to make it far more difficult for hackers to use malware or a malicious app to eavesdrop on a device's surroundings.
+==========
+The feature was first introduced to Macs by way of Apple's T2 security chip last year.
+The security chip ensured that the microphone was physically disconnected from the device when the user shuts their MacBook lid.
+The idea goes that physically cutting off the microphone from the device prevents malware -- even with the highest level of âoerootâ device permissions -- from listening in to nearby conversations.
+==========
+Apple confirmed in a support guide that its newest iPads have the same feature.
+Any certified "Made for iPad" case that's attached and closed will trigger the hardware disconnect.
+==========
+Thousands of Zoom Video Calls Left Exposed on Open Web (washingtonpost.com)
+Posted by msmash on Friday April 03, 2020 @04:02PM from the privacy-woes dept.
+Thousands of personal Zoom videos have been left viewable on the open Web, highlighting the privacy risks to millions of Americans as they shift many of their personal interactions to video calls in an age of social distancing.
+From a report: Many of the videos appear to have been recorded through Zoom's software and saved onto separate online storage space without a password.
+But because Zoom names every video recording in an identical way, a simple online search can reveal a long stream of videos that anyone can download and watch.
+Zoom videos are not recorded by default, though call hosts can choose to save them to Zoom servers or their own computers.
+There's no indication that live-streamed videos or videos saved onto Zoom's servers are publicly visible.
+But many participants in Zoom calls may be surprised to find their faces, voices and personal information exposed because a call host can record a large group call without participants' consent.
+==========
+Facebook Wanted NSO Spyware To Monitor Users, NSO CEO Claims (vice.com)
+Posted by msmash on Friday April 03, 2020 @11:24AM from the of-course-they-did dept.
+Facebook representatives approached controversial surveillance vendor NSO Group to try and buy a tool that could help Facebook better monitor a subset of its users, according to an extraordinary court filing from NSO in an ongoing lawsuit.
+From a report: Facebook is currently suing NSO for how the hacking firm leveraged a vulnerability in WhatsApp to help governments hack users.
+==========
+NSO sells a product called Pegasus, which allows operators to remotely infect cell phones and lift data from them.
+According to a declaration from NSO CEO Shalev Hulio, two Facebook representatives approached NSO in October 2017 and asked to purchase the right to use certain capabilities of Pegasus.
+==========
+At the time, Facebook was in the early stages of deploying a VPN product called Onavo Protect, which, unbeknownst to some users, analyzed the web traffic of users who downloaded it to see what other apps they were using.
+According to the court documents, it seems the Facebook representatives were not interested in buying parts of Pegasus as a hacking tool to remotely break into phones, but more as a way to more effectively monitor phones of users who had already installed Onavo.
+Moscow To Launch Mandatory Surveillance App To Track Residents In Coronavirus Lockdown (npr.org)
+Posted by BeauHD on Thursday April 02, 2020 @04:50PM from the state-surveillance dept.
+An anonymous reader quotes a report from NPR: City authorities in Moscow are rolling out new digital "social monitoring" tools targeting the public, after what officials say were constant violations of the city's quarantine imposed this week to fight the spread of the new coronavirus.
+Under restrictions in place since Monday, most of the city's 12 million residents must remain indoors, barring a few exceptions -- like trips to the supermarket or pharmacy, taking out the trash or briefly walking the dog.
+But starting Thursday, Muscovites will have their movements tracked through a mandatory app required on their smartphones.
+Don't have one?
+The city says it will lend out devices.
+==========
+In addition, Moscow residents will be obligated to register for a government-issued QR code -- a small square matrix bar code containing personal data.
+What information the codes will hold isn't yet clear.
+==========
+But Russians must present it on their smartphones or carry a printout of their QR profiles to present to police, when requested.
+(City officials say they're also preparing to educate the public -- and elder Russians, in particular -- on what a QR code actually is.)
+==========
+The new tools will merge with existing street cameras and face recognition software to quickly identify residents who stray from their homes and/or quarantines, say authorities.
+President Putin also signed a bill into law on Wednesday that introduces criminal penalties for skipping quarantine and infecting others.
+They include fines and up to seven years in prison.
+The Internet is Now Rife With Places Where You Can Organize Zoom-bombing Raids (zdnet.com)
+Posted by msmash on Thursday April 02, 2020 @03:37PM from the zoombombing dept.
+The internet is rife with online communities where users can go and share Zoom conference codes and request that pranksters connect and hurl insults, play pornographic material, or make death threats against other participants -- in a practice called Zoom-bombing or a Zoom raid.
+==========
+From a report: ZDNet began tracking the tactic since mid-March when the term was first coined following a TechCrunch article.
+Ever since then, Zoom-bombing incidents have increased, as articles in major news outlets like the New York Times and the BBC have made the practice a favorite pastime for all the teenagers stuck in their homes during the current coronavirus (COVID-19) quarantines.
+==========
+From a niche prank that started on a derelict Discord channel, Zoom-bombing has now spread to enormous proportions -- being so rampant these days that the FBI sent a nationwide alert last week, urging companies, schools, and universities to take steps to secure their Zoom channels.
+But as Zoom-bombing became more popular, more pranksters wanted to join on the fun, and more users wanted their friends' Zoom meetings disrupted.
+==========
+And as the old saying goes; where there's a demand, there's always a supply.
+Over the course of the past week, the number of places on the public internet where you can request a zoom raid from a gang of bored teenagers has exploded.
+==========
+SpaceX Bans Zoom Over Privacy Concerns (reuters.com)
+Posted by msmash on Thursday April 02, 2020 @11:24AM from the gift-that-keeps-giving dept.
+Elon Musk's rocket company SpaceX has banned its employees from using video conferencing app Zoom, citing "significant privacy and security concerns," according to a memo seen by Reuters, days after U.S. law enforcement warned users about the security of the popular app.
+From a report: SpaceX's ban on Zoom Video illustrates the mounting challenges facing aerospace manufacturers as they develop technology deemed vital to national security while also trying to keep employees safe from the fast-spreading respiratory illness.
+==========
+In an email dated March 28, SpaceX told employees that all access to Zoom had been disabled with immediate effect.
+"We understand that many of us were using this tool for conferences and meeting support," SpaceX said in the message.
+"Please use email, text or phone as alternate means of communication."
+NASA, one of SpaceX's biggest customers, also prohibits its employees from using Zoom, said Stephanie Schierholz, a spokeswoman for the U.S. space agency.
+==========
+The Federal Bureau of Investigation's Boston office on Monday issued a warning about Zoom, telling users not to make meetings on the site public or share links widely after it received two reports of unidentified individuals invading school sessions, a phenomenon known as "zoombombing."
+A Feature on Zoom Secretly Displayed Data From People's LinkedIn Profiles (nytimes.com)
+Posted by msmash on Thursday April 02, 2020 @10:44AM from the zoombombing dept.
+After an inquiry from The New York Times reporters, Zoom said it would disable a data-mining feature that could be used to snoop on participants during meetings without their knowledge.
+==========
+From a report: For Americans sheltering at home during the coronavirus pandemic, the Zoom videoconferencing platform has become a lifeline, enabling millions of people to easily keep in touch with family members, friends, students, teachers and work colleagues.
+But what many people may not know is that, until Thursday, a data-mining feature on Zoom allowed some participants to surreptitiously access LinkedIn profile data about other users -- without Zoom asking for their permission during the meeting or even notifying them that someone else was snooping on them.
+The undisclosed data mining adds to growing concerns about Zoom's business practices at a moment when public schools, health providers, employers, fitness trainers, prime ministers and queer dance parties are embracing the platform.
+An analysis by The New York Times found that when people signed in to a meeting, Zoom's software automatically sent their names and email addresses to a company system it used to match them with their LinkedIn profiles.
+==========
+Hospitals Tell Doctors They'll Be Fired If They Speak Out About Lack of Gear (bloomberg.com)
+Posted by BeauHD on Wednesday April 01, 2020 @06:50PM from the thou-shalt-not-speak dept.
+schwit1 shares a report from Bloomberg, commenting: "And the claim that this is about protecting 'patient privacy' is b***shit."
+From the report: Ming Lin, an emergency room physician in Washington state, said he was told Friday he was out of a job because he'd given an interview to a newspaper about a Facebook post detailing what he believed to be inadequate protective equipment and testing.
+In Chicago, a nurse was fired after emailing colleagues that she wanted to wear a more protective mask while on duty.
+In New York, the NYU Langone Health system has warned employees they could be terminated if they talk to the media without authorization."
+Doctors are a famously independent profession, where individual medical judgment on what's best for the patient is prized over administrative dictates.
+That's reared its head during the Covid-19 outbreak, with many physicians, nurses and other health-care workers taking to social media to express deep concerns about the lack of protective gear or much-needed patient-care equipment like respirators.
+==========
+Some posts have gone viral and are being shared hundreds of thousands of times, often tagged with #GetMePPE.
+Privacy laws prohibit disclosing specific patient information, but they don't bar discussing general working conditions.
+==========
+The report notes that not all hospitals are blocking staff from talking to the press.
+"New York's Mount Sinai has been scheduling media interviews for nurses, physicians and trainees to help the public understand the severity of the crisis," reports Bloomberg.
+"The University of California San Francisco Medical Center has gotten hundreds of such calls and encouraged workers to talk to reporters."
+==========
+Microsoft President Calls Washington State's New Facial Recognition Law 'a Significant Breakthrough' (geekwire.com)
+Posted by msmash on Wednesday April 01, 2020 @06:10PM from the how-about-that dept.
+Microsoft President Brad Smith took a break from responding to the COVID-19 outbreak this week to praise Washington state's landmark facial recognition regulations.
+Washington Gov. Jay Inslee signed a bill Tuesday that establishes rules specifically governing facial recognition software.
+From a report: Smith called the law an "early and important model" and "a significant breakthrough" in a blog post published Tuesday.
+Some cities have enacted their own facial recognition rules, but Washington is the first to establish statewide regulations.
+==========
+"This balanced approach ensures that facial recognition can be used as a tool to protect the public, but only in ways that respect fundamental rights and serve the public interest," Smith said.
+The new law requires public agencies to regularly report on their use of facial recognition technology and test the software for fairness and accuracy.
+Law enforcement agencies must obtain a warrant before using facial recognition software in investigations unless there is an emergency.
+The bill also establishes a task force to study the use of facial recognition by government agencies.
+Under the bill, public entities using facial recognition software to make decisions that produce "legal effects" must ensure a human reviews the results.
+That category includes decisions that could affect a person's job, financial services, housing, insurance, and education.
+==========
+Cloudflare Launches a DNS-Based Parental Control Service (bleepingcomputer.com)
+Posted by msmash on Wednesday April 01, 2020 @04:50PM from the moving-forward dept.
+Cloudflare introduced today '1.1.1.1 for Families,' a privacy-focused DNS resolver designed to help parents in their efforts to safeguard their children's online security and privacyââââââ by automatically filtering out bad sites.
+From a report: This new tool makes it simple for parents to add protection from malware and adult content to the entire home network, allowing them to focus on working from home instead of worrying about their kids' online safety.
+"1.1.1.1 for Families leverages Cloudflare's global network to ensure that it is fast and secure around the world," Cloudflare's CEO Matthew Prince said in an announcement published today.
+Ex-NSA Hacker Drops New Zero-Day Doom for Zoom (techcrunch.com)
+Posted by msmash on Wednesday April 01, 2020 @12:54PM from the zoombombing dept.
+Zoom's troubled year just got worse.
+==========
+From a report: Now that a large portion of the world is working from home to ride out the coronavirus pandemic, Zoom's popularity has rocketed, but also has led to an increased focus on the company's security practices and privacy promises.
+Hot on the heels of two security researchers finding a Zoom bug that can be abused to steal Windows passwords, another security researcher found two new bugs that can be used to take over a Zoom user's Mac, including tapping into the webcam and microphone.
+==========
+Patrick Wardle, a former NSA hacker and now principal security researcher at Jamf, dropped the two previously undisclosed flaws on his blog Wednesday, which he shared with TechCrunch.
+The two bugs, Wardle said, can be launched by a local attacker -- that's where someone has physical control of a vulnerable computer.
+Once exploited, the attacker can gain and maintain persistent access to the innards of a victim's computer, allowing them to install malware or spyware.
+==========
+OpenWRT Code-Execution Bug Puts Millions of Devices At Risk (arstechnica.com)
+Posted by BeauHD on Wednesday April 01, 2020 @06:00AM from the heads-up dept.
+Dan Goodin writes via Ars Technica: For almost three years, OpenWRT -- the open source operating system that powers home routers and other types of embedded systems -- has been vulnerable to remote code-execution attacks because updates were delivered over an unencrypted channel and digital signature verifications are easy to bypass, a researcher said.
+Security researcher Guido Vranken, however, recently found that updates and installation files were delivered over unencrypted HTTPs connections, which are open to attacks that allow adversaries to completely replace legitimate updates with malicious ones.
+The researcher also found that it was trivial for attackers with moderate experience to bypass digital-signature checks that verify a downloaded update as the legitimate one offered by OpenWTR maintainers.
+The combination of those two lapses makes it possible to send a malicious update that vulnerable devices will automatically install.
+[...]
+The researcher said that OpenWRT maintainers have released a stopgap solution that partially mitigates the risk the bug poses.
+==========
+The mitigation requires new installations to be "set out from a well-formed list that would not sidestep the hash verification.
+However, this is not an adequate long-term solution because an attacker can simply provide an older package list that was signed by the OpenWRT maintainers."
+From there, attackers can use the same exploits they would use on devices that haven't received the mitigation.
+==========
+OpenWRT maintainers didn't immediately respond to questions asking why installation and update files are delivered over HTTP and when a longer-term fix might be available.
+In the meantime, OpenWRT users should install either version 18.06.7 or 19.07.1, both of which were released in February.
+These updates provide the stopgap mitigation.
+Marriott Discloses New Data Breach Impacting 5.2 Million Guests (cnet.com)
+Posted by BeauHD on Tuesday March 31, 2020 @08:30PM from the here-we-go-again dept.
+An anonymous reader quotes a report from CNET: Marriott International said Tuesday that names, mailing addresses, loyalty account numbers and other personal information of an estimated 5.2 million guests may've been exposed in a data breach.
+==========
+This is the second major security incident to hit the hotel group in less than two years.
+Marriott said it spotted that an "unexpected amount" of guest information may've been accessed at the end of February using the login credentials of two employees at a franchise property.
+==========
+The hotel group said information exposed may include names, addresses, emails, phone numbers and birthdays as well as loyalty account details and information like room preferences.
+Marriott said the investigation is ongoing but that it doesn't believe credit card numbers, passport information or driver's license numbers were exposed.
+In 2018, Marriott announced that hackers compromised the reservation database for its Starwood division, exposing records of up to 383 million guests and more than 5 million passport numbers.
+==========
+Zoom is Leaking Peoples' Email Addresses and Photos To Strangers (vice.com)
+Posted by msmash on Tuesday March 31, 2020 @04:01PM from the privacy-woes dept.
+Popular video-conferencing Zoom is leaking personal information of at least thousands of users, including their email address and photo, and giving strangers the ability to attempt to start a video call with them through Zoom.
+From a report: The issue lies in Zoom's "Company Directory" setting, which automatically adds other people to a user's lists of contacts if they signed up with an email address that shares the same domain.
+==========
+This can make it easier to find a specific colleague to call when the domain belongs to an individual company.
+But multiple Zoom users say they signed up with personal email addresses, and Zoom pooled them together with thousands of other people as if they all worked for the same company, exposing their personal information to one another.
+==========
+Zoom Meetings Aren't End-to-End Encrypted, Despite Misleading Marketing (theintercept.com)
+Posted by msmash on Tuesday March 31, 2020 @11:27AM from the closer-look dept.
+An anonymous reader shares a report: Zoom, the video conferencing service whose use has spiked amid the Covid-19 pandemic, claims to implement end-to-end encryption, widely understood as the most private form of internet communication, protecting conversations from all outside parties.
+In fact, Zoom is using its own definition of the term, one that lets Zoom itself access unencrypted video and audio from meetings.
+==========
+With millions of people around the world working from home in order to slow the spread of the coronavirus, business is booming for Zoom, bringing more attention on the company and its privacy practices, including a policy, later updated, that seemed to give the company permission to mine messages and files shared during meetings for the purpose of ad targeting.
+Still, Zoom offers reliability, ease of use, and at least one very important security assurance: As long as you make sure everyone in a Zoom meeting connects using "computer audio" instead of calling in on a phone, the meeting is secured with end-to-end encryption, at least according to Zoom's website, its security white paper, and the user interface within the app.
+==========
+But despite this misleading marketing, the service actually does not support end-to-end encryption for video and audio content, at least as the term is commonly understood.
+Instead it offers what is usually called transport encryption.
+==========
+Further reading: Regarding Zoom.
+Zoom Removes Code That Sends Data to Facebook (vice.com)
+Posted by EditorDavid on Sunday March 29, 2020 @10:41AM from the unfriending dept.
+An anonymous reader quotes Motherboard: On Friday video-conferencing software Zoom issued an update to its iOS app which stops it sending certain pieces of data to Facebook.
+The move comes after a Motherboard analysis of the app found it sent information such as when a user opened the app, their timezone, city, and device details to the social network giant.
+When Motherboard analyzed the app, Zoom's privacy policy did not make the data transfer to Facebook clear.
+"Zoom takes its users' privacy extremely seriously.
+==========
+We originally implemented the 'Login with Facebook' feature using the Facebook SDK in order to provide our users with another convenient way to access our platform.
+However, we were recently made aware that the Facebook SDK was collecting unnecessary device data," Zoom told Motherboard in a statement on Friday....
+"We sincerely apologize for this oversight, and remain firmly committed to the protection of our users' data," Zoom's statement concluded.
+Doc Searls: 'Zoom Needs to Clean Up Its Privacy Act' (harvard.edu)
+Posted by EditorDavid on Saturday March 28, 2020 @02:38PM from the advice-about-advertising dept.
+The former editor-in-chief of the Linux Journal just published an annotated version of Zoom's privacy policy.
+Searls calls it "creepily chummy with the tracking-based advertising biz (also called adtech).
+I'll narrow my inquiry down to the "Does Zoom sell Personal Data?"
+==========
+section of the privacy policy, which was last updated on March 18.
+The section runs two paragraphs, and I'll comment on the second one, starting here:
+Zoom does use certain standard advertising tools which require Personal Data ...
+What they mean by that is adtech.
+==========
+What they're also saying here is that Zoom is in the advertising business, and in the worst end of it: the one that lives off harvested personal data.
+What makes this extra creepy is that Zoom is in a position to gather plenty of personal data, some of it very intimate (for example with a shrink talking to a patient) without anyone in the conversation knowing about it.
+(Unless, of course, they see an ad somewhere that looks like it was informed by a private conversation on Zoom.)
+A person whose personal data is being shed on Zoom doesn't know that's happening because Zoom doesn't tell them.
+==========
+There's no red light, like the one you see when a session is being recorded.
+If you were in a browser instead of an app, an extension such as Privacy Badger could tell you there are trackers sniffing your ass.
+And, if your browser is one that cares about privacy, such as Brave, Firefox or Safari, there's a good chance it would be blocking trackers as well.
+But in the Zoom app, you can't tell if or how your personal data is being harvested.
+==========
+(think, for example, Google Ads and Google Analytics).
+There's no need to think about those, because both are widely known for compromising personal privacy.
+(See here.
+And here.
+==========
+Also Brett Frischmann and Evan Selinger's Re-Engineering Humanity and Shoshana Zuboff's In the Age of Surveillance Capitalism.)
+Zoom claims it needs personal data to "improve" its users "experience" with ads -- though Searls isn't satisfied.
+("Nobody goes to Zoom for an 'advertising experience,' personalized or not.
+And nobody wants ads aimed at their eyeballs elsewhere on the Net by third parties using personal information leaked out through Zoom.")
+==========
+His conclusion?
+"What Zoom's current privacy policy says is worse than 'You don't have any privacy here.'
+It says, 'We expose your virtual necks to data vampires who can do what they will with it.'"
+==========
+'League' of Cybersecurity Professionals Band Together To Help Hospitals Fight Off Hackers (nbcnews.com)
+Posted by BeauHD on Thursday March 26, 2020 @07:20PM from the justice-league dept.
+pgmrdlm shares a report from NBC News: A growing group of cybersecurity professionals is volunteering their expertise to help hospitals fight off hackers while doctors and nurses fight the coronavirus.
+Calling themselves the CTI League -- Countering Threat Intelligence, and a nod to the superhero team the Justice League -- the group has swelled from a handful of professionals to 450 members worldwide in less than two weeks.
+==========
+"If some hospital gets attacked by some ransomware and wouldn't be able to pay, people will die because they wouldn't be able to get the medical services needed," said the group's founder, Ohad Zaidenberg.
+Coordinating over Slack, the CTI League identifies what types of vulnerabilities active hackers are using, then searches for hospitals and other medical facilities that might be vulnerable to them so that they can fix them first.
+==========
+"The first thing we want to do is neutralize attacks before they happen.
+The second is to help any medical organization after they are attacked," Zaidenberg said.
+==========
+Zoom iOS App Sends Data to Facebook Even if You Don't Have a Facebook Account (vice.com)
+Posted by msmash on Thursday March 26, 2020 @04:05PM from the PSA dept.
+As people work and socialize from home, video conferencing software Zoom has exploded in popularity.
+What the company and its privacy policy don't make clear is that the iOS version of the Zoom app is sending some analytics data to Facebook, even if Zoom users don't have a Facebook account, according to a Motherboard analysis of the app.
+From the report: This sort of data transfer is not uncommon, especially for Facebook; plenty of apps use Facebook's software development kits (SDK) as a means to implement features into their apps more easily, which also has the effect of sending information to Facebook.
+But Zoom users may not be aware it is happening, nor understand that when they use one product, they may be providing data to another service altogether.
+"That's shocking.
+==========
+There is nothing in the privacy policy that addresses that," Pat Walshe, an activist from Privacy Matters who has analyzed Zoom's privacy policy, said in a Twitter direct message.
+Upon downloading and opening the app, Zoom connects to Facebook's Graph API, according to Motherboard's analysis of the app's network activity.
+The Graph API is the main way developers get data in or out of Facebook.
+UPDATE: On Friday March 27, Zoom updated its iOS app to stop sending data to Facebook.
+"We originally implemented the 'Login with Facebook' feature using the Facebook SDK in order to provide our users with another convenient way to access our platform," Zoom told Motherboard.
+"However, we were recently made aware that the Facebook SDK was collecting unnecessary device data.
+==========
+We sincerely apologize for this oversight..."
+Dinosaurs aren't extinct.
+They've just learned to hide in the trees.
+Working...
+==========

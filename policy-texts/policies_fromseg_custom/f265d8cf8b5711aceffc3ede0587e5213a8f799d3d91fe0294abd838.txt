@@ -1,0 +1,188 @@
+Protecting your privacy
+Perform Media Sales Ltd ("we", "us") are committed to protecting your privacy.
+This privacy policy ("Privacy Policy") sets out the basis on which your personal information will be stored and processed by us.
+You should read this Privacy Policy in conjunction with the Terms of Use for our site.
+We collect and process information about you that you provide to us through your use of the Goal.com site ("our site").
+==========
+Our legal status under UK data protection law is therefore that of a "data controller" and in this capacity we will securely store and process your personal information which you have provided to us.
+"Data controller" is a legal term used in the Data Protection Act 1998 (the "Act") to signify the person who controls what to do with any given personal information.
+==========
+Please read the following Privacy Policy carefully to understand how we will use and what we will do with your personal information.
+Whose personal information do we collect?
+We collect the personal information of users of our site.
+This includes information provided at the time of registering to use certain features of our site.
+==========
+We may also collect personal information from users who contact us directly, enter a competition on our site, or complete a survey or poll on our site.
+What personal information do we collect?
+We collect the following personal information:
+
+e-mail;
+password;
+country;
+date of birth;
+e-mail products one would like regularly to receive; 
+gender; 
+annual salary; 
+postcode or zipcode; 
+favourite football club; 
+whether advertisers on Goal.com are relevant; and
+whether one is more likely to buy a brand with an association with sports and football.
+How is your personal information used?
+We will use the personal information you provide to us to: 
+
+provide you with personalised visits to our site;
+recommend goods, services or promotions which may be of interest to you (but only where you have requested us to do so);
+develop our offers and the layout of our site to ensure that our services are as useful and enjoyable as possible;
+contact you in order to conduct market research; and
+send out email alerts or newsletters you may have signed up for.
+==========
+The requirements of Data Protection Laws
+We regard the lawful and correct treatment of your personal information by us as very important to our successful operation, and to maintaining confidence between us and our users.
+We ensure that our organisation treats personal information lawfully and correctly.
+To this end we fully endorse and adhere to the 'Data Protection Principles' set out in the Act.
+==========
+In particular, without your consent or first amending this Privacy Policy to reflect any change in our usage of personal information:
+
+we will not use your personal information for any purpose that is incompatible with this Privacy Policy;
+we will only collect sufficient personal information for the uses set out above;
+we will endeavour to keep your personal information up-to-date;
+we will not retain your personal information longer than necessary unless required to do so by law;
+we will operate appropriate technical and organisational processes to protect your personal information against unauthorised or unlawful access or processing and against accidental loss or destruction.
+The detailed measures we take are described elsewhere in this Privacy Policy; and
+we will not transfer your personal information to a country outside the European Economic Area unless safeguards are in place to protect your personal information to the standards that apply within the EEA.
+Additional Privacy Measures
+We have put in place internal training and management processes to enable us to perform in accordance with this Privacy Policy.
+==========
+In particular, we have a person with specific responsibility for data protection in our organisation.
+Currently that person is the Training and Procedures Coordinator who is responsible for ensuring that:
+
+everyone managing and handling personal information understands that they are responsible for following good data protection practice;
+everyone managing and handling personal information is appropriately trained to do so;
+everyone managing and handling personal information is appropriately supervised;
+anybody wanting to make enquiries about handling personal information knows what to do;
+anybody handling queries about personal information knows what to do;
+queries about handling personal information are promptly and courteously dealt with;
+methods of handling personal information are clearly described;
+a regular review and audit is made of the way personal information is managed and new technology and security measures considered;
+methods of handling personal information are regularly assessed and evaluated; and
+performance with handling personal information is regularly assessed and evaluated.
+==========
+Security Arrangements for your personal information
+We understand that the security of your personal information is important to you.
+When handling personal information, security must be paramount and we have in place a security policy which ensures that personal information is adequately protected.
+Our system is hosted by service providers whom we consider to have good reputations for both security and a robust protocol, which further protects our systems.
+==========
+With whom is your personal information shared?
+We may disclose depersonalised data (such as aggregated statistics) about the users of our site in order to describe our sales, customers, traffic patterns and other site information to prospective partners, advertisers, investors and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifying information.
+We may occasionally be required by law, court order or governmental authority to disclose certain types of personal information.
+==========
+Examples of the type of situation where this would occur would be: 
+
+in the administration of justice; 
+where we have to defend ourselves legally; or 
+in complying with the mandatory requirements of a government department collecting information on employee benefits.
+IP Addresses and Cookies
+We may collect information about your computer including where available your IP address, operating system and browser type for system administration as part of our audit trail process.
+==========
+In addition we obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer.
+"Cookies" are pieces of information that a website transfers to your hard drive to store and sometimes track information about you.
+Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that.
+You are not obliged to accept cookies and you can adjust your browser's setting to prevent it from accepting cookies on your computer - go to www.cookiecentral.com for instructions on how to disable cookies.
+However, you may not be able to take full advantage of our site if you do so.
+==========
+Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web.
+Although they do identify a user's computer, cookies do not personally identify users and passwords and credit card information are not stored in cookies.
+Below is a list of all the Cookies which we use on our site:
+
+
+Cookie
+Name
+Purpose
+More information
+
+
+Google Analytics
+__utma
+A persistent cookie - remains on a computer, unless it expires or the cookie cache is cleared.
+It tracks visitors.
+Metrics associated with the Google __utma cookie include: first visit (unique visit), last visit (returning visit).
+==========
+This also includes Days and Visits to purchase calculations that afford ecommerce websites with data intelligence around purchasing sales funnels.
+http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html
+
+
+Google Analytics
+__utmb and __utmc
+These cookies work in tandem to calculate visit length.
+Google __utmb cookie demarks the exact arrival time, then Google __utmc registers the precise exit time of the user.
+Because __utmb counts entrance visits, it is a session cookie, and expires at the end of the session, e.g. when the user leaves the page.
+A timestamp of 30 minutes must pass before Google cookie __utmc expires.
+Given__utmc cannot tell if a browser or website session ends.
+==========
+Therefore, if no new page view is recorded in 30 minutes the cookie is expired.
+Ditto
+
+
+Google Analytics
+__utmc
+Cookie __utmz monitors the HTTP Referrer and notes where a visitor arrived from, with the referrer siloed into type Cookie __utmz monitors the HTTP Referrer and notes where a visitor arrived from, with the referrer siloed into type (Search engine (organic or cpc), direct, social and unaccounted).
+From the HTTP Referrer the   __utmz Cookie also registers, what keyword generated the visit plus geolocation data.
+This cookie lasts six months.
+==========
+In tracking terms this Cookie is perhaps the most important as it will tell you about your traffic and help with conversion information such as what source / medium / keyword to attribute for a Goal Conversion.
+Ditto
+
+
+Google Analytics
+__utmV
+Google __utmv Cookie lasts "forever".
+It is a persistant cookie.
+It is used for segmentation, data experimentation and  the __utmv works hand in hand with the   __utmz cookie to improve cookie targeting capabilities.
+Ditto
+
+
+Goal Edition
+|
+This cookie holds the value of the selected Goal edition.
+==========
+The edition is determined automatically during the first visit by examining the IP address of the visitor.
+The edition can also be manually changed by you as well.
+Goal Edition
+CC
+This cookie is set to the country where the IP addresses of the visitor originates.
+==========
+This cookie is used to display advertising that is only relevant or permissible in certain countries or regions.
+Goal Logged In
+lklk
+This cookie is set when a user is logged in and causes the "My Account" and "Sign Out" links at the top of Goal.com pages to render rather than "Register or Sign In" link.
+Regardless of whether this cookie is set, users still must be authenticated properly by the site.
+This cookie is simply set to cause those links to toggle due to the use of page caching on the internet via Goal's content data network.
+==========
+Goal Stay Remembered
+rm
+This cookie is set if a user opts for Goal.com to remember him or her, thereby avoiding the need to repeatedly sign in when accessing the My Account area of the site or other features that require registration.
+Goal Session Cookie
+phpsessid
+This cookie is used to maintain the session state for a user who logs into Goal.com and holds an encrypted identifier corresponding to a given session.
+The session state manages the identity of the user, whether the user is signed in, and other pieces of information that must be maintained as the user moves from one page to the next on Goal.com.
+Meebo Session Cookie
+meebo-cim-session
+The meebo-cim-session cookie is an identifier used to maintain the proper state of the Meebo toolbar across multiple browser tabs, and as the user moves from one Goal.com page to the next.
+It also helps Meebo identify actions that are tied to a particular visit for analytical purposes.
+http://www.meebo.com/privacy/advertising/
+
+
+If you register with us or if you continue to use our site, you agree to our use of cookies.
+==========
+Access to Information
+Data Protection law gives you various rights including the right to access the personal information that is held about you.
+We, as data controller, are required to provide you with copies of all the personal information we hold about you, on payment of a nominal administration charge of £10.
+If you wish to access the personal information held by us, you should therefore contact us using the information provided below.
+You can also request at any time that the personal information we hold about you is updated or corrected.
+Your acceptance of these terms
+By using our site, you consent to the collection and use of your personal information by us.
+==========
+If we change our Privacy Policy in any way, we will post these changes on this page.
+We recommend that you visit this Privacy Policy as often as you can to check for any changes.
+Please email any questions, concerns or comments you have about these policies to info@goal.com (please place "re: privacy policy" in the e-mail's subject line) or write to us at:  Sussex House, Plane Tree Crescent, Feltham, Middlesex, TW13 7HE.
+==========

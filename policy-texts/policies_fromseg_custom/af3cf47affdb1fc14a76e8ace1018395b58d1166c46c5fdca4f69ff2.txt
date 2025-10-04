@@ -1,0 +1,170 @@
+Adello is committed to protecting user privacy.
+We comply with all applicable data protection legislations including the European Data Protection Regulations (GDPR), and take a proactive stance by applying those in all our markets around the world.
+The following Privacy Policy provides information about Adello and our mobile advertising platform AdCTRL, explains who we are, how we collect, share and use information, and how users can exercise their privacy rights.
+The Privacy Policy applies to information that we collect through our website www.adello.com (“Website”), or process in the course of providing our products and services through our Mobile Advertising Platform AdCTRL (“AdCTRL”).
+What does Adello do?
+Adello operates AdCTRL, a transparent and neutral mobile advertising platform which is based on Adello’s artificial intelligence technology and facilitates the creation and execution of mobile advertising campaigns on advertising spaces of numerous publications which are partly represented by intermediaries (eg.
+==========
+Ad Exchanges), and sold by Adello.
+Adello uses AdCTRL for real-time large-scale data processing.
+This ensures that advertisers and their intermediaries (eg.
+==========
+media agencies) are enabled to place ads based on predicted interests, affinities and local context, and measure the effectiveness of their campaigns.
+Our aim is to reduce the number of ads that aren’t beneficial or of interest to users.
+AdCTRL is not a data provider, nor a media agency nor an ad network.
+AdCTRL is not built on cookies.
+==========
+The platform is operated in the EU and has been developed with user privacy at the core of its design from day one.
+It is subject to GDPR and applicable national data protection laws.
+What information do we collect and why?
+As a general rule, we aim not to collect any information which would put us into the position of being able to identify an individual.
+We may deviate from this rule only where we have the users consent, where we need the information to provide our contractual obligation to them or where we have a legitimate interest to do so.
+==========
+The information that we collect when a user visits the website, or when we show an ad to a user fall into the following categories:
+a) Information that we collect on the Website At the user’s discretion they can provide us with information, and some information is automatically provided by the user’s internet browser when they visit the Website.
+These types of information and our respective processing purposes are as follows:
+
+
+
+
+
+Types of information
+
+
+Why we use it
+
+
+
+
+Name
+E-mail address
+Company name
+Position
+Phone number
+Country
+
+
+
+If a user subscribes to our newsletter by providing us with an e-mail address, or would like to download material from our website, we use the contact information to provide them with the requested services.
+If a user is already a client of Adello we will use their e-mail address, name and business information to maintain their account and let them use the products and services offered by Adello.
+Browser type and version
+Operating system
+Referrer URL
+Adello URL’s that are accessed
+Date and time of the access
+Internet protocol (IP) address
+Cookies
+
+
+
+Log file data are automatically provided by internet browsers.
+Collecting this information enables us to better understand the users who come to our website, where they come from, and what content on our website is of interest to them.
+We use this information for our internal analytics purposes, retargeting campaigns, measuring the success of our marketing campaigns and to improve the quality and relevance of our website to our visitors.
+If we require personal information not described above, the user will be asked for their consent, and the reasons will be made clear to them at the point where the information is collected.
+b) Information that we process through AdCTRL
+The information processed by AdCTRL is usually submitted by the publishers or their intermediaries (eg.
+==========
+Ad Exchanges) via application programming interfaces (“API”).
+AdCTRL uses this information to place ads on behalf of advertisers which’s product or service is advertised.
+The information consists of pseudonymous data, which is associated by Mobile Advertising IDs and IP Addresses to users’ mobile devices.
+The data does not allow Adello to identify individuals.
+The collection and use of the information is governed by the privacy policy and legal terms of the publisher who offers the advertising space.
+However, as far as we are technically able to do so, we inform users directly at the point where information is collected.
+Types of information
+
+
+Why we use it
+
+
+
+
+Mobile Advertising ID
+Location Data
+IP Address (anonymized)
+Pixel Tags (Web Beacons)
+Statistical IDs
+Audience Data Segments
+
+
+Adello uses this information for online marketing purposes via AdCTRL.
+In detail, we use the information to
+
+enable advertisers to customize ads to a particular location and users’ location behavior,
+predict users’ interests and preferences for interest-based advertising
+determine how users respond to certain ads,
+report aggregated statistics regarding, for example, the effectiveness of mobile advertising campaigns and
+provide, operate, manage, maintain, and enhance AdCTRL.
+==========
+GDPR: Legal basis for processing
+Our legal basis for collecting and processing the information described above will depend on the information concerned and the specific context in which we collect and process it.
+In accordance with the European GDPR, we collect and process personal information from users only where we have their consent (Art. 6 para 1 lit.
+a) GDPR), where we need the information to provide our contractual obligation to them (Art. 6 para 1 lit.
+b) GDPR) or where we have a legitimate interest to do so.
+==========
+If a user wishes to learn more about specific legal ground(s) we rely on to process their information for any particular purpose (including any legitimate interests we have to process information), they may contact us using the details provided below under “Contact Us”.
+However, by way of example, we rely on our legitimate interests to process information for direct marketing purposes and for fraud prevention and detection, provided these interests are not overridden by a users’ data protection interests or fundamental rights and freedoms (Art. 6 para 1 lit.
+f) GDPR).
+==========
+Who do we share user information with?
+Only in the following cases we may disclose personal information to third parties:
+
+We may, on behalf of our clients and partners, collect information from users.
+This may occur, for example, if someone actively and willingly submits information in response to an ad that we provide on behalf of an advertising client who will be declared.
+Such information may consist of Personal Identifiable Information (PII), non-PII, or both.
+==========
+In such situations, we collect the information and provide it to our client, and it will be subject to that client’s privacy practices.
+To our subsidiaries and third-party services providers who provide data processing services to us and support us in providing our services (for example, to support the delivery of, provide functionality on, or help to enhance the security of our website), or who otherwise process personal information for purposes that are described in this Privacy Policy or notified to the user when we collect their personal information,
+To any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect the users vital interests or those of any other person,
+To a potential buyer (and its agents and advisors) in connection with any proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use the users personal information only for the purposes disclosed in this Privacy Notice;
+
+
+Links to Third-Party Websites and Third-Party Content
+The Website may contain links to other websites, such as sites providing news coverage of the company, to partner sites for case studies, and to industry association sites of which Adello is a member.
+Adello is not responsible for the privacy notices or practices of these third-party websites.
+Via AdCTRL we provide ads that link to third-party sites, third-party apps, or other third-party content.
+This Privacy Policy does not extend to Third-Party Content, or any services offered on Third-Party Content.
+==========
+Children´s Privacy
+Adello does not knowingly collect any personal information from children under age of sixteen (16).
+If you believe your child has provided Adello with personal information, such as by registering at the Website, and you would like to have the data removed, please contact us using the contact details provided under the “Contact Us” heading below.
+Security and International Data Transfer
+Adello utilizes hashing, encryption and de-identification techniques to help ensure that the data is safeguarded at all times.
+Adello enforces generally accepted industry security standards on AdCTRL to protect the information both during transmission and once it is received.
+==========
+Our servers are located in the European Union, the United States of America, and in Hong Kong.
+If a user is located in the EEA, we have taken appropriate safeguards to comply with EEA data transfer restrictions such as implementing a legal mechanism to lawfully transfer their personal information between the EEA and non-EEA countries, such as the United States.
+Where applicable, we implemented the European Commission’s Standard Contractual Clauses (“SCC”) for transfers of personal information with our affiliate as well as our clients and partners, to protect personal information they process from the EEA in accordance with European Union data protection law.
+==========
+Users can obtain a copy of the SCC by contacting us using the contact details provided under the “Contact Us” heading below.
+How long do we keep user information?
+We retain personal information we collect from users as long as we have an ongoing legitimate business need to do so (for example, to provide users with a service they have requested or to comply with applicable legal, tax or accounting requirements).
+Information that is transferred to us by third parties will be deleted after a maximum period of 13 months or earlier.
+==========
+Summarized data is kept indefinitely.
+Summarized data is aggregated statistical data used for financial reporting purposes.
+User data protection rights
+Users have the following data protection rights:
+
+If a user wishes to opt out from ad tracking in general or from AdCTRL in particular they may refer to our opt-out instructions
+If a user wishes to access, correct, update or request deletion of their personal information collected on the Website, or withdraw their consent they can do so at any time by contacting us using the contact details provided under the “Contact Us” heading below.
+Withdrawing their consent will not affect the lawfulness of any processing we conducted prior to their withdrawal, nor will it affect processing of their personal information conducted in reliance on lawful processing grounds other than consent.
+In addition, if a user is subject to the European Data Protection Regulation, they can object to processing of their personal information, ask us to restrict processing of their personal information or request portability of their personal information.
+==========
+Again, they can exercise these rights by contacting us using the contact details provided under the “Contact Us” heading below.
+Users have the right to opt-out from our marketing communications at any time.
+They can exercise this right by clicking on the “unsubscribe” or “opt-out” link in the marketing e-mails we send them.
+To opt-out of other forms of marketing (such as postal marketing or telemarketing), users can contact us using the contact details provided under the “Contact Us” heading below.
+==========
+Users have the right to complain to a data protection authority about our collection and use of their personal information.
+For more information, they can contact their local data protection authority.
+(Contact details for data protection authorities in the European Economic Area, Switzerland and certain non-European countries (including the US and Canada) are available here.)
+We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+Contact Us
+If you have any questions or concerns about our use of your personal information or if you have questions about privacy on AdCTRL, please contact our Data Protection Representative using the following details at: privacy@adello.com 
+The data controller of your personal information is:
+Adello Group AGHöschgasse 318008 ZürichSwitzerland
+The data processor of your personal information is:
+Adello Technologies GmbHHaid-und-Neu-Str.
+776131 KarlsruheGermany
+This Privacy Policy was last updated on May 23, 2018.
+==========

@@ -1,0 +1,290 @@
+Notice: Our Privacy Policy has Changed
+Effective Date: September 27, 2016
+Introduction
+Clipcentric, Inc. ("Clipcentric", "We", "Us") provides marketing solutions that enable our customers (publishers, advertisers, ad agencies) to create and distribute a variety of digital advertisements ("Clipcentric Ads").
+Clipcentric Ads are trafficked across a variety of websites and applications that are owned or operated by third parties ("Publishers").
+Advertisers, Publishers, or other third parties who enter into a licensing agreement with Us ("Customers") may use this website (the "Site") as a point of entry to Customer-only software products and services ("Services").
+Prospective Customers or those seeking information on our products and services may visit the Site to learn more about Us ("Site Visitors").
+==========
+We take the privacy concerns of Site Visitors and the viewers of advertisements created and served by our technology ("Ad Viewers") seriously.
+This privacy policy governs Clipcentric's online information collection and use practices through: (i) Clipcentric Ads, (ii) the Site.
+It also applies to any information a user may provide to Clipcentric or that Clipcentric may collect offline and/or through other means (for example, via telephone, or through the mail).
+This privacy policy describes what information we collect, how it is used and the choices available regarding our use of personal information and how you can access and update this information.
+Classification of Information
+The information collection and use policies described in this document refer to two types of information: (i) Personally Identifiable Information and (ii) Non-Personally Identifiable Information, defined as follows:
+Personally Identifiable Information
+Personally Identifiable Information ("PII") is information that can be used to contact, identify or precisely locate a person.
+Examples of PII include, but are not limited to: name, email address, postal address, telephone number, social security number, government issued-identifier and credit card or other financial account number.
+Non-Personally Identifiable Information
+Non-Personally Identifiable Information ("Non-PII") is any information that is not, on its own, used to contact, identify or precisely locate a person.
+Examples of Non-PII include browser type (e.g., Netscape or Internet Explorer), operating system (e.g., Macintosh or Windows), and cookie data such as how many times a viewer has seen an ad or ad component.
+==========
+Information Collection and Storage Methods
+This section provides a brief summary of the information collection technologies referred to in this document.
+Details on how these technologies are used to collect information from Site Visitors and Ad Viewers can be found in the following sections:
+Clipcentric Information Collection and Use Policy for Site Visitors
+Clipcentric Information Collection and Use Policy for Ad Viewers
+Other Clipcentric Information Collection and Use Policies
+Html Forms
+Html Forms are input fields where users may enter information that is collected by the host application.
+Html forms may request Personally Identifiable Information, and it is up to the user whether or not to enter such information.
+For example, Html forms are often used for user registrations and "Contact Us" information requests, where the user supplies contact information in order to be contacted by email, telephone or other means.
+Http Cookies
+Http Cookies (also known as browser cookies, or simply cookies) are small files that are stored on a user's computer via a web browser.
+==========
+They are designed to hold a modest amount of data specific to a particular browser (e.g. Firefox) and website (i.e. domain).
+Cookies are used because they are a convenient way of carrying information from one session on a website to another, or between sessions on related websites.
+A cookie consists of (i) a name, by which it is referenced, (ii) the domain to which it is attached, i.e. facebook.com or tr.clipcentric.com, (iii) a number of key/value pairs, such as loggedin=yes or gender=male, and (iv) its duration, or how long before the cookie is deleted, e.g. when the browser window is closed, 90 days or forever.
+You can view or delete any cookies that are stored by your browser using browser tools.
+==========
+Server Log Files
+Server Log Files contain a list of requests received by a webserver or delivery network.
+Almost all the websites you visit, or any of the applications you access online generate log files that may include visitor IP addresses, operating systems, browsers type, referring/exit pages, ISP and device information.
+This information is typically used to monitor site/application traffic, usage patterns and trends, timestamps and clickstream data, as well as to troubleshoot errors and problem areas.
+IP Address
+An IP Address is a number that is automatically assigned to the computer that you are using by your Internet service provider (ISP) or by another organization.
+IP Addresses are commonly stored in Server Log Files.
+An IP address, by itself, cannot identify you personally.
+However, when combined with other information, your IP address can be used to identify the computer you are using.
+Your IP address may also be used to estimate your geographic location.
+==========
+User Agent Strings
+User Agent Strings are a series of characters automatically sent with your Internet requests that provide information necessary for smooth Internet communications such as the operating system and browser you used.
+User Agent Strings are commonly stored in Server Log Files.
+Similar to an
+IP address, a user agent string, by itself, does not identify you personally.
+However, when combined with other information, a user agent string might be used to identify the computer originating a message.
+Unique IDs
+Unique IDs are identification numbers or strings that are used to identify a particular user or device.
+Unique IDs may be created based upon Clipcentric Server Log Files, including IP Addresses and User Agent Strings, or be passed to Clipcentric from third parties.
+Unique IDs may be truly unique to a user, browser, device or platform, or may rely on statistical methods to correlate users, browsers, devices or platforms with user activity.
+==========
+Tracking Pixels
+Tracking Pixels (also known as Clear Gifs, Web Beacons) are invisible 1x1 pixel images that are requested from a remote server.
+When a Tracking Pixel is requested from a server, that server then has the opportunity to interact with the website visitor's browser for the purposes of using other information collection methods, such as setting or reading a Http Cookie or creating Server Log Files.
+Embedded Scripts
+Embedded scripts are programming code designed to collect information about your interactions with a website or website component (including advertisements), such as the links you click on.
+Embedded Scripts may be temporarily downloaded onto your device from an application's web server, or the server of a third party provider.
+An Embedded Script is active only while you are connected to the website containing the embedded script, and is deactivated or deleted thereafter.
+==========
+Local Storage
+Local Storage is another method of storing information locally on a user's computer, via a web browser.
+Storing information using Local storage is similar to using a Http Cookie, but allows for the storing of a greater amount of data with improved performance and increased security, as no information is transferred from the browser to a web server.
+Local Storage may be cleared at the end of a browser session (Session Storage), or be stored indefinitely (until removed by an application or end-user).
+Like Http Cookie, Local Storage is per origin (per domain and protocol).
+==========
+All pages, from one origin, can store and access the same data.
+Local Shared Objects
+Local Shared Objects, also known as Flash® cookies, is a method of storing information utilizing the Adobe Flash® player.
+Flash cookies are different from Http Cookie because of the amount of, type of, and how data is stored.
+For example, Local Shared Objects can be stored or retrieved for a particular domain whenever a user accesses a page containing a Flash application.
+While this "same domain restriction" is similar to that of Http Cookie, Local Shared Objects are persistent across sessions using different browsers (e.g. Chrome and MSIE).
+Local Shared Objects are commonly used to store preferences, track application data (such as game stats) or track a user's activity within the domain.
+Click-through Redirects
+A Click-through Redirect is a method for a third party to track a click on an advertisement.
+Rather than the ad click immediately resulting in your browser opening the target webpage, your request is "relayed" or "redirected" through an intermediary webserver, which can then store information pertaining to the click-through in Server Log Files.
+==========
+Device Location
+Your Device Location is available via the W3C Geolocation API Specification (see https://dev.w3.org/geo/api/spec-source.html).
+Common sources of location information include Global Positioning System (GPS) and location inferred from network signals such as IP address, RFID, WiFi and Bluetooth MAC addresses, and GSM/CDMA cell IDs, as well as user input.
+While no guarantee is given that the API returns the device's actual location, the availability of accurate location information is sufficient for your Device Location to be considered Personally Identifiable Information.
+Your Device Location cannot be determined without your explicit consent, e.g. responding "yes" to a prompt asking permission to use your current location.
+==========
+Information Collection and Use Policy for Site Visitors
+Information Collection Methods and Use
+Clipcentric does not collect any Personally Identifiable Information of Site Visitors before, during or after your visit to this Clipcentric.com website other than what you voluntarily supply to us via Html forms (e.g., submitting information through the Contact Us and/or registration forms).
+This information may include name, address, billing address, email, phone number and company information.
+When personal or business information is provided by you directly to us, this information is used by Clipcentric solely for the purposes identified at the point of contact, such as to convey requested product or service information, assess the needs of your business to determine suitable products, respond to customer service requests and improve our website.
+==========
+As is true of most web sites, we gather certain information automatically and store it in Server Log Files.
+This information includes internet protocol (IP) addresses, User Agent Strings, and clickstream data.
+We use this information, which we do not link to Personally Identifiable Information or to identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+We do not link this automatically-collected data to Personally Identifiable Information unless you are logged in as a Clipcentric Customer, operating under a separate End User License Agreement which you or the entity you represent has executed.
+In such a case, we use this information to monitor your login status, troubleshoot Customer support requests, detect errors in our service, or other reasons we deem necessary to conduct our business relationship with you.
+==========
+We use Http Cookies on this Site.
+However, do not link the information we store in Http Cookies to any Personally Identifiable Information you submit while on our Site unless you are logged in as a Clipcentric Customer, operating under a separate End User License Agreement which you or the entity you represent has executed.
+In such a case, we use this information to monitor your login status, troubleshoot Customer support requests, detect errors in our service, or other reasons we deem necessary to conduct our business relationship with you.
+You can manage how your browser handles Http Cookies by following directions provided in your internet browser's "help" directory.
+Note that if you delete, reject or block Http Cookies, you will not be able to access our Services.
+==========
+Links to Third Parties
+The Clipcentric Site and Services may include links to other Web sites whose privacy practices may differ from those of Clipcentric.
+If you submit personal information to any of those sites, your information is governed by their privacy policies.
+We encourage you to carefully read the privacy policy of any web sites you visit.
+==========
+Other Tracking Technologies on our Website
+Our third party analytics partners may employ Tracking Pixels, that help us better manage content on our site by informing us what content is effective.
+We do not tie the information gathered by Tracking Pixels to Personally Identifiable Information.
+We use Local Shared Objects, to store your preferences such as volume control, site layout, or to display content based upon what you view on our site to personalize your visit.
+Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your web browsing activity, may use Local Shared Objects to collect and store information.
+Local Shared Objects.
+Cookie management tools provided by your browser will not remove Local Shared Objects.
+==========
+To learn how to manage privacy and storage settings for Local Shared Objects (aka Flash cookies) click here: http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118
+The use of tracking technologies by our service providers, technology partners or other third party assets on the site is not covered by our privacy policy.
+These third parties may use Http Cookies, Tracking Pixels, Embedded Scripts or other information collection technologies to help them better manage their content on our site.
+We do not have access or control over these technologies.
+==========
+We do not tie the information gathered to our Customers' or Users' Personally Identifiable Information.
+Information Collection and Use Policy for Ad Viewers
+Information Collection Methods and Use
+In the course of delivering a Clipcentric Ad to you, we do not collect any Personally Identifiable Information about you.
+However, we do collect certain Non-Personally Identifiable Information about you, such as your browser type, the server your computer is logged into, the type of computer operating system you use, and whether and how you responded to the ad delivered.
+The non-personally identifiable information that we collect is used for the purpose of targeting ads and measuring the effectiveness of ads on behalf of our Customers.
+We collect your IP address in our Server Log Files, which we use for the purpose of troubleshooting defects in our Service or investigating fraudulent activity.
+We may also use your IP address on-the-fly to estimate your geolocation, but we do not store your IP address for this purpose.
+We collect your User Agent String in our Server Log Files.
+We use this information to target how Clipcentric Ads are served to particular devices or platforms, and to provide our Customers with information on the devices types and platforms viewers used while viewing Clipcentric Ads.
+We may generate and use our own Unique IDs or receive Unique IDs from third Parties.
+==========
+We use this information to target how Clipcentric Ads are rendered to viewers.
+For example, we may display an alternate ad experience to you based on this information.
+We do not link Unique IDs we store with any Personally Identifiable Information about you.
+However, if a third party passes a Unique IDs to a Clipcentric Ad, we do not monitor, know or control how that party uses their Unique IDs.
+We use persistent Http Cookies to keep track of what Clipcentric Ads you have seen and how you have interacted with them.
+These Http Cookies may remain in your browser for an extended period of time.
+However, we do not link the information we store in cookies to any Personally Identifiable Information.
+We may display an alternate ad experience to you based on this information.
+==========
+We also track anonymous behavior of users seeing our ads, such as what ad components were seen or interacted with and report uniqueness data to our clients.
+We use Tracking Pixels to measure the efficacy of Clipcentric Ads.
+For example, we may use a Tracking Pixels in combination with Http Cookies to determine if you requested more information from a Customer after viewing a Clipcentric Ad.
+Third Parties may embed their own Tracking Pixels within Clipcentric Ads.
+We do not monitor, know or control how those third parties are using such Tracking Pixels.
+==========
+We may use Embedded Scripts to enable communication between Publisher websites and Clipcentric Ads.
+We use this communication to enable custom ad experiences particular to a Publisher, or to pass other information to the Clipcentric Ad that can be used for reporting and analytics.
+If a Clipcentric Ad contains Adobe Flash® components, we may use Local Shared Objects to customize a Clipcentric Ad, or to control the ad experience across multiple ad views.
+==========
+We use Click-through Redirects to allow us to track click activity on Clipcentric Ads, or to allow our Customers and other third parties to track such activity.
+Click-through Redirect activity is stored in our Server Log files, and is analyzed in conjunction with other information to produce reports on the effectiveness of Clipcentric Ads for our Customers.
+We may request your Device Location in order to target Clipcentric Ads or ad components to you based on your location.
+==========
+We will not access or use your Device Location unless you explicitly grant us permission to do so.
+If you do grant permission, we use your Device Location on-the-fly, i.e. we do not store the information.
+We may transfer your Device Location to third parties, as described in section Social Media Features and third party Widgets, below.
+For example, we may pass your Device Location to the Google Maps API to render a map centered around your location.
+==========
+Transfer of Information to Third Parties
+Except as described in the following three sections (Social Media Features and Third Party Widgets, Custom Ad Components and Information Collected by Customers and their Partners), we do not collect on behalf of or transfer any of your Personally Identifiable Information to third parties.
+We may transfer Non-Personally Identifiable Information to third parties in the form of ad performance reports and industry benchmarks.
+This information may include elements from User Agent Strings, Server Log files and Http Cookies.
+Social Media Features and Third Party Widgets
+Clipcentric Ads may include social media features (such as the Facebook "Like" button, the Twitter "Tweet" button, or the LinkedIn "Share" button) or features derived from third party APIs (such as Google Maps or YouTube Videos), also known as "Widgets".
+These features and Widgets may collect your IP address, the webpage you are on when you view the ad, your location data, and may set a Http Cookie or employ similar technologies to enable the feature to function properly.
+==========
+Your interactions with these features are governed by the privacy policies of the companies providing them, and you should consult their privacy policies for more information.
+Custom Ad Components
+Clipcentric Ads may include custom Adobe Flash® and or HTML5/JavaScript components developed by or on behalf of our advertiser and publisher partners ("Custom Third Party Components").
+For example, these Custom Third Party Components may set first party cookies or be presented as a SWF file or an iframe embedded HTML file that contains a Html Form requesting Personally Identifiable Information.
+Clipcentric does not handle or store such information, and your interactions with these Custom Third Party Components are governed by the privacy policies of the companies using them, and you should consult their privacy policies for more information.
+Information Collected by Customers and their Partners
+Customers sometimes include their own (or their partners') Tracking Pixels or similar technologies within advertisements that Clipcentric serves to websites, in order to set and read their own cookies which Clipcentric does not control.
+==========
+Customers may also employ Click-through Redirects so that they or the partners can track click-through activity on their ads.
+If you visit a website or application that uses Clipcentric Services, or click through an ad to the website or online service of one of our Customers, those Customers and third party websites may collect additional information about your visit beyond the information described in this privacy policy.
+They may also allow other companies (such as other ad networks or web analytics services) to collect information through mechanisms such as Http Cookies, Tracking Pixels and other information collection technologies.
+Clipcentric is not responsible for and cannot control the data collection and use practices of its Customers and third party websites.
+You should read the privacy notices of the websites you visit and the online services and interactive ads that you use to understand what information companies collect and how they use that data.
+Other Clipcentric Information Collection and Use Policies
+Cookie Opt-Out
+Ad Viewers may "opt out" of receiving cookies that enable the viewer's browser to keep track of such information by clicking the "Opt-Out" link below.
+If an Ad View changes his or her mind after opting out (for example, because he or she decides that it is better to be shown rich advertising components with some limitation on frequency), the Ad Viewer can opt in by clicking the "Opt-In" link below.
+You can also manage how your browser handles cookies by following directions provided in your internet browser's "help" directory.
+Note that if you delete, reject or block cookies, it may negate the functionality of our opt-out mechanism.
+==========
+Sharing of Information
+We will share your personal information with third parties only in the ways that are described in this privacy policy.
+We do not sell, rent or otherwise distribute your personal information to third parties.
+We may provide your personal information to companies that provide services to help us with our business activities such as hosting our website or sending emails.
+These companies are authorized to use your personal information only as necessary to provide these services to us and are contractually obligated to keep your information confidential.
+==========
+We may also disclose your personal information:
+as required by law, such as to comply with a subpoena, or similar legal process
+when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, including to meet law enforcement or national security requirements
+if Clipcentric is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
+to any other third party with your prior consent to do so.
+We have potential liability in the event of unlawful onward transfers of Privacy Shield data to third party agents (see Self-Regulatory Frameworks, below)
+User Access and Choice
+You may access, correct, update, amend, or ask to have Personally Identifiable Information we store about you removed/deleted by making the change from the Customer Account settings page, emailing our Customer Support at support@clipcentric.com or by contacting us by telephone or postal mail at the contact information listed below.
+We will respond to your requests within 30 days.
+We will retain your information for as long as your account is active or as needed to provide you services.
+We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+How we secure your Personal Information
+Clipcentric uses commercially reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification.
+However, no security measures are perfect or impenetrable.
+==========
+We cannot control the actions of other users with whom you elect to share your PII.
+We cannot guarantee that only authorized persons will view your PII.
+We cannot ensure that information you share on our Website and/or through our Services will not become publicly available.
+We are not responsible for third party circumvention of any privacy settings or security measures on our Web Site or through our Services.
+You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software.
+==========
+Children's Privacy
+The Site is not intended for children under 13 years of age.
+You must be at least 13 years old to use the Web Site and/or our Services.
+We do not knowingly collect PII from any child under 13 years of age.
+Please advise us if you are aware of our having received Personally Identifiable Information from someone under 13, in which case we will take appropriate steps to delete it.
+==========
+Note that Clipcentric Ads may contain Social Media Features and Third Party Widgets and/or Custom Ad Components as previously described, and Clipcentric does not monitor or control the information collected through these elements.
+If you believe Personally Identifiable Information from someone under 13 has been collected in violation of applicable law, you must contact the advertiser or publisher responsible.
+We may be able to assist you in determining if the Clipcentric Ad was designed in such a way that the collection of Personally Identifiable Information was possible.
+==========
+California Privacy Rights
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits users who are California residents to request and obtain from Clipcentric once a year, free of charge, information about the personal information (if any) Clipcentric disclosed to third parties for direct marketing purposes in the preceding calendar year.
+If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which Clipcentric shared information in the immediately preceding calendar year.
+If you are a California resident and would like to make such a request, please submit your request, with information about where you saw the Clipcentric Ad, in writing to: Clipcentric, Inc., Privacy Information Request, 915 Broadway Suite 2E Albany, NY 12207.
+IP Addresses, User Agents, Unique IDs, and EU/Swiss Data
+Certain jurisdictions, including the European Union, may deem IP addresses, User Agent Strings and/or Unique IDs, to be Personally Identifiable Information.
+Accordingly, for persons in such jurisdictions, our use of Non-Personally Identifiable Information as described in this Privacy Policy should be assumed to include IP address, User Agent String and Unique ID data.
+==========
+Self-Regulatory Frameworks
+EU-US Privacy Shield
+As a US-headquartered company, the information Clipcentric collects will be processed in the United States of America.
+While the USA does not have a comprehensive data privacy legal framework equivalent to that in European Union, Clipcentric complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.
+Clipcentric has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.
+If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov.
+==========
+In compliance with the EU-US Privacy Shield Principles, Clipcentric commits to resolve complaints about your privacy and our collection or use of your personal information.
+European Union individuals with inquiries or complaints regarding this privacy policy should first contact Clipcentric at the contact information provided in the Questions Regarding this Policy section below.
+Clipcentric has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus.
+If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers for more information or to file a complaint.
+==========
+US-Swiss Safe Harbor
+Clipcentric complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.
+Clipcentric has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement .
+If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.
+To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit http://www.export.gov/safeharbor.
+==========
+In compliance with the US-Swiss Safe Harbor Principles, Clipcentric commits to resolve complaints about your privacy and our collection or use of your personal information.
+Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Clipcentric at the contact information provided in the Questions Regarding this Policy section below
+Clipcentric has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus.
+If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+==========
+Transfer to Agents
+Except as described in this Privacy Policy, Clipcentric will transfer EU/Swiss Data only to those third parties who have provided assurances that such data will be treated consistently with the requirements of this Privacy Policy.
+In particular, except as described in this Privacy Policy, We will transfer EU/Swiss Data only to third parties who are contractually obligated to comply with the principles of the Privacy Shield or Safe Harbors, respectively.
+In the event that Clipcentric has knowledge that any third party to whom it has transferred EU/Swiss Data has used or disclosed EU/Swiss Data in a manner contrary to this Privacy Policy, Clipcentric will take reasonable steps to prevent or stop such use or disclosure.
+Clipcentric has potential liability in the event of unlawful onward transfers of Privacy Shield data to third party agents.
+Binding Arbitration
+If your dispute or compliant can't be resolved by Clipcentric, nor by the panel established by the EU Data Protection authorities or through the Department of Commerce, you may have the right to require that Clipcentric enter into binding arbitration with you pursuant to the Privacy Shield's Recourse, Enforcement and Liability Principle and Annex I of the Privacy Shield.
+==========
+Changes to This Policy
+We may update this privacy policy at any time.
+If we make any material changes we will revise the "Effective Date" on the Privacy Policy.
+Any such amendment to this Privacy Policy will be effective upon our posting of the revised Privacy Policy.
+We encourage you to periodically review this page for the latest information on our privacy practices.
+Your continued use of the Site or Services constitutes your agreement to this Privacy Policy and any updates.
+Regulatory Oversight
+Clipcentric is subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
+Questions Regarding Privacy
+If you have any questions, comments or concerns about this privacy policy or Clipcentric's privacy practices, to update or delete your Personally Identifiable Information, or for assistance removing Http Cookies or other information storage, please contact Clipcentric at:
+support@clipcentric.com
+M-F 9:00a to 5:00p ET (800) 653--5604
+Clipcentric, Inc.,
+Privacy Information Request
+915 Broadway Ste 2E
+Albany, NY 12207
+==========

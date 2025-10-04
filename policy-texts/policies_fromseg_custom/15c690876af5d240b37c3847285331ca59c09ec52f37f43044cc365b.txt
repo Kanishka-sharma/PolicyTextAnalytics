@@ -1,0 +1,88 @@
+Nielsen uses its proprietary digital measurement products to measure and analyze how consumers engage with media across online, mobile and emerging technologies, and offer insights into consumer behavior.
+In 2015, Nielsen acquired eXelate, a technology company that provides digital advertising services for advertisers across all platforms.
+Both Nielsen and eXelate will continue to use their own solutions for audience measurement (Nielsen) and advertising management (eXelate).
+==========
+Each will share non-identifiable or aggregated information with the other to help the recipient perform its functions better and more efficiently.
+Please click here to read eXelate's services' privacy policy.
+How We Use Our Technologies to Collect Information
+What Information Do We Collect?
+How Do We Use This Information?
+With Whom Do We Share Information?
+Data Retention & Security
+Choices
+Policy Changes
+Contact Us
+About Nielsen
+How We Use Our Technologies To Collect Information
+Nielsen works with various companies including data providers, advertisers, and publishers to measure the effectiveness and reach of content viewed on the Internet no matter what kind of device people use.
+==========
+For example, advertisers are able to better understand campaign performances across TV, computer, and mobile audiences.
+Here's how it works: Participating companies include proprietary Nielsen measurement software in their content on their chosen sites, ads, apps, and video players.
+When we use the word "content," we mean audio, video, ad campaigns and any other static or dynamic media users might encounter or engage with.
+The Nielsen proprietary measurement software embedded in the content uses tags (including cookies, pixel tags, and our software contained in mobile applications) or watermarks to gather information to help understand what content users are exposed to and interact with, what advertising campaigns are effective, and the aggregated demographic composition of a website's or application's visitors or viewers of digital content.
+A sample report might be "this ad campaign was viewed by 5 million females between the ages 24-30."
+==========
+We also work with third party service providers to obtain pseudonymous and/or aggregated data and add that information to our measurements.
+"Pseudonymous data" means respondent-level data from which the underlying individuals cannot reasonably be identified.
+Types of pseudonymous data include information associated with, for example, a cookie, advertising or device identifier, or other persistent unique identifier.
+"Aggregated data" means a set of data about a group or segment of individuals that does not permit any individual within the group to be identified and which cannot be reduced to the attributes or behavior of a single individual.
+==========
+Please click here to read about Facebook's role in our digital measurement, and here to learn how to opt out.
+Sometimes our mobile measurement software is embedded in Adobe's Primetime, a "TV Everywhere" platform that enables consumers to watch live, linear, and on-demand programming on different types of devices.
+Please click here to learn more about Adobe Primetime.
+To read the privacy policy for Adobe's analytics products, please click here.
+==========
+What Information Do We Collect?
+We do not identify  – and will not attempt to identify  – the users who were exposed to content.
+Nielsen's proprietary digital measurement software may collect information about the content that was viewed (e.g., which ad campaign, which program episode, etc.), where the content was viewed (e.g., on which website or in which app, etc.), and general information about the device on which the content was viewed (e.g., tablet or smartphone, advertising identifier, IP address, operating system, etc.).
+Our Nielsen Digital Brand Effect services randomly present short surveys to users who may or may not have been exposed to our clients' content.
+==========
+Responses are voluntary.
+If the viewer responds to a survey question, the response is stored in a database.
+The surveys do not ask for or collect any identifiable data.
+How Do We Use This Information?
+==========
+We use this information to create a variety of insights, reports, and analyses, including the composition of the audience that viewed certain content, or about the effectiveness of an advertising campaign.
+Nielsen may also calibrate the information collected with other online and offline data sources and research tools, including non-identifying Nielsen panelist viewing.
+The other data sources may include social media or ecommerce sites.
+These additional sources allow us to perform more robust research and analyses concerning Internet audience demographics, preferences, and use.
+Only non-identifiable or aggregated data are included in our insights, reports, and analyses.
+==========
+With Whom Do We Share Information?
+We employ or work with other companies or individuals to perform certain functions on our behalf.
+Such companies or individuals are provided with access to the information needed to perform their functions, but are prohibited from using such information for any other purpose.
+==========
+In addition, we may release information to third parties when disclosure is required by law or when necessary or desirable to exercise or preserve our legal rights, or to take action regarding potentially illegal activities.
+We may also share pseudonymous data to facilitate the financing, securitization, insuring, sale, assignment, bankruptcy, or other disposal of all or part of our business or assets (in which case we will take reasonable steps to ensure that the information is protected as described in this notice).
+Data Retention & Security
+Nielsen uses reasonable organizational, technical and administrative measures to protect the security and confidentiality of information while controlled by us.
+Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.
+==========
+We store the information for as long as needed for our research and analyses purposes as described in this policy and in accordance with law.
+We may store these data in the United States or we may transfer them to another country.
+Wherever we hold the data, we will apply the terms of this policy and any applicable law.
+==========
+Choices
+Nielsen believes that you should have a choice about whether to contribute to our research and insights.
+If you are not currently a Nielsen panelist and do not wish to participate in Nielsen's digital measurement research, please click here to opt out on browsers.
+Nielsen uses both regular HTTP cookies and HTML5 local storage.
+We keep in HTML5 local storage only a copy of the unique cookie ID assigned to our HTTP cookie that is placed on your computer.
+When you opt out, our opt-out mechanism replaces the unique HTTP cookie with an "OPT_OUT" cookie and clears out the information Nielsen has placed in HTML5 local storage.
+==========
+If you delete all of your regular cookies (which would include your Nielsen HTTP "OPT_OUT" cookie), you will have to opt out again.
+Please note that because this is a browser-level opt out, if you use more than one browser, you will need to opt out in each.
+If you change your mind and want to participate in Nielsen's digital measurement research, please click here to opt back in.
+In the mobile app environment, we require each application that contains active Nielsen measurement software to disclose in the app store's description that Nielsen's software is included in that app, and provide access to a Nielsen opt out.
+Please note that because this is an app-level and device-specific opt out, if you have more than one mobile app that contains our software, or if you have the same app on more than one mobile device, you will need to opt out in each.
+==========
+Policy Changes
+Nielsen reserves the right to update and make changes to this privacy notice.
+We encourage you to review this privacy notice frequently to ensure that you stay apprised of any changes.
+Contact Us
+If you have any comments or questions regarding this privacy policy, please contact us.
+About Nielsen
+Nielsen (NYSE: NLSN) is a global information and measurement company with leading market positions in marketing and consumer information, television and other media measurement, online intelligence, mobile measurement, and related assets.
+The company has a presence in approximately 100 countries, with headquarters in New York, USA.
+For more information please visit www.nielsen.com.
+This Privacy Statement was last updated September 2015.
+==========

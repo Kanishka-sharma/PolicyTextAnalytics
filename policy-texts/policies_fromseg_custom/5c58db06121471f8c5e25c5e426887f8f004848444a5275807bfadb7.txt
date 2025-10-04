@@ -1,0 +1,348 @@
+I. Controller
+The controller for the collection, processing and use of your data in the meaning of Art. 4 (7) GDPR is
+Ingenious Technologies AG, Französische Str.
+48, 10117 Berlin Germany (hereinafter “Ingenious Technologies” or “Ingenious”).
+==========
+Email: info@i19s.com Telephone: +49 30 577 02 6000 Fax: +49 30 577 02 6099
+Our data protection officer can be reached at the above address, c/o data protection officer, or at the email address privacy@i19s.com.
+You may contact our data protection officer at any time if you have questions on data protection law or your rights as a concerned party.
+==========
+II.
+Scope and purpose of the collection, processing and use of your personal data
+We use personal data for the purpose of operating the website and our platform “Ingenious Enterprise”.
+1.
+==========
+When you access our website
+1.1.
+Every time our website is accessed
+When you visit our website, our servers temporarily store every access in a protocol file.
+The following data are recorded without any action on your part and will be automatically deleted after 30 days:
+
+the IP address of the requesting computer,
+the date and time of access,
+the name and the URL of the accessed file,
+the previous website from which our website was accessed,
+the operating system of your computer and the browser you use,
+the name of your internet access provider.
+==========
+The collection and processing of this data takes place primarily for the purpose of enabling our website to be used (connection set-up) and to ensure long-term system security and stability.
+Secondarily, we use this information to optimise our internet services.
+The data does not enable us to draw any conclusions about you as an individual.
+==========
+The legal basis for processing the information named above is Art. 6 (1) f) GDPR.
+Our legitimate interest follows from the above-named interest in security and the requirement of uninterrupted availability of our website.
+==========
+In addition, our website uses cookies, web analysis services, special add-ons and social plugins.
+You can find more information on this in section III.
+1.2.
+==========
+When you sign up for our newsletter
+Provided you have given express consent pursuant to Art. 6 (1) a) GDPR, we store the email address you have entered and use it to send you our newsletter at regular intervals.
+At the end of each newsletter you will find a link which you can use to unsubscribe from our newsletter at any time.
+You can also unsubscribe from the newsletter at any time by sending an email to marketing@i19s.com.
+1.3.
+==========
+When you use a contact form or a call-back form
+We give you the option of contacting us via a form on our website.
+If you do so, the following details are required:
+
+first name and family name,
+name of your company,
+position,
+a valid email address and
+telephone number.
+The information listed is processed by us for the purpose of identifying you and answering your query.
+==========
+The data processing takes place in response to your request and is necessary for the purpose of performance of a contract or to take steps prior to entering into a contract pursuant to Art. 6 (1) b) GDPR.
+In addition, data processing in the context of a contact request is based on our legitimate interests pursuant to Art. 6 (1) f) GDPR.
+The latter also results from the purposes named above.
+The personal data we collect when you use the contact form are automatically deleted once your query has been dealt with.
+1.4.
+==========
+When you make comments on our blog
+On our blog you can leave a comment on the posts you can access there.
+For your comment to be published, the following data must be provided:
+
+your name,
+a valid email address and
+your comment.
+==========
+In addition, you can also name your website (optional).
+Commenting on posts is voluntary.
+We use your personal data to publish your comment and to give ourselves and other users the option of replying.
+We need your email address to be able to contact you and to follow up on any violations of law.
+Our processing of your data for these purposes is based on our legitimate interests under Art. 6 (1) f) GDPR.
+1.5.
+==========
+When you apply for a vacant position
+In the section “About us/ career” you can send a job application, either in response to a vacancy or as an unsolicited application, to jobs@i19s.com.
+We need your data in order to establish who the application is from and in order to respond to and process the application.
+==========
+The data processing takes place in response to your request and only to the extent that is necessary to respond to the application, to take steps prior to entering into a contract pursuant to Art. 6 (1) b) GDPR or for the purposes of legitimate interests pursued by us or a third party pursuant to Art. 6 (1) f) GDPR.
+Job applications from unsuccessful candidates will be deleted after six months at the latest unless you have given consent to retention for a longer period under Art. 6 (1) a) GDPR.
+2.
+==========
+If you are or wish to become a customer of ours
+To use our enterprise platform, you need to enter into a contract with us.
+In order to manage the user accounts on our platform, we create and store unique user IDs.
+To manage the session in our platform UI we store cookies on the web browsers of our platform users.
+For the same reason we also store the IP addresses and the cookie IDs of the platform users for the duration of the session.
+When our APIs are accessed, the individual API key and IP address of the account are transmitted to us.
+In addition, the time of access and the called method are permanently stored by us.
+==========
+Information about the end device used to access our platform UI (e.g. the operating system and the accessing web browser) is also transmitted to us.
+The personal data collected when the platform UIs and the APIs are used result from the forms in the platform UI (or from the API request methods provided).
+We do not record other personal data unless these data are improperly entered by UI users or via API requests in data fields that are not intended for personal data.
+==========
+Data processing is carried out for performance of the contract pursuant to Art. 6 (1) b) GDPR and for the purposes of the legitimate interests pursued by us or by third parties pursuant to Art. 6 (1) f) GDPR.
+Personal data collected by us in the context of performance of the contract will be deleted when the contractual relationship ends, unless we have a duty pursuant to Art. 6 (1) c) GDPR to retain the data for a longer period due to retention and documentation obligations under tax law and commercial law (arising from the commercial law code, the criminal law code or the fiscal code) or where you have given your consent to storage for a longer period under Art. 6 (1) a) GDPR.
+2.1.
+==========
+Staff members and/or contacts of our customers
+In connection with our contract we store the personal data of your company’s contacts that you have entered.
+These data include
+
+first name and family name
+telephone number
+address and
+email address.
+The data processing takes place for the performance of a contract pursuant to Art. 6 (1) b) GDPR and to pursue the legitimate interests of ourselves or third parties pursuant to Art. 6 (1) f) GDPR.
+On the duration of storage see section II.2.
+2.2.
+==========
+Staff members and/or contacts of customers of our customers (advertisers, publishers, agencies, portal operations, etc.)
+In order that you can manage your customers and/or distribution partners, communicate with them and issue invoices for them on our platform, in connection with our contract we store the personal data of your customers’ contacts that you have entered.
+These data include
+
+first name and family name
+date of birth
+telephone number
+fax number
+address
+email address
+Skype address
+URL of the website
+billing address
+IBAN or account number and bank sort code and
+tax number and/or VAT ID.
+The data processing takes place for performance of the contract pursuant to Art. 6 (1) b) GDPR and for pursuing the legitimate interests of ourselves or third parties pursuant to Art. 6 (1) f) GDPR.
+On the duration of storage, see section II.2.
+2.3.
+==========
+Google Certification
+In some cases, our tracking technology is used in Google Features such as Ad Words.
+To enable this, Google verified some of the tracking domains our clients use.
+They are listed below:
+DePauli AG
+
+marketing.net.herrenausstatter.de
+
+Kreditech Holding SSL GmbH
+
+net.kredito24.cz
+net.kredito24.es
+net.kredito24.mx
+net.kredito24.ru
+net.monedo.es
+net.monedo.pl
+net.zaimo.cz
+net.zaimo.es
+net.zaimo.ru
+
+Netsales
+
+marketing.net.netsales.es
+
+OCM Internet GmbH
+SuperVista AG
+
+marketing.net.brillen.at
+marketing.net.brillen.de
+marketing.net.gafas.es
+marketing.net.occhiali24.it
+marketing.net.specsfactory.co.uk
+
+ 
+3.
+==========
+If you come in contact with our technology as an end user
+Tracking technology of Ingenious Enterprise platform | User of cookies Under their contract with us, our customers use the tracking technology we have developed to create the connection between a click by you on an advertisement, (or the display of an advertisement (touch point) in your web browser) and an action by you (e.g. a purchase in the online shop or signing up to receive a newsletter).
+At every touch point, your browser sends an HTTP request to Ingenious server which transmits specific information.
+==========
+This information includes the URL of the website where the advertising is placed (referrer URL), the browser identification (user agent) of your end device (including data on the type of device and the operating system), the IP address of the end device (this IP address is anonymised by us prior to storage), HTTP header (data package with various technical data automatically transmitted by your browser), the time of the request and, if already stored on the end device, the cookie and its entire contents.
+A cookie is a small piece of data exchanged between your browser and the server.
+==========
+In it, information relevant to the web application, e.g. the contents of a virtual shopping basket, can be stored and transmitted.
+The tracking technology stores cookies on your end device in order to document actions.
+In the cookie, information on the most recent touch points is stored (i.e. when a specific piece of advertising was displayed or clicked on an end device).
+==========
+A cookie ID created by us is also stored in the cookie.
+Data on the touch points that have occurred and information on your actions are stored with this cookie ID.
+The touch points stored can, where appropriate, be assembled to form a user journey.
+If there is an action-request, the order number and the shopping basket value of your order are usually also transmitted and stored by us.
+==========
+In addition, the following data may be transmitted and saved: your customer ID, new customer attribute, your age and gender and the information you have provided in a customer survey.
+The information transmitted to us and the cookies serve the sole purpose of properly assessing the success of an advertisement and the corresponding invoice.
+This purpose is justified on the ground of our legitimate interests pursuant to Art. 6 (1) f) GDPR.
+==========
+If you do not want cookies to be stored in your browser, you can prevent this by changing the corresponding browser settings.
+Under extras/internet options, you can deactivate the storing of cookies, restrict it to certain websites, or set your browser in such a way that it informs you every time a cookie is sent.
+However, you must be aware that in this case you will have to expect a limited presentation of the online services and limited user guidance.
+==========
+You can also delete cookies at any time.
+In this case, the information deposited there will be removed from your end device.
+==========
+The collecting and processing of tracking data can also be deactivated by clicking on this tracking opt-out link:
+https://<Tracking-Domain>/ts/<Advertiser-ID>/tsv?settrackingoptout
+When there is a click on the tracking opt-out link, a special cookie is written that deactivates tracking in the web browser currently in use on the end device.
+However, tracking will be reactivated if you delete the tracking opt-out cookie.
+The following outline informs you which specific cookies are used by our tracking technology:
+a. Domain: <Tracking domain of the customer> Cookie Name: tsv Purpose: This cookie is written when an advertisement is displayed.
+This cookie contains a cookie ID and a list with information on the most recent view touch points, consisting of time, referrer URL and Admedia code (unique identification of the advertising containing information on distribution channels, publisher, publisher’s website and advertising).
+b. Domain: <Tracking domain of the customer> Cookie Name: tsc Purpose: This cookie is written when there is a click on an advertisement.
+This cookie includes a cookie ID and a list with information on the most recent click touch points, consisting of time, referrer URL, ID of the page in the customer’s shop system and Admedia code (unique identification of the advertising containing information on distribution channels, publisher, publisher’s website and advertising).
+c. Domain: <Tracking domain of the customer> Cookie Name: trackingoptout Purpose: This cookie is written when there is a click on the opt-out link in order to deactivate tracking for the web browser currently being used on this end device.
+III.
+==========
+Google Analytics, special add-ons
+1.
+Google Analytics
+Our website uses Google Analytics, a web analysis service of Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (referred to below as “Google”)).
+==========
+In this connection, pseudonymised use profiles are created and cookies are used.
+The data on your use of this website created by the cookie such as
+
+browser type and version,
+operating system used,
+referrer URL (the page visited before ours),
+host name of the accessing computer (IP address),
+time of the server request
+
+are transmitted to a Google server in the USA and stored there.
+==========
+Google observes the data protection provisions of the “US-Privacy-Shield” and is registered with the “US Privacy Shield” programme of the US Department of Commerce.
+We have also concluded a data processing contract with Google for the use of Google Analytics.
+In this contract Google undertakes to process data in accordance with the General Data Protection Regulation and to ensure that the rights of the persons concerned are protected.
+The data is used to evaluate the use of the website, to compile reports on website activities and to provide additional services connected with use of the website and the internet for the purposes of market research and design of these internet pages in conformity with user preferences.
+The data may also be transferred to third parties where this is required by law or where third parties are contracted to process these data.
+==========
+In no case will your IP address be amalgamated with other Google data.
+The IP addresses are anonymised; hence, assignment to a user is not possible (anonymizeIp).
+You can prevent installation of the cookies by making a corresponding setting in your browser software.
+However, we advise you that in this case you may not be able to use all the functions on this website to the full extent.
+==========
+You can also prevent recording of the data relating to your use of the website (including your IP address) that are created by the cookie, as well as the processing of these data by Google, by downloading and installing a Browser-Add-on.
+As an alternative to the browser add-on, especially in the case of browsers on mobile end devices, you can also prevent data collection by Google Analytics by clicking on this link.
+An opt-out cookie will be installed that prevents recording of your data on future visits to this website.
+The opt-out cookie only works in this browser and for our website and is saved on your device.
+If you delete the cookies in this browser, you will have to re-install the opt-out cookie.
+==========
+You can find further information on data protection in connection with Google Analytics at e.g. Google Analytics Help.
+The tracking measures carried out by Google Analytics are conducted on the basis of Art. 6 (1) f) GDPR.
+==========
+Our aim is to ensure that the design of our website conforms to user preferences and to provide ongoing optimisation of the site.
+We also use Google Analytics to record statistics on the use of our website.
+In addition, we use the data to optimise the presentation of advertising content.
+These interests are legitimate in the meaning of the above-named regulation.
+2.
+==========
+Google Tag Manager
+The tool Google Tag Manager of Google LLC (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (referred to below as “Google”)) is used on our website.
+We use Google Tag Manager to manage the tools on which we provide information in this privacy statement.
+Hence you are requested to read the information about the specific tools for more detail.
+==========
+The Tag Manager tool itself (that implements the tags) is a cookieless domain.
+The tool causes the activation of other tags that in turn may record data.
+Google Tag Manager does not access these data.
+==========
+If a deactivation is carried out at the domain or cookie level, this applies to all tracking tags implemented with Google Tag Manager.
+You will find further information on Google Tag Manager in the guidelines for the use of this product.
+==========
+In addition, we have concluded a data processing contract with Google for the use of Google Tag Manager.
+In this contract Google undertakes to process data in accordance with the General Data Protection Regulation and to ensure that the rights of the persons concerned are protected.
+3.
+==========
+MailChimp
+Provided that you have given your express consent in accordance with Art. 6 (1) a) GDPR, we use your email address to inform you about our work.
+To this end we send you our regular newsletter and other information that we send at irregular intervals.
+After you have signed up for the newsletter, you will receive a registration notice by email which you must confirm in order to receive the newsletter (so-called double opt-in).
+This serves us as evidence that the registration was actually initiated by you.
+==========
+You can unsubscribe at any time, e.g. via a link at the end of each newsletter.
+Alternatively, you are also free to send your unsubscribe request at any time to the email address given in section II (1.2).
+If you revoke your consent to sending of the newsletter, your email address will be deleted immediately.
+==========
+We send our newsletter via the provider The Rocket Science Group LLC d/b/a MailChimp, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 (referred to below as “MailChimp”).
+The email addresses of our newsletter recipients are saved on MailChimp’s servers on our behalf.
+MailChimp uses these data to send and evaluate the newsletter on our behalf.
+==========
+To this end, we have concluded a data processing contract with MailChimp.
+In this contract MailChimp undertakes to process data in accordance with the General Data Protection Regulation and to ensure that the rights of the persons concerned are protected.
+MailChimp gives an assurance that personal data are completely protected against unauthorised access.
+MailChimp itself does not use the data of our newsletter recipients to contact them by mail and does not pass on the data to third parties.
+As a reputable email sender MailChimp is subject to the US/EU Privacy Shield and is also certified by the Certified Senders Alliance.
+You can find further details in MailChimp’s Privacy Policy.
+IV.
+==========
+Duration of storage
+Unless specifically stated we only store personal data for as long as this is necessary for the purposes concerned.
+In some cases, statutory provisions require data to be retained, for example under tax or commercial law.
+In these cases, the data will continue to be stored by us only for these statutory purposes; however, they will not be processed in any way and on expiry of the statutory retention period they will be deleted.
+V. Your rights as the data subject
+Under the applicable law you have certain rights regarding your personal data.
+If you wish to assert these rights, please send your request by email or post to the address in section I, providing unequivocal identification of your person.
+==========
+As the data subject you have the right:
+
+under Art. 7 (3) GDPR to withdraw at any time the consent you have given us.
+The result of this is that in future we may no longer proceed with the data processing that rested on this consent;
+under Art. 15 GDPR to request information on the personal data concerning you that are processed by us.
+In particular, you may request information on the purposes of the processing, the categories of personal data concerned, the categories of recipients to whom the personal data have been or will be disclosed, the envisaged period for which the personal data will be stored, the existence of a right to rectification, erasure, restriction of processing or objection, the existence of a right of complaint, information on the source of your personal data where they were not collected by us, information on the existence of automated decision-making processes including profiling and where applicable meaningful information on the details of such profiling;
+under Art. 16 GDPR to obtain the rectification of incorrect or the completion of incomplete personal data stored by us without undue delay;
+under Art. 17 GDPR to obtain the erasure of your personal data stored by us providing that processing is not necessary for exercising the right of freedom of expression and information, for compliance with a legal obligation, for reasons of public interest or for the establishment, exercise or defence of legal claims;
+under Art. 18 GDPR to obtain restriction of processing of your personal data where you contest the accuracy of the data; or where processing is unlawful and you oppose the erasure of the data; and where we no longer need the personal data but you require them for the establishment, exercise or defence of legal claims; or where you have objected to processing pursuant to Art. 21 GDPR;
+under Art. 20 GDPR the right to receive the personal data you have provided to us in a structured, commonly used and machine-readable format and to transmit the data to another controller and
+under Art. 77 GDPR the right to lodge a complaint with a supervisory authority.
+As a rule, you can apply to the supervisory authority where you have your habitual residence or place of work or where we have our registered office.
+==========
+====================================================== Information on your right to object under Art. 21 GDPR You have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you which is based on point (e) (data processing in the public interest) or (f) (data processing on the basis of a balancing of interests) of Art. 6 (1) GDPR; this also applies to profiling based on those provisions as defined in Art. 4 no 4 GDPR.
+If you submit an objection we shall no longer process your personal data unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms or the processing is necessary for the establishment, exercise or defence of legal claims.
+If your objection is to the processing of data for direct marketing purposes, we shall cease processing immediately.
+In this case it is not necessary for you to assert a particular situation.
+This also applies to profiling to the extent that it is related to such direct marketing.
+If you wish to exercise your right to object, simply send an email to privacy@i19s.com.
+======================================================
+ 
+VI.
+==========
+Disclosure of data to third parties
+If and insofar as we engage third parties in the context of performance of contracts (e.g. service providers) we shall only disclose your personal data to them to the extent that this is necessary for the service in question.
+In the event that we outsource certain aspects of data processing (“contracted data processing”) we obtain a contractual commitment from contracted processors that they will use the data only in accordance with data protection laws and will ensure that the rights of the persons concerned are protected.
+==========
+Except for the cases named in section III, there is no transfer of data to bodies or persons outside the EU and no such transfer is envisaged.
+Apart from the cases of contracted data processing mentioned above, we disclose your personal data to third parties only where:
+
+you have given your express consent pursuant to Art. 6 (1) a) GDPR;
+disclosure of your data to third parties is necessary for performance of a contract with you pursuant to Art. 6 (1) b) GDPR,
+disclosure is necessary for compliance with a legal obligation pursuant to Art. 6 (1) c) GDPR.
+Data that are disclosed may only be used by the third party for the purposes named.
+VII.
+==========
+Data security
+We make the utmost effort to guarantee the security of your data in the frame of the existing data protection legislation and technical possibilities.
+All data you transmit to us personally are transmitted by means of the widely used and secure standard TLS (Transport Layer Security).
+However, please note that data transmission on the internet (e.g. when communicating via email) may not be fully secure.
+You can identify a secure TLS connection inter alia by the additional “s” after “http” (hence: https://.
+.)
+in the address bar of your web browser.
+==========
+Apart from this, we use the appropriate technical and organisational security measures to protect your personal data that we store from manipulation, partial or complete loss, and against unauthorised access by third parties.
+Our security measures are constantly being improved in accordance with technological developments.
+==========
+VIII.
+Current validity and alterations to this privacy statement
+This privacy statement is currently valid as March 2019.
+Due to further development of the website or altered statutory and/or government requirements it may become necessary to alter this privacy statement.
+You can access and print out the privacy statement as currently valid at any time on the website at https://www.ingenioustechnologies.com/privacy-policy.
+Download: Ingenious_Technologies_AG_Privacy_Policy_March2019
+==========

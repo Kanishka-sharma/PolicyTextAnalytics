@@ -1,0 +1,250 @@
+This page sets out the cookies used on our site and how to opt out of or reject cookies.
+For our general privacy policy click here.
+Information about cookies
+What is a cookie?
+A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile device (referred to here as a "device") browser from a website's server and is stored on your device's hard drive.
+Each website or third party service provider used by the website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website or third party service provider to access the cookies it has already sent to you, not the cookies sent to you by other sites or other third party service providers.
+A cookie will contain some anonymous information such as a unique identifier and the site name and some digits and numbers.
+It allows a website to remember things like your preferences or what’s in your shopping basket.
+==========
+What is a browser?
+A browser is an application that allows you to surf the internet.
+The most common browsers are Chrome, Internet Explorer, Firefox and Safari.
+==========
+Most browsers are secure and offer quick and easy ways to delete information like cookies.
+Please see the section below Change your Browser Settings
+What do cookies do?
+Cookies record information about your online preferences and allow us to tailor the websites to your interests.
+Information supplied by cookies can help us to analyse your use of our sites and help us to provide you with a better user experience.
+==========
+For example, you may choose to personalise the content of a website in order to see the latest news and weather for your region.
+In order to do this, a cookie is placed on your device to remember where you live so that we deliver the information that has been requested by you.
+This is a prime example of how cookies are used to improve your experience of a website.
+==========
+Change your Browser Settings
+You can choose how cookies are handled by your device via your browser settings.
+The most popular browsers allow users to a) accept all cookies, b) to notify you when a cookie is issued, or c) to not receive cookies at any time.
+If you choose not to receive cookies at any time, the website may not function properly and certain services will not be provided, spoiling your experience of the website.
+Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.
+Types of Cookie
+First Party Cookies
+First party cookies are set by the website you are visiting and they can only be read by that site.
+Third Party Cookies
+Third party cookies are set by other organisations that we use for different services.
+For example, Lonely Planet uses external analytics services and these suppliers may set cookies on Lonely Planet’s behalf in order to report what’s popular and what’s not.
+==========
+The website you are visiting may also contain content embedded from, for example, YouTube or Flickr and these sites may set their own cookies.
+Session Cookies
+Session Cookies are stored only for the duration of your visit to a website and these are deleted from your device when your browsing session ends.
+Persistent Cookies
+This type of cookie is saved on your device for a fixed period.
+Persistent cookies are used where we need to know who you are for more than one usage session.
+For example, if you have asked us to remember preferences like your location or your username.
+==========
+Flash cookies
+Many websites use Adobe Flash Player to deliver video and game content to their users.
+Adobe utilise their own cookies, which are not manageable through your browser settings but are used by the Flash Player for similar purposes, such as storing preferences or tracking users.
+Flash Cookies work in a different way to web browser cookies; rather than having individual cookies for particular jobs, a website is restricted to storing all data in one cookie.
+You can control how much data, if any, may be stored in that cookie but you cannot choose what type of information is allowed to be stored.
+You can manage which websites can store information in Flash cookies on your device via the website storage settings panel on the Adobe website.
+==========
+Web beacons, clear GIFs, page tags and web bugs
+These are all terms used to describe a particular form of technology implemented by many websites in order to help them to analyse how their site is being used and, in turn, to improve your experience of their site.
+They may also be used to target any advertising being served on the web page you are viewing.
+A web beacon (or similar) usually takes the form of a small, transparent image, which is embedded in a web page or an email.
+They are used in conjunction with cookies and send information such as your IP address, when you viewed the page or email, from what device and your (broad) location.
+How do we use cookies?
+Cookies enable us to identify your device, or you when you have logged in.
+==========
+We use cookies that are strictly necessary to enable you to move around the site or to provide certain basic features.
+We use cookies to enhance the functionality of the website by storing your preferences, for example.
+We also use cookies to help us to improve the performance of our website to provide you with a better user experience.
+Typically, we use cookies to deliver the following services throughout the pages of our websites:
+To enable us to recognise your device so you don't have to give the same information repeatedly;
+To recognise that you may have requested that we remember your username and password so you don't need to enter your details each time you visit the site;
+To ensure that if you are purchasing a product or service via our websites, your experience is smooth and secure;
+To record what people like and don’t like on the website and the popularity of various elements of the website so that we can ensure that it works properly at points of high usage.
+==========
+Lonely Planet also uses a number of independent measurement, advertising and research companies.
+They gather information regarding the visitors to Lonely Planet on our behalf using cookies, log file data and code which is embedded on our website.
+Lonely Planet uses this type of information to help improve the services it provides to its users.
+==========
+Our website contains advertising and all advertising that is served on our website will be clearly marked with the word “Advertisement”.
+Cookies may sometimes be used to deliver advertising and marketing messages relevant to you – a practice across the internet and known as behavioural marketing.
+Please see the section below called: What is Behavioural Marketing?
+What is Behavioural Marketing?
+==========
+Behavioural Marketing technology gives users and advertisers a more valuable and unique experience by delivering advertising and content that is more relevant to the user.
+The system we are using is a type of "onsite behavioural marketing" which uses cookies to discover general information about which pages on our sites you visit.
+It also looks at IP addresses to add general information about the country, city or region in which you are located, along with your domain name (e.g. what internet service provider you use).
+==========
+This information enables you to be grouped with other people of similar interests and places you in a "market segment".
+We may then display advertisements on the site which we believe people in your market segment will find relevant.
+We consider that this makes the advertising more interesting and useful to you, and also helps us increase the value we get out of the site and from our advertisers, and therefore ultimately gives us a greater ability to invest in great content for the benefit of all our users.
+It is important to note that at no time will we or our service providers attempt to identify you individually, and at no time do we know who you are or what pages you individually have been looking at - we simply aggregate the relevant information to create the market segments of groups of people.
+==========
+We will at all times seek to comply with the regulatory framework applicable to onsite behavioural targeting technology in our implementation of it.
+Our "onsite behavioural marketing" functionality is different from other forms of behavioural targeting in that we only look at your journey across our website.
+We do not use or share data with any other websites.
+==========
+Cookies we set on our site
+We use cookies to manage and improve your lonelyplanet.com experience, the following lists the cookies currently in use:
+_tt_ses_id
+This cookie enables the Lonely Planet web server to know your log-in status to enable community features such as the forum, member profiles and private messages.
+lp_luna_session_id
+This cookie enables the Lonely Planet web server to know your log-in status to enable community features such as the forum, member profiles and private messages.
+lp_luna_uuid
+This cookie is used to identify users who have signed in to lonelyplanet.com.
+==========
+lpCurrency & currency
+These cookies are used to present consistent currencies are used when displaying prices for products and services, including; books, ebooks, accommodation, flights, tours and activities.
+localeCookie
+This cookie is contains user locale information; specifically country and language.
+It’s used to when displaying shipping addresses and determining your currency.
+==========
+It expires after 1 year.
+shopCartCookie
+This cookie enables the Lonely Planet web server to manage the items and status of your shopping cart.
+It expires after 2 weeks.
+contact-us_session
+This is a general purpose session management cookie used to manage your experience customer feedback and support services provided on the website.
+It expires after 1 year.
+_homepage_session
+This is a general purpose session management cookie used to manage your experience on the lonelyplanet.com homepage.
+It expires after 1 year.
+_hotels_session
+This is a general purpose session management cookie used to manage your experience when researching and booking accommodation on lonelyplanet.com, this includes using cookies to remember the check-in and check-out dates (so you do not have to enter this in each time you search for properties).
+It expires after 1 year.
+_landing-page_session
+This is a general purpose session management cookie used to manage your experience on a variety of category pages including; Insurance, Flights, Adventure Tours, Car hire and Weather.
+It expires after 1 year.
+_LPkids_session
+This is a general purpose session management cookie used to manage your experience on the www.lonelyplanet.com/kids section of the website.
+It expires after 1 year.
+_need-to-know_session
+This is a general purpose session management cookie used to manage your experience when using the “Essential Information” within the Destinations section of the website.
+It expires after 1 year.
+==========
+notifications
+This cookie enables the Lonely Planet web server to serve notifications for the Thorn Tree travel forums.
+_waldorf_session
+This is a general purpose session management cookie used to manage your experience when using the “Destinations” and “Inspiration” sections of the website.
+It expires after 1 year.
+lp-new-sign-in
+This cookie is used to identify users who have recently signed up for a member account to manage what you see when during the initial account setup stage.
+It expires after 1 year.
+==========
+vanity_id & _v
+These cookies are used to enable multi-variant testing of new features.
+The cookie contains a unique user identifier and the variant of a test a user is currently being exposed to.
+Cookies set on our site by our commercial service providers
+We use a range of third party services on our site - from statistics packages to advertising, video delivery, content delivery and even low level techie functions like load balancing our servers so that they are always available when you want to use them.
+Some of these services require the use of cookies to work properly.
+These services include:
+Statistics
+Adobe
+Adobe Analytics (Site Catalyst) provides anonymous statistical information for us.
+==========
+They process IP addresses and information from other cookies used on our sites so we know how many page views we have, how many users we have, what browsers they are using (so we can target our resources in the right way to maximise compatibility for the majority of our users) and, in some cases, in which country, city or region they are located.
+Specifically, Adobe Analytics uses three cookies per site tracked to accomplish this task.
+Each cookie starts with a similar name, but has a unique ID assigned to it for each site tracked::
+s_cc
+This cookie determines whether cookies are enabled in your browser.
+s_fid
+This cookie is a 'fallback' visitor identifier where the s_vi cookie normally used for this purpose is blocked.
+It contains a randomly generated, unique id.
+==========
+s_sq
+It is stores information about the previous link clicked within the site.
+s_vi
+This cookie is used to identify unique visitors, with an ID and timestamp.
+Google
+Google Analytics provides anonymous statistical information for us.
+They process IP addresses and information from other cookies used on our sites so we know how many page views we have, how many users we have, what browsers they are using (so we can target our resources in the right way to maximise compatibility for the majority of our users) and, in some cases, in which country, city or region they are located.
+_ga
+This cookie is associated with Google Universal Analytics.
+This cookie is used to distinguishes unique users by assigning a randomly generated number as a client identifier.
+It is included in each page request in a site and used to calculate visitor, session and campaign data for the sites analytics reports.
+==========
+It is set to expire after 2 years.
+_gat
+This cookie is associated with Google Universal Analytics, it is used to throttle the request rate - limiting the collection of data on high traffic sites.
+It expires after 10 minutes.
+==========
+Crazy Egg
+_is_returning
+This cookie is used to collect information about how visitors use our site.
+We use the information to compile reports and to help us improve the site.
+The cookies collect information in an anonymous form.
+It is set to expire after 5 years.
+See the Crazy Egg privacy policy for further details:
+http://www.crazyegg.com/privacy
+Opting out of Analytics
+If you would like to opt out of Analytics cookies, you can do so by using the links below:
+Adobe - http://www.adobe.com/privacy/analytics.html#optout
+Google Analytics - https://tools.google.com/dlpage/gaoptout
+CrazyEgg - https://tools.google.com/dlpage/gaoptout
+Web hosting and content delivery
+lpUid
+This cookie is set by Fasty, our content distribution network (CDN) the service is used to speed up your browsing experience by serving web content from a data center closer to your location.
+==========
+AWSELB
+This cookie is used by our web hosting service provider Amazon Web Services, specifically with the Amazon Web Services Elastic Load Balancing functionality for routing client request on the server.
+Other commercial service providers
+sailthru_hid & sailthru_bid
+These cookies are associated with the email service provided by “SailThru”, and are used to manage subscribers of the Lonely Planet email newsletter and to collect information about subscriber activity on the website.
+__atuvc
+This cookie is associated with the “AddThis” social sharing widget which enable you to share content with a range of networking and sharing platforms.
+It stores an updated page share count.
+==========
+BC_BANDWIDTH
+Cookie is associated with the “Brightcove Cloud Video” hosting service.
+It detects bandwidth available to manage progressive download of video to users browser.
+TrackJS and TJS
+These cookies are used when capturing and logging javascript errors.
+The cookies are set to never expire.
+==========
+Advertising
+Some of the advertisers on our site may serve content and advertisements that place or recognize cookies on your browser.
+Ad Serving (onsite behavioural targeting) - AudienceScience Inc. (formerly Revenue Science, Inc.)
+AudienceScience uses cookies to discover general information about the behaviour of users who visit www.lonelyplanet.com and sites owned by our advertising sales agent BBC worldwide.
+It also processes IP addresses to collect other general information in order to place you in a "market segment".
+This includes data about the country, city or region where you are located and your domain name (e.g. what ISP you use).
+It then places advertisements onto "lonelyplanet.com" which it believes people in your market segment will find relevant.
+==========
+If you would like more information about the cookies used by AudienceScience and how to opt out, please see their Privacy Policy at http://audiencescience.com/privacy.asp.
+Information (IP addresses and information in other cookies on our sites) that AudienceScience collects is transferred to them in the United States, and Lonely Planet confirm that AudienceScience satisfies the EU's data protection requirements through its registration with the US Department of Commerce's "safe harbor" framework.
+Data is sometimes shared with AudienceScience's sub-contractors in India who are also required contractually to comply with the EU's data protection requirements.
+==========
+It is important to note that at no time will we or our service providers attempt to identify you individually, and at no time do we know who you are or what pages you individually have been looking at - we simply aggregate the relevant information to create the market segments of groups of people.
+Also, this "onsite behavioural targeting" functionality is different from other forms of behavioural targeting in that we will only look at your journey across the Lonely Planet website and websites owned by BBC Worldwide and we do not use or share data with or from any other sites.
+DoubleClick is a service provider that we use to insert our advertisers' ads into our sites for us.
+Their cookies help them to make the ads more relevant to you (eg if you use our sites from outside Australia, you may get ads from your local country, not from Australia).
+If you would like more information about the cookies used by DoubleClick, please see their privacy policy http://www.doubleclick.com/privacy/index.aspx
+Updating Your Settings
+Advertising Network Bodies
+The table below shows the 3 main associations that represent advertising networks.
+==========
+You can visit their websites to opt out of all cookies served by their members.
+Typically, they will scan your device for a few seconds to see what cookies are currently set and then provide you with the facility to opt out on an individual basis or completely from all cookies.
+The image below provides an illustration of the information that is presented:
+How to opt out of Online Behavioural Advertising
+Body Link to Opt Out
+Internet Advertising Bureau (IAB) YourOnlineChoices
+Network Advertising Initiative (NAI) Network Advertising Opt Out
+The Digital Advertising Alliance DAA Opt Out
+These are the main Ad networks used on Lonely Planet’s website:
+Third Party Ad Servers Link to Opt Out
+Google Double Click Click Here to Opt Out
+Advertising.com Click Here to Opt Out
+Revenue Science Click Here to Opt Out
+Rubicon Project Click Here to Opt Out
+Travel Ad Network Click Here to Opt Out
+If you would like to opt out of Analytics cookies, please do so by clicking on the links below:
+Omniture - http://www.omniture.com/en/privacy/2o7#optout
+Google Analytics - https://tools.google.com/dlpage/gaoptout
+Auditing our Websites
+On a quarterly basis, we conduct an audit of all cookies being used across the website portfolio.
+Please contact the Data Protection team at Lonely Planet if you would like more information on the cookies that we use and their purposes.
+Policy Last Updated: March 2013
+==========

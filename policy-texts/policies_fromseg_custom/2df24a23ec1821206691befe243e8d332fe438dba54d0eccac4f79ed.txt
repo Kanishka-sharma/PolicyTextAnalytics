@@ -1,0 +1,107 @@
+Last updated May 23, 2018
+TABLE OF CONTENTS
+Introduction
+Cookies and Other Tracking Technologies, and How We Use Them
+Use Of Cookies And Tracking Technologies By Our Advertising Partners
+Your Cookie Choices And How To Opt-Out
+Cookies And Tracking Technologies Used On Vox Media’s Site
+Consent
+Definitions
+Contact Us
+Introduction
+Vox Media, Inc. ("our," "we," or "us") maintains voxmedia.com, curbed.com, eater.com, racked.com, polygon.com, SB Nation and Network of Editorial Sports websites, theverge.com, vox.com, recode.net, and related mobile websites, mobile applications ("mobile apps"), services, tools, and other applications (collectively, the "Site").
+We, along with our advertising partners and vendors use a variety of technologies to learn more about how people use our Site.
+You can find out more about these technologies and how to control them in the information below.
+This policy forms part of the Vox Media Privacy Policy available here.
+==========
+Cookies And Other Tracking Technologies, And How We Use Them
+Like many companies, we use Cookies and other Tracking Technologies on our Site (collectively "Cookies", unless otherwise stated) including HTTP cookies, HTML5 and Flash local storage, web beacons/GIFs, embedded scripts and e-tags/cache browsers as defined below.
+We use Cookies for a variety of purposes and to enhance your online experience, for example, by remembering your log-in status and viewing preferences from a previous use of an online service, for when you later return to that online service.
+In particular, our Site uses the following categories of Cookies, as described in Section 2 of our Privacy Policy:
+Your use of our Site indicates your consent to such use of Cookies.
+For further information about our use of Cookies and your opt-out choices, see Your Cookie Choices And How To Opt-Out.
+See here for examples of each type of cookie used on our Site.
+Use Of Cookies And Tracking Technologies By Our Advertising Partners
+The advertising networks and/or content providers that deliver ads on our Site use cookies to uniquely distinguish your web browser and keep track of information relating to serving ads on your web browser, such as the type of ads shown and the web pages on which the ads appeared.
+Many of these companies combine information they collect from our Site with other information they have independently collected relating to your web browser's activities across their network of websites.
+These companies collect and use this information under their own privacy policies.
+These companies, their privacy policies and the opt-outs they offer can be found in the table below [hyperlink to table of cookies and tracking technologies]:
+You can also opt-out of additional third-party advertising networks by going to the Network Advertising Initiative's Website at http://www.networkadvertising.org/managing/opt_out.asp and following the directions there.
+==========
+We are not responsible for the effectiveness of any such opt-out options.
+California residents are be entitled to know the effects of opt-out options under California Business & Professions Code Section 22575(b)(7).
+The effect of an opt-out, if successful, will be to stop targeted advertising, but it will still allow the collection of usage data for certain purposes (e.g., research, analytics and internal Site operation purposes).
+==========
+Your Cookie Choices And How To Opt-Out
+You have the choice whether to accept the use of Cookies and we have explained how you can exercise your rights below.
+Most browsers are initially set up to accept HTTP cookies.
+The "help" feature of the menu bar on most browsers will tell you how to stop accepting new cookies, how to receive notification of new cookies, and how to disable existing cookies.
+For more information about HTTP cookies and how to disable them, you can consult the information at http://www.allaboutcookies.org/manage-cookies.
+==========
+We are not responsible for the effectiveness of any such opt-out options.
+California residents are entitled to know the effects of opt-out options under California Business & Professions Code Section 22575(b)(7).
+The effect of an opt-out, if successful, will be to stop targeted advertising, but it will still allow the collection of usage data for certain purposes (e.g., research, analytics and internal Site operation purposes).
+==========
+Controlling the HTML5 local storage on your browser depends on which browser you use.
+For more information regarding your specific browser, please consult the browser’s website (often in the "Help" section).
+Please note, however, that without HTTP cookies and HTML5 and Flash local storage, you may not be able to take full advantage of all our Site features and parts of the Site will not function properly.
+Please note that rejecting Cookies does not mean that you will no longer see ads when you visit our Site.
+The following table sets out details of the individual cookies we use and the purposes for which we use them.
+We provide the table below as a courtesy, but we are not obligated to maintain or update it.
+==========
+We are not responsible for third-party sites and their privacy practices as it relates to opt-outs from tracking activities.
+The following third-parties that collect information from you on our Site have given us notice that you can obtain information on their policies and practices, and in some instances opt-out of certain of their activities, as follows:
+Consent
+If you do not opt out, as provided in the Your Cookie Choices And How To Opt-Out section above, you expressly consent to the collection, use, and sharing of your personal data by us and the third parties listed above, subject to their privacy policies, preferences, and opt-outs available through the links set forth above.
+Not in limitation of the foregoing, you expressly consent to the use of Cookies or other local storage and the collection, use, and sharing of your personal data by us and each Google entity identified in the Cookies and Tracking Technologies Used On Vox Media’s Site section above.
+You can revoke your consent at any time by following the procedures set forth in the "Your Cookie Choices And How To Opt-Out" section above.
+==========
+Definitions
+Cookies
+A cookie (sometimes referred to as local storage object or LSO) is a data file placed on a device.
+Cookies can be created through a variety of web-related protocols and technologies, such as HTTP (sometimes referred to as "browser cookies"), HTML5, or Adobe Flash.
+For more information on third-party cookies that we use for analytics, please review the table of cookies and tracking technologies within this Cookies and Tracking Technologies Policy.
+==========
+Web Beacons
+Small graphic images or other web programming code called web beacons (also known as "1×1 GIFs" or "clear GIFs") can be included in our online service’s pages and messages.
+Web beacons are invisible to you, but any electronic image or other web programming code inserted into a page or e-mail can act as a web beacon.
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies.
+In contrast to HTTP cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence.
+==========
+Deterministic Finger-printing Technologies
+If a user can be positively identified across multiple devices, for instance, because the user has logged into a platform such as Google, Facebook, Yahoo or Twitter, it can be "determined" who the user is for purposes of improving customer service.
+Probabilistic Finger-printing
+Probabilistic tracking depends upon collecting non-personal data regarding device attributes like operating system, device make and model, IP addresses, ad requests and location data, and making statistical inferences to link multiple devices to a single user.
+Note that this is accomplished through proprietary algorithms owned by the companies performing probabilistic finger-printing.
+Note also that in the EU IP Addresses are personal information.
+Device Graph
+Device graphs can be created by combining non-personal data regarding use of smartphones and other devices with personal log-in information to track interactions with content across multiple devices.
+==========
+"Unique Identifier Header (UIDH) is the address information that accompanies Internet (http) requests transmitted over an ISP’s wireless network.
+For example, when a customer types on his or her phone the web address of a retailer that request travels over the network and is delivered to the retailer's website.
+The information included in that request includes things like the device type and screen size so that the retailer site knows how to best display the site on the phone.
+==========
+The UIDH is included in this information, and can be used as an anonymous way for advertisers to be able to determine that the user is part of a group that a third-party advertiser is attempting to reach.
+It is important to note that the UIDH is a temporary, anonymous identifier included with unencrypted web traffic.
+We change the UIDH on a regular basis to protect the privacy of our customers.
+We do not use the UIDH to collect web browsing information and it does not broadcast individuals' web browsing activity out to advertisers or others."
+Embedded Script
+An embedded script is programming code that is designed to collect information about your interactions with the online service, such as the links you click on.
+The code is temporarily downloaded onto your device from our web server or a third-party service provider, is active only while you are connected to the online service, and is deactivated or deleted thereafter.
+==========
+ETag, or Entity Tag
+A feature of the cache in browsers, an ETag is an opaque identifier assigned by a web server to a specific version of a resource found at a URL.
+If the resource content at that URL ever changes, a new and different ETag is assigned.
+Used in this manner ETags are a form of device identifier.
+ETag tracking generates unique tracking values even where the consumer blocks HTTP, Flash, and/or HTML5 cookies.
+Unique Device Tokens
+For each user that accepts push notifications in mobile apps, the app developer is provided with a unique device token (think of it as an address) from the app platform (e.g., Apple and Google).
+Unique Device ID
+The unique series of numbers and letters assigned to your device
+For any queries in relation to this Cookies and Tracking Technologies Policy, please contact us at VMprivacy@voxmedia.com.
+You can also contact us using the following information:
+Vox Media, Inc.
+1201 Connecticut Ave., 11th FL., NW
+Washington, DC 20036 USA.
+For inquiries from outside of the U.S. please contact us at VMprivacy@voxmedia.com.
+==========

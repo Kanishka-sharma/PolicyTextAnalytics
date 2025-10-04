@@ -1,0 +1,165 @@
+Privacy Q & A
+
+Q: Why did StartPage decide to take leap steps in June 2006 and in January 2009?
+Beyond striving to offer our users the best Web search results possible, we also feel strongly about safeguarding their privacy.
+With other search engines, millions of law abiding citizens world wide expose themselves to serious invasions of privacy while performing innocuous searches across the internet.We feel the right to privacy is a very important right, worth defending.These were the principles that guided StartPage's decision in June 2006 when we started our privacy initiative.
+Our determination to offer our users the best possible privacy search engine has only increased ever since.
+==========
+That’s why we are pleased we were able to stop recording IP addresses altogether in January 2009.
+Q: Had StartPage ever data mined its search data for commercial use before 2006?
+In its history before June 2006, StartPage had never used IP addresses and Unique ID cookies for anything other than tracking its own statistics and improving our site's performance.
+Unlike most of our competitors, we are an independent company and unable to combine user data with other services we offer.
+==========
+As such, these records had no commercial value to us.
+Since June 2006, and especially after January 2009 there is nothing to mine.Q: What is StartPage's policy now with regard to IP addresses and the use of ID cookies?IP addresses: StartPage does not record the IP addresses of our legitimate users.Cookies: StartPage abolished the use of Unique ID cookies as of June 6th, 2006.
+==========
+StartPage only uses one anonymous cookie that is used to remember the search preferences you saved for your next visit.
+For those who prefer a "cookie-free" operation StartPage offers the URL-generator.
+==========
+Q: Why is it so important not to store IP address or User ID cookie?
+People can either have a static IP address or a dynamic IP address that changes from day to day.
+If they have a static IP address, one can reconstruct their search history with just that IP address.
+If they have a dynamic IP address one can reconstruct their search history for today but not for yesterday.
+The user's ISP, however, can provide the missing link between the various IP addresses.
+The Unique user ID can also be used to tie the different IP addresses together.
+So the IP address is unique to the specific computer or router, but may change from day to day.
+==========
+The User ID is unique for one specific search engine or website.The combination of the both delivers extensive possibilities to track users' behavior, especially for internet conglomerates with multiple services where the users information can be combined.
+Tracking within a site is typically done with the aim of producing usage statistics, while tracking across sites with so-called third party cookies, is typically done by advertising companies to produce anonymous user profiles.
+These profiles are then used to target advertising (deciding which advertising image to show) based on the user's profile.
+But advertising companies are just one of many groups that may take an interest in user profiles.
+==========
+StartPage deletes both the IP address and the User ID cookie.
+StartPage does not record IP addresses or use Unique ID cookies.
+Q: It is great StartPage does not store my IP address, but what about any third parties?
+StartPage does not share your personal information with any third party including other search engines and the provider of its sponsored results.
+Q: How does StartPage make money if it doesn't store or sell my personal data?
+StartPage shows a limited amount of relevant sponsored results on the top and the bottom of the results page.Each time these sponsored results are clicked upon StartPage receives a minimal fee from the advertiser.
+Q: I am getting personalized or localized ads while I am using Startpage.com.
+How is this possible?Whenever you search with StartPage, your SEARCH is not recorded, your IP ADDRESS is not recorded, your IDENTITY is not recorded, no TRACKING COOKIES are placed on your browser, and our SSL ENCRYPTION ensures that your ISP or hackers can't eavesdrop.
+==========
+You are never seen by any of the search engines we query, including Google, even though you receive authentic Google results through Startpage.That protection applies 100% to your SEARCHES.
+However, when you CLICK on a search result, whether you got it from us, Bing, Yahoo, or any other search engine, you LEAVE the search engine that gave you the link and go SOMEWHERE ELSE.Wherever you go, once you leave StartPage, you can be seen, recorded, and tracked by the website you are going to, plus by all of its advertising and marketing and tracking partners and affiliates.
+To avoid this, you can use the StartPage Proxy which allows you to visit third-party websites THROUGH StartPage without anyone, including the website and its partners, seeing you.To learn more about the StartPage proxy and how it works, please watch our short instructional video here:
+Q: How can I be sure StartPage fulfills its promises?
+==========
+Our Privacy Policy is routinely being confirmed by Europrise, the European Privacy Seal.
+This is an independent organization that is backed by its partners, the European Data Protection Authorities.
+For more information on the Europrise Seal please click here.
+==========
+Q: What are "cookies" and does StartPage use any?A cookie is a small piece of data that is sent and saved to your computers' hard drive when visiting a site.
+StartPage uses only one cookie called "preferences".
+This cookie is to remember the search preferences you saved for your next visit.
+It expires after not visiting StartPage for 90 days and is anonymous.Q: How can Google install a Google cookie in my browser when I never use Google?This has nothing to do with StartPage.
+A Google cookie called 'PREF' can be set when you use Firefox or Chrome as your browser, regardless of whether you visit google.com or any other site.
+==========
+There is a technical reason why this happens.
+More information can be found here.
+==========
+One way to prevent this is to disable or limit the use of cookies.
+This is something StartPage recommends from a privacy perspective.
+For Firefox, go to 'Preferences' -> 'Privacy', for Chrome, go to 'Options' -> 'Under the Hood', and disable the cookies.Q: How does StartPage make use of the limited logfiles it does keep?As a privacy search engine we do not log users' IP addresses.
+Nor do we log the search queries itself.
+But in order to offer our users the best product possible we do keep data on performance (speed) for maintenance purposes and general statistics like language or category usage.
+Q: So, StartPage uses Google Web results.
+Is my privacy still protected?
+==========
+Completely.
+StartPage works under the same strict privacy policy as Ixquick; we don't store any personal data (like your IP address) and don't pass on any of this data to third parties, including Google.
+This way you will get Web results from the most popular search engine with the privacy protection from the world's most private search engine Ixquick.com.So while you can continue to get the search results you have grown accustomed to, you don't have to worry about your privacy anymore!
+Q: What is the recently added "StartPage Proxy" service all about?
+The "StartPage Proxy" extends the great privacy protections you get from our search engine to cover your browsing activities too.
+==========
+Our proxy lets you browse third-party websites safely and anonymously, without passing on any private, personally identifiable information.
+It means you can now surf the web as anonymously as you can search with StartPage.
+==========
+Q: How does it work?
+The proxy allows you to view third-party web pages loaded through StartPage's servers.
+Details on how it works can be found on the "StartPage Proxy Explained" page.
+Q: Will the proxy work with Javascript selected off?
+Yes, the proxy will work fine, although some messages will not appear anymore.
+==========
+Q: How has the proxy improved StartPage's position in the search industry?
+StartPage leads the search industry on privacy issues, and we are always looking for innovative ways to protect our users.
+==========
+We were the first and only search engine to provide certified anonymous searching and encrypted (SSL) connections, and now we are the only search engine to offer anonymous proxy browsing.
+Proxy surfing is just one more way we are earning our reputation as "The World's Most Private Search Engine".
+==========
+Q: What other measures has StartPage taken to protect my Privacy?
+Contrary to other search engines StartPage uses the so-called POST method (instead of the GET method) to keep your search terms out of the logs of webmasters of sites that you reach from our results.
+Search terms tell a lot about what you are thinking, which is why this is a privacy issue.
+With the POST method StartPage uses, your search terms are stripped off.
+==========
+This can cause "Web page has expired" messages and prevents from creating shortcuts of results-pages.
+To create shortcuts you can use the "Bookmark this search" button on the right of the results page.
+==========
+Alternatively you can switch off "Use POST vs GET" completely in the settings.
+Q: Does StartPage support SSL (HTTPS)?
+By default the StartPage servers have been configured to work with HTTPS.
+==========
+They convert any regular HTTP request to an HTTPS request because it works over secure and encrypted Secure Socket Layer (SSL) connections and thus better protects the privacy of our users.
+SSL is an encryption protocol that is available in almost all browsers.
+It establishes a secure connection between your browser and StartPage's servers.
+StartPage recommends using SSL to hide your search terms from anyone who might be monitoring traffic between your browser and StartPage's servers.
+==========
+(The only drawback of using SSL is a slightly longer processing time.)
+If you prefer to use HTTP instead, you can change this in Settings by disabling SSL.
+==========
+Q: Where are StartPage's servers located?
+StartPage has server clusters in the Netherlands and the United States.
+StartPage typically routes European searches to the European servers, American searches to the U.S. servers, and searches from other countries to the closest location.
+==========
+On the rare occasion that there is a problem in one facility, searches are briefly handled by the other facilty.
+Q: How can I learn more about the privacy issues with other search engines?
+Search engines are frequently silent on their efforts to use and combine data.
+==========
+Their privacy policies may provide some guidance as to their intentions.
+So the best to do is look for the privacy policies.
+==========
+StartPage's privacy policy is crystal clear, and can be found here.
+Q: Why are other search engines not yet following StartPage's lead?
+==========
+After the AOL story some search engines quickly commented they will not give up recording the privacy data of its users.StartPage's competitors are generally very large and often publicly owned search engines.Such a large share of these company's valuations is based on their ability to mine data from their users, they cannot afford to give the practice up.
+Commercial pressures to increase effectiveness of advertising and other commercial services, and the profit opportunities that arise by combining data collected across multiple services will ultimately drive these companies to make even greater impositions on your privacy.
+==========
+Even though lately announcements have been made by Yahoo, Google and MSN to lower data retention time, their true intentions can be questioned.
+The way in which IP addresses are made “anonymous” and the ability to continue to combine search data through the use of ID cookies and logins make these promises far less positive than they seem.
+==========
+Read more here.
+Q: Where can I find more background information on these privacy issues?
+Q: What is StartPage's view for the near future when it comes to search engine privacy?
+We see an increasing threat to online privacy in general and search engine users' privacy in particular.
+Ad networks, search engines and government agencies have all stepped up their efforts to exploit private search data.
+==========
+Positive is that consumer awareness is also slowly but surely rising.
+The resulting political pressure (especially in the EU) may help to force the larger search engines to change their privacy policies for the better.
+==========
+There is only one real solution to this problem: not storing or quickly deleting the data.
+Only then is data safe from future privacy breaches.The revelations of "Edward Snowden" have lead to a tsunami of news about surveillance programs used by intelligence agencies and increased consumer concerns and awareness on privacy.StartPage will wholeheartedly continue on its mission to offer you great search results in the best possible privacy!Q: What does the US government's mass Internet surveillance program "PRISM" mean for StartPage?
+==========
+In June of 2013, the Washington Post and The Guardian have revealed a US government mass Internet surveillance program code-named 'PRISM'.
+They report that the NSA and the FBI have been tapping directly into the servers of nine US service providers, including Facebook, Microsoft, Google, Apple, Yahoo, YouTube, AOL and Skype, and began this surveillance program at least seven years ago.
+(clarifying slides)These revelations are shaking up an international debate.StartPage has always been very outspoken when it comes to protecting people's Privacy and civil liberties.
+==========
+So it won't surprise you that we are a strong opponent of overreaching, unaccountable spy programs like PRISM.
+In the past, even government surveillance programs that were begun with good intentions have become tools for abuse, for example tracking civil rights and anti-war protesters.Programs like PRISM undermine our Privacy, disrupt faith in governments, and are a danger to the free Internet.StartPage and its sister search engine StartPage have in their 14-year history never provided a single byte of user data to the US government, or any other government or agency.
+Not under PRISM, nor under any other program in the US, nor under any program anywhere in the world.Here's how we are different:StartPage does not store any user data.
+We make this perfectly clear to everyone, including any governmental agencies.
+We do not record the IP addresses of our users and we don't use tracking cookies, so there is literally no data about you on our servers to access.
+Since we don't even know who our customers are, we can't share anything with Big Brother.
+In fact, we've never gotten even a single request from a governmental authority to supply user data in the fourteen years we've been in business.StartPage uses encryption (HTTPS) by default.
+==========
+Encryption prevents snooping.
+Your searches are encrypted, so others can't "tap" the Internet connection to snoop what you're searching for.
+This combination of not storing data together with using strong encryption for the connections is key in protecting your Privacy.Our company is based in The Netherlands, Europe.
+==========
+US jurisdiction does not apply to us, at least not directly.
+Any request or demand from ANY government (including the US) to deliver user data, will be thoroughly checked by our lawyers, and we will not comply unless the law which actually applies to us would undeniably require it from us.
+And even in that hypothetical situation, we refer to our first point; we don't even have any user data to give.
+==========
+We will never cooperate with voluntary spying programs like PRISM.StartPage cannot be forced to start spying.
+Given the strong protection of the Right to Privacy in Europe, European governments cannot just start forcing service providers like us to implement a blanket spying program on their users.
+==========
+And if that ever changed, we would fight this to the end.Privacy.
+It's not just our Policy - it's our Mission!
+==========

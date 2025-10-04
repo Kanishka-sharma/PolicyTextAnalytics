@@ -1,0 +1,69 @@
+This AUP is incorporated by reference in your Terms of Service with Genius Incorporated (“Genius”) and your service may be suspended or terminated for violation of this AUP in accordance with the Terms of Service.
+Inquiries regarding this policy should be directed to Genius at support@genius.com.
+The term “you” below refers collectively to Customer and all persons who use the Service under Customer's account.
+Capitalized terms used but not defined in this AUP have the definitions provided in the Terms of Service.
+==========
+Internet Abuse
+You may not use the Service or Genius's (or its service provider's) network to engage in, foster, or promote illegal, harassing or offensive activities, including:
+Monitoring data or traffic on any network or system without the express authorization of the owner of the system or network;
+Use of an Internet account, e-mail address or computer without the owner's authorization, including, but not limited to Internet scamming (tricking other people into releasing their passwords), phishing, and security hole scanning;
+Forging of any TCP-IP packet header or any part of the header information in an Email Invitation;
+Use of the Service to distribute software that covertly gathers information about a user or covertly transmits information about the user;
+Use of the Service for distribution of advertisement delivery software unless: (i) the user affirmatively consents to the download and installation of such software based on a clear and conspicuous notice of the nature of the software, and (ii) the software is easily removable by use of standard tools for such purpose included on major operating systems; (such as Microsoft's “ad/remove” tool);
+Use the Service in violation of applicable laws or to foster or promote illegal activities, or activities which may compromise national security or interfere with law enforcement investigation; or
+Any conduct that is likely to result in retaliation against Genius, the Service, or Site, or Genius's employees, agents, customers or service providers, including engaging in behavior that results in any server being the target of a denial of service attack (DoS).
+Further, you shall not attempt to: (i) gain unauthorized access to or use of the Service or Genius's or third party's data, systems or networks; or (ii) interfere or disrupt the integrity or performance of the Service or the data hosted by the Service.
+Security
+You must take reasonable security precautions in light of your use of the Service.
+You are solely responsible for any breaches of security affecting your network or the servers under your control.
+You must protect the confidentiality of your password(s).
+You are encouraged to change your password(s) periodically, which you may do by accessing the Preferences portion of the Site.
+You should notify Genius via email at support@genius.com immediately of any unauthorized use of your password or other security breach affecting the Service.
+==========
+Bulk or Commercial E-Mail
+You must comply with all laws and regulations applicable to bulk or commercial e-mail with respect to your use of the Service, including without limitation the CAN-SPAM Act of 2003.
+In addition, you may not send any Unsolicited Email by use or means of the Service.
+“Unsolicited Email” is any electronic communication sent to persons other than: (i) persons with whom you have an existing business relationship, OR (ii) persons who have consented to the receipt of such e-mail, including publishing or providing their e-mail address in a manner from which consent to receive e-mail of the type transmitted may be reasonably implied.
+No E-mail Invitations you send through the Service may be Unsolicited Email.
+At Genius's request as needed to respond to an e-mail related complaint, you will promptly provide to Genius information you have available documenting the business relationship or consent of the complainant, and will otherwise reasonably cooperate with Genius in responding to such complaints and mitigating the effect on the Service or Genius's (or its service provider's) network.
+You must have procedures in place to allow a Prospect to easily revoke its consent to receiving Email Invitations, such as an opt-out link in the body of the e-mail, or instructions to reply with the word “Remove” in the subject line.
+Any such revocations of consent should be honored within 72 hours.
+In addition:
+Your company must have a Privacy Policy posted for each domain associated with the Email Invitation;
+Your company must have the means to track anonymous complaints; and
+You may not obscure the source of your Email Invitations in any manner.
+Your e-mail must include the recipients e-mail address in the body of the message or in the “TO” line of the e-mail.
+These policies apply to messages sent using the Service, including Email Invitations sent through Microsoft Outlook by use of the downloaded plug-in of the Service.
+Genius may test and otherwise monitor your compliance with its requirements, and may block the transmission of e-mail that violates these provisions.
+==========
+Offensive Content
+In using the Service, you agree that you will not, and you are not permitted to:
+Transmit or store any content or material that is infringing, obscene, threatening, libelous, defamatory, tortious or otherwise harmful to third parties, including but not limited to content or material harmful to children or which violates third party privacy or proprietary rights;
+Transmit or store content or material containing software viruses, worms, Trojan horses or other harmful computer code, files, scripts, agents or programs of any kind; or
+Engage in practices that are considered to be unfair or deceptive under the consumer protection laws of any jurisdiction, including chain letters and pyramid schemes, or impersonates any person or entity, or falsely stating or otherwise misrepresenting your affiliation with a person or entity; or
+Otherwise engage in malicious, fraudulent, objectionable or offensive activities or activities which may result in retaliation against Genius, Genius's employees, agents, customers or service providers.
+Copyrighted Material
+You may not use Service, Site or Genius's (or its service provider's) network or equipment to publish, distribute, or otherwise copy in any manner any work protected by copyright law unless:
+you have been expressly authorized by the owner of the copyright for the work to copy the work in that manner; or
+you are otherwise permitted by established United States copyright law to copy the work in that manner.
+Genius may terminate the service of repeat copyright infringers.
+==========
+Cooperation with Investigations and Legal Proceedings.
+Genius may, without notice to you:
+report to the appropriate authorities any conduct by you that it believes violates applicable criminal law, and
+provide any information it has about you in response to a formal or informal request from a law enforcement or government agency, or in response to a formal request in a civil action that on its face meets the requirements for such a request.
+Consequences of Violation of AUP
+Genius may without notice to you, suspend your account or remove any content transmitted via the Service if Genius discovers facts that lead it to reasonably believe you are in violation of this AUP, or if your account is being used in violation of this AUP.
+You must cooperate with Genius's reasonable investigation of any suspected violation of the AUP.
+Genius will attempt to contact you prior to suspension of network access to your server(s), however, prior notification is not assured.
+==========
+You are strictly responsible for the use of the Service by you or by means of your account in violation of this AUP, including use by your customers and agents, and including unauthorized use (but not including unauthorized use that results from Genius's material failure to perform its obligations under the Terms of Service).
+Genius will charge you its hourly rate for AUP breach recovery (currently $250.00) plus the cost of equipment and material needed to (i) investigate or otherwise respond to any suspected violation of this AUP, (ii) remedy any harm caused to Genius, its service provider or any of its customers by your violation of this AUP or the use of your account in violation of this AUP, (iii) respond to complaints, including complaints under the Digital Millennium Copyright Act, (iv) respond to subpoenas and other third party requests for information as described in the Terms of Service, and (v) have Genius's (or its service provider's) Internet Protocol numbers removed from any “blacklist” such as SPEWs or other abuse databases.
+No credit will be available under Terms of Service for interruptions of service resulting from AUP violations.
+Amendments to AUP
+The Internet is still evolving, and the ways in which the Internet may be abused are also still evolving.
+Therefore, we may from time to time amend this AUP in accordance with the Terms of Service to further detail or describe reasonable restrictions on your use of our services.
+Disclaimer
+Genius is under no duty, and does not by this AUP undertake a duty, to monitor or police our customers' activities and disclaims any responsibility for any misuse of the Service, Site or the Genius (or its service provider) network.
+Genius disclaims any obligation to any person who has not entered into an agreement with Genius for services.
+==========

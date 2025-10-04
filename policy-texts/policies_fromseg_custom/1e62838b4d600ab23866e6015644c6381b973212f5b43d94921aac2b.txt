@@ -1,0 +1,159 @@
+Livewrapped AB
+Org.
+No. 559101-1969, 
+Göteborg, 
+SWEDEN
+privacy@livewrapped.com
+Who are we?
+==========
+Livewrapped (“Livewrapped”, “our”, “us”, “we”) connects sellers of ad inventory, such as publishers (“clients”) with buyers by utilizing so called “header bidding” technology on our platform (*Platform”).
+We are an independent, publisher-focused Platform that help our clients monetize their websites so that they can continue offering users (“you”, “your”) content.
+Our Platform acts as a middle man between buyers and you as a user of our clients’ services.
+==========
+As such, we provide a link between you and the buyer's data about you.
+The data that we store about you can only be connected to you by the buyer and not by Livewrapped.
+The information is personal data to you and the buyer but not to us.
+==========
+If you have any questions regarding privacy, you can contact us at privacy@livewrapped.com.
+You can also contact our clients directly.
+==========
+The purpose of this Privacy Policy is to explain what data we gather, for which purposes, how we use that data and what we do to protect it.
+This policy provides details about choices you can make with regards to how we gather and use data about you.
+==========
+For our clients
+We are the controller of certain personal data in relation to you as a representative for one of our clients, and will also use cookies in order to provide access to the Platform.
+The terms for our processing of such personal data and use of cookies can be found under the header Client Privacy Policy below.
+How do we collect data?
+Livewrapped uses technologies like cookies, tags, and mobile SDKs to collect the data and store it on your device.
+Cookies are small text files that contain a string of characters, stored in the user’s device.
+==========
+They allow us to recognize and remember your browser.
+The Livewrapped tag is a small piece of code that is inserted into a client’s website source code, which allows our clients to have access to and manage our Platform.
+An SDK, or Software Development Kit, is the software used by our clients to integrate our Platform in their mobile application (iOS and Android).
+==========
+What data do we process?
+We process the following type of data.
+Request Data: IE data about the device and browser that we forward to the buyers, but do not store, namely:
+−       IP address;
+−       cookie information, for example your unique browser ID;
+−       technical information about your device: browser, operating system, screen size;
+−       information about the geographic location of your device when it accesses a website or app;
+−       pseudonymous ID of audience segmentation (if such technology is used on websites you visit);
+−       information about other identifiers assigned to the device (IDFA, AAID);
+−       information on what page you are currently visiting.
+==========
+Cookies: IE small pieces of text information that we place and read in the browser, used to assist the buyers to recognize your browser and to keep track of how many times your browser has been exposed to an ad.
+We also use a cookie if you have chosen to opt out of cookies, see more below under the header Opt-out and Withdrawal of Consent for Cookies.
+==========
+We do not collect any data that we can use to directly identify you.
+For which purposes and on which legal grounds do we process the data on behalf of our clients?
+Purposes
+Livewrapped does not receive, collect or process data about you as an end user unless it is used for the following purposes:
+to perform our services to our clients, including providing, operating, managing and maintaining our Platform;
+to report aggregated statistics 
+Legal Grounds
+We mainly act as a data processor, meaning that we process data on behalf of a client, who acts as data controller, based on their instructions.
+==========
+The legal ground for processing may be
+user consent, if required; or
+the client’s legitimate interests to
+offer a real time advertising request to potential buyers
+to provide buyers with pseudoanonomynous IDs to assist them in recognizing users they have seen before.
+decide which buyer and creative wins an auction to purchase advertising inventory;
+optimize the real-time purchase and sale of advertising inventory.
+==========
+Our clients are accountable for the establishment of an appropriate legal basis for the processing of the data.
+You can find this information in their privacy policies available on their websites.
+For which purposes and on which legal grounds do we process data as controllers?
+We process data as controllers in order to secure, amend, enhance and improve the Platform.
+The legal basis for this processing is that it is necessary for the purpose of a legitimate interest which is not overridden by your interests, rights or freedoms.
+Our legitimate interest to secure, amend, enhance and improve the Platform overrides your potential interest in protecting your personal privacy.
+==========
+To whom do we provide the data?
+Who can have access to your data?
+We mainly process data on behalf on our clients and are therefore processor for such data.
+==========
+You can read more about our clients’ data processing on their websites.
+We share data on our client’s instructions with buyers who in turn can connect the data with personal data about you.
+The buyers are responsible for the handling of personal data that they have about you.
+==========
+We can also share data with sub-processors and other trusted third parties that provide services for Livewrapped, such as hosting and internet connectivity.
+We may also share data for which we are controllers with trusted business partners in order to secure, amend, enhance and improve the Platform.
+In addition to what is stated above we may disclose data if:
+we are required by national or international law or legislation to do so;
+we must comply with an authorized request or demand;
+it is necessary in order to defend our own rights or interests.
+Finally, we may transfer your data to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+==========
+How long do we store the data?
+The data we use to provide our Platform is stored for 30 days after we have received it.
+Your rights
+We mainly process data on behalf of our clients.
+In most cases, it may be appropriate for you to exercise your rights on the website of our client.
+When we are operating as a data controller, you can exercise your rights directly to us, see below under the header Client Privacy Policy.
+==========
+Transfer of data outside of the European Union
+We may transfer data to a partner located in a country outside of the EU and EEA, either directly or via onward transfer.
+In order to make certain that your data has an adequate level of protection (as described in the GDPR) we have either signed Standard Contractual Clauses adopted by the European Commission with such actors, made certain that such actors have Binding Corporate Rules for Processors or an alternative recognised compliance standard for the lawful transfer of personal data (as defined by the GDPR).
+==========
+You can find more detailed information here https://d1.awsstatic.com/legal/aws-gdpr/AWS_GDPR_DPA.pdf.
+Opt-out and withdrawing of consent to cookies
+For the sake of transparency, Livewrapped has adopted a cookie opt-out policy, allowing each Internet user to opt out from our Platform.
+==========
+This ensures that your browser will no longer be identified by our Platform.
+Please note that for us to acknowledge your desire to opt-out, one cookie will be placed on your device in order to ensure the performance of your opt-out.
+Moreover, this opt-out will only be available for the device on which it was created and for as long as the opt-out cookie is installed on the device and has not been removed by you or your browser.
+If you wish to opt-out, [click here].
+A page will open, confirming the opt-out process has been completed and we will no longer place cookies on your computer.
+You can also avoid cookies being placed on your computer by disabling the function for cookies in your web browser settings.
+If you do not permit cookies, some features on the sites you are visiting may not function as intended.
+==========
+Amendment of this Privacy Policy
+We may amend this Privacy Policy at any time.
+Please check this page for any updates.
+==========
+Client Privacy Policy
+When you as a representative for a client contact us, we will process the personal data you have provided us with as a controller.
+Personal data that you provide us with and which we process may, for example, consist of first and last name, title or role, company, address, email address, telephone number and status of your relationship with us.
+By using the Platform you further have to consent to the use of cookies in accordance with this policy for cookies.
+==========
+Contracts between the client and us
+If you have contact with us as a representative for a client, we will process your personal data mentioned above in order to be able to fulfil the company’s commitment in the business relationship we have with your organization.
+The legal basis for our processing of your personal data is that the processing is necessary for the purpose of a legitimate interest which is not overridden by your interests, rights or freedoms.
+Our interest in processing your personal data for the purpose of communicating with a representative for a client overrides your potential interest in protecting your personal privacy.
+If you do not provide us with your personal data we cannot have a business relationship with the client you represent or fulfil our commitments to the client.
+Accounting legislation 
+We will process information about the services provided by us to our clients for accounting purposes.
+We are required by accounting legislation, to keep records of certain personal data.
+The legal basis for our processing is that it is a legal obligation.
+==========
+We will store personal data for as long as needed for the processing related to the purposes and legal grounds described above.
+Personal data that we process for accounting purposes will, according to applicable accounting legislation, be stored for up to seven years.
+Your rights
+You have the right to free of charge, by contacting us at privacy@livewrapped.com, receive information about what data we store about you and how that data is used and processed.
+You may ask us at any time:
+to confirm your data is being processed and/or to provide you a copy of your data;
+to rectify your data if it is inaccurate or incomplete;
+to erase your data, for instance if it is unlawfully processed or if you withdraw your consent;
+to opt out the process of any data;
+to restrict the processing of your data , (i) if the information is inaccurate, (ii) the processing is unlawful, (iii) you need us to retain the information after the retention for a legal claim, or (iv) you have objected to the processing and a verification of our legitimate interests is pending;
+to object to the processing of your personal data for direct marketing or profiling for such purposes;
+to provide you with an electronic file of your data, or to transfer your data to a third party, if technically feasible (portability).
+==========
+If you wish us to delete data, we will, as far as possible, stop processing and delete your data.
+However, we cannot delete the data if we need to continue processing the data for any other purpose.
+You have the right to file a complaint with the supervisory authority regarding our processing of your data or handling of any inquires related to it.
+==========
+Livewrapped has its establishment in Sweden and the supervisory authority in Sweden is Integritetsskyddsmyndigheten: 
+Integritetsskyddsmyndigheten
+Box 8114
+104 20 Stockholm
+imy@imy.se
+Cookies
+When you as representative for our client access the Platform we store certain information on your computer in the form of cookies.
+We use cookies for login and session management purposes and when you choose personalized features.
+If you do not want to accept our use of cookies, you need to disable the function for cookies in your web browser settings.
+If you do not permit cookies, some features of the Platform will not function as intended and you may not be able to login to the Platform.
+Transfer of data outside of the European Union, Opt-out and withdrawing of consent and Amendment of this Privacy Policy
+What is set forth under each heading captioned above will apply also in relation to our clients.
+==========

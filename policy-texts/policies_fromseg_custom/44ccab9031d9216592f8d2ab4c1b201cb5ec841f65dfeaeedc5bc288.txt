@@ -1,0 +1,104 @@
+(a) What information we collect and why
+We use UUIDs, IP Address and other Usage Information so that we can serve interesting recommendations.
+Outbrain’s recommendations may be paid for by an advertiser linking you to a new website or they may be organic such that the link is to another page on the same Partner’s Site.
+When you, as a User, first visit a Partner Site (e.g., CNN.com), Outbrain drops a cookie on your device in order to generate a UUID.
+Alternatively, if you first interact with a Partner using that Partner’s application, Outbrain receives your advertiser ID which is assigned to you by your device.
+We catalogue and analyze the content you consume across Partner Sites.
+Our recommendations are based on: (i) a UUIDs browsing history; (ii) similar browsing patterns of other Users; (iii) recommendations that are generally popular with Outbrain’s audience at this time; (iv) some randomness, and (v) targeting requirements that may be provided or requested by our Amplify clients.
+==========
+As an example, Outbrain may know that UUID 123 (which could be you on your iPhone X on The Guardian using Chrome as your browser) likes to read about far away holiday destinations and that people who like to read about far away holiday destinations also like to read about exotic food.
+When you interact with Outbrain we do not collect traditional personal data from you, like your email address or name, therefore we cannot associate your name with your UUID (for example, we do not know that John Smith, who is also UUID 123, likes to read about far away holiday destinations).
+The UUID is a sequence of numbers and/or letters.
+==========
+This UUID attaches itself to your device and varies depending on your browser combination.
+In other words, Outbrain records a different UUID depending on which device and/or which browser you use when accessing the Partner Sites.
+For example, you will have one UUID when you visit a Partner Site from your mobile phone using the browser Safari, and a different UUID when you visit a Partner Site from your iPad using the browser Safari.
+Outbrain will combine and consolidate a UUID from a mobile device (handheld or tablet) from a browser that then accesses an application (or vice versa) from that same device.
+Outbrain does not conduct cross device tracking and therefore cannot link a user interacting with Outbrain on their phone as the same user who is interacting with Outbrain on their desktop.
+In addition to your UUID, we recognise your IP address, which we translate into geolocation and delete the last octet in order to mask the identifying information.
+We then use this masked information, in conjunction with information we received from other trusted third party partners (such as MaxMind) to determine a broad understanding of where you are located (e.g., New York).
+Outbrain will still recognise your IP address even if you opt out of personalised tracking as this is necessary to continue serving you context-based recommendations however, in such instances your IP address is not associated with your UUID and would not form part of any user profile.
+==========
+In addition to your UUID and IP address, we also collect the following information from you on (a) desktop and mobile web: (i) User Agent data: device type (e.g., iPhone), browser type (e.g., chrome), operating system (e.g. iOS); (ii) the pages visited; (iii) the time of visit; and (iv) referring URLs and other information normally transmitted in HTTP requests.
+The above statistical information provides us with information about how many Users visited a specific page on our Partner Sites on which the Outbrain widget is installed, how long each User stayed on that page, the type of content on that page they clicked on and how they generally engaged with that page; and (b) on applications (i) application version (as it appears in App Store or Play Store); (ii) application ID or package name (as it appears in the App Store or Play Store); (iii) operating system ( e.g. IOS or Android); (iii) operating system version; and (iv) device model (e.g. iPhone X).
+==========
+This information is considered personal data if Outbrain associates it with a UUID.
+As Outbrain does not have a direct relationship with Users interacting with Partner Sites, Outbrain relies on its partners to determine the lawful basis upon which Outbrain can process personal data.
+Each partner site relies on either
+(b) What cookies and other similar technologies we use
+Please see the Cookie Table under “Users” for a detailed list of the First Party Cookies we use when you interact with Partner Sites where the Outbrain technology is implemented.
+==========
+In addition to Outbrain’s visible widget on Partner Sites, certain Outbrain advertisers may implement the Outbrain pixel on their websites.
+The Outbrain pixel determines whether the User reaching the page where the pixel is installed has an Outbrain UUID in order to provide reporting to advertisers in respect of their particular campaign.
+==========
+If there is a UUID associated with such end user, Outbrain allows advertisers to either retarget those UUIDs and/or provides advertisers with the total number of Users (on an aggregated and anonymised basis) that reached a particular page (for example, an advertiser does not know that UUID1234 converted but only that 1 conversion took place).
+Outbrain does not pass its advertisers any personal data (including your UUID) or collect any further personal data via the pixel.
+Outbrain does not combine information received from the Outbrain pixel information with a UUID’s profile (for example, Outbrain only tracks that 1 conversion has taken place and not the UUID123 has converted when it reaches the advertiser’s chosen page).
+We require advertisers to disclose the usage of the Outbrain pixel on their own websites.Outbrain may also allow certain trusted third party partners to collect data via cookies delivered through the Outbrain widget.
+In such cases, Outbrain does not pass these third parties the data which Outbrain collects on its Users but allows such third parties to directly collect data (including personal data) via the widget for fraud and/or security purposes or in order to provide measurement information to advertisers (such as the number of conversions and/or impressions).
+==========
+Any such collection shall be governed by such third parties privacy policy.
+If you click on a link to one of our recommendations, the advertiser sponsoring the recommendation may place cookies (or third party cookies of third parties acting on the advertiser’s behalf) on your device either through redirects prior to arriving on the destination page of the recommendations or upon reaching the destination page.
+Such cookies are dropped for the purposes of providing analytics to the advertiser with regards to the advertiser’s campaign (for example, to see how many users viewed the advertiser’s campaign).
+We require our advertisers to disclose the use of third party pixels and/or cookies to end users via their website.
+As these cookies and/or pixels are added at the sole discretion of our advertisers you will be subject to that advertiser’s privacy notice and/or privacy policy.
+(c) How we may share information
+Outbrain does not share and/or sell a User’s entire profiles with any third parties.
+However, we may share certain elements of a user profile (for example, UUID) with the following partners, including:
+
+Brand safety, analytics and fraud partners;
+Demand Side Platforms (DSP) and Supply Side Platforms (SSP);
+Ad Exchanges and/or Networks; and
+Demand Management Platforms.
+==========
+Please see here for a list of some of our trusted partners.
+In addition, we may collect and/ or share some personal data with trusted partners by virtue of participating in the OpenRTB.
+Many of these partners are registered as IAB TCF Global Vendors and can be found here.
+==========
+(d) Your rights
+
+Outbrain opt out on desktop and mobile web
+
+You may opt out of Outbrain’s personalized recommendations (or, if you have opted out and would like to opt back in) at any time by moving the toggle below.
+You may also opt out of personalized recommendations via Outbrain’s Interest Profile which is a website that provides a general visualization of the data Outbrain knows about you and may use to make its recommendations.
+In order to opt-out of Outbrain’s recommendations on your mobile applications you can follow the steps below:
+
+iOS Devices: Settings > Privacy > Advertising > Limit Ad Tracking
+Android Devices: Google Settings App > Ads > Opt Out of Interest-based Advertising
+
+Please note that an opt out via our Interest Profile and/or this Privacy Policy will not opt you out of personalised tracking on your applications.
+This opt out must be done via your device settings.
+==========
+Additional Opt-Out Options
+
+You may also opt out of receiving personalized ads served by us or other advertising companies through industry powered tools such as the NAI or the various DAA-based pages (DAA, http://www.aboutads.info/choices; DAAC, www.youradchoices.ca/choices , and/or EDAA www.youronlinechoices.eu).
+Visiting the NAI, DAA, DAAC, or EDAA consumer choice pages allows you to opt out of all some or all of the participating members’ services.
+Like Outbrain’s opt out, these opt outs do not mean you will no longer receive any advertising, the advertisements will just not be tailored to you.
+You will continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads).
+Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt out may not be effective as our opt out is cookie based.
+==========
+IMPORTANT INFORMATION
+Even though you have opted out of Outbrain’s personalised recommendations:
+
+You will still see Outbrain recommendations.
+Opting out of Outbrain personalization tracking does not mean you will no longer receive recommendations from Outbrain.
+Instead, it means that Outbrain’s recommendations will not be personalized (i.e. they will be context based recommendations).
+==========
+Your opt out will be cookie based and device/browser specific.
+If you browse the web from several devices and/or browsers, you will need to opt out from each device and/or browser to ensure that we prevent personalization tracking on all of them.
+For the same reason, if you buy a new device, change browsers or delete (or clear) the opt out cookie, you will need to opt-out again.
+==========
+Opting out of personalization tracking is not the same as blocking cookies.
+You must not opt in to Outbrain for at least 21 days as the deletion of your profile is tied to your UUID.
+Your opt out from Outbrain’s personalized recommendations is effective immediately.
+However, if your browser permits local storage and you opt into Outbrain’s personalized recommendations (for example, by accepting a cookie banner) within 21 days of your opt out, it is possible your prior profile will be reconnected to your UUID.
+If you do not opt in within 21 days, your profile will be deleted and cannot be recovered.
+==========
+As with most opt out cookies, the Outbrain browser opt out relies upon a cookie.
+The opt-out cookie is intended to be persistent to honor the user’s preferences.
+However, the “Intelligent Tracking Prevention” feature in iOS11 may impact the persistence of cookies across websites post a 24 hour window.
+==========
+We suggest using another browser or considering blocking all 3rd party cookies from the browser so that you are “opted out” without needing to rely on any company’s actual opt out methodology.
+Your local storage will not be cleared.
+Even though you have opted out of Outbrain’s personalised recommendations your local storage will not be automatically cleared and therefore you need to clear this at a browser level in addition to your opt out.
+==========

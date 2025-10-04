@@ -1,0 +1,104 @@
+AdMaxim Privacy Policy
+Updated: 12 April 2018
+AdMaxim Inc. (“AdMaxim”) is firmly committed to protecting the privacy of Internet users and fostering user confidence in Online advertising and marketing.
+Accordingly, we are committed to observing applicable industry guidelines including those established by the Interactive Advertising Bureau, the American Association of Advertising Agencies, the Direct Marketing Association and the General Data Protection Regulation (“GDPR”) by the European Union.
+==========
+We continually evaluate innovative ways to protect online user privacy while seeking to deliver relevant advertising and custom online experiences  to users on behalf of our clients.
+The document outlines AdMaxim policy to provide clear notice about the user information we may collect and process online in connection with our Services.
+Information We Receive and Process Through our Services
+The objective of our Services is to serve you content and advertisements which are relevant to you.
+To achieve this, we use our technology to process and store data about you relating to interests, location, content consumption (Mobile Web and Apps) and demographic profiles.
+==========
+The information we gather does not allow us to know who you are.
+Therefore neither we, nor any of our clients to whom we provide information, know who you are.
+==========
+Personally identifiable information (“PII”): We do not process or store personally identifiable information (“PII”) that directly identifies an individual.
+PII is information which can be used to identify a specific individual directly, and typically consists of information such as name, address, email address or telephone number.
+If you choose to send us your PII, for example by emailing us, we will only use this information for the purposes of responding to the matter in your enquiry.
+Non-Personally Identifiable Information (“NPII”): We do process and store non-personally identifiable information (“NPII”) that indirectly identifies an individual.
+NPII is information which by itself cannot be used to identify a specific individual directly, and typically includes Advertising Ids (IDFA – Apple iOS and AdID – Android) are user resettable privacy friendly identifiers which can be blocked or reset (effectively disassociating their actual device id from any profiles that have been built using that Advertising Id).
+Encrypted Data stored in the AdMaxim system is based on an internally generated id based on the user Advertising Id.
+AdMaxim System uses proprietary hashing algorithms to Anonymise data subject’s Advertising Ids and demographic/behaviour data linked to the Advertising Ids.
+==========
+This type of information does not allow us to know who is using a computer or mobile device.
+Any reference to ‘you, your, consumer, user’ is to a pseudonymous user or users of a computer or device.
+==========
+Encrypted Data stored in the AdMaxim system is based on an internally generated id based on the user Advertising Id.
+Profile Ids stored in our system are anonymised and cannot be used to identify any individual directly or indirectly without using our algorithms to convert it back to Advertising Ids.
+Both categories above PII and NPII are types of personal data – PII can be used to directly identify an individual and NPII can be used to indirectly identify an individual.
+The data we process and store does not use actual Device Ids or behaviour profiles linked to Device Ids.
+Generating an internal id based on the privacy friendly Android and iOS ids and then using strong encryption and obfuscation of data ensures that AdMaxim is meeting the required security and privacy levels that individuals have a right to expect.
+AdMaxim Profiles allow us to identify behaviour and attributes and serve relevant ads and content to users without directly identifying you.
+The decision to select the most relevant content and advertisement is automated through the use of sophisticated algorithms.
+Behaviour profiles are created in the system using the data and techniques described above.
+==========
+Purpose of Collecting Data
+Using the collected NPII, AdMaxim enables delivery of relevant content and advertising campaigns on behalf of Brands and Agencies that are interested in delivering products and services to individuals.
+Anonymised profiles  based on user interest, demographic information, content consumption history, location and other behaviour attributes allow AdMaxim to increase relevance of content/advertisements that are being delivered to individuals.
+==========
+You can learn more about such advertising practices by visiting http://www.iab.net/privacymatters.
+How do we receive or collect information?
+==========
+AdMaxim partners with a number of Ad Exchange partners that are reselling Ad space to organisations interested in delivering content and ads to individuals.
+Ad space being sold on behalf of publishers – newspapers, apps and other types of content owners.
+==========
+Each party complies with the relevant data privacy laws and will ensure data security and opt out preferences.
+AdMaxim receives data from Ad Exchange partners.
+Data is collected by the publishers and app developers through the use of browser cookies, pixels and related technologies.
+Publishers may also store cookies on your browser, and their use is governed by the specific privacy policies of the publishers concerned, which can be accessed via their websites.
+The publishers’ websites will also provide details of how to opt-out.
+Your Rights
+Right to be informed
+Right to access
+Right to rectification
+Right to erasure
+Right to restrict processing
+Right to data portability
+Right to object
+Right not to be subject to automated decision making including profiling
+We have created an AdMaxim Privacy Portal that allows you to exercise your rights as the data subject.
+Please visit http://labs.admaxim.com/gdpr/ for more information.
+AdMaxim has appointed a Data Protection Office – please direct all queries and/or complaints to dpo@admaxim.com
+Disclosure of Information to Third Parties
+We do not process, collect or store PII either directly or indirectly.
+==========
+We may disclose NPII collected through our Services, and information derived from it, to our clients.
+This NPII may be used by our clients to deliver tailored advertisements to users on participating websites and for other purposes as described above.
+This information does not include any PII that can be used to contact or identify any person individually.
+Further, we require our clients, as applicable, to use any NPII they receive in compliance with applicable laws and regulations and to publish privacy policies that tell you about how the information they are gathering is being used.
+We urge you to always read the privacy policies of the websites you visit to understand issues relating to your online privacy.
+We may disclose a user’s NPII to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including, but not limited to, fraud and situations involving potential threats to the physical safety of any person.
+==========
+Data Security and Retention
+We treat the security of the information we gather and store as a matter of great importance.
+The AdMaxim solutions are hosted by leading cloud storage providerssuch as Amazon for whom security is of the utmost importance, and which typically are certified for security.
+AdMaxim has implemented commonly followed industry standards to protect against the unauthorized access to, retention of, and disclosure of, information.
+==========
+In particular we use the highest levels of strong encryption and other methods to anonymise the data we store to ensure your privacy is safeguarded.
+NPII data may exist within AdMaxim storage for a limited period of time as governed by the local laws.
+Aggregate reports generated from this information may be kept longer.
+Typical storage periods range from 90 days to 12 months depending on the type of data.
+==========
+Children’s Privacy
+Children’s privacy is of utmost importance to us.
+Our Services are neither developed for, nor directed at children.
+We do not process or store data related to children.
+==========
+We carefully review any campaigns which target products or services at children under the age of 18 to ensure that both the content of the advertisements and the products and services they are advertising are appropriate for the target audience.
+We do not manage any campaigns which target products or services at children under the age of 13.
+==========
+Transfer of Data Upon Change of Control
+In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase, or other transaction, we reserve the right to transfer all information (including any PII a user may have provided through the “contact us” page) that is in our possession or under our control to such acquiring party.
+You will be notified by a conspicuous notice on our website of any such change of control.
+Changes in AdMaxim’s Privacy Policy
+We may revise this Privacy Policy at any time.
+Any changes and/or updates to the Privacy Policy will be updated directly on this page.
+We encourage you to visit this page periodically to review our current Privacy Policy so that you will always know what information we gather and how we may use that information.
+In the event we plan to make any material changes to the procedures outlined in this Privacy Policy, we will post a conspicuous notice on our website in advance of those changes being implemented.
+==========
+Any Questions or Comments about this Privacy Policy?
+If you have questions or concerns regarding this statement, you should contact us through email or by mail.
+You can address your general questions and comments by e-mail to privacy@admaxim.com or by mail: AdMaxim Inc., 3945 Freedom Circle, Suite 940, Santa Clara, California.
+CA95054.
+Attn: Data Protection Officer.
+==========

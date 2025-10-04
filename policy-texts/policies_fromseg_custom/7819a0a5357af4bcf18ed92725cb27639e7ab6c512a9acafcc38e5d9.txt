@@ -1,0 +1,74 @@
+Categories of Sources of the Information We Use
+User Information Received From Third Parties
+We receive both online and offline User Information collected by third parties, including our affiliate [m]PLATFORM, which may include demographic and interest information for use in our Services.
+The third parties include our clients and carefully selected partners and service providers.
+When we receive offline User Information, this information is provided to us via a partner or service provider in conjunction with a cookie ID, advertising ID, or similar user ID that identifies a user to us, the client, or partner/service provider (through a process called “cookie syncing”), but we do not receive users’ names, mailing addresses, phone numbers, email addresses or similar data that would enable identification of a particular individual connected with these IDs.
+How We Use This Information
+Xaxis processes the information it collects and receives for the purposes of providing the Services to clients as explained above, as well as for administrative, security and compliance purposes.
+Specifically, we carry out the following activities:
+Ad Selection, Delivery, Reporting
+We analyze the information collected when client advertising is delivered using our Services and information received from our partners.
+==========
+We organize this information into collections of IDs (which we call segments), based on various components of the User Information we explained above.
+For example, we may have segments of IDs that visit sports Sites.
+Our clients can then use our Services to use these segments to deliver Interest-Based Advertising on their own behalf or on behalf of their clients, using our partners and service providers.
+This advertising may be delivered across devices.
+==========
+We may also integrate (and use for the same purposes) User Information obtained from other carefully selected companies (including Site owners, data providers and data aggregators).
+We also make use of the internal identifier of our affiliate [m]PLATFORM, called “[mP]ID”.
+We use the [mP]ID to associate information relating to browsers, environments and/or devices that we, or [m]PLATFORM, reasonably believe belong to the same user.
+This helps us to provide more useful and relevant advertising to a specific user, regardless of the browser, environment or device they are using.
+While Xaxis does not knowingly create segments that are based upon what we consider to be sensitive information (e.g. we do not create segments based on sensitive health categories under the NAI Code or segments of EEA users based on personal data considered to be sensitive in the EEA, such as personal data revealing your racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, personal data concerning your health, sex life or sexual orientation, or genetic or biometric data), our clients may use our Services to process some sensitive data, which may come from our clients’ Sites or our partners.
+==========
+We take steps designed to ensure that this is done in compliance with applicable laws and self-regulatory guidelines, including through our contracts and policies with our clients and partners.
+Personalization
+In order to provide our client-specific personalization Services, we:
+
+collect information on each client’s Sites (this includes websites, apps, and other digital properties) – as described above in “How We Collect Information through Our Services”;
+access or store this information on devices (via cookie IDs and advertising IDs, as applicable); and
+analyze the information collected, sometimes with other information received from the client and organize it into segments of IDs, based on the various User Information.
+Our clients can then use these segments to deliver, on their own behalf or on behalf of their clients, Interest-Based Advertising to users on their devices (this is through a variety of means).
+Where we are providing this client-specific personalization, the segments that we build for one client are logically segregated from the segments and data of other clients.
+Data collected in this way, and the segments produced, can only be used on behalf of that specific client.
+==========
+Measurement
+We process User Information to deliver advertisements and measure the delivery of these advertisements, to learn about what factors make advertising successful or unsuccessful for advertisers and to generate reports to understand and improve Service usage and advertising effectiveness.
+Storage and Access of Information
+In order to provide our Services, we store Mookie cookies on the browser(s) of individuals to whom we have delivered advertising and then recognize the Mookie cookies when that browser(s) is used to access websites of our clients and publishers we work with.
+Sites on which we are dropping and/or reading, or seek to drop and/or read, Mookie cookies should tell you about the use of third-party cookies (and, in particular, Mookie cookies specifically, where required by law), on those Sites.
+In the data feeds we receive from our partners in connection with the delivery of digital advertising in mobile application environments we also receive advertising IDs associated with users’ mobile device platforms/operating systems and recognize these advertising IDs.
+We use the information collected and received for Interest-Based Advertising, such as:
+
+Matching Data to Offline Sources – as indicated above under “User Information Received From Third Parties”:
+
+We receive offline User Information, including demographic and interest information, from other companies, including our clients, partners and service providers, that is collected outside the Services and is provided to us for use in our Services.
+==========
+It is the responsibility of those companies collecting that data to do so in an appropriate and legal way, and to permit sharing that information with us for our purposes.
+When we receive offline User Information, this information is provided to us via a partner or service provider in conjunction with a cookie ID, advertising ID, or similar user ID that identifies a customer or consumer to the client or service provider.
+We do not receive any names, mailing addresses, phone numbers, email addresses or similar data that would enable identification of a particular individual connected with the IDs we receive.
+Linking Devices – we make use of the internal [mP]ID identifier of our affiliate [m]PLATFORM to associate information relating to browsers, environments, and/or devices that [m]PLATFORM or we reasonably believe belong to the same user, in order to help provide more useful and relevant advertising regardless of browser, environment, or device.
+==========
+Precise Geographic Location Data – when we have the necessary rights to do so, we may receive and/or use a user’s precise geographic location data for the purpose of bidding on and/or delivering “moment in time” advertising.
+Xaxis does not store or otherwise save precise geographic location data.
+Disclosure of Information to Third Parties
+Xaxis shares information we collect about you (see “What Categories of Information Do We Collect Through Provision of Our Services” above), and information derived from it, to our clients, affiliates, partners and service providers that perform services and functions on our behalf and/or on behalf of our clients, such as companies that are responsible for the actual delivery of Interest-Based Advertising – including demand-side platforms, advertising networks, advertising exchanges, and ad servers – and has done so in the preceding 12 months.
+We do not collect users’ names, mailing addresses, phone numbers, email addresses or similar data that would enable identification of a particular individual through our Services.
+However, if you decide to provide data that would enable identification of a particular individual via one of our clients’ advertisements or Sites, then that information will be received by that client and will be subject to that client’s privacy policy.
+==========
+Our service providers are generally not permitted to use non-aggregated information we disclose to them for any purpose other than providing services to us or our clients.
+If we reasonably believe we are obliged by law or legal process to disclose information to a third party (including law enforcement), then we will do so.
+In addition, we may disclose information to a third party (including an auditor or other service provider).
+Our affiliate [m]PLATFORM operates and maintains a proprietary data management platform that we and other affiliates may use in order to provide services.
+The information we disclose to [m]PLATFORM may be used by mPlatform and such other affiliates not only to provide our services to us and our clients, but also to provide services to those affiliates and their respective clients.
+==========
+Xaxis does not engage in the sale of personal information.
+Opt-Out/Right to Withdraw Consent
+You may opt out of Xaxis Interest-Based Advertising through several mechanisms.
+If you opt out, you will still see ads, but those ads are less likely to have anything to do with products or services you care about.
+With Interest-Based Advertising, you receive ads and offers that are more likely to be of interest to you.
+==========
+You may choose not to receive customized third-party advertisements via Mookie targeting cookies on the browser you are using by clicking below.
+If you do this, your third-party Mookie targeting cookie will be replaced with a set “opt-out” cookies.
+Any Interest-Based Advertising data linked to the replaced third-party Mookie targeting cookie will not be used for Interest-Based Advertising on that device or browser.
+If you use multiple browsers or devices and wish to limit the data that Xaxis collects and do not wish to receive Xaxis Interest-Based Advertising on any of them, you must opt out from each browser and device individually.
+==========

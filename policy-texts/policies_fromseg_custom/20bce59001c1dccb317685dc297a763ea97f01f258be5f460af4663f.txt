@@ -1,0 +1,265 @@
+Reporting requirement regarding the use and processing of personally identifiable user data
+1.
+Responsible entity and contact details
+The entity responsible for processing user data (from here on referred to as “users”) is belboon GmbH (from here on referred to as “the responsible entity”) within the framework of the European General Data Protection Regulation (from here on referred to as “GDPR”)
+The contact details of the responsible entity are:
+Address: Weinmeisterstr.
+==========
+12-14, 10178 Berlin, Germany
+Phone: +49 (0)30 32 29 65-120
+E-Mail: [email protected]
+2.
+Data protection officer
+The designated data protection officer is Robin Freund.
+You can reach our data protection officer by email:
+[email protected]
+3.
+==========
+Purpose and legal grounds
+The processing of personal data for users is required for the completion of a contract where the user is a contractual party or as a step in completing pre-contractual requirements which take place according to the express conset of the user.
+The legal grounds for this is Article 6 Section 1 b) of the GDPR
+If a user completes a contact form or makes contact with the responsible entity in any other way – including email, telephone, fax or post – the personally identifiable data will only be used to complete their enquiry.
+The legal grounds for this use of data is the consent provided by the user in accordance with article 6, section 1a of the GDPR
+In any other cases where personally identifiable data is processed, it is used in accordance to the authorized interests of the responsible entity – such as the analysis of use of their website by Google Analytics, to integrate external fonts using Google Fonts or by using Cloudflare to detect, limit or prevent any cyber attacks or errors on their website.
+The legal grounds for this processing is Article 6, Section 1f of the GDPR.
+The responsible entity will make the user aware of their right to object to use of their data.
+Further information can be found in section 9 of this statement.
+4.
+==========
+Recipients
+Personally identifiable data which has been made available to the responsible entity is made available to the following recipients
+4.1 Completion of a contract or to complete pre-contractual requirements
+In order to complete a contract or to complete pre-contractual requirements, personal user data which is made available to belboon will be made available to the following recipients:
+• Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA
+• Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+• Atlassian Inc. 1098 Harrison St, San Franciso, CA 94103, USA
+• HubSpot Inc, 25 First Street, 2nd FloorCambridge, MA 02141, USA
+• SparkPost, Message Systems Inc., 9130 Guilford Road, Columbia, MD 21046, USA
+• Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107, USA
+• 1&1 Versatel GmbH, Aroser Allee 78, 13407 Berlin, Deutschland
+• Gottschalk, Becker & Partner Wirtschaftsprüfungsgesellschaft, Steuerberatungsgesellschaft, Europaallee 20, D-66113 Saarbrücken, Germany
+• applabs GmbH, Hedderichstr.
+108-110, 60596 Frankfurt, Germany
+• Deutsche Post AG, Charles-de-Gaulle-Straße 20, 53113 Bonn, Germany
+• Ingenious Technologies AG, Französische Straße 48, 10117 Berlin, Germany
+• Drillisch Online GmbH, Wilhelm-Röntgen-Str.
+1-5, 63477 Maintal, Germany
+• Personal user data will not be made available to any other third parties – except when this is required in accordance with the law:
+4.2 User of comment functions and other means of establishing contact
+In the case of using a contact form, personal data provided by the user will be made available to the following recipient under certain circumstances:
+• Atlassian Inc. 1098 Harrison St, San Franciso, CA 94103, USA
+In the case of using email to establish contact, personal data provided by the user will be made available to the following recipient under certain circumstances:
+• Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA
+In the case of using phone and fax to establish contact, personal data provided by the user will be made available to the following recipient under certain circumstances:
+• 1&1 Versatel GmbH, Aroser Allee 78, 13407 Berlin, Germany
+In the case of using post to establish contact, personal data provided by the user will be made available to the following recipient under certain circumstances:
+• Deutsche Post AG, Charles-de-Gaulle-Straße 20, 53113 Bonn, Germany
+Personal user data will not be made available to any other third parties – except when this is required in accordance with the law:
+4.3 Website analysis
+User personal data is used to analyse the use of the website, the responsible entity transfers and makes this data available to the following recipient:
+• Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA:
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).
+==========
+Google Analytics uses “cookies”, which are text files placed on your computer to help the website analyse how visitors use the site.
+The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States
+Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.
+==========
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf.
+Google will not associate your IP address with any other data held by Google.
+==========
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.
+By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+When using an IP masking function, the full IP address be truncated within countries of the European Economic Area and other signatory states before being transmitted to and stored by Google servers in the United States.
+This data will then be used by the owner of this website to analyze visitor behavior to this website in order to generate reports about user activity and provide services to users of this website.
+The IP addresses which are transmitted by the browser for Google Analytics will not be used by Google for any other purposes.
+The user can prevent cookies from being saved by adjusting the settings of their browser, however, the responsible entity makes it clear to the user that they will not then be able to use all functions of this website.
+The user can prevent the data collection of cookies or other user-data by downloading and installing the following browser plugin:
+https://tools.google.com/dlpage/gaoptout?hl=en
+The user can prevent tracking by Google analytics by clicking on the following link.
+This will set an opt-out cookie which will prevent the analysis or use of data when visiting this website: Deactivate Google Analytics.
+More information on this topic can be found on the following websites: https://tools.google.com/dlpage/gaoptout?hl=en or https://www.google.com/intl/en/analytics/privacyoverview.html (General information for Google Analytics and Data Protection).
+==========
+The responsible entity hereby makes the user aware that this website uses the code “anonymizeIP” (“analytics.js”) as a feature of Google Analytics in order to allow the use of an IP masking function
+Other personal data belonging to the user will not be made available by any third parties without explicit written permission, except for when required to do so by law.
+4.4 Google Fonts
+In order to integrate external fonts using the Google Fonts tool, user personal data will be transmitted and made available to the following recipient:
+• Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+This website uses Google Fonts to integrate external fonts.
+Google provides these fonts.
+When a user accesses this website, the required fonts will be loaded in the user’s browser cache so that the text and fonts are displayed correctly
+For this purpose, user IP addresses will be transmitted to a server belonging to Google Inc.
+The user can find more information on the following website https://developers.google.com/fonts/faq and in the Google data protection statement: https://policies.google.com/privacy?hl=en
+Other personal data belonging to the user will not be made available by any third parties without explicit written permission, except for when required to do so by law.
+==========
+4.5 Cloudflare Cyber Defence
+Personal data belonging to the user will be transmitted and made available by the responsible entity to the following recipient in order to prevent cyber attacks:
+• Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107, USA
+Cloudflare is a company from the United States which provides internet security (DDOS Protection) and DNS services – these are placed between the user and the hosting provider of the Cloudflare user and which act as a reverse proxy for websites.
+This service protects this website from cyber attacks.
+==========
+In order to fulfill this, the IP address, timestamp and user agent (browser, operating system and langzage), referrer and any entries to the contact form will be transmitted to Cloudflare and then forwarded to the website.
+Cloudflare has also stated that they are GDPR compliant:https://blog.cloudflare.com/keeping-your-gdpr-resolutions/
+Cloudflare is also a member of the EU-US privacy shield: https://www.privacyshield.gov
+Other personal data belonging to the user will not be made available by any third parties without explicit written permission , except for when required to do so by law.
+5.
+==========
+Cookies
+The responsible entity uses cookies in order to design their website and to allow certain functions for website use.
+Cookies are small text files which are stored on the user’s browser.
+Most of the cookies used by the responsible entity will be automatically deleted at the end of the browser session (Known as session cookies).
+Other cookies remain on the user’s computer and allow the responsible entity to recognize the user when they visit the site again (Known as persistent cookies).
+A user is free to reject cookies, as long as their browser allows this.
+6.
+==========
+Data transfer to third-party countries
+In the context of the use of Google Analytics and Google Fonts, the transfer of personal data to Google LLC, 1600 Amphitheater Parkway, Mountain View, CA 94043, USA, takes place.
+An adequacy decision by the European Commission is missing.
+However, Google LLC is a member of the EU-US Privacy Shield.
+Further information on the EU-US Privacy Shield can be found at the URL: https://www.privacyshield.gov
+An adequacy decision by the European Commission is missing.
+Microsoft is GDPR ready and member of the EU-US Privacy Shield.
+Further information on the EU-US Privacy Shield can be found at the URL: https://www.privacyshield.gov
+In the context of the use of Atlassian, personal data will be transferred to Atlassian Inc. 1098 Harrison St, San Franciso, CA 94103, USA.
+An adequacy decision by the European Commission is missing.
+Atlassian is GDPR ready and a member of the EU-US Privacy Shield.
+More information can be found here: https://www.privacyshield.gov
+In the context of the use of HubSpot, personal data will be transferred to HubSpot Inc, 25 First Street, 2nd Floor Cambridge, MA 02141, USA.
+An adequacy decision by the European Commission is missing.
+Hubspot is a member of the EU-US Privacy Shield.
+More information can be found here: https://www.privacyshield.gov
+In the context of the use of SparkPost, personal data will be transferred to SparkPost, Message Systems Inc., 9130 Guilford Road, Columbia, MD 21046, USA.
+An adequacy decision by the European Commission is missing.
+SparkPost is GDPR ready and member of the EU-US Privacy Shield.
+More information can be found here: https://www.privacyshield.gov
+In the context of the use of Cloudflare, personal data will be transferred to Cloudflare Inc., 101 Townsend St., San Francisco, CA 94107, USA.
+An adequacy decision by the European Commission is missing.
+Cloudflare is GDPR ready and member of the EU-US Privacy Shield.
+More information can be found here: https://www.privacyshield.gov
+7.
+==========
+Duration of information storage
+When the contractual partnership ends, user data, which must be kept for legal reasons, is locked.
+This data is no longer available for further use.
+At the point when the storage for legal reason is no longer needed, the blocked data will be deleted.
+In the event that the user contacts the responsible entity or uses the contact form, the personal data will be used for the duration of the processing of the request.
+==========
+Subsequently, the data that must be kept for legal reasons, will be locked.
+This data is no longer available for further use.
+==========
+The responsbile entity is subject to various storage and documentation obligations, which originate among other from the German commercial code (HGB) and the German tax code (AO).
+The deadlines for storage and documentation are two to ten years.
+Finally, the storage period is also determined by the statutory limitation periods, which can be, for example, according to §§ 195 ff.
+Of the German Civil Code (BGB) usually three years, but in some cases also up to thirty years.
+==========
+The data collected by Google Analytics will be stored for 26 months
+8.
+Privacy Rights
+Each user has the right to information under Article 15 GDPR, the right of rectification under Article 16 GDPR, the right to deletion under Article 17 GDPR, the right to restriction of processing under Article 18 GDPR, the right of opposition under Article 21 GDPR and the right to data portability under Article 20 GDPR.
+==========
+With regard to the right to information and the right to erase, the restrictions under §§ 34 and 35 BDSG apply.
+In addition, there is a right of appeal to a data protection supervisory authority (Article 77 DSGVO in conjunction with Section 19 BDSG).
+==========
+The user can find the law text here.
+Corresponding requests are to be addressed to the address mentioned in point 1 or to [email protected]
+9.
+Right to object and other rights
+If the user has given his consent to the processing of his personal data for one or more specific purposes, the user has the option of revoking the consent for any future purposes
+In particular, the user has the right to object to the processing of personal data, for the analysis of the website or to detect, limit or eliminate disruptions or errors on the website, at any time free of charge for any purpose in the future.
+All that is needed is to send an e-mail to [email protected] or to the address given in point 1.
+==========
+Without prejudice to any other administrative or judicial remedy, any affected person shall have the right to lodge a complaint with a supervisory authority, in particular in the member state of his or her residence, place of work or place of alleged infringement, if the affected person considers that the processing of personal data concerning him or her data, breaches this regulation.
+A competent authority is e.g.
+The Berlin Commissioner for Data Protection and Freedom of Information, Friedrichstraße 219, 10969 Berlin, Germany.
+The customer can also choose another one.
+10.
+==========
+Mandatory data provision
+The following data is mandatory (mandatory information):
+10.1 Fulfillment of the contract
+The specification of the following data is mandatory for a contract in the context of the application as an advertiser (mandatory information):
+• Preferred username
+• Title
+• Legal form
+• Address (street, house number, zip code, city, country)
+• Company registration number
+• First and Last Name
+• Gender
+• Telephone number
+• Fax
+• Mobile phone number
+• E-mail address
+• Company
+• VAT ID
+• Currency
+• Information on planned partner programs (URL, planned compensation, etc.)
+• Small business owner yes or no
+• Invoice e-mail address
+• Bank details (country of bank, name of bank, account holder name, BIC / SWIFT, IBAN)
+• Tax number
+The specification of the following data is mandatory for a contract in the context of the application as a publisher (mandatory information):
+• Preferred username
+• First and Last Name
+• Gender
+• Telephone number
+• E-mail address
+• Details of the website (name, primary URL, page views, language, categories, characteristics, description of the advertising platform)
+• Language
+• Company or individual
+• First and Last Name
+• Additive
+• Address (street name, house number, zip code, city, company headquarters)
+• Invoice e-mail address
+• VAT identification number
+• Currency
+• Bank details (country of bank, name of bank, account holder, • BIC / SWIFT, IBAN, currency)
+• Minimum payout
+All other information is not required for the performance of the contract and is therefore voluntary.
+If the mandatory information required for the execution of the contract is not given, no contract is concluded.
+The non-declaration of the voluntary information has no influence on the conclusion of the contract.
+==========
+10.2 Use of the contact form or processing of any other request
+To process of a general inquiry in the context of the contact form, the following data is mandatory (mandatory information):
+• Surname
+• E-mail address
+• Phone number
+• Account Name
+To process an E-mail request, the following data is required (mandatory information):
+• Surname
+• E-mail address
+• Phone number
+• Account Name
+To process a telephone request, the following data is required (mandatory information):
+• Surname
+• E-mail address
+• Phone number
+• Account Name
+To process a fax request, the following data is required (mandatory information):
+• Surname
+• E-mail address
+• Phone number
+• Account Name
+To process a postal request, the following data is required (mandatory information):
+• Surname
+• E-mail address
+• Phone number
+• Account Name
+All other information is not required to process a request and is therefore voluntary.
+If the mandatory information required to process a request is not met, the request will not be processed.
+The non-declaration of the voluntary information has no influence on the processing of the request.
+==========
+10.3 Website analysis, Google fonts and detecting, limiting or eliminating malfunctions or errors
+The deactivation of the data transmission in the context of Google Analytics has no effect on the use of this website.
+The non-use of Google Fonts has no effect on the use of this website.
+In this case, a standard font of the customer’s computer is used.
+==========
+The specification of the following data is mandatory for detecting, limiting or eliminating cyber-attacks on the website (mandatory information):
+• IP address
+• Referrer URL
+• Time
+• User-Agent (browser, operating system, language)
+Specifying the following information is required to detect, limit or eliminate cyberattacks on the website.
+Without this data, the website cannot be used.
+11.
+Automated decision-making
+An automated decision-making process including profiling does not take place.
+==========

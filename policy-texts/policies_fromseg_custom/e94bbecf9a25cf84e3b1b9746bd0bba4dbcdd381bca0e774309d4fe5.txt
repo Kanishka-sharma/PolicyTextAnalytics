@@ -1,0 +1,310 @@
+Please read these Cisco SaaS Terms of Service carefully.
+These Terms of Service create an agreement (the “Agreement”) between you and Cisco Systems, Inc. or its applicable affiliate (“Cisco,” “WebEx,” “We,” “Our” or “Us”) regarding your access to and use of the Cisco SaaS service and associated software that you are Ordering or registering to use via the Internet or click to accept process (“Services”).
+All users (paid and free) must agree to this Agreement before using the Services, unless you have a separate written agreement in place expressly covering the Services.
+If you accept this Agreement for an entity, you represent that you have the authority to bind the entity to this Agreement.
+If you do not agree to this Agreement, please click “Cancel” or “Back” and do not use the Services.
+If you are under 18, or if you are considered a minor in your state or country, you must obtain the consent of your parent or legal guardian to register for and use the Services.
+Scope of Agreement.
+==========
+This Agreement governs your access to and use of the Services.
+If you purchased the Services, We agree to provide you the Services for the term specified in an Order.
+If you have not purchased the Services, you agree that Cisco may suspend or terminate your access to and use of the Services and/or this Agreement at any time without notice, for any reason.
+Use of the Services.
+We grant you a limited right to use the Services for your internal business or personal use.
+You may use the Services only as permitted in this Agreement, any applicable documentation and the Order (if you purchased the Services).
+You will not resell, reframe, distribute, use on a timeshare, outsourced, or service bureau basis, or otherwise directly commercialize the sale or lease of the use of the Services.
+You may need to provide additional information in order to register for and/or use certain Services.
+You warrant that the information you provide during the registration process is accurate.
+==========
+Orders.
+Any orders for Services (an “Order”) are incorporated into this Agreement by this reference.
+An Order is effective when you submit it and We provision the Services.
+Order acceptance may be subject to Our credit approval process.
+==========
+Affiliates, Approved Sources or Subcontractors.
+In certain jurisdictions, We may sell the Services on behalf of a Cisco affiliate, and/or may have a Cisco affiliate or subcontractor provide the Services (or some portion of the Services), and/or you may purchase the Services from Cisco or a Cisco authorized reseller, distributor or systems integrator (collectively, an “Approved Source”).
+While a Cisco affiliate or subcontractor may provide the Services or some portion of the Services, We are responsible for their performance under this Agreement.
+==========
+Changes to Services.
+If you purchased the Services, We may enhance and/or change the features of the Services at Our discretion as long as We do not materially reduce the core functionality of the Services.
+We may offer additional optional features and/or functionalities in addition to the “standard” Services at an additional cost.
+==========
+Software and Services License and Restrictions.
+You may need to download and install software to use the Services (“Software”).
+If so, We grant you a limited, personal, non-exclusive, non-transferable, non-sublicensable license to use the Software to the extent reasonably required to use the Services and only for the duration that you are entitled to use the Services.
+You agree that, unless this Agreement or applicable law allows it, you will not (and will not allow third parties invited by you) to:
+transfer, sublicense, or assign your right under this license to any other person or entity, unless expressly authorized by Cisco in writing;
+modify or adapt or create derivative works of the Software or any associated documentation;
+reverse engineer, decompile, decrypt, disassemble or otherwise attempt to derive the source code for the Software, except to the extent allowed by applicable law for interoperability purposes;
+use the Software to access Services other than the Services you are entitled to use;
+republish, frame or distribute the Software or Services to third parties, unless you are an Approved Source for the particular Services; or
+supply proprietary information about the Services, including but not limited to screen shots, product documentation, demonstrations, service descriptions, announcements, or feature roadmaps to unauthorized third parties.
+==========
+You may engage a contractor to assist you with your implementation or use of the Services so long as: i) the contractor uses the Services according to this Agreement; ii) the contractor acts solely for your benefit when it uses or implements the Services, and iii) you have a written agreement in place that protects Cisco’s intellectual property and proprietary rights.
+You will be responsible for the acts or omissions of the contractor as it relates to their use or implementation of the Services.
+Beta Services.
+We may offer you the opportunity to use and evaluate a “beta” version of the Services (“Beta Services”) to get your evaluation and feedback (“Feedback”).
+Beta Services may contain bugs, errors and other problems and you accept the Beta Services “AS-IS.”
+We give you no warranty of any kind and are not responsible for any sort of problems or issues related to your use of a Beta Services.
+You may be required to provide Feedback to use Beta Services.
+We make no representations, promises or guarantees that the Beta Services will ever be generally released.
+We may suspend or terminate access to the Beta Service and delete any Content or data on the Beta Service without any liability to you.
+Fees and Payment for the Services.
+This Section 8 applies to Orders for the Services you place directly with Us.
+==========
+If you order the Services from an Approved Source, your agreement with the Approved Source will provide the applicable payment terms.
+Payment Terms.
+The fees for the Services, if any, are described in the Order.
+The fees may also include overage amounts or per use charges, which will be described in the Order, and you agree to pay these amounts or charges if you incur them.
+You agree that We may charge your credit card or bill you for all amounts due and owing for your use of the Services.
+You agree that your credit card information and related personal data may be provided to third parties for payment processing and fraud prevention purposes.
+Late Payment.
+Any sum not paid by you when due shall bear interest from the due date until paid at the lesser of: (i) 10 percent per annum or (ii) the maximum rate permitted by law.
+==========
+We may suspend the Services for non-payment of undisputed fees.
+We are entitled to recover a reasonable amount expended in connection with the collection of fees not paid when due.
+Fee Disputes.
+You may withhold amounts that you reasonably and in good faith dispute as to the amounts owed.
+You will pay any undisputed fees.
+If you withhold any payment due to a dispute, you must notify Us in writing of any disputed fees within 15 days of the invoice date and provide Us with written details about why you dispute the invoice.
+After We receive notice of the dispute, We will work with you in good faith to resolve the dispute.
+If we are unable to resolve the dispute within 30 days, Cisco may terminate the Services after giving you an additional 10 days advance written notice.
+==========
+Taxes.
+You shall pay all sales, value added, general standard and similar taxes (exclusive of taxes based on Our net income), levies, duty, or charges imposed by any governmental authority, related to or arising from Our providing or your use of the Services.
+Cisco reserves the right to gross up the price for the Services in any invoice if a withholding prevents Cisco from receiving the amount specified in such invoice.
+==========
+Free Users.
+This Section 9 applies only to free users of the Services.
+Notwithstanding anything in this Agreement to the contrary, you agree that:
+Certain features may require you to upgrade to a paid version of the Services to enable certain features or use them beyond a specified limited amount;
+We may change the features of the Services at Our discretion; and
+Cisco may deactivate or delete your account and any related data, information and files, and bar any further access to such data, information and files for any reason.
+Such action may include, among other things, accessing your Content or data and/or discontinuing your use of the Services or specific Service features without any liability.
+We may automatically delete your Content after you stop using the Service or if you exceed a specified limited amount of storage space.
+==========
+Term and Termination.
+Term and Termination of Orders.
+The “Initial Term” of an Order starts on the date the Services are available for use by you and lasts for the time period stated in the Order.
+After the Initial Term, unless prohibited by applicable law or the Order states otherwise, there will be an automatic “Renewal Term” of the same length of time unless you notify Us in writing that you do not want to renew the Services at least 30 days before the end of the Initial or then current Renewal Term.
+If the fees will change for the Renewal Term, Cisco will notify you reasonably in advance of the Renewal, and in time for you to accept or reject renewing the Services.
+If you agree with the fee changes, you may do nothing and the new fees will apply for the upcoming Renewal Term.
+==========
+Either party may terminate an Order by providing the other party written notice of termination at least 30 days before the end of such Initial or Renewal Term.
+The termination will be effective on the last day of the Initial or Renewal Term in effect and you will pay for the Services until the end of current Initial or Renewal Term, regardless of when you provided notice.
+Term and Termination of Agreement.
+==========
+This Agreement starts on the date you submit your first Order or start using the Services, whichever is earlier.
+Either party may terminate this Agreement upon 30 days prior written notice to the other party, with or without cause, effective when all of Your Orders expire or are terminated.
+Each party may terminate this Agreement and any impacted Orders by giving written notice to the other party if the other party materially breaches this Agreement and does not cure that breach within 30 days after receiving written notice of the breach.
+==========
+Events Upon Termination.
+If you purchased the Services and this Agreement is terminated for any reason, subject to the Cisco Acceptable Use Policy (described below): (i) We may make your lawful Content available to you for a reasonable period of time and (ii) you will pay Us for the Services(s) provided up to the date of termination.
+Survival.
+The following provisions will survive the expiration or termination of this Agreement: Sections 6 and any payment provisions set forth in the Order (as to amounts due and owing as of this Agreement’s expiration or termination date), 8, 9(c), 10(c), 10(d), 12 (to the extent Cisco has such information), 13, 14, 15, 16 and 17.
+Upon any termination of this Agreement, you must cease any further use of the Services and destroy any copies of Software within your control.
+==========
+Credentials.
+You agree to promptly notify Us of any unauthorized use of your account of which you become aware.
+You agree to use at least reasonable means to protect your account name, password and other login information from unauthorized disclosure or use by third parties.
+Privacy and Data Protection.
+==========
+Content.
+We will not monitor Content, except: (i) as needed to provide, support or improve the provision of the Services, (ii) investigate potential or suspected fraud, (iii) where instructed or permitted by you, or (iv) as otherwise required by law or to exercise or protect Our legal rights.
+“Content” means all visual, written or audible communications, files, data documents, videos, recordings, or any other material displayed, posted, uploaded, stored, exchanged or transmitted on or through your use of the Services or otherwise provided on website or online space related to the Services (a “Site.”)
+==========
+Data Protection and Data Privacy.
+We will collect, use and process Content only in accordance with Cisco’s Privacy Statement (which is incorporated into this Agreement by reference) and to the extent reasonably required to provide the Services.
+“Privacy Statement” means Cisco’s then current statement regarding its treatment, use and protection of your Content, located at: http://www.cisco.com/web/siteassets/legal/privacy.html and includes any applicable Service-specific supplemental privacy information.
+We will also comply with all applicable data privacy laws in the performance of the Services.
+As a part of that compliance, We will use at least industry standard technical, procedural and physical means to protect against unauthorized access, use or disclosure of Personal Information (as defined in Cisco’s Privacy Statement).
+We may transfer, copy, backup and store your Content in the United States or other countries or jurisdictions outside your country as a part of the Services.
+We will obtain appropriate agreements with Our affiliates, subcontractors and agents consistent with this Agreement and Our Privacy Statement.
+Additional information about Our privacy practices may be in the applicable documentation, and in Our Privacy Statement.
+Consent.
+You are responsible for obtaining consent from your Users to this collection, use, processing and transfer of Content.
+==========
+“User” means you and your employees, contractors, agents and/or third parties (invited by you) who use the Services.
+Contact.
+You agree that We may contact you via e-mail or otherwise with information relevant to your use of the Services and your payment obligations.
+You also agree to have your name and/or email address listed in the header of certain communications you initiate through the Services.
+==========
+Content.
+Ownership of Content.
+We make no claim to your trade names, logos and other trademarks or service marks (“Marks”) and Content and We will not sell your Content to third parties.
+==========
+Responsibility for the Content and Services.
+You are solely responsible for your and your Users’ Content and your and your Users’ use of the Services.
+We are not liable to you, your Users or your customers for any loss or damages arising from any Content.
+We do not endorse and have no control over what Users submit to a Site.
+We cannot guarantee the accuracy of any Content provided by you or by other users.
+==========
+License.
+You grant Us a world-wide, royalty-free, sublicensable license to use, modify, reproduce and distribute the Content, only as reasonably required to provide the Services (e.g., Cisco may encrypt your Content which involves use, reproduction and modification of your Content).
+Where the Services include a publicly accessible Site with your Content, We may also publicly perform or publicly display your Content.
+You warrant that you have sufficient, lawful non-infringing rights to the Content and to grant the license contained in this Section.
+==========
+Violation.
+We do not monitor your Content, Sites, or Use of the Services.
+You will comply with the Cisco Acceptable Use Policy (“AUP”) located on http://www.cisco.com (or as attached to this Agreement).
+We may investigate any complaints and violations or suspected violations of this Agreement regarding the Content or violations of the AUP that comes to Our attention.
+If We reasonably determine there is a breach of this Agreement regarding the Content or a violation of the AUP We may take action without liability to remedy the violation (e.g., refuse to post or remove violating Content, or restricting, suspending, or terminating your or your User’s access to a Site or Services).
+We will make commercially reasonable efforts to notify you before taking such actions so that you can remedy the issue.
+==========
+However, We reserve the right to act immediately if We reasonably believe that allowing such Content or use of the Services would expose Us to civil, regulatory or criminal liability.
+You agree to indemnify, defend and hold harmless Us from any and all third party claims, liability, damages and/or costs (including, but not limited to, attorneys’ fees) arising from your or your Users’ violation of the AUP.
+Warranty and Warranty Disclaimer.
+==========
+To the extent allowed by applicable law, you agree to use the Services at your own risk.
+You agree that We (including Approved Sources) and Our suppliers and affiliates will not be responsible for any harm to any device, any loss of data, or any other harm that results from your use of the Services.
+WE (INCLUDING APPROVED SOURCES) AND OUR SUPPLIERS AND AFFILIATES DO NOT GUARANTEE THAT YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE.
+TO THE EXTENT ALLOWED BY APPLICABLE LAW, THE SERVICES AND ANY RELATED SOFTWARE AND/OR SITES ARE PROVIDED “AS IS” AND “AS AVAILABLE” FOR YOUR USE WITHOUT WARRANTIES OR CONDITIONS, EITHER EXPRESS, IMPLIED OR STATUTORY.
+EXCEPT AS EXPRESSLY STATED IN THIS SECTION 14, TO THE EXTENT ALLOWED BY APPLICABLE LAW, WE (INCLUDING APPROVED SOURCES) AND OUR SUPPLIERS AND AFFILIATES, (i) EXPRESSLY DISCLAIM ALL WARRANTIES AND CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION ANY WARRANTY, CONDITION OR OTHER IMPLIED TERM AS TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT AND (ii) MAKE NO WARRANTY OR REPRESENTATION REGARDING THE SERVICES, ANY INFORMATION, MATERIALS, GOODS OR SERVICES OBTAINED THROUGH THE SERVICES OR THE SITES, OR THAT THE SERVICES WILL MEET ANY OF YOUR REQUIREMENTS, OR BE UNINTERRUPTED, TIMELY, SECURE OR ERROR FREE.
+==========
+In addition, the Services are not designed or licensed for use in environments requiring fail-safe controls (e.g., energy facilities, aircraft navigation/communication systems, life support or weapons systems).
+THE LAWS OF CERTAIN STATES AND JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED WARRANTIES.
+IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE DISCLAIMERS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS THAT VARY FROM STATE TO STATE OR JURISDICTION TO JURISDICTION.
+==========
+Limitation of Liability.
+YOU AGREE THAT CISCO (WHICH INCLUDES, COLLECTIVELY, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUPPLIES AND LICENSORS) AND ANY APPROVED SOURCE WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, EXEMPLARY, SPECIAL OR CONSEQUENTIAL DAMAGES, LOSS OR CORRUPTION OF DATA, LOSS OF REVENUES, PROFITS, GOODWILL OR ANTICIPATED SALES OR SAVINGS, PROCUREMENT OF SUBSTITUTE GOODS AND/OR SERVICES, OR INTERRUPTION TO BUSINESS OR WASTED ADMINISTRATIVE TIME.
+THESE EXCLUSIONS APPLY REGARDLESS OF THE THEORY OF LIABILITY, OR WHETHER RELATED TO YOUR USE OR INABILITY TO USE THE SERVICES, OR OTHERWISE.
+THESE EXCLUSIONS APPLY EVEN IF CISCO HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+==========
+TO THE EXTENT ALLOWED BY LAW, THE MAXIMUM LIABILITY OF CISCO (WHICH INCLUDES, COLLECTIVELY, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUPPLIES AND LICENSORS) AND ANY APPROVED SOURCE TO YOU SHALL NOT EXCEED GREATER OF: (I) THE FEES PAID BY YOU TO CISCO OR ANY APPROVED SOURCE DURING THE TWELVE (12) MONTHS BEFORE THE LAST EVENT THAT GAVE RISE TO YOUR CLAIM OR (II) US$100.00.
+THIS LIMITATION OF LIABILITY APPLIES WHETHER THE CLAIMS ARE CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE.
+THIS LIMITATION OF LIABILITY FOR SERVICES IS IN THE AGGREGATE AND NOT PER INCIDENT.
+THE LAWS OF CERTAIN STATES AND JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL DAMAGES.
+IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE EXCLUSIONS AND LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS THAT VARY FROM STATE TO STATE OR JURISDICTION TO JURISDICTION.
+==========
+Ownership and Proprietary Rights.
+Ownership.
+Cisco and its licensors own all intellectual property rights to the Services, Software and associated documentation.
+This ownership extends to all copies and portions of these items, and all improvements, enhancements, modifications and derivative works to these items.
+==========
+Therefore, your right to use the Services is a limited right to use, not a transfer of ownership or title, to the Services, Software, and associated documentation.
+Your rights to use the Software and associated documentation are limited to those rights expressly granted by this Agreement.
+You get no other rights to the Software, associated documentation, or Services or any related intellectual property rights in the Software.
+==========
+Feedback License.
+You grant to Us a worldwide, non-exclusive, perpetual, irrevocable license to use or transfer any Feedback you give Us for any purpose.
+We can also create and distribute any product or service that incorporates your feedback without paying you any royalties.
+==========
+Use of Your Name and Logo.
+The Service may allow use of your Marks with the Service.
+We may use your Marks to create a co-branded Site as part of delivery of the Services if so indicated in the Order.
+Nothing in this Agreement transfers to Us any rights or ownership in or to your Marks.
+Infringement Concerns.
+If you believe that your copyright or other rights have been infringed by Content on the Services, please contact Our Designated Agent for notice of claims of copyright infringement:
+Office of General Counsel
+Cisco Systems, Inc.
+170 West Tasman Drive
+San Jose, CA 95134
+Attn: Copyright Agent
+email: DMCAagent@cisco.com
+General.
+==========
+Assignment.
+We may assign Our rights and delegate Our obligations in whole or in part to an affiliate or subcontractor without your consent.
+Other than the above, neither party may assign or delegate this Agreement.
+==========
+Order of Precedence and Integration.
+If any provision of this Agreement and any Order conflict, the terms of the Order shall control.
+This Agreement (including any documents or sites that are incorporated into the Agreement) is the entire agreement between the parties with respect to the Services and trumps any conflicting or additional terms.
+Neither party shall be bound by any additional or different terms from those in this Agreement that might appear in any acknowledgements, purchase orders, quotations, proposals, or in any other communications between us, unless those terms are expressly agreed to by a written signed amendment to this Agreement.
+==========
+Any warranties or representations you relied on to enter into this Agreement are in this Agreement.
+Updates to this Agreement.
+We may update the terms of this Agreement from time to time.
+If We do, We will post the updated terms or will otherwise notify you.
+If you renew the Term, or purchase additional Services, after the updated Agreement has been posted, you agree to the updated terms unless your existing Agreement with Us expressly prohibits updating the Agreement by this mechanism.
+==========
+Force Majeure.
+Except for payment obligations, neither party will be responsible for failure of performance due to causes beyond its reasonable control.
+Such causes include (without limitation) accidents, severe weather events, acts of God, labor disputes, actions of any government agency, epidemic, pandemic, shortage of materials, acts of terrorism, or the stability or availability of the Internet or connectivity outside of the control of a party.
+==========
+Waiver.
+Failure to enforce any right under this Agreement will not waive that right.
+Severability.
+If any particular term of this Agreement is not enforceable, this will not affect any other terms.
+Legal Compliance.
+==========
+You will comply with all applicable laws and regulations related to your receipt and use of the Services.
+These laws include (without limitation): (a) privacy laws and regulations, (b) laws relating to the recording of communications, (c) laws relating to the use of VoIP-based services, and (d) anti-corruption laws.
+It is your sole responsibility to ensure you have the right to use all features of the Services in your jurisdiction.
+The Services may not be available in all countries and it may not be available for use in any particular location.
+We may modify or discontinue Services features to comply with applicable laws and regulations.
+Cisco will comply with all applicable laws in the provision of the Services to you.
+==========
+Export Compliance.
+The Services and Software are subject to local and extraterritorial export control laws and regulations.
+You shall comply with such laws and regulations governing use, export, re-export, and transfer of Services and Software and will obtain all required local and extraterritorial authorizations, permits or licenses.
+==========
+You and your Users will not use the Services from an embargoed country (currently Cuba, Iran, North Korea, Sudan and Syria).
+You warrant that you and your Users are not on any U.S. Government denied party list.
+The export obligations under this Section shall survive the expiration or termination of this Agreement
+U.S. Government End User Purchasers.
+==========
+The Software and associated documentation are "commercial items," as defined at Federal Acquisition Regulation ("FAR") (48 C.F.R.) 2.101, consisting of "commercial computer software" and "commercial computer software documentation" as such terms are used in FAR 12.212.
+Consistent with FAR 12.211 (Technical Data) and FAR 12.212 (Computer Software) and Defense Federal Acquisition Regulation Supplement (“DFAR”) 227.7202-1 through 227.7202-4, and notwithstanding any other FAR or other contractual clause to the contrary in any agreement into which this Agreement may be incorporated, Government end users will acquire, the Software and associated documentation with only those rights set forth in this Agreement.
+Any license provisions that are inconsistent with federal procurement regulations are not enforceable against the U.S. Government.
+==========
+Governing Law and Jurisdiction.
+The table below identifies the governing law that governs this Agreement (ignoring any conflict of laws provision) and the specific courts that have exclusive jurisdiction over any claim arising under this Agreement based on the service delivery address in the Order.
+In addition, no person who is not a party to this Agreement shall be entitled to enforce or take the benefit of any of its terms under the Contracts (Rights of Third Parties) Act 1999.
+Country or Territory Governing Law Jurisdiction and Venue
+United States, Latin America or the Caribbean State of California, United States of America State and Federal Courts of California
+Canada Province of Ontario, Canada Courts of the Province of Ontario, Canada
+Europe, Middle East, Africa, Asia or Oceana (excluding Australia) Laws of England English Courts
+Japan Laws of Japan Tokyo District Court of Japan
+Australia Laws of the State of New South Wales State and Federal Courts of New South Wales
+Italy Laws of Italy English Courts
+All other countries or territories State of California State and Federal Courts of California
+
+Regardless of the above governing law, either party may seek interim injunctive relief in any court of appropriate jurisdiction with respect to any alleged breach of such party's intellectual property or proprietary rights.
+==========
+Relationship of the Parties.
+The parties are independent contractors.
+This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship between the parties.
+Governing Language.
+This Agreement has been written in the English language, and the parties agree that the English version will govern.
+==========
+Third Party Products.
+Sometimes when you use the Services, You may also use a service or purchase goods which are provided by another person or company.
+Your use of these other services or goods may be subject to separate terms between you and the company or person concerned, and you agree that We shall have no liability or obligation relating to those services or goods.
+==========
+Notices.
+We may provide you with notice via email, regular mail and/or postings on Our website.
+Notices to Us should be sent to Cisco Systems, Office of General Counsel, 170 Tasman Drive, San Jose, 95134 unless this Agreement or Order specifically allow other means of notice.
+==========
+Cisco Acceptable Use Policy
+Use of the Software, services web portal, platform, services, applications, (collectively, “Services”) provided by Cisco Systems, Inc. or its direct or indirect affiliates (“Cisco”) is subject to this Acceptable Use Policy (“Policy”).
+If there is a conflict between this Policy and the applicable agreement You have with Cisco to obtain the Services (“Agreement”), the Agreement will prevail.
+This Policy applies to anyone who uses the Services, including without limitation the legal entity or individual doing business with Cisco (“Customer”), and any third party permitted by the Customer to use or access the Services (“End Users”).
+Customers are required to inform End Users of this Policy.
+Customers and End Users are referred to in this Policy as “You.”
+Cisco reserves the right to amend or modify this Policy at any time by amending this page.
+You are expected to check this page from time to time to take notice of any changes we make, as they are legally binding on You.
+==========
+By using or accessing the Services, You are agreeing to this Policy.
+You agree not to use, or encourage, promote, facilitate or instruct others to use the Services to:
+Commit or encourage fraudulent or other illegal activities in violation of any applicable law, regulation, legal agreement or Cisco’s published policies
+Infringe or misappropriate any copyright, trademark or other intellectual property, proprietary right, license right, or legal content protections
+Use, store, share, host, copy, distribute, display, publish, transmit or send content that is or may be deemed offensive, inflammatory, hateful, defamatory, discriminatory, obscene, abusive, invasive of privacy, harmful to others, or otherwise objectionable
+Access or probe any network, computer or communications system, software application, or network or computing device systems (“Systems”) without authorization, including but not limited to breaches, vulnerability scans or penetration testing
+Attack, abuse, interfere with, surreptitiously intercept, or disrupt any users, Systems or services, including but not limited to Denial of Service (DoS), unauthorized monitoring or crawling, distribution of malware (including but not limited to viruses, Trojan horses, worms, time bombs, spyware, adware, or cancelbots)
+Distribute unwanted, unsolicited or harassing mass e-mail or other messages, promotions, advertising, or solicitations (“Spam”)
+Alter, forge or obscure mail headers or assume a sender’s identity without the sender’s express permission, nor collect replies to messages sent from another internet service provider if those messages violate this Policy or the acceptable use policy of that provider
+Disable, interfere with, abuse, disrupt, intercept, circumvent or otherwise violate the security of the Services
+Cisco has the right, but does not assume the obligation, to monitor and investigate violations of this Policy.
+Failure to comply with or breach of this Policy constitutes a material breach of the terms and conditions upon which You are permitted to use the Services, and at any time, may result in Cisco taking any and all actions in its sole discretion and with immediate effect (in its reasonable discretion), up to and including:
+warnings;
+suspending or terminating access to the Services;
+removing or prohibiting access to content that violates this Policy;
+legal proceedings against You for reimbursement of all costs on an indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
+further legal action against You; and/or
+disclosure of such information to law enforcement authorities as Cisco reasonably feels is necessary or appropriate.
+Cisco excludes and disclaims all liability for actions taken in response to breaches of this Policy.
+The responses described in this Policy are not limited, and Cisco may take any other action it reasonably deems appropriate.
+For Customers and End Users under the jurisdiction of the United States Digital Millennium Copyright Act, if You believe that the Services is being used to violate your copyright, please follow our DMCA policy located at http://www.cisco.com/web/siteassets/legal/terms_condition.html.
+If Your Content has been removed, please see our DMCA policy for the counter-notice process.
+==========

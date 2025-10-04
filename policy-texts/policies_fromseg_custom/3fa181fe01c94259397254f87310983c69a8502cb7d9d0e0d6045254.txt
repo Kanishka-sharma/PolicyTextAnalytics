@@ -1,0 +1,92 @@
+This Privacy Policy describes, in Plain English, the steps taken by AdTheorent, Inc. to safeguard the privacy rights of Web site visitors who receive mobile advertisements through publishers and media supported by our Mobile Demand-Side Platform (MDSP) and related services (Users).
+As a leading MDSP provider, our mission is to purchase media (in real time) from our inventory sources, and to serve mobile advertisements through such media on behalf of our advertiser clients in an intelligent manner.
+In our pursuit of these business objectives we adhere to the fundamental principles of transparency, user control and data security.
+AdTheorent is a member of the Internet Advertising Bureau and adheres to the IAB/DAA’s Self-Regulatory Principles for Online Behavioral Advertising, including the unique principles applicable to the mobile environment.
+==========
+This Privacy Policy describes the types of data that we do and do not receive through our MDSP, and the services we provide to our clients generally.
+This Privacy Policy is subject to change from time to time, in which case we will post an updated version on the Privacy section of our Web site.
+Changes to this Privacy Policy will take effect 30-days after the updated Privacy Policy is posted to our Web site’s privacy page, located at www.adtheorent.com/privacy.php.
+==========
+We Do Not Sensitive Collect Personally Identifiable Information or Sensitive Consumer Information
+We do not collect Sensitive Personally Identifiable Information (“SPII”) or Sensitive Consumer Information (“SCI”) about individual Users for any purpose.
+In other words, our MDSP does not use PII or SCI to target ads to individual Users.
+For purposes of this Privacy Policy, (i) SPII means any information that could be used to personally identify the User, such as the User’s name, Social Security Number, phone number (fixed or mobile), email address, credit card information, or any other data that could be used to personally identify the User; and (ii) SCI means sensitive information about a User such as financial account numbers, insurance plan numbers, or information about medical conditions.
+==========
+AdTheorent does store data that, in conjunction with other publicly accessible data, could be considerd non-sensitive PII, such as IP Address, Cookie Ids and Device Adverting Ids (i.e., “non-sensitive PII”).
+This data is stored separately and role-based access controls are in place which limit the linking or correlation of such data elements, and the Company does not use this data to seek to distinguish or trace an individual’s identity.
+The Cookie IDs and advertising IDs maintained and stored by the Company are used for re-targeting and frequency-capping purposes, to the extent requested by a given client, and such IDs are not tied to and do not include any data or information regarding a User’s Web browsing history or other behavioral data.
+==========
+To the extent any of our Partners (as defined below) gather and form of PII, their privacy policies will govern its use.
+For purposes of this Privacy Policy SPII and SCI are referred to collectively as SPII and non-sensitive PII is referred to as PII.
+In addition, to the extent any of our Partners gather PII, we do not aggregate such information in a manner that could be used to identify any User.
+For example, in some instances we cross-reference non-sensitive PII information with a “hashed” version (i.e., a coded version) of a corresponding physical address or email address.
+==========
+We do this to provide more transparency to advertisers regarding the users who engaged with their ads and to provide more effective targeting (including in some cases identifying which devices correspond to the same unidentified User), and although we maintain statistical and aggregate information about such Users, we do not create profiles of specific Users for any purpose.
+How We Use Non-Sensitive PII Data and Other Data To Make Advertisements More Relevant to Users
+When we serve mobile advertisements on behalf of our advertiser clients we endeavor to make the ads relevant to Users.
+We accomplish this by matching ads with relevant non-sensitive PII and other characteristics about the User and the mobile publication that the User has visited, such as the time of day and date, content on the site or app, latitude/longitude of User, other devices associated with the User, carrier network, type of mobile device/mobile browser, IP address, as well as other non-sensitive PII data provided through our Partners.
+In other words, although we may serve an ad to a User based on certain demographic information about the Users (e.g., female in New York between the ages of 35 and 50), our MDSP does not know – nor do we seek to know – who that User is, or any information that would allow us to identify who the User is.
+==========
+Currently we obtain certain device IDs (Android Advertising ID, Apple IDFA) in some cases to verify a User election, such as a User-requested app install request.
+In those cases we obtain the device ID not to track the User, but rather to substantiate for our advertiser clients whether the User installed the app.
+In order to ensure the geographic relevance of ads that we serve and to identify correlations between disparate devices, we derive User device location data from information made available to us from inventory partners and data partners, as follows:
+
+We gather User device latitude/longitude data from bid requests to which we are provided access by our inventory partners.
+==========
+We translate the latitude/longitude provided into a physical street address (a process which we refer to as “reverse geocoding”).
+We use models (along with frequency and temporal proximity) to identify the physical address (i.e., household address) which corresponds to the device.
+We also use models to identify the IP address corresponding to a given physical address.
+==========
+Once we know the household or other physical location with respect to which a device is associated, we can group specific devices up into a “household” or other physical location.
+Using this geographic data, we can target “households” or devices with ads (physical or digitally).
+Derived physical addresses are also used to match an advertiser’s internal datasets to devices within our ecosystem.
+This allows AdTheorent to target ads to devices that are associated with customers of our advertiser clients (although AdTheorent does not ever learn or receive access to the name or identity of any User).
+==========
+Our MDSP does not currently use or seek to obtain information about a User’s browsing history (i.e, web sites visited) or Web-based purchasing history.
+In addition, we will not use a User’s current GPS geographic location to target an ad unless we or one of our data or inventory Partners have previously obtained permission to do so.
+Because we do not have a nexus with a User before the User generates a specific bid request, we rely on our inventory partners to adhere to contractual requirements and applicable regulatory and self-regulatory guidelines, including any requirements related to obtaining User consent to access the User’s geographic location.
+If we intend to obtain or use this information in the future we will update our Privacy Policy accordingly, as described above, to clearly delineate a User’s rights; provided, however, that any User is free to Opt Out of any such future practice or use of User-specific behavioral, geocoding or interest-based targeted advertising by clicking here.
+In addition, more information about opting out of interest-based advertising is available on the opt-out pages maintained by the Network Advertising Initiative (“NAI”) (currently located at http://www.networkadvertising.org/choices/) or the Digital Advertising Alliance (DAA) (currently located at http://www.aboutads.info/choices/).
+==========
+Through our MDSP, we work with a broad network of publishers, carriers, networks and advertisers (“Partners”).
+Our Partners may have certain rights to the data we collect on their behalf, and each of our Partners maintains its own privacy policy.
+We may share aggregated data, or non-personal data with third parties.
+Our clients are corporate organizations and businesses and our services are not directed at or developed for persons under the age of 13.
+How We Collect Non-Sensitive PII Data and Other Data
+We collect non-sensitive PII data and other data both from our Partners and by looking at the non-sensitive PII and other information that comes to our servers from a User’s device, such as a mobile phone, during an ad view.
+This information enables our MDSP to deliver the most relevant and useful advertisement given the non-PII data available about the media “impression.”
+==========
+We currently do not store any cookies on User devices to identify any User.
+We do store cookies on User devices in order to anonymously identify one device from another.
+The ID stored in the cookie is an anonymous unique ID (AUID).
+AdTheorent and its Partners may use non-cookie technologies to recognize a User’s computer or device and/or to collect and record information about the User.
+A User’s web browser may not permit the User to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques.
+==========
+To learn more about Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of self-regulatory programs such as the Network Advertising Initiative, please visit the NAI’s website (www.networkadvertising.org) which will allow you to opt out of Interest-Based Advertising by one, or all, NAI members.
+How We Comply with Self Regulatory Requirements Related to Precise Location Data
+AdTheorent adheres to the requirements of the NAI Code of Conduct related to the collection and use of Precise Location Data, consistent with NAI guidance submitted on the NAI blog on April 1, 2016.
+As a third party ad network, AdTheorent complies through its adherence to the requirements of the Digital Advertising Alliance (DAA) Mobile Guidance, Section IV.B.2, which provides a number of methods for third party ad networks to obtain reasonable assurances that a first party publisher, such as a mobile application, has obtained such consent on their behalf.
+==========
+How We Safeguard the Security of Aggregate User Data
+Data collected by our MDSP is only retained in an aggregated form after 180 days, so that information about an individual User cannot be retrieved.
+All the data we hold is protected by multiple layers of physical, electronic and administrative safeguards, to secure it against accidental, unauthorized or unlawful access, use, modification, disclosure, loss or destruction.
+From time-to-time we may share the aggregated, non-individual specific, data we hold with Publishers and Networks for reporting and accounting purposes, as well as other unaffiliated third parties for various purposes such as statistical or educational analysis.
+In these cases we work with organizations we believe to have appropriate safeguards in place to protect data at the levels we require.
+==========
+In situations where we are obligated by law, we may also disclose information in order to investigate, prevent or take action regarding suspected or actual prohibited activities, included but not limited to, fraud and situations involving potential threats to the physical safety of any person.
+How We Meet Our Obligations Under Laws, Regulations and Standards Intended to Safeguard Children
+AdTheorent takes various steps to ensure compliance with the federal Children’s Online Privacy Protection Act (COPPA) as well as voluntary industry frameworks such as the Children’s Advertising Review Unit (CARU), administered by the Council of Better Business Bureau’s, Inc., including the following:
+
+We do not perform behavioral targeting as performed by many “first generation” ad networks; AdTheorent predictive modeling does not entail targeting of individual users.
+We do not store data regarding users under age 13 (per COPPA); when an impression is flagged indicating a pre-13 child user, AdTheorent does not collect data from that impression or otherwise model off that data.
+We work with responsible Publishers and App Partners who take seriously their responsibilities under applicable laws and FTC regulations.
+Such publishers have their own incentives not to make COPPA-governed data/information available to ad networks such as AdTheorent.
+We utilize IAB brand safety categories in filtering impressions on which to serve advertisements, including filtering by the IAB category “any other content you wouldn’t show your children.”
+Our in-house creative team monitors and ensures that all AdTheorent-prepared creative is consistent with the CARU General Guidelines.
+Our clients are high-integrity brands with an appreciation for and understanding of the importance of CARU’s standards.
+==========
+We also take precautions to also not collect data from apps or sites that are clearly targeted towards children under age 13, regardless of whether bid data identifies the User as under age 13.
+Contact Us for Further Information
+If you have any questions about this Policy or our privacy practices, please email us at legal@adtheorent.com.
+This Privacy Policy was last updated in May, 2017.
+==========

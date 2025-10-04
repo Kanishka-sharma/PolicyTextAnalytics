@@ -1,0 +1,742 @@
+Last update: January 30th, 2020
+At Matterport, we believe in being clear and open about how we collect data related to you.
+This Cookie Policy provides detailed information about how and when Matterport (collectively, “Matterport”, “Company”, “we” or “us”) use cookies and similar technologies, to recognize you when you visit our websites at www.matterport.com, and any associated subdomains or websites (collectively “Websites” and “Services”).
+This notice explains what these technologies are, why we use them, and your rights to control our use of them.
+==========
+What are cookies?
+Cookies are small data files that are placed on your computer or mobile device when you visit a website.
+Cookies are widely used by website owners in order to make their websites function, to work more efficiently, as well as to provide reporting information.
+Cookies set by the operator of a website (in this case, Matterport) are called “first party cookies”.
+Cookies set by parties other than Matterport are called “third-party cookies”.
+==========
+Third-Party cookies enable third party features or functionality to be provided on or through the Website (for example advertising, interactive content, interaction with social media sites, and analytics).
+The parties that set these third party cookies can recognize your computer or mobile device both when you visit our Website, and also when you visit certain other websites.
+Why do we use cookies?
+We use first-party and third-party cookies for several reasons.
+==========
+Some cookies are required for technical reasons in order for our Website and Services to operate, and we refer to these as “essential” or “strictly necessary” cookies.
+Other cookies also enable us to track and target the interests of our users and to enhance the experience of our Service.
+Third parties serve cookies through our Websites for advertising, analytics and other purposes.
+The specific types of first and third-party cookies served through our Websites and the purposes they perform are described below:
+Strictly Necessary Cookies
+These cookies are strictly necessary to provide the Service to you through our Websites.
+Strictly necessary cookies allow you to use our Services and to enable access to various features such as a unique user session, and to enable access to secure areas.
+Matterport serves these cookies directly, and they are described as follows:
+
+
+
+Name
+Purpose
+Provider
+Expiration
+
+
+sessiontoken
+Provides user authentication for a secure and personalized experience
+authn.matterport.com
+When browsing session ends
+
+
+authn_token
+Provides user authentication for a secure and personalized experience
+matterport.com
+When browsing session ends
+
+
+MPBillingSession
+Used to maintain your session when purchasing products and services
+buy.matterport.com
+When browsing session ends
+
+
+sessiontoken
+Used to maintain your session when purchasing products and services
+buy.matterport.com
+When browsing session ends
+
+
+
+ 
+Performance cookies
+These cookies are used to enhance and improved the performance of our Websites and our Services but are not essential.
+==========
+These cookies collect information that helps us understand how the Websites and Services are being used by our customers, how effective our marketing campaigns are.
+These cookies may collect IP addresses and may generate a unique identifiers to analyze how frequently you visit our Websites, and gather other metrics such as page views.
+==========
+These cookies and the parties that provide them are described below:
+
+
+
+Name
+Purpose
+Provider
+Expiration
+
+
+__tld__
+This performance cookie is used by Segment, and counts visits and tracks other website traffic-related metrics
+matterport.com
+When browsing session ends
+
+
+ajs%3Acookies
+This performance cookie is used by Segment, and counts visits and tracks other website traffic-related metrics
+matterport.com
+When browsing session ends
+
+
+ajs%3Atest
+This performance cookie is used by Segment, and counts visits and tracks other website traffic-related metrics
+matterport.com
+When browsing session ends
+
+
+ajs_anonymous_id
+This performance cookie is used by Segment, and counts visits and tracks other website traffic-related metrics
+matterport.com
+1 year
+
+
+ajs_group_id
+This performance cookie is used by Segment, and counts visits and tracks other website traffic-related metrics
+matterport.com
+1 year
+
+
+ajs_user_id
+This performance cookie is used by Segment, and counts visits and tracks other website traffic-related metrics
+matterport.com
+1 year
+
+
+_gid
+Used by Google Analytics and tracks other website traffic-related metrics
+matterport.com
+1 day
+
+
+_ga
+Used by Google Analytics and tracks other website traffic-related metrics
+matterport.com
+2 years
+
+
+_gat_UA-[followed by a 10 character ID]
+Used by Google Analytics to throttle tracking
+matterport.com
+When browsing session ends
+
+
+_hjid
+Used by Hotjar to analyze online behavior
+matterport.com
+1 year
+
+
+_hjCachedUserAttributes
+Used by Hotjar to analyze online behavior
+script.hotjar.com
+When browsing session ends
+
+
+_mkto_trk
+Used by Marketo for online marketing
+matterport.com
+2 years
+
+
+_cfduid
+Many websites use the Cloudflare CDN to accelerate your browsing experience
+Various
+5 years
+
+
+
+ 
+Functionality cookies
+These cookies enable our Service and Websites to provide enhanced functionality and features.
+Although these cookies are not strictly necessary, if you disable them, certain functionality may not be available to you.
+These cookies and the parties that provide them are described below:
+
+
+
+Name
+Purpose
+Provider
+Expiration
+
+
+intercom-session-toxdrc11
+Used by Intercom messenger to maintain your session
+matterport.com
+7 days
+
+
+vuid
+Used by Vimeo when we show you videos
+vimeo.com
+2 years
+
+
+pardot
+Used by Pardot when visitors access a form, landing page, or page with Pardot tracking code
+matterport.com
+When browsing session ends
+
+
+Visitor_id[followed by account ID]
+Used by Pardot to uniquely track visitors when they access Pardot forms
+matterport.com
+10 years
+
+
+m-b
+This cookie is associated with Quora, which uses cookies to distinguish users of the Quora Platform
+quora.com
+2 years
+
+
+_oklv
+Used by Olark live chat
+matterport.com
+			assets.olark.com
+			static.olark.com
+When browsing session ends
+
+
+olfsk
+Used by Olark live chat
+matterport.com
+			static.olark.com
+2 years
+
+
+_ok
+Used by Olark live chat
+matterport.com
+			static.olark.com
+When browsing session ends
+
+
+_okgid
+Used by Olark live chat
+matterport.com
+			static.olark.com
+When browsing session ends
+
+
+_okdetect
+Used by Olark live chat
+matterport.com
+			static.olark.com
+When browsing session ends
+
+
+_okcs
+Used by Olark live chat
+matterport.com
+			static.olark.com
+When browsing session ends
+
+
+_okck
+Used by Olark live chat
+matterport.com
+			static.olark.com
+When browsing session ends
+
+
+_okla
+Used by Olark live chat
+static.olark.com
+When browsing session ends
+
+
+_okbk
+Used by Olark live chat
+static.olark.com
+When browsing session ends
+
+
+_okac
+Used by Olark live chat
+static.olark.com
+When browsing session ends
+
+
+
+ 
+Targeting cookies
+Targeting cookies are used by our advertising and marketing partners and work primarily through uniquely identifying your device (e.g., advertising ID, IP address, geolocation), and are used to build a profile of your interests and show you relevant ads on other websites you may visit.
+If you do not allow these cookies, you will experience less targeted advertising.
+Name
+Purpose
+Provider
+Expiration
+
+
+__adroll_fpc
+Used by Adroll to provide real-time bidding for advertisers
+matterport.com
+5 years
+
+
+_te_
+Used by Adroll to provide real-time bidding for advertisers
+matterport.com
+When browsing session ends
+
+
+__adroll_consent_params
+Used by Adroll to provide real-time bidding for advertisers
+matterport.com
+When browsing session ends
+
+
+_fbp
+Used by Facebook to deliver advertising
+matterport.com
+90 days
+
+
+__ar_v4
+Used by Doubleclick (Google) to deliver advertising
+doubleclick.net
+1 year
+
+
+test_cookie
+Used by Doubleclick (Google) to deliver advertising
+doubleclick.net
+When browsing session ends
+
+
+IDE
+Used by Doubleclick (Google) to deliver advertising
+doubleclick.net
+13 months
+
+
+tluid
+Used by TripleLift to deliver advertisign
+3lift.
+com
+90 days
+
+
+uvc
+Used by AddToAny to enable Social Sharing
+addtoany.com
+1 day
+
+
+anj
+Used by AppNexus to deliver advertising
+adnxs.com
+90 days
+
+
+__adroll_shared
+Used by Adroll to deliver advertising
+adroll.com
+13 months
+
+
+__adroll
+Used by Adroll to deliver advertising
+d.adroll.com
+13 months
+
+
+lang
+Used by LinkedIn to deliver advertising
+ads.linkedin.com
+When browsing session ends
+
+
+APID
+Used by Verizon Media to deliver advertising
+advertising.com
+1 year
+
+
+IDSYNC
+Used by Yahoo to deliver advertising
+analytics.yahoo.com
+1 year
+
+
+B
+Used by Yahoo to deliver advertising
+yahoo.com
+1 year
+
+
+APIDTS
+Used by Yahoo to deliver advertising
+yahoo.com
+1 day
+
+
+APID
+Used by Yahoo to deliver advertising
+yahoo.com
+11 months
+
+
+AA003
+Used by Facebook to deliver advertising
+atdmt.com
+90 days
+
+
+ATN
+Used by Facebook to deliver advertising
+atdmt.com
+2 years
+
+
+fr
+Used by Facebook to deliver advertising
+facebook.com
+90 days
+
+
+MUIDB
+Used by Microsoft/Bing to deliver advertising
+bat.bing.com
+13 months
+
+
+MUID
+Used by Microsoft/Bing to deliver advertising
+bing.com
+13 months
+
+
+bitoIsSecure
+Used by bidr.io to deliver advertising
+bidr.io
+13 months
+
+
+bito
+Used by bidr.io to deliver advertising
+bidr.io
+13 months
+
+
+checkForPermission
+Used by bidr.io to deliver advertising
+bidr.io
+When browsing session ends
+
+
+tuuid
+Used by IPONWEB to provide real-time bidding for advertisers
+bidswitch.net
+1 year
+
+
+c
+Used by IPONWEB to provide real-time bidding for advertisers
+bidswitch.net
+1 year
+
+
+tuuid_lu
+Used by IPONWEB to provide real-time bidding for advertisers
+bidswitch.net
+1 year
+
+
+CMST
+Used by Casale Media to deliver advertising
+casalemedia.com
+1 day
+
+
+CMRUM3
+Used by Casale Media to deliver advertising
+casalemedia.com
+1 year
+
+
+CMID
+Used by Casale Media to deliver advertising
+casalemedia.com
+1 year
+
+
+CMPRO
+Used by Casale Media to deliver advertising
+casalemedia.com
+1 year
+
+
+CMPS
+Used by Casale Media to deliver advertising
+casalemedia.com
+13 months
+
+
+tuuid_lu
+Used by Demandbase to deliver advertising
+company-target.
+com
+2 years
+
+
+tuuid
+Used by Demandbase to deliver advertising
+company-target.
+com
+2 years
+
+
+wistia-http2-push-disabled
+Used when we show you Wistia videos.
+==========
+These videos can include targeting cookies
+fast.wistia.com
+When browsing session ends
+
+
+lang
+Used by our Website and LinkedIn to provide content shared and advertising
+linkedin.com
+When browsing session ends
+
+
+UserMatchHistory
+Used by our Website and LinkedIn to provide content shared and advertising
+linkedin.com
+30 days
+
+
+lissc
+Used by our Website and LinkedIn to provide content shared and advertising
+linkedin.com
+1 year
+
+
+bcookie
+Used by our Website and LinkedIn to provide content shared and advertising
+linkedin.com
+13 months
+
+
+lidc
+Used by our Website and LinkedIn to provide content shared and advertising
+linkedin.com
+1 day
+
+
+bscookie
+Used by our Website and LinkedIn to provide content shared and advertising
+www.linkedin.com
+2 years
+
+
+i
+Used by OpenX to deliver advertising
+openx.net
+1 year
+
+
+obuid
+Used by Outbrain to deliver advertising
+outbrain.com
+90 days
+
+
+adrl
+Used by Outbrain to deliver advertising
+outbrain.com
+30 days
+
+
+Visitor_id[followed by a 5-character ID]
+Used by Pardot for lead generation and tracking purposes
+pardot.com
+10 years
+
+
+pardot
+Used by Pardot for lead generation and tracking purposes
+pi.pardot.com
+When browsing session ends
+
+
+lpv142351
+Used by Pardot for lead generation and tracking purposes
+pi.pardot.com
+When browsing session ends
+
+
+visitor_id[followed by a 5-character ID]
+Used by Pardot for lead generation and tracking purposes
+pi.pardot.com
+10 years
+
+
+PUBMDCID
+Used by Pubmatic to provide real-time bidding for advertisers
+pubmatic.com
+90 days
+
+
+KRTBCOOKIE_xxxx
+Used by Pubmatic to provide real-time bidding for advertisers
+pubmatic.com
+400 days
+
+
+PugT
+Used by Pubmatic to provide real-time bidding for advertisers
+pubmatic.com
+30 days
+
+
+t_gid
+Used by Taboola to deliver advertising
+taboola.com
+1 year
+
+
+personalization_id
+Used by Twitter for tracking and targeted advertising
+twitter.com
+2 years
+
+
+cookieJartestCookie
+Used by Outbrain to deliver advertising
+sync.outbrain.com
+1 day
+
+
+anHistory
+Used by Datonics to deliver advertising
+pro-market.
+net
+30 days
+
+
+anProfile
+Used by Datonics to deliver advertising
+pro-market.
+net
+190 days
+
+
+INGRESSCOOKIE
+Used by Pulsepoint to deliver advertising
+bh.contextweb.com
+When browsing session ends
+
+
+_cc_id
+Used by Lotame to deliver advertising
+crwdcntrl.net
+9 months
+
+
+_cc_dc
+Used by Lotame to deliver advertising
+crwdcntrl.net
+9 months
+
+
+_cc_aud
+Used by Lotame to deliver advertising
+crwdcntrl.net
+9 months
+
+
+_cc_cc
+Used by Lotame to deliver advertising
+crwdcntrl.net
+When browsing session ends
+
+
+uid
+Used by simpli.fi to deliver advertising
+simpli.fi
+1000 years
+
+
+uid_syncd
+Used by simpli.fi to deliver advertising
+simpli.fi
+3 days
+
+
+EE
+Used by Exelate to enable advertising data aggregation
+exelator.com
+120 days
+
+
+ud
+Used by Exelate to enable advertising data aggregation
+exelator.com
+120 days
+
+
+ab
+Used by Aggregate Knowledge, which enables real-time targeting and customer profiling functionality
+agkn.com
+1 year
+
+
+audience
+Used by spotxchange to deliver advertising
+spotxchange.com
+1 year
+
+
+ad-id
+Used by Amazon.com for affiliate marketing
+amazon-adsystem.
+==========
+com
+8 months
+
+
+
+ 
+Use of Local Storage
+Cookies are not the only way to store information on your computer or mobile device.
+Matterport stores additional information that is essential to the functionality of the Services in local storage.
+Local storage is similar to the storage of information in cookies, but never expires until our Services delete this information, or you delete it yourself.
+Please refer to the instructions specific to the type of browser you are using, or the specific mobile phone operating system you are using for instructions on how to delete local storage.
+==========
+Other tracking technologies
+Cookies are not the only way to track visitors to a website.
+Matterport and our third party partners may use other similar technologies such as clear GIFs (also known as “tracking pixels” and “web beacons”).
+Clear GIFs are small graphics files that contain an identifier that recognizes when a user visits our Websites.
+==========
+This allows our third-party partners to monitor traffic patterns between websites, communicate with cookies, to understand if you have come from an advertisement displayed on a third party Website, to monitor the success of marketing campaigns and to improve site performance.
+These technologies typically rely on cookies to function, so disabling cookies in your browser will impair their functionality.
+How can I control cookies?
+You have the right to decide whether to allow cookies when using our Websites and Services.
+Most browsers allow you to control cookies as part of their settings and preferences.
+Please refer to your specific browser for instructions on how to disable, limit and delete cookies.
+==========
+The following links are provided for your convenience.
+Click on the relevant link below to access detailed information regarding cookie settings.
+Should your browser not be listed here, you should review the help pages for your specific browser to see what features are offered for adjusting your cookie settings:
+
+Microsoft Internet Explorer
+Google Chrome
+Safari
+Firefox
+
+Note that if you disable, limit or delete cookies, our Websites may not function properly, and this may prevent you from using our Services.
+Where can I find more information about cookies?
+You can learn more about cookies at the following third-party websites:
+Updates to this Cookie Policy
+We may update this Cookie Policy from time to time, therefore revisit this page to stay informed about our use of cookies.
+The date at the top of this Cookie Policy indicates when it was last updated.
+==========

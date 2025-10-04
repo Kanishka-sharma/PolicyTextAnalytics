@@ -1,0 +1,68 @@
+K-12 Student Policy Data Statements
+Definitions
+Disclose (Disclosure) means any act that makes Personal Information available or accessible to a third party, either by physically transferring the Personal Information to the recipient or by allowing the recipient to view or access the Personal Information remotely.
+Personal information means any information that can be used to identify, locate or contact an individual.
+Personal Information includes identifying information (such as person’s name or email address).
+==========
+It also includes other data elements, such as Internet Protocol (IP) addresses, Cengage Globally Unique Identifiers or GUIDs, device identifiers or school-issued IDs, if such data can be associated with an individual and content captured and recorded when taking a course, such as for a languages course.
+If we can tie the data to an individual (either by itself or using other information that we have), then the data is PI.
+==========
+K-12 Student means an individual studying in any preschool, elementary, middle or secondary school.
+K-12 Student Data means (with respect to K-12 Students) any Personal Information that, alone or in combination, identifies an individual student or the student's parent or family, and that is collected, maintained, generated, or inferred by a public education entity, either directly or through a school service, or by a school service contract provider or school service on-demand provider.
+K-12 Student Data encompasses all Personal Information pertaining to K-12 Students (including all persistent identifiers, geolocation data, images and photographs) collected via rosters, directly from K-12 Students or from other sources.
+==========
+Targeted Advertising means selecting and sending advertisements to a student based on information obtained or inferred over time from the student's online behavior, use of applications, or Personal Information.
+"Targeted Advertising" does not include: 
+(a) advertising to a student (i) at an online location based on the student's current visit to that location or in response to the student's request for information or feedback; and (ii) without the collection and retention of a student's online activities over time;
+(b) adaptive learning, personalized learning, or customized education; or
+(c) with the consent of a student or the student's parent, using the student's Personal Information to identify for the student institutions of higher education or scholarship providers that are seeking students who meet specific criteria.
+==========
+Policy Statements:
+The following rules are designed to enable Cengage to comply with FERPA, COPPA and state student privacy laws.
+Collection, Use, and Disclosure
+Cengage shall not collect, maintain, use or disclose K-12 Student Data beyond that needed for authorized educational/school purposes, or as appropriately authorized by a school, parent, or student.
+Targeted Advertising and Selling 
+Cengage shall not:
+(a) Use any K-12 Student Data for Targeted Advertising.
+(b) Create K-12 Student profiles for advertising or for any other purpose that is not required by the Client for educational purposes
+(c) Sell K-12 Student Data or otherwise disclose the K-12 Student Data to any third party unless (i) such third parties are data processors acting on our behalf, (ii) the disclosure is required by law or otherwise legally permitted, or (iii) the disclosure is made at the request of the Client for  educational purposes.
+==========
+Security
+Cengage shall protect K-12 Student Data using appropriate security measures, including encryption, and disclosing the information only to third parties that are capable of and contractually obligated to maintaining its confidentiality and security.
+Retention
+Cengage shall not retain K-12 Student Data longer than needed to fulfill the educational purposes for which it was collected.
+Cengage will also delete K-12 Student Data upon request of the applicable Client (school or school district) or (if feasible) the applicable parent or Student.
+==========
+De-Identified and Aggregated Data
+5.
+Cengage shall not use any K-12 Student Data for product development, testing or innovation unless the K-12 Student Data has been de-identified (anonymized) and aggregated.
+(Cengage may use de-identified data for product development, research and other purposes.
+==========
+This data will have all direct and indirect identifiers removed, including name, student ID numbers, GUIDs, dates of birth, demographic information location data and school ID.
+Cengage shall not attempt to re-identify any de-identified data and shall prohibit any recipients of the de-identified data from trying to re-identify individuals.)
+==========
+Children Under 13 years old
+To the extent that Cengage’s  websites and online services (including mobile apps) are directed towards (or are actually used by) children under 13 years old, Cengage must either obtain verifiable parental consent from the Student’s parent or be authorized to collect the Personal Information by the Student’s school.
+Services provided to a School
+To the extent that Cengage is collecting Personal Information from children under 13 in connection with website and mobile apps provided to a school , Cengage may rely on the school to authorize the collection of the Personal Information.
+==========
+In this case:
+(a) Cengage shall post a clear and comprehensive online privacy policy describing its information practices for Personal Information collected online from the children.
+(b) Cengage shall obtain consent from the school prior to collecting Personal Information from the children.
+(c) The Personal Information may only be used for educational purposes that benefit the school and not for any commercial purposes;
+(d) To the extent feasible, Cengage shall provide parents with access to their child's Personal Information to review and/or have the information deleted;
+(e) To the extent feasible, Cengage shall give parents the opportunity to prevent further use or online collection of a child's Personal Information; and
+(f) The Personal Information shall only be retained for only as long as is necessary to fulfill the educational purpose for which it was collected.
+Services provided directly to children
+To the extent that Cengage is collecting Personal Information from children under 13 in connection with website and mobile apps provided directly to children (or to the extent that Cengage wants to use the Personal Information for any commercial purpose), Cengage must obtain verifiable parental consent and otherwise fully comply with the Children’s Online Privacy Protection Act (COPPA).
+COPPA requires Cengage to:
+(a) Post a clear and comprehensive online privacy policy describing their information practices for personal information collected online from children;
+(b) Provide direct notice to parents and obtain verifiable parental consent, with limited exceptions, before collecting Personal Information online from children;
+(c) Give parents the choice of consenting to Cengage’s collection and internal use of a child’s information, but prohibiting Cengage from disclosing that information to third parties (unless disclosure is integral to the site or service, in which case, this must be made clear to parents);
+(d) Provide parents access to their child's Personal Information to review and/or have the information deleted;
+(e) Give parents the opportunity to prevent further use or online collection of a child's Personal Information;
+(f) Maintain the confidentiality, security, and integrity of information Cengage collects from children, including by taking reasonable steps to release such information only to parties capable of maintaining its confidentiality and security; and
+(g) Retain Personal Information collected online from a child for only as long as is necessary to fulfill the purpose for which it was collected and delete the information using reasonable measures to protect against its unauthorized access or use.
+Other Disclosures
+In the event of any merger, acquisition or similar transaction involving Cengage’s business or assets, Cengage may transfer K-12 Student Data to another entity, provided the successor entity is subject to these same commitments for the previously collected student Personal Information.
+==========

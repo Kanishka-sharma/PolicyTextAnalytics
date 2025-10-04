@@ -1,0 +1,31 @@
+Senator Al Franken (D-MN) has sent a letter to Apple CEO Tim Cook expressing concern over the new Touch ID fingerprint sensor built into the iPhone 5s, which went on sale earlier today.
+In the letter (PDF), the Senator, Chairman of the Senate Judiciary Subcommittee on Privacy, Technology and the Law, says he is an iPhone owner and is concerned about the use of fingerprints to unlock the device.
+It's clear to me that Apple has worked hard to secure this technology and implement it responsibly.
+The iPhone 5S reportedly stores fingerprint data locally "on the chip" and in an encrypted format.
+It also blocks third-party apps from accessing Touch ID.
+Yet important questions remain about how this technology works, Apple's future plans for this technology, and the legal protections that Apple will afford it.
+I should add that regardless of how carefully Apple implements fingerprint technology, this decision will surely pave the way for its peers and smaller competitors to adopt biometric technology, with varying protections for privacy.
+==========
+Franken goes on to ask twelve separate questions of Cook, including:
+- If it's possible to convert locally-stored fingerprint data into a format that can be used by third parties.
+- If it's possible to extract and obtain fingerprint data from an iPhone 5s either remotely or with physical access to the device.
+- What diagnostic information the iPhone 5s sends to Apple about the Touch ID system.
+- Whether Apple considers fingerprint data to be the "subscriber information" or "electronic communication transactional records", the "contents" of communications, customer or subscriber records, or a "subscriber number or identity" as defined in the Stored Communications Act, or a "tangible thing" as defined in the USA PATRIOT Act.
+The last group of questions relates to when and if Apple could be required to disclose fingerprint information to U.S. Government law enforcement agencies.
+==========
+Apple, for its part, has posted an extensive knowledge base article about the security benefits of the Touch ID system, though it only discloses broad details about how the iPhone 5s stores fingerprint data, but nevertheless, it may answer some of the questions that Senator Franken asked:
+Touch ID does not store any images of your fingerprint.
+It stores only a mathematical representation of your fingerprint.
+It isn't possible for your actual fingerprint image to be reverse-engineered from this mathematical representation.
+==========
+iPhone 5s also includes a new advanced security architecture called the Secure Enclave within the A7 chip, which was developed to protect passcode and fingerprint data.
+Fingerprint data is encrypted and protected with a key available only to the Secure Enclave.
+Fingerprint data is used only by the Secure Enclave to verify that your fingerprint matches the enrolled fingerprint data.
+The Secure Enclave is walled off from the rest of A7 and as well as the rest of iOS.
+Therefore, your fingerprint data is never accessed by iOS or other apps, never stored on Apple servers, and never backed up to iCloud or anywhere else.
+Only Touch ID uses it and it can't be used to match against other fingerprint databases.
+==========
+Senator Franken gave Tim Cook and Apple thirty days to answer the questions and, though it is not a subpoena and Apple is not required to respond, the company is likely to cooperate.
+This is not the first time that Senator Franken has interacted with Apple -- in 2011, he asked both Apple and Google to require clear privacy policies for apps sold on their app stores.
+He also introduced a bill to help protect customer location data.
+==========

@@ -1,0 +1,40 @@
+Internet Explorer 6 helps protect your privacy on the Web by giving you more control over cookies and more information on a Web site's privacy policy.
+A cookie is a small text file created by a Web site and can be stored on your computer so that next time you visit the site, it can automatically access information about you, such as your browsing preferences, or your name, address, or phone number.
+A Web site's privacy policy tells you what kind of information the site collects, to whom it gives that information, and how it uses the information.
+Many Web sites provide a privacy statement or a Platform for Privacy Preferences (P3P) policy that you can view with Internet Explorer 6.
+P3P helps protect the privacy of your personal information on the Internet by simplifying the process for deciding whether and under what circumstances personal information is disclosed to Web sites.
+But while P3P provides a standard mechanism for describing privacy practices, it does not set a privacy standard which Web sites must follow.
+In Internet Explorer, you can define your privacy preferences for handling cookies.
+==========
+When you browse to Web sites, Internet Explorer determines whether the sites provide P3P privacy information.
+For sites that provide this information, the browser compares your privacy preferences to the site's privacy policy information.
+In this manner, Internet Explorer 6 decides whether to allow cookies or restrict them.
+==========
+As an example, you can choose to block cookies which use personally-identifiable information without your clear consent.
+A P3P-compliant Web site must provide a clear definition of its privacy policies.
+==========
+The sites must also provide the following policy information:
+The organization that is collecting information about you
+The type of information that is being collected
+What the information will be used for
+Whether the information will be shared with other organizations
+Whether you can access your information and change how the organization will use that information
+The method for how you can resolve disputes with the organization
+How the organization will retain the collected information
+Where the organization publicly maintains detailed information about their privacy policies that you can read
+The Privacy User Interface
+From the Privacy tab, you can set your cookie privacy preferences, access a list for handling cookies on a per site basis and also access advanced privacy options.
+Also, you can import a file of custom preferences to work with P3P for handling cookies.
+==========
+From the Privacy Report, it is easy for you to view a list of the content that makes up the Web page.
+You can easily view privacy summaries from the Web sites, and choose how you want the sites to handle your cookies.
+You can also access the privacy report for any Web page from the "View" menu or by clicking on the Privacy icon, if present.
+Accessing Other Privacy Functionality
+You can configure Internet Explorer privacy options on the Privacy, Content and Advanced tabs in the Internet Options dialog box.
+From this dialog box, you can do the following:
+Remove any Cookies on your machine.
+==========
+Configure privacy preferences.
+Configure Internet options for your privacy and security.
+To learn more about cookies and a Web site's P3P policy, please see the how-to article, "Use Security and Privacy Features in Internet Explorer 6," on the Windows XP Web site.
+==========

@@ -1,0 +1,261 @@
+Updated: February 2006
+Thank you for registering on Ning, a free online service for creating your own Social Networks.
+These terms of service covers your use of the Ning service for creating and enjoying Social Networks on the Ning Platform.
+By registering with Ning, creating, or using Social Networks built on Ning, Inc. (“Ning” or “us”), you are agreeing to these terms of service (“Terms of Service” or “Terms”).
+Description & Definitions
+Ning offers a platform for creating your own Social Networks (“Platform”).
+Our lawyers want us to define some other terms as well, so here it goes:
+
+Social Networks or Networks
+are comprised of Code and Content.
+==========
+Networks are created by Users or by us and provided, through the use of the Ning Platform, for Users to connect with other Users online.
+Social Networks include features such as User profiles, friends, comments, recommendations, forums, photo sharing, video sharing, reviews, ratings, people matching, and events, among others.
+Users
+are people who register on Ning to create, find, visit, use, and contribute to one or more Networks, which can include posting Content or responding to Content.
+Network Creators
+are Users who have created a Network on the Ning Platform.
+Code
+is the source code (e.g., HTML or PHP code) used to provide the functionality behind Social Networks on the Ning Platform.
+Code may be contributed by us, developed by a User, provided by another User, or any combination of the three.
+Public Code is Code that all Users may copy, modify, and use in other Networks.
+Private Code is Code for a Network that Users (other than the Network Creator of that Network) are not allowed to view, copy, or modify; the applicable Network Creator may, through a premium service, designate the Network's Code as Private Code.
+==========
+Content
+means any work of authorship (other than the Code and the user interface of a Social Network), including User profiles, comments, recommendations, forums, photos, videos, sounds, images, text, files, listings, postings, messages, or other materials posted on or transmitted through the Ning Platform or through any Network.
+Users upload Content to Social Networks.
+Social Networks, in turn, control Content.
+==========
+If the Network Creator designates the Network as private, any Content submitted to that Network will be deemed to be Private Content.
+Private Content is licensed for use only within the Network into which it is posted.
+Public Content is available in the Network in which it is posted, other Networks, as well as the Ningbar, which we'll get to in a moment.
+==========
+Tags
+are descriptions (words or phrases) you can assign to Content.
+You can assign as many Tags to Content as you like.
+You can also add, edit, and delete Tags that you've assigned.
+Ningbar
+is the space reserved by us in all Social Networks to provide services to Users of Networks on the Ning Platform.
+When closed, it occupies the top 30 pixels of every page.
+==========
+When the Ningbar is open, it offers Ning Platform Services for Users, including User registration, a message center, friends and contacts (including the ability to import contacts from third party email services), and a listing of the Networks you are using across the Ning Platform.
+Ning Platform Services
+include, but aren't limited to: single sign-on (via a “Ning ID”) for all Social Networks on the Ning Platform; managing lists of friends and contacts; messaging between Users; importing of contacts who are not Users of Ning; navigation; and search.
+As a Network Creator, we also offer: User registration; User account management; Secure PHP Sandbox for development; Network management and security; Internal and external APIs; Javascript-compatible markup API, URL command line API for auto-generation of pages; Semi-structured Content Store; Network display, management, and search.
+==========
+Ownership of Code and Content
+Ning does not claim any ownership rights in the Content or the Code you provide.
+You, as the Network Creator, own the Code you develop (“your Code”).
+You also own the Content you create and upload (“your Content”).
+After posting your Content or your Code, you continue to retain all ownership rights in such Content or Code, and you continue to have the right to use and license your Content and your Code in any way you choose.
+==========
+These Terms of Service includes a number of licenses that are necessary for Ning to make your Network and your Content available through the Ning Platform.
+For example, without the right to modify Content, Ning would not be able to format Content to meet technical requirements, and without the right to publicly perform or publicly display Content, Ning could not make the Content available for other Users to view.
+Licenses to Code
+We allow Code to be posted and used in Social Networks under a “Ning Code License” (which means the Ning Public Code License or the Ning Private Code License, as applicable) or under the GNU Lesser General Public License (LGPL, but not the GPL), as described below.
+When you post Code to Ning, you may designate such Code, in the Code comments, as governed by the Ning Code License or the LGPL.
+Ning may, but is not obligated to, review any Code to determine whether such Code is designated with the correct license, and Ning may change the comments for such Code (or any subpart of such Code) if Ning believes its designation is incorrect.
+==========
+Unless the Code you post is third party Code and is governed by the LGPL (based on, for example, comments in the Code), the applicable Ning Code License will apply to the Code you post on Ning.
+Public Code Licenses 
+Subject to the next paragraph, if you add Code to a Network for which you have not added the Private Code premium service called “Remove Ning Promotion Links” (i.e., Public Code), you grant Ning and other Users on the Ning Platform a worldwide, fully sub-licensable, fully paid-up and royalty-free, perpetual, irrevocable license to use, reproduce, modify, distribute, publicly display, publicly perform, and create derivative works of that Public Code (“Ning Public Code License”).
+If a Public Code component you post is third-party Code (in whole or in part) and is governed by the LGPL, you grant Ning and other Users on the Ning Platform a license to such Public Code under the LGPL.
+Private Code Licenses
+Subject to the next paragraph, if (or after) you have added the Private Code premium service to your Network: (1) the Code for that Network is thereafter designated as Private Code; (2) you grant Ning a worldwide, fully sub-licensable license to all rights necessary for Ning to make your Network available on the Ning Platform for other Users to use (“Ning Private Code License”); (3) Ning will not thereafter have the right to distribute your Private Code except to the extent necessary to make your Network available on the Ning Platform; and (4) Ning will not thereafter enable other Users to copy your Private Code.
+The foregoing does not limit Ning's or any User's rights under the LGPL.
+If a Private Code component you post is third-party Code (in whole or in part) and is governed by the LGPL, you grant Ning and other Users on the Ning Platform a license to such Private Code under the LGPL.
+==========
+At any point, you can take your Code from your Network and cancel your account, but the licenses to your Public Code will remain in effect.
+Therefore, you should only upload Public Code to the Ning Platform you are comfortable sharing with others; if you want your Code to remain private, you should sign up for the Private Code premium service before you post that Code to the Ning Platform.
+You acknowledge that Ning may independently develop Code that is similar to Code that you have developed.
+You agree not to sue Ning for infringement of your Code, even if Ning's Code is substantially similar to yours.
+==========
+Licenses to Content
+License from You
+Your Content remains yours.
+We claim no ownership interest in the Content you provide on Networks running on the Ning Platform.
+However, we also want to encourage sharing of Content between Users and Networks across the Ning Platform.
+==========
+To this end, by uploading Content to a Network in which the Content is designated as Public Content, you grant to Ning and all other Users a nonexclusive license to reproduce, create derivative works of, distribute, publicly perform, and publicly display such Content on the condition that the Content is attributed in a manner specified by its author, if at all (a “Public Content License”).
+If you upload Content to a Network in which the Content is designated as Private Content, you grant to Ning and all other Users of that Network a nonexclusive license to reproduce, distribute, publicly perform, and publicly display such Content on that Network (including any RSS feeds and other distribution that is part of such Network) (a “Private Content License”).
+Unless you expressly state alternative applicable license terms in connection with your Content submission, the Public Content License will apply by default to Public Content and the Private Content License will apply by default to Private Content.
+We should also mention that you are responsible for making sure that you have all rights in the Content you post that are necessary for you to grant everyone either the Public Content License or the Private Content License.
+(We'll cover this in more detail later.)
+Lastly, if a Network is deleted, the Content associated with that Network may also be deleted at the discretion of the Network Creator.
+==========
+We would encourage you to be sure you are comfortable with this possibility before contributing Content to a Network.
+License from Ning
+Ning grants to you a Creative Commons Attribution License to the Content made available by Ning for which Ning owns the copyrights.
+In the event of a conflict between the Creative Commons Attribution License and these Terms, these Terms will control.
+==========
+Ning does not grant you any rights to another User's Code or Content.
+License to use the Ning Platform 
+During the term of these Terms, Ning grants you a limited, revocable license to use the software underlying and enabling the Ning Platform as required for your use of the Social Networks built on top of it, subject to the terms and conditions of these Terms.
+Proprietary Rights
+Code and Content
+You agree to comply with the license and restrictions applicable to each item of Code or Content you post, copy, access, or use.
+You agree that all the intellectual property in the Ning Platform, other than the Code and Content you provide, are owned by Ning or the applicable User(s).
+Except as expressly permitted under these Terms, you agree not to:
+
+Modify, distribute, or create derivative works based on the Ning Platform.
+Run, rent, lease, loan, or sell access to the Ning Platform.
+Decompile, reverse engineer, or copy the Ning Platform or any Network for which the source code is not provided to you or Code that is marked as Private Code; and
+Reproduce or distribute any Private Content or Private Code outside the applicable Network.
+==========
+Trademarks
+Ning, the Ning Platform and other related graphics, our logo and sub-logos, Ning marks, and trade names used on the Ning Platform are the trademarks of Ning and may not be used without permission.
+Other trademarks, Ning Platform marks, and trade names that may appear on Ning are the property of their respective owners.
+Accounts, Passwords, and Security
+You must be a registered User to create Networks on the Ning Platform.
+Networks and their Network Creators, in turn, determine whether Users need to be registered with Ning to contribute Content in that Network.
+That is up to the discretion of the Network Creator.
+As a User, you are responsible for keeping your password secure.
+Names of Social Networks and Ning IDs are non-transferable.
+==========
+You will be solely responsible and liable for any activity that occurs under your Ning ID.
+Content and Interaction
+You agree to comply with the license and restrictions applicable to each item of Code or Content you post, copy, access, or use.
+Content from other Users or advertisers is made available to you through Social Networks and the Ning Platform.
+Because Ning does not control such Content, you agree that Ning is not responsible for any such Content, including advertising and information about third party products or services.
+Your interactions with other Users on the Ning Platform, including payment and delivery of goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and the User.
+Like with any web-based interaction, we suggest that you use caution and good judgment.
+==========
+You agree that Ning is not responsible for any loss or damage incurred as the result of any such dealings or with respect to any other User's use or disclosure of your Personal Data (as defined in the Privacy Policy).
+If there is a dispute between you and any third party (including any User), Ning is under no obligation to become involved.
+You release Ning, its officers, employees, agents and successors from claims, demands and damages of every kind or nature arising out of or related to: (i) any disputes with other Users, and/or (ii) the Ning Platform.
+If you are a California resident, you waive California Civil Code Section 1542, which says: “A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which, if known by him must have materially affected his settlement with the debtor.”
+Premium Services
+Ning offers fee-based premium services as described here on the Ning Platform.
+If you choose to sign up for a premium service, you agree to pay the applicable fees and abide by any additional requirements or rules associated with that premium service.
+==========
+Support and Performance
+Ning provides documentation to assist Network Creators in creating and enhancing their Network(s).
+As a Network Creator, you are responsible for implementing and maintaining all support for your Network(s).
+This includes, if you've customized the Code yourself, fixing bugs your Users might find and tell you about.
+==========
+To enable a great experience for all Users on the Ning Platform, you, as a Network Creator, must ensure your Network(s) don't unduly degrade the performance of the Ning Platform.
+If your Network(s) exceed the quotas and limitations set by Ning (e.g., API calls or bandwidth) or otherwise degrade performance of the Ning Platform or other services in any way, we may suspend your Network(s) at our sole discretion.
+Acceptable Use and Conduct
+At the risk of sounding repetitive, you are solely responsible for your conduct, Networks, Code, and Content on the Ning Platform.
+==========
+As a User of Ning's free service, you agree not to include any advertising for anything other than your Network, including ads served via an ad-server service like Google AdSense, in any Network, Code, or Content you provide on Ning.
+If you pay the applicable fees for the applicable premium service “Run ads on your social network,” you may include third-party advertisements in your Network.
+However, Ning will have the option, which Ning may exercise on notice to you, to offer a comparable ad-server service and serve all advertisements on your Network(s).
+==========
+You also agree not to post or make available any Code or Content for which you don't have sufficient rights to grant the licenses above.
+Among other things, this means that you may not include Code or Content from third parties that is subject to license terms that are incompatible with the licenses you grant under these Terms, such as GPL.
+You also agree not to post, email, or otherwise make available any Network, Code, or Content that: 
+
+Is unlawful, harmful, threatening, abusive, harassing, defamatory, libelous, invasive of another's privacy, or harms minors in any way
+Harasses, degrades, intimidates or is hateful toward an individual or group of individuals 
+Impersonates a Ning employee or User or falsely states or otherwise misrepresents your affiliation with a person or entity 
+Includes personal or identifying information about another person without that person's explicit consent
+Is false, deceptive, misleading, deceitful, or constitutes “bait and switch”
+Infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party, or Content that you do not have a right to make available under any law or under contractual or fiduciary relationships
+Creates, sends, or enables anything that constitutes or contains “chain letters,” “pyramid schemes,” or any advertisement that you are prohibited by law from sending
+Constitutes or contains any form of advertising or solicitation if (1) posted in Content; or (2) emailed to Users who have requested not to be contacted about other services, products or commercial interests
+Advertises any illegal services or the sale of any items the sale of which is prohibited or restricted by applicable law, including without limitation items the sale of which is prohibited or regulated by applicable law
+Contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment
+Disrupts the normal flow of dialogue with an excessive number of messages (flooding attack) to the Ning Platform, or that otherwise negatively affects other Users' ability to use the Ning Platform
+Employs misleading email or IP addresses, or forged headers or otherwise manipulated identifiers in order to disguise the origin of Content transmitted through the Ning Platform
+
+Additionally, you agree not to:
+
+“Stalk” or otherwise harass anyone
+Collect Personal Data about other Users for commercial or unlawful purposes
+Use automated means, including spiders, robots, crawlers, data mining tools, or the like to download data from Social Networks and the Ning Platform - except for Internet search engines (e.g. Google) and non-commercial public archives (e.g. archive.org) that comply with our robots.txt file, or “well-behaved” web services/RSS/Atom clients.
+We reserve the right to define what we mean by “well-behaved”
+Post non-local or otherwise irrelevant Content, repeatedly post the same or similar Content or otherwise impose an unreasonable or disproportionately large load on Ning's infrastructure 
+Attempt to gain unauthorized access to Ning's computer systems or engage in any activity that disrupts, diminishes the quality of, interferes with the performance of, or impairs the functionality of, the Ning Platform
+Develop, invoke, or utilize any code to disrupt, diminish the quality of, interfere with the performance of, or impair the functionality of the Ning Platform or any Network
+
+Privacy and Spam
+You agree to comply with all applicable laws with respect to
+
+any collection, use, or disclosure of Personal Data (as that term is defined in the Ning Privacy Policy), and
+email communications, including without limitation CAN-SPAM, applicable state laws, and applicable laws in non-U.S. jurisdictions.
+You agree to comply with all relevant aspects of the Ning Privacy Policy.
+You agree not to collect or use Personal Data except as permitted by the Ning Privacy Policy.
+You agree not to use any Personal Data disclosed to you by Ning for any purpose other than using the Ning Platform or a Network in accordance with these Terms and the Privacy Policy.
+You agree not to harvest any email addresses from Networks or the Ning Platform for the purpose of sending email in violation of applicable law.
+You agree not to knowingly collect any information from, or develop any Networks that are targeted at, children under the age of 13.
+==========
+If Ning provides you, as a Network Creator, Personal Data about other Ning users, you agree to (1) comply with applicable law and Ning's rules (including the Privacy Policy and anti-spam policy) with respect to such Personal Data and (2) to indemnify Ning for your use of such Personal Data.
+Ning Platform Policies
+Ning may establish general polices and limits concerning use of the Ning Platform (“Ning Platform Policies”), including (and without limitation) the maximum number of days that Social Networks and uploaded Content will be retained, the maximum number of and size of Content files and objects (including email messages), the maximum disk space allotted to you (as a Network Creator) and to Users on your behalf by Ning, the maximum number of times and duration for which you may access the Ning Platform or Social Networks in a given period of time, the maximum bandwidth used by your Apps or Content, and the maximum CPU power used by your Social Networks or Content.
+Ning reserves the right to log off or deactivate User accounts that are inactive for an extended period of time.
+The Ning Platform Policies today limit the number of Social Networks a Network Creator can create to ten (10), each with a quota limit of 5GB (gigabytes) for Public Content, 500MB (megabytes) for Private Content, 10MB (megabytes) for the File System, and 100GB (gigabytes) per month of network bandwidth.
+==========
+Copyright Infringement by Users
+You, as a Network Creator, agree to promptly address any copyright owner's written notice (including any notices forwarded to you by Ning) that specified Content provided by User of a Network that you control infringes that third party's copyrights, provided that the notice substantially complies with the requirements in the Ning DMCA notice page.
+If you do not promptly remove the Content specified in the notice, Ning may remove the Content without any liability to you or to the User that posted such Content.
+Ning maintains and enforces a policy of terminating the accounts of Users who are repeat copyright infringers.
+==========
+Your Account
+Term
+These Terms of Service commence upon your acceptance of these Terms and continues until terminated.
+These Terms will automatically terminate if Ning decides, in its sole discretion, to discontinue the Ning Platform.
+Deactivating Your Account
+You may deactivate your Ning account at any time, for any reason, by following the instructions on Ning.
+Ning has the right (at its sole discretion) to delete or deactivate your account, block your email or IP address, or otherwise terminate your access to or use of the Ning Platform or any Network, or remove and discard any Code or Content within any Network, without notice and for any reason.
+Effects of Deactivating An Account
+Upon deactivating your account, these Terms terminates and your access rights to the Ning Platform will immediately cease to exist.
+==========
+The Code for the Network(s) associated with your account will be deactivated; however, as previously mentioned, Code may remain on the Ning Platform in other Social Networks that made a copy of your Public Code.
+For Content you wish to delete from the Ning Platform, you can delete it by going to each of the Social Networks to which you've contributed.
+Ning is not responsible for deleting Content on your behalf.
+Note that, even if Code or Content is deleted from Ning's active servers, it may remain in archives.
+Ning will have no obligation to refund any fees paid for premium services.
+==========
+Survival
+The provisions under the following headings will survive termination of thses Terms for any reason: Licenses from You (under heading “Licenses to Code”), License from You (under heading “Licenses to Content”), Content and Interaction, Acceptable Use and Conduct, Privacy and Spam, Disclaimer of Warranties, Indemnity, and Limitation of Liability.
+Changes to Ning and the Ning Platform
+Ning reserves the right at any time (and from time to time) to modify, suspend, or discontinue providing the Ning Platform or any part thereof with or without notice.
+Ning will not be liable to you or to any third party for any modification, suspension or discontinuance of the Ning Platform.
+==========
+Disclaimer of Warranties
+YOUR USE OF THE NING PLATFORM, AND ALL CODE AND CONTENT, ARE AT YOUR SOLE RESPONSIBILITY AND RISK.
+THE NING PLATFORM AND ALL CODE AND CONTENT ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS.
+NING AND EACH USER EXPRESSLY DISCLAIMS ALL REPRESENTATIONS, WARRANTIES, OR CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, SYSTEM INTEGRATION, QUIET ENJOYMENT, TITLE, AND NON-INFRINGEMENT.
+NEITHER NING NOR ANY USER MAKES ANY WARRANTY THAT THE NING PLATFORM, OR AND CODE OR CONTENT WILL MEET YOUR REQUIREMENTS OR BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE.
+Indemnity
+You agree to indemnify, defend, and hold harmless Ning, and its subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, from and against any claim, demand, loss, damage, cost, or liability (including reasonable attorneys' fees) arising out of or relating to 
+
+any Code or Content you submit, post, transmit, or make available through the Ning Platform;
+your use or misuse of the Ning Platform;
+your connection to the Ning Platform;
+your violation of these Terms; or
+your violation of any rights (including intellectual property rights) of a third party.
+Limitation of Liability
+YOU AGREE THAT NING SHALL NOT BE LIABLE TO YOU FOR (A) ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES (EVEN IF NING HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES), RESULTING FROM (i) THE USE OR THE INABILITY TO USE THE NING PLATFORM OR ANY CODE OR CONTENT, (ii) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSION OF DATA; AND (iii) STATEMENTS OR CONDUCT OF ANY THIRD PARTY (INCLUDING ANOTHER USER) IN THE NING PLATFORM OR ANY CODE OR CONTENT; OR (B) FOR ANY DAMAGES ARISING FROM OR RELATED TO THESE TERMS IN EXCESS OF THE GREATER OF (i) $100 AND (ii) THE TOTAL AMOUNTS PAID TO NING BY YOU IN THE THREE MONTHS IMMEDIATELY PRECEDING THE INITIAL NOTICE OF ANY CLAIM.
+==========
+Updates to Terms of Service
+These Terms may be updated or changed by Ning from time to time upon Ning's posting of the amended Terms on this page.
+If you do not agree to changes to the Terms, you must notify Ning to terminate your account.
+In addition to these Terms, you will comply with all policies applicable to Ning and the Ning Platform, which policies are (i) either posted in the Ning Platform or provided to you and (ii) incorporated by reference into these Terms.
+General 
+The failure of Ning to exercise or enforce any right or provision of these Terms does not constitute a waiver of such right or provision.
+If any provision of these Terms is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should try to give effect to the parties' intentions as reflected in the provision, and the other provisions of these Terms of Service remain in full force and effect.
+Your Ning account is non-transferable.
+You may not delegate your duties under these Terms or assign these Terms, in whole or in part.
+==========
+Any unauthorized use of any Ning computer system is a violation of these Terms and certain federal and state laws, including without limitation the Computer Fraud and Abuse Act (18 U.S.C. S 1030 et seq.), Section 502 of the California Penal Code and Section 17538.45 of the California Business and Professions Code.
+Such violations may subject the unauthorized user and his or her agents to civil and criminal penalties.
+The other Users of the Ning Platform are intended third party beneficiaries of your obligations under these Terms.
+Ning may assign these Terms to any successor or purchaser of Ning or all or substantially all of its assets.
+==========
+Any dispute between the parties arising out of these Terms shall be settled by arbitration utilizing the dispute resolution procedures of the American Arbitration Association (AAA) in San Francisco, CA.
+You hereby waive any right to a jury trial of any such dispute.
+These Terms shall be governed by the laws of the State of California without giving effect to any conflict of laws principles that may provide the application of the law of another jurisdiction.
+These Terms, which incorporate the Ning Privacy Policy and the Ning Policies, constitutes the entire agreement between you and Ning and governs your use of the Ning Platform, superseding any prior agreements (whether written or oral) between you and Ning regarding the subject matter hereof.
+Contacting Ning
+Users with questions about the Ning Privacy Policy and any of the aforementioned statements may contact Ning the following ways:
+E-Mail
+info@ning.com
+Postal
+Ning
+                        735 Emerson Street
+                        Palo Alto, CA 94301
+Feedback
+We welcome your feedback on this document.
+==========

@@ -1,0 +1,69 @@
+What does Blis do?
+We are Blis, a digital advertising company.
+==========
+We provide services to companies including media agencies and their clients – global advertisers – who want to place advertisements or content, by using our technologies.
+Our services include, for instance, presenting you with personalised or tailored ads, verifying location data, measuring footfall attribution, facilitating advertising based on audience segments and inferred interests, cross-device retargeting and other attribution and location analytics.
+==========
+This short video explains more about how data is exchanged with partners for these advertising campaigns.
+To better understand how targeted advertising works, please visit:
+Network Advertising Initiative (“NAI”) 
+Digital Advertising Alliance (“DAA”) 
+Digital Advertising Alliance of Canada (“DAAC”)
+
+What is personal data?
+==========
+The definition of personal data (also known as personal information) changes according to the legislative structure that regulates it.
+In regards to European Legislation, more specifically the GDPR (‘General Data Protection Regulation), personal data is any data that can be used to ‘identify’ an individual.
+==========
+The definition could include anything from name, email address, passwords, usernames and can span right down to cookies or device identifiers.
+What personal data does Blis collect?
+We use cookies, mobile identifiers, tags, pixels, beacons, SDKs and other tracking technology to associate your usage data with you – or more accurately, with your device.
+The personal data we hold about you is associated with a unique and pseudonymous identifier linked to your device.
+We do not associate that identifier with your name, email, address, or phone number, because we don’t collect that type of directly identifying information about consumers.
+==========
+Why do you collect personal data?
+Blis uses the personal data to provide advertising services to its clients and customers.
+We use it to deliver more relevant advertising on behalf of our clients, to improve our products and services and to create new products.
+==========
+What is programmatic advertising?
+Put simply, programmatic advertising is the automated buying and selling of advertising.
+The methodologies are based on an efficient allocation model which allows advertisers to target their ads to the right users at the right time.
+==========
+This video explains the process in detail or you can read the example below to see how it works.
+Through using a computer or mobile phone device, a user decides to visit either an app or a web page.
+==========
+Within a few milliseconds, the page sends out a bid-request asking advertisers to fill an advertising space with an ad of their choice.
+The signal will contain information about the device so that the advertiser can fill the space with a more targeted advert.
+==========
+If the user has given their consent for the further processing of their data, then the bid-request would ultimately be competed for within an auction across a range of third-party companies (who would also have the right level of consent to process the user’s data).
+Who do you share my personal data with?
+Blis is a global business firm and any information that we collect or that you provide to us may be shared and processed by any Blis company or reseller.
+You can find out more about the Blis companies and locations here.
+We may also share your personal data with third parties so that they can help us to provide our advertising services.
+Some of these third parties are companies in relation to which you have previously given your consent, others are third parties that provide services to Blis.
+Their services include ad serving, brand safety, viewability, ad fraud, insights, measurement, data, location-based attribution, targeting, optimisation, infrastructure and storage.
+For a list of all third parties, together with explanatory information about the different types of third party, please see our ‘Blis Third Parties and Partners’ listed below.
+==========
+We may also (but we expect this to be very infrequent) share personal data with our professional advisers, such as lawyers and accountants, as well as government, police forces, and/or regulatory authorities (where legally appropriate to do so).
+We may also share your personal data as part of actual or potential business sale of Blis or its assets, to prevent suspected fraud, to respond to claims asserted against us, or to comply with legal processes such as court order.
+==========
+How do you keep my personal data safe and secure?
+We use a range of measures to keep your personal data safe and secure.
+This includes protection against unauthorised access to or unauthorised alteration, disclosure, or destruction of data we collect and store.
+Data collected and used by our services is held securely by Google Cloud.
+Data protection is a priority for Google and they are certified against recognised international standards such as ISO/IEC 27001, ISO/IEC 27018 and ISO/IEC 27017.
+==========
+How do I exercise my rights?
+Please visit our section on data protection rights and your internet user choices.
+==========
+What are cookies and why do you use them?
+A Cookie is a small text file, often encrypted, that is placed in your web browser on your receiving terminal (your PC, telephone, tablet, or any other device) when you visit a website.
+During the course of your visit to that website, and on subsequent visits, it sends information from your browser which contains information about your visit(s).
+==========
+We and our partners use cookies and similar technologies, such as tags and pixels (“Cookies”), to personalise and improve your customer experience as you use our website and to provide you with relevant online advertising.
+We use cookies to distinguish you from other users when you visit our website or our partner websites, and for advertising purposes.
+The ICO (Information Commissioner’s Office) has a good resource about the regulations that surrounds cookies and how you can control which cookies you would like to accept on your browser
+
+Where can I find out more information regarding Blis’ privacy practices?
+We have a whole host of resources in this Privacy Centre, this includes links to our privacy policies and FAQs where you can find out more about how we protect your data.
+==========

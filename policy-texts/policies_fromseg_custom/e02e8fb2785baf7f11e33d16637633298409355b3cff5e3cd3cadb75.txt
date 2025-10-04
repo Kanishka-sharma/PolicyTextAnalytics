@@ -1,0 +1,61 @@
+How Adacado Technology processes information related to ads you see
+Using cookies and web beacons, Adacado Technologies saves information inside a cookie on a device associated with your browser.
+Inside the cookie is a simple, unique visitor identifier.
+Note that uniquely-identifying information about you such as your name, address or, email address is never used or saved.
+==========
+Adacado uses this visitor identifier to associate your browsing history and information about Adacado advertisements you have seen.
+Browsing history is information about how you may interact with an advertiser’s website.
+For example, if you were interested in and viewed one or more products over time, or visited a category page describing a grouping of an advertiser’s products, Adacado would record that information.
+Adacado also records advertisement delivery history which is what advertisements were delivered to you, and whether and on what elements of the advertisements you clicked (e.g., clicking the advertisement’s image or button).
+When Adacado Technologies receives a request to deliver an advertisement, it may use the above information to deliver an interest-based advertisement.
+However, if consent is not provided (for consent-requiring jurisdictions), or you have opted out of Adacado advertising, you will not be delivered an interest-based ad.
+In such cases you will receive a generic ad that is not based on any information related to you.
+Adacado’s only connection to you is through your visitor identifier.
+It describes no information about you and is used solely as a link to browsing history and advertisement delivery history.
+By exercising your rights to your information as described in an earlier section of this document, your visitor identifier is deleted, thereby severing the link to our data and making it anonymous.
+==========
+Data Adacado collects and uses
+Adacado collects data related to your browsing activity and advertisements delivered to you through cookies or visitor id-based transactions that record:
+
+events related to your activity on our advertising partner’s website such as the products you viewed or areas such as category pages.
+events regarding your ad serving activity such as the advertisements that were displayed to you and how you interacted with them (e.g. clicks)
+information related to your device such as device type, operating system, version but no personally identified information.
+non-precise geo-location information that may identify you as being in a country, region or city, for example to serve only advertisements for products that are only locally available to you.
+==========
+For consent-requiring jurisdictions, we do not use or save IP addresses unless your explicit consent is provided.
+The data associated with your id is stored for 13 months after which it is removed automatically.
+Information Adacado Technology does not collect in its advertisements, cookies or web beacons.
+Sensitive information such as political views, health, religion.
+Hardware-based identifiers such as MAC address.
+Anything that identifies who you are, such as your email address, your address, your name.
+==========
+Data security and retention
+Adacado processes and stores all data on Google Cloud Services based in the United States.
+We retain data that we collect for up to 13 months from the date of collection.
+Disclosure of Information to Third Parties
+Adacado may share your data with vendors, consultants and other service providers (“Service Providers”) who are engaged by or working with Adacado in connection with the operation of the Sites or its services who need access to such information to carry out their work.
+In some cases, the Service Provider may be directly collecting the information from you on Adacado’s behalf.
+Adacado may also share personal information with other third parties when you give your consent to do so.
+Adacado is not responsible for the actions of Service Providers or other third parties, nor is Adacado responsible for any additional information you provide directly to these Service Providers or other third parties, and you are encouraged to become familiar with their practices before disclosing information directly to them.
+Adacado may share aggregated data for purposes such as campaign improvement, reporting, and service improvement.
+Nothing herein restricts the sharing of aggregate information, which may be shared with third parties without your consent.
+Adacado may share and enhance non-personal information collected from you with third parties.
+Adacado may disclose your personal information to third parties in the good faith belief that Adacado feels authorized or obligated to do so by law, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, to respond to any claims, to protect the rights, property or safety of Adacado, its users, its employees or the public, or to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person.
+Adacado may disclose and transfer non-personal information, as part of, or during negotiations of, any merger, consolidation, sale of assets, bankruptcy, financing or acquisition or in any other situation where personal information may be transferred as one of the business assets of Adacado.
+Privacy Notice for Children
+Adacado is especially concerned about protecting children’s privacy.
+Adacado hopes that parents and teachers are involved in children’s Internet explorations.
+==========
+The information Adacado gathers and the products and services provided on the Adacado Site are aimed at people who are 18 years or older.
+When identified, all information given by a person under the age of 18 will be destroyed.
+Changes in Privacy Policy
+This Policy may be changed by Adacado from time to time in Adacado’s sole discretion and without any prior notice or liability to you or any other person.
+New versions of this Privacy Policy will be posted here and you should check it periodically for updates.
+Questions or Comments
+If you have any comments or questions about this Policy or Adacado’s practices, the use or disclosure of personal information, or your personal information, please contact Adacado at:
+Adacado Technologies, Inc.
+812 – 1130 West Pender St.
+Vancouver, BC, Canada, V6E 4A4
+E-mail: info@adacado.com
+Phone: 604.301.0221
+==========

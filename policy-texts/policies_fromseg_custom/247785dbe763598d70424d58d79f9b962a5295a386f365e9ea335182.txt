@@ -1,0 +1,283 @@
+Updated June 1, 2020
+ADARA’s Privacy Promise
+ADARA is committed to your privacy.
+ADARA’s Privacy Promise explains in a transparent way, what data, including personal data, is used in our business, how we process and share it, and your rights in relation to such data.
+ADARA is a business-to-business company that offers a technology platform (“ADARA Platform” or “Platform”) which provides products and services enabling our clients to buy advertising space online and measure and analyze their campaigns.
+All data we have access to will be collected, processed and protected consistent with applicable data protection laws, including where applicable the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), and this Privacy Promise.
+We may update this Privacy Promise, in order to align with evolving laws and regulations or due to changes in our business and technology.
+We’ll notify you of any material changes posting them clearly on our website or by other appropriate means.
+You should consult this page from time to time in order to be aware of any updates.
+==========
+Who We Are
+ADARA is a technology company, headquartered in Palo Alto, California, and operating globally, with offices in Chicago, New York, Durham, Dubai, Barcelona, London, Paris, Dublin, Hong Kong, Singapore, Tokyo, and Sydney.
+The entity that decides how and for what purposes personal data is processed is ADARA, Inc.
+We have appointed a data protection officer to advise us and respond to data processing related inquiries (please see Section below entitled “Contacting Us”).
+==========
+ADARA is a member of the Network Advertising Initiative and adheres to the NAI Code of Conduct, and is also a participant in the Digital Advertising Alliance’s Self-Regulatory Program for Online Behavioral Advertising.
+ADARA also honors and are participants of the EDAA self-regulatory OBA principles.
+ADARA adheres to the Internet Advertising Bureau Europe’s Good Practice Principles for Online Behavioral Advertising as well as the European Interactive Digital Advertising Alliance’s principles.
+==========
+For What Purposes Do We Process Personal Data?
+ADARA provides digital advertising and analytics services for the benefit of our business customers, giving them the ability to reach and understand Internet users and consumers (like you) who are most likely to be interested in their respective products and services.
+ADARA provides these services to customers such as website operators and mobile application developers (“Partners”).
+Consumers (like you) also benefit from ADARA’s technology by receiving more relevant online marketing content: without our services you would still see ads online, but they would be less relevant to your interests.
+Here is a common example of how the ADARA Platform can benefit you and our Partners: if you visit an airline or hotel website to book a flight or a hotel room and the airline or hotel website is an ADARA Partner, then we will receive your search or booking travel intent about the destination including some related information (dates, class of travel, number of people travelling with you – for a full list see the Section below entitled “What Personal Data Does ADARA Collect?”)
+.
+==========
+Except if you use your email in ADARA’s COVID-19 Travel Risk Tracker, we do not collect your name or your email, or anything that tells us who you are “in the real world.”
+If we receive any email addresses then they are always in “hashed” (encoded) form so we never hold the actual email address.
+For additional information regarding ADARA’s COVID-19 Travel Risk Tracker see below.
+Without knowing who you are, our Platform can automatically recognize that a user it has seen before is visiting another ADARA Partner site, based on a random unique identifier we call an “ADARA Recognized Traveler ID”.
+Information about travel interests and bookings are linked to the ADARA ID and analyzed using proprietary algorithms to understand the user’s likely interests and travel activity.
+Our Platform may use automated decision-making tools to seek to understand what type of traveler you are and allocate you a “score” or to a category with other travelers with similar interests, characteristics, and needs.
+==========
+This may enable us to create profiles which allow our Partners to provide more tailored offers or levels of customer service (but not to take decisions that have legal or similar significant effects on any user).
+This improves our, and our Partners’ ability, to display relevant advertising to those with an interest in travel.
+In summary our purposes for processing data are the following:
+Online advertising: We will use the collected data to make decisions or buy, monitor, or report on the delivery of online advertising for our advertiser via ad exchanges.
+We may also share performance data (i.e. relating to viewability of the ad, clicks and any subsequent purchases) with advertisers and ad agencies.
+We may overlay third-party data collected from third-party data providers to enhance our decision making.
+We may also use data to target ads on other devices which we infer belong to the same user.
+Measurement and Analytics: ADARA collates and classifies data in our database in aggregated form, which may then be made available via reporting or via the ADARA Platform for high level trend analysis.
+We may also use the data to create analytics about travel industry trends, effectiveness of media, or for content marketing.
+==========
+Traveler Intelligence: ADARA may share pseudonymous data, always aggregated to not identify one Partner or brand, with our Partners or clients for the purposes of enhancing their CRM for personalization or merchandising optimization.
+Data may also be transferred in encrypted format to our vendors and suppliers; including cloud data centers and hosting providers.
+The data will also be used for specific internal ADARA operations including troubleshooting, data analysis, testing, research, and statistical or survey purposes.
+For purposes of GDPR, our legal basis for this data processing is your consent: all users must have notice of and consent to use of cookies or similar technologies by our Partners and to the provision of their data to ADARA for processing as explained in this Privacy Promise.
+Cookie consents can be managed as set out in the Section below entitled “How to Change Interest-Based Advertising Preferences”, and other user rights are explained in the “What Are Your Rights?”
+Section.
+We may also process some data to further our and our Partners’ legitimate interests but only where such interests are not overridden by your interests or fundamental rights and freedoms.
+==========
+What Do We Mean By Personal Data?
+“Personal Data” covers more than just personally identifiable information such as name, address, email or phone numbers.
+Under the GDPR, personal data is any information relating to an identified or identifiable natural person, i.e. it can be a name or address, but also IP addresses and other “unique identifiers” such as device or cookie IDs.
+Under the CCPA (implemented in the State of California on January 1, 2020), personal information is information that identifies, relates to, describes, is reasonably capable of being associated with, or could be reasonably linked, directly or indirectly, with a particular consumer or household.
+==========
+Concretely, that would include names, email addresses, IP addresses, cookie IDs, device ID’s.
+We also refer in this Privacy Promise to “pseudonymous” or “pseudonymized” personal data.
+We use this to refer to data that cannot be associated with an identifiable person, without the use of additional information which is kept separately.
+Normally, this means that such identifiable information is not available to ADARA (so in ADARA’s hands individuals are not identifiable).
+What Personal Data Does ADARA Collect?
+The ADARA Platform may collect personal data directly and receives personal data from our Partners that they have collected from their digital properties.
+The data processed on the ADARA Platform (currently and over the last 12 months) is broken down into three trusted data sources about the travelers:
+Technical identifiers and hashed or pseudonymized data as follows:
+cookie identifier;
+hashed email address;
+mobile device identifier
+hashed CRM identifier;
+passenger number record;
+approximate location data about the individual (e.g. the country they are located in when accessing an ADARA Partner site)
+unhashed email and other data input directly by the consumer into the ADARA COVID-19 Travel Risk Tracker
+Interests for products and services; and
+Measurement statistics on the performances of ADARA services.
+==========
+Note that the ADARA Platform cannot identify a user by name or their home address, but instead we try to understand users’ online travel behavior demographic characteristics, such as frequented destinations, type of trip (business vs leisure) and the types of travel, products and services they are interested in).
+ADARA ensures that no information that can identify a user in the real world is stored on the ADARA Platform, by requiring all such data to be hashed before it is transmitted to us.
+We do not collect or categorize users based upon sensitive data or ‘special categories of data’, such as racial or ethnic origins, political or religious beliefs, information about health conditions or treatments or other similar or related information.
+==========
+Neither do we intentionally collect information from, nor target any services to, or create any categories or profiles of, children under 16 years of age.
+If you believe that we may have collected information of a child under 16, please contact us as set out in the “Contacting Us” Section below.
+Business Contact Data
+ADARA may hold your personal data if you or your employer has a business relationship with us or if you or we are considering entering some form of business relationship.
+You could be a client (e.g. an advertiser), a publisher, a data provider or other supplier, and we would need to process your personal data in order to communicate with you, invoice our services, and manage the relationship.
+The personal data we hold about you refers to your professional life (name, business email address, billing address, office address, business phone numbers, title, qualifications, employer etc.).
+For potential clients or suppliers, we need to process similar data in order to grow and manage our business and evaluate products and services.
+In addition, if you visit our website, we may collect data using cookies and other technologies.
+We obtain this information directly from you or your employer, or otherwise from exchanging emails or business cards, meeting at industry events, business networking, or at meetings etc.
+==========
+The legal basis for our processing of this data is that we have a legitimate interest in doing so (i.e. in managing and developing our business) for which this data processing is necessary, and which does not have a negative impact on your privacy (as this is professional data only).
+We may also process this personal data where such processing is necessary for the performance of a contract.
+We do not have to obtain your consent in order to hold and carry on processing this data.
+Nevertheless, you can exercise your data subjects’ rights in relation to your personal data (see Section below entitled “What are your rights?”)
+.
+We store this data for as long as necessary to fulfill the purposes for which it was collected, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
+==========
+From What Sources Do We Collect Personal Data?
+When a user visits one of our Partner’s digital properties they are provided notice of and/or asked to agree to the collection and analysis of information about individual consumer interests by way of “pixels” that we provide to our Partners.
+A Partner pixel assigns unique identifier (a random, unique string of characters) to the user, a “cookie”.
+A pixel collects and stores information about what the user does on the Partner website or application, and which Partner sites or apps the user visits as well as how the users view and interact with the online ad (for instance the time it is viewable by the user, whether they click on the ad).
+Similar technologies are used when a user views an email from a Partner with an ADARA tag, uses an app with an ADARA SDK installed, or sees or interacts with an online advertisement which has been placed through our Platform.
+ADARA may engage in cross-device data collection and targeting.
+This means we use third party providers to determine the likelihood that a given user on a desktop browser is the same user on a mobile or other device, and then we link the information we have on their different devices.
+ADARA may also engage in cross-app data collection and targeting.
+==========
+Where permitted, some Partners use hashed emails as identifiers and ADARA may synch hashed emails received from other Partners in order to gain a fuller picture of the user’s travel preferences.
+We can then build segments, or receive segment data from our Partners and clients, to understand better the data associated with that unique ID.
+In this case the hashed email is used in a similar way to a cookie ID –ADARA does not know the real email address nor can we send emails using it.
+Adara will collect and store the information (including email address) that consumer inputs when using ADARA’s COVID-19 Travel Risk Tracker.
+==========
+The Security of Your Personal Data
+ADARA cares about your privacy and employs industry standard administrative, physical and technical measures designed to protect your personal data from accidental or unlawful destruction, loss, alteration, unauthorized disclosure, or access.
+Is Your Personal Data Transferred Internationally?
+ADARA’s headquarters are in California.
+==========
+All of our data is ultimately sent to the United States, after being collected via our data centers in Amsterdam, Netherlands, Singapore, and South Carolina/Oregon, United States.
+As we process data outside the European Economic Area (“EEA” – which in this Privacy Promise includes the UK and Switzerland) it may not be subject to equivalent data protection laws and so we ensure EEA personal data will only be processed if the appropriate transfer mechanisms are in place.
+To provide adequate protection for EEA personal data received in the United States, ADARA (including the entities and subsidiaries covered by ADARA’s privacy shield certification) has elected to self-certify to the EU-US Privacy Shield Framework as administered by the US Department of Commerce.
+==========
+ADARA adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, ADARA is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+In certain situations, ADARA may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield website at https://www.privacyshield.gov.
+To review ADARA’s representation on the Privacy Shield list, see the US Department of Commerce’s Privacy Shield self-certification list located HERE.
+==========
+In this Privacy Promise, we have set out the categories of personal data that we may receive in the US, as well as the purposes for which we use personal data.
+We will not use your personal data for a purpose that is incompatible with the purpose we collected it for or that you later authorized, except in accordance with applicable laws and regulations.
+ADARA maintains reasonable procedures to help ensure that personal data is reliable for its intended use, accurate, complete, and current.
+We have also set out above the relevant security provisions and access rights available to you.
+Who Else May Receive Your Personal Data?
+We also engage other companies to provide data processing services including, among other things, data storage, maintenance services and the provision of support services.
+==========
+With these data processors we enter into contracts that require them to adhere to security standards as stringent as ours.
+A list of our principal data processing partners is set out in the Annex at the end of this Privacy Promise.
+ADARA is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.
+Where required by the Privacy Shield, we enter into written agreements with those third-party agents and service providers requiring them to provide the same level of protection the Privacy Shield requires and limiting their use of the data to the specified services provided on our behalf.
+==========
+We take reasonable and appropriate steps to ensure that third-party agents and service providers process personal data in accordance with our Privacy Shield obligations and to stop and remediate any unauthorized processing.
+ADARA remains liable in accordance with the Privacy Shield Principles if third-party agents that we engage to process such personal data on our behalf do so in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+Please click HERE for more information on our third-party partners.
+==========
+We may access, preserve, and disclose any data we store in association with you to external parties if we, in good faith, believe doing so is required or appropriate to: (i) comply with law enforcement or national security requests and legal process, such as a court order or subpoena; (ii) protect your, our, or others’ rights, property, or safety; (iii) enforce our policies or contracts; (iv) collect amounts owed to us; or (v) assist with an investigation and prosecution of suspected or actual illegal activity.
+If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, purchase or sale of assets, or transition of service to another provider, then data we hold may be sold or transferred as part of such a transaction, as permitted by law and/or contract.
+Transfers out of the EEA may also be based on EU model clauses, otherwise known as Standard Contractual Clauses, issued by the European Commission or other responsible Supervisory Authorities.
+Where ADARA uses this transfer mechanism, ADARA ensures, and also requires its data processors to ensure, that sufficient legal and practical safeguards are in place to permit the transfers for the relevant purposes.
+==========
+How Long Do We Process Personal Data For?
+ADARA will never store personal data for longer than necessary for the purpose for which it was collected, and always in accordance with data privacy laws and regulations.
+We expire cookie data after 13 months for targeting purposes and delete personal data after 24 months for insights and analytics purposes.
+For online identifiers like Mobile IDs that remain active indefinitely for the use of the device, ADARA dissociates the data after the same data retention periods stated above.
+Please note that we may sometimes need to retain data for longer where necessary to comply with our legal obligations and enforce our agreements, in which case we will only process it for those restricted purposes.
+==========
+Additional Information Relating to ADARA’s COVID-19 Travel Risk Tracker Tool
+When you use ADARA’s COVID-19 Travel Risk Tracker we will collect and store:
+Your email address: this is used with your consent for identity verification purposes and delivery of your Travel Risk Score.
+Home city, past and planned destinations, and other travel data (e.g. trip purpose, use of ride sharing): we compare this with public and ADARA proprietary data relating to COVID-19 risks.
+The score generated by the tool may utilize previously collected data about you from our other products, matched via hashed email within our system.
+Our purpose for this processing is to generate a score of increased risks arising from the travel activities indicated.
+Our legal basis for this processing is your explicit consent when inputting your email and travel data.
+==========
+We may combine data from the tool with other data we may hold about you from any other source.
+We may share data from the tool with third parties such as customers, data partners, and government agencies in aggregated and anonymized form that do not allow you to be recognized or contacted (unless required by law).
+Data may also be transferred in encrypted format to our vendors and suppliers; including cloud data centers and hosting providers.
+==========
+ADARA may share pseudonymous data with our Partners or clients for the purposes of enhancing their CRM for personalization or merchandising optimization.
+The data will also be used for specific internal ADARA operations including troubleshooting, data analysis, testing, research, and statistical or survey purposes.
+We may use the data in an aggregated, anonymized form to create analytics about travel industry trends to be shared with third parties.
+==========
+The other portions of this Privacy Promise apply to data that we process in connection with the tool, including in particular your ability to exercise your legal rights.
+You may opt out from personal data collected by this tool in https://travelcovid-19.org/optout.
+What Are Your Rights?
+(for European Residents)
+The GDPR lists various rights in connection with your personal data including:
+The right to be informed
+The right of access
+The right of rectification
+The right to erasure
+The right to restrict processing
+The right to data portability
+The right to object to particular processing activities (e.g., marketing or profiling)
+In particular, in relation to personal data relating to you that we process:
+You may request access to the personal data we hold about you (including categories or scores allocated).
+You may be entitled to request that we erase the personal data concerned (or at least have us restrict its processing), subject to any legal requirements that require us to keep it.
+Where we are processing personal data relating to you on the basis of your prior consent to that processing, you may withdraw your consent at any time (although this will not affect the legality of any processing based on consent that was carried out before the consent was withdrawn).
+Normally you will do this through the Partner website, after which we will be notified, or you can contact us directly to withdraw your consent.
+==========
+In order to process your request we may need to confirm that the identifier we hold matches the information you provide.
+This request can be made and carried out HERE.
+Alternatively, you can also email privacy@adara.com.
+We will respond to each request within 30 days.
+Please note that we may be required to ask you for further information in order to confirm your identity before we provide or make other changes relating to the personal data requested.
+If you have a complaint about any processing of your personal data conducted by us, you can contact us at privacy@adara.com or dpo@adara.com and we will do our best to resolve the issue.
+==========
+If you believe we have not done so properly, you also have the right to lodge a formal compliant with the relevant Supervisory Authority in your country or to use the mechanisms referred to in the Section below entitled “Contacting Us”.
+The Data Protection Commission (for European Residents)
+As our EU operations are controlled from Ireland, the Data Protection Commission (which is the Supervisory Authority in Ireland) can provide further information about your rights and our obligations in relation to your personal data, as well as deal with any complaints that you have about our processing of your personal data.
+You can consult their website for more information: https://www.dataprotection.ie
+Our DPO (data protection officer) is registered with the DPC.
+What Are Your Rights?
+==========
+(for California Residents)
+California residents may request, or have a verified, authorized agent request on their behalf, that a Business:
+Disclose the sources, categories, and specific pieces of personal information collected about them, how that information is used including the purpose, and the categories of third parties
+Delete their personal information
+Opt them out of “sales” of their personal information (if any).
+Under the CCPA, a “sale” means providing personal information to a third-party for valuable consideration.
+It does not necessarily mean money was exchanged for the transfer of personal information.
+We will delete a consumer’s personal information from our records if the business partner from whom we have received such information receives a verifiable request from the consumer and instructs us to delete such information.
+California residents may not be discriminated against for exercising any of the rights described above.
+This means we cannot, and will not, deny services to you, charge you different prices, or offer you different qualities of services because you choose to exercise your rights under the CCPA.
+How to Change Interest-Based Advertising Preferences and Your Opt Out Choices
+ADARA provides several mechanisms for users to change their preferences in relation to ADARA’s advertising and analytics services:
+using ADARA’s mechanism provided here on adara.com,
+clicking on the relevant link on the advert itself, or
+using browser based or mobile based cookie and privacy management settings
+In all cases, all these choices will be recorded and/or honored by ADARA.
+Browser Based Opt-Out
+To opt out via your web browser, the following member websites will allow users to change targeted ads preferences:
+Network Advertising Initiative
+DAA
+EDAA
+Once a consumer has changed preferences using one of these mechanisms, ADARA will cease serving any targeted ads to that consumer on the browser they used.
+==========
+This may lead to other individually targeted actions such as content personalization also being disabled.
+Remember that this action is browser-specific.
+So, if you have multiple browsers or multiple devices you use to access the internet, you’ll need to manage preferences from each device or browser.
+Mobile Opt-Out
+To change consents for the collection and use of data for interest-based advertising on your mobile device, you can modify the settings on your mobile device.
+To reset your mobile advertising ID or to prevent receipt of interest-based ads in mobile apps, please follow your mobile device maker’s most current published instructions, such as the examples linked below (current as of the date of this version of our Privacy Promise):
+For Android Devices (version 8.0 and higher): Open the Settings app, Select Google, Select Ads, and enable the “Opt Out of Ads Personalization” setting.
+For Apple Devices: Devices with iOS 6 and above use Apple’s Advertising Identifier.
+To learn more about limiting ad tracking using this identifier, visit the Settings menu on your device as follows: Go to Settings, Select Privacy, Select Advertising, and enable the “Limit Ad Tracking” setting.
+For more information about different iOS versions, please see: https://support.apple.com/en-ie/HT202074.
+When you have changed these settings on a device, and when ADARA receives this signal, ADARA will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests.
+Note: The specific settings instructions for each device may differ slightly depending on which version of the operating software you are running.
+==========
+In addition, as noted above, we participate in the DAA’s Ad Choices program.
+So, each of our mobile ads includes the AdChoices Icon, on which you can tap to go to a preferences page.
+To learn more about how to use platform controls in relation to mobile devices, please visit this link: http://www.networkadvertising.org/mobile-choice.
+==========
+Questions or Complaints Relating to the Privacy Shield Framework
+In compliance with the EU-US Privacy Shield Principles, ADARA commits to resolve complaints about your privacy and our collection or use of your personal data.
+EU based individuals with inquiries or complaints regarding this privacy promise should first contact us at privacy@adara.com.
+Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Contacting Us
+The “data controller” for your data is:
+ADARA, Inc.
+of 1070 E. Meadow Circle
+Palo Alto, CA 94303
+USA
+We have appointed a Data Protection Officer, whose contact details are:
+Data Protection Officer
+ADARA, Inc.
+1070 E. Meadow Circle
+Palo Alto, CA 94303
+Email: dpo@adara.com
+Our EU representative is Adara Media UC, Fumbally Square, Fumbally Lane, Dublin 8, Ireland.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may also contact our U.S.-based third-party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+Annex: List of Key Data Processing Partners
+Adobe
+Amobee
+Google DV360
+The Trade Desk
+LiveRamp
+Oracle
+Salesforce
+Google Cloud Services
+Google Analytics
+Google reCAPTCHA
+Amazon Cloud Services
+Facebook
+YouTube
+AdapTV
+OpenX
+Pubmatic
+IndexExchange
+Rubicon
+IAS
+DoubleVerify
+Moat
+AT&T
+Aha!
+Labs Inc.
+==========

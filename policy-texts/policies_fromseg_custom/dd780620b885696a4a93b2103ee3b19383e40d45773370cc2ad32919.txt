@@ -1,0 +1,1594 @@
+To review or manage your cookie consent choices and for a list of the cookies and similar technologies that we use when you visit our Websites or use our Messenger (as defined below) as well as a description of the purposes and the duration that they will stay on your browser or device please
+click here.
+Introduction
+This Cookie Policy explains how Intercom, Inc. and its affiliates, including without limitation Intercom R&D Unlimited Company (collectively "Intercom", "we", "us", and "ours"), use cookies and similar technologies to recognize you when you visit our websites, including without limitation www.intercom.com, www.intercom.io, app.intercom.com, app.intercom.io and any related URLs, mobile or localized versions and related domains / sub-domains ("Websites"), and interact with any of Intercom's messenger domains (including widget.intercom.io and api-iam.
+intercom.io) (the " Messenger").
+It explains what these technologies are and why we use them, as well as the choices for how to control them.
+==========
+Cookies and similar technologies and the processing of personal data
+We may process personal data about you when we use cookies or similar technologies, for example, your IP address, username, unique identifier, or an email address.
+Where we do so we will only process your personal data in compliance with our Privacy Policy.
+You can read about how and why we collect your personal data, who we may share your personal data with and how you can exercise your rights under applicable data protection law here.
+==========
+What are cookies?
+Cookies are small data files that are placed on the browser on your computer or mobile device when you visit a website and use its functions, or use an app.
+Cookies are widely used by online service providers to facilitate and help to make the interaction with users faster and easier (by helping us to distinguish between you and other users and enabling us to retrieve things like your settings and preferences), as well as to provide reporting information and facilitate online advertising.
+==========
+Cookies set by Intercom on the Websites and the Messenger are called "first party cookies".
+Cookies on the Websites set by parties other than Intercom are called "third party cookies".
+Third party cookies enable third party features or functionality to be provided on or through the Websites (e.g. advertising, interactive content and analytics).
+Why do we use cookies?
+We use first party and/or third party cookies on our Websites and Messenger for various purposes such as:
+
+to facilitate the operation and functionality of our Websites and the Messenger;
+to improve your experience of our Websites and make navigating around them quicker and easier;
+to allow us to make a bespoke user experience for you and for us to understand what is useful or of interest to you;
+to analyze how our Websites are used and how best we can customize them;
+to identify future prospects and personalize marketing and sales interactions with them;
+to facilitate the tailoring of online advertising to your interests.
+==========
+What type of cookies do we use and what are they used for?
+We use the following types of cookies in our Websites and/or Messenger:
+Essential Cookies
+We use essential cookies to make our Websites work.
+These cookies are strictly necessary to enable core functionality such as security, network management, your cookie preferences and accessibility.
+==========
+Without them you wouldn't be able to use basic services.
+You may disable these by changing your browser settings, but this may affect how the Websites function.
+Performance and functionality cookies
+These cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use.
+However, without these cookies, certain functionality like videos may become unavailable or you would be required to enter your login details every time you visit the Websites as we would not be able to remember that you had logged in previously.
+Marketing cookies
+These account-based marketing cookies enable us to identify future prospects and personalize sales and marketing interactions with them.
+==========
+Analytics and customization cookies
+These cookies collect information that is used to help us understand how our Websites are being used or how effective our marketing campaigns are, or to help us customize our Websites for you.
+We use cookies served by Google Analytics to collect limited data directly from end-user browsers to enable us to better understand your use of our Websites.
+Further information on how Google collects and uses this data can be found at: https://www.google.com/policies/privacy/partners/.
+==========
+You can opt-out of all Google supported analytics on our Websites by visiting: https://tools.google.com/dlpage/gaoptout.
+We use Hotjar in order to better understand your use of our Websites, to optimize our Websites and to improve your experience.
+For further details, please see Hotjar’s privacy policy which can be found here: https://www.hotjar.com/legal/policies/privacy.
+You can opt-out of all Hotjar supported analytics and data collection on our Websites by visiting: https://www.hotjar.com/legal/compliance/opt-out.
+Advertising cookies
+These cookies collect information over time about your online activity on the Websites and other online services to make online advertisements more relevant to you.
+==========
+This is known as interest-based advertising.
+They also perform functions like preventing the same ad from continuously reappearing and ensuring that ads are properly displayed for advertisers.
+==========
+Here is a list of the cookies we use on our Website and Messenger and why:
+
+
+
+
+
+        Name
+      
+
+        Service
+      
+
+        Domain
+      
+
+        Domain Found
+      
+
+        Duration
+      
+
+        Description
+      
+
+
+
+        Essential
+      
+
+        intercom-id-tx2p130c
+      
+
+        Intercom
+      
+
+
+ intercom.com
+
+
+
+
+  app.intercom.com
+
+
+
+        9 Months
+      
+
+
+Allows visitors to see any conversations they've had on Intercom websites.
+intercom-session-tx2p130c
+      
+
+        Intercom
+      
+
+
+ intercom.com
+
+
+
+
+  app.intercom.com
+
+
+
+        7 days (from each log in)
+      
+
+Allows users to access their conversations and have data communicated on logged out pages for 1 week.
+__stripe_mid
+      
+
+        Stripe
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        1 yr
+      
+
+
+Facilitates Stripe payments on Intercom websites.
+_intercom_session
+      
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        Session
+      
+
+
+Remembers a user's session in the Intercom product.
+recent_write
+      
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        1 second
+      
+
+
+Prevents read after write bugs.
+admin_features_last_opt_in
+      
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        Session
+      
+
+
+Remembers a user's settings in the Intercom product.
+==========
+embercom_host
+      
+
+        Intercom
+      
+
+
+ www.intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        Session
+      
+
+
+Sets whether the environment is development or
+            production.
+Embercom_host
+      
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        Session
+      
+
+
+Sets whether the environment is development or
+            production.
+exp-existing-customer-vbpnp
+
+
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        6 months
+      
+
+
+To ensure pricing correctness on our pricing pages.
+==========
+gtm_id
+      
+
+        Intercom
+      
+
+
+ intercom.com
+
+
+
+
+  app.intercom.com
+
+
+
+        1 Year
+      
+
+
+Tracks how to interact with Intercom websites and ensures you
+            are seeing page states that are relevant to your
+            experience.
+intercom-is-admin
+      
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        13 months
+      
+
+
+To identify whether a user is also a teammate on an Intercom
+            workspace.
+product_store_identifier
+      
+
+        Intercom
+      
+
+        app.intercom.com
+      
+
+        app.intercom.com
+      
+
+        1 yr
+      
+
+
+To remember a user's settings in the Intercom
+            product.
+==========
+Performance and functionality cookies
+
+
+
+        __cfduid
+      
+
+        Pingdom
+      
+
+
+ pingdom.net
+
+
+
+
+ intercom.com
+
+
+
+        1 Month
+      
+
+        Availability monitoring.
+Marketing cookies
+      
+
+        __cf_bm
+      
+
+        Marketo
+      
+
+
+ app-ab27.
+marketo.com
+
+
+
+
+ intercom.com
+
+
+
+        Expired
+      
+
+
+Cloudflare bot detection cookie.
+__cfduid
+      
+
+
+ app-ab27.
+marketo.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Month
+      
+
+
+Cloudflare malicious visitors detection cookie.
+_mkto_trk
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        2 Years
+      
+
+
+Measures campaign effectiveness.
+BIGipServerab27web-nginx-app_https
+
+
+
+
+ app-ab27.
+==========
+marketo.com
+
+
+
+
+ intercom.com
+
+
+
+        Session
+      
+
+        Load balancing.
+_biz_ABTestA
+      
+
+        Marketo Bizible
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+Enables Bizible, a marketing platform from Marketo.
+_biz_dfsA
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        _biz_flagsA
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        _biz_kvpA
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        Expired
+      
+
+
+
+        _biz_nA
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        _biz_pendingA
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        _biz_sid
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        30 minutes
+      
+
+
+
+        _biz_uid
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        _BUID
+      
+
+
+ bizible.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        ARRAffinity
+      
+
+
+ acct.bizible.com
+
+
+
+
+ intercom.com
+
+
+
+        Session
+      
+
+
+
+        cb_anonymous_id
+      
+
+        Clearbit
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+Tracks page views and traits for Clearbit.
+==========
+cb_group_id
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        cb_user_id
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        cb%3Atest
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        connect.sid
+      
+
+
+ js.clearbit.com
+
+
+
+
+ intercom.com
+
+
+
+        Session
+      
+
+
+
+        rack.session
+      
+
+
+ marketo.clearbit.com
+
+
+
+
+ intercom.com/blog
+
+
+
+        1 Month
+      
+
+
+
+
+Analytics and customization cookies
+
+
+
+        optimizelyDomainTestCookie
+      
+
+        Optimizely
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        6 Months
+      
+
+
+Enables A/B testing.
+optimizelyEndUserId
+      
+
+
+ www.intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        6 Months
+      
+
+
+
+        pageviewCount
+      
+
+        Intercom
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Month
+      
+
+        Visit counts.
+==========
+_ga
+      
+
+        Google Analytics
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        2 Years
+      
+
+
+Google Analytics is a web analytics service offered by Google
+            that tracks and reports website traffic.
+_gat_xxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        Expired
+      
+
+
+
+        _gclxxxx
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        3 Months
+      
+
+
+
+        _gid
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        1 day
+      
+
+
+
+        _dc_gtm_UA-xxxxxxxx
+      
+
+        Google Tag Manager
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        Expired
+      
+
+
+Enables Google Tag Manager to load other scripts and code into
+            a page.
+_hjCachedUserAttributes
+      
+
+        Hotjar
+      
+
+
+ script.hotjar.com
+
+
+
+
+ intercom.com
+
+
+
+        Expired
+      
+
+
+Website optimisation.
+_hjid
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        11 Months
+      
+
+
+
+        _hjTLDTest
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        Session
+      
+
+
+
+        _hp2_id.
+APP_ID
+      
+
+        Heap
+      
+
+
+intercom.com
+
+
+
+
+intercom.com, app.intercom.com
+
+
+
+        2 years
+      
+
+
+Website performance and optimisation.
+==========
+_hp2_ses_props.
+APP_ID
+      
+
+
+intercom.com
+
+
+
+
+intercom.com, app.intercom.com
+
+
+
+        30 minutes
+      
+
+
+
+        _hp2_props.
+==========
+APP_ID
+      
+
+
+ intercom.com
+
+
+
+
+intercom.com, app.intercom.com
+
+
+
+        2 years
+      
+
+
+
+        _hp2_hld.
+*
+      
+
+
+intercom.com
+
+
+
+
+intercom.com, app.intercom.com
+
+
+
+        Session
+      
+
+
+
+        dd_s
+      
+
+        Datadog
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        15 minutes
+      
+
+
+Measurement of website performance.
+dd_rum_test
+      
+
+        Datadog RUM
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        15 minutes
+      
+
+
+
+        Advertising
+      
+
+        bcookie
+      
+
+        LinkedIn
+      
+
+
+ linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        2 Years
+      
+
+
+Retargeting to users after they leave Intercom's
+            websites.
+bscookie
+      
+
+
+ www.linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        2 Years
+      
+
+
+
+        lang
+      
+
+
+ linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        Session
+      
+
+
+
+        lidc
+      
+
+
+ linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        1 days
+      
+
+
+
+        lissc
+      
+
+
+ linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        UserMatchHistory
+      
+
+
+ linkedin.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Month
+      
+
+
+
+        uuid2
+      
+
+        Ad Nexus
+      
+
+        adnxs.com
+      
+
+
+ intercom.com
+
+
+
+        3 Months
+      
+
+
+
+        _uetsid
+      
+
+        Bing
+      
+
+        .
+intercom.com
+      
+
+
+ intercom.com
+
+
+
+        30 minutes
+      
+
+
+
+        MUID
+      
+
+
+ bing.com
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        _fbp
+      
+
+        Facebook Ads
+      
+
+
+ intercom.com
+
+
+
+
+ intercom.com
+
+
+
+        3 Months
+      
+
+
+
+        fr
+      
+
+
+ facebook.com
+
+
+
+
+ intercom.com
+
+
+
+        3 Months
+      
+
+
+
+        IDE
+      
+
+        Google Ads
+      
+
+
+ doubleclick.net
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        TDID
+      
+
+        TheTradeDesk
+      
+
+
+ adsrvr.org
+
+
+
+
+ intercom.com
+
+
+
+        1 Year
+      
+
+
+
+        TDCPM
+      
+
+
+ adsrvr.org
+
+
+
+
+ intercom.com
+
+
+
+        5 Years
+      
+
+
+
+        TTDOptOut
+      
+
+
+ adsrvr.org
+
+
+
+
+ intercom.com
+
+
+
+        5 Years
+      
+
+
+
+        tuuid
+      
+
+        Demandbase
+      
+
+
+ demandbase.com
+
+
+
+
+ intercom.com
+
+
+
+        1 year
+      
+
+
+
+        IUUID
+      
+
+
+ demandbase.com
+
+
+
+
+ intercom.com
+
+
+
+        1 year
+      
+
+
+
+        rud
+      
+
+        ZETA DSP
+      
+
+
+ rfihub.com
+
+
+
+
+ intercom.com
+
+
+
+        13 months
+      
+
+
+
+        ruds
+      
+
+
+ rfihub.com
+
+
+
+
+ intercom.com
+
+
+
+        13 months
+      
+
+
+
+        eud
+      
+
+
+ rfihub.com
+
+
+
+
+ intercom.com
+
+
+
+        13 months
+      
+
+
+
+        euds
+      
+
+
+ rfihub.com
+
+
+
+
+ intercom.com
+
+
+
+        13 months
+      
+
+
+
+        ub
+      
+
+
+ rfihub.com
+
+
+
+
+ intercom.com
+
+
+
+        13 months
+      
+
+
+
+        caa
+      
+
+
+ rfihub.com
+
+
+
+
+ intercom.com
+
+
+
+        13 months
+      
+
+
+
+        smd
+      
+
+
+ rfihub.com
+
+
+
+
+ intercom.com
+
+
+
+        13 months
+      
+
+
+
+Messenger Cookies
+These performance and functionality cookies allow interaction with the Messenger (on domains widget.intercom.io and api-iam.
+intercom.io).
+These cookies allow this interaction by remembering who you are and providing access to previous conversations you've had through the Messenger.
+==========
+Messenger Cookies
+intercom-id-[app_id]
+Intercom Messenger
+widget.intercom.io  api-iam.
+intercom.io
+widget.intercom.io  api-iam.
+==========
+intercom.io
+9 months
+Anonymous visitor identifier cookie.
+As people visit your site they get this cookie.
+==========
+intercom-session-[app_id]
+Intercom Messenger
+widget.intercom.io  api-iam.
+intercom.io
+widget.intercom.io  api-iam.
+==========
+intercom.io
+1 week (from each log-in)
+Identifier for each unique browser session.
+The user can access their conversations and have data communicated on logged out pages for 1 week, as long as the session isn't intentionally terminated with `Intercom('shutdown');`, which usually happens on logout.
+==========
+We may use other similar technologies too, like web beacons, tags, pixels, clear gifs, caching and local browser storage.
+Cookies are not the only way to recognize or track visitors.
+We may use other, similar technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs").
+==========
+Their function is to provide us with statistical information about site traffic and how people navigate through our site, as well as to facilitate marketing and interest-based advertising.
+Web beacons are typically transparent graphic images placed on a site.
+Web beacons are used in combination with cookies to measure the actions of visitors on websites and so declining cookies will impair their functioning.
+==========
+We and our marketing and advertising partners may use web beacons to obtain information such as the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page.
+We may also use web beacons in marketing emails sent by our system.
+If you receive the HTML formatted version of such emails and your email is configured to download images, a record of whether or not you open the email (and, if you open the email, how frequently you open it) will be saved with your subscriber history.
+Your engagement with the content of the communication (such as which links you click on) will also be recorded.
+We also use caching and local storage in your browser to store personalization settings such as your language and which tabs you were last viewing inside our product.
+This allows us to enhance your experience and resume sessions where you left off.
+==========
+We may use this information to give us an indication of the popularity of content and to help us make decisions about future content and formatting.
+We may also use the information to publish more content relevant to users in future issues and to unsubscribe recipients who haven't opened our emails for a period of time.
+==========
+Third party cookies
+Some cookies that have been set on our Websites are not set on a first party basis by Intercom.
+The Websites can be embedded with content from third parties to serve advertising.
+These third party service providers may set their own cookies on your web browser.
+Third party service providers control many of the performance and functionality, advertising, marketing and analytics cookies described above.
+We do not control the use of these third party cookies as cookies can only be accessed by the third party that originally set them.
+For a list of third party cookies used in our Websites and why see this table.
+Controlling cookies and similar technologies - E.U users
+You can set and change your preferences, at any time, by clicking here.
+Blocking and disabling cookies and similar technologies
+Wherever you're located you may also set your browser to block cookies and similar technologies, but this action may block our essential cookies and prevent our website from functioning properly, and you may not be able to fully utilize all of its features and services.
+You should also be aware that you may also lose some saved information (e.g. saved login details, site preferences) if you block cookies on your browser.
+Different browsers make different controls available to you.
+==========
+Disabling a cookie or category of cookie does not delete the cookie from your browser, you will need to do this yourself from within your browser, you should visit your browser's help menu for more information.
+Targeted advertising
+You can opt-out of interest-based advertising facilitated by the cookies on our Websites by opting out of advertising cookies, by clicking here.
+In addition, you can opt-out of interest-based advertising from participating members of the following advertising industry associations:
+Not all companies that serve targeted ads participate in these opt-out programs, so even after opting-out, you may still receive some cookies and interest-based advertisements from other companies.
+If you opt-out of targeted ads, you will still see advertisements online but they may be less relevant to you.
+You can also use your mobile device settings to limit use of the advertising ID associated with your mobile device for interest-based advertising purposes.
+==========
+You will need to apply all of the settings described above on each device on which you want the settings to be applied.
+Updates to this Cookie Policy
+We may update this Cookie Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons.
+Please therefore re-visit this Cookie Policy regularly to stay informed about our use of cookies and related technologies.
+The date at the top of this Cookie Policy indicates when it was last updated.
+If you need further information
+If you have any questions about our use of cookies or other technologies, please email us at team@intercom.io.
+==========

@@ -1,0 +1,22 @@
+The Wayback Machine - https://web.archive.org/web/20111102061543/http://www.microsoft.com:80/windowsazure/legal/
+Last updated: July 2011
+Service Agreement
+Your use of the Windows Azure platform services is governed by the terms and conditions of the agreement(s) under which you purchased the services.
+For customers who purchased online directly from Microsoft, this is the Microsoft Online Subscription Agreement, which incorporates the Microsoft Online Services Use Rights.
+For customers who purchased through Microsoft Volume Licensing, you can obtain a copy of your agreement(s) by contacting your Microsoft account representative or volume licensing.
+==========
+If you are uncertain or have other questions, please contact Windows Azure platform support.
+Privacy Statement
+The Windows Azure Platform Privacy Statement describes the privacy policy and practices specific to the Windows Azure platform.
+This differs from the privacy policy generally applicable to use of Microsoft web sites and the Microsoft Online Services Customer Portal.
+Security Overview
+The Technical Overview of the Security Features in the Windows Azure Platform provides an overview of some of the technical and organizational measures designed to help provide and enable security for the Windows Azure platform.
+==========
+Service Level Agreements
+The Service Level Agreements describe commitments around uptime and connectivity for the Windows Azure platform.
+Customer Portal Terms of Use
+The Customer Portal Terms of Use apply to your use of the Microsoft Online Services Customer Portal, where online customers sign up for the Windows Azure platform services and administer billing.
+They do not apply to the purchase or use of the Windows Azure platform services, which are governed by the terms and conditions of the agreement(s) under which you purchased the services (see Service Agreement section above).
+The above list is provided for your convenience as an overview of the terms and conditions that govern the purchase and use of the core Windows Azure platform services.
+Ancillary services, software, and content, including labs and beta releases, may be governed by additional or different terms not listed above.
+==========

@@ -1,0 +1,117 @@
+VeriSign, Inc.'s Overall Privacy Statement
+Version 1.1 - February 26, 1998
+This Overall Privacy Statement verifies that VeriSign, Inc. is a member of the TRUSTe program and is in compliance with TRUSTe privacy principles.
+This statement discloses the privacy practices for the entire Web site.
+TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent.
+Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe.
+When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of:
+What information this site gathers/tracks about you
+What this site does with the information it gathers/tracks
+With whom this site shares the information it gathers/tracks
+This site's opt-out policy
+This site's policy on correcting and updating personally identifiable information
+This site's policy on deleting or deactivating your name from our database
+Questions regarding this statement should be directed to VeriSign, Inc.'s site coordinator, or TRUSTe (www.truste.org) for clarification.
+==========
+To return to the Site, please use the "Back" button on your browser.
+Overview
+Privacy is of great concern to most users of the Internet, and is a critical part of an enjoyable and satisfactory user experience.
+VeriSign is acutely aware and sensitive to the privacy concerns of our subscribers and other visitors to our Web site.
+VeriSign may collect personal information from users of its products and services but VeriSign does this to authenticate the users' identity and thereby provide trust and integrity in its public certification services.
+==========
+If you have any questions regarding this Privacy Statement, please contact practices@verisign.com.
+For responses to additional frequently asked privacy questions, see https://www.verisign.com/repository/Privacy_FAQ/index.html.
+NOTE: VERISIGN'S WEB SITE CONTAINS LINKS TO OTHER WEB SITES.
+VERISIGN MAKES NO REPRESENTATIONS WITH RESPECT TO THE PRIVACY PRACTICES, PRIVACY STATEMENTS, OR OTHERWISE REGARDING SUCH OTHER WEB SITES.
+Enforcement of this Privacy Statement
+VeriSign supports TRUSTe's comprehensive assurance process.
+This assurance process helps to ensure that participants in TRUSTe's program, such as VeriSign, comply with the TRUSTe principles.
+Initial and periodic Web site reviews, "seeding", and professional auditing of TRUSTe participants are performed as part of this assurance process.
+If a TRUSTe participant is suspected of not conforming with the TRUSTe principles, TRUSTe will investigate the issue, which could result in penalties, additional audits, or revocation of the participant's trustmark license.
+Extreme violations may even be escalated to the Federal Trade Commission (FTC).
+==========
+These enforcement measures are intended to provide some assurances that you can rely on the representations made by VeriSign under the TRUSTe Program.
+For more information on the TRUSTe assurance process, see http://www.truste.org/users/assurance.html.
+If you feel that VeriSign is violating this Privacy Statement, please contact practices@verisign.com.
+Alternatively, you may file a report with TRUSTe at http://www.truste.org/users/watchdog.html.
+==========
+Information VeriSign Gathers from Visitors
+VeriSign does not collect any personal information from a visitor to its Web site without explicitly requesting that the visitor provide it.
+If a visitor is just browsing VeriSign's Web site, VeriSign does not gather any personal information about the visitor whatsoever.
+There are two ways in which a visitor may explicitly provide and consent to VeriSign's collection of personal information.
+E-mail - VeriSign uses links throughout its Web site to provide a visitor with the opportunity to contact us via e-mail to ask questions or provide comments and suggestions.
+==========
+In addition, VeriSign may offer a visitor the opportunity to have a VeriSign representative contact him or her personally to provide additional information about a product or service.
+In order to do so, VeriSign may request additional personal information from the visitor that is relevant or necessary to satisfy the request.
+Enrollment - During the enrollment process for VeriSign's products and services, VeriSign requests certain information from the applicant.
+Different products may require the applicant to provide different personal information.
+For certain products, VeriSign may require name, address, telephone number, e-mail address, credit card number, and social security number.
+==========
+Other VeriSign products may require different or supplemental information from the applicant.
+For a detailed listing of the type of personal information requested for VeriSign's various products, please see the enrollment page for the particular product or service and Section 4.2 of the VeriSign Certification Practice Statement ("CPS") (see https://www.verisign.com/repository/CPS).
+One exception to this policy concerns information that an applicant may optionally submit during the application process.
+This information may include the applicant's country of residence, zip code, age, gender, or other information.
+Such information is referred to as personalization information and is discussed in "Digital ID Content" below.
+==========
+Use of Information VeriSign Gathers from Visitors
+Responses and Updates - VeriSign will typically respond to e-mail and other inquiries that it receives.
+VeriSign may retain such correspondence in order to improve its products, services, and Web site, and for other disclosed purposes.
+Validation - If a certificate applicant enrolls for certain types of Digital IDs, VeriSign may compare some of the information in the certificate application to information contained on a third party database.
+VeriSign does this in order to authenticate the applicant's identity and other attributes.
+All such third parties have executed confidentiality agreements with VeriSign that prohibit the further sharing or use of such information.
+Digital ID Content - VeriSign expressly states (in its enrollment pages, CPS, FAQs, or elsewhere) what information will appear in a Digital ID.
+Generally this information is limited to e-mail address (and possibly name) but certain classes of Digital IDs contain additional information.
+In addition, a certificate applicant may voluntarily choose to include designated portions of the enrollment information (as disclosed and explained on the applicable enrollment page) in his or her Digital ID.
+==========
+This information is commonly referred to as personalization information.
+This optional feature is offered to permit certain Web sites to read and use personalization information in order to provide a Digital ID subscriber with an enhanced and customized experience and/or to permit quicker and more accurate registration at such Web sites.
+If the certificate applicant chooses not to include personalization information in his or her Digital ID, VeriSign will keep such information and all other application information that does not appear in the Digital ID confidential.
+Publication of Digital IDs in Repositories - Publication of Digital IDs in an accessible location (a repository) is an integral part of enabling the widespread use of Digital IDs.
+==========
+Publication is also a widely-recognized industry practice.
+VeriSign's CPS requires VeriSign to publish all subscriber certificates within the Public Certification Services.
+Consequently, a subscriber should have no expectation of privacy regarding the content of his or her Digital ID.
+VeriSign does not otherwise disclose, sell, or make available personal information.
+Common Uses that VeriSign does NOT Employ
+Profiling - VeriSign does not use a visitor's personal information to create profiles and/or tailor the visitor's experience on VeriSign's Web site.
+==========
+Opt-out Policy
+From time-to-time, VeriSign may notify subscribers of new products, announcements, and upgrades.
+If you would like to opt-out of being notified in this way by VeriSign, please visit:
+www.verisign.com/compref/
+or
+VeriSign, Inc.
+Attention: Support
+1350 Charleston Rd.
+==========
+Mountain View, California 94043
+VERISIGN RESERVES THE RIGHT TO NOTIFY ITS SUBSCRIBERS OF ANY INFORMATION THAT AFFECTS THE SECURITY OF VERISIGN'S PRODUCTS OR SERVICES.
+Correct/Update Policy
+VeriSign cannot correct/update information contained in a Digital ID without destroying the integrity of the Digital ID.
+VeriSign digitally signs each subscriber's Digital ID as a part of the Digital ID issuance process.
+If VeriSign subsequently modifies or removes information listed in your Digital ID, VeriSign's digital signature would not verify the Digital ID's new content.
+Furthermore, if you then digitally signed a message with your private key, a third party would not be able to properly verify your signature (created using your private key) because your Digital ID would have been altered after the key pair's creation.
+For more information and tutorials on digital signatures, Digital IDs, keys, and related subjects, see http://www.verisign.com/repository.
+==========
+If you would like to correct and/or update any information on our records that is not contained in your Digital ID, please contact:
+id-support@verisign.com
+or
+VeriSign, Inc.
+Attention: Support
+1350 Charleston Road
+Mountain View, California 94043
+Delete/Deactivate Policy
+When a third party wants to rely on a Digital ID, it is important for the third party to know its status (for example, whether it is valid, suspended (where available) or revoked).
+The third party may do this by accessing VeriSign's repository and querying for the status of the Digital ID.
+VeriSign does not generally delete Digital IDs (and content) from its on-line repository because a third party might not then be able to check its status.
+You may, however, revoke (deactivate) your Digital ID.
+A revoked Digital IDs will still appear in the VeriSign repository with an indication that it has been revoked.
+If you are a Digital ID subscriber and would like to have your Digital ID revoked (deactivated) from VeriSign's database, please visit VeriSign's Web site at https://digitalid.verisign.com/revoke.htm and follow the listed instructions or contact:
+id-support@verisign.com
+or
+VeriSign, Inc.
+Attention: Support
+1350 Charleston Rd.
+Mountain View, California 94043
+To return to VeriSign's home page, click here.
+==========

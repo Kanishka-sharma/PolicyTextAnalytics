@@ -1,0 +1,181 @@
+Eyeview Privacy Policy
+Overview of Eyeview Services
+At Eyeview Inc. (“Eyeview” or “we”, “us” or “our”), we understand that your privacy is important to you.
+This privacy policy (the “Privacy Policy”) explains how we collect, use, and disclose information collected through our web-based and mobile-based advertising services, as well as the Eyeview corporate websites.
+The Eyeview advertising services are collectively referred to as the “Services.”
+This policy does not apply to companies that Eyeview does not own or control or to people that Eyeview does not employ or manage.
+For information about how we collect and use information through our corporate websites, including http://www.eyeviewdigital.com, please scroll down to the Section titled “PRIVACY INFORMATION FOR EYEVIEW CORPORATE WEBSITES.”
+Eyeview offers services that are designed to help our customers, who are usually advertisers, but might be ad agencies, other ad platforms, or ad networks (“Customers”) deliver relevant content, emails, and tailored advertising and promotions, including those tailored to geographic areas.
+If you’d like to opt-out from having ads tailored to you by Eyeview (whether through web or mobile delivery mechanisms), please follow the instructions in the “Your Choices” section below.
+The Information We Collect and Use In Providing Our Services
+
+We are able to provide more relevant content and targeted advertising by collecting certain information about you, including when you interact with our Services.
+This may include your interactions with (a) our Customers and their advertisements, or (b) other web or mobile-based companies and marketing platforms, such as website content providers and mobile app developers, and platforms that aggregate their data (including Data Providers, as defined below).
+==========
+We may do this by using automated technologies such as cookies, including non-HTTP cookies, pixel tags, mobile identifiers and SDKs, each of which we describe below, and in the Section titled, “What are “cookies,” “pixel tags,” and “SDKs,” and how do we use them?”
+We collect and use the following Information in providing our Services:
+
+Information from marketing companies and other third party data providers (such as website content providers and mobile app developers, or other advertising platforms) (“Data Providers”) regarding their site visitors or app users, customers, or others.
+This may include information about consumers’ actual or presumed demographics, interests or purchase behavior, as well as information about their interactions with websites and apps (including, for example, when they visited the pages, the content they viewed, and the links and ads that they clicked).
+==========
+Transactional information from our Customers.
+Our Customers may provide us with non-personally identifiable information about you.
+Log information.
+When you visit a Customer’s or Data Provider’s website where our Services are deployed, our servers automatically record non-personally identifiable information that your browser sends.
+These server logs include information such as Internet Protocol (“IP”) address (a unique number that is automatically assigned to your computer), the date and time, whether one of our cookies is already set on your browser, your browser type, the website (or mobile application) you are interacting with, and your interactions with our services, such as clicks on ads.
+Your IP address provides us the ability to infer your geographic location information.
+==========
+Mobile data.
+Through mobile applications on which our Services are deployed, including applications operated by our Customers, Data Providers (or companies that they receive information from), we likewise may collect information about your interactions with other applications (including your IP address and time-stamp information), and information about your mobile device (including device type, handset name, operating system information, mobile identifiers such as Apple IDFA and Android Advertising ID, app-specific identifiers, and a list of the applications your device interacts with).
+The mobile information we collect or receive from our Data Providers and Customers also may include geolocation information, which may be precise, that may help us or our Customers to target ads or tailor content to your precise location.
+For instance, if we believe that you are often near a particular store in Northern Jersey, we might send you an ad targeted to that store, rather than another store in the general area.
+Other data collected via automated means.
+==========
+For more details, please see the section further below regarding cookies, pixel tags and SDKs.
+We may use cookies, pixel tags, SDKs and similar technologies to collect the above information, or to associate certain types of information with each other.
+How Do We Use and Share the Information We Collect?
+==========
+We may use this information to help Eyeview show personalized or other customized advertisements that are more likely to be relevant to you.
+We also use the information to review the use of our Services and to improve them, as well as to develop new services.
+For example, data collected about users may be used to create data segments that may then be used in our Services, such as to tailor advertising and content.
+Thus, if you provide us information through our Services (including through our Data Providers or a Customer) that indicates to us that you enjoy movies, outdoors, we may then send ads regarding new movies or movie theaters in your area, matched to your browser or device (or a browser or device we believe may be yours).
+Or, we may create data models that indicate that many users with similar attributes to you (such as geographic or interest-based) seem to like the outdoors – and we may then send them ads regarding outdoor gear or travel ideas, based on that same data model.
+==========
+Sometimes, we integrate our information with other platforms and partners, to allow advertisers to access our non-personally identifiable information, websites and mobile developers we have relationships with, or our Customers’ users, or in conjunction with other analytics or marketing services they provide.
+This might be done, for instance, by “synching” anonymous identifiers, in order to permit anonymous data that we collect to be used by these platforms and their own customers.
+Likewise, sometimes we may obtain from other platforms anonymous data they have collected, such as anonymous browser or mobile identifiers, and associated information; this process, too, may involve a sharing of unique, anonymous identifiers in order to create this “sync.”
+We may do this to permit our own Customers to have access to this data, or to improve the accuracy of the information that we use and make available.
+Sometimes,, we may use or make available the information we collect or receive to anonymously recognize unique users or try to resolve a commonality of users (or households) across platforms or across devices, such as smartphones, computers, tablets or related browsers.
+For instance, we (or a Data Provider or Customer we work with) might infer that a common IP address seen across different devices represents a common user, and use that inference in tailoring ads.
+We may share aggregated, non-personal, general information, such as how users interact with our or our Customers’ services, how many users clicked on or responded to a particular ad, or other aggregated, anonymous or averaged results relating to advertising campaigns and related Customer transactions.
+This information does not identify you individually and cannot be used to contact you.
+==========
+What are “Cookies,” “Pixel Tags,” and “SDKs,” and How Do We Use Them?
+Cookies.
+Cookies are small data files that contain a string of characters, such as an anonymous unique browser identifier.
+Cookies are stored on your computer or other device and act as anonymous tags that identify your device, but not you personally.
+Our servers send your device a cookie when you visit or use a Customer or Data Provider website or mobile application.
+==========
+A pixel tag (also commonly known as a web beacon or clear GIF) is an invisible 1 x 1 pixel that is placed on certain web pages.
+When you access these web pages, pixel tags generate a generic notice of the visit and permit us to set or read our cookies.
+Pixel tags are used in combination with cookies to anonymously track the activity on a site by a particular device.
+When you turn off cookies, pixel tags simply detect an anonymous website visit.
+We use cookies to, among other things, “remember” you, track user trends, and collect information about how you use our Data Providers and Customer’s sites or interact with the advertising we deliver on their behalf .
+We likewise use cookies to provide relevant content to you and replace non-relevant ads with ads that better match your interests.
+==========
+Disabling Cookies
+
+Most Web browsers are set up to accept cookies.
+You may be able to set your browser to warn you before accepting certain cookies or to refuse certain cookies.
+However, if you disable the use of cookies in your web browser, some features of our services may be difficult to use or inoperable.
+We work with certain third-party companies that use techniques other than HTTP
+cookies to recognize your computer or device and/or to collect and record information about your web surfing activity, including those integrated with our Services.
+Please keep in mind that your web browser may not permit you to block the use of these techniques, and those browser
+settings that block conventional cookies may have no effect on such techniques.
+==========
+To learn more about Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of DAA’s opt-out program, please go to http://www.aboutads.info.
+You may also go here to opt out of one such provider we may work with, or reset that provider’s advertising identifier.
+(However, we make no representation about the accuracy or effectiveness of other providers’ opt out mechanisms.
+Please review those providers’ websites, to learn how their tools operate.)
+==========
+Mobile Device Identifiers and SDKs.
+We also sometimes use, or partner with publishers or publisher-facing and app developer platforms that use mobile SDKs to collect information, such as mobile identifiers (e.g., IDFAs and Android Advertising IDs), and information connected to how mobile devices interact with our Services and those using our Services.
+A mobile SDK is the mobile app version of a pixel tag or beacon (see “Pixel Tags or Beacons” above).
+The SDK is a bit of computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services to be implemented.
+We may use this technology to deliver certain advertising through mobile applications and browsers based on information associated with your mobile device.
+==========
+If you’d like to opt-out from having ads tailored to you in this way on your mobile device, please follow the instructions in the “Choices” section below.
+Your Choices: How To Opt-Out of Tracking
+
+You may choose to opt out of having your non-personally identifiable information for purposes of serving you relevant advertising by clicking on the button below.
+When you opt out, we will place a cookie on your browser instructing us not to use your other online behaviors to customize the ads you see.
+Please note that if you opt out, you will receive a persistent cookie that tells us not to recognize your browser to serve relevant ads.
+Therefore, if you manually delete your cookies, you will delete the opt-out cookie as well.
+In addition, if you buy a new computer or change Web browsers, you’ll need to perform the opt-out task again.
+==========
+As described in this Privacy Policy, we often work with other web-based and mobile-based platforms to help tailor online and mobile ads.
+You can learn more about those platforms, and opt out of many of them, by visiting http://www.aboutads.info/choices or http://www.networkadvertising.org/choices/.
+You may opt out of mobile app interest-based advertising through your mobile device settings, as described below, and as applicable to most (but not necessarily all) mobile devices.
+When you do this, we will no longer use information collected through your mobile apps to deliver behaviorally targeted advertising to your device.
+Please note that you will continue to receive advertising after you opt-out, but it may not be tailored to your interests.
+Opting Out on iOS Devices Such as iPhones, iPads or iPods
+If you have an Apple device, you can opt out of Eyeview’s app-based tracking for interest-based advertising by updating to iOS 6.0 or higher, and setting Limit Ad Tracking to ‘ON’.
+You can do this by clicking on Settings -> General -> About -> Advertising and toggling Limit Ad Tracking to ‘ON’.
+==========
+Our systems are designed to respect your choice and not use information to provide interest-based advertising based on data collected automatically from apps when this setting is ON.
+Opting Out on Android Devices
+If you have an Android device , you can opt out of Eyeview’s app-based tracking for interest-based advertising by taking the following steps:
+
+Open the Google Settingsapp on your device
+Select Ads
+Either “Reset advertising ID” or
+Opt out of interest-based ads
+
+Our systems are likewise designed to respect these choices transmitted by your Android device.
+Please note that we provide the above information regarding mobile opt-out techniques solely as examples of how mobile device platforms may permit opt out: to ensure that you are able to opt out through the most accurate and current methods, for your device, please review your device settings or instructions provided by the respective Google/Android or Apple websites.
+==========
+Information Security
+
+We take measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data we collect and store.
+These include internal reviews of our data collection, storage, and processing practices and security measures.
+Our servers are protected by firewalls and are physically located in secure data facilities to further increase security.
+Of course, no security system is perfect.
+While we have taken measures to safeguard against the unauthorized access to, or alteration of, data we collect and store, we cannot guarantee that it will not be disclosed or accessed inadvertently or through the unauthorized acts of others.
+==========
+Data Retention 
+
+Eyeview retains anonymous user information it uses for its advertising services for no more than two years, after which the information is deleted.
+Except as permitted by law, we may aggregate anonymous user information (e.g., to create group-level data), which we may keep for an indefinite period.
+Privacy Information for Eyeview Corporate Websites
+
+ 
+The below provides information about how information is collected and used on our corporate websites, including http://eyeviewdigital.com.
+If you would like to learn more about our advertising-related services, please scroll up to the beginning of this Privacy Policy.
+==========
+Collection of Customer Information
+Eyeview’s customers are businesses and other organizations, groups and institutions, not individuals, and our corporate website collects contact information from our customers and prospective customers who request information and/or fill out ‘Contact Us’ forms.
+To the extent that personally identifiable contact information (first and last name, telephone number, and e-mail address) is collected, we may use this to provide you with information that you requested, to correspond with you about any questions or concerns you have brought to our attention, or to notify you of new services or updates to our existing services.
+We do not share, sell, rent, or trade any of your personally identifiable information to any third party for promotional purposes or otherwise except as expressly described herein.
+Anyone who has provided personal contact information through Eyeview’s corporate website may e-mail Eyeview at info@Eyeview.com to update, delete, and/or correct their personal contact information.
+==========
+We may use cookies, pixels, device identifiers or other anonymous tracking methods to recognize you and to target or retarget ads to you when you visit our website, visit other sites across the internet, or visit other applications and services.
+Use and Sharing of Customer Information
+We may share personal information about you with our service providers, such as for purposes of marketing and promotions, billing and collection, email and other communications, hosting, technology and customer support and to otherwise carry out our internal operations.
+We also may share personal information when we believe such action is appropriate to comply with law (such as legal process), to protect our rights or property or those of any other person or entity, or to enforce customer agreements.
+==========
+If you provide us with a customer testimonial, we may post that on our website.
+Third Party Websites
+Our corporate website may contain links to other websites.
+Please be aware that we are not responsible for the privacy practices of such other websites.
+We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects information, including personally identifiable information.
+For additional information about information collected on our websites and how to contact us, please see the below sections.
+==========
+Other Important Information About Privacy and Security
+ Privacy of Children
+
+Eyeview’s services are not intended or designed to attract children under the age of 13.
+We do not knowingly collect personally identifiable information from children under 13.
+Nor do we intentionally create, share, or collect data or segments regarding children under 13 years of age.
+Information Gathering by Eyeview Customers
+
+Our Customers use our services to enhance their websites, apps, services, advertising, and related offerings.
+They may place their own cookies on your computer, collect data, or solicit personal information.
+For more information about their information collection and use, please refer to their privacy policies.
+==========
+Transfer of Assets
+
+In the event that another company acquires all or substantially all of the assets related to the business of Eyeview, we reserve the right to include any or all information among the assets transferred to the acquiring company.
+How to Contact Us
+
+If you have questions or concerns regarding this Policy, please contact us by emailing us at privacy@eyeviewdigital.com or write to us at
+Eyeview – Privacy team
+60 Madison Avenue
+4th Floor
+New York, NY 10010
+If you have general questions about Eyeview please contact us at http://www.eyeviewdigital.com/contact/.
+Changes to This Privacy Policy
+
+Eyeview may update this Privacy Policy from time to time by posting a new version of it on this website.
+We will provide the effective date as well.
+This Privacy Policy is effective as of 6/5/15
+==========

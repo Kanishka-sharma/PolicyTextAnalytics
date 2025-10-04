@@ -1,0 +1,117 @@
+Last Updated: May 18, 2018; Effective: May 25, 2018
+This Cookie and Other Similar Technologies Policy (“Policy”) describes the different types of cookies and similar technologies that may be used by the supply side platform (the “Platform”) owned and operated by PubMatic, Inc. and its affiliates (collectively, “PubMatic”).
+We may update this Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons.
+Please therefore re-visit this Policy regularly to stay informed about our use of cookies and similar technologies.
+The date at the top of this Policy indicates when it was last updated.
+==========
+If you have any further queries, please contact us by email at privacy@pubmatic.com, or write to us at the following address:
+PubMatic, Inc.
+c/o Privacy
+305 Main Street, First Floor
+Redwood City, California 94063, USA
+Some cookies that we use through the Platform will collect personal information about you, or information that becomes personal information if we combine it with other data.
+Any personal information that we collect will be used in accordance with our Privacy Policy.
+For information about cookies that may be applied through the PubMatic.com and any other website owned or operated by PubMatic, see our Website Cookie Policy.
+WHAT IS A COOKIE?
+Cookies are a standard feature of websites that allow us to collect certain information from your browser or device when you visit our publisher clients’ websites that use the Platform.
+In relation to the use of cookies by our partners and clients, note that we do not have access or control over these cookies.
+==========
+WHAT COOKIES DO WE USE?
+We use a variety of cookies on the PubMatic Platform for several reasons.
+We also may use web logs, pixel tags, or web beacons, which are pieces of code that may be used to read and place cookies on a web browser, to collect information about how you interact with websites or advertisements.
+The tables below detail the most frequently used cookies by PubMatic on its Platform and explain their use.
+Preference Cookies
+Preference cookies collect and store information about your choices and preferences, such as your preference to opt out of other cookies that may be applied by the Platform.
+Cookie Names
+
+
+Purpose
+
+
+
+optout and pmoo
+These cookies record a user’s PubMatic Opt Out preference.
+==========
+Advertising and Analytics Cookies
+We partner with website publishers to deliver advertising that we believe may interest you based on your activity on our publishers’ websites and other websites over time.
+We set and access cookies on your computer or other device to perform this service and may also use web logs, pixel tags, or web beacons.
+These cookies and other technologies are used to deliver advertisements that are more relevant to you and your interests.
+They are also used to limit the number of times you see an advertisement as well as to help measure the effectiveness of the advertising campaign.
+==========
+Cookie Names
+
+
+Purpose
+
+
+
+KADUSERCOOKIE
+We use this cookie to uniquely identify each browser or device from which an individual user visits our partners’ websites.
+KCCH
+This cookie ensures that a PubMatic user ID is already set and that PubMatic’s code is running properly.
+PUBRETARGET
+We use this cookie to indicate if a user can be considered for various re-targeting ad campaigns running on the Platform.
+==========
+For example, we may use it to determine whether to show you an advertisement that relates to a product or service that you previously viewed on an advertiser’s website.
+KTPCACOOKIE
+We use this cookie to check if third-party cookies are enabled on the user’s browser.
+COKENBLD
+This cookie sets a flag to “true” if cookies are enabled on the user’s browser.
+PUBMDCID
+This cookie stores an ID for the applicable PubMatic data center that is used to display an advertisement in the user’s browser.
+KRTBCOOKIE_[DSPID]
+We use this cookie to correlate our user IDs with those of our partners (such as demand side platform clients or other advertising technology companies).
+We pass the information stored by the partner in this cookie to the partner when it is considering whether to purchase advertisements.
+This enables the partner to make better decisions about whether to display an advertisement to you.
+==========
+SyncRTB and DPSync
+These cookies maintain a list of our partner’s pixel IDs, which may be used to read and place cookies on a web browser, that have been synced with PubMatic IDs.
+This enables us to identify the partners with whom we have already synced our cookies and to ensure that we do not unnecessarily sync cookies again within a certain period of time.
+USCC
+This cookie enables PubMatic to sync user IDs properly in situations where multiple advertisements might appear on the same webpage.
+DPPIX_ON and SYNCUPPIX_ON
+These cookies enable PubMatic to properly sync cookie IDs with our partners by ensuring that our partners do not override each other during the sync process.
+PUBUIDSYNCUPFQ
+This cookie indicates the last time that we synced IDs with our partner.
+==========
+camfreq_<SITEID>
+This cookie is set for each campaign and indicates the number of times (e.g., frequency) that a particular advertisement may have been shown on the applicable publisher site.
+pubfreq_<SITEID>
+This cookie is set for each advertising network and indicates the number of times (e.g., frequency) that a particular advertisement may have been shown on the applicable publisher site.
+pubtime_<SITEID>
+This cookie stores the period of time after which ad frequency counters reset.
+PMFREQ_ON
+This cookie ensures the proper functioning of the camfreq and pubfreq cookies, described above, in situations where one cookie may override the other.
+DPFQ
+This cookie stores information regarding the number of times that a partner’s pixel is loaded by a user’s browser.
+This enables us to cap the number of times that a pixel is used to record a user’s visit to a website within a specific period of time.
+==========
+pi
+This cookie enables us to determine which set of pixels needs to be executed on the browser.
+repi
+This cookie is a short-lived cookie that is used to determine if repixeling is in progress.
+ipc
+This cookie is a short-lived cookie that stores information needed to coordinate cookie syncing.
+SPugT
+This cookie is used to track when the server-side cookie store was last updated for the browser, and it is used in conjunction with the PugT cookie, described below.
+PugT
+This cookie tracks when cookies were updated on the browser, in order to limit the number of calls to the server-side cookie store.
+Pp
+This cookie tracks the last publisher website that you visited that contained an advertisement served by PubMatic.
+==========
+WHAT OTHER SIMILAR TECHNOLOGIES DO WE USE?
+PubMatic uses other technologies, such as UDID, ETags, and web or browser cache, for similar purposes as cookies.
+We use these other technologies for ad delivery and reporting, which involves the logging of page views or the collection of other data about a computer or device for the purpose of delivering ads or providing advertising-related services, including, but not limited to: providing a specific advertisement based on a particular type of browser or time of day; statistical reporting in connection with the activity on a website; analytics and analysis; optimization of location of ad placement; ad performance; reach and frequency metrics (e.g., frequency capping); security and fraud prevention; billing; and logging the number and type of ads served on a particular day to a particular website.
+HOW DO I MANAGE COOKIES & OTHER SIMILAR TECHNOLOGIES?
+==========
+You have the right to decide whether to accept or reject cookies.
+You can exercise your cookies preferences by following the opt-out instructions below.
+If you would like to opt out of cookies that may be applied by the Platform and similar technologies for interest-based advertising purposes, you may choose to do so by visiting the PubMatic Opt Out page.
+In addition, you may refuse or accept cookies from the Platform at any time by activating settings on your browser.
+Information about the procedure to follow in order to enable or disable cookies can be found on your Internet browser provider’s website via your help screen.
+==========
+You may wish to refer to http://www.allaboutcookies.org/manage-cookies/index.html for information on commonly used browsers.
+Please be aware that if cookies are disabled, some website features may not operate as intended.
+For more information about how to clear your browser cache, see your browser’s instructions for doing so.
+Additionally, for further information about how you can opt-out of: (i) interest-based advertising from cookies and in mobile applications; and (ii) cross-device targeting, please review our Privacy Policy and the section headed “Choices and Access” for further information.
+==========

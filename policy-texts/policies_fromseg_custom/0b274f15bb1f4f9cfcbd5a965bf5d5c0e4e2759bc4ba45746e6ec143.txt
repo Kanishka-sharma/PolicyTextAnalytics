@@ -1,0 +1,205 @@
+We use technologies on the site www.nationalgeographic.com (the Site) to collect information that helps us improve your online experience.
+In this Cookie Policy, we refer to these technologies, which include cookies, pixels, web beacons and gifs, collectively as cookies.
+This policy explains the different types of cookies used on the Site and how you can control them.
+We may change this Cookie Policy at any time.
+Please take a look at the last effective date at the top of this page to see when this Cookie Policy was last revised.
+==========
+Any changes in this Cookie Policy will become effective when we make the revised Cookie Policy available on or through the Site.
+Any personal information that we collect through the use of cookies is obtained through transparent notice to you and through your consent.
+==========
+Where applicable, we provide you with the opportunity to opt out.
+We hope that this Cookie Policy helps you understand, and feel more confident about, our use of cookies.
+Please also see our Privacy Policy to understand the other ways in which we use information we collect about you.
+If you have any further queries, please contact us at NGPPrivacy@natgeo.com.
+1.
+==========
+What is a cookie?
+Cookies are small text files that are stored on your computer or mobile device.
+==========
+They are widely used in order to make websites work, or work in a better, more efficient way.
+They can do this because websites can read and write these files, enabling them to recognise you and remember important information that will make your use of a website more convenient (e.g. by remembering your user preferences).
+2.
+==========
+What cookies do we use?
+Below we list the different types of cookies we may use on the Site.
+A) According to functionality:
+
+Performance Cookies.
+==========
+Performance cookies, which are sometimes called analytics cookies, collect information about your use of this Site and enable us to improve the way it works.
+For example, performance cookies show us which are the most frequently visited pages on the Site, allow us to see the overall patterns of usage on the Site, help us record any difficulties you have with the Site and show us whether our advertising is effective or not.
+Performance cookies on this Site are:  s_cc , s_invisit, , s_ppv, s_ppvl, , s_visit, s_vnum: Provided by Adobe's Site Catalyst product suite which enables website owners to track visitor behavior and measure site performance.
+To opt out of Adobe Site Catalyst, please visit: 
+ https://www.adobe.com/privacy/opt-out.html  
+_ga, _gat, _gat_UA-84641393-8, _gat_UA-28236326-1, _gid, __utma, __utmb, __utmc, __utmt, __utmv, __utmt_YS, __utmt_YS2, __utmz: Set by Google Analytics and Google Tag Manager to enable website owners to track visitor behaviour and measure site performance.
+==========
+To opt out of Google Analytics and Google Tag Manager, please visit the 
+ Google Analytics site.
+Google Firebase: Mobile device cookie for collection of data about App Users, including via identifiers for mobile devices (including Android Advertising ID and Advertising Identifier for iOS)
+  To opt out of Google Firebase, please visit the 
+ Google Analytics for Firebase policy.
+utag_main: Within this cookie are several built-in values that keep track of the visitor sessionAdvertising ID and Advertising Identifier for iOS) To opt out of Tealium, please visit: 
+ https://tealium.com/privacy/Optout  
+_cb_svref: Microsoft MSN 1st party cookie used to measure the use of the website for internal analytics.
+To opt out of _cb_svref please visit: 
+ https://chartbeat.com/privacy  
+_ceg.s, _ceg.u: Used to track visitor sessions
+  To opt out of Crazy Egg, please visit: 
+ https://www.crazyegg.com/cookies  
+_chartbeat2, _v__chartbeat3, _chartbeat4, _cb_ls: Chartbeat real-time analytics platform used to distinguish between new and returning visitors.
+==========
+To opt out of Chartbeat analytics, please visit: 
+ https://chartbeat.com/privacy  
+apnid, cid, gid: Set by Sojern, specializing in travel, Sojern, uses a combination of pixel tags and cookies to track user behavior across the web and recognize user preferences to enhance the experience.
+To opt-out of Sojern analytics, please visit: 
+ https://www.sojern.com/privacy/product-privacy-policy  
+__tld__: From Segment Analytics that will Isolate and analyzes subsets of data for component trends in your business
+  To opt out of Segment Analytics, please visit: 
+ https://segment.com/docs/legal/privacy
+
+
+Functionality Cookies.
+.
+==========
+In some circumstances, we may use functionality cookies.
+Functionality cookies allow us to remember the choices you make on our Site and to provide enhanced and more personalized features, such as customising a certain webpage, remembering if we have asked you to participate in a promotion and for other services you request, like watching a video or commenting on a blog.
+All of these features help us to improve your visit to the Site.
+Functional cookies on this Site are:  __atuvc, __atuvs: A social sharing widget which is commonly embedded in websites to enable visitors to share content with a range of networking and sharing platforms 
+  To opt out of __atuvc: please visit: 
+ http://www.addthis.com/privacy/opt-out  
+lastKnownAnonymousProfileId: Cookies generated when an unregistered user visits site pages.
+These are used to collect analytics in the event that a user with this ID chooses to register for an account.
+==========
+To opt out of lastKnownAnonymousProfileId:: please visit: 
+ https://www.aboutads.info/choices  
+mvpd-auth: multichannel video programming distributor authorization server for establishing and managing permissions for subscriber access to the content
+  To opt out of mvpd-auth, please visit: 
+ https://www.aboutads.info/choices  
+__lc.visitor_id.nnnnnnn: Allows websites to talk to visitors on their site.
+The cookie will allow the application to recognise a returning visitor to the website.
+To opt out of __lc.visitor_id.nnnnnnn , please visit: 
+ https://www.livechatinc.com/privacy-policy  
+__lc.window_state: This cookie checks stores the open/closed state of the livechat window
+  To opt out of lc_window_state , please visit: 
+ https://chartbeat.com/privacy  
+__stripe_sid, __stripe_mid: associated with Calendly, a Meeting Schedulers that some websites employ.
+This cookie allows the meeting scheduler to function within the website.
+To opt out of __stripe_sid, __stripe_mid , please visit: 
+ http://www-uat.addthis.com/privacy/opt-out  
+_unam: ShareThis social sharing widget placed in a site to enable
+  To opt out of __unam: please visit: 
+ https://www.sharethis.com/privacy
+
+
+Targeting or Advertising Cookies.
+==========
+We and our service providers may use targeting or advertising cookies to deliver ads that we believe are more relevant to you and your interests.
+For example, we may use targeting or advertising cookies to limit the number of times you see the same ad on our Site and to help measure the effectiveness of our advertising campaigns.
+These cookies remember what you have looked at on the Site and we may share this information with other organizations, such as advertisers.
+==========
+For more information about third-party advertising networks and similar entities that use these technologies, see www.aboutads.info/consumers, and to opt-out of such ad networks’ and services’ advertising practices, go to www.aboutads.info/choices.
+Opting out of third party targeting or advertising cookies does not necessarily mean that you will not see our advertising on third party websites, only that this advertising will not be targeted to you through the use of third party cookies.
+==========
+Targeting and advertising cookies on this Site are:  aam_uuid, AMCVS_xxxxxAdobeOrg, demdex, dpm, dextp, ev_sync_dd, everest_g_v2: Adobe Marketing Cloud and Adobe Audience Manger include analytics using cookies to anonymously define new visitors, help analyze clickstream data, and track historical activity on the website, such as response to particular campaigns or the length of the sales cycle.
+To opt out of Adobe Marketing Cloud and Adobe Audience Manger, please visit: 
+ https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_analytics.html  
+BCSessionID, BCTempID: Used to identify profiles with online behavior.
+==========
+Registers a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.
+==========
+To opt out of BlueConic, please visit: 
+ https://www.blueconic.com/privacy-policy
+ 
+ Bku, bkdc, bkpa: This domain is owned by Blue Kai.
+Blue Kai cookies are set by websites to register anonymized user as well as aggregate anonymous activities to enable marketers to provide more targeted online advertising.
+To opt out of Blue Kai, please visit: 
+ https://datacloudoptout.oracle.com/#optout  
+_cc_aud, _cc_cc, _cc_dc, _cc_id: This domain is provided by crwdcntrl.net and owned by Lotame.
+The main business activity is: Data Management Platform - Targeting /Advertising
+  To opt out of crwdcntrl.net, please visit: 
+ https://www.aboutads.info/choices  
+CMDD, CMID, CMPS, CMST: This domain is owned by Casale Media.
+Advertising cookies are linked to advertising and tracking the products where users look.
+To opt out of Casle Media please visit: 
+ http://casalemedia.com
+ 
+ _delighted_fst: Record your visit to our website and help measure the effectiveness of advertising campaigns.
+To opt out of _delighted_fst , please visit: 
+ http://optout.aboutads.info  
+IDE: One of the main advertising cookies on non-Google sites is named ‘IDE‘ and is stored in browsers under the domain doubleclick.net.
+To opt out of IDE, please visit: 
+ https://policies.google.com/technologies/managing  
+_drt_:Serves relevant ads to potential customers and gathers information about how or if you are interacting with these ads.
+To opt out of _drt_ , please visit: 
+ https://policies.google.com/privacy  
+anj, uuid2, : enables and optimizes programmatic online advertising
+  To opt out of anj, uuid2, please visit: 
+ https://www.appnexus.com/en/company/privacy-policy  
+mrkgsid, rkglsid: applies customer relationship marketing in order to showcase products and services more effectively to the customer.
+To opt out of mrkgsid, rkglsid, please visit: 
+ http://optout.aboutads.info  
+unruly_m(#), unruly_u, AWSALB, tc, uid: This domain is owned by Unruly Media, part of News Corp.
+It provides an online video advertising platform and services.
+To opt out of unruly_m(#), unruly_u, AWSALB, tc, uid, please visit: 
+ https://unruly.co/privacy
+
+
+3.
+==========
+How do third parties use cookies on the site?
+In some circumstances, we may work with third parties to provide services on our Site.
+==========
+Third-party advertisers and other organizations may use their own cookies to collect information about your activities on our Site and/or the advertisements you have clicked on.
+This information may be used by them to serve advertisements that they believe are most likely to be of interest to you based on content you have viewed.
+Third-party advertisers may also use this information to measure the effectiveness of their advertisements.
+We do not control these cookies and to disable or reject third-party cookies, please refer to the relevant third party's website.
+You can also learn more about controlling cookies in section 4 below.
+==========
+Third-party cookies on this Site are:  com.auth0(#): Assigned to a user at each session with a different session token, and the session token by itself gives no indication about the person who is logged in
+  To opt out of com.auth0(#), please visit: 
+ https://auth0.com/privacy  
+fr, _fbp, datr, AA003, ATN: Used by Facebook to deliver more personalized advertisements as well for tracking users when set on third-party websites with a Facebook social plugin.
+To opt out of fr, _fbp, datr, AA003, ATN, please visit: 
+ http://optout.aboutads.info  
+fyre-livecount: Offers users the option to respond to articles via LiveFyre and social logins
+  To opt out of mrkgsid, rkglsid, please visit: 
+ http://optout.aboutads.info  
+_kuid_: Registers a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.
+==========
+To opt out of _kuid_ , please visit: 
+ https://www.salesforce.com/products/marketing-cloud/sfmc/salesforce-dmp-privacy  
+LaVisitorNew, _la_sid , Lc_sso: Cookies to control the chat online service.
+To opt out of LaVisitorNew, _la_sid , Lc_sso, please visit: 
+ https://www.livechatinc.com/privacy-policy  
+_shopify_y, _shopify_s, This cookie is associated with Shopify's analytics suite.
+==========
+To opt out of _shopify_y, _shopify_s, , please visit: 
+ https://www.shopify.com/legal/cookies  
+s_vnum: Tracks number of visits by a unique visitor
+  To opt out of s_vnum , please visit: 
+ https://www.adobe.com/privacy/opt-out.html  
+_qca: website rankings and audience segmentation
+  To opt out of _qca , please visit: 
+ https://www.quantcast.com/opt-out  
+_uid: AdServer basic function.
+To opt out of _uid , please visit: 
+ http://freewheel.tv/optout-html  
+UIDR: Collects digital consumption behavior data.
+To opt out of UIDR, please visit: 
+ https://www.scorecardresearch.com/privacy.aspx
+
+
+4.
+==========
+How do I control cookies?
+You may refuse to accept cookies from this Site at any time by activating the setting on your browser which allows you to refuse cookies.
+Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider's website via your help screen.
+You may wish to refer to http://www.allaboutcookies.org/manage-cookies/index.html for information on commonly used browsers.
+==========
+For more information about third party cookies and how to opt-out, please visit the third party privacy policy at the relevant link indicated in paragraphs 2 and 3 above.
+For more information about targeting and advertising cookies and how you can opt out, you can also visit http://optout.aboutads.info
+
+Please be aware that if cookies are disabled, not all features of the Site may operate as intended.
+==========

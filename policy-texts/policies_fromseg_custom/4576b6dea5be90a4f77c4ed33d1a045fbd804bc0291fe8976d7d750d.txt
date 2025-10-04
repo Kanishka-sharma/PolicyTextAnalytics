@@ -1,0 +1,212 @@
+Last updated June 5th, 2019
+
+              Welcome to the website of Branch Metrics, Inc., a Delaware corporation d/b/a Branch Metrics ("Branch," "Branch Metrics," "we," or "us").
+Your use of this website (the "Website") and any services ("Services") made available by Branch Metrics is subject to these Terms & Conditions (these "Terms").
+==========
+"Services" include (a) basic services including deep linking services, analytics services, content and source analytics, a web-based dashboard, data import and export features; (b) paid services including our advanced web-to-app marketing tools ("Journeys"), our advanced automated deep linking integrations ("Universal Email"), advertising integration “Universal Ads,” and an analytics integration toolkit ("Data Feeds"); and (c) the “Beta Services”, as defined in these Terms.
+By using any of our Services, you agree to be bound by, and use our Services in compliance with, these Terms & Conditions.
+By agreeing to these Terms, you warrant that you are authorized to agree to these Terms on behalf of you and/or your company.
+IF YOU DO NOT AGREE TO THESE TERMS & CONDITIONS, DO NOT USE OUR WEBSITE OR ANY SERVICES.
+==========
+We may make changes to these Terms from time to time.
+When we do, we will revise the "Last updated" date given above.
+It is your responsibility to review these Terms frequently and to remain informed of any changes to them.
+The then-current version of these Terms will supersede all earlier versions.
+You agree that your continued use of our Services after such changes have been published to our Services will constitute your acceptance of such revised Terms.
+==========
+Customer-specific pricing, billing, payment, and support terms for paid products are contained within the relevant Order Form and Service Level Agreement, if any.
+LICENSE TO USE OUR SERVICES
+Top
+
+
+              Subject to your compliance with these terms and conditions, Branch grants you a limited, non-transferable, non-exclusive, revocable, license to: (a) access and use the Services; and (b) use the Branch API and the Branch SDKs to integrate, and interface your mobile applications ("Apps") and/or website(s) with the Services in association with Branch’s provision of the Services to you.
+Your rights to access and use the Services, including your use of the Branch API and the Branch SDKs, are limited by all terms and conditions set forth in these Terms.
+==========
+ACCESS TO OUR SERVICES; RESTRICTIONS
+Top
+
+
+              You must comply with all applicable laws when using the Services.
+Except as expressly permitted under these Terms, you will not, and will not permit anyone else to: (a) make the functionality of the Services, the Branch API and/or the Branch SDKs available to any third party through any means, including, without limitation, any hosting, application services provider, service bureau, or other type of service; (b) use any automated tool (e.g., robots, spiders) to access or use the Services; (c) rent, lease, or sublicense your access to the Services to another person; (d) circumvent or disable any digital rights management, usage rules, or other security features of the Services; (e) use the Services in a manner that overburdens, or that threatens the integrity, performance, or availability of, the Services; (f) remove, alter, or obscure any proprietary notices (including copyright and trademark notices) on any portion of the Services; (g) if purchased by You, use Branch’s Cross-Platform ID product in a manner that enables reverse engineering, reverse lookup, or that otherwise ascertains end user identity not otherwise readily ascertainable without such efforts; (h) permit any third party which pools or aggregates data across its customers to use the data provided to You through Branch’s Cross-Platform ID product for its own benefit or use; or (i) use the Services in connection with any Apps or websites that are directed to children under 13 (and in certain jurisdictions under the age of 16), without employing appropriate settings within the Branch SDKs to limit data collection from such children in accordance with applicable law.
+More information on these settings is available here (for websites), here (for iOS), and here (for Android).
+If you have questions about how to use these settings or have any reason to believe that these resources may not address your particular use case, please reach out to support@branch.io.
+Except as otherwise explicitly provided in these Terms or as may be expressly permitted by applicable law, you will not, and will not permit or authorize any third party to: (i) reproduce, modify, translate, enhance, decompile, disassemble, reverse engineer or create derivative works of any of our Services; (ii) rent, lease or sublicense access to any of our Services; or (iii) circumvent or disable any security or technological features or measures of our Services.
+==========
+Ultimately, you are responsible for timely integration and launch of Branch products.
+Branch may, but is under no obligation to, maintain, support, update, or provide error corrections for the basic Branch API, the Branch SDKs and the Services.
+Any customer-specific service level agreements (SLAs) for paid service(s) will be delineated in a specific Order Form.
+If Branch provides you with an update or maintenance release for the Branch API or the Branch SDKs, unless you receive a separate license from Branch for that update or release that expressly supersedes these Terms, such update or release will be subject to the terms and conditions of these Terms.
+==========
+You acknowledge and agree that your use of the Services is dependent upon access to telecommunications and Internet services.
+You are solely responsible for acquiring and maintaining all telecommunications and Internet services and other hardware and software required to access and use the Services, including, without limitation, any and all costs, fees, expenses, and taxes of any kind related to the foregoing.
+Branch is not responsible for any loss or corruption of data, lost communications, or any other loss or damage of any kind arising from any such telecommunications and Internet services.
+==========
+From time to time, Branch may invite You to try Beta Services.
+“Beta Services” means Our services or functionality that are not generally available to customers and that may be made available to You to try at Your option which are designated as beta, pilot, limited release, developer preview, non-production, evaluation, or by a similar description.
+You may accept or decline any such trial in Your sole discretion.
+==========
+Beta Services are for evaluation purposes and not for production use, are not considered “Services” under these Terms, are not subject to any service level agreements (SLAs) between you and Branch, and may be subject to additional terms.
+Branch is under no obligation to, maintain, support, update, or provide error corrections for the Beta Services.
+We may discontinue Beta Services at any time in Our sole discretion and may never make them generally available.
+We will have no liability for any harm or damage arising out of or in connection with a Beta Service.
+==========
+Some of Branch’s Services are provided at no cost whereas other, paid services are subject to fees and additional terms as specified in any relevant Order Form between you and Branch.
+If applicable, Branch reserves the right to limit your use of the “Text-Me-The-App” service and charge for SMS costs at its own discretion, with reasonable notice to you.
+If you use any of Branch’s Data Feeds or Universal Ads features to export data (including Branch’s Data Integrations or Webhook features), you acknowledge and consent to Branch sharing end-user device-related data with the relevant integration partner(s) of your choice.
+==========
+In consideration for Branch providing any paid services, you agree to pay to Branch the applicable fees ("Fees").
+You are responsible for all properly invoiced and undisputed Fees, even if such Fees are due and payable after termination of these Terms.
+Failure to use the Services does not constitute a basis for refusing to pay any Fees.
+Except as expressly provided otherwise in these Terms, You will not receive any refund or prorated refund for amounts previously paid or amounts owed up to the effective date of termination.
+==========
+We reserve the right to send Your account to a collections agency for nonpayment (who may, in turn, report the uncollected debt to credit bureaus if the debt is not paid within a certain period of time) and to use Your contact information for debt collection purposes if these Terms are terminated for non-payment as set forth herein following the 30-day cure period and You are not disputing such payment obligation.
+Any relevant paid service-specific terms including, for example, contract duration, monthly fees, invoice cadence, payment forms, and collection period will be addressed within an associated Order Form.
+==========
+You shall be responsible for the payment of any fees associated with an electronic funds transfer (i.e., ACH, wire transfer) when issuing payment to Branch, which includes fees from Your financial institution and intermediary banks.
+You may be prompted to pay by credit card in which case Fees will be billed to the credit card nominated by you and you authorize the card issuer to pay all such amounts and authorize Branch (or its billing agent) to charge the credit card account until you or Branch cancels or terminates the Services as set forth herein; provided that if payment is not received from the credit card issuer, the transaction is returned after the payment has been settled, otherwise known as chargeback, or if there are insufficient funds in the case of check or debit card payments, you agree to pay all amounts plus any applicable transaction fees (e.g., NSF fees, chargeback fees) due upon demand.
+You must provide current, complete and accurate billing and credit card information.
+==========
+You agree to pay all costs of collection, including attorney's fees and costs, on any outstanding balance.
+In certain instances, the issuer of the credit card may charge a foreign transaction fee or related charges, which you will be responsible to pay.
+If you have concerns about any charges on your invoice, you agree to our Billing Dispute Resolution Process which stipulates: (i) all billing disputes must be submitted in writing to billing@branch.io, (ii) billing disputes must be submitted within 180 days of the date the invoice was generated, and (iii) undisputed amounts will be subject to these Terms and total payment for undisputed invoices or amounts must be submitted when due.
+In the event we are unable to process your payment and/or your account becomes past due, Branch is entitled to take further action including but not limited to cancelation of your subscription(s).
+==========
+All Fees are exclusive of taxes, duties, levies, tariffs, and other governmental charges (including, without limitation, VAT) (collectively, "Taxes").
+You are responsible for payment of all Taxes and any related interest and/or penalties resulting from any payments made hereunder, other than any taxes based on Branch’s net income.
+==========
+Except as otherwise agreed to by you and Branch in a superseding Order Form, your access to the Services will automatically renew under the same Order Form terms (contract duration, billing frequency, collection period, etc.), unless and until your access to the Services is terminated in accordance with this Section.
+Except when subject to a binding contract duration (see any applicable Order Form), you may terminate your access to and use of the Services at any time by providing written notice to Branch at support@branch.io.
+==========
+Such termination will be effective as of the last day of the calendar month during which such termination notice is received.
+Except as otherwise agreed to by you and Branch in a superseding Order Form, Branch reserves the right to modify or discontinue, temporarily or permanently, all or any portion of the Services upon thirty (30) days’ written notice (email sufficient), provided that Branch will promptly provide a pro-rated refund of all pre-paid and unearned amounts based on the period of suspension or the date of discontinuance, as applicable.
+Branch may also, in its sole discretion, terminate your access to the Services if you violate any of these Terms, unless you cure such breach within thirty (30) days of written notice of such violation.
+Upon termination of these Terms, (a) all rights and licenses granted to you hereunder will immediately terminate; (b) you will immediately cease all use of the Services; (c) you will terminate your Apps’ and websites’ access to and use of the Branch API; and (d) you will, within fifteen days of termination, destroy all copies of the Branch SDKs and Branch Confidential information in your possession or control.
+==========
+Those Sections that by their nature would reasonably be expected to survive will survive termination or expiration of these Terms, including but not limited to the Sections on Termination, Privacy Policy & Data Rights, Confidentiality, Proprietary Rights, Limitation of Liability, and Legal Notices.
+Except for paid services, as to which the terms and conditions governing termination are set forth above in "PAID SERVICE TERMS," You acknowledge and agree that Branch, in its sole discretion, may terminate your use of the Services without prior notice for any reason at any time.
+You agree that Branch shall not be liable to you or any third party for termination by Branch.
+Upon termination of these Terms, (a) all rights and licenses granted to you hereunder will immediately terminate; (b) you will immediately cease all use of the Services; (c) you will terminate your Apps’ and websites’ access to and use of the Branch API; and (d) you will, within fifteen days of termination, destroy all copies of the Branch SDKs and Branch Confidential information in your possession or control.
+Those Sections that by their nature would reasonably be expected to survive will survive termination or expiration of these Terms, including but not limited to the Sections on Termination, Privacy Policy & Data Rights, Confidentiality, Proprietary Rights, Limitation of Liability, and Legal Notices.
+==========
+PRIVACY POLICY & DATA RIGHTS
+Top
+
+
+              You will comply with all laws, regulations, and self-regulatory guidelines applicable to your business and operations and to your use of the Services, including those governing the privacy, security and trans-border transfers of personally identifiable information ("PII") (including, but not limited to, compliance with the General Data Protection Regulation (EU 2016/679) (the "GDPR") and the California Consumer Privacy Act (“CCPA”)).
+Where required, you shall be responsible for (a) obtaining verifiable consent, in the form required by applicable laws, regulations, and self-regulatory guidelines, related to any PII collected, used, maintained, and shared with Branch, or that you direct Branch to share with any third party; (b) ensuring that you otherwise have any and all rights required in order to provide such data to Branch or to direct Branch to share it with any third party; and (c) obtaining data properly and in accordance with applicable law, including, without limitation, the U.S. Children’s Online Privacy Protection Act (“COPPA”).
+To the extent that any of your users request that you not share their data with Branch, or to the extent that you believe that any data you may have provided to Branch was inappropriately obtained, you shall inform Branch immediately.
+Please refer to Branch’s Privacy Policy located at https://branch.io/privacy_policy for information on how Branch collects, uses and discloses information from users.
+==========
+You acknowledge and agree that your use of the Services is subject to Branch’s Privacy Policy.
+Branch’s Privacy Policy does not cover your Apps or websites, or the use of such Apps or websites, by your end users.
+By agreeing to these Terms, you consent to Branch’s collection, use and disclosure of data, including, where applicable, PII, as described in our Privacy Policy.
+==========
+You further acknowledge and agree that you will provide a privacy policy to your end users, which shall be in compliance with applicable self-regulatory guidelines, including, without limitation each of the Self-Regulatory Principles of the Digital Advertising Alliance ("DAA"), currently available at http://www.aboutads.info/principles, and the Principles of the European Interactive Digital Alliance ("EDAA"), currently available at http://www.edaa.eu/european-principles/, as each set of principles may be amended from time to time.
+Your privacy policy will further include clear, meaningful, and conspicuous notice consistent with applicable laws, regulations, and self-regulatory guidelines that includes, without limitation, the following: (a) disclosure regarding your practices with regard to cookies and/or targeting and online behavioral advertising; the types of data you collect for this purpose; and your data collection, use and disclosure practices (including that by visiting your site or App third parties may place cookies on end user browsers, or use non-cookie technology, to collect data that you may use for this purpose); and (b) information regarding how end users may opt out from receiving targeted advertisements by visiting the NAI website opt-out page here: http://www.networkadvertising.org/choices/, the DAA opt-out page here: http://www.aboutads.info/, and/or the EDAA opt-out page here: http://www.youronlinechoices.eu/.
+You further agree to obtain consent to your practices with regard to cookies and/or targeting and online behavioral advertising to the extent required by applicable laws, regulations, and self-regulatory guidelines.
+You grant to Branch a limited, non-exclusive, non-sublicensable, non-transferable license to use the data collected through the Services to (a) provide, maintain, optimize and improve the Services; (b) to fulfill customers’ requests for the Services; (c) send information about the Services including confirmations, invoices, payment processing, technical notices, updates, security alerts, and support and administrative messages; (d) communicate about products and services offered by Branch and Branch’s selected partners; (e) conduct research; (f) analyze and aggregate customer data with data of other customers for Branch’s own internal business purposes, such aggregate data being "Aggregate Data"; and (g) use such Aggregate Data to conduct research and create data and analytics products and services to enable customers to tailor content, ads, or their Apps based on information collected via the Services.
+As set forth in the Privacy Policy, Branch is a Privacy Shield certified corporation and as such, any transfers of PII by Branch from the European Union, United Kingdom, and Switzerland to the U.S. comply with the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce.
+==========
+RESTRICTED AREAS OF THE SERVICES
+Top
+
+
+              Certain parts of the Services, including account management features, may be password-restricted to registered users or other authorized persons ("Password-Protected Areas").
+You may select individuals (employees or independent contractors) to access and use the Services and you will obtain separate credentials, e.g., user IDs and passwords, from Branch for such individuals (each, an "Authorized User").
+You will at all times be responsible for all actions taken under an Authorized User’s account, whether or not such action was taken by an Authorized User or by another party, and whether or not such action was authorized by an Authorized User.
+You are responsible for the security of each Authorized User’s credentials and will not share (and will instruct each Authorized User not to share) such credentials with any other person or entity or otherwise permit any other person or entity to access or use the Services.
+==========
+LINKS AND THIRD-PARTY CONTENT
+Top
+
+
+              The Services may display, or contain links to, third party products, services, and websites.
+Any opinions, advice, statements, services, offers, or other information that constitute part of the content expressed, authored, or made available by other users or other third parties on the Services, or which is accessible through or may be located using the Services (collectively, "Third-Party Content") are those of the respective authors or producers and not of Branch or its shareholders, directors, officers, employees, agents, or representatives.
+==========
+Branch does not control Third-Party Content and does not guarantee the accuracy, integrity or quality of such Third-Party Content.
+Branch is not responsible for the performance of, does not endorse, and is not responsible or liable for, any Third-Party Content or any information or materials advertised in any Third-Party Content.
+By using our Services, you may be exposed to content that is offensive, indecent, or objectionable.
+We are not responsible or liable, directly or indirectly, for any damage or loss caused to you by your use of or reliance on any goods, services, or information available on or through any third-party service or Third-Party Content.
+==========
+It is your responsibility to evaluate the information, opinion, advice, or other content available on and through our Services.
+You are solely responsible for any content and other material that you submit, publish, transmit, or display on, through, or with our Services.
+You will not use our Services to: (i) upload, post, email, or otherwise transmit any information that contains anything unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable; (ii) harm us or third parties in any way; (iii) impersonate any person or entity, or otherwise misrepresent your affiliation with a person or entity; (iv) upload, post, email, or otherwise transmit any information that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); (v) upload, post, email or otherwise transmit any information that infringes any patent, trademark, trade secret, copyright, or other right of any party; (vi) upload, post, email, or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or any other forms of unauthorized solicitation; (vii) upload, post, email, or otherwise transmit any material that contains software viruses or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment; (viii) upload, post, email, or otherwise transmit any sensitive information such as end user account passwords or payment information, medical records, government identifiers, sexual orientation or other information considered sensitive under applicable law; (ix) create lists or segments of children under the age of 13 (and in certain jurisdictions under the age of 16), advertise mobile Apps or websites that are directed to children under 13 (and in certain jurisdictions under 16), and/or knowingly market products or services to children under 13 (and in certain jurisdictions under the age of 16), without employing appropriate settings within the Branch SDKs to limit data collection for children under 13 (and in certain jurisdictions under 16), in order to comply with any applicable laws protecting children (including, but not limited to, GDPR and COPPA); (x) interfere with or disrupt the Services or servers or networks connected to the Services, or disobey any requirements, procedures, policies or regulations of networks connected to the Services; (x) intentionally or unintentionally violate any applicable local, state, national or international law or regulation; (xi) "stalk" or otherwise harass another; or (xi) collect or store personal data about other users in a way that violates applicable law.
+==========
+MARKETING & TRADEMARKS
+Top
+
+
+              You agree to comply with reasonable requests of Branch to support public relations efforts pertaining to the Services, which efforts may include: (a) a press release highlighting your company’s use of the Services; (b) participation in targeted press and analyst interviews highlighting benefits of implementing the Services; and (c) participation in customer case studies developed by Branch and used on Branch’s web site and other collateral.
+You grant to Branch a non-exclusive, non-transferable, limited right to use your name, trademarks, and logos (collectively, the "Customer Marks") (i) for the purpose of referencing You as a customer of Branch on the Branch website(s) and (ii) in the production of marketing materials, provided that such use is in accordance with any trademark and logo use guidelines that you provide to Branch.
+All goodwill developed from such use shall be solely for your benefit.
+==========
+"Branch Metrics", the Branch Metrics logo, and any other product or service name or slogan displayed on the Services ("Branch Marks") are trademarks of Branch and its suppliers or licensors, and may not be copied, imitated or used, in whole or in part, without the prior written permission of Branch or the applicable trademark holder.
+You may not use any metatags or any other "hidden text" utilizing "Branch Metrics" or any other Branch Marks without Branch’s prior written permission.
+In addition, the look and feel of the Services, including all page headers, custom graphics, button icons and scripts, is the trade dress of Branch and may not be copied, imitated or used, in whole or in part, without Branch’s prior written permission.
+All other trademarks, registered trademarks, product names and company names or logos mentioned in the Services are the property of their respective owners.
+Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier, or otherwise does not constitute or imply endorsement, sponsorship, or recommendation thereof by Branch.
+==========
+You acknowledge and agree that both you and Branch may have access to, or become acquainted with, certain non-public confidential information of the other party ("Confidential Information") including all information clearly identified as confidential at the time of disclosure.
+You and Branch further agree that, subject to the rights and licenses granted herein, each party's Confidential Information shall include all non-public information, including any customer, customer prospect, marketing, technical, business and/or strategic plans or information provided by such party to the other party in the performance of the services under these Terms.
+==========
+Each party agrees as follows: (a) to use the Confidential Information of the other party only for the purposes permitted by these Terms; (b) to take all reasonable steps to ensure that the other party’s Confidential Information is not disclosed or distributed by its employees or agents in violation of these Terms, but in no event will either Party use less effort to protect the Confidential Information of the other party than it uses to protect its own Confidential Information of like importance; (c) to restrict access to the Confidential Information disclosed by the other party to such of its employees, agents and third parties, if any, who have a need to have access and who have been advised of and have agreed in writing or are otherwise bound to treat such information in accordance with these Terms; and (d) to return or destroy all Confidential Information of the other party in its possession upon termination of these Terms or upon the disclosing party’s written request.
+Notwithstanding the foregoing, Confidential Information may be disclosed as required by any governmental agency, provided that before disclosing such information the disclosing party must provide the non-disclosing party with sufficient advance notice of the agency’s request for the information to enable the non-disclosing party to exercise any rights it may have to challenge or limit the agency’s authority to receive such Confidential Information.
+The receiving party will not be obligated under this confidentiality section with respect to information that: (a) is or has become readily publicly available through no act or omission of the other party or its employees or agents; (b) is received from a third party lawfully in possession of such information and the receiving party has no knowledge of any disclosure restrictions on such third party to disclose such information; (c) is disclosed to a third party by the disclosing party without restriction on disclosure; (d) was rightfully in the possession of the receiving party without restriction prior to its disclosure by the other party; or (e) was independently developed by employees or consultants of the receiving party without reliance on, or reference to, such Confidential Information.
+==========
+You own all right, title and interest in your Apps and websites.
+The Branch API and the Branch SDKs are licensed, not sold, and Branch and its licensors exclusively own all right, title and interest in and to the Services, the Branch API, and the Branch SDKs, including all associated intellectual property and proprietary rights.
+You acknowledge that the Services, the Branch API, and the Branch SDKs are protected by copyright, trademark, and other laws of the United States and foreign countries.
+You agree not to remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Services, the Branch API, or the Branch SDKs.
+==========
+Branch may provide you with a mechanism to provide feedback, suggestions, and ideas, if you choose, about the Services ("Feedback").
+You agree that Branch may, in its sole discretion, use the Feedback you provide to Branch in any way, including in future enhancements and modifications to the Services.
+You hereby grant to Branch and its assigns a perpetual, worldwide, fully transferable, sub-licensable, fully paid-up, irrevocable, royalty-free license to use, reproduce, modify, create derivative works from, distribute, and display the Feedback in any manner for any purpose, in any media, software, or technology of any kind now existing or developed in the future, without any obligation to provide attribution or compensation to you or any third party.
+==========
+DISCLAIMER OF WARRANTIES
+Top
+
+
+              The Services, the Branch API and the Branch SDKs are provided "AS IS," without warranty of any kind.
+WITHOUT LIMITING THE FOREGOING, BRANCH EXPLICITLY DISCLAIMS ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT OR NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+Branch does not guarantee the accuracy, completeness, or usefulness of the Services, the Branch API or the Branch SDKs and you rely on the Services, the Branch API and the Branch SDKs at your own risk.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES IN CERTAIN CIRCUMSTANCES.
+ACCORDINGLY, SOME OF THE LIMITATIONS SET FORTH ABOVE MAY NOT APPLY.
+==========
+LIMITATION OF LIABILITY
+Top
+
+
+              Except with respect to sections of these Terms pertaining to Confidentiality and Indemnity: (a) Branch and its suppliers and licensors will not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data, or other intangible losses (even if Branch has been advised of the possibility of such damages), resulting from your use of the Services, the Branch API and/or the Branch SDKs; and (b) under no circumstances will the total liability of Branch and its suppliers and licensors of all kinds arising out of or related to your use of the Services, the Branch API and the Branch SDKs (including but not limited to warranty claims), regardless of the forum and regardless of whether any action or claim is based in contract, tort, or otherwise, exceed the amounts, if any, that you have paid to Branch for use of the Services for the twelve (12) month period prior to the claim.
+You will defend, indemnify and hold Branch and its officers, agents, employees, representatives, and assigns harmless from any costs, damages, expenses, and liability associated with any claim, suit or action against Branch brought by a third party caused by (a) your use of the Services, the Branch API and/or the Branch SDKs (including any such use by your officers, agents, employees, vendors, representatives, or assigns), or (b) your violation of any of these Terms (including any such violation by your officers, agents, employees, vendors, representatives, or assigns).
+Branch will defend, indemnify and hold you and your company’s officers, agents, employees, representatives, and assigns harmless from any costs, damages, expenses, and liability associated with any claim, suit or action against you brought by a third party to the extent based upon a claim that any of the Services infringe the United States copyright rights or misappropriate the trade secret rights of any third party.
+Upon the occurrence of a claim, suit or action for which indemnity is or may be due, or in the event that Branch believes that such a claim, suit or action is likely, Branch may, at its option (a) appropriately modify the Services so that they become non-infringing, or substitute functionally equivalent services; (b) obtain a license to the applicable third-party intellectual property rights; or (c) terminate these terms on written notice to you.
+==========
+You agree that Branch’s performance of its obligations under this section constitute your exclusive remedy, and Branch’s sole obligation, with respect to a third party infringement claim.
+Branch’s obligations set forth above within this “INDEMNITY” section do not apply to the extent an indemnified claim regarding intellectual property infringement arises out of, and would not have otherwise occurred absent of, (a) Your breach of these Terms; (b) revisions to the Services made without Branch’s written consent; (c) Your failure to incorporate updates or upgrades to the Services that would have avoided the alleged infringement, provided that Branch offered such upgrades or updates without charges not otherwise required pursuant to these Terms or Order Form agreed to between You and Branch; or (d) use of the Services in combination with hardware or software not provided by Branch.
+==========
+These Terms and all matters arising out of or relating to these Terms shall be governed by the laws of the State of California, without regard to its conflict of law provisions.
+Any legal action or proceeding relating to these Terms shall be brought exclusively in the state or federal courts located in the Northern District of California.
+You and Branch hereby agree to submit to the jurisdiction of, and agree that venue is proper in, those courts in any such legal action or proceeding.
+Under no circumstances will either party (including Branch’s licensors) be held liable for any delay or failure in performance resulting directly or indirectly from acts of nature, forces, or other similar causes beyond such party’s control, including, without limitation, internet failures, computer equipment failures, telecommunication equipment failures, other equipment failures, electrical power failures, strikes, labor disputes, riots, insurrections, civil disturbances, shortages of labor or materials, fires, floods, storms, explosions, acts of god, war, governmental actions, orders of domestic or foreign courts or tribunals, or non-performance of third parties, provided that such party gives prompt written notice of such condition and resumes its performance as soon as possible, and provided further that the other party may terminate these Terms if such condition continues for a period of ninety (90) days.
+The Services, the Branch API, the Branch SDKs, and any derivatives thereof, may be subject to export control and economic sanctions laws and regulations of the United States and other jurisdictions.
+==========
+Both Customer and Branch each represent that it is not named on any U.S. Government Consolidated Screening denied-party list which may be searched at: https://www.export.gov/article?id=Consolidated-Screening-List.
+Customer shall not permit any entity or individual to access or use any of the Services, the Branch API, or the Branch SDKs who is listed on the Consolidated Screening List or located in a U.S.-embargoed country (currently Cuba, Iran, North Korea, Sudan, Syria or Crimea), or known to be engaged in proliferation of nuclear, chemical or biological weapons or missiles, or otherwise in violation of any U.S. export law or regulation.
+==========
+Our failure to enforce any right or provision in these Terms will not constitute a waiver of such right or provision unless acknowledged and agreed to by us in writing.
+If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that these Terms will otherwise remain in full force and effect and enforceable.
+==========
+These Terms are not assignable, transferable or sublicensable by you except with Branch’s prior written consent.
+Branch may transfer and assign any of its rights and obligations under these Terms freely and without consent.
+No agency, partnership, joint venture, or employment is created as a result of these Terms and you do not have any authority of any kind to bind Branch in any respect whatsoever.
+==========
+Except as may be expressly provided or incorporated by reference herein, including, without limitation, the indemnification provisions hereof, no provision of these Terms is intended, nor shall it be interpreted, to provide or create any third-party beneficiary rights or any other rights of any kind in any customer, affiliate, stockholder, partner, member, director, officer or employee of any party hereto or any other person or entity.
+Unless stated otherwise in a writing signed by both You and Branch that specifically references these Terms, these Terms are the complete and exclusive statement of the mutual understanding of the Parties and supersede and cancel all previous written and oral agreements, communications and other understandings relating to your use of the Branch Services.
+If you have any questions or concerns about our Services or these Terms, you may contact us at:
+            Branch Metrics, Inc.
+1400 Seaport Blvd
+Building B, 2nd Floor
+Redwood City, CA 94063
+
+            or by email at info@branch.io
+==========

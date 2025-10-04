@@ -1,0 +1,386 @@
+Please read these Terms of Service, the Privacy Policy and the Acceptable Use Policy.
+Together these three (3) artifacts form a unified agreement ( “Agreement”) that applies to all users of Our Software.
+This Agreement is between Hotjar Limited (“Hotjar”, “We”, “Our” or “Us”) and the natural or legal person agreeing to it (“Customer”, “You” or “Your”) and contains important information about Your use of Our Site and / or Software.
+By signing up to Hotjar’s Software, You agree that You have read, understood and are bound by this Agreement.
+Unfortunately, if You do not agree to this Agreement, We are unable to provide Our Software to You.
+Hotjar may amend this Agreement from time to time.
+==========
+We commit to sending an email to the email address associated with Your Account and posting a written notice on Our Site 30 calendar days before any changes go into effect.
+Your use of Our Site and/or Software following the effective date of any modifications to this Agreement will constitute Your acceptance of the modified Agreement.
+1.
+==========
+Definitions
+In addition to the terms otherwise defined in this Agreement, the following terms have the definitions below:
+1.1.
+“Account” shall mean an account with Hotjar to use its Software;
+1.2.
+==========
+“Applicable Law” shall mean the laws to which Hotjar is subject, particularly Regulation (EU) 2016/679 (General Data Protection Regulation - “GDPR”), the California Consumer Privacy Act (the “CCPA”), the Brazilian Lei Geral de Proteção de Dados (the “LGPD”) and the Laws of Malta, and other laws as may be applicable from time to time;
+1.3.
+“Confidential Information” shall mean all information provided by You or Us, whether orally or in writing, which information is designated as or is by its nature not intended to be public;
+1.4.
+“Data” shall mean anything that You share with us, including Personal Data and Confidential Information, and any data which is publicly available;
+1.5.
+“Hotjar Enabled Site” means Your digital property (i.e. site) that has the Software enabled; 
+1.6.
+“Intellectual Property Rights” shall mean copyrights, rights to use, and trademarks, and all other industrial and intellectual property rights, in each case whether registered or unregistered, which currently subsist, or will subsist, now or in the future, in any part of the world;
+1.7.
+"Personal Data" shall mean any data that can be used to identify an individual (e.g. name, identification number, location data, an online identifier, etc.).
+This definition includes any equivalent definition in the Applicable Law;
+1.8.
+“Software” shall mean the software as a service (SaaS) offered by Hotjar consisting of a variety of analytics and user feedback products as further described on;
+1.9.
+==========
+“Site/s” shall mean, in addition to any sub-pages that are integrated within it;
+1.10.
+“Sub-Processing”, means the processing of Personal Data on behalf of the Processor by a subcontractor (each a “Sub-Processor”).
+==========
+In this Agreement, it does not include ancillary services, such as telecommunication services, postal / transport services; 
+1.11.
+“Third Party/ies” shall mean any persons, whether natural or legal, which are neither You nor Hotjar;
+1.12.
+“Trial Period” shall mean free access provided to You by Hotjar for a limited and established period of time, to the Software;
+1.13.
+Where capitalized terms are used in this Agreement which are not defined above, they shall have the meaning given to them in the GDPR, or the equivalent definitions under Applicable Law (i.e., Personal Data shall mean “personal information” as defined by the CCPA to the extent the CCPA is applicable).
+2.
+==========
+Account Registration, Access and Disclosure
+2.1.
+To use the Software, You must create an Account by providing Hotjar with all required information and accepting this Agreement.
+You agree to provide Hotjar with complete and accurate information upon registration.
+2.2.
+==========
+If You use Our Site or Software on behalf of a legal entity (such as Your employer or a client), You represent and warrant that You have the authority to bind that legal entity.
+If You no longer have this authority, then You shall inform Hotjar and the legal entity shall provide Hotjar with a new authorized representative.
+Hotjar shall not be held liable should a person without the necessary authorization enter into this Agreement for and on behalf of a legal entity.
+2.3.
+We reserve the right to access Your Account, the information that You have provided and the Data You have stored with Us for support, maintenance and servicing purposes or for any security-related, technical or billing reasons.
+2.4.
+Each user of Your Account shall comply with this Agreement and You are responsible for acts or omissions by a user of Your Account in connection with their use of the Software.
+2.5.
+==========
+It is Your responsibility to maintain the confidentiality of Your Account information and passwords and to protect the Personal Data of Your end users when using the Software.
+You are also responsible for promptly notifying Hotjar of any known or suspected unauthorized use of Your account, or breach of Your Account information.
+Hotjar will not be liable for any losses or damages that You may incur as a result of someone else using Your username or password, either with or without Your knowledge, unless Hotjar has caused such losses or damages intentionally or with gross negligence.
+2.6.
+If You wish to extend this Agreement to either Your parent company or Your subsidiaries, You may do so by creating a separate Account with Hotjar or by adding a new organization site to Your existing Account.
+3.
+==========
+Subscription Term
+3.1.
+We offer several different subscription plans for Our Software (the “Subscription Plan”).
+Information about Our Subscription Plans can be found on Our Site.
+==========
+Fees quoted on Our Site do not include taxes that may be applicable in Your jurisdiction.
+For additional information on Our Subscription Plans, please Contact us.
+You may upgrade or downgrade Your Subscription at any time during Your Subscription Term, upon which We will apply the respective fees on a pro-rata basis.
+3.2.
+==========
+Trial Period: At the end of the Trial Period, You will be prompted to enter Your payment details if You have not already done so.
+If You've already updated Your payment method You will be automatically charged on the date shown on the billing section associated with Your Account.
+3.3.
+==========
+Renewal Term: Unless the owner of Your Account upgrades or downgrades Your Subscription Plan, You will be enrolled into an automatic renewing cycle for the same term at the conclusion of the Subscription Term (the “Renewal Term”).
+This applies to all Subscription Plans involving payment including monthly and annual renewals.
+4.
+==========
+Data Processing
+4.1.
+By using Our Software, You may process information that qualifies as Personal Data of Your end users and/or other protected information under the laws applicable to You and We may process Account Data in accordance with Our Privacy Policy and Your documented instructions.
+You shall be solely and exclusively responsible for the lawfulness of the processing of such Personal Data of Your end users and other protected information.
+This includes obtaining any consent that You are legally or contractually required to obtain from Your end users/customers.
+4.2.
+You and Hotjar agree that You are the Controller of Personal Data processed under this Agreement, that Hotjar is the Processor and/or Service Provider and may process Personal Data on Your behalf.
+4.3.
+==========
+Depending on how You set up Our Software, certain Categories of Personal Data may be processed on Your behalf by Hotjar.
+The persons affected by the processing of their Personal Data include end-users of Your sites which make use of Your Hotjar Enabled Site.
+4.4.
+==========
+You shall comply with all laws applicable to the Processing of Personal Data by You in connection with the use of Our Software.
+For clarity, this includes any processing You carry out after exporting or downloading Personal Data from the Software and subsequently using it for Your business purposes.
+Failure to comply may result in the termination of Your Account.
+5.
+==========
+Technical and Organizational Measures
+5.1.
+Hotjar establishes data security in accordance with the Applicable Laws.
+The measures to be taken must be designed to guarantee a protection level appropriate to the risk concerning confidentiality, integrity, availability, and resilience of the systems.
+The state of the art, implementation costs, the nature, scope and purposes of processing, as well as the probability of occurrence and the severity of the risk to the rights and freedoms of natural persons, must also be taken into account.
+5.2.
+Hotjar has set out a number of security measures and may implement alternative adequate measures from time to time, provided such measures will not materially reduce Hotjar’s security level.
+5.3.
+Hotjar shall provide You, upon reasonable request, with adequate proof of compliance with its Data Processing obligations under this Agreement.
+6.
+==========
+Termination
+6.1.
+Either You or Hotjar may terminate this Agreement for cause as a result of a material breach by the other party of this Agreement if the defaulting party fails to cure such material breach within fifteen (15) calendar days of its receipt of written notice of the breach from the non-defaulting party.
+In addition, We may immediately terminate this Agreement if You do not pay the fees when due in accordance with Your Subscription Plan.
+6.2.
+In the event this Agreement is terminated for cause by You due to Our a material breach which remains uncured, You shall be entitled to a pro-rata refund of all fees previously advanced to Us from the date of the termination through the end of the Subscription Term.
+6.3.
+You may terminate this Agreement by downgrading the Subscription Plan associated with Your Account to Our free plan, during or by the end of Your Subscription Term or Renewal Term.
+6.4.
+==========
+Hotjar may suspend and/or terminate Your right to use the Site and/or Software with or without cause at any time.
+Hotjar shall notify You via email to Your registered email account if We terminate Your Account.
+6.5.
+==========
+Your obligation to pay accrued charges and fees accrued up to the date of termination shall survive any termination of this Agreement.
+In the event of any termination of this Agreement, the limitations on Your use of the Software outlined in this Agreement shall survive such termination.
+7.
+==========
+Limited Licenses
+7.1.
+Except as otherwise stated herein, all rights, titles, and interest in Our Site and/or the Software and any content and Intellectual Property Rights contained therein is the exclusive property of Hotjar.
+Unless otherwise specified, the Software is for Your limited use only and if You copy or download any information from this Site and/or Software, You agree that You shall not remove or obscure any copyright or other notices contained in any such information.
+7.2.
+==========
+Subject to this Agreement, Hotjar grants You a limited, revocable, non-exclusive, non-transferable and non-assignable license to use the Site and/or access the Software as a software as a service (SaaS) solution for commercial use subject to the terms of this Agreement.
+You hereby agree not to resell any part of the Software to Third Parties.
+You may not modify, copy, distribute, or otherwise use Our Site and/or the Software in any other way as set out in this section.
+You shall not use the Software, including in conjunction with, any device, program, or service designed to circumvent any deployed technological measures, in an attempt to control access to, or the rights in, a content file or other work protected by intellectual property laws.
+7.3.
+==========
+Any breach of the above shall constitute a material breach of this Agreement and shall prompt Us, at Our own discretion, to immediately suspend or terminate Your right to access the Software.
+Any breach of this Clause shall make You liable for damages suffered by Hotjar.
+8.
+==========
+Access to Your Data
+8.1.
+Hotjar commits to securely storing Your Data in accordance with the time frames corresponding to each Subscription Plan.
+All Data exceeding the stated timeframe will be automatically deleted from Our systems.
+You expressly acknowledge and accept that Hotjar does not provide any archiving or backup services, and may delete Data that is no longer in use and exceeds the timeframes stipulated in the applicable Subscription Plan.
+8.2.
+==========
+In the course of providing its Software to You, Hotjar will have access to some of Your Data.
+All rights, title, and interest in the Data is Your exclusive property, except as otherwise provided for throughout this Agreement.
+8.3.
+Except as otherwise stated in this Agreement, Hotjar shall not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, frame, create derivative works from, transfer, or otherwise use in any other way for commercial or public purposes, in whole or in part, any of Your Data, except for the purposes of the provision of the Software, without any further prior need of approval or consent from You.
+8.4.
+If You provide Hotjar with any feedback, suggestions, comments or improvements with respect to the Site and/or Software, Hotjar may make use of these without limitations and an expectation to compensate You.
+9.
+==========
+Confidential Information
+9.1.
+Hotjar shall maintain Your Confidential Information in the strictest confidence.
+To formalize this commitment with You, We have a Non-Disclosure Agreement You can optionally sign with Us if You’d prefer.
+9.2.
+You acknowledge and agree that Hotjar may disclose any Data, including Confidential Information if Hotjar is required to do so by mandatory law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with a legal process; (b) enforce this Agreement; (c) respond to claims that any of Your content and/or Data violates the rights of Third Parties; or (d) protect the rights, property, or personal safety of Hotjar, the Site, the Software, its users, and the public.
+10.
+==========
+Warranties
+10.1.
+Each party represents and warrants to the other party that it has all necessary rights and authority to enter into the Agreement.
+10.2.
+Hotjar warrants and represents to You that:
+a. the Intellectual Property Rights in any material provided by Hotjar as part of the Site and/or the Software do not, to the best of Hotjar’s knowledge, infringe any Third Party Intellectual Property Rights when used by You in accordance with this Agreement; and
+b. Hotjar will only use Your Data in accordance with this Agreement and Applicable Law.
+10.3.
+You represent and warrant that You will comply with all applicable laws and regulations applicable to You (including export and re-export control laws and sanctions) when using Our Software.
+10.4.
+==========
+You agree to provide and maintain a legally adequate privacy policy that accurately discloses Your practices with respect to the collection, use, and disclosure of Personal Data, including Personal Data, collected through Your use of Our Software.
+You are responsible for determining whether You are subject to any sector-specific privacy laws or regulations, including but not limited to the Health Insurance Portability and Accountability Act (HIPAA), the Gramm-Leach Bliley Act (GLBA), the Children’s Online Privacy Protection Act (COPPA), the Family Education Rights and Privacy Act (FERPA) or any law concerning the privacy of any collected Personal Data or other laws as may be applicable to You, and for determining whether Our Software is suitable for You to use in light of the application or potential application of any such laws or regulations.
+==========
+If You are subject to specific laws or regulations, You represent and warrant that Your use of Our Software will be in accordance with such laws or regulations.
+Hotjar will not be held liable for Your failure to comply with any such laws or regulations.
+10.5.
+==========
+If You are located in a jurisdiction with privacy and data protection laws or have any end users that visit Your Hotjar Enabled Site from such jurisdictions, You represent and warrant that You use the Software in accordance with the laws applicable to You.
+You further represent and warrant that You:
+a. will clearly describe in writing how You plan on using any Data processed, including for Your use of Our Software and make such description available for users of Your Hotjar Enabled Site(s).
+==========
+We have developed some model wording You can reference as a starting point for this, but You should seek advice from Your own counsel before using any information provided by Hotjar.
+Hotjar shall not be liable for any use, verbatim or otherwise, of the model wording;
+b. will obtain unambiguous, specific, freely given, informed, and revocable consent of natural persons whose Personal Data is Processed by Your use of the Software where required by laws applicable to You; and
+c.
+You agree to indemnify and hold Us harmless from any losses, including attorney fees and costs, that result from Your breach of any part of these warranties
+11.
+==========
+Obligations of Hotjar as Processor
+11.1.
+Hotjar shall comply with all Applicable Laws when carrying out this Agreement, in particular:
+a. Hotjar has appointed a data protection officer, who can be contacted at dpo@hotjar.com;
+b. Hotjar shall keep Your Personal Data logically separated from Personal Data Processed on behalf of any Third Party;
+c. Hotjar entrusts only persons (whether natural or legal) with the Processing under this Agreement who maintain confidentiality and have been informed of any special data protection requirements relevant to their work;
+d. Hotjar shall cooperate, on request, with the relevant data protection supervisory authority in the performance of its tasks;
+e. Hotjar shall inform You without undue delay of any inspections and measures conducted by the supervisory authority, insofar as they relate to the processing of Your Personal Data under this Agreement;
+f. Hotjar shall undertake reasonable efforts to support You if You are subject to inspection by the supervisory authority, an administrative or summary offense or criminal procedure, a liability claim by a Data Subject or by a Third Party or any other claim in connection with this Agreement;
+g. Hotjar shall periodically monitor the internal processes and the technical and organizational measures to ensure that processing of Personal Data is in accordance with the requirements of Applicable Law and the protection of the rights of the Data Subject;
+h. Upon Your request, Hotjar shall provide You with reasonable cooperation and assistance needed to fulfill Your obligation under the laws applicable to You to carry out a Data Protection Impact Assessment (DPIA) and, where necessary, a prior consultation related to Your use of the Our Software, to the extent that You do not otherwise have access to the relevant information, and to the extent such information is available to Us; and 
+i. Taking into account the nature of the Processing and the Software, Hotjar shall assist You by adopting appropriate technical and organizational measures, insofar as this is possible, for the fulfillment of Your obligation to respond to a data subject’s request under the applicable data protection laws.
+12.
+==========
+Security Breaches
+12.1.
+Hotjar shall assist You in complying with Your statutory obligations regarding the security and protection of Personal Data in connection with this Agreement.
+This includes, to the extent this is necessary, for You to comply with Your statutory obligations:
+a. assisting You with ensuring an appropriate level of protection through technical and organizational measures;
+b. notifying You without undue delay after having become aware of any accidental, unauthorized, or unlawful destruction, loss, alteration, or unauthorized disclosure of, or access to, Personal Data ("Security Breach").
+c. cooperating with You and providing You with any information which You may reasonably request relating to the Security Breach.
+Hotjar shall investigate the Security Breach and shall identify, prevent and make reasonable efforts to mitigate the effects of any such Security Breach and, with Your prior agreement, to carry out any recovery or other action necessary to remedy the Security Breach;
+d. assisting You through appropriate measures with regard to Your obligation to inform Data Subjects and competent authorities in case of a Security Breach.
+13.
+==========
+Monitoring Rights
+13.1.
+You have the right, after consultation with Hotjar and with reasonable advance notice, to carry out reasonable inspections of Hotjar’s policies, procedures, and records related to Personal Data You capture using Our Software or to have them carried out by an auditor to be designated in each individual case in order to convince Yourself of Hotjar’s compliance with this Agreement.
+Any audit must be: (i) conducted during Hotjar’s regular business hours; (ii) carried out in a manner that prevents unnecessary disruption to Hotjar’s operations; and (iii) subject to reasonable confidentiality procedures.
+These rights shall not extend to facilities that are operated by Sub-Processors, sub-contractors or any Third Parties which Hotjar may use to provide its Software, the monitoring of which is Hotjar’s responsibility.
+13.2.
+==========
+Hotjar shall ensure that You are able to verify Hotjar’s compliance with its obligations as Processor in accordance with Applicable Laws and within the scope of this Agreement.
+Hotjar undertakes to provide You all information reasonably necessary for this purpose on request within a reasonable timeframe.
+13.3.
+Evidence of the implementation of any measures in this regard may also be presented in the form of up-to-date attestations, reports or extracts thereof from independent bodies (e.g. external auditors, internal audit, the data protection officer, the IT security department or quality auditors) or suitable certification by way of an IT security or data protection audit or by other measures provided by law.
+14.1.
+==========
+You retain a general right of instruction as to the nature, scope and method of Processing of Personal Data on Your behalf.
+The initial instructions are in this Agreement and may be supplemented with individual instructions from time to time through Our Software.
+14.2.
+==========
+Hotjar shall only be obliged to accept instructions in writing which may be electronically communicated.
+Unless required to provide the Software to You, no copies or duplicates of Personal Data processed on Your behalf may be produced without Your knowledge.
+For clarity, this does not apply to backup copies where these are required to ensure proper Data Processing, or to any Data required to comply with statutory retention rules.
+14.3.
+==========
+Hotjar shall inform You immediately if it believes that any of Your instructions infringes on Applicable Law.
+Hotjar may then postpone the execution of the relevant instruction until it is confirmed or changed by You.
+15.
+Sub-Processing
+15.1.
+You agree to Hotjar’s use of Sub-Processors on the condition that Hotjar has executed a contractual agreement with such Sub-Processors in accordance with Applicable Law.
+15.2.
+==========
+Outsourcing to further Sub-Processors or changing any existing Sub-Processors is permissible if Hotjar informs You of the identity of the Sub-Processor and the scope of the planned Sub-Processing in writing and You do not object to the planned Sub-Processing in text form within ten (10) business days as from giving notice by Hotjar.
+You shall not unreasonably object to the planned Sub-Processing.
+15.3.
+Before the Sub-Processor first Processes any of Your Data Hotjar will carry out adequate due diligence checks to ensure that the Sub-Processor is capable of providing the level of protection for the Personal Data required by this Agreement.
+16.
+==========
+Limitations
+16.1.
+In no event shall Hotjar or any of its representatives be liable to You or any Third Party for any direct, indirect, special, exemplary, punitive or other consequential or incidental damages (including but not limited to any lost profits or revenue, interruption, loss of programs or other information, or any other measurable loss) arising directly or indirectly from: (i) Your use of or access to Our Site and/or Software, or any content, products or services distributed on or provided through Our Site and/or Services, (ii) for any failure or interruption of Our Site and/or Software; whether arising out of errors, omissions, loss of Data, defects, viruses, interruptions or delays in operations or transmission or any other cause, whether based on warranty, contract, tort (including negligence) or any other legal theory, even if Hotjar or its suppliers have been expressly advised of the possibility of such damages.
+This limitation of liability does not apply to direct damages for which Hotjar is liable due to Hotjar’s violation of a Third Party’s Intellectual Property Rights.
+16.2.
+In any event, Hotjar's total maximum aggregate liability under this Agreement, shall not exceed Your monthly subscription fee.
+16.3.
+These limitations do not apply in case Hotjar has willfully caused the damage.
+17.
+==========
+Personal Data Processing Rights
+17.1.
+Rectification, Restriction, and Erasure of Data: Hotjar may not on its own authority rectify, erase or restrict the processing of Personal Data that is being processed on Your behalf (unless this is required by Applicable Law or this Agreement), but shall only do so on documented instructions from You and in accordance to Data retention rules associated to Your Subscription Plan.
+If a Data Subject should apply directly to Hotjar to request the rectification, erasure, or restriction of his Personal Data, Hotjar must, to the extent legally permitted under Applicable Law, forward this request to You without undue delay.
+17.2.
+==========
+Deletion and Return of Your Personal Data: Upon termination of the Subscription Plan or when requested by You, within a reasonable time which shall not exceed thirty (30) calendar days, Hotjar shall return to You all Personal Data processed on Your behalf, if possible, or delete them in compliance with the Applicable Law.
+The deletion log must be presented upon request.
+18.
+==========
+Assumption of Risk
+18.1.
+You use the Internet, Our Site and Software solely at Your own risk and subject to all applicable laws and regulations.
+Since Our Site and Software are online and accessible from anywhere in the world, You declare that You are aware that access to Our Site and/or Software may not be legal by certain persons or in certain jurisdictions.
+18.2.
+==========
+While Hotjar is committed to creating secure and reliable Site and Software, Hotjar is not responsible for the security of any information outside of its control.
+Hotjar shall have no liability for interruptions or omissions in internet, network or hosting services.
+19.
+==========
+Links
+19.1.
+Hotjar’s Site and/or Software may include links to certain websites, materials, or content developed by Third Parties.
+Use of any such linked material is at Your own risk.
+20.
+==========
+Advertising
+20.1.
+Unless You specifically withdraw Your consent to this clause by sending an email at legal@hotjar.com, You acknowledge and consent that Hotjar may make use of any of Your marks, logos and trade names to identify You as Hotjar’s user/customer on Hotjar’s Site and/or Software, in addition to any other marketing material.
+21.
+==========
+Enforcing Security
+21.1.
+Actual or attempted unauthorized use of any of Our Site and/or Software may result in the institution by Us of criminal and/or civil prosecution.
+==========
+For Your protection, We reserve the right to view, monitor, and record activity on Our Site and/or Software without notice or further permission from You, as permitted by the Applicable Law and this Agreement.
+This right extends to Our review of tracking activity and details pertaining to claimed violations by You.
+Any information obtained by monitoring, reviewing, or recording is subject to review by law enforcement organizations in connection with the investigation or prosecution of possible criminal activity on any of Our Site and/or Software.
+22.
+==========
+Indemnification
+22.1.
+Our Indemnification Obligations: Hotjar agrees to defend You against any claim, suit or proceeding brought by Third Parties (the “Claim(s)”) arising from or relating to Our violation of a Third Party’s Intellectual Property Rights directly arising out of Your use of the Software in accordance this Agreement, and will indemnify and hold You harmless against any damages and costs awarded against You or agreed in settlement by Hotjar (including reasonable attorneys’ fees) resulting from such Claim.
+Hotjar shall have no indemnification obligation with respect to any Claims arising out of or related to (i) Your Data; (ii) Your violation of any Applicable Laws; (iii) Your violation, whether alleged or actual, of any Third Party rights, including but not limited to Data protection and privacy rights; (iv) Your violation of this Agreement; (iv) Your violation of this Agreement, negligence, willful misconduct, or fraud; (v) Your failure to use any enhancements, modifications, or updates to the Software that have been provided by Hotjar; (vi) modifications to the Software by anyone other than Hotjar; or (vii) combinations of the Software with software, data or materials not provided by Hotjar.
+22.2.
+Your Indemnification Obligations: You shall indemnify, hold harmless and defend Hotjar, including any of its subsidiaries, officers, owners, partners, directors, employees, contractors, agents, shareholders, licensors, suppliers and other partners (“Hotjar Indemnified Parties”), to the maximum extent permitted and in full at Your own cost, from any demands, disputes, liabilities, Claims, obligations, losses, damages, and costs and expenses, including, without limitation, reasonable legal and accounting fees arising out of or in any way connected with (i) Your unauthorized use of any material obtained through Our Site and Software; (ii) Your use and access to Our Site and Software which is not in accordance with this Agreement; (iii) Your Processing of Personal Data in connection with Your use of Our Software; (iv) Your violation of the Agreement; and (v) Your violation, whether alleged or actual, of any Third Party rights.
+22.3.
+Indemnification Procedures: The parties’ respective indemnification obligations above are conditioned on (i) the indemnified parties giving the indemnifying party prompt written notice of the claim, except that the failure to provide prompt notice will only limit the indemnification obligations to the extent the indemnifying party is prejudiced by the delay or failure; (ii) the indemnifying party has full and complete control over the defense and settlement of the claim (if permitted by Applicable Law) in particular, the indemnified party shall not settle or make other binding declarations concerning the Third Party claim without the prior written approval of the other party; (iii) the relevant indemnified parties providing assistance in connection with the defense and settlement of the claim (as long as the settlement does not include any payment of any amounts by or any admissions of liability, whether civil or criminal, on the part of any of the indemnified parties), as the indemnifying party may reasonably request; and (iv) the indemnified parties’ compliance with any settlement or court order made in connection with the Claim arising under this Clause and settled by the indemnifying party or with its approval.
+22.4.
+==========
+Infringement Remedy: If You are enjoined or otherwise prohibited from using any of the Software or a portion thereof based on a Third Party Intellectual Property infringement claim covered by Our indemnification obligations under this Clause above, then We will, at Our sole expense and option, either: (i) obtain for You the right to use the allegedly infringing portions of the Software; (ii) modify the allegedly infringing portions of the Software so as to render them non-infringing without substantially diminishing or impairing their functionality; or (iii) replace the allegedly infringing portions of the Software with non-infringing items of substantially similar functionality.
+If We determine that the foregoing remedies are not commercially reasonable, then We will promptly provide a prorated refund to You for any prepaid fees received by Us under this Agreement that correspond to the unused portion of the Subscription Term.
+The remedy set out in this Clause is Your sole and exclusive remedy for any actual or alleged infringement by Us of any Third Party Intellectual Property Rights in the event that You are enjoined or otherwise prohibited from using any of the Software or a portion thereof based on a claim covered by Our indemnification obligations under this Clause.
+This limitation shall not apply in the case of Hotjar’s willful misconduct.
+22.5.
+==========
+You shall not, without the prior express written approval of Hotjar, attempt to, or settle, dispose or enter into any proposed settlement or resolution of any Claim (whether having been finally adjudicated or otherwise) brought against You, if such settlement or resolution results in any obligation or liability for Hotjar.
+Provided that this clause shall survive termination of this Agreement, howsoever occurred, and termination of Your access and/or use of Our Site or Software.
+23.
+==========
+Governing Law and Dispute Resolution
+23.1.
+This Agreement is governed by and construed in accordance with the laws of Malta.
+The parties agree that any dispute or claim arising out of or in connection with this Agreement or its subject-matter shall be subject to the exclusive jurisdiction of the Malta Arbitration Centre in accordance with the Arbitration Act (Cap.
+387 of the Laws of Malta) and the arbitration rules of the Malta Arbitration Centre in force at the time of the dispute.
+Hotjar shall retain the right, at its option and for its exclusive benefit, to institute proceedings regarding or relating to Your use of Our Site and Software in the courts of law of the country in which You reside.
+24.
+==========
+Waiver of Jury Trial
+24.1.
+You and Hotjar waive their rights (if applicable) to a trial by jury relating to all claims and causes of action (including counterclaims) related to or arising out of this Agreement.
+This waiver shall also apply to any subsequent amendments or modifications to this Agreement.
+25.
+==========
+No Class Actions
+25.1.
+All claims between the parties, including parent companies and subsidiaries, related to this Agreement will be litigated individually and You will not consolidate or seek class treatment for any claim with respect to the Services.
+26.
+No Class Actions
+26.1.
+Our failure to enforce, at any time, any of the provisions, conditions or requirements of the Agreement, or the failure to require, at any time, the performance by You of any of the provisions of the Agreement, shall in no way waive Your obligation to comply with any of the provisions of the Agreement or Our ability to enforce each and every such provision as written.
+26.2.
+Any and all waivers by either party hereto of any provision, condition or requirement of the Agreement will only be effective against the other Party if it is in writing and signed by an authorized officer of that Party, and any such written waiver will not constitute a waiver of any future obligation to comply with such provision, condition or requirement.
+27.
+==========
+Assignment and Delegation
+27.1.
+Both parties may only assign their rights and obligations under the Agreement in connection with a consolidation, merger, acquisition or sale of substantially all of their assets, shares or activities without the prior written consent of the other party.
+28.
+==========
+Relationship of the Parties
+28.1.
+Nothing contained in this Agreement shall be interpreted or construed to create a partnership, agency, single employer, joint employer or any other type of employment relationship between the parties hereto, or to impose liability attributable to such relationship upon either party.
+Neither party will have any right, power or authority to enter into any agreement on behalf of, to incur any obligation or liability of, or to otherwise bind the other party.
+29.
+==========
+Severability
+29.1.
+If any provision of this Agreement is found, by any court having competent jurisdiction, to be unenforceable, the other provisions of this Agreement shall remain in effect to the maximum extent possible.
+30.
+==========
+Survival
+30.1.
+Rights and obligations under this Agreement which by their nature are intended to survive termination, including without limitation the indemnification and liability limitations provisions set forth in this Agreement, shall remain in full effect after termination or expiration of the Agreement.
+==========
+DISCLAIMER
+THE MATERIALS CONTAINED ON AND IN THE HOTJAR SITE AND SOFTWARE ARE PROVIDED “AS IS”.
+OTHER THAN FOR THE EXPRESS WARRANTIES OF THIS AGREEMENT, HOTJAR HEREBY MAKES NO FURTHER WARRANTIES, WHETHER EXPRESSED OR IMPLIED, AND HEREBY DISCLAIMS AND NEGATES ALL OTHER WARRANTIES, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR OTHER VIOLATION OF RIGHTS.
+FURTHER, HOTJAR DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS CONCERNING THE ACCURACY, LIKELY RESULTS, OR RELIABILITY OF THE USE OF THE MATERIALS ON ITS SITE OR SOFTWARE, OR OTHERWISE RELATING TO SUCH MATERIALS OR ON ANY THIRD PARTY SITES OR SOFTWARE LINKED TO WITHIN OUR SITE OR SOFTWARE OR THAT THE SOFTWARE WILL BE ERROR-FREE OR PROVIDE CERTAIN RESULTS.
+Contact Details
+Hotjar Ltd Dragonara Business Centre 5th Floor, Dragonara Road, Paceville St Julian's STJ 3141 Malta, Europe +1 (855) 464-6788 support@hotjar.com
+Previous Version of this Terms of Service
+Version 5.1 (compare markup changes between version 5.1 and 6)
+==========

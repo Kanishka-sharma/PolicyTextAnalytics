@@ -1,0 +1,39 @@
+Opting-Out from Targeted Advertisements and Tracking on Websites
+You can opt-out from tracking and Adform’s unique cookie identifiers here.
+To do so, click the button at your right once and we will take all necessary means to ensure that no tracking is being applied.
+Please be aware that:
+1.
+==========
+Adform needs to set an anonymous “opt-out” cookie to indicate your decision not to be tracked.
+Your opt-out will remain in effect only as long as this cookie is present in your browser and accessible to Adform.
+2.
+Cookies are browser and device-specific – opting out of tracking on this browser and device does not affect your settings on a secondary device and/or browser.
+3.
+Some browsers (e.g. Safari) limit cookie functionalities by default – in consequence, your opt-out may not work as intended.
+4.
+==========
+When you opt-out, any data we hold will be disassociated from your browser and device and not used for ad targeting anymore.
+You will still continue to see advertising – it may just be less relevant and useful to you than before.
+Opting-Out from Advertising and Tracking in Mobile Applications 
+For opt-out of ad tracking and targeting on many mobile devices such as iPhones, iPads, Android devices, TV streaming devices, or other Smart TV devices, you should preferably consult your device settings and instructions provided by the device manufacturer.
+==========
+Below is exemplary information solely for informational purposes for which we disclaim any warranty or representation that the opt-out methods will work or that they are most current.
+For user’s choices and to learn more on how to opt-out of advertising that uses identifiers provided but Connected TV systems, click here
+1.
+==========
+Apple iOS Example
+On iOS version 14 and later only, you may withdraw your consent by disabling the “Allow Apps to Request to Track” setting in your iOS settings (precise directions may be different on different iOS versions).”
+On iOS version 13 and earlier only: 
+- Opt-out of ads targeted based on location.
+Open “Settings”, tapping “Privacy,” tapping “Location Services”, tapping “System Services”, and sliding the Location-Based iAds switch to “off”.
+- Opt-out of targeted advertising.
+==========
+Open “Settings”, tap on “Privacy”, then “Advertising”, and set Limit Ad Tracking to “on”.
+- To reset your Advertising Identifier on iOS, open “Settings”, tap “Privacy”, tap “Advertising”, and tap “Reset Advertising Identifier”.
+2.
+==========
+Android Example 
+Open the Google Settings app, select Ads then “Reset advertising ID” and choose “Opt-out of interest-based ads”.
+You may also choose to opt-out from interest-based advertising via the Network Advertising Initiative
+For detailed information on our cookies usage purposes and for general commitment towards our platform and services privacy, see Adform Product and Services Privacy Policy.
+==========

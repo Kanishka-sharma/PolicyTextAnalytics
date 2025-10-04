@@ -1,0 +1,43 @@
+Last Call: W3C Invites Broad Review of HTML5 and Five Related Specifications
+25 May 2011 | Archive
+CSS Writing Modes Module Level 3 Draft Updated
+31 May 2011 | Archive
+The Cascading Style Sheets (CSS) Working Group has published a Working Draft of CSS Writing Modes Module Level 3.
+CSS3 Writing Modes defines CSS features to support for various international writing modes, such as left-to-right (e.g. Latin or Indic), right-to-left (e.g., Hebrew or Arabic), bidirectional (e.g., mixed Latin and Arabic) and vertical (e.g., Asian scripts).
+Learn more about the Style Activity.
+DOM Level 3 Events Published as Last Call; DOM Core Draft Updated
+31 May 2011 | Archive
+The Web Applications Working Group has published a Last Call Working Draft of DOM Level 3 Events.
+==========
+The DOM is a language- and platform neutral interface that allows programs and scripts to dynamically access and update the content and structure of documents.
+Document Object Model Events Level 3 defines a generic platform- and language-neutral event system which allows registration of event handlers, describes event flow through a tree structure, and provides basic contextual information for each event.
+==========
+Comments welcome through 28 June 2011.
+The group also published today an updated Working Draft of DOM Core.
+==========
+Learn more about the Rich Web Client Activity.
+Workshop Report: Web Tracking and User Privacy
+25 May 2011 | Archive
+W3C today published the report from the W3C Workshop on Web Tracking and User Privacy held at Princeton University in April.
+==========
+The large and diverse group of participants had an engaging discussion yielding consensus on the importance, time-sensitivity and complexity of the issue and revealing promising areas for standards work.
+We encourage interested parties to continue discussion on the public mailing list, including on the possibility of W3C forming new groups in this area.
+W3C thanks the participants and appreciates the support of the Workshop sponsors: Adobe, Yahoo!, Google, Mozilla and Microsoft.
+==========
+First Draft of Resource Timing Published
+24 May 2011 | Archive
+The Web Performance Working Group has published the First Public Working Draft of Resource Timing.
+This specification defines an interface for web applications to access timing information related to HTML elements.
+==========
+User latency is an important quality benchmark for Web Applications.
+While JavaScript-based mechanisms can provide comprehensive instrumentation for user latency measurements within an application, in many cases, they are unable to provide a complete end-to-end latency picture.
+While the Navigation Timing specification address part of the problem by providing timing information associated with a navigation, this document introduces the ResourceTiming interface to allow Javascript mechanisms to collect complete timing information related to resources on a document.
+Learn more about the Rich Web Client Activity.
+==========
+CSS Lists and Counters Module Level 3 Draft Published
+24 May 2011 | Archive
+The Cascading Style Sheets (CSS) Working Group has published a Working Draft of CSS Lists and Counters Module Level 3.
+This draft contains the features of CSS level 3 relating to list styling.
+The main extensions compared to CSS Level 2 are a pseudo-element representing the list marker, a new hanging value for list-style-position, and a method for authors to define their own list-styles.
+Learn more about the Style Activity.
+==========

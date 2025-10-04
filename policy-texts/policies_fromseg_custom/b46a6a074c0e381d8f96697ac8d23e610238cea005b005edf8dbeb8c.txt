@@ -1,0 +1,64 @@
+Introduction
+ 
+admetrics GmbH is an ad verification vendor.
+Our goal is to increase the quality of ads and uncover invalid and fraudulent ad traffic.
+We appreciate that you are aware of and care about your own personal privacy interests, and take that seriously.
+This Privacy Notice outlines our policies and practices regarding its collection and use of your data.
+This Privacy Notice is intended to provide you with information about what personal data admetrics GmbH collects about you and how it is used.
+If you have any questions, please contact us at privacy@admetrics.io.
+Please recognize that information privacy is an ongoing responsibility, and so we will update this Privacy Notice as we develop new personal data practices or adopt new privacy policies.
+What personal data do we process or collect?
+==========
+Our services enable our clients to report on ad delivery and performance by making use of web beacons and log files.
+For that purpose we process IP addresses.
+To protect your data we anonymize and encrypt your IP address and remove it automatically after 5 days.
+Your rights
+ 
+If you wish to confirm that we are processing your personal data, or to have access to the personal data admetrics may have about you, please contact us at privacy@admetrics.io.
+If you wish us to stop collecting and processing anonymized personal data as outlined above, please use the button below to change your processing preference.
+==========
+Some browsers (like Safari) may prevent us from saving your processing choice.
+The easiest and most permanent way for you to store your tracking preference is by enabling or disabling the Do Not Track feature in your web browser:
+ 
+
+• Chrome: Head into the Settings page and click "Show advanced settings."
+Scroll down to the Privacy section and select Do Not Track.
+• Firefox: Select Preferences > Privacy and check the box marked, "Tell websites I do not want to be tracked."
+• Internet Explorer: Click the Tools button and then Internet Options > Advanced.
+Select "Always send Do Not Track Header."
+• Safari: Head into Preferences > Privacy and check the box marked "Ask website not to track me."
+• Mobile Chrome: Head into the Settings and then Privacy > Do Not Track.
+==========
+If you need assistance please contact us at privacy@admetrics.io.
+Point of contact
+ 
+Our address is: admetrics GmbH Hanauer Landstrasse 161-173 60314 Frankfurt am Main Deutschland You can contact us by mail at the above address, by email at privacy@admetrics.io.
+We are not required to have a data protection officer, so any enquiries about our use of your personal data should be addressed to the contact details above.
+==========
+Why do we collect this information?
+We process the IP address to find out what country it belongs to.
+What do we do with this information?
+After the IP address is processed it is removed from our systems.
+This happens usually within a few minutes and we do not store this information in databases or any other form storage.
+==========
+When and how we share information with others
+ 
+We do not share your personal information with third parties.
+Security of your information
+ 
+To help protect the privacy of data and personally identifiable information you transmit through use of this Site, we maintain physical, technical and administrative safeguards.
+We update and test our security technology on an ongoing basis.
+==========
+We restrict access to your personal data to those employees who need to know that information.
+In addition, we train our employees about the importance of confidentiality and maintaining the privacy and security of your information.
+We commit to taking appropriate disciplinary measures to enforce our employees' privacy responsibilities.
+==========
+Data storage and retention
+ 
+Your personal data is processed by us on our servers, and on the servers of the cloud-based database management services Admetrics engages, located in Germany.
+Admetrics retains personal data only for the duration of processing.
+For more information on where and how long your personal data is stored, and for more information on your rights of erasure and portability, please contact our privacy team at privacy@admetrics.io.
+Concerns or complaints
+ 
+If you have a complaint about our use of your information, you can contact our privacy team at privacy@admetrics.io or contact the regulatory body that governs these activities via letter at: Der Hessische Datenschutzbeauftragte Postfach 3163 65021 Wiesbaden Deutschland
+==========

@@ -1,0 +1,210 @@
+Siemens Commitment to Data Privacy Protection
+Protecting the security and privacy of your personal data is important to Siemens; therefore, we conduct our business in compliance with applicable laws on data privacy protection and data security.
+We hope the policy outlined below will help you understand what data Siemens may collect, how Siemens uses and safeguards that data and with whom we may share it.
+Personal data
+Through our Web sites, Siemens will not collect any personal data about you (e.g. your name, address, telephone number or e-mail address), unless you voluntarily choose to provide us with it (e.g. by registration, survey), respectively, provide your consent, or unless otherwise permitted by applicable laws and regulations for the protection of your personal data.
+==========
+Purpose of Use
+When you do provide us with personal data, we usually use it to respond to your inquiry, process your order or provide you access to specific information or offers.
+Also, to support our customer relationship with you:
+
+
+we may store and process personal data and share it with our worldwide affiliates to better understand your business needs and how we can improve our products and services; or
+we (or a third party on our behalf) may use personal data to contact you about a Siemens offer in support of your business needs or to conduct online surveys to understand better our customers' needs.
+If you choose not to have your personal data used to support our customer relationship (especially direct marketing or market research), we will respect your choice.
+We do not sell or otherwise market your personal data to third parties, except to Siemens affiliates.
+Purpose Limitation
+Siemens will collect, use or disclose personal data supplied by you online only for the purposes disclosed to you, unless the disclosure:
+
+
+is a use of the personal data for any additional purpose that is directly related to the original purpose for which the personal data was collected, 
+is necessary to prepare, negotiate and perform a contract with you, 
+is required by law or the competent governmental or judicial authorities, 
+is necessary to establish or preserve a legal claim or defense, 
+is necessary to prevent fraud or other illegal activities, such as willful attacks on Siemens information technology systems.
+==========
+Communications or Utilization Data
+Through your use of telecommunications services to access our Web site, your communications data (e.g. Internet protocol address) or utilization data (e.g. information on the beginning, end and extent of each access, and information on the telecommunications services you accessed) are technically generated and could conceivably relate to personal data.
+To the extent that there is a compelling necessity, the collection, processing and use of your communications or utilization data will occur and will be performed in accordance with the applicable data privacy protection legal framework.
+Non-Personal Data Collected Automatically
+When you access our Web sites, we may automatically (i.e., not by registration) collect non-personal data (e.g. type of Internet browser and operating system used, domain name of the Web site from which you came, number of visits, average time spent on the site, pages viewed).
+We may use this data and share it with our worldwide affiliates to monitor the attractiveness of our Web sites and improve their performance or content.
+==========
+"Cookies" - Information Stored Automatically on Your Computer
+When you view one of our Web sites, we may store some data on your computer in the form of a "cookie" to automatically recognize your PC next time you visit.
+Cookies can help us in many ways, for example, by allowing us to tailor a Web site to better match your interests or to store your password to save you having to re-enter it each time.
+If you do not wish to receive cookies, please configure your Internet browser to erase all cookies from your computer's hard drive, block all cookies or to receive a warning before a cookie is stored.
+==========
+Children
+Siemens will not knowingly collect personal data from children without insisting that they seek prior parental consent if required by applicable law.
+We will only use or disclose personal data about a child to the extent permitted by law, to seek parental consent pursuant to local law and regulations or to protect a child.
+The definition of "child" or "children" should take into account applicable laws as well as national and regional cultural customs.
+==========
+Security
+To protect your personal data against accidental or unlawful destruction, loss or alteration and against unauthorized disclosure or access, Siemens uses technical and organizational security measures.
+Links to Other Web Sites
+Siemens Web sites contain links to other Web sites.
+Siemens is not responsible for the privacy practices or the content of other Web sites.
+Questions and Comments
+Siemens will respond to reasonable requests to review your personal data and to correct, amend or delete any inaccuracies.
+If you have any questions or comments about the Siemens Data Privacy Protection Policy (e.g. to review and update your personal data), please click on "Contact Us" in the upper right-hand corner of this window, and select "About Siemens", "About us - questions about Siemens".
+As the Internet matures, so will our Data Privacy Protection Policy.
+We will post changes to our Data Privacy Protection Policy on this page.
+Please check this page regularly to keep up-to-date.
+==========
+Siemens issues digital certificates ("Certificates", also known as "Digital IDs") to its employees and
+                agents, to its known business partners and to Siemens web sites in accordance with its 
+ 
+  "Public Key Infrastructure Disclosure Statement"
+ 
+The following Siemens Public Key Infrastructure ("PKI") basic documents are available upon request, as necessary and appropriate, from the contact office referred to in the "Public Key Infrastructure Disclosure Statement": 
+
+Certification Practice Statement ("CPS") of:
+                                    
+Siemens Business Services Root CA ("SBS");
+Siemens Issuing Certification Authority(ies) ("CA(s)")
+
+
+Certificate Policy ("CP") for
+                                    
+internal Siemens Community ("CP 1"); and
+external Known Business Partner Community ("CP 2")
+
+
+Acronyms and Definitions for CPS and CP
+Sample Certificate Usage and Electronic Transaction Agreement
+                                    with Known Business Partner for Siemens Issuing CA-Issued Certificates (with
+                                    responsibilities of each Party's end-user(s), who both hold a Siemens
+                                    Certificate ("Subscriber(s)") and rely on a Siemens Certificate ("Relying
+                                    Party(ies)")
+Sample Relying Party Agreement (with responsibility of
+                                    end-user(s) of Known Business Partner(s) who are Relying Party(ies) only - not
+                                    Subscriber(s)).
+Other applicable policies, including the policies of the first
+                                    generation of Siemens Issuing CA's "CA001" and "CA001 (2002)"  
+
+
+
+Limited warranty and disclaimer / Limitation of liability
+
+
+                                    Except as explicitly provided in an applicable agreement
+                                                with an Authorized Relying Party or Subscriber, Siemens Issuing CA(s) expressly
+                                                disclaims all representations, warranties (express or implied) and liability --
+                                                except for willful misconduct and gross negligence -- concerning the
+                                                functionality, issuance, use, validity, or accuracy of Siemens Certificates,
+                                                including the identity of any person named by a Siemens Certificate or their
+                                                authority to act on behalf of Siemens.
+Siemens Certification Authority Certificates
+ 
+Siemens has made the Siemens Issuing CA(s) Certificates available
+              for downloading:
+
+Siemens Business Services Trust Center Root-CA V1.1.1Valid from June
+                                      17th, 2003 until June 17th, 2015Fingerprint of the certificate:(SHA-1)
+                                       206F 31ED 2722 6154 4710 CD19 4B34 6A48 207B 53EB
+
+
+Siemens Issuing CA Class EEValid from July 10th, 2003 until July 10th,
+                                      2009Fingerprint of the certificate:(SHA-1) 093B DBDB 5E51 7C0F 76CF
+                                       6B30 E45D F104 998A D3C7
+                                       
+
+
+Siemens Issuing CA Class EE (re-certified 2006)
+Valid from May 24th, 2006 until May 24th 2012
+Fingerprint des Zertifikates:
+(SHA-1) 3298 536D 7B46 CCE4 F5FB 9E6D 8153 F773 0539 1005 
+
+
+Siemens CA 001 (2002) (first
+                                       generation of Siemens PKI),Valid from July 24th, 2002 until July 24th,
+                                      2008Fingerprint of the certificate:(SHA-1) ACA1 0229 A584 CCAE 3776
+                                      C99B 4E8B BDB3 966F 477F
+
+
+ Siemens CA 001 (first
+                                      generation of Siemens PKI)Valid from November 3rd, 1998 until November 2nd,
+                                      2004Fingerprint of the certificate:(SHA-1) 286E 72DF ABE0 0FF5 E52D
+                                      46D8 3D1C 863F 20CA FECD
+
+ 
+Additional all necessary certificates are available:
+
+Hierachy of Siemens CA Certificates
+                                        contains:
+                                        Siemens Business Services Trust Center Root-CA V1.1.1
+                        Siemens Issuing CA Class EE
+                        Siemens Issuing CA Class EE (re-certified 2006)
+                        Siemens CA 001 (2002)
+                        Siemens CA 001
+
+
+ 
+The descriptions of the relevant applications (web browser,
+                                        e-mail client, etc.) explain how to import the Siemens CA(s) Certificate into
+                                         the applications' environment.
+Certificate Revocation Lists
+Siemens has made the Certificate Revocation Lists (CRL(s)) below
+                                        for Certificates issued by the Siemens Issuing CA(s) available for downloading.
+Public Certificate Repository
+Siemens operates a publicly accessible Certificate Repository.
+In
+                                the Certificate Repository the Certificates of the Siemens PKI are stored.
+==========
+The
+                                Certificate Repository is available on the Internet to enable the
+                                exchange of secure e-mails with Siemens.
+To retrieve Certificates from the Certificate Repository, it must be set up and configured as LDAP directory in the respective e-mail encryption program.
+User Instruction for Siemens Business Partners
+                                contains a detailed description how to do this in Outlook using the integrated encryption functions.
+Access
+Domain Name
+IP-Address
+Port
+Query
+
+
+Siemens
+cl.siemens.com
+194.138.20.61
+389
+O=Trustcenter
+
+
+PGP certificates in the Certificate
+                                Repository:The Certificate Repository also contains the Siemens PGP
+                                certificates.
+It can be used with all PGP clients supporting LDAP.
+==========
+European Bridge CA
+Siemens is a member of the
+ European Bridge CA.
+The European Bridge CA
+                                operates a virtual Directory Service.
+Certificates of participants from
+                                different companies can be called up via this Directory Service.
+==========
+For this the
+                                LDAP-queries of the Bridge-CA are forwarded to the repositories of the
+                                connected organisations.
+Also the Siemens PKI Certificate Repository can be
+                                called up via this service.
+The European Bridge CA offers a online search for certificates.
+Here also all Siemens certificates can be found if the correct mail-address is provided.
+To use the Bridge-CA Repository it must be set up and configured
+                                as an LDAP directory the respective e-mail encryption program: 
+
+
+Access
+Domain Name
+IP-Address
+Port
+
+
+Bridge-CA
+directory.bridge-ca.
+org
+213.61.227.207
+389
+==========

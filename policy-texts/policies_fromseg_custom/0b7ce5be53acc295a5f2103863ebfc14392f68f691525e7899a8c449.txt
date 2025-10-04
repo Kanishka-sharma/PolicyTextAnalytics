@@ -1,0 +1,190 @@
+Bidstack Limited Privacy Policy
+Bidstack is a cross-platform in-game advertising network, whose technology helps video-game companies and advertisers to benefit from revolutionary advertising opportunities.
+Game developers and publishers can monetise their games by integrating adverts naturally into the game environment, and advertisers can use our technology to run targeted campaigns within these spaces.
+The Bidstack services (the 'Services') include the integration of Bidstack’s advertising technology into games by the game developers, via our SDK or API.
+Advertisers are then able to buy space within the game.
+They can select which games to feature in, or the demographic profile they’re targeting – and then use our reporting tools to track campaign performance.
+==========
+Introduction
+1.1 This Policy is intended for both website publisher customers ('Publishers'), Supply- Side Platforms ('SSPs'), as well as individual users of the Bidstack website (a 'User'), Bidstack.com (the 'Website') and any relevant Bidstack Services, andBidstack Ltd, the owner and provider of the Website.
+Bidstack Ltd, hereinafter referred to as ‘We’, ‘Us’, ‘Our’, takes the privacy of your information very seriously.
+This Privacy Policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the Website or Services: please read this document carefully.
+==========
+1.2 For Publishers and SSPs, this Policy explains how we may collect, use and disclose information sent from your services and programs, including personal information about your users and customers.
+1.3 For individual website and app Users, this Privacy Policy explains how we may collect, use, and disclose information when you visit our website or when you use any website or app that uses the Bidstack technologies.
+1.4 For both Publishers and SSPs and individual Users, when using our Website or Services you consent to the collection, transfer, storage, disclosure, and use of your information as described in this Privacy Policy.
+1.5 The data controller responsible for holding and processing your information is Bidstack Ltd, with its registered office at 201 Temple Chambers, 3-7 Temple Avenue, London, EC4Y 0DT, registered company number: 09835625.
+1.6 You alone are responsible for your use of the Website, as provided in the general Terms of Service, this Privacy Policy, and the Cookie Policy.
+2.
+Definitions and Interpretation
+2.1 In this privacy policy, the following definitions are used:
+Bidstack Ltd, or ‘Us’ - a company incorporated in England and Wales with registered number 09835625 whose registered office is at 201 Temple Chambers, 3-7 Temple Avenue, London, EC4Y 0DT;
+Cookies - A small text file placed on your computer when you visit certain parts of the Website and/or when you use certain features of the Website.
+==========
+Details of the cookies used are set out in clause 11 below (Cookies);
+Data - For Publishers and SSPs, this includes all personal information transferred from you to us, including the personal information of your users.
+For Users, this includes all information that you submit to us via the Website or Services, or data transferred to us from a game Publisher in order for us to place advertising in the game.
+This definition incorporates, where applicable, the definitions provided in the Data Protection Act 1998;
+Publisher - A person or a company who own a game/gaming platform or digital space whereby the ads occur, who are responsible for connecting the advertiser’s product with the end user;
+Services - The Website, Bidstack.com (and any sub- domains of the Website) and Bidstack Services (as defined above), unless expressly excluded by their own terms and conditions;
+Supply-Side Platform/SSP - A technology platform that allows Publishers to manage, sell and optimise programmatic inventory for advertisers to bid on;
+UK and EU Cookie Law - The Privacy and Electronic Communications (EC Directive) Regulations 2003 as amended by the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011; and
+User - Any party that is accesses the Website or Services and is not either (i) employed by Bidstack Ltd and acting in the course of their employment; or (ii) engaged as a consultant or otherwise providing services to Bidstack Ltd and accessing the Website in connection with the provision of such services, including Publishers and SSPs.
+2.2 In this privacy policy, unless the context requires a different interpretation:
+the singular includes the plural and vice versa;
+references to sub-clauses, clauses, schedules or appendices are to sub-clauses, clauses, schedules or appendices of this privacy policy;
+a reference to a person includes firms, companies, government entities, trusts and partnerships;
+"including" is understood to mean "including without limitation";
+reference to any statutory provision includes any modification or amendment of it;
+the headings and sub-headings do not form part of this privacy policy.
+3.
+Scope of this Privacy Policy
+This privacy policy applies to the actions of Bidstack Ltd and Users, Publishers, and SSPs with respect to all aspects of the Website.
+4.
+==========
+Data Collected
+4.1.
+Providing our Services, we typically do not directly interact with the owners of personal information except for data passed on by other parties, such as a Publisher or SSP, or User information if, for example, a User has registered directly with Bidstack.
+Rather, we process information (including personal information, if any), provided by our Publishers using various software and Services, and not always our software in this regard.
+==========
+Therefore, we obligate our Publishers to comply with all applicable laws in all applicable jurisdictions while obtaining information, and further to indemnify us of any claims arising from such non-compliance.
+4.1.1 Publishers and other clients may have their own policies that govern how they collect, use and share data.
+==========
+These policies may differ from our policies described herein.
+We therefore recommend you consult the privacy policies of the websites, services, apps and games you use to become familiar with their privacy practices, and to learn about any choices that these companies may offer with respect to their information practices.
+==========
+4.1.2 Further, the Website may contain links to websites or content operated and maintained by third parties, over which we have no control.
+we encourage you to review the privacy policy of any third-party website (or other service) before disclosing any information to them.
+==========
+4.2 We may collect the following Data, which includes personal Data, from you:
+4.2.1  Your name and contact information, such as an email address, and your hashed password if you register with us, for the purpose of logging-in to the service and storing any personalised settings and features.
+This is only collected from Publishers;
+4.2.2  a hashed gamer ID, your age and gender.
+This is collected from our Publishers, and is used for ad targeting and analytics.
+This is anonymous and is not personally identifiable data;
+4.2.3  an anonymised IP address, again from our Publishers.
+This is collected to accurately quantify the data referred to at 4.2.2;
+4.2.4 Ad reporting or delivery data (e.g. size/type of ad, ad impressions, location/format of ad, data about interactions with the ad);
+4.2.5 Device-type information (e.g. screen dimensions, device brand and model);
+in each case, in accordance with this privacy policy.
+5.
+==========
+Our Use of Data
+5.1.
+For purposes of the Data Protection Act 1998, Bidstack Ltd is the "data controller".
+5.2.
+Our IPO data protection registration number is: ZA370854, and further information can be found in our Data Protection Policy.
+5.3.
+We will retain any data you submit for no longer than necessary.
+5.4.
+==========
+Unless we are obliged or permitted by law to do so, and subject to any third-party disclosures specifically set out in this policy, your data will not be disclosed to third parties.
+This does not include our affiliates and/or other companies within our group.
+5.5.
+==========
+All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998 and the General Protection of Data Regulation (GDPR).
+For more details on security see the clause below (Security).
+5.6.
+==========
+Any or all of the above Data may be required by us from time to time in order to provide you with the best possible service and experience when using our Website.
+Specifically, Data may be used by us for the following reasons:
+5.6.1.
+==========
+internal record keeping;
+5.6.2.
+improvement of our Website or Services;
+in each case, in accordance with this privacy policy.
+6.
+==========
+Third Party Websites
+6.1.
+We may, from time to time, employ the services of other parties for dealing with certain processes necessary for the operation of the Website.
+The providers of such Website have access to certain personal Data provided by Users of the Website.
+6.2.
+Any Data used by such parties is used only to the extent required by them to perform the Website requested.
+Any use for other purposes is strictly prohibited.
+Furthermore, any Data that is processed by third parties will be processed within the terms of this privacy policy and in accordance with the Data Protection Act 1998.
+7.
+==========
+Changes of Business Ownership and Control
+7.1.
+We may, from time to time, expand or reduce our business and this may involve the sale and/or the transfer of control of all or part of Bidstack Ltd.
+Data provided by Users will, where it is relevant to any part of our business so transferred, be transferred along with that part and the new owner or newly controlling party will, under the terms of this Privacy Policy, be permitted to use the Data for the purposes for which it was originally supplied to us.
+7.2.
+We may also disclose Data to a prospective purchaser of our business or any part of it.
+7.3.
+In the above instances, we will take all reasonable steps with the aim to ensure your privacy is protected.
+8.
+==========
+Controlling Use of Your Data
+8.1.
+Wherever you are required to submit Data, you will be given options to restrict our use of that Data.
+==========
+This may include the following:
+8.1.1.
+use of Data for direct marketing purposes; and
+8.1.2.
+sharing Data with third parties.
+9.
+==========
+Functionality of the Website
+9.1.
+To use all features and functions available on the Website, you may be required to submit certain Data, for example, you may need to register an account with us in order to use certain features, such as checking the status or performance of your ads.
+9.2.
+==========
+You may restrict your internet browser's use of cookies; however, this may affect the functionality of some of the Services.
+For more information see the clause below (Cookies).
+10.
+==========
+Security
+10.1.
+Data security is of great importance to us, and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected via the Website.
+10.2.
+==========
+If password access is required for certain parts of the Website, you are responsible for keeping this password confidential.
+Never disclose this to any third party, including Bidstack employees or members.
+We will never ask you for your password.
+10.3.
+==========
+We endeavour to do our best to protect your personal Data.
+However, transmission of information over the internet is not entirely secure and is done at your own risk.
+10.4 We cannot ensure the security of your Data transmitted to the Website.
+11.
+==========
+Cookies
+11.1.
+The Website may place and access certain cookies on your computer.
+We use cookies to improve your experience of using the Website and to improve our range of services.
+We have carefully chosen these cookies and have taken steps to ensure that your privacy is protected and respected at all times.
+11.2.
+All Cookies used by the Website are used in accordance with current UK and EU Cookie Law.
+11.3.
+For further information about our use of cookies, please see the separate ‘Cookie Policy’.
+12.
+==========
+General
+12.1.
+You may not transfer any of your rights under this Privacy Policy to any other person.
+We may transfer our rights under this Privacy Policy where we reasonably believe your rights will not be affected.
+12.2.
+If any court or competent authority finds that any provision of this Privacy Policy (or part of any provision) is invalid, illegal or unenforceable, that provision or part- provision will, to the extent required, be deemed to be deleted, and the validity and enforceability of the other provisions of this privacy policy will not be affected.
+12.3.
+Unless otherwise agreed, no delay, act or omission by a party in exercising any right or remedy will be deemed a waiver of that, or any other, right or remedy.
+12.4.
+==========
+This Privacy Policy is governed by and interpreted according to English law.
+All disputes arising under this privacy policy are subject to the exclusive jurisdiction of the English courts.
+13.
+==========
+Changes to this Privacy Policy
+13.1.
+We reserve the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law.
+==========
+The most current and available version of this Policy will determine the order and procedure of your information usage and will always be reflected on our Privacy Policy page.
+Please endeavour to review this Privacy Policy periodically.
+13.2.
+==========
+This Policy version can be changed or modified by Bidstack at any time, without providing a personal notice.
+you are responsible for reviewing the terms of this Policy from time to time to ensure you agree with it and any applicable changes.
+Your continued use of this Website will constitute your acceptance of any such modification.
+==========

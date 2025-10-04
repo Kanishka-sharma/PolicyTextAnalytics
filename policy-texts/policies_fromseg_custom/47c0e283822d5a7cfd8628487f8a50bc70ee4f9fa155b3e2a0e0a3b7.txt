@@ -1,0 +1,74 @@
+Welcome To All About Cookies.org
+What are cookies in computers?
+Also known as browser cookies or tracking cookies, cookies are small, often encrypted text files, located in browser directories.
+==========
+They are used by web developers to help users navigate their websites efficiently and perform certain functions.
+Due to their core role of enhancing/enabling usability or site processes, disabling cookies may prevent users from using certain websites.
+==========
+Cookies are created when a user's browser loads a particular website.
+The website sends information to the browser which then creates a text file.
+Every time the user goes back to the same website, the browser retrieves and sends this file to the website's server.
+Computer Cookies are created not just by the website the user is browsing but also by other websites that run ads, widgets, or other elements on the page being loaded.
+These cookies regulate how the ads appear or how the widgets and other elements function on the page.For Managing cookies for different browsers see here
+Standard uses for browser cookies
+Website servers set cookies to help authenticate the user if the user logs in to a secure area of the website.
+Login information is stored in a cookie so the user can enter and leave the website without having to re-enter the same authentication information over and over.More information
+Session Cookies are also used by the server to store information about user page activities so users can easily pick up where they left off on the server's pages.
+By default, web pages really don't have any 'memory'.
+==========
+Cookies tell the server what pages to show the user so the user doesn't have to remember or start navigating the site all over again.
+Cookies act as a sort of “bookmark” within the site.
+Similarly, cookies can store ordering information needed to make shopping carts work instead of forcing the user to remember all the items the user put in the shopping cart.
+Persistent or tracking Cookies are also employed to store user preferences.
+==========
+Many websites allow the user to customize how information is presented through site layouts or themes.
+These changes make the site easier to navigate and/or lets user leave a part of the user's “personality” at the site.
+For Information on session and persistent and tracking cookies, see here 
+
+Cookie security and privacy issues
+Cookies are NOT viruses.
+Cookies use a plain text format.
+==========
+They are not compiled pieces of code so they cannot be executed nor are they self-executing.
+Accordingly, they cannot make copies of themselves and spread to other networks to execute and replicate again.
+==========
+Since they cannot perform these functions, they fall outside the standard virus definition.
+Cookies CAN be used for malicious purposes though.
+Since they store information about a user's browsing preferences and history, both on a specific site and browsing among several sites, cookies can be used to act as a form of spyware.
+Many anti-spyware products are well aware of this problem and routinely flag cookies as candidates for deletion after standard virus and/or spyware scans.
+==========
+The way responsible and ethical web developers deal with privacy issues caused by cookie tracking is by including clear descriptions of how cookies are deployed on their site.
+These privacy policies explain what kind of information is collected and how the information is used.
+==========
+Organizations using the cookies initiative started by IAB Europe include: Runescape.com : Cocosa: Networkadvertising.org : and Complex.com
+Most browsers have built in privacy settings that provide differing levels of cookie acceptance, expiration time, and disposal after a user has visited a particular site.
+Other cookie-based threats
+Since cookies are transmitted back and forth between a browser and website, if an attacker or unauthorized person gets in between the data transmission, the sensitive cookie information can be intercepted.
+Although relatively rare, this can happen if the browser is connecting to the server using an unencrypted network like an non-secured WiFi channel.
+Other cookie-based attacks involve exploiting faulty cookie-setting systems on servers.
+==========
+If a website doesn't require browsers to use encrypted channels only, attackers can use this vulnerability to trick browsers into sending sensitive information over insecure channels.
+The attackers then siphon off the sensitive data for unauthorized access purposes.
+==========
+Key tips for safe and responsible cookie-based Web browsing
+Due to their flexibility and the fact that many of the largest and most-visited websites use cookies by default, cookies are almost unavoidable.
+Disabling cookies will lock a user out of many of the most widely-used sites on the Internet like Youtube, Gmail, Yahoo mail, and others.
+==========
+Even search settings require cookies for language settings.
+Here are some tips you can use to ensure worry-free cookie-based browsing:
+Customize your browser's cookie settings to reflect your comfort level with cookie security.
+==========
+If you are very comfortable with cookies and you are the only person using your computer, you may want to set long expiration time frames for storing your personal access information and browsing history.
+If you share access on your computer, you may want to set your browser to clear private browsing data every time you close your browser.
+While not as secure as rejecting cookies outright, this option lets you access cookie-based websites while deleting any sensitive information after your browsing session.
+==========
+Install and keep antispyware applications updated
+Many spyware detection and cleanup applications include attack site detection.
+They block your browser from accessing websites designed to exploit browser vulnerabilities or download malicious software.
+Make sure your browser is updated
+If you haven't already, set your browser to update automatically.
+This eliminates security vulnerabilities caused by outdated browsers.
+Many cookie-based exploits are based on exploiting older browsers' security shortcomings.
+Cookies are everywhere and can't really be avoided if you wish to enjoy the biggest and best websites out there.
+With a clear understanding of how they operate and how they help your browsing experience, you can take the necessary security measures to ensure that you browse the Net confidently.
+==========

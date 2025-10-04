@@ -1,0 +1,167 @@
+Who we are
+Our website address is: https://kubient.com
+This privacy policy (“Privacy Policy”) explains the data practices of Kubient, Inc. (“Kubient”,“us”, or “we”).
+As a general description of our services, Kubient is a hosted advertising management platform that provides targeted advertisement insertion and scheduling, campaign management and reporting on a real-time basis primarily used in the monetization of online video content.
+Part I of this Privacy Policy describes our data practices with respect to the information we collect about our customers and other visitors to the Website (“Customers”), while Part II describes our data practices with respect to information collected by our Customers using Kubient’s ad serving services.
+The general provisions in Part III apply to our data practices in both Part I and Part II.
+Kubient implements and adheres to the specifications and policies of the IAB EU Transparency & Consent Framework as part of our compliance with EU data protection law or TCF Vendor ID is 794.
+See http://advertisingconsent.eu for more information.
+Kubient is a member of the BVDW identification number 3746.
+==========
+See http://bvdw.org for more information.
+As used in this Privacy Policy, “Personal Information” means information about you that is personally identifiable to you, such as your name, address, email address, phone numbers, or credit card number, as well as other non-public information that is associated with the foregoing.
+“Anonymous Information” means information that cannot identify a particular person.
+==========
+Kubient respects your privacy.
+As used in this Privacy Policy, “Affiliates” means parties engaged with Kubient for the purpose of initiating, augmenting, facilitating, or completing a digital advertising transaction.
+As used in this Privacy Policy, “Digital Properties” means a website, mobile application, or any other digital entity used or created for the purpose of presenting content to specific users or the public.
+Digital Properties also covers any current or future internet connected device which allows for the sale of digital advertising space.
+==========
+Part I
+Customer-Provided Information
+This Part I describes Kubient’s collection and use of Personal Information and Anonymous Information that we collect when you or your representative use our Services.
+By visiting the Kubient or Kubient website, located at http://www.kubient.com or http://www.kubient.com (the “Website”), and/or using our service (the Website and services we offer are collectively referred to as the “Services”), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+As used in this Part I, “you” and “your” refer to the employees or contractors of Kubient’s Customers.
+Collection of Customer-Provided Information
+The individuals who represent Kubient’s Customers or potential Customers (“Business Contacts”) may voluntarily provide their contact information and related data, including Personal Information, to Kubient by various means, including telephone, email, postal mail, the “Contact Us” button, or other means.
+The Personal Information submitted to Kubient is used to communicate with and provide services for Customers.
+Kubient corrects or updates Personal Information when requested to do so by the applicable Business Contact.
+When a Business Contact accesses reports through Kubient’s servers, or otherwise uses the Kubient platform, certain information may also be collected passively, including your Internet protocol (IP) address, browser type, and operating system.
+Kubient also stores a small text file called a cookie (“Cookie”) on your computer.
+Each Cookie has a unique identifier (“Cookie ID”) that enables us to recognize your login information and personalized settings.
+==========
+Kubient may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them).
+Kubient also uses Cookies, and other navigational data that is passively collected, to gather information about your visit to the Services and the information which you searched and viewed on the Services.
+Most browsers are initially set up to accept Cookies, but you may reset your browser to refuse all Cookies or to indicate when a Cookie is being sent.
+However, some features of the Services may not function properly if your Cookies are disabled.
+==========
+We may receive Personal Information about you from other sources like telephone or fax, or from third parties that provide services for us in connection with the Services.
+We may add this information to the information we have already collected from you via our Services.
+Use of Customer-Provided Information
+In general, Personal Information you submit to us is used by us either to register you for our Services, respond to requests that you make, communicate with the Customer for whom you work regarding the Services (including for invoicing purposes), to improve our Services and to better tailor the features, performance and support of the Services, and to offer you additional information, opportunities, and functionality.
+==========
+If you provide feedback to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information.
+We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy.
+We may provide Personal Information to third parties to the extent such third-parties provide operational assistance (i.e., outsourced or third-party services) to Kubient and then only for that purpose.
+Examples of such third-party services include sending email, providing marketing assistance, processing credit card payments, and providing customer service.
+==========
+However, these service providers do not have any independent right to share this information (except pursuant to a legal requirement such as a subpoena or warrant).
+Kubient may share some or all of your Personal Information with current or future Affiliates, in which case we will require our Affiliates to honor this Privacy Policy.
+Kubient may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you.
+We may use this Anonymous Information to analyze usage patterns so that we may enhance our Services.
+We reserve the right to use and disclose Anonymous Information to third parties in our discretion.
+This Anonymous Information may include, but is not limited to, browser type, URLs visited, and search terms entered.
+==========
+Part II
+Ad-Serving Information
+Part II describes Kubient’s use of Personal Information and Anonymous Information that we collect in connection with Kubient’s advertisement serving technology.
+As used in this Part II, “you” and “your” refer to individuals who visit Digital Properties that use Kubient’s advertisement serving technology.
+The collection, use and disclosure of information by Digital Properties is governed by the privacy policies and practices of the Digital Properties and their operators; Kubient does not control such policies and practices.
+==========
+What is Ad Serving?
+In order to support valuable content without charging visitors, Digital Properties sell advertising space on their Digital Properties.
+Companies like Kubient provide ads to these Digital Properties and provide technology for publishers and advertisers to display or to stream ads.
+When you visit a Digital Property, your internet browser or device transmits a “request” to that Digital Properties’ server “asking” that server to send you the content from the Digital Property that you are seeking.
+==========
+Most Digital Properties contain components that are pulled from different sources, for example, a Web page at a news site may get its weather section from one provider, its sports results from a different source, and advertisements from other servers.
+If the Digital Property is using Kubient’s technology to display ads on its Digital Property, the Digital Property will contain coding that directs your browser or device to fill the ad space on the Digital Property with content from one of Kubient’s ad servers.
+Kubient’s platform for delivering ads enables advertisers to target their campaigns against particular contextual, geographic, interest or demographic criteria associated with the Digital Property, browser, or device, and bid an amount they are willing to pay for this targeted impression.
+Each time a Digital Property queries our platform for an advertisement, Kubient serves the most valuable advertisement to the publisher’s ad slot.
+Please note that Kubient does not control the privacy policies of the Digital Properties, publishers and advertisers who use our services.
+Collection and Use of Ad-Serving Information
+Each Digital Property includes ad serving code on its Digital Property that enables Kubient to serve ads on the Digital Property and to place Kubient Cookies.
+==========
+Kubient Cookies are used to help manage ad delivery and frequency, and to identify audience segment(s) for customized advertising.
+Kubient does not collect or store any personal identification or sensitive information, such as your name, address, phone number, address, financial account information, social security numbers, or health information.
+The ads served may include instrumentation tags that enable Kubient to collect information about a person’s interaction with the ad for use in billing and analytical purposes.
+Each time one of Kubient’s servers receives a request for an advertisement, Anonymous Information about the request is recorded for example, the date and time, the geographic location of the browser (based on IP address), the website and page to which the ad or image was delivered, any associated search terms, the Kubient Cookie ID, and the browser operating system.
+This information is used for reporting, analytical, modeling and targeting purposes, and also to better manage ad campaigns and the user experience, for example, to manage the number of times a particular user is exposed to the same advertisement.
+==========
+Kubient may also make requests to multiple third-party data vendors for additional anonymous user audience information that is used for targeting, analytic and reporting purposes.
+No Personal Information is ever shared by Kubient with its third-party data vendors, although the third-party data vendors may provide Kubient with Anonymous Information that can be merged with existing Anonymous Information.
+Kubient only works with third-party data vendors who are members of the Network Advertising Initiative (NAI) which sets the industry’s standards for online privacy accountability.
+Opting Out of Kubient Cookies and Limit Tracking
+Each Digital Property is required to post a privacy statement on the website that describes Kubient’s collection and use of information through that website.
+Most major third-party online advertising companies have agreed to provide an opt-out mechanism for their ad cookies.
+==========
+If you select the opt-out Cookie, ads delivered to your browser or device on behalf of clients using our ad-serving technology will be targeted based only on the information that is automatically transmitted in the Internet environment when an ad request is received by our ad servers (including, your browser type, Internet service provider, information about the general content of the site or page displayed on your browser and other non-personally identifiable information provided by the site).
+Note that: if you erase or otherwise alter your browser’s Cookie file you may need to opt-out again; an opt-out applies only to a specific user of a specific computer, i.e., opting-out at work will not apply to your home computer; and opting-out of our Cookies does not mean that you will stop seeing ads, only that the ads may be less relevant to you.
+==========
+Limit Tracking on Apple Devices
+Your right as a consumer allows you to limit tracking on your devices through the resetting of your advertising device id (https://support.apple.com/en-us/HT205223), for Apple devices please follow the instructions found here: https://support.apple.com/en-us/HT202074.
+Please note resetting your id and opting out of tracking on your device affects all potential advertising systems and not just Kubient.
+Limit Tracking on Google Devices/Accounts
+Your right as a consumer allows you to limit tracking on your devices through the resetting of your advertising device id, for Google devices and accounts please follow the instructions found here: https://support.google.com/ads/answer/2662922?hl=en.
+Please note resetting your id and opting out of tracking on your device affects all potential advertising systems and not just Kubient.
+==========
+Part III
+General Provisions
+As used in this Part III, “you” and “your” refer to both Kubient’s Customers and individuals who visit Digital Properties using Kubient’s advertisement serving technology.
+European Union Controller/Processor Designation And Legal Bases
+If you are based in the European Economic Area (EEA) or Switzerland, Kubient, Inc.’s European Data Centers based in the EEA (Netherlands) are responsible for processing your personal information.
+Under the definitions of “Controller” and “Processor” in EU law, this processing is in some cases as a Controller of data and in some cases as a Processor.
+Kubient, Inc is a Controller, for example, of personalized user interest segments that we create for our Platform, when we have appropriate permissions to do so.
+When we collect data for personalization from requests for ads that we receive as described above, under EU law, we will use consent as our legal basis for doing so.
+We process data for other purposes when we have a legitimate interest in doing so and that interest is not outweighed by the rights or freedoms of individual data subjects.
+International Data Transfer
+We do not transfer data from the EEA or Switzerland to the US.
+All data collected in the EEA or Switzerland is stored and accessed by our Data Centers in the EEA or Switzerland region.
+Data Retention
+We retain the pseudonymous data collected on our Platform for up to 18 months.
+After 18 months (often sooner) the data is de-identified or aggregated and stored for up to 3 additional years.
+This retention policy does not apply to client or partner data.
+==========
+Security and Confidentiality
+Kubient has put in place commercially reasonable physical, electronic, and organizational procedures to safeguard and secure the information we collect online.
+However, no company, including Kubient, can fully eliminate security risks associated with Personal Information.
+==========
+We may disclose Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; or (b) to protect and defend the rights or property of us, the visitors and users of our Services, or third parties.
+Your Rights
+You may have certain legal rights with respect to data Kubient collects and processes in association with your device or browser.
+These rights may include the right of access, deletion and correction of personal data.
+These rights may be limited, for example if fulfilling your request would reveal personal data about another person, if they would infringe the rights of a third party (including our rights) or if you ask us to delete information which we are required by law to keep or have compelling legitimate interests in keeping.
+We will inform you of any relevant exemptions we rely upon when responding to any request you make.
+We may take reasonable steps to confirm your identity.
+You will not be discriminated against for the exercise of such rights (for example, we will not provide you with a different level or quality of goods or services).
+==========
+For further information relevant to California residents, please see below.
+Successors
+In the event Kubient goes through a business transition such as a merger, acquisition or sale of all or a portion of its assets, Personal Information will likely be among the assets transferred or assigned.
+You acknowledge that such transfers or assignments may occur and that any acquirer of Kubient, or of all or a portion of its assets, may continue to use your Personal Information as set forth in this Privacy Policy.
+You hereby consent to Kubient sharing your Personal Information under the above circumstances.
+==========
+Changes in this Privacy Statement
+We reserve the right to modify this Privacy Policy at any time.
+If we make material changes to it we will post those changes to this Privacy Policy, the Website, and other places we deem appropriate so that you are aware of what Personal Information we collect, how we use it, and under what circumstances, if any, we disclose it.
+Questions
+If you have any questions or suggestions regarding this Privacy Policy, please contact us via our preferred contact method as detailed on our website.
+This Privacy Policy was last updated in July 2020.
+==========
+Opt-Out of Kubient Ad-Serving Cookie
+Kubient helps you protect your privacy online.
+You can choose to opt-out of the Kubient behavioral targeting network by using the “cookie settings” button found below:
+CALIFORNIA PRIVACY DISCLOSURES
+The California Consumer Privacy Act (“CCPA”) applies to the collection, use, and disclosure of “personal information” of California “consumers” (as those terms are defined in CCPA).
+This document provides additional privacy disclosures for California consumers.
+Right to Request Access or Deletion
+If you are a California consumer, you may have the right to request that we disclose what information we collect, use, disclose or sell about you, to access the specific pieces of information we hold about you, and/or request the deletion of any of your personal information we collect or maintain, subject to certain exceptions.
+To make a verifiable request for information or deletion, please email privacy ((at)) kubient ((dot)) com.
+You may also designate an authorized agent to make such requests on your behalf, as permitted under CCPA.
+If you do so, we will require the agent to provide proof that they are acting on your behalf, and we may ask you to verify your identity and to confirm that you provided the agent with permission to submit the request on your behalf.
+The data in our Platform is pseudonymous data tied to device or cookie identifiers.
+We do not hold any information that identifies you personally, such as your name or email address.
+If you are a California consumer seeking to request deletion or access of data, we will require you to provide evidence that the pseudonymous data relates to you (and only to you), and may deny your request if you cannot provide such information.
+==========
+You will not be discriminated against for the exercise of such rights.
+Please note that if you wish to exercise any of your rights with Kubient’s clients or partners, you must make your request directly with those clients and partners.
+==========
+Additional Disclosures
+As some of the data processed on the Platform may be considered “personal information” under CCPA, we are required to make certain disclosures to California consumers.
+These disclosures (and the appropriate sections of our Services Privacy Policy where such information may be obtained) include: (i) the categories of personal information we have collected about consumers in the previous twelve (12) months; (ii) the categories of sources from which the personal information is collected; (iii) the business or commercial purpose for collecting or selling personal information; and (iv) the categories of personal information, if any, that we have disclosed for a business purpose or sold to third parties in the preceding twelve (12) months and, for each of these categories of personal information, the categories of third parties to whom the information was disclosed or sold.
+Do Not Sell My Personal Information.
+==========
+Under CCPA, California consumers have the right to opt-out of the sale of their personal information.
+We do not believe that any of the services we provide on our Platform constitutes a sale, but some of our clients and partners use our Platform for interest-based advertising, which may constitute a sale of personal information under CCPA.
+Kubient does not have actual knowledge that we sell personal information of minors under the age of sixteen (16).
+UA-164799331-2UA-164799331-2UA-164799331-2
+==========

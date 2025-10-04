@@ -1,0 +1,140 @@
+This page sets out the cookies used on our site and how to opt out of or reject cookies.
+For our general privacy policy click here.
+Cookies we set on our site
+lpCookie.
+==========
+This is used to ensure that sign-in and sign-out works across the various applications that make up www.lonelyplanet.com (eg: Groups, Thorn tree forum, Destinations).
+For example, if you have signed-in and move from Groups to the Thorn tree forum, you do not need to sign-in again.
+Similarly, once you have signed out, you have signed out of all sections of the site.
+lpmaps.
+==========
+Many of the Destinations pages include the option to open and view a large map of the destination.
+This cookie is used to register that a user has opened a map within Destinations and enables us to ensure that maps remain open and visible on other Destinations pages as you move through the site.
+groups_session.
+==========
+This cookie stores the username within the Groups application.
+This means that if you leave Groups to visit another part of the site (eg: Hotels & Hostels), and then return to Groups you do not need to log-in again.
+jive.vid.
+==========
+This cookie is given to anonymous users when they enter the Thorn tree forum.
+This is used for statistical purposes so one anonymous user can be distinguished from another.
+JSESSIONID.
+This cookie enables the Lonely Planet web server to know your log-in status.
+Shop Cookies.
+The online shop requires the use of cookies to make the purchase process as easy as possible.
+This includes using cookies to enable the site to remember what items are in your ‘shopping basket’ as you move around the site, as well as remembering what currency you wish to view products in.
+==========
+These cookies are deleted when you close the browser.
+These cookies include: bmJava, bmClrDpt, ODLPSID, cookieID, ARPT, bmScrRes, and bmTzOff
+Hotels Cookies.
+Lonely Planet Hotels & Hostels requires the use of cookies to ensure booking a property is as easy as possible.
+This includes using cookies to remember the check-in and check-out dates that you are searching (so you do not have to enter this in each time you search for properties) as well as well as remembering what currency you wish to view rates in.
+==========
+These cookies include: CustomerSiteId, SiteId, and ASP.NET_SessionId
+Cookies set on our site by our commercial service providers
+We use a range of third party services on our site - from statistics packages to advertising, video delivery, content delivery and even low level techie functions like load balancing our servers so that they are always available when you want to use them.
+Some of these services require the use of cookies to work properly.
+These services include:
+Statistics
+Omniture
+Omniture (Omniture SiteCatalyst) provides anonymous statistical information for us.
+==========
+They process IP addresses and information from other cookies used on our sites so we know how many page views we have, how many users we have, what browsers they are using (so we can target our resources in the right way to maximise compatibility for the majority of our users) and, in some cases, in which country, city or region they are located.
+Specifically, SiteCatalyst uses three cookies per site tracked to accomplish this task.
+Each cookie starts with a similar name, but has a unique ID assigned to it for each site tracked:
+s_cc - This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+s_sq - This cookie is set and read by the JavaScript code when the ClickMap functionality is enabled; it contains information about the previous link that was clicked on by the user.
+==========
+s_vi [ID} - Unique visitor ID time/date stamp
+Google
+Lonely Planet advertises www.lonelyplanet.com using Google Adwords.
+A Google cookie is used to enable us to monitor the effectiveness of this advertising by seeing the amount of traffic and conversions (e.g. shop purchases) this advertising generates.
+These cookies expire after 30 days.
+==========
+Advertising
+Travel Ad Network and its third party ad-serving technology provider Atlas (a Microsoft Corporation Subsidiary) monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website.
+Where authorised by Lonely Planet, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors.
+No personally identifiable information is collected or transferred to any party.
+.
+==========
+For more information about how information is collected and used by Travel Ad Network, please see Travel Ad Network's privacy policy at http://www.traveladnetwork.com/content/view/56/79.
+DoubleClick is a service provider that we use to insert our advertisers' ads into our sites for us.
+Their cookies help them to make the ads more relevant to you (eg if you use our sites from outside Australia, you may get ads from your local country, not from Australia).
+If you would like more information about the cookies used by DoubleClick, please see their privacy policy http://www.doubleclick.com/privacy/index.aspx
+Server Functions
+Because of the scale and size of our website, we have to use more than one computer to serve pages to all our users.
+==========
+Otherwise everyone would have to get a coffee between page loads... We use various pieces of equipment and services for this.
+For example, Akamai's service allows us to cache (i.e. keep a copy of) files (images, movies, scripts and the like) at a location near you.
+This means that rather than every user, worldwide, having to download the entire www.lonelyplanet.com homepage from our server in Australia, some of the files which make up the site - usually ones which don't change so often - are held for us on Akamai's servers.
+Akamai's cookies allow them to redirect the user - transparently and automatically - to the closest and fastest server for them without Akamai's system having to spend time working this out for itself.
+==========
+Other
+Facebook
+Via Facebook Connect you can sign-in to Lonely Planet using your Facebook log-in.
+A Facebook cookie (fbsetting_(ID) is used to remember your Facebook log-in so you do not need to enter these details each time you log-in.
+Turning off or opting-out of cookies
+You can learn about and opt out of a number of commercial third party cookies (including some used by Lonely Planet) at www.networkadvertising.org/managing/opt_out.asp.
+Some of the opt-outs used by our commercial service providers require a cookie to be placed on your PC which is only used to tell the relevant cookie servers not to send you any further cookies.
+This can be quite handy, but note that if you routinely delete cookies from your temporary internet files, it may be necessary for you to repeat the opt-out process, the next time you visit our website.
+To opt-out of Travel Ad Network cookies, go to http://www.traveladnetwork.com/content/view/56/79.
+To opt-out of Atlas (Microsoft Advertising), go to http://www.atlassolutions.com/optout.aspx.
+==========
+Setting up your browser to reject cookies:
+You can adjust your browser settings to reject cookies (for mobile phones you will have to refer to your handset manufacturer's help manual) using one of the following procedures (depending on your website browser):
+If you're using Internet Explorer 6.0 or 7.0:
+Choose Tools, then
+Internet Options
+Click the Privacy tab
+Click on Custom Level
+Click on the 'Advanced' button
+Check the 'override automatic cookie handing' box and select Accept, Block or Prompt for action as appropriate.
+If you're using Firefox 2.0:
+Choose Tools, then
+Options
+Click the Privacy icon
+If you're using Firefox 1.0 or 1.5:
+Choose Tools, then
+Options
+Click the Privacy icon
+Click the Cookies tab
+If you're using Opera 8.0 or 9.0:
+Choose Tools, then
+Preferences
+Advanced
+Cookies
+If you're using Opera 7.0:
+Choose File, then
+Preferences
+Privacy
+If you're using Netscape 6.0:
+Choose Edit, then
+Preferences
+Click on Advanced
+Click on Cookies
+If you're using Internet Explorer 5.0 or 5.5:
+Choose Tools, then
+Internet Options
+Click the Security tab
+Click on Custom Level
+Scroll down to the sixth option to see how cookies are handled by IE5 and change to Accept, Disable, or Prompt for action as appropriate.
+If you're using Internet Explorer 4.0:
+Choose View, then
+Internet Options
+Click the Advanced tab
+Scroll down to the yellow exclamation icon under Security and choose one of the three options to regulate your use of cookies.
+If you're using Internet Explorer 3.0:
+Choose View, then
+Options
+Click on Advanced
+Click on the button that says Warn before Accepting Cookies.
+If you're using Netscape Communicator 4.0:
+Choose Edit, then
+Preferences
+Click on Advanced
+Set your options in the box that says Cookies.
+To see your cookie code, just click on a cookie to open it.
+You'll see a short string of text and numbers.
+The numbers are your identification card, which can only be seen by the server that gave you the cookie.Further information
+Additional information regarding cookies and opting-out is available at www.youronlinechoices.co.uk and www.allaboutcookies.org.
+==========

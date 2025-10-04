@@ -1,0 +1,423 @@
+This privacy policy was last revised on March 17, 2021.
+Viant Technology LLC is a digital media company comprised of a family of companies that includes Viant US LLC and Adelphic LLC (“Adelphic”), (collectively, “Viant,” “we,” or “us”).
+Viant is the owner of a cloud-based advertising platform and provides services to publishers, advertisers and other companies (our “Clients”) that allow them to plan and execute interest-based digital media campaigns and measure the performance of those campaigns (the “Viant Services”).
+1.
+==========
+Scope
+This Privacy Policy (“Policy”) describes how we collect, use and otherwise process personal information (sometimes referred to as “data”) about visitors of our websites (the “Sites”) and from other sources that we make available to our Clients through the Viant Services (collectively, the Sites and Viant Services are the “Services”).
+This Policy does not apply to information we collect and process through Myspace LLC.
+The privacy policy and privacy notice for Myspace are located here and here.
+Please note that our business is generally not targeted at consumers but other businesses (i.e., our Clients) and when we act as a service provider on behalf of our Clients, we collect, use, and disclose the relevant personal information only under the business’ instruction, and their privacy policy will apply to how they (and we on their behalf) process personal information
+Please read this entire Policy carefully.
+This Policy contains links that you can click on to get further information or exercise the options you have about your information.
+To make this Policy more reader-friendly, we use everyday words such as use, transfer and storage to describe what we do with your personal information – but this Policy covers all our data processing activities.
+By partnering with us as Client or visiting the Site and/or otherwise using the Viant Services or Services, you agree to the terms of this Policy.
+Some of the key topics you may be interested in include:
+Information we collect
+How we use information
+How we share, and disclose information
+EEA Data Subject Rights
+Children’s information
+How we secure your information
+How long we keep your information
+Cross-border transfers of information
+This policy may change
+Contact information
+Additional privacy rights for California residents
+2.
+==========
+Information We Collect
+We generally collect online and offline information about consumers’ interests and habits through web tracking technologies in both desktop and mobile environments, from connected television (“CTV”) devices, and from our other business partners like media publishers, data providers, supply side technology platforms and ad exchanges, and mobile app attribution companies (our “Ad Partners”).
+We also collect information about you from our affiliate company’s Myspace platform.
+==========
+We use that information to create audience segments that we make available to our Clients to enable them to deliver targeted, interest-based advertising and to conduct analytics and research.
+The Viant Services deliver the targeted advertising messages to consumers (the “Users”) on computers, mobile phones, tablets, CTVs and similar devices and enable us to report back to our Clients about the effectiveness of their advertising campaigns.
+==========
+A. Personal information we collect directly from you
+Viant generally does not collect personal information regarding individual Users through the Viant Services.
+However, we may collect certain personal information via the Sites about you, for example if you contact us, such as by submitting a question, downloading a whitepaper or registering to use the Viant Services.
+However, in most cases, if and/or when we obtain personal information, it relates to our current or prospective clients and business partners.
+To the extent we receive personal information through our Services, we use personal information only in ways compatible with the purposes set out in this Policy, such as to respond to email communications or questions, improve our products and services, develop new products, services, and features, to provide you with promotional content and newsletters, to facilitate registration for and delivery of the Viant Services, or for billing purposes.
+By voluntarily providing us with personal information, you are consenting to our use of it in accordance with this Policy.
+==========
+B. Information We Collect Automatically
+The Viant Services collect information about your device and the ads that we deliver onto your device.
+As you browse the Internet, use a mobile device or CTV, you may visit web pages, mobile applications, CTV channels or applications, or other online media that make use of the Viant Services.
+When this happens, your browser, device, or CTV may request advertisements from the Viant system, and Viant may collect data about this interaction, as well as about any further interaction you have with the advertisements provided by our Services and the pages or media on which such Services are utilized, such as impressions, clicks, mouse movements, viewing duration, IP address, date and time of interaction, information about the general geographical location from which you are viewing an advertisement, device type, and other Non-PII made available by the browser or device.
+==========
+In addition, if data being collected is from a mobile device, Viant may also collect the mobile advertising ID of the device (e.g. IDFA and Google AdID), and if data being collected is from a CTV, Viant may also collect the advertising identifiers made available by the CTV.
+Viant may also receive personal data from third parties that enables advertisement optimization, independent of or in combination with the data collected by Viant, such as audience interest segments and product categories.
+We may also obtain the precise geolocation (e.g., latitude and longitude coordinates) (“Precise Location Information” or “PLI”) of your device and may use that information to assist our Clients with targeting ads tailored to your interests.
+We do not use your PLI unless our Clients and data providers have provided us with reasonable written assurances that they have provided you with sufficient notice and received your opt-in consent to use PLI for these purposes.
+==========
+We also combine the information collected across multiple sites, devices, and mobile apps to create interest segments that help us target future advertisements based upon those inferred interests.
+We do so by establishing connections between a user’s devices and to provide interest-based advertising across devices.
+Cross-device connections allow Viant to understand that a single user is accessing advertisements served or measured by Viant from multiple devices and to synchronize or target advertising messages and/or measure the performance of advertisements across those devices.
+==========
+If you would like more information about this practice and to know your choices with respect to it, please: (1) visit the NAI Choices page located at http://www.networkadvertising.org/choices/ to learn how to opt out of having your information collected in browsers for ad serving purposes; and (2) download the AppChoices application, available for iOS and Android (see http://www.aboutads.info/appchoices), or visit the NAI’s Mobile Choices page located at http://www.networkadvertising.org/mobile-choice, to learn how to opt out of having your information collected in mobile apps.
+Because web browsers and mobile apps have different identifiers; you will need to opt-out of each environment separately.
+==========
+Finally, we use Google services and other third-party services while serving you behavioral advertisements and when retargeting you with advertisements for the same product across different websites or applications.
+More information on Google’s advertising cookies may be found at https://policies.google.com/technologies/partner-sites.
+==========
+We use the information we collect as part of the Viant Services to perform a variety of tasks, such as limiting the number of times a specific advertisement is presented to the same User (frequency capping), providing an advertisement to only certain types of Users, or providing a report to a client on the number of its advertisements that were clicked.
+We share this information with Clients, Ad Partners, vendors, and other companies that we conduct business with as permitted by law.
+==========
+Viant US LLC andand Adelphic LLC are members of the Digital Advertising Alliance (DAA) and adhere to the DAA’s Self-Regulatory Program for Online Behavioral Advertising by respecting the DAA’s consumer choice tool for you to opt out of interest-based advertising.
+The DAA tool is located at https://optout.aboutads.info.
+Viant US LLC (however, not Adelphic LLC) is also a member of Network Advertising Initiative (“NAI”), adheres to the NAI Code of Conduct, and respects NAI’s consumer choice tool for you to opt out of interest-based advertising.
+The NAI tool is located at https://optout.networkadvertising.org.
+==========
+These tools enable you to opt out from receiving interest-based advertising from many of our Clients and Ad Partners.
+We offer an “opt-out cookie” to block the placement of Viant’s behavioral advertising cookies on your system for five years from the time you opt out.
+When we detect our opt-out cookie on your browser, we do not serve you with interest-based advertising on the browser or device from which you have opted-out, or on the browsers or devices that we believe are linked to your opted-out browser or device.
+However, if you delete your cookies or begin using a new browser or device, you will need to opt out again.
+Browser settings that block all cookies may prevent the opt-out from operating correctly and certain privacy software may delete the opt-out cookie or cause it to function incorrectly.
+==========
+Furthermore, the opt-out cookie is not effective on devices that do not accept or otherwise support cookies, such as iOS based mobile devices, internet connected televisions and other non-cookie based connected devices and applications.
+You may install our opt-out cookie by clicking the button below:
+Opt-out for Mobile Applications
+To opt-out of interest-based advertising for the mobile applications on your current device, the method of opting out depends on the type of device you have.
+==========
+In some cases, for older devices, it may be necessary for you to provide your device ID to opt out
+Opting out on Apple iOS Devices: On iOS 6.0 and 7.0, you can select a setting that enables you to limit ad tracking.
+You can do this by clicking on Settings -> General -> About -> Advertising and setting the Limit Ad Tracking function to ‘ON’.
+Alternatively, you can go to Settings -> Privacy -> Advertising and set the “Limit Ad Tracking” function to ‘ON’.
+On iOS 7.0, go to Settings -> Privacy -> Advertising and set the “Limit Ad Tracking” function to ‘ON’.
+==========
+Opting out on Android Devices: In Android devices with Google Play Services 4.0 and higher, You can opt out of interest-based advertising services by opening the Google Settings App, then clicking on Ads (under “Services”) and turning on the “Opt out of interest-based ads” function.
+Please also visit the NAI’s Mobile Choices Page located at https://www.networkadvertising.org/mobile-choices for additional detailed instructions on how to use the advertising choice mechanisms for various devices
+Opting out for CTV: To opt-out of interest-based advertising for a CTV (i.e., smart televisions, and/or digital media streaming devices), visit the NAI Internet Connected TV Choices page, located at https://www.networkadvertising.org/internet-connected-tv-choices/, for detailed instructions on opting out on various TV streaming devices and smart TVs.
+When you opt-out of interest-based advertising through the Viant Services (as described above), we stop sharing your information with our Clients and Ad Partners.
+==========
+That does not mean you will no longer receive advertising on the internet.
+However, it does mean that the display advertising you see will not be behaviorally targeted by us to your interests or preferences, so long as the opt-out cookie remains in place.
+Further, except for the specific restrictions noted above, our opt-out cookies do not otherwise prevent us from continuing to collect, maintain or use information as described herein, including for non-personalized advertising purposes (such as ad delivery and reporting) on your opted-out browser or device or on linked browsers and devices.
+Cookies and other Web Technologies
+In operating the Viant Services and Site, we use a technology called “cookies,” which are small text files that our Site serves to your browser when you access the Site or that some of our Clients and Ad Partners serve to your browser when you engage with them.
+Our cookies, pixels, and other tracking mechanisms collect and store audience segments, help provide additional functionality to the Viant Services and Site and help us analyze usage more accurately.
+Although most web browsers automatically accept cookies, many browsers’ settings can be set to decline cookies or alert you when a website is attempting to place a cookie on your computer.
+==========
+However, some of our services may not function properly if you disable cookies.
+We do not currently support the Do Not Track browser option.
+==========
+We also use an advertising identifier created by your mobile operating system to store information on our servers and later retrieve it to provide the Viant Services.
+The Android Advertising ID and Apple iOS’ IDFA are examples of advertising identifiers.
+For more information about advertising identifiers, please check the settings of your mobile device.
+You can learn more about how we use cookies and similar technologies here.
+==========
+Log Data
+We receive information when you view content on or otherwise interact with our Services, which we refer to as “Log Data.”
+For example, when you visit our websites, sign into our Services, or interact with our email notifications, we may receive information about you.
+Log Data includes information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device information (including device and application IDs), search terms, and cookie information.
+We use Log Data to operate our Services and optimize the performance of our Services.
+==========
+C. Information We Collect about you from Our Clients, Affiliates and Ad Partners
+Our Clients, Ad Partners, and affiliates share information with us such as browser cookie IDs, mobile device IDs, IP address, device type, operating system, hashed email address, or hashed mobile ID (e.g., Apple IDFA or Android advertising ID), as well as location-based data such as Wi-Fi, cell tower, GPS or diagnostic location information, contextual information, and demographic information including age, gender and zip code.
+Information we obtain from these third parties (including our affiliates) about you may be appended to information that we otherwise have about you for the purposes of targeting advertisements.
+For example, we match hashed versions of mobile IDs to data that we have de-identified (made pseudonymous) about you that resides in our platform in order to target advertising to you based on your device activity, inferred interests and location information.
+==========
+We use your appended data to create interest-based segments, including non-sensitive health and financial related interest-based segments as part of our services, including general interest-based segments such as “Health::Medical Centers” and “Finance::Insurance,” and custom interest-based segments such as “Health::Dieting::Acai Berry” and “Health::Contact Lens.”
+You may click here for a list of our general health and financial related interest-based segments.
+We also use your appended data to create interest-based segments for political campaigns.
+We do not use interest-based segments to determine credit worthiness or for insurance underwriting or employment eligibility purposes.
+==========
+In the process of serving an advertisement to a device, we, or our partners, may decide to serve an ad based on one or more audience segments associated with that device, and the audience segment we believe may be associated with that device.
+Where Viant is able to use this and other information to infer that one browser or device likely belongs to the same User or household, the Viant Services may consider those browsers and devices “linked” for purposes of ad serving and interest-based advertising.
+This linking process is sometimes referred to as creating a device graph.
+As noted in Section 2(B) above, because web browsers and mobile apps have different identifiers, if you choose to opt out of receiving interest-based advertisements, you will need to opt-out of each environment separately.
+==========
+When you use third-party apps, websites or other products integrated with the Viant Services, they may collect information about your activities, subject to their own terms and privacy policies.
+Those companies’ use of cookies and other data collection technologies are subject to their own privacy policies, and the terms of this Policy do not apply.
+Like many companies, we may allow cookie matching with select Clients and Ad Partners, but those parties are not authorized to access Viant cookies.
+3.
+==========
+How We Use Your Information
+This section describes how we use personal information in connection with operating the Viant Services and our Site and Services.
+A. Providing the Viant Services
+As described above, Viant uses certain information we collect via the Viant Services and the information we combine it with from our Clients, affiliates and Ad Partners to create audience segments that are targeted to Users’ inferred interests.
+This information is typically associated with the advertising identifier referenced above and is used by us, our Clients and Ad Partners, including advertisers and publishers, to deliver targeted advertising.
+As described above, you can opt out of receiving targeted advertisements:
+From Viant US LLC and Adelphic LLC here,
+From Viant US LLC, Adelphic LLC, and many of our Clients and Ad Partners at https://optout.aboutads.info, and
+From Viant US LLC and other Ad Partners at https://optout.networkadvertising.org
+
+B. To Respond to Your Requests
+If you interact with us on our Site or request information from Viant, we use and/or share your information, including personal information, to respond to your inquiries.
+We may also use your personal information to send your updates about the Viant Services or changes to this Policy.
+==========
+C. Advertising and Marketing
+To send or display targeted advertising and marketing, remarketing, and to reach you with more relevant ads and to evaluate, measure and improve the effectiveness of our advertising campaigns.
+We may also send you newsletters, offers or other information we think may interest you or contact you about the Viant Services or Services and general information we think may interest you.
+We may also use your information to tailor the content we send or display on our websites.
+==========
+D. Securing and protecting our business
+We may use your personal information to secure and protect our business including to protect and secure our business operations, assets, Services, network and information and technology resources, or to investigate, prevent, detect and take action regarding fraud, unauthorized access, situations involving potential threats to the rights or safety of any person or third party, or other unauthorized activities or misconduct.
+E. Defending our legal rights
+To manage and respond to actual and potential legal disputes and claims, and to otherwise establish, defend or protect our rights or interests, including in the context of anticipated or actual litigation.
+==========
+F. Auditing, reporting, corporate governance, and internal operations
+For financial, tax and accounting audits, assessments of our operations, privacy, security and financial controls, risk, and compliance with legal obligations; our general business, accounting, record keeping and legal functions; to maintain appropriate business records.
+G. Complying with Law
+To comply with applicable legal or regulatory obligations, including as part of a judicial proceeding; to respond to a subpoena, warrant, court order, or other legal process; or as part of an investigation or request, whether formal or informal, from law enforcement or a governmental authority.
+4.
+==========
+How We Disclose Your Information
+A. Service Providers
+We share your data with our service providers, including our contractors and business partners, who we engage to help us provide and manage the Viant Services on our behalf, for example to ensure network and information security, provide a more personalized experience, and analyze usage of the Site and the Viant Services.
+For example, we use Google Analytics, Google Tag Manager, and Yahoo Analytics to help us understand your usage of our services, and partner with services, such as Aerospike to help us manage user data.
+Our service providers are located in the United States and other countries and we share your personal information with them subject to obligations consistent with this Policy, impose other appropriate confidentiality and security measures, and only share your information on the condition that these third parties use your personal information only on our behalf and pursuant to our instructions.
+==========
+B. Affiliates and Change of Ownership
+We share your information within our Viant group for uses consistent with this Policy, such as to help operate the Viant Services.
+We may share, disclose, or transfer your information if Viant is involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, as permitted by law and/or contract.
+C. Non-Personal Information
+We share your non-personal information, such as aggregated or de-identified information (in statistical or summary form that does not include any personal identifiers) with third parties in order operate and improve our service and conduct research about and analyze usage of the Viant Services.
+==========
+D. Securing and protecting our business
+We may use your personal information to secure and protect our business including to protect and secure our business operations, assets, Services, network and information and technology resources, or to investigate, prevent, detect and take action regarding fraud, unauthorized access, situations involving potential threats to the rights or safety of any person or third party, or other unauthorized activities or misconduct.
+E. To Protect our Legal Interests and Comply with Law
+Additionally, we will use your personal information for other purposes permitted under this Policy, such as to protect or comply with legal rights and obligations.
+There may be instances when we will use and/or disclose information we collect and receive where we have, in our discretion, a good faith belief that such use and/or disclosure is necessary in order to: (i) protect or defend our or your legal rights or property or those of our affiliates, employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of members of the public, including responding to emergencies where there appears to be a danger of death or injury to any person; (iii) comply with the law, law enforcement, or legal process or proceedings or requests from public or government authorities; (iv) prevent fraud or other liabilities.
+5.
+==========
+EEA Data Subject Rights
+Viant Technology LLC and Viant US LLC do not operate in the European Economic Area (“EEA”) or European Union (“EU”).
+This Section 4 only applies to the processing of personal information by Adelphic LLC.
+If you reside in the EEA, you have additional rights in relation to how your personal information is processed.
+==========
+You may object to our processing of your personal information, request that our processing be restricted, review or request changes to your personal information, or request that your personal information be deleted and we erase your data by contacting us at privacy@adelphic.com.
+You may also complain to a data protection authority about our collection and use of your information.
+For more information, please contact your local data protection authority.
+Contact details for data protection authorities in the European Union are available at ec.europa.eu.
+You may exercise any of these rights free of charge.
+6.
+==========
+Children’s Information
+We do not knowingly target advertisements to children under the age of 16.
+If you believe we have collected information about a child please contact us at privacy@viantinc.com to have the data associated with your child deleted.
+7.
+==========
+How We Secure Your Information
+Viant is committed to protecting the security of the information we collect.
+We use a variety of technical and organizational measures designed to protect information from unauthorized access, use or disclosure, both during transmission and once we receive it.
+We store your information on secure servers.
+However, no digital transmission or form of electronic storage is completely secure.
+Therefore, we cannot guarantee its absolute security.
+8.
+==========
+How Long We Keep Your Information
+We store personal information for so long as you continue to have a business relationship with Viant and for a reasonable time thereafter for record keeping purposes.
+Personal data, whether from desktop, mobile devices, mobile applications, CTVs or other media may be retained for up to 12 months.
+Personal data may be anonymized and used for reporting and analysis, and may be stored as long as necessary to fulfill a legitimate business need or as required by law.
+9.
+==========
+Cross-Border Transfer of Information and EEA Data Subject Rights
+Viant US LLC does not operated in the European Economic Area (“EEA”) or the United Kingdom (“UK”).
+This section only applies to the processing of personal information by Adelphic LLC.
+==========
+If you reside in the EEA or UK, we process your personal data under the legal basis of our legitimate interests to provide the Services to our Clients by serving you with contextual based advertising.
+This type of advertising is not based on your personal behavioral data.
+Because you are an EEA or UK resident, you have additional rights in relation to how your personal information is processed.
+==========
+You may object to our processing of your personal information, request that our processing be restricted, review or request changes to your personal information, or request that your personal information be deleted and we erase your data by contacting us at privacy@adelphic.com.
+You may also complain to a data protection authority about our collection and use of your information.
+For more information, please contact your local data protection authority.
+Contact details for data protection authorities in the European Union are available at ec.europa.eu.
+==========
+You may exercise any of these rights free of charge.
+Your privacy is important to us, so we will ask that you provide sufficient information to verify your identity before we respond to your requests.
+In some situations, we may refuse to act or impose limitations on your right if, for instance, it is likely to adversely affect the rights and freedoms of others, prejudice the execution or enforcement of the law, or interfere with pending or future litigation.
+For more information on your rights, please contact dpo@adelphic.com.
+==========
+For EEA and UK residents, please be aware that the laws of the USA and other countries outside of the EEA or UK may not protect your data to the same level as the laws of the EEA or UK, or give you the same rights that you would have in the EEA or UK (including right relating to access to personal data by law enforcement or national security/intelligence agencies).
+But when we transfer your personal data outside of the EEA or UK, if the receiving country’s data protection laws do not offer the same level of protection as the laws of the EEA or UK, we place contractual obligations (the EU Model Clauses) on the recipients of your personal data to ensure that your personal data is adequately protected.
+10.
+==========
+Additional Information for California Residents
+This section of the Privacy Policy provides additional information solely for California residents, as required under the California Consumer Privacy Act of 2018 (“CCPA”), and applies to personal information, whether collected online or offline.
+As used in this section of the Privacy Policy, “personal information” means any information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular California resident or household.
+Personal Information Not Covered by this California Section
+This section does not address or apply to our handling of publicly available information made lawfully available by state or federal governments or other personal information that is subject to an exemption under Section 1798.145(c) – (f) of the CCPA.
+This section also does not apply to personal information we collect about California job applicants, independent contractors, or current or former full-time, part-time and temporary employees and staff, officers, directors or owners of Viant, and use solely in that context.
+==========
+Categories of Personal Information that we Collect and Disclose
+Our collection, use, and disclosure of personal information about a California resident will vary depending upon the circumstances and nature of our interactions or relationship with such resident.
+The table below sets out generally the categories of personal information (as defined by the CCPA) about California residents that we collect and disclose to others for a business purpose.
+We collect these categories of personal information from the sources described in the “Information We Collect” section above, and for the purposes described in the “How We Use Your Information” section above.
+Categories of personal information collected (see below for more details) Do we collect?
+Do we disclose for business purposes?
+==========
+Name, contact info and other identifiers such as a real name, alias, address, unique personal identifier, online identifier, Internet Protocol address, email address, account name.
+Yes Yes
+Customer records such as electronic customer records containing personal information, such as name, address, telephone number, and household information in the context of surveys.
+==========
+Yes Yes
+Purchase history and tendencies such as commercial information including records of products or services purchased, obtained, or considered, or other purchasing or use histories or tendencies.
+Yes Yes
+Usage data such as internet or other electronic network activity information, including, but not limited to, clickstream data, and information regarding a resident’s interaction with an internet website, application, or advertisement.
+==========
+Yes Yes
+Profiles and Inferences such as inferences drawn from personal information to create a profile reflecting preferences, characteristics, predispositions, behavior, attitudes.
+Yes Yes
+Categories of Personal Information Sold
+The CCPA defines a “sale” as disclosing or making available personal information to a third party in exchange for monetary or other valuable consideration.
+You can read more about our use of personal information in digital advertising in the “How We Use Your Information” section above.
+Pursuant to the CCPA, the categories of Personal Information that we may “sell” as defined under the CCPA includes:
+Name, contact information and other identifiers
+Customer records
+Purchase history and tendencies
+Usage Data
+Profiles and Inferences
+
+Categories of Collection Sources and our Business Purpose for Collecting or Selling Your Information
+We collect your personal information from our Ad Partners and from Myspace and sell the information for the purpose of assisting or Ad Partners with serving you personalized advertisements.
+==========
+Your CCPA Rights and Choices
+The CCPA provides California residents with specific rights regarding their personal information.
+This section describes your rights under the CCPA and explains how to exercise those rights.
+Subject to certain exceptions, California residents have the right to make the following requests:
+Right to Opt-out of Sale (“Do Not Sell”): You have the right to direct us not to sell your personal information (“opt-out”).
+==========
+We do not sell personal information if we have actual knowledge that the consumer is less than 16 years of age, unless we receive affirmative authorization (“opt-in”) from either the consumer between 13 and 16 years of age, or the parent or guardian of a consumer less than 13 years of age.
+If you prefer that we not sell your personal information you may submit a request online here.
+==========
+Please also refer to the non-California sections of this Privacy Policy for information about our use of cookies and similar technologies.
+Right to Delete: You have the right to request that we delete and direct any service providers that have received that personal information to delete, the personal information that we have collected and retained, unless an exemption applies.
+Once we receive and confirm your verifiable request, we will delete (and, if applicable, direct our service providers to delete) your personal information from our records, unless an exemption applies.
+Right to Know: You have the right to request that we disclose certain information to you about our collection, use, and sale of your personal information over the past 12 months.
+Once we receive and confirm your verifiable request, we will disclose to you:
+the categories of personal information we collected about you;
+the categories of sources of personal information we collected about you;
+our business or commercial purposes for collecting or selling that personal information;
+the categories of third parties with whom we have disclosed or shared that personal information;
+the specific pieces of personal information we collected from you;
+the categories of third parties to whom your personal information has been sold; and
+the categories of personal information that we have sold or disclosed for a business purpose (if any)
+the specific pieces of personal information we collected from you.
+==========
+Submitting Requests: You can submit a Request to Delete or Request to Know by either:
+Submitting a request online through the CCPA Request Web Portal
+Sending an email to privacy@adelphic.com
+Calling us at (888) 655-1873
+We will respond to verifiable requests received from California residents as required by law.
+You can also designate an authorized agent to make a request under the CCPA on your behalf, however we may ask the agent to provide proof that the agent is authorized to make a request on your behalf.
+If necessary, we may ask you for additional information necessary to verify or process your Request to Delete or Request to Know.
+For example, California law requires that we perform additional verification steps before disclosing personal information in response to Requests to Know specific pieces of information.
+Where applicable, we may ask for proof that an authorized agent is entitled to act on your behalf.
+We may also carry out checks, including with third-party identity verification services, to verify your identity before taking any action with your personal information.
+==========
+We will endeavor to respond to your verifiable requests within 45 days of receipt.
+If we require more time (up to 45 additional days), we will inform you of the reason and extension period in writing.
+Any disclosures we provide will only cover the 12-month period preceding the consumer request receipt.
+==========
+Generally, California residents can exercise rights free of charge.
+Non-Discrimination: You have the right not to receive discriminatory treatment for the exercise of the privacy rights conferred by the CCPA.
+We will not discriminate against you for exercising any of your CCPA rights or impose unreasonable requirements on financial incentives offered to California consumers related to your personal information.
+==========
+We may offer different prices, rates, or quality of goods or services if the difference is reasonably related to the value of your personal information.
+Shine the Light: California Residents may request a list of all third parties to which our online service has disclosed certain personal information (as defined by California law) during the preceding year for those third parties’ own direct marketing purposes.
+==========
+If you are a California resident and want such a list, please contact us at privacy@adelphic.com.
+For Shine-the-Light requests, you must put the statement “Shine the Light Request” in the body of your request.
+In your request, please attest to the fact that you are a California resident and provide a current California address for your response.
+Please note that we will not accept Shine-the-Light requests via telephone, mail, or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+11.
+==========
+This Privacy Policy May Change
+Viant will maintain personal information in accordance with this Policy.
+If Viant decides to change this Policy, we will post the changes on this page and revise the “Last Updated” date above.
+If we make any changes to this Policy that materially affect our practices with regard to the personal information we have previously collected from you, we will endeavor to provide you with notice in advance of such change, such as by highlighting the change on website.
+==========
+Any changes to this Policy will become effective upon our posting of a revised Privacy Policy on this page.
+Use of the Viant Services or Site following such changes constitutes your acceptance of the revised Privacy Policy that is in effect.
+12.
+==========
+Contact Information
+For questions or concerns relating to privacy, please contact us at info@viantinc.com.
+For EEA Residents, the Data Controller for data processing by Adelphic is:
+Adelphic LLC
+2722 Michelson Drive, #100
+Irvine, CA 92612
+EU Representative for purposes of Adelphic data processing subject to this Policy is:
+ePrivacy GmbH
+Große Bleichen 21
+20354 Hamburg
+dpo@adelphic.com
+Key terms and definitions
+Cookie
+Embedded script
+Hashed
+Interest-based segment
+IP address
+Non-personal information
+Personal Information
+Pixels
+Server Logs
+Unique identifier
+User Panel
+Web Crawler
+Cookie
+A cookie is a small file containing a string of characters that is sent to your computer when you visit a website.
+When you visit the website again, the cookie allows that site to recognize your browser.
+Cookies may store user preferences and other information.
+You can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
+However, some website features or services may not function properly without cookies.
+==========
+Embedded script
+An embedded script is programming code that is designed to collect information about the way an advertisement displays on a website.
+The code is temporarily downloaded onto a user’s device from our web server or a third-party web server, is active only while you are connected to a particular website and is deactivated or deleted thereafter.
+==========
+Hashed
+Hashed means de-identified.
+Technically, a hashing algorithm is a function that converts a data string into an alphanumeric string output of fixed length.
+When we use “hashed” in this privacy policy, we mean a de-identified version of the data that is hashed.
+For example, the hashed version of “example@example.com” is: 23463b99b62a72f26ed677cc556c44e8.
+Interest-based segment
+A user or group of users categorized on the basis of preferences or interests inferred from the data we collect and receive that are used as a basis for displaying advertisements and other content intended to be more relevant and useful to the user or users.
+==========
+Examples include “AUTO::Auto In-Market MASTER,” “TRAVEL::Travel In-Market MASTER” and “SPORTS::Sports Enthusiasts.”
+IP address
+Every computer connected to the internet is assigned a unique number known as an internet protocol (IP) address.
+Since these numbers are usually assigned in country-based blocks, an IP address can often be used to identify the country, and in many cases a more precise location, from which a computer is connecting to the internet.
+==========
+Non-personal information
+All forms of information other than personal information.
+This includes, for example, performance statistics, certain demographic information, and other similar data, whether collected by us or received from affiliates or third parties.
+Personal information
+Includes other similar terms under applicable privacy laws and includes any information that identifies, relates to, describes, or is reasonably capable of being associated, or reasonably linked or linkable with an individual, device, or household.
+==========
+Pixel
+A pixel, also known as a pixel tag or web beacon, is a small snippet of code embedded in a website.
+Pixels allow a website to transfer or collect information through a graphic image request.
+Pixels can be used count site visitations and conversions, gather broad-based user interest data, transmit to and receive information from third parties, deliver, read and write to cookies and for other purposes connected to the provision of advertising, analytics or other services.
+==========
+Server logs
+Like most websites, our servers automatically record the page requests made when you visit our sites.
+These “server logs” typically include your web request, IP address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+==========
+Unique identifier
+A unique identifier is a string of characters that is used to recognize a user’s device, browser or other platform.
+Unique identifiers may be used in conjunction with or separate from cookies, including on platforms (e.g., certain mobile devices) where cookie technology is not available.
+==========
+User panel
+Panel of internet users that agree to anonymous recording of their ad exposure activity as they browse the web and are exposed to video and display advertisements in exchange for free software and services such as browser toolbars, games, and applications that provide information services such as weather, travel, news.
+Web crawler
+A sophisticated bot that renders webpages as a user would in order to analyze the page content and how ads deliver to users on a given webpage.
+Financial and Health Interest-Based Segments
+Finance :: Banking
+Finance :: Business Services
+Finance :: Credit Cards
+Finance :: Financial Information & Advice
+Finance :: Insurance
+Finance :: Mortgages
+Finance :: Personal Finance
+Finance :: Taxes
+Health :: Dieting
+Health :: Health Information
+Health :: Health Insurance
+Health :: Medical Centers
+Health :: Pharmaceuticals & Prescription Drugs
+Political Campaign Standard Segments
+Political Campaign Representative Sample of Custom Segments
+==========

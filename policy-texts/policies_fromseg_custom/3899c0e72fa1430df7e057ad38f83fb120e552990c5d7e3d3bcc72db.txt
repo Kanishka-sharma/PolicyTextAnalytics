@@ -1,0 +1,111 @@
+The Cookie Law is a piece of privacy
+legislation that requires websites to
+obtain consent from visitors to store or
+retrieve any information on a computer or any other web connected
+device, like a smartphone or tablet.
+It has been designed to protect online privacy, by making
+consumers aware of how information about them is collected by
+websites, and enable them to choose whether or not they want to
+allow it to take place.
+==========
+It started as an EU Directive that was adopted by all EU
+countries in May 2011.
+In the UK it was brought into law by an
+update of the Privacy and Electronic Communications
+Regulations.
+==========
+Although each EU country has its own
+approach and interpretation, the basic requirements are very
+similar across all EU members.
+If you are based in the EU and own a website, or your site is
+outside the EU but targeted towards EU citizens,
+you are now expected to comply with the
+law.
+==========
+Almost all websites use a data storage mechanism known as a
+cookie.
+Cookies store bits of information in peoples' web
+browsers when they visit a site, and then send the data back to it
+again.
+There are other technologies, like Flash and HTML5 Local Storage
+that do similar things, and these are also covered by the
+legislation, but as cookies are the most common technology in use,
+it has become known as the Cookie Law.
+However it is important to note that when we talk generally
+about cookies in context of the law, we are also talking about all
+of the similar technologies that perform the same function.
+Cookies
+are used in many different ways on the web, the vast majority of
+them beneficial to visitors.
+==========
+They act a bit like a form of
+memory for web pages, and help to personalise a users web
+experience.
+This includes tracking people across the sites they visit, and
+using this information to display more targeted advertising.
+Some
+people are not comfortable about this happening without their
+permission.
+==========
+Almost all websites use cookies and similar technologies.
+Especially company websites, e-commerce sites, and any sites that
+carry advertising.
+==========
+If your business has a website, you will almost certainly need
+to make changes to it to comply with the law.
+If you don't you risk losing the trust of your
+customers, especially if more and more of your competitors
+are changing their sites to comply.
+==========
+You also face the possibility of enforcement action from The Information Commissioners' Office
+(ICO), the UK regulator responsible for the cookies
+law.
+The ICO has powers which can include a fine of up
+to half a million pounds.
+Although they won't
+issue fines except in serious cases, they can still force you to
+change your website to comply with the law.
+==========
+All the guidance or advice you can find comes down to
+three basic steps:
+
+
+Work out what your site uses cookies for, with a Cookie
+Audit.
+Update your privacy policy to inform your visitors how you use
+cookies.
+==========
+Get visitor consent, such as by providing an opt-out or opt-in
+control.
+The Cookie Collective can provide you with all the
+tools you need to become compliant.
+==========
+Cookies are used by almost
+all websites as a kind of memory.
+They are stored in your
+browser and enable a site to 'remember' little bits of information
+between pages or visits.
+They are mostly used to make the web experience better, like
+automatically logging you in to a site on return visits, or
+remembering settings like text size.
+==========
+Most websites also use
+some kind of visitor tracking, like Google Analytics, to measure
+site performance, and this will also use cookies in most cases.
+However some cookies are used to collect data across websites
+and display content and advertising based on user profiles created
+with this data.
+This 'behavioural
+advertising' use of cookies is something
+the EU particularly wants to raise awareness of with the new
+law.
+By requiring websites to inform and obtain explicit consent for
+cookies it aims to give web users more control over their online
+privacy.
+At the same time this also helps to improve consumer
+trust, which research shows increases the use of online services,
+and improved the digital economy.
+To find out lots more about cookies in general and the different
+types, take a look at Cookiepedia - a new
+information resource we have built all about cookies.
+==========

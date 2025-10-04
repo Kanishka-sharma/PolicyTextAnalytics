@@ -1,0 +1,194 @@
+Last Updated: June 2021
+
+
+
+Basic Information about processing of personal data
+
+
+Data controller
+Travel Audience GmbH, Elsenstraße 106, 12435, Berlin, Germany
+ 
+T: +49 30 530 230 610
+E-Mail: privacy@travelaudience.com
+
+
+Purpose of processing
+Displaying personalized advertising
+
+
+Legal grounds for processing
+
+
+The user has given their consent to that processing; or
+Travel Audience’s legitimate interest in the processing.
+Recipients of the personal data
+Travel Audience GmbH and all third parties with which personal data is shared
+
+
+Legal rights
+You have a right to access, review, object and restrict processing of personal data, to withdraw the consent given and the right to lodge a complaint with a supervisory authority.
+Travel Audience
+Travel Audience GmbH (“Travel Audience”) operates a data driven travel advertising platform.
+==========
+Our platform connects performance-oriented advertisers with our network of publishers, reaching millions of travelers.
+Our data-driven travel advertising platform consists of three major components:
+
+Our network of publishers, which are third-party websites using Travel Audience services to publish online advertisements on their webpages;
+our network of data partners, which are third-party websites providing us with data allowing us to improve our advertisement services; and
+our own demand-side-platform which allows us to provide end-to-end data driven advertising solutions to advertisers.
+What is the scope of this Privacy Notice?
+This Travel Audience Product Privacy Notice (“Privacy Notice”) describes which information is collected and used in the context of digital advertising in general, as well as the information we and our partners may collect, receive, and use in connection with our Travel Audience products and services.
+This Privacy Notice does not apply to information we may collect and use on our own website (www.travelaudience.com).
+For further information on how we may process personal data through our website, please refer to our Website Privacy Notice located here: https://travelaudience.com/website-privacy-policy/.
+What is digital advertising?
+Digital advertising, also called internet advertising, is used by businesses to leverage internet technologies in order to deliver promotional advertisements to consumers.
+Digital advertising includes promotional advertisements and messages delivered through email, social media networks, online advertising on search engines or in mobile apps, banner ads on mobile sites or websites, and website and affiliate programs.
+How does digital advertising work and what information is being collected?
+Ourselves and our partners use cookies, mobile device advertising identifiers, and other similar tracking solutions to help us collect and store information about the users of websites, social media networks, and mobile apps.
+==========
+This information is typically stored in the form of a user profile and connected to a series of characters which form a “User ID”, though this is not the name, explicit email address, or explicit phone number of an individual.
+As a result, we are not able – at least not without using additional information – to identify an individual natural person on the basis of a User ID.
+==========
+We are able to link a user to a specific browser or device he utilizes.
+Cookies
+Cookies are small files that can be stored on computers to contain or communicate certain information and are an essential part of the internet environment and digital advertising.
+For instance, cookies allow a website to automatically log users into an online service or provide users with personalized advertising.
+Cookies can be deleted at any time from users’ browsers via the browser settings (see: ‘Cookie Opt-Out’).
+==========
+Mobile identifiers
+Similarly, mobile device advertising identifiers can also be used to recognize a device and allow that user of that device to login automatically to an online service, as well as for other services and functionalities.
+Users can also reset the mobile device advertising identifier of their mobile device in the settings menu of their device, as also described below.
+==========
+What information may be collected?
+The technologies we and our partners use may collect the following information about online users and their activity, such as:
+
+Travel related information, such as search queries and booking information on our partner websites (for example origin, destination, number of passengers, hotel stars, duration, booking values and solely in a pseudonymized format we may process: email addresses, mobile phone numbers, frequent flyer card numbers, passenger name records and record locator (the “Other Pseudonymized Identifiers”)) and other similar information relating to the use of websites and mobile applications of our partners;
+Device and browser information, such as information relating to a mobile device or a browser (e.g. browser version, hardware model, operation system version and mobile network information);
+Location-based information, such as approximate location information which we or our partners may infer if we are legally allowed to do so from information such as an IP address or GPS data or other online location-based information on which we or our partners sometimes rely on for the quality of our services; and
+Browsing history, such as information regarding which websites or mobile apps users have visited or used.
+==========
+For what purpose is the data used?
+The data collected via ours and our partners’ products and services are used exclusively for the purpose of improving the targeted advertisements services.
+==========
+This means the information we and our partners collect and receive is used to display personalized advertising that we believe is of real interest to the users, to settle accounts with our partners for advertising campaigns using our services, to analyze and improve our services (including for instance through cross-device/cross-browser matching; viewability measurements; brand safety features; fraud detection; creation of audiences which may be made available to customers on an anonymous basis), and to analyze the effect of our partners’ advertising campaigns.
+Depending on the customer, we may also place our advertiser pixel on their web properties to collect data for the purpose of campaign optimization for advertisers.
+==========
+We may also use this data in aggregated and anonymized form for the purposes of machine learning.
+Furthermore, to the extent permitted by law, we may connect different data sources we collect (from our partners or affiliates) to enhance user profiles so that we may show the most relevant advertising to the user.
+Through these user profiles, we cannot identify a natural person – without additional information – through the information collected and used by us.
+==========
+What is the legal basis for processing of the personal data?
+The legal basis for processing the data is for the aforementioned purposes:
+
+The user has given their consent
+Travel Audience’s legitimate business interest
+
+Where personal data is processed for legitimate business interests, the privacy impact on those individuals whose data is being processed will be considered.
+Who is the personal data shared with?
+We do not share the collected information with third parties other than as described below:
+
+Where we are legally allowed to do so, information may be mutually shared with other companies within the Amadeus Group, which likewise only use the data for the purposes described herein.
+==========
+Social Advertising: We may use social advertising platforms to reach users on these platforms to deliver personalized ads.
+In these cases, the privacy terms of these social advertising platforms are relevant for the user regarding the use of the information by such platforms.
+==========
+Supply Side Platforms (SSPs): We work with SSPs and might share cookie information with them.
+In this case we use a tracking script of these SSPs so they can set a cookie and provide us with bid requests for these relevant users.
+Demand Side Platforms (DSPs): We also work with and may push information into third party DSP like Google Display & Video 360, Pocketmath or others.
+Technology partners which allow us to improve the quality of our services for purposes like cross-device tracking or enrichment (of our database) with public statistical information.
+==========
+Travel Audience is also a member of the Interactive Advertising Bureau (“IAB”), an international organization participating in the establishment of standards for the advertising industry.
+As such, Travel Audience also abides by the IAB guidelines on conduct which are available at: https://www.iab.com/guidelines/.
+==========
+Please also note that Travel Audience’s subcontractors and/or its partners may store data collected outside of the European Economic Area (“EEA”).
+In such cases, Travel Audience ensures that such transfers are done in compliance with privacy regulations through the use of EU Model Clauses, where applicable.
+==========
+What rights do users have concerning data collected as part of digital advertising?
+Under certain circumstances, users can exercise rights, such as a right to access, erasure, object etc. under data protection laws.
+Users may exercise these rights relating to their own personal data or contact our Data Protection Officer for other data protection related questions via email at privacy@travelaudience.com, or via mail at Elsenstraße 106, 12435 Berlin, Germany.
+Travel Audience will require authentication of the identity of the user and may require additional information to confirm that the rights that user traveler(s) may have under data protection laws are being exercised correctly.
+==========
+Furthermore, users have the automated capability to ensure that they do not receive display advertising personalized by us in the future, as detailed below.
+How can a user ensure they do not receive personalized display advertising from Travel Audience?
+Users can inform us that they no longer wish to receive the personalized advertising we provide by activating the icon below.
+Your current cookie status:
+
+ 
+Please keep in mind that to complete this request, we will set a cookie that contains information indicating that that user no longer wishes to receive personalized advertising by us through retargeting.
+When a user deactivates the acceptance of cookies in their browser, or when they delete their cookies, we will no longer be able to know that they do not want to allow retargeting.
+In this case, they will have to reactivate the icon above, thereby ensuring that the relevant cookie is stored.
+The same applies when a user uses a browser other than the one they are currently using.
+==========
+Please also be aware that when using such opt-out, our tracker will no longer collect data from your browser, but other trackers may continue to do so.
+If you wish to opt-out of these cookies, you can delete the cookies on your browser as described in the section below, or you may opt-out of such cookies on the website of their original domain name.
+For reference, you can find below a list of the trackers that may be included in the use of our services, along with the links to opt-out of their data collection if you wish to do so.
+==========
+YieldLab
+https://www.yieldlab.com/elements/privacy/
+
+
+Rubicon
+https://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/
+
+
+Pubmatic
+https://pubmatic.com/legal/opt-out/
+
+
+Improve Digital
+https://www.improvedigital.com/platform-privacy-policy/
+
+
+Stroer (Adscale)
+https://www.stroeer.de/digitale-werbung/werbemedien/targeting-data/datenschutz.html
+
+
+AppNexus
+https://www.appnexus.com/platform-privacy-policy#choices
+
+
+Google
+https://tools.google.com/dlpage/optoutplugin/eula.html
+
+
+BetweenX 
+https://betweendigital.com/opt-out
+
+
+Sirdata
+https://www.sirdata.com/object/
+
+
+
+ 
+Cookie Settings in the Browser
+In order to prevent browser-based personalized advertising, users can change their cookie settings via their browser so that cookies are no longer stored.
+Details on how to do this can be found in the relevant browser’s settings, the specifics of which, can differ depending on the browser used.
+This will prevent the cookies needed for retargeting from being placed on a user’s computer.
+==========
+For other browsers, or in case the displayed links do not lead to the desired result, further information will usually be found by entering the name and manufacturer of the browser and the terms “cookies” and “settings” in an Internet search engine.
+Please note that certain website services which require the processing of cookies, such as certain shopping carts on ecommerce sites, may no longer function if cookies are blocked.
+==========
+Opt-Out on Mobile Devices
+An opt-out of cookies as described above regarding browser-based personalized advertising may not prevent personalized advertising on a user’s mobile device.
+In order to opt out of personalized mobile advertising, users can reset the mobile device advertising identifier of their mobile device in the settings menu of their device.
+==========
+More information on how to do this can be found here: https://www.networkadvertising.org/mobile-choices.
+It must be noted that we may still display advertising to such users following their opt-out, but that the selection of such advertisement will no longer be based on data collected through tracking mechanisms.
+Retention of personal data
+We retain personal data for as long as necessary to fulfil the purposes it was collected for including for the purposes of satisfying any legal, accounting or reporting requirements.
+We delete or anonymize personal data collected via our cookies after 13 months.
+Our cookies reset automatically if the expiration time of 13 months after the last touch point is reached or the user manually deletes the cookie.
+The Other Pseudonymized Identifiers that we process will be deleted or anonymized after a period of 24 months, if the user has not confirmed the ongoing processing.
+==========
+Changes to our products and services
+We may change our products and services or use new technologies.
+We will then publish an updated version of this Privacy Notice on our website as well as on other appropriate websites.
+We therefore recommend that you occasionally view the most recent version of the Privacy Notice on our website if you would like to know what information we record and how we use them.
+==========
+Right to lodge a complaint at a supervisory authority
+Irrespective of any other legal remedy under administrative law or in court you are entitled to the right to lodge a complaint at a supervisory authority, in particular in the member state of your habitual residence, your place of work or the place of the alleged infringement if you consider are of the opinion that the processing of the personal data relating to you breaches the GDPR.
+The supervisory authority, at which the complaint was lodged, will inform the complainant about the status and the results of the complaint including the possibility of a legal remedy in court according to Art. 78 GDPR.
+Contact us
+If you wish to contact our Data Protection Officer (DPO), or have any questions relating to this Privacy Notice, or how we collect and use information with our products and services, you can contact us via email at privacy@travelaudience.com, or via mail at Elsenstraße 106, 12435 Berlin, Germany.
+==========

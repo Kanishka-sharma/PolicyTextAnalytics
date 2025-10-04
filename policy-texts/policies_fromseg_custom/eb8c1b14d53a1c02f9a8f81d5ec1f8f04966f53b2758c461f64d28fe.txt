@@ -1,0 +1,72 @@
+Lifesight provides offline attribution services for digital advertisements using the information and location-centric data that we compile about the movement, activities, and places people visit.
+The following describes our data collection and use practices for the information that we collect and the data we receive from our data partners (such as mobile app publishers and developers) about individuals.
+It also describes the choices available to you regarding the use of that information and data.
+This statement doesn’t apply to the data collection and use practices of our clients and partners and the websites, services, and applications that they operate.
+Information You Give Us.
+When you ask to be contacted or have questions about our products and services and you provide us with your contact information (like your name and email address).
+Data We Collect.
+When you visit our website or when our services are used (by us or by our customers), certain information and data is automatically collected.
+Our servers collect technical information about your browser or device that it sends when you visit a website or when an advertisement is displayed or measured through our services.
+These server logs collect information such as the web request, internet protocol (IP) address or device identifier, browser type, referring / exit pages and URLs, number of clicks, impressions served, domain names, landing pages, pages viewed, and other such information.
+We (and/or our customers and partners) use cookies and web beacons to collect this data (over time and across websites, mobile apps, and devices).
+These tools (among other things) help us to, count impressions, recognize visitors, and provide analytics about the effectiveness of an advertisement.
+We also use Google Analytics (or other analytics providers) to help us understand the use of our website.
+==========
+Data We Receive from Others.
+We receive data that was initially collected (over time and across websites, mobile apps, and devices) by our data partners (such as mobile app publishers and developers, advertising networks and exchanges and other websites and services), which includes:
+Ad Data.
+We receive advertisement requests (to display an advertisement on a website, mobile app or device) along with its associated data, such as a device identifier (like a browser ID or an advertising ID (the operating system-supplied ID meant for advertising use, such as the IDFA and AAID), or another similar identifier), the browser or device type, IP address, app publisher, operating system, location, and other similar device-specific information.
+Movement Data.
+==========
+We receive data about the places people go and visit with their mobile devices (if the mobile or other location-aware device is configured to share its location data when the device or a mobile application on the device is in use or when operating in the background).
+In addition to location, we receive a device identifier and other information about that device (such as the browser or device type, IP address or app publisher, operating system, carrier provider, and other similar device-specific information).
+We do not receive the phone number or the unique hardware device ID of a mobile device.
+We identify devices using the advertising ID or a randomly assigned unique identifier (that is created through our own system).
+Data We Receive from Other Sources.
+We receive data and information from other data sources about places that we use to verify their location, to classify those locations (such as a business, residential parcel, or other point of interest), and to identify the location’s boundaries.
+==========
+Note about children.
+We do not knowingly collect personal information from children.
+If we learn that we have collected personal information of a child under 13, we will take steps to delete such information from our files as soon as possible.
+==========
+We associate the data and information that we collect with the data and information we receive from others.
+Our technology contextualizes and aggregates this data.
+The location intelligence we derive (and infer) from the data and the information we amass is the basis of the services we provide:
+for measurement and reporting services),
+for capturing and understanding the interests, activities, and trends of consumers in the physical world),
+for data analytics and data services (such as for marketing and advertising, trend analysis, or market research), and
+for providing, maintaining, and improving the products and services we offer (and to develop new products and services).
+We may use (and store) the data and information we collect and receive on servers that may be located outside the country where you live.
+We share the data and information we compile about someone in an aggregated or anonymized way using advertising IDs or another type of anonymous identifier:
+for measurement, statistics, usage reporting, and other data analytics
+for industry analysis, demographic profiling, market research and other such purposes
+If you don’t want the data that is collected about you to be used for certain purposes, you have options:
+Cookie Opt-out
+You may control how your browser responds to cookies by adjusting the privacy and security settings of your web browser.
+==========
+Further, Do Not Track (“DNT”) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third parties.
+Please note that the opt-out choices you select are stored in opt-out cookies only in the browser that you use to visit the opt-out websites, so you should separately set your preferences for other browsers or Devices you may use.
+For more information on cookie opt-out, please visit this link.
+Mobile Opt-out
+On your mobile devices, you have an option to reset the Advertising IDs (for both Android & iOS).
+If you are using Android 4.4 or higher, go to “Setting” > “Accounts/Google” > “Ads” where you will see an advertising ID.
+You can reset advertising id and more generally you can opt out of interest-based ads in general in this view by checking the “Opt out of interest-based ads” checkbox on your device.
+If you are using an iOS device, you can go to “Settings” > “Privacy” > “Advertising”.
+==========
+You can now turn on “Limit Ad Tracking”.
+At this page, you also have the option of resetting your advertising identifier.
+For more information, please refer to this link.
+==========
+We honor these “limit” or “opt out” instructions or “flags” by removing recognized Devices from our reporting solutions, on a going forward basis.
+(We may continue to use information from these Devices for other purposes, such as market research and aggregated customer analytics, but we will not use this information for interest-based advertising purposes.)
+Location Settings.
+If you want to limit or prevent location data from your device from being collected, you can adjust this capability through your mobile device settings.
+Instructions on how to manage your location settings for Android devices are available here (instructions for older versions of Android can be found here) and iOS devices are provided here.
+==========
+We use physical, administrative, and technical safeguards that are designed to preserve the integrity and security of the data we receive; however, we cannot ensure the absolute security of any information or data transmitted to us or that is stored on our services.
+We retain the data and information that we collect for as long as is necessary to support our business needs (or as required by law), but we do not retain location data about a device for more than 24 months (from when we received the data).
+If we change our data collection and/or use practices, we will post an updated statement (and a more prominent notice if the changes are significant) with the new practices and when they go into effect.
+The data and information that we collect are subject to the privacy statement in effect at the time the data and information were collected by us.
+For questions about our privacy practices, contact us at privacy@lifesight.io or Lifesight Pte. Ltd., 80 Raffles Place, #51-02, UOB Plaza, Singapore (048624).
+For questions about a particular website or mobile application, you will need to contact that business or publisher regarding their privacy practices about the collection and use of the information collected from your device by their website or mobile application.
+==========

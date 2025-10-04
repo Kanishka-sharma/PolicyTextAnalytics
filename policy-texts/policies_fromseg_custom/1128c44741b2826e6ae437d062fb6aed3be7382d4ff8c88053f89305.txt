@@ -1,0 +1,70 @@
+Privacy Policy
+In the following policy, ProtonMail refers to the service offered by Proton Technologies AG through the protonmail.ch and protonmail.com websites.
+By visiting ProtonMail and using the services provided here, you consent to the use of information as outlined in this privacy policy.
+Laws and Regulations
+Our company is based in Switzerland so we operate solely under the laws and regulations of the Swiss Confederation.
+Under Swiss law, the technical means for lawful interceptions of customer communications is governed by the Swiss Federal Act on the Surveillance of Postal and Telecommunications Traffic (SPTT) last amended in 2012.
+In the SPTT, the obligation to provide the technical means for lawful interception is imposed only on Internet access providers so ProtonMail, as a mere Internet application provider is entirely exempt from the SPTT's scope of application.
+Due to our entirely Swiss domicile, ProtonMail is not required to, and cannot be compelled, to build in the technical means to intercept customer communications, even if it were possible.
+Email Policy
+Any emails provided to ProtonMail through either our waiting list or enabling the notification email setting in your account are considered privileged information under the protection of the Swiss Federal Data Protection Act (DPA).
+Your email will never be sold or shared with any third parties.
+Furthermore, it is not legal to do so in Switzerland.
+==========
+If you disable notifications on your account, your email is permanently removed from our system.
+You may also permanently remove your email address from our waiting list by visiting the following settings page (this cannot be undone): https://protonmail.ch/invite/invite-settings.php
+Your email address will only be used to contact you with news and updates regarding ProtonMail beta, and to send you an invitation link when your ProtonMail account can be created.
+Data Collection
+Our overriding policy is to collect as little user information as possible to ensure a private and anonymous user experience.
+ProtonMail's user data collection is limited to the following:
+Account creation: We do not require ANY personal information to create an account.
+Should you choose to provide it, we do associate another email address with your account (for password recovery, or notifications only).
+Account activity: Due to limitations of the SMTP protocol, we have access to the following email metadata: sender and recipient email addresses, the ip address incoming messages originated from, message subject, and message sent and received times.
+==========
+This is necessary in order to deliver and receive messages.
+We do NOT have access to encrypted message content.
+We also have access to the following records of account activity: number of messages sent per month, the amount of storage space used, and total number of messages.
+==========
+IP addresses of website visitors are temporarily logged.
+However, we have no ability to match an IP to a specific user account.
+We have no IP logs which persist beyond 30 days.
+==========
+Communicating with ProtonMail: Your communications with ProtonMail, such as sales and support requests, bug reports, or feature requests may be saved by our staff.
+Bug reports are handled through Zendesk and as a result Zendesk also has access to submitted bug reports.
+Data Use
+ProtonMail does not have any advertising on our site.
+We also have no technical means to access your encrypted message contents.
+Any data that we do have will never be shared except under the circumstances described below in Data Disclosure.
+==========
+We do NOT do any analysis on the limited email data we do possess, with just one exception:
+Emails sent unencrypted to ProtonMail accounts (e.g. Gmail to ProtonMail) are scanned automatically for spam so we can block IPs which are sending a lot of spam to ProtonMail users and place spam messages in a spam directory.
+Messages from outside are encrypted immediately after the spam and antivirus scans.
+We do not possess the technical ability to scan encrypted messages.
+==========
+Data Storage
+All ProtonMail servers are located in Switzerland and wholly owned and operated by Proton Technologies AG.
+Only employees and staff of Proton Technologies AG have physical or remote access to ProtonMail servers.
+Data (including offsite backups) is ALWAYS stored in encrypted format on our servers.
+ProtonMail does not possess the ability to access any user encrypted message content on either the live servers or in the backups.
+Data Retention
+Data may be retained for up to 7 days in our backups.
+==========
+Accounts that are inactive for over 3 months may be subject to automatic deletion at our discretion.
+Active accounts will have data retained indefinitely.
+Data Disclosure
+ProtonMail will only disclose the limited user data we possess if we receive an enforceable court order from either the Cantonal Court of Geneva or the Swiss Federal Supreme Court.
+ProtonMail has no ability to decrypt user data so only the fully encrypted message content can be turned over.
+In accordance with Swiss law, user's subject to a data disclosure request will be notified by either ProtonMail or the court.
+Payment Information
+All credit card transactions are processed by third parties and ProtonMail does not retain any customer payment information but we do store data on which account was paid for by a particular transaction.
+For cash or bitcoin payments, the only information ProtonMail retains is the account username to which the payment was applied.
+==========
+Modifications to Privacy Policy
+ProtonMail reserves the right to periodically review and change this policy from time to time.
+You are responsible for regularly reviewing this Privacy Policy.
+Continued use of the Service after such changes shall constitute your consent to such changes.
+This Privacy Policy was last modified on February 25th, 2015.
+Applicable Law
+This Agreement shall be governed in all respects by the laws of the Republic and Canton of Geneva, Swiss Confederation.
+All actions commenced pursuant hereto shall be brought in a court of competent jurisdiction residing in the Republic and Canton of Geneva.
+==========

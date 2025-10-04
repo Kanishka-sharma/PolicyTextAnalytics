@@ -1,0 +1,41 @@
+Your address will show here
+
+
+
++12 34 56 78
+
+
+
+email@example.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This Privacy Policy describes how plista collects and uses data from web sites, applications and other digital properties (we refer to all of these below as “Sites”) in connection with its products and services as well as from its corporate web sites (www.plista.com, planet.plista.com and blog.plista.com; collectively, the “plista web sites”) and how individuals can manage choices and exercise rights related to certain data collected or used in our products and services and on the plista web sites.
+This website uses cookies, some of which are necessary for the website to operate properly and some of which are designed to improve your experience when you visit.
+You can accept all cookies by clicking “Got it!”
+.
+If you wish to review the cookies we use please visit our privacy policy.
+Got it!Privacy Policy
+
+
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "https://www.plista.com",
+  "logo": "https://www.plista.com/wp-content/uploads/2017/01/plista-Logo-Navi-45px_RGB.png"
+}
+==========

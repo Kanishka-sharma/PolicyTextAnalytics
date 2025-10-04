@@ -1,0 +1,274 @@
+Privacy policyTrade Me has created this privacy statement in order to demonstrate our firm commitment to privacy.
+In this policy we explain how we handle information about you that we gather, store and use.
+For additional information about your relationship with Trade Me, please review our Terms and Conditions.
+In this policy, “Personal Information” means the same as it does in the Privacy Act 1993 (which is: information about an identifiable individual).
+Other terms that have capital letters in this Privacy Policy but aren't defined here carry the same meaning as in the Terms and Conditions.1.
+Use of your information
+
+Trade Me does not sell or rent your Personal Information to third parties.
+Personal Information is information about an identifiable individual, as defined by the Privacy Act 1993.
+==========
+Trade Me collects information about you through your use of the Services and the Website, including your registration details and information relating to your use of the Website and the Services, such as the content you access (like listings you have viewed and the search queries you input).
+Trade Me uses the information we collect to help us provide the Services to you, to verify your identity, to enforce or apply our terms and conditions, to protect the rights, property, or safety of Trade Me Limited, our users, or others, for internal research purposes, for promoting and marketing other Trade Me products and Services to you, and for any other use that you authorise.
+Your membership's trading history is published in your feedback if someone places feedback about you.
+We release Personal Information only when we believe release is appropriate for legal compliance and law enforcement (including to government agencies with statutory law enforcement responsibilities); to facilitate court proceedings; enforce or apply our terms and conditions; or protect the rights, property, or safety of Trade Me, our users, or others.
+Government agencies with statutory roles enabling them to request data from us include but are not restricted to the Police, Inland Revenue and the Ministry of Business, Innovation and Employment.
+==========
+You can contact Trade Me to ask whether your information has been provided, or with any other privacy-related question.
+Just email us.
+Where Trade Me uses third parties to undertake services, we may provide those third parties with some of your information if it is required to fulfil those services.
+For example, we use third parties to send you letters for address verification, or to conduct research for us to ensure the Services we provide you are relevant and personalised to your interests.
+We also use third party software (such as customer relationship management and accounting software) that holds your information, sometimes overseas.
+We require any third party to undertake strict precautions to protect your information against unauthorised use or disclosure.
+==========
+If you wish to take Disputes Tribunal (or other) proceedings against another member, you can contact Trade Me for a statutory declaration form which must be completed before we will consider releasing anyone else's information to you.
+You may only request contact details for the sole purpose of making a claim.
+2.
+==========
+Listing content
+
+When you create a listing, we make certain information publicly available (for example, the listing description, images, your user name and feedback score and in certain cases your contact details).
+We refer to this broadly as listing content.
+Listing content varies depending on the type of listing, and the category.
+This section of the policy explains what we and others do with listing content.
+==========
+Listing content becomes public when you publish it using our Service.
+Once you publish it, listing content becomes available via the internet, including to users of our API.
+Listing content may appear in applications and on other websites.
+Users of our API must agree to our API terms and conditions.
+We retain all listing content after listings have expired.
+Listing content may also persist elsewhere when third parties access and cache listings while they are live.
+==========
+For example, Google do this when they index the web for searching and so old listings may survive in Google searches for a period of time.
+In certain cases we have commercial arrangements with third parties to display or use listing content.
+We also use some listing content to enrich our other Services (for example, we use vehicle images to enhance our MotorWeb VIR).
+3.
+==========
+Email
+
+It is the policy of Trade Me to send our members email throughout the auction process and other email they elect to receive, in addition to customary business communications (payment confirmations, etc.).
+Further, it is our policy to immediately remove any member from any mailing list upon the member's request.
+In addition, Trade Me will send newsletters and other communications to members.
+Newsletters will contain clear and obvious instructions for how the member can remove himself or herself from that mailing list.
+We do use email as a means of receiving feedback from our members, and we encourage you to email us with your questions or comments.
+4.
+==========
+Emailing tools
+
+Trade Me provides facilities throughout the site to refer a friend to Trade Me or to send references to a specific listing to a friend.
+You may not use the "Email this listing to a friend" service or other email forwarding services that we offer to send spam or otherwise send content that would violate our privacy policy or Terms and Conditions.
+We do not permanently store, sell, or rent these email messages or the email addresses.
+5.
+==========
+Membership registration
+
+Our site's registration form requires you to provide us contact information and may also require demographic information.
+We may use your contact information from the registration form to send you information about our company and promotional material from some of our affiliated partners.
+Your contact information is also used to contact you when necessary.
+6.
+==========
+Managing your Personal Information
+
+The Privacy Act gives you the right to access and correct your information.
+Contact us if you wish to access or update your Personal Information, including changing your email address, password, phone number, etc.
+When you update your details Trade Me will store your old details to ensure compliance with our Terms and Conditions - specifically the use of one account per member.
+b.
+==========
+If you wish to close your account and delete any Personal Information you have submitted to us, please contact us at privacy@trademe.co.nz to make that request.
+We consider each request for deletion on a case by case basis taking into account our legal obligations to retain certain information.
+7.
+==========
+Delivery address details
+
+Trade Me enables you to save one or more of your delivery addresses which we will store against your profile.
+When you buy an item you have the option of selecting a delivery address which we will then send to the seller.
+We will never give the seller your address without your permission.
+8.
+==========
+Payment instructions setup
+
+Trade Me enables you to save and send a standard payment instructions email to the successful buyer when your auction ends.
+When you set up each auction you can choose to have the saved message sent automatically or edit your message at that time.
+9.
+==========
+Credit and debit card security
+
+We work diligently to protect the security of your information, including credit and debit card information.
+We protect your credit and debit card information during transmission by using the Secure Sockets Layer (SSL) protocol, which encrypts your information when transmitted over the Internet.
+Trade Me retains only partial card details.
+However they may be held by either Direct Payment Solutions (DPS) - review their Privacy Policy - or Paystation - review their Privacy Policy - depending on which provider processes the transaction.
+When topping up your Trade Me account by credit/debit card, you may have the option to "save this card for next time".
+If you choose this option, your credit/debit card details are encrypted and securely stored by DPS or Paystation.
+10.
+==========
+API
+
+Trade Me provides an application programming interface (API) to enable software to interface with the Website.
+The API enables developers to build new applications for our members to use.
+We use it ourselves to power our mobile applications.
+==========
+As a result, information you publish on Trade Me may be accessed through the API and may appear in other places such as applications or websites.
+We may charge third parties in various ways for access to our API.
+Some applications enable you to interact with Trade Me through the API in a way that requires you to log in.
+To do this, most of these applications will direct you through a secure process on Trade Me called 'OAuth', where you are able to let the application connect to your account.
+A smaller set of applications will require you to enter your username and password directly into the application, and only applications specifically authorised by Trade Me are capable of doing this.
+In no case will anyone be able to retrieve your password from the API.
+If you allow an application to connect to your Trade Me account, that application will be able to access information that you can see when you are logged in to Trade Me.
+==========
+This includes the information found within My Trade Me, such as your watch list, sold items or personal contact information.
+You should only allow applications you trust to access your Trade Me account.
+If someone is using an application to access Trade Me and trades with you, that application may be able to access information that you provide to the other person during the trading process, such as your email and delivery address.
+Anyone using our API must comply with Trade Me's API terms and conditions and this Privacy Policy.
+11.
+==========
+Trade Me Jobs
+
+Trade Me facilitates sending job applications to organisations advertising on Trade Me Jobs.
+We forward applications, including disclosure of your Personal Information, on your behalf directly to the organisation whose job you apply for.
+We only disclose information that you provide to us in your application.
+Applications you send are stored on our servers for a limited time.
+We do not read applications.
+==========
+The CVs and documents section of My Trade Me allows you to store and re-use CVs, cover letters, or other documents.
+We securely store documents that you save in the CVs and documents sections, and they are available to you, organisations you send them to, and our Website operators.
+We may use software to scan your CVs stored in My Trade Me for the purpose of personalising and improving the relevance of job advertisements presented to you.
+==========
+You can delete your CVs and documents at any time through My Trade Me.
+If you delete your CV, it will be immediately removed from your list of stored CVs, and from our system completely within 7 days.
+Documents you upload to the CVs and documents section of My Trade Me will expire and be deleted after 5 years.
+Documents that are deleted may persist for a limited time in our backup systems.
+12.
+==========
+Cookies and local storage
+
+Trade Me uses various technologies, including cookies and local storage, to collect and store information about you when you visit Trade Me.
+Cookies and local storage allow us to store information (including your Personal Information) in a file on the device you use to access Trade Me.
+We use cookies and local storage to deliver information and fresh content specific to your interests and to improve the experience of using Trade Me.
+Cookies and local storage are widely used.
+Trade Me uses "session" cookies to temporarily store information to help you use Trade Me.
+This information is used to deliver the right content to you as you use Trade Me and avoids unnecessarily asking you to log in.
+Session cookies expire immediately when you close your browser or are deleted after 30 minutes of no activity on Trade Me.
+Trade Me also uses "persistent" cookies and local storage to personalise the user experience, to help protect our members and to provide us with research information (such as how often members visit Trade Me each month).
+Persistent cookies allow us to track users on Trade Me and helps us identify users abusing the Trade Me service.
+A persistent auto-login cookie is also stored when you select the "remember me" option when logging in.
+The auto-login cookie is removed if you log out.
+==========
+Trade Me participates in Google's AdWords pay-per-click advertising programme.
+AdWords advertisements appear on Google's search result pages and on the Google Display Network.
+Trade Me ads may also appear on other websites in the Google Display Network.
+==========
+Google uses cookies to target ads to you, including to measure the number of Google users that click on certain advertisements and visit certain Trade Me pages, or who complete certain actions on Trade Me (like adding an item to a Watchlist).
+Google provides this data to Trade Me without identifying users.
+View Google's privacy policy.
+Trade Me uses Google remarketing to serve relevant ads to you after you leave our website.
+When you navigate around our website, and/or exhibit certain behaviours such as making purchases, creating listings or adding items to your Watchlist, we either use Google to place a cookie on your browser, or we update the existing Google Analytics cookie.
+==========
+This enables us to remarket to you using technology such as the Google Display Network, or DoubleClick (or its successors), and means that you may see ads from Trade Me when you later visit other websites.
+You can opt out of Google's, and our, use of these cookies by visiting Google's Ads Preferences Manager.
+View Google's advertising privacy policies.
+We also allow some of our advertising clients to place remarketing cookies on your browser when you view their advertisements on Trade Me.
+This allows them to continue to show you their advertisements when you visit other sites they advertise on, or to cap the frequency with which you see their advertisements.
+13.
+==========
+Advertising and third party links
+
+Products and services advertised on Trade Me are not endorsed by Trade Me.
+Some Trade Me advertisers may request information directly from you, or link to sites that do so.
+Trade Me has no control over its advertisers' privacy policies, and you should review such policies prior to submitting any information to them.
+Trade Me contains non-advertising links to a variety of third party sites to enhance the member experience.
+Trade Me has no control of either the content or privacy policies of such sites, nor should such links be considered an endorsement of these sites except where otherwise noted.
+==========
+In some cases, third party advertisers may also use cookies in certain advertisements that appear on the website for advertising purposes, or collect information in the course of advertising being served.
+For example, Trade Me participates in Google AdSense advertising, and as part of this, Google may use cookies in order to reduce the number of times you see the same ad.
+Trade Me also uses information we hold about you to deliver display advertisements intended to be relevant to your interests, based on the information you have provided to us through the use of any of our Services.
+==========
+You can opt out of our customised advertising platform any time through My Trade Me and your Ads Options page.
+Trade Me also makes advertising space available through the DoubleClick AdExchange to other advertisers.
+If those advertisers use remarketing, you may see ads related to other websites you have previously visited.
+14.
+==========
+EXIF data in photos
+
+Photos often contain EXIF data.
+EXIF data may include location information, such as when and where each photo was taken, and details of the device used to take it.
+If you upload photos that include EXIF data to Trade Me, we will store this information and use it to better understand the use of photos on our site and to help us provide a safe marketplace.
+Your device may allow you to opt out of providing location information.
+15.
+==========
+Other information we collect
+
+We use additional information to do internal research on our users' demographics, interests, and behaviour to better understand and serve you and our community.
+This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what device, operating system and browser you are using, and your IP address.
+We may also use information from third parties, such as geo-demographic information.
+Trade Me uses information we hold about you to provide you with a more personalised experience, such as suggesting things you might like, and suggesting search terms to you based on your recent searches.
+You can disable previous search terms from appearing by clicking on the "settings" icon in the search box.
+==========
+Users who log in have their IP addresses recorded.
+This information will only be provided to legal authorities in cases of suspected fraud or for law enforcement purposes.
+This information is stored securely and will not be provided to other members or non-authorised parties.
+If you choose to post messages in our message areas or leave feedback for other users, we will collect that information you provide to us.
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.
+==========
+If you use Trade Me’s Tradevine service we will collect financial information (like product pricing and cost), shipping information for orders, and customer data (sales, order and delivery information) that you input into the Service.
+If you choose to link to Shopify, Xero or any other third party using Tradevine we will disclose to those parties the information required to facilitate that linkage.
+Customer service phone conversations may be recorded for internal training and quality assurance purposes.
+This helps us ensure the information we provide members is consistent and accurate.
+Phone records will be stored securely and will generally be retained for up to six months.
+When third parties supply us with information in line with their terms and conditions, we may use this information to serve you with more relevant advertising content.
+We may also collect publicly available information about you, such as for fraud prevention purposes.
+==========
+Trade Me uses Crazy Egg to provide insight into the way members interact with individual pages on our site.
+Crazy Egg uses anonymous cookies to collect data, such as your browser, operating system or mobile device information, IP address, geographic location, time of visit and referring site, application or service, to present Trade Me with reports in an anonymous and aggregate format.
+You can review Crazy Egg’s privacy policy here, and opt out of this service here.
+16.
+Membership removal
+
+If you wish to have your registration removed from our directory for any reason, you may send us an email requesting this.
+17.
+==========
+Internet statistics and analytics
+
+Trade Me, like most large New Zealand websites, uses the Nielsen Online counting system to collect information such as the number of visitors per day or the number of pages requested per day.
+To do this, Trade Me has a small piece of code on each page which counts these statistics.
+This enables us to see where we are in the "top 10" list of New Zealand websites.
+For more information, view the Nielsen Online privacy policy.
+==========
+Trade Me uses Google Analytics to better understand the behaviour of visitors to our website, and to improve our website.
+For example, it helps us to identify how many users visit a particular page, and how many take a further step, such as bidding.
+We have opted out of Google Analytics' data sharing settings.
+For more information, view Google Analytics' information on safeguarding your data.
+Trade Me uses Google Analytics Demographics and Interest reporting to give us insight into users behaviour, and to serve you with more relevant content.
+Information we collect through this reporting service is in aggregate form, and anonymous.
+You can opt out of Google Analytics Display Advertiser Features here.
+18.
+==========
+Mobile applications
+
+If you are using one of our mobile applications, and you accept that Trade Me can send you "Push Notifications", you agree to receive notifications from Trade Me even if your Trade Me mobile application is not running.
+"Push Notification" preferences can be configured in the application's settings.
+Trade Me uses Flurry to support our mobile applications.
+Flurry collects data for performance analysis, usage behaviour, technical information about the device, firmware and carrier.
+This information is confidential and available only to Trade Me in an aggregate form and individual user data is not identifiable.
+The data collected helps Trade Me to continue to develop applications that meet users' needs.
+For more information, view the Flurry privacy policy.
+19.
+==========
+Updates to our information practices
+
+From time to time, we make changes to our information practices or alter the functionality of our website.
+We will communicate all changes to you by site announcement.
+Occasionally urgent changes will be required, but we will generally give you at least 2 weeks’ notice to review any changes.
+From time to time, we may seek your feedback on proposed changes on the Message board, or, for significant changes notify you directly via email.
+==========
+We always update this statement accordingly, so we encourage you to periodically review this page for the latest information on privacy practices at Trade Me.
+If you have any questions about our privacy policies or any other matter, please contact us.
+Last updated: 7 July 2015
+
+
+
+                Want further assistance?
+Call us on 0900 87233Available 24/7.
+Calls cost $1.99 + GST per minute.
+Email us
+                            your questionWe aim to respond within 12 hours.
+==========

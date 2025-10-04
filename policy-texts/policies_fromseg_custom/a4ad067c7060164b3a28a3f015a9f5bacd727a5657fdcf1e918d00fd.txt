@@ -1,0 +1,177 @@
+From Meta, discussion about Wikimedia projects
+
+Note: this is a draft document intended to document the current consensus on the site's implicit privacy policy.
+Interested parties are encouraged to edit this page directly or comment in the talk page to help shape an explicit policy.
+If you
+make an edit here which is not the current practice, please clearly indicate that it is a change and post about it in talk.
+It is
+not a legal contract, and should not yet be taken as authoritative.
+==========
+Summary
+If you only read the Wikipedia, no more information is collected than is typically collected in server logs by web sites in
+general.
+If you contribute to the Wikipedia, remember that Wikipedia is not a private chat room, not even on "talk" pages, which
+suggest by their name that they are transitory.
+This is a public place and you are publishing every word you
+post.
+In a sense, you don't have any privacy here.
+You're effectively working in an office where your employer is recording every
+conversation you have, anywhere in the office.
+==========
+If you write something, assume that it will be retained forever.
+This includes
+articles, "your" user page and "your" talk page.
+Some limited exceptions are described below.
+==========
+Publishing and public data
+Simply visiting the web site does not expose your identity publicly (but see private
+logging below).
+When you edit any page in the wiki, you are publishing a document.
+This is a public act, and you are
+identified publicly with that edit as its author.
+If you are logged in, you will be identified by your user name.
+This may be your real name if you so choose, or you may choose
+to publish under a pseudonym, whatever user name you selected when you created your account.
+==========
+If you have not logged in, the only identification of the author that we have is your network IP address.
+This is a series of four
+numbers which identifies the internet address from which you are contacting the wiki.
+Depending on your connection, this number
+may be traceable only to a large internet service provider, or specifically to your school, place of business, or home.
+It may be
+possible that the origin of this IP address could be used in conjunction with any interests you express implicitly or explicitly
+by editing articles to identify you even by private individuals.
+It may be either difficult or easy for a motivated individual to connect your network IP address with your real-life identity.
+==========
+Therefore if you are very concerned about privacy, you may wish to log in and publish under a pseudonym.
+When using a pseudonym,
+your IP address will not be available to the public, but it will be stored on the wiki servers for a relatively short amount of
+time.
+Thus it will be available to developers and may be released under certain circumstances (see below).
+If you use a company mail server from home or telecommute and use a DSL or cable internet connection, it's likely to be very
+easy for your employer to identify your IP address and find all of your IP based Wikipedia contributions.
+Using a user name is a
+better way of preserving your privacy in this situation.
+Deleting things from the Wikipedia does not really delete them.
+==========
+In normal articles, anyone can look at a previous version and
+see what was there.
+If an article is "deleted", any sysop/administrator, meaning almost anyone trusted not to abuse the deletion
+capability, can see what was deleted.
+Only a developer can permanently delete information from the Wikipedia and this is very
+unlikely to be done to protect privacy, except in response to legal action, or, possibly, in cases of harassment, which may
+be by a sysop toward another sysop?
+.
+==========
+Private logging
+Every time you visit a web page, you send a lot of information to the web server.
+Most web servers routinely maintain access
+logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites
+link to this one, and what web browsers people are using.
+It is not the intention of the Wikipedia to use this information to
+keep track of legitimate users.
+These logs are used to produce the site statistics pages (http://meta.wikipedia.org/stats/); the raw log data is not made public, and is normally discarded
+after about two weeks.
+==========
+Here's a sample of what's logged for one page view:
+64.164.82.142 - - [21/Oct/2003:02:03:19 +0000]
+"GET /wiki/draft_privacy_policy HTTP/1.1" 200 18084
+"http://en.wikipedia.org/wiki/Wikipedia:Village_pump"
+"Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/85.7 (KHTML, like Gecko) Safari/85.5"
+
+Log data may be examined by developers in the course of solving technical problems, in tracking down badly-behaved web spiders
+that overwhelm the site, or very rarely to correlate usernames and network addresses of edits in investigating abuse of the
+wiki.
+Policy on release of data derived from page logs
+It is the policy of Wikimedia that personally identifiable data collected in the server logs will not be released by the
+developers who have access to it, except as follows:
+
+In response to a valid subpoena or other compulsory request from law enforcement
+With permission of the affected user
+To Jimbo Wales, his legal counsel, or his designee, when necessary for investigation of abuse complaints.
+Where the information pertains to page views generated by a spider or bot and its dissemination is necessary to illustrate or
+resolve technical issues.
+To all curious/interested parties, sometimes except the user concerned, when it is believed that an IP address may be
+associated with a banned or otherwise abusive contributor, as part of the process of trying to determine whether this is in fact
+the case.
+==========
+because this has been done in the past - not sure if it will be in the future...
+
+Wikimedia policy does not permit public distribution of such information under any circumstances, except as described
+above.
+Policy regarding log retention
+It is the policy of Wikimedia that server log information, including any backup copies, is destroyed within one year of its
+creation.
+Will this be retained longer for abuse/security issues or at the request of law enforcement?
+==========
+E-mail
+You may optionally provide your e-mail address to associate with your account.
+Other logged-in users may send e-mail to you
+through the wiki (unless you disable this in your preferences), but your address will not be revealed to them unless you respond.
+[Or perhaps if the mail bounces, need to check this.]
+If you do not wish to provide an address you do not have to, but
+you will then not be able to reset your password if you lose it.
+If you subscribe to one of the project mailing lists (http://mail.wikipedia.org/), your
+address will be exposed to any other subscriber.
+The list archives are public, and your address may find itself quoted in
+messages.
+==========
+Cookies
+The wiki will set a temporary session cookie (PHPSESSID) whenever you visit the site.
+If you do not intend to ever log in, you
+may deny this cookie, but you cannot log in without it.
+It will be deleted when you close your browser session.
+More cookies may be set when you log in, to avoid typing in your user name (or optionally password) on your next visit.
+These
+last up to 30 days.
+You may clear these cookies after use if you are using a public machine and don't wish to expose your
+username to future users of the machine.
+(If so, clear the browser cache as well.)
+==========
+Right to Vanish
+If you have used your real name, or a longstanding pen name, on Wikipedia then in principle everything you write can be traced
+to that name, and thus to you, as discussed above.
+However, if you decide to leave Wikipedia, there are a few steps that you can
+take to weaken that connection.
+They are:
+
+Change your username to some other name, one which is not directly associated with you (contact a developer).
+Change references to your former username to be references to your replacement username (you can do this yourself).
+Delete your user and user talk subpages (contact an administrator).
+==========
+Replace your user page with a brief note indicating that you have left Wikipedia, and asking that people not refer to you by
+your name.
+You should note that while these measures afford a degree of practical obscurity, they will not stand up to assault from a persistent
+investigator, and Wikipedia has no control over its sublicensees, or over archiving services such as the Internet Archive or
+google.
+Further, these actions require a degree of co-operation from Wikipedia users, so Wikipedia cannot make guarantees on this
+matter.
+However, a few Wikipedians have taken advantage of these kinds of measures in the past, and appear content with the
+results.
+See right to
+vanish (meatballwiki)
+
+Personal information deletion
+The Wikipedia will delete personal information about contributors (most likely on on user and user talk pages) at their
+request, provided it is not needed for administrative reasons (which is generally limited to dealing with site misuse issues).
+Personal information about those who merit an encyclopedia article, when in the encyclopedia article, is not included in this.
+Personal information typically includes, but is not limited to, name, address, telephone number, instant messenger contact
+details, photograph, appearance, food tastes, political views and similar details of an individual person.
+==========
+Multiple accounts
+It is possible to create multiple Wikipedia accounts.
+While there may be some valid reasons to do so, in general the practice
+is discouraged as sock puppetry - that is, the attempt to unfairly influence the discussion amongst the Wikipedia
+community by attempting to create the false impression that more users share a particular opinion.
+This is especially a concern
+if more than one identity of a person votes on a particular discussion.
+==========
+Passwords
+Many aspects of the Wikipedia community interactions depend on the reputation and respect that is built up through a history
+of valued contributions.
+User passwords are the only guarantee of the integrity of a user's edit history.
+All users are
+encouraged to select strong passwords and to never share them.
+No one shall knowingly expose the password of another user to
+public release either directly or indirectly.
+==========

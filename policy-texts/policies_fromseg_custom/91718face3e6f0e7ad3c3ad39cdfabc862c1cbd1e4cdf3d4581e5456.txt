@@ -1,0 +1,56 @@
+We are always working to stay compliant, which helps make compliance easier for your business.
+We are audited regularly by third parties, maintain certifications, provide industry-standard contractual protections and share tools and information you can use to strengthen your business’ compliance.
+Our commitment to user privacy
+Keeping users’ information safe, secure and private is among our highest priorities at Google.
+==========
+Over the years, we have worked closely with data protection authorities around the world and have implemented strong privacy protections that reflect their guidance.
+We are well placed to meet the security requirements of the applicable data protection laws.
+Our services are backed by robust, state-of-the-art technical and organizational safeguards, dedicated security and privacy teams and our program is reviewed annually by third-party auditors.
+We will promptly inform you of incidents involving your customer data in line with the data incident terms in our agreements with you.
+We maintain and continue to invest in advanced threat detection and avoidance technologies, as well as a rigorous 24/7 incident management program to help you identify and respond to security or privacy events without delay and with available information.
+==========
+We provide transparency about how data is used in our ads products.
+We ask users for permission to use data to personalize ads and provide transparency into how the data is used in real time via the “Why this ad” feature.
+We provide detailed explanations on how we use data on safety.google.com and in our Privacy Policy.
+==========
+We also provide transparency to users on what data Google saves about them in their Google Account, where users can view and manage their data, privacy, and security settings.
+Users can go to their Ad Settings to control the use of data for ads personalization and for all ads shown by Google, including on our Google Marketing Platform products.
+As part of our continued commitment to give users controls to manage their privacy, we have updated our account creation experience to give users more options on what data they choose to save in their account.
+==========
+We already have processes to build privacy into our products from the very earliest stages, and we are continually evolving our practices, including Data Protection Impact Assessments, to meet worldwide changing requirements including those in the GDPR around Privacy by Design and Privacy by Default.
+Our commitment to data protection laws
+Privacy regulation is changing.
+We know you need to select products that are both compliant with all applicable data protection laws, and use personal data in ways that are compliant.
+Learn more about how Google is complying with specific privacy laws below.
+Audits and certifications
+Any data you share with Google is protected.
+Our products’ security controls are regularly audited in line with international standards to ensure all personal information is handled safely and responsibly.
+In addition, the effectiveness of our controls is reviewed by an independent third party every two years, at least.
+==========
+ISO 27001 (Information security management)
+ISO 27001 is one of the most widely recognized, internationally accepted independent security standards.
+Google has earned ISO 27001 certification for the systems, applications, people, technology, processes, and data centers serving Google Cloud Platform, G Suite and Google Ads.
+ISO 27017 (Cloud security)
+ISO 27017 is an international standard of practice for information security controls based on ISO/IEC 27002, specifically for cloud services.
+Google has been certified compliant with ISO 27017 for Google Cloud Platform products and G Suite.
+ISO 27018 (Cloud privacy)
+ISO 27018 is an international standard of practice for protection of personally identifiable information (PII) in public cloud services.
+Google has been certified compliant with ISO 27018 for Google Cloud Platform products and G Suite.
+ISO 27701 (Privacy information management)
+ISO/IEC 27701 is a global privacy standard that focuses on the collection and processing of personally identifiable information (PII).
+==========
+Google has been certified under ISO 27701 for Google Cloud Platform and Google Workspace.
+SSAE16/ISAE 3402
+The American Institute of Certified Public Accountants (AICPA) SOC 2 (Service Organization Controls) and SOC 3 audit framework defines Trust Principles and Criteria for security, availability, processing integrity, and confidentiality.
+Google has both SOC 2 and SOC 3 reports for Google Cloud Platform and G Suite.
+You can download our SOC 3 report.
+We also have SOC 1 Type 2 for AdWords, AdSense, DoubleClick Campaign Manager, DoubleClick for Publishers, and DoubleClick Ad Exchange, available to customers under NDA.
+==========
+FedRAMP
+FedRAMP is a program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services used by the U.S. federal government.
+Google maintains a FedRAMP Authorization to Operate (ATO) for G Suite and Google App Engine.
+==========
+PCI DSS (Payment Card Industry Data Security Standard)
+The Payment Card Industry Data Security Standard (PCI DSS) is a set of technical and operational requirements for entities that store, process, or transmit payment card data.
+The following Google services have been reviewed by an independent Qualified Security Assessor and determined to be compliant with the current version of PCI DSS: Android Pay, Google App Engine, Google Compute Engine, Google Cloud Storage, Google Cloud Datastore, Google Cloud SQL, Google BigQuery, Google Cloud Dataproc, Google Cloud Dataflow, Google Container Engine, Google Container Registry, Google Cloud Bigtable.
+==========

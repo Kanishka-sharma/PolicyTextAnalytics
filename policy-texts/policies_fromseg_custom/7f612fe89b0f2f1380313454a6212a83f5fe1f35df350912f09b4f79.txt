@@ -1,0 +1,131 @@
+DigitalOcean, LLC (herein referred to as "DigitalOcean") agrees to provide services to the Subscriber, subject to the following Terms of Service.
+Use of DigitalOcean's service constitutes acceptance and agreement to DigitalOcean's Terms of Service.
+DigitalOcean reserves the right to modify the Terms of Service without notice.
+1.
+==========
+Eligibility
+You may use our services, provided that you are of legal age to form a biding contract and are not barred from receiving such services under the laws of the United States or other jurisdictions.
+In order to access our services, you are required to provide current and factual identification, contact, and other information as part of the registration process.
+You are responsible for the confidentiality of your account information and for all activities that occur under your account.
+You are solely responsible for all content within your account.
+==========
+You agree to immediately notify DigitalOcean of any unauthorized use of your account or any other breach of security.
+DigitalOcean will not be liable for any loss or damage as a result of your failure to provide us with accurate information or to keep your account secure.
+2.
+==========
+Acceptable Use Policy
+Lawful use of the Network
+In using the Network, Users will comply with, and refrain from violations of, all applicable provisions of the United States Code, the Code of Federal Regulations, and the New York Revised Statutes, including but not limited to those statutes forbidding: (a) distribution of child pornography, (b) forgery, identity theft, misdirection or interference with electronic communications, (c) invasion of privacy, (d) violations of the CANSPAM Act, (e) collection of excessive user data from children, or other improper data collection activities, (f) securities violations, wire fraud, money laundering, or terrorist activities, or (f) false advertising, propagating or profiting from frauds and unfair schemes.
+Users will also comply with the affirmative requirements of law governing Network use, including but not limited to: (a) disclosure requirements, including those regarding notification of security breaches, (b) records maintenance for regulated industries, and (c) financial institution safeguards.
+Agreed Use of Allotted Network Resources
+Users shall not use any method to circumvent the provisions of the terms of service, or to obtain services in excess of those for which they contract with DigitalOcean.
+Users shall use only those IP addresses that are assigned to them by DigitalOcean, and shall not use any IP addresses outside of their assigned range.
+Users shall not use any mechanism to exceed the amount of Network resources assigned to them, or to conceal such activities.
+==========
+Injurious Code
+Users may not use the Network to distribute, receive communications or data gleaned from, or execute any action directed by any type of injurious code, including but not limited to: (a) trojans, (b) key loggers, (c) viruses, (d) malware, (e) botnets, (f) denial of service attacks, (g) flood or mail bombs, or (h) logic bombs.
+Email Violations
+In addition to being forbidden from performing any acts made illegal by the CAN-SPAM Act, Users may not send bulk email utilizing their Network resources unless they maintain a double-authorized list of subscribed members including IP addresses and relevant contact information, along with following guidelines for including removal links with all sent emails according to the CAN-SPAM act.
+Users are forbidden from taking any action that would result in their IP addresses, or any IP address associated with DigitalOcean or other Users, being placed on the Spamhaus.org blacklist.
+==========
+Restrictions
+You agree that you will NOT use DigitalOcean's services to: violate any applicable state or federal law and regulation, including, but not limited to, any copyright, trademark, patent, anti-piracy, or other intellectual property law or regulation, or encourage or enable others to violate any such law or regulation.
+Transmit, distribute, post, store, link, or otherwise traffic in information, software, or materials that is offensive, abusive, inappropriate, malicious, or detrimental, including, but not limited to, those that: Are pornographic, obscene, fraudulent, or discriminatory, including any containing nudity, erotica, profanity, or obscenities.
+You agree that you will NOT use DigitalOcean's services to run a Content Delivery Network.
+That includes but is not limited to using DigitalOcean's services to create a network of servers that transmit and/or distribute content for third parties specifically for the purpose of resell or otherwise free dissemination.
+Invasion of Privacy, Defamation, or Harassment
+Users may not use Network resources in a manner that would violate the lawful privacy rights of any person, or to publish or republish defamatory statements, or to harass and embarrass.
+Violation of Copyright, Trademark, Patent or Trade Secret
+Users may not use Network resources in violation of the copyrights, trademarks, patents or trade secrets of third parties, nor shall they utilize the Network to publish such materials in a manner that would expose them to public view in violation of the restrictions of law.
+==========
+The provisions of the DMCA will apply to issues presented by allegations of copyright violations by third parties.
+DigitalOcean will, in appropriate circumstances, terminate the accounts of repeat infringers.
+Other Violations
+The foregoing enumeration of violative acts is not meant to be exclusive, and DigitalOcean provides notice hereby that it has and will exercise its authority to take whatever action is necessary to protect the Network, Users, and third parties from acts that would be inimical to the purposes of this AUP as set forth above.
+Acts of Sub-Users
+Users are responsible for the acts of others utilizing their Network access, and will be held responsible for violations of this AUP by their sub-users or persons who gain access to the Network using the User's access codes.
+Any activity that a User is prohibited from performing by this AUP is equally prohibited to anyone using the Network-access of the User.
+Accordingly, Users agree to take the following actions to control the activities of those who connect to the Network by any means.
+==========
+Access Code Protection
+Users will utilize proper security protocols, such as setting strong passwords and access control mechanisms, safeguarding access to all logins, passwords, and verifying the trustworthiness of persons who are entrusted with account access information.
+Notification Regarding the AUP
+Users will notify all persons who receive Network-access of the provisions of this AUP, and will inform them that its terms are binding upon them.
+Remedial Action
+Users will notify DigitalOcean if and when they learn of any security breaches regarding the Network, and will aid in any investigation or legal action that is taken by authorities and/or DigitalOcean to cure the security breach.
+Remedies for Violations
+DigitalOcean may take any of the following appropriate actions to remedy violations of this AUP:
+Service Suspension or Termination
+DigitalOcean may suspend or terminate any account without refund by a User that violates the provisions of this AUP, as DigitalOcean may deem appropriate to the circumstances of the violation.
+DigitalOcean will provide prior notice of the intent to suspend or terminate service if the provision of notice will not, in DigitalOcean's judgment, run counter to the purposes of the AUP.
+3.
+==========
+Master Service Agreement
+Term
+The term of this Agreement shall be monthly, to commence on the date that the User sign-ups electronically for service by creating an account with an email address.
+Fees are billed by DigitalOcean on a monthly billing cycle commencing on the first of each month, ending on the last day of the month.
+Invoicing Policies
+All invoices are denominated, and User must pay, in U.S. Dollars.
+User will be billed on or around the first of each month, with payment due no later than the 10 days past the invoice date.
+Arrearages
+Payments not made within ten (10) days of invoicing will be deemed in arrears.
+For accounts in arrears.
+If any amount is more than ten days overdue, DigitalOcean may suspend service and bring legal action to collect the full amount due, including any attorneys fees and costs.
+Suspension for Nonpayment
+DigitalOcean may suspend some or all Services to User for failure to make timely payment.
+==========
+User Duties
+User will: Provide and maintain accurate personal and business identifying information, including Social Security Numbers, EIN Numbers, names, addresses, telephone numbers, and email addresses.
+Utilize proper security protocols, such as setting strong passwords and access control mechanisms, safeguarding access to all logins, passwords, verifying the trustworthiness of persons who are entrusted with account access information, and notifying DigitalOcean if and when any security breaches involving data hosted or stored at DigitalOcean occurs.
+Make full and timely payment of fees for services as selected pursuant to the terms of service.
+Provide DigitalOcean with accurate information relevant to assessing fees.
+Comply with the terms of this agreement, including the requirements of the terms of service, AUP, and Privacy Policy.
+==========
+Disclaimers and Waiver of Liability
+DIGITALOCEAN DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, REGARDING THE SERVICES PROVIDED HEREUNDER, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT.
+NO REPRESENTATION OR OTHER AFFIRMATION OF FACT REGARDING HARDWARE, SOFTWARE, OR SERVICES, NOR THE STATEMENT OR CONDUCT OF ANY AGENT OF DigitalOcean, SHALL BE DEEMED A WARRANTY FOR ANY PURPOSE OR GIVE RISE TO ANY LIABILITY WHATSOEVER.
+USER ACKNOWLEDGES THAT HE OR SHE HAS RELIED ON NO WARRANTIES OR STATEMENTS OTHER THAN AS MAY BE SET FORTH HEREIN.
+==========
+USER HEREBY WAIVES ANY AND ALL CLAIMS AGAINST DigitalOcean ARISING OUT OF USER'S PURCHASE OR USE OF THE SOFTWARE, OR ANY CONDUCT OF DigitalOcean'S OFFICERS, EMPLOYEES, OR AGENTS.
+DigitalOcean SHALL NOT, UNDER ANY CIRCUMSTANCES, BE LIABLE TO USER OR ANY THIRD PARTY IN ANY AMOUNT, OR FOR ANY INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL OR CONSEQUENTIAL DAMAGES, UNDER ANY CIRCUMSTANCES, INCLUDING, BUT NOT LIMITED TO, LOST PROFITS, REVENUE OR SAVINGS, LOSS OF GOODWILL, OR THE LOSS OF USE OF ANY DATA, EVEN IF DigitalOcean HAD BEEN ADVISED OF, KNEW, OR SHOULD HAVE KNOWN, OF THE POSSIBILITY THEREOF.
+NO DISCLOSURE BY DigitalOcean'S OFFICERS, EMPLOYEES, OR AGENTS, SHALL BE MADE A CAUSE OF LIABILITY.
+UNDER NO CIRCUMSTANCES SHALL DigitalOceanS AGGREGATE CUMULATIVE LIABILITY HEREUNDER, WHETHER IN CONTRACT, TORT, UNDER STATUTE, OR OTHERWISE, EXCEED THE AMOUNT OF ONE (1) MONTH OF SERVICE PROVIDED PURSUANT TO THIS AGREEMENT.
+USER ACKNOWLEDGES THAT THE FEES PAID BY HIM OR HER REFLECT THE ALLOCATION OF RISK SET FORTH IN THIS AGREEMENT AND THAT DigitalOcean WOULD NOT ENTER INTO THIS AGREEMENT WITHOUT THESE LIMITATIONS.
+Confidentiality
+User shall keep confidential any Confidential Information to which it is given access, and shall cooperate with DigitalOcean's efforts to maintain the confidentiality thereof.
+User shall not publish to third parties or distribute information or documentation that DigitalOcean provides for purposes of operating and maintaining its systems, including material contained in estimates, invoices, work orders, or other such materials.
+==========
+Backup
+User is solely responsible for the preservation of User's Data.
+Even with respect to Data as to which User contracts for backup services, DigitalOcean shall have no responsibility to preserve Data, the service is provided as is, without warranty.
+Export
+User shall comply with all applicable export and import control laws and regulations in its use of DigitalOcean Services, and, in particular, User shall not utilize DigitalOcean Services to export or re-export Data or Software without all required United States and foreign government licenses.
+User assumes full legal responsibility for any access and use of DigitalOcean Services from outside the United States, with full understanding that the same may constitute export of technology and technical data that may implicate export regulations and/or require export license, and represents that, should such a license be required, it shall be User's responsibility to obtain the same, and in the event of any breach of this duty resulting in legal claims against DigitalOcean, User shall defend and hold Licensor harmless from all claims and damages arising therefrom.
+Indemnification
+User shall defend, indemnify and hold harmless DigitalOcean from any and all claims or causes of action arising out of User's misuse of DigitalOcean Services.
+==========
+Termination
+Either party may terminate this Agreement if the other party fails to cure a material breach of the terms of this Agreement within thirty (30) days after receiving notice thereof.
+In the event DigitalOcean terminates this Agreement for User's material breach, any amounts owed to DigitalOcean hereunder before such termination will be immediately due and payable, any and all rights granted to user this Agreement will immediately be cancelled, and User shall promptly discontinue all use of the Services, relinquish any Confidential Information in User's possession or control.
+If DigitalOcean determines that User's failure to abide by the terms and conditions of this Agreement may give rise to unlawful consequences or cause an immediate risk of damage to DigitalOcean, other Users, or third parties, DigitalOcean may terminate this Agreement on less than thirty (30) days notice.
+Legal Compliance
+DigitalOcean may suspend or terminate Services and this Agreement immediately upon receipt of any lawfully issued notice from a court having jurisdiction over DigitalOcean, alleging the use of the Services to accomplish violations of law, pending the resolution of the relevant court proceeding.
+When subjected to lawful process requiring disclosure, DigitalOcean may disclose the User's identity and contact information, and DigitalOcean shall not be liable for damages or results thereof, and User agrees not to bring any action or claim against DigitalOcean for such disclosure.
+Survival
+All terms of this Agreement, which by their nature are intended to survive termination of this Agreement, shall so survive.
+Force Majeure
+Either party shall be excused from performing hereunder to the extent that it is prevented from performing as a result of any act or event which occurs and is beyond its reasonable control, including, without limitation, acts of God, war, weather, utility or telecommunications outages, unrest or riot, strikes any action of a governmental entity, etc.; provided that the party experiencing the force majeure provides the other with prompt written notice thereof and uses reasonable efforts to remedy effects of such force majeure.
+==========
+Choice of Law, Venue, Consent to Email Service and Waiver of Hague Convention Service Formalities
+Any claim arising under this Agreement shall be construed in accordance with the substantive and procedural laws of the State of New York, without regard to principles of conflict of laws.
+User consents to the jurisdiction of the State of New York.
+User consents to service of process via Domestic or International First Class Certified Mail and/or email at the land and email addresses set forth in the signature line below, and waives any requirement under the Hague Convention or other judicial treaty requiring that legal process be translated into any language other than English.
+==========
+Integration and Miscellaneous Provisions
+This Agreement, including all related agreements and policies incorporated by reference herein, constitutes the entire agreement between the parties related to the subject matter hereof, supersedes any prior or contemporaneous agreement between the parties relating to DigitalOcean's Services and shall not be modified except by a written agreement signed by both parties, specifically recording the intent to amend this Agreement.
+Any waiver of a provision of this Agreement must be in writing and signed by the party to be charged.
+A valid waiver hereunder shall not be interpreted to be a waiver of that obligation in the future or any other obligation under this Agreement.
+If any provision of this Agreement is prohibited by law or held to be unenforceable, the remaining provisions hereof shall not be affected, and this Agreement shall continue in full force and effect as if such unenforceable provision had never constituted a part hereof.
+This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute the same instrument.
+This Agreement may be signed electronically.
+==========

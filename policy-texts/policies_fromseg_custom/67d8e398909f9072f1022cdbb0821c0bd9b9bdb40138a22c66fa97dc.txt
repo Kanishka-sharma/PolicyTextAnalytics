@@ -1,0 +1,122 @@
+Security at Hotjar
+Information Security
+Data Safety, Privacy & Security
+Application Security
+Cloud Security
+Hotjar Cookies
+Security FAQs
+Hotjar IPs
+How long does Hotjar keep my data?
+Content Security Policies
+See more
+To function properly, Hotjar stores first-party cookies on your visitor's browser.
+Cookies are either set by the Hotjar script, or by visiting Hotjar's website.
+Displaying the correct content to your visitors without personally identifying anyone relies on Hotjar's cookies.
+If you are looking to not be tracked by Hotjar or any site that uses Hotjar, you may do so here.
+Should my users be aware of these cookies?
+Since privacy laws vary from country to country, we recommend that you consult with your legal team or company to determine which cookies need to be listed on your site and whether or not a cookie manager should be utilized.
+==========
+Cookies set by the Hotjar script
+Name Description Duration
+_hjClosedSurveyInvites Hotjar cookie.
+This cookie is set once a visitor interacts with a Survey invitation modal popup.
+It is used to ensure that the same invite does not re-appear if it has already been shown.
+365 days
+_hjDonePolls Hotjar cookie.
+This cookie is set once a visitor completes a poll using the Feedback Poll widget.
+It is used to ensure that the same poll does not re-appear if it has already been filled in.
+365 days
+_hjMinimizedPolls Hotjar cookie.
+==========
+This cookie is set once a visitor minimizes a Feedback Poll widget.
+It is used to ensure that the widget stays minimizes when the visitor navigates through your site.
+365 days
+_hjDoneTestersWidgets Hotjar cookie.
+This cookie is set once a visitor submits their information in the Recruit User Testers widget.
+==========
+It is used to ensure that the same form does not re-appear if it has already been filled in.
+365 days
+_hjIncludedInSample Hotjar cookie.
+This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.
+365 days
+_hjShownFeedbackMessage This cookie is set when a visitor minimizes or completes Incoming Feedback.
+This is done so that the Incoming Feedback will load as minimized immediately if they navigate to another page where it is set to show.
+==========
+365 days
+_hjid Hotjar cookie.
+This cookie is set when the customer first lands on a page with the Hotjar script.
+It is used to persist the Hotjar User ID, unique to that site on the browser.
+This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.
+365 days
+_hjRecordingLastActivity This should be found in sessionStorage (as opposed to cookies).
+This gets updated when a visitor recording starts and when data is sent through the WebSocket (the visitor performs an action that Hotjar records).
+Session
+hjTLDTest When the Hotjar script executes we try to determine the most generic cookie path we should use, instead of the page hostname.
+==========
+This is done so that cookies can be shared across subdomains (where applicable).
+To determine this, we try to store the _hjTLDTest cookie for different URL substring alternatives until it fails.
+After this check, the cookie is removed.
+Session
+_hjUserAttributesHash User Attributes sent through the Hotjar Identify API are cached for the duration of the session in order to know when an attribute has changed and needs to be updated.
+Session
+_hjCachedUserAttributes This cookie stores User Attributes which are sent through the Hotjar Identify API, whenever the user is not in the sample.
+These attributes will only be saved if the user interacts with a Hotjar Feedback tool.
+Session
+_hjLocalStorageTest This cookie is used to check if the Hotjar Tracking Script can use local storage.
+If it can, a value of 1 is set in this cookie.
+==========
+The data stored in_hjLocalStorageTest has no expiration time, but it is deleted immediately after creating it so the expected storage time is under 100ms.
+N/A
+_hjptid This cookie is set for logged in users of Hotjar, who have Admin Team Member permissions.
+It is used during pricing experiments to show the Admin consistent pricing across the site.
+Session
+_hjAbsoluteSessionInProgress The cookie is set so Hotjar can track the beginning of the user's journey for a total session count.
+==========
+It does not contain any identifiable information.
+30 minutes
+Visitors with Disabled Cookies
+Hotjar does not track or record visitors who have cookies disabled.
+In fact, the Hotjar script doesn't properly load its different components if it detects that cookies are disabled.
+Learn more
+Cookies set by visiting the Hotjar website
+Name Description Duration
+segment_id This cookie is set to distinguish users for a/b testing experimentations within Hotjar.
+365 days
+hjSiteLang This cookie is set when a page that supports multiple languages on hotjar.com is visited.
+This allows us to always load the content in the preferred language when available.
+==========
+365 days
+X-Access-Key Keeps your website session alive.
+Session
+JSESSIONID New Relic cookie which is used to monitor session counts for an application.
+Read more Session
+NREUM New Relic cookie which is only created in browsers that do not support the Navigation Timing API.
+Read more Session
+NRAGENT New Relic cookie, created only when a token is handed out to an end user by the New Relic server.
+Read more Session
+_ga Google Analytics cookie, used to distinguish users.
+==========
+Read more 26 months
+optimizely* Cookies set by Optimizely to run tests on hotjar.com.
+Read more Decided by Optimizely
+__hs*, hubspotutk, hsPagesViewedThisSession, hsfirstvisit Cookies set by HubSpot to keep track of visitors on hotjar.com.
+Read more Decided by HubSpot
+mp_* Cookies set by Mixpanel to run track usage on hotjar.com.
+Decided by Mixpanel
+__distillery Cookies set by Wistia for its video player.
+Decided by Wistia
+intercom-* Cookies set by intercom for its in-app messaging system.
+Decided by Intercom
+_fbp Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+3 months
+Learn more about cookies
+Most web browsers allow some control of most cookies through the browser settings.
+==========
+To find out what cookies have been set and how to manage and delete them, visit All About Cookies
+Related articles
+Data Safety, Privacy & Security
+How do Hotjar Recordings Work?
+What are Hotjar Requests?
+How to Suppress Text and Images from Collected Data
+Hotjar IPs
+==========

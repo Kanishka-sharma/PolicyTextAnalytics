@@ -1,0 +1,101 @@
+WHAT INFORMATION WE COLLECT ON YOU
+                
+
+                    This section describes in further detail the information we collect on you and how we use that information broken down by our Products and Services offerings.
+Public Network (Questions and Answers Content)
+                
+
+                    The Public Question and Answer Network (“public Network”) allows individual users to engage in a community to share their knowledge and expertise, and to acquire knowledge and expertise.
+It is community-moderated, and the content in the public Network is . . . public.
+==========
+To provide an optimal community experience, and to ensure Network security, we collect certain personal information.
+We collect information such as your username, password, email address, IP address (collected at each site visit).
+This information is also used to identify individual users to the public Network and to award activities and attribute them to you.
+==========
+Your username and additional content you provide including your profile picture, question and answer content, and your reputation are visible publicly.
+Other limited information is visible to moderators, who have elevated access privileges, and may access content including your posts.
+For more information about moderators and their role in the Stack Overflow Network, please visit: /help/site-moderators.
+In addition, when you choose to use certain features such as our chat or support features, we collect a record of your communications with us and other third parties that are accessible to chat participants and certain authorized third parties.
+Other account information and usage information including your IP address and browser data may be used for diagnosis, security and Product and Service optimization.
+==========
+Please be aware that when using the Public Question and Answer Network, you cannot revoke permission for Stack Overflow to publish and to allow others to have derivative rights to such public content once it is made public.
+The content you contribute on the public network is public, in perpetuity, and Stack Overflow loses direct control over such content when it is published on the open internet.
+This also means that if you post personal information about yourself, you do so at your own risk, including the risk of abandoning any privacy rights you had in such information.
+Additionally, from time to time, Stack Overflow makes such public content available via compilation via the Creative Commons Data Dump and by providing public content to the Stack Overflow Network, you should be aware that such content, once public, cannot often be removed from public view even if it is removed from the Stack Overflow network and our servers.
+==========
+Talent and Jobs
+                
+
+                    The Stack Overflow Talent platform allows for companies looking to hire and those seeking job opportunities to connect with each other and to engage in new employment opportunities.
+To optimize the recruitment experience, and to connect job seekers with jobs, we collect certain personal information on you the account holder (or account unregistered job seeker), and on the company and its authorized recruiters.
+Whether you are a recruiter seeking to hire on our Talent platform, or a registered account holder using our Jobs platform while seeking employment opportunities, we collect certain account registration information on you.
+For job seekers on the Jobs platform, we collect your name, location, email and resume (where applicable) along with certain optional information including your phone number and a cover letter (where applicable).
+For company authorized users using our Talent Platform to recruit developers, we collect certain account registration information on you including your name, email, and affiliated company.
+==========
+For job seekers who chose to participate in our Jobs platform your public profile can be observed and collected by those looking to hire you.
+For company authorized users your profiles are visible to authorized users of the company account and your contact details are visible to job seekers via direct messaging on the Talent platform.
+The information we collect on you as a job seeker is also used by Stack Overflow to customize job recommendations.
+==========
+You may additionally opt-in to specific features that rely on personal information.
+For example, you may elect to provide personal information in your Developer Story which collects certain CV-like information and achievements including employment history which may be used for recruiting purposes.
+Advertising Products
+                
+
+                    Stack Overflow partners with third parties to display advertisements on our public Network and within our Talent Platform.
+These partnerships provide third parties access to the developer community to promote themselves or services and to provide you with visibility into companies and third parties seeking to recruit you for employment opportunities, and for other purposes.
+==========
+In providing this opportunity, Stack Overflow and its third party partners may collect and use your personal information to tailor your advertising experience to suit your interests, skills, as well as to monitor your account activity in order to optimize our Products and Services.
+We seek to limit what information advertisers and similar third parties have access to, as well as to ensure that your user experience on the public and private Stack Overflow network is not overwhelmed by advertising initiatives.
+However, our advertising products and services require us to collect certain personal and non-personal information on you, which includes:
+                
+
+
+                        Data from advertising technologies like cookies, web beacons, pixels, ad tags, and browser/device identifiers
+                    
+
+                        Information you have provided to us directly including profile information, your Developer Story, and in limited instances your job history
+                    
+
+                        Usage analytics including your visits to the Network, browsing and search history
+                    
+
+                        Information from our advertising partners (e.g., device type and location)
+                    
+
+
+                    Stack Overflow for Teams
+                
+
+                    Stack Overflow for Teams allows you to share private content via authorized closed communities.
+==========
+When creating or joining a Team, we collect account registration information on you the Entity and you the individual.
+On behalf of the Entity, we collect Company or Entity name, Team Representative name, the names of authorized users, and you may elect to provide a Company or Team logo, trademark, or photo for account association purposes.
+As a participant in Stack Overflow for Teams, we require you to create an individual account on our public Network and we associate this account registration with your Team for account security purposes and to verify your identity.
+Account registration information as well as company or team affiliation information is displayed to authorized users of your Team.
+In addition to account registration and company or team affiliation information, Stack Overflow collects certain application metadata for the purposes of maintaining and enhancing the Stack Overflow for Team product and related services we provide.
+This metadata is only made available to Stack Overflow authorized personnel and in some cases authorized third parties under a duty of confidentiality.
+==========
+Any content you provide in the course of your use of the Stack Overflow for Teams product is shared privately with authorized users of your Team, and may include private questions and answers, votes, source code, and other sensitive data.
+Our collection of such content is solely to provide the Products and Services, and is provided pursuant to our private Network Terms.
+Stack Overflow personnel may not access such content except to the extent as may be required in response to a support request with your explicit permission, or when required for security or maintenance of the product or services.
+In such cases, Stack Overflow personnel will only access the minimum content necessary to resolve the issue and in accordance with the private Network Terms.
+==========
+Enterprise
+                
+
+                    Our Enterprise level platform is a privately hosted Question and Answer forum for large corporate clientele.
+The collection of personal data is limited to account registration information and usage analytics for product optimization.
+For additional information regarding the collection and processing of your Enterprise offering, please contact your account representative.
+==========
+Developer Survey
+                
+
+                    As the world’s largest developer community, Stack Overflow annually publishes a Developer Survey to provide key insights into the developer community, including demographic and certain personal information.
+Your participation in the Developer Survey as well as any other Stack Overflow survey is entirely voluntary.
+In order to provide meaningful insights into the developer community, Stack Overflow may collect sensitive data about you, including, but not limited to your gender, race, sexual orientation, immigration status, and your location.
+==========
+We consider this data to be among our most sensitive, and have taken elevated measures to protect such data as well as to de-identify your name and other personal information from such data.
+We restrict such data within Stack Overflow on a privileged basis to only those that need to see it and while we may share your personal information with certain third parties such as researchers, we do so only after imposing contractual obligations of confidentiality on such third parties and only where absolutely necessary for limited research purposes.
+When we publish the Developer Survey, it is published as a compilation of anonymized data, which means that we take every effort to ensure that your information is understood in a statistical narrative decoupled from your personal identity.
+If you have any questions concerning the Developer Survey and our security measures to protect your sensitive personal data, please contact us at: privacy (at) stackoverflow (dot) com.
+==========

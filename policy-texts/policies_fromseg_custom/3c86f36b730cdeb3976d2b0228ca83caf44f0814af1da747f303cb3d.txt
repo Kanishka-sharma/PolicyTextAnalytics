@@ -1,0 +1,660 @@
+Overview
+Knowledge Base
+Documentation
+Policies
+Enterprise support at no additional cost
+Meraki’s simple, all-inclusive pricing includes enterprise-class phone support cost.
+Kiss hidden fees and SMARTNet renewals goodbye.
+24x7 hour support available
+Make sure you're covered around the clock.
+Live technical assistance is available with 24x7, 365 days a year.
+==========
+Talk to your Meraki rep for pricing.
+Deep expertise and fanatical service
+Our support engineers have deep expertise in enterprise networking and wireless design.
+Meraki’s support team sits alongside the engineers who build Meraki’s products, providing a wealth of expertise.
+Real time cloud-based support tools
+Meraki’s support engineers use real time web-based tools to securely and quickly diagnose and troubleshoot your network, providing the speed and service of an on-site visit without the hassle.
+The best support call is the one you don't have to make
+Meraki’s self-provisioning hardware, automatic firmware updates, automatic network optimization, intuitive user interface and built-in contextual help dramatically reduce support incidents, providing reliable and hassle free enterprise networking.
+Support Eligibility
+Support Benefit Pro Enterprise 24 Hour
+Access to Knowledge Base
+Online Case-Based Support
+Firmware and Software Upgrades and Updates
+Live Business Hour Phone Support (7-6 PST, 8-5 GMT)  
+24 Hour Emergency Support    
+Response Time 24 hours 2 hours 1 hour
+Contact Support
+Dashboard
+Log in to submit cases and search the knowledge base.
+Hours
+Monday through Friday, Midnight to 6pm PST
+24x7 support avaliable, contact us.
+==========
+Support Holidays (Pro and Enterprise Support Only)
+Holiday Date
+Martin Luther King Day Jan 17
+Presidents' Day Feb 21
+Memorial Day May 30
+Independence Day July 4
+Labor Day Sep 5
+Thanksgiving Nov 24-25
+Christmas Eve Dec 23
+Knowledge Base
+Documentation
+Searchable Online Documentation
+Our online documentation system includes installation guides and manuals, is easily searchable, and allows you to quickly find information.
+View Documentation
+Downloadable Documentation
+The library includes datasheets, whitepapers, product images, and online tools.
+PDF files of product installation guides are also available.
+==========
+View Library
+Policies
+Product End-of-Life (EOL) Policy
+Return Policy and Requesting a RMA
+Privacy Policy
+Shipping Policy
+End User License Agreement (EULA)
+Subscriber Agreement
+GPL Source Code/Linux
+Product End-of-Life (EOL) Policy
+Meraki, Inc. may find it necessary to discontinue products for a number of reasons, including product line enhancements, market demands, technology innovation or the products simply mature over time and are replaced by functionally richer products.
+We have set our end-of-life policy to help customers better manage their product end-of-life transition.
+When a product reaches EOL, Meraki is committed to communicating important milestones throughout the EOL period.
+These notifications shall include the initial EOL notification, End of Sale (EOS) announcement and End of Support (EOST) dates, as well as other key information pertaining to Meraki, Inc. products.
+Any products being discontinued will be announced as End of Sale and identified on the Meraki website up to six months prior to the discontinuation and end of sale date also known as the last order date.
+On the end of sale date, discontinued products are removed from the price list and are no longer available for purchase.
+Meraki typically provides support for a given product for a period of five (5) years after the End of Sale date.
+If the discontinued product is not available for replacement or repair of an in-warranty return, Meraki reserves the right to satisfy the support requirement by replacing the discontinued product with functionally equivalent hardware.
+Definitions
+End-of-Sales Announcement: Date of official end-of-sales notice
+End-of-Sales Date: The last date to order the product through Meraki point-of-sale outlets.
+After this date, the product is no longer for sale via any channel.
+==========
+End-of-Support Date: The last date a product will be supported by Meraki, Inc.
+End-of-Life Products
+Product Announcement End-of-Sale Date End-of-Support Date
+Solar 9/3/2010 12/31/2010 12/31/2015
+Wall Plug 9/3/2010 12/31/2010 12/31/2015
+Indoor 3/3/2011 6/30/2011 6/30/2016
+MX50 7/15/2011 9/1/2011 9/1/2016
+MX70 1/18/2012 3/31/2012 3/31/2017
+Return Policy and Requesting a RMA
+Warranty Returns
+Meraki stands behind its products.
+All Meraki hardware products come with either a one year or lifetime warranty, as specified on the relevant Meraki data sheet.
+==========
+To request a return materials authorization (RMA), please complete our RMA request form.
+If your RMA request is approved, Meraki will email you an RMA number and a return shipping label free of charge.
+We will ship replacement units within 5 business days of receiving your defective units.
+If no trouble is found, we will contact you before taking further action.
+==========
+Products covered by the Meraki lifetime warranty are eligible for advance shipment.
+If you require advance shipment, please call Meraki technical support.
+Additional information about Meraki’s hardware warranty can be found in Meraki’s End User License Agreement.
+==========
+Refund Requests
+If you are dissatisfied with your Meraki purchase for any reason, you may return your order for a full refund.
+All returns must meet the following criteria:
+You purchased the product through an authorized Meraki reseller or direct from Meraki
+You are the original purchaser of the product
+You submit your refund request within 30 days of purchase
+The product is in new condition, including all accessories in the original packaging
+To request a refund, please complete our RMA request form.
+If your refund request is approved, Meraki will email you an RMA number.
+==========
+Once we have received and inspected the units, we will process your return.
+If you purchased through a Meraki reseller, your refunde will be issued by that reseller.
+If you purchased directly from Meraki, we will issue a refund, typically within 15 days of receiving the return.
+(If you paid by credit card we will credit the original credit card.
+If you paid by any other method, we will send you a check.)
+==========
+From time to time Meraki offers special refund terms.
+If your return is covered by special terms, please reference those terms on your RMA request.
+Please contact Meraki directly for all returns, including product purchased through distributors or resellers.
+Free Trial Returns
+If you would like to return units from a free trial, please complete our RMA request form.
+Shipment Preparation
+Please return units in their entirety.
+==========
+That is, include all power supplies, antennas, and other components along with the original product box.
+Please use the original shipping carton and packaging material.
+If this is not possible, use another shipping carton with padding to protect the units from damage during shipping.
+DO NOT ship a product without a carton.
+==========
+Once you have received your RMA number from Meraki via email, write this RMA number in large letters on the exterior of the shipping carton.
+Shipments to Meraki without an RMA approval will not be processed.
+Please send your return to:
+Meraki Returns
+RMA #XXXX (where #XXXX is your RMA number)
+660 Alabama St
+San Francisco, CA 94110
+You are responsible paying shipping back to Meraki using the carrier of your choice.
+Meraki recommends that the return package has a tracking number and is insured for the proper value of its contents.
+Meraki is not responsible for packages lost by carriers.
+==========
+Privacy Policy
+Meraki, Inc. (referenced to in this privacy policy as "Meraki", "we", "us", and "our") is the sole owner and operator of this site.
+This Privacy Policy applies to the Meraki Web site (located at www.meraki.com) and governs data collection and usage.
+Meraki knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly.
+We have established this Privacy Policy so that you can understand how we use and protect your Personal Information.
+==========
+"Personal Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address, an e-mail address, or other contact information, whether at work or at home.
+By visiting any of Meraki’s websites, or using a Meraki product, you are accepting the practices described in this Privacy Policy.
+Highlights
+Meraki doesn't require you to provide personal information to access the Internet on one of our networks.
+==========
+However, if you do, we will keep that information private and not share it with anyone, except under special circumstances that are specified in the privacy policy.
+If we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality measures.
+We may share aggregated non-personal information with third parties outside Meraki.
+Read more in the full privacy policy below.
+What Information Does Meraki Collect?
+You can visit Meraki’s web pages without telling us who you are or revealing any Personal Information about yourself.
+==========
+However, if you request customer service or request to have a member of our sales department contact you, we may ask for your name, email address, phone number and company name in order to provide the appropriate service.
+You can choose not to provide certain information, but then you might not be able to take advantage of many of our features.
+Generally, once you have purchased a Meraki product or service, Personal Information is not required to access the Internet via such Meraki product or service.
+When you browse the web using our equipment, our systems log the URLs and content of websites you visit, searches you make, and clicks on content.
+We track the location of the Meraki node you are accessing and your network device's (ie.
+PC, Wi-Fi-enabled phone, etc.) hardware address.
+Meraki does not log the information you enter into web forms, including user names and passwords, with the exception of web forms that are hosted by Meraki.
+==========
+We may set cookies in your browser or use your Internet Protocol (IP) address as a unique identifier to track your interests and gather usage information for aggregate use.
+IP addresses are not linked to Personal Information.
+We use both session ID cookies and persistent cookies to make it easier for you to navigate our site.
+A session ID cookie expires when you close your browser.
+==========
+A persistent cookie remains on your hard drive for an extended period of time.
+You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+We set a persistent cookie to store your passwords, so you don't have to enter it more than once.
+Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
+Cookies are used by our suppliers and third party vendors to enable the targeting and customization of content.
+We do not have access or control over these cookies.
+Depending on the device being used, cookies may be stored locally on your device, or on servers operated by Meraki.
+If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited.
+These third party suppliers and vendors also employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.
+==========
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.
+In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
+We do not tie the information gathered by clear gifs to our customers' personally identifiable information.
+==========
+Targeted Content and Advertising
+Meraki uses this tracking information for the following purposes: to customize the advertising and content you see, improve our services, conduct research, and provide anonymous aggregate reporting for internal and external clients.
+This targeting process is based on anonymous surfing behavior and will not include your Personal Information.
+If you would like to opt out, click here.
+==========
+In order to better target our advertising and to provide pertinent offers in which we think you would be interested, we may on occasion supplement the personal information you submitted to us with information from third party sources.
+To enrich our Profiles of individual customers, we tie this information to the personally identifiable information they have provided to us.
+Does Meraki Share Personal Information?
+We do not sell your Personal Information to other companies.
+We do share Personal Information as described below.
+We work with other companies and individuals to perform functions on our behalf.
+Some examples include fulfilling orders, delivering packages, sending postal mail and e-mail, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and providing customer service.
+These companies have access to Personal Information needed to perform their functions, but may not use it for other purposes.
+==========
+Meraki may supply aggregated site usage information to trusted partners to help target relevant content, ads, or to provide data analytics services.
+These companies do not have any right to share this information, except in the aggregate summary level with Meraki’s explicit consent.
+This information does not contain any personally identifiable information.
+==========
+As we grow, we might sell or buy stores, subsidiaries, or business units.
+In such transactions, Personal Information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise).
+Also, if Meraki, or substantially all of its assets are acquired, Personal Information will of course be one of the transferred assets.
+==========
+You will be notified via a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+We release Personal Information when we believe release is appropriate to comply with the law; enforce or apply our posted policies or contractual arrangements; or to protect the rights, property, or safety of Meraki, our users, or others.
+We may transfer Personal Information across borders and from your country to other countries around the world, and store Personal Information anywhere in the world.
+If you are subject to the European Union Data Protection Directive, laws implementing the Directive, or similar laws, by giving us your Personal Information, you consent to the transfer of your Personal Information outside of the European Union to the United States and other countries and to the use of your Personal Information by Meraki as described in this Privacy Policy.
+==========
+Presence, Location, and Tracking Information
+Meraki may know the approximate location of the wireless repeater that your wireless device is accessing whenever it is active.
+This location information may be used for aggregate reporting and targeting content and ads and is protected as described above.
+Retention of Information
+Meraki retains all of the information it collects under this Privacy Policy for 18 months, except for aggregate information, which it retains for as long as there is a business need for it.
+We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+==========
+How Accurate and Secure Is My Personal Information?
+Meraki is committed to maintaining the security of your Personal Information, and we take reasonable and appropriate precautions to protect the Personal Information that you share with us from unauthorized access, disclosure, alteration or destruction.
+Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure.
+Therefore, we cannot guarantee its absolute security.
+==========
+You may update or delete your Personal Information at any time via your Meraki Dashboard account (if you have one), under "settings".
+Or you may contact us as provided at the bottom of this Privacy Policy, and we will be happy to update or delete it for you, subject to verification of your identity.
+Even if your Personal Information is updated or deleted, residual copies may take up to 60 days to be removed from our active servers, and may remain on our back-up servers.
+What Else Should I Know?
+When we collect your Personal Information, we will provide a means for you to opt-out of Meraki’s sharing your Personal Information with our business partners, and/or Meraki’s use of your Personal Information for Meraki’s marketing purposes.
+If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in each email or by contacting us through one of the methods listed below.
+==========
+If you choose to visit this site or use our products, your visit, use, and any dispute over privacy are subject to this Privacy Policy.
+Our Web site offers publicly accessible blogs or community forums.
+You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+To request removal of your personal information from our blog or community forum, contact us at [email protected].
+In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+==========
+We post customer testimonials on our web site which may contain personally identifiable information.
+We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+To request the removal of your testimonial, please contact us through one of the methods listed below.
+==========
+This Web site contains links to other sites that are not owned or controlled by us.
+Please be aware that we are not responsible for the privacy practices of such other sites.
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+This privacy statement applies only to information collected by this web site.
+Our Privacy Policy may change over time.
+We may e-mail you periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective.
+==========
+We encourage you to periodically review this page for the latest information on our privacy practices.
+Meraki, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information.
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+If you have any questions about this Privacy Policy, please contact us: Meraki, Inc., 660 Alabama St., San Francisco, CA 94110, USA ([email protected]).
+This policy was last updated on July 15, 2010.
+If you are not satisfied with our response you can contact TRUSTe here.
+The TRUSTe program covers only information that is collected through this Web site and does not cover information that may be collected through downloadable software or within the application.
+==========
+Meraki Shipping Policy
+Order Acceptance
+You will receive an email from [email protected] to the email listed in your Billing Address once you have successfully placed your order.
+This contains your order number, so look for this email and retain your order number for your records.
+Order Status
+Using your order number, you can find the status of your order on the Order Status page.
+==========
+Order shipment status is updated each business day after 8:30pm PST.
+Once your order ships you will receive an email notification to the email listed in your Shipping Address from our fulfillment house with tracking number for the shipment.
+You may want to double check in your bulk email folder in case you do not receive this email and the Order Status indicates the order has been shipped.
+Delivery Time and Shipping Rates within the United States
+Delivery time = Processing Time + Shipping Time
+NOTE: Business Days are Monday through Friday, excluding holidays observed by Meraki.
+Order Processing Time
+Orders with Ground delivery or International destinations will usually be processed in 1 to 2 business days.
+==========
+Delays may occur if there are special shipping requests or missing information.
+If you have not received notification of shipment within 3 business days, please check for email from [email protected] as there is likely a problem with your order.
+If you selected Next Day Air or Second Day Air delivery and your order was received by 11am PST, we will make every attempt to ship your order that day, but this is not guaranteed.
+Orders received after that cutoff will ship the next day.
+Delays may occur if there are special shipping requests that can not be resolved immediately.
+==========
+International Delivery Times Will Vary
+Delivery may be delayed by customs/import duties and local import requirements.
+Thus, the time it takes to get a shipment from the port of entry to the recipient's address can vary widely from country to country.
+Meraki is not able to influence local delivery practices.
+PO boxes:
+Meraki can not deliver to a PO box in the United States.
+Customers that place an order with a PO box delivery address will be contacted for an alternative address.
+For most international addresses, PO boxes are not acceptable delivery addresses.
+If your shipping address must include a PO box Meraki can not guarantee delivery.
+Please indicate in the Note to Shipper if you know you can receive a shipment and by which carrier you prefer.
+Your order will be charged the UPS rate for delivery.
+Special Delivery options:
+Include specific information relevant to the shipping address, like gate codes or where to deliver packages, in the second Address line.
+The UPS delivery man will most likely see this information, but we can not guarantee this.
+Shipping to a freight forwarder: Place the booking code in the Note to Shipper, and we will manually edit the order to include this in the PO line item.
+Information for the sales team: please send a mail to [email protected].
+Shipping via FedEx, USPS or DHL.
+Meraki can make adjustments to the shipment method if requested in the Note to Shipper.
+==========
+This may delay the order fulfillment.
+Your order will be charged the UPS rate for delivery.
+Other questions about shipping, please contact [email protected].
+Note that comments in the Note to Shipper field may cause a delay in order fulfillment due to manual intervention.
+==========
+If you are sending an order to a military base, follow this format when entering the address during Checkout:
+Name: First name, Last name
+Business Name: Leave blank
+Address: Primary delivery information
+Address: Any additional delivery information
+City: APO/FPO information (not including zip)
+Country: United States
+State: Other
+Postal Code/Zip: Zip code
+Phone: Contact number for delivery issues
+Email Address: Your email address
+Select UPS Ground.
+Since UPS does not deliver to Military Addresses, we will manually adjust your order to USPS service.
+Canceling or Modifying an Order:
+Once your order has been accepted and submitted for fulfillment there are limited modifications that you can make to your order.
+==========
+Please contact [email protected] as soon as possible if you require some adjustment.
+You may be responsible for any applicable adjustment, handling and/or shipping fees if applicable.
+Requesting Return Merchandise Authorization (RMA)
+Please review our Returns Policy.
+==========
+International Power Adapters:
+Meraki offers 4 different plug types for the power adapters that ship with the routers.
+All power adapters accept power input 100-240 V 50/60 Hz AC.
+There are 4 variations of input plug types as follows.
+==========
+Meraki designation Description
+US Type A; 2 pin;
+EU Type C; Europlug, CEE 7/16; 2 pin
+UK Type G; British 3 pin, ungrounded
+AU Type I; Australian/New Zealand 2 pin
+
+International Certifications
+The Meraki Indoor is certified for operation in the following countries:
+Australia, Austria, Belgium, Bulgaria, Canada, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Netherlands, New Zealand, Northern Cyprus, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Thailand, United Kingdom, United States.
+The Meraki Outdoor is certified for operation in the following countries:
+Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, India, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Mexico, Netherlands, New Zealand, Northern Cyprus, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, South Africa, Spain, Sweden, Switzerland, Thailand, United Kingdom, United States.
+The Meraki Solar is certified for operation in the following countries:
+Australia, Austria, Belgium, Brazil, Bulgaria*, Canada, Cyprus*, Czech Republic, Denmark, Estonia*, Finland, France, Germany, Greece, Hungary, Iceland, India*, Ireland, Italy, Latvia*, Liechtenstein, Lithuania*, Luxembourg, Malta*, Mexico*, Netherlands, New Zealand*, Northern Cyprus*, Norway*, Poland, Portugal, Romania*, Slovakia*, Slovenia*, South Africa*, Spain, Sweden, Switzerland, Thailand, United Kingdom, United States.
+==========
+* The customer must arrange for their freight forwarder for shipping Meraki Solars to these countries.
+If you choose to ship Meraki equipment to a country not on the above lists, you take full responsibility for operation of the devices.
+Please contact [email protected] if you have a question about certification in the destination country.
+==========
+Tax information
+In accordance with applicable law, the Meraki Store collects tax in CA and MA.
+Sales tax is applied to the total amount of the order and is based on the shipment's destination state and local sales tax rates.
+Placing a Sales Tax-Exempt Order for Delivery in the United States
+Qualified groups and individuals may place a sales tax-exempt order once we have your tax-exempt certificate on file.
+Fax or email a copy of your state- or federal government-issued certificate to 415-632-5899.
+Tax-exempt orders have to be made by contacting [email protected] The Meraki Store can not process tax-exempt orders at this time.
+==========
+Customs/Import Duties
+On International orders, customs and import duties are applied once the shipment reaches its destination.
+These charges are the responsibility of the recipient of your order and will vary from country to country.
+Contact your local customs office for details.
+==========
+End User License Agreement
+This End User License Agreement (the “Agreement”) is a legal agreement between Meraki Inc., a Delaware corporation with offices at 660 Alabama St., San Francisco, CA 94110 (“Meraki”) and You (“Customer”) regarding the use of Meraki’s  services (”Services”) and Meraki Hardware and Software acquired by Customer either directly from Meraki or through one of Meraki’s authorized resellers.
+THIS IS A LEGALLY BINDING AGREEMENT BETWEEN YOU AND MERAKI.
+IF YOU DO NOT AGREE WITH ITS TERMS, PLEASE RETURN THE MERAKI HARDWARE TO THE LOCATION WHERE YOU PURCHASED IT FOR A REFUND WITHIN 30 DAYS OF YOUR PURCHASE.
+CONTINUED USE OF THE MERAKI HARDWARE, SOFTWARE AND/OR SERVICE FOLLOWING SUCH 30 DAY PERIOD WILL BE DEEMED ACCEPTANCE OF THESE TERMS IN FULL.
+==========
+ARTICLE 1
+SERVICE
+1.1 Service.
+Contingent upon Customer’s valid subscription and good-standing with Meraki, Meraki shall provide the Service identified in the applicable order or evaluation (“Order”) to Customer.
+The provision of the Services may require the use of the Meraki Hardware and Meraki Software identified on the applicable Order.
+Meraki shall perform maintenance services as reasonably necessary to maintain the operation of the Service.
+Notwithstanding the foregoing, Meraki makes no guarantees as to the continuous availability of the Service or any component thereof.
+==========
+1.2 Billing Service.
+In the event that Customer has chosen to obtain “Billing Services” from Meraki, the following additional terms shall apply: (1) Meraki shall provide any and all End Users (defined below) that access the Customer’s Meraki Hardware and Meraki Software (“Customer’s Port”) and who have agreed to the applicable terms and conditions for use of Customer’s Port access to the Internet; (2) Meraki shall bill (and subject to its then current policies) collect the fees for such End User’s access for the fee amounts as instructed by Customer from time to time; (3) Meraki is only providing a ministerial collection function, funds collected by Meraki are those of the Customer and Meraki has no liability for any loses; (4) Meraki is holding the funds in trust during the period prior to remittance to the customer, (5) Meraki is exempt from backup withholding requirements, and (6) following retention of the Billing Fee indicated on the Customer’s then current fee schedule for such billing service, remit any remaining amounts to Customer in accordance with this Agreement, or at its option offset such amounts from amounts owing by Customer to Meraki.
+Meraki shall pay or offset all such amounts received from such Customer’s End Users within 30 days of its receipt by Meraki.
+In the event an End User pays Meraki by credit card and Meraki is unable to receive such payment from the credit card company for any reason, including without limitation End User disputing the charge (the “Charge-back Event”), then (i) Meraki shall be relieved of its payment obligations to Customer under Section 1.2, or (ii) Meraki may invoice and obtain from Customer a full refund of amounts already paid by Meraki to Customer.
+Upon the written request of Customer, Meraki shall produce reasonable documentation of the Charge-back Event.
+It shall be Customer’s sole responsibility to dispute the charge with the relevant credit card company.
+==========
+During the month of such service and for a maximum of 12 months thereafter, Meraki shall keep all records online with regards to its transactions with Customers.
+Customer shall have the right to view such records online.
+1.3 Customer Responsibilities.
+==========
+Customer acknowledges and agrees that certain proprietary software of Meraki (“Meraki Software”) is embedded in the Meraki Hardware, downloaded by Customer, or loaded into the Customer’s web browser, and that use of such Meraki Software is subject to the following license.
+Subject to the terms and conditions of this Agreement, Meraki grants to Customer an individual, personal, perpetual, non-sublicensable, non-exclusive and non-transferable license to use the Meraki Software, in object-code form only.
+ARTICLE 2
+SOFTWARE LICENSE
+2.1 License Grant.
+==========
+Customer acknowledges and agrees that certain proprietary software of Meraki (“Meraki Software”) is embedded in the Meraki Hardware purchased under an Order and that use of such Meraki Software is subject to the following license.
+Subject to the terms and conditions of this Agreement, Meraki grants to Customer an individual, personal, perpetual, non-sublicensable, non-exclusive and non-transferable license to use the Meraki Software, in object code form only, and solely in conjunction with the Meraki Hardware for the purposes of providing Internet access to End Users in connection with the Service.
+“End Users” means those persons who obtain access to the Internet for their own personal use and not for resale, and who agree to Meraki’s then-current terms of use.
+2.2 Restrictions on License and Use.
+Customer will not, and will not permit others to, whether directly or indirectly: (i) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code or underlying ideas or algorithms of the Meraki Software (except to the extent that such activities may not be prohibited under applicable law); (ii) modify, translate, or create derivative works based on the Meraki Software; (iii) rent, lease, distribute, sell, resell, assign, or otherwise transfer rights to the Meraki Software; (iv) use or otherwise exploit third party hardware or medium in using either the Meraki Software or the Service; or (v) remove any proprietary notices or labels on the Meraki Software.
+==========
+2.3 Ownership.
+Customer acknowledges that Meraki retains exclusive ownership throughout the world of all intellectual property rights in the Meraki Software, any portions or copies thereof, and all rights therein.
+Upon termination of this Agreement for any reason, Customer may retain the Meraki Hardware and Meraki Software, and the license shall survive, but the Services will terminate.
+==========
+2.4 Trade Names.
+Neither party shall have the right to use the other’s name, trademark or trade name without the prior written consent of the other party; provided however, nothing herein shall prevent Meraki from using Customer’s name as part of a customer list on its website or in connection with its other customer listings.
+ARTICLE 3
+HARDWARE
+3.1 Purchase.
+Subject to the terms and conditions of this Agreement, Customer will purchase and Meraki will sell the Meraki Hardware identified on a mutually agreed upon Order.
+Following acceptance of an Order by Meraki, Customer may not cancel or reschedule any Order without the prior written permission of Meraki, provided in its sole discretion.
+==========
+3.2 Shipping, Title and Risk of Loss.
+Meraki shall use commercially reasonable efforts to deliver the Meraki Hardware by the date on the mutually agreed upon Order and will promptly inform Customer in the event of a delay in delivery.
+Customer may identify the carrier for shipping.
+Where no shipping instructions are specified, Meraki may select the carrier on a commercially reasonable basis.
+Meraki shall invoice Customer for the cost of such shipping, insurance and related costs.
+All Meraki Hardware shipped pursuant to Orders shall be shipped FCA (Incoterms 2000) Supplier’s facility (title and risk of loss to the Meraki Hardware passes to Customer when Meraki Hardware is delivered to the carrier at Meraki’s manufacturing facility).
+==========
+3.3 Export/Import Requirements.
+Customer will procure all import and export licenses and permits, pay all customs charges, and duty fees, and take all other actions required to accomplish the lawful import and export of the Meraki Hardware.
+Where applicable, Meraki shall be responsible for preparing (at Meraki’s cost) all documentation required for export.
+Customer warrants that it will comply in all respects with the export and re-export restrictions of law applicable to the Customer for each of the Meraki Hardware purchased from the Meraki hereunder.
+==========
+3.4 Return.
+For any return permitted under Meraki’s then-current return policy, Customer will request a Return Materials Authorization (“RMA”) number in writing with the reasons for the return request.
+Customer shall not return a Product without first obtaining an RMA.
+==========
+The Customer shall pay all costs associated with the transportation of the returned Products from Customer to Meraki.
+Risk of loss or damage to a Meraki Hardware returned to Meraki shall revert to Meraki upon receipt of the Meraki Hardware at Meraki’s facilities.
+3.5 Restrictions on Use.
+Meraki Hardware may only be used with Meraki Software.
+Customer agrees not to (i) disassemble or attempt to reverse engineer the Meraki Hardware, (ii) remove or erase the Meraki Software from the Meraki Hardware, or otherwise try to disable or alter the Meraki Software functionality; or (iii) load any other software onto the Meraki Hardware.
+==========
+ARTICLE 4
+FEES AND PAYMENT
+4.1 Fees.
+Customer shall pay Meraki the fees set forth in the mutually agreed upon Order for the Service designated therein and such other fees and amounts that may be invoiced in accordance with this Agreement by a payment method to be determined by Meraki in its sole discretion (credit card, invoice, purchase order, prepayment or other payment method).
+Meraki reserves the right to change the form of payment upon reasonable prior notice to Customer.
+With respect to materials shipped by Meraki to Customer hereunder, Customer shall pay all applicable shipping charges.
+If for any reason Customer needs to reactivate Customer’s subscription, Customer may be charged a reactivation fee.
+All fees owing hereunder shall be payable within thirty (30) days from date of Meraki’s invoice therefor.
+Past due amounts owing from Customer shall bear interest at the rate of the lesser of (1) 1% per month or (2) the maximum amount permitted under applicable law.
+Customer will reimburse Meraki for all reasonable costs incurred (including reasonable attorney’s fees) in collecting past due amounts owed by Customer.
+4.2 Currency.
+All payments made under this Agreement shall be in U.S. dollars, including without limitation those payments to be made by Meraki to Customer.
+==========
+4.3 Contact Information.
+Customer agrees to provide Meraki with accurate billing information and with truthful, accurate, and complete contact information, including Customer’s legal name, company name, street address, e-mail address, and telephone number, and to update this information within thirty (30) days of any change to it.
+If the contact information Customer have provided is false or fraudulent, Meraki reserves the right to terminate Customer’s access to the Service immediately without any further obligation.
+==========
+4.4 Taxes.
+Fees are exclusive of any taxes and duties or other amounts, however designated, and Customer shall pay all applicable sales, use, personal property or other taxes, tariffs, duties, assessments, or governmental charges levied or imposed at any time by any governmental authority, including interests and penalties thereto, that is related to the Service (collectively “Taxes”), and exclusive of Meraki’s net income and corporate franchise taxes.
+In the event that Meraki is required to pay any Taxes, Customer shall pay Meraki the fees under Section 4.2 and the U.S. dollar equivalent of such Taxes levied upon Meraki.
+==========
+ARTICLE 5
+TERM AND TERMINATION
+5.1 Term.
+This Agreement shall be effective from the Effective Date and shall continue to stay in effect until terminated under Section 5.2.
+5.2 Termination.
+==========
+Meraki or Customer may at any time and for any reason terminate this Agreement effective upon 30 days prior written notice, with effect of such termination on the termination of the then-current billing cycle.
+In addition Meraki may at its option either terminate or suspend this Agreement or Service thereunder effective upon five (5) days prior written notice in the event of a breach by Customer.
+Any termination as contemplated above shall not affect the obligations of Customer to pay Meraki for Service provided or work performed prior to termination.
+Customer will pay in full for the Service up to and including the last day of the then-current billing cycle.
+==========
+5.3 Effect of Termination.
+Upon termination, Customer will immediately cease all use of the Service.
+The following provisions of this Service Agreement shall survive termination of this Agreement: Sections 4.1, 4.2, 4.4, 5.3, and Articles 2, 6 and 7.
+Termination is not an exclusive remedy and all other remedies will be available whether or not the license granted herein is terminated.
+ARTICLE 6
+REPRESENTATIONS AND WARRANTIES; DISCLAIMER; REMEDIES
+6.1 Mutual Warranties.
+==========
+Each party hereby represents and warrants to the other during the Term as follows: it has all necessary corporate power and authority to execute and deliver this Agreement, to perform its obligations hereunder and to consummate the transactions contemplated hereby.
+This Agreement constitutes a legal, valid and binding obligation of the warranting party enforceable against the warranting party in accordance with its terms.
+6.2 Meraki Hardware.
+Meraki represents and warrants to Customer during the Term, and not to any End Users or third parties, that for the Warranty Period such Meraki Hardware shall be free from material defects in materials and workmanship.
+==========
+The Warranty Period shall be the greater of one (1) year or the warranty period specified on the relevant Meraki specification sheet.
+The Warranty Period shall begin on the date Meraki ships product to Customer.
+If any Meraki Hardware contains manufacturers’ warranties, to the fullest extent permitted thereunder, Meraki hereby assigns (to the extent possible under such warranties) such warranties to Customer.
+Meraki Hardware not meeting the warranties will be, at Meraki Hardware’s option, (a) repaired, (b) replaced by Meraki in accordance with the procedures set forth in Section 4.5 or, if after using all reasonable commercial efforts Meraki is unable to do either of the foregoing, (c) refund the amount of purchase price paid by Customer.
+All Meraki Hardware repaired or replaced under warranty shall be warranted for the remainder of the warranty period set out in this Section 6.1.
+==========
+Any warranty contained in this Agreement does not apply to defects resulting from misuse, accidental damage or operation outside of the ordinary use of the Meraki Hardware and Meraki Software unless such defects are directly or indirectly caused by Meraki or Meraki’s authorized representative.
+The remedies set forth in this Section 6.2 are Meraki’s sole liability and Customer’s sole remedy for any breach of warranty for the Meraki Hardware sold by Meraki to Customer.
+6.3 Disclaimer of Warranties.
+==========
+EXCEPT AS SET FORTH IN SECTION 6.1 and 6.2, MERAKI DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT.
+CUSTOMER UNDERSTANDS AND AGREES THAT THE SERVICE AND MERAKI SOFTWARE AND MERAKI HARDWARE ARE PROVIDED “AS IS.”
+MERAKI MAKES NO WARRANTY THAT THE SERVICE (INCLUDING MERAKI SOFTWARE AND MERAKI HARDWARE) WILL MEET CUSTOMER’S REQUIREMENTS, OR THAT USE OF THE SERVICE (INCLUDING MERAKI SOFTWARE AND MERAKI HARDWARE) WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; NOR DOES MERAKI MAKE ANY WARRANTY AS TO THE ACCURACY OR RELIABILITY OF ANY INFORMATION OBTAINED THROUGH THE SERVICE, MERAKI SOFTWARE OR MERAKI HARDWARE, THAT ANY DEFECTS IN THE SERVICE MERAKI SOFTWARE OR MERAKI HARDWARE WILL BE CORRECTED.
+FURTHER, MERAKI DOES NOT WARRANT THAT THE SERVICE, MERAKI SOFTWARE OR MERAKI HARDWARE OR THE MERAKI SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+MERAKI ALSO ASSUMES NO RESPONSIBILITY, AND SHALL NOT BE LIABLE FOR ANY DAMAGES TO, OR VIRUSES THAT MAY INFECT CUSTOMER’S HARDWARE, SOFTWARE, OR OTHER DELIVERABLES.
+MERAKI AND ITS SUPPLIERS DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, REGARDING THE SERVICE, MERAKI HARDWARE OR MERAKI SOFTWARE, INCLUDING ANY IMPLIED WARRANTY OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON- INFRINGEMENT OF THIRD PARTY RIGHTS.
+Because some jurisdictions do not permit the exclusion of implied warranties, portions of this section may not apply to Customer.
+==========
+6.4 Exclusion and Limitation of Liability.
+IN NO EVENT WILL MERAKI OR ITS SUPPLIERS BE LIABLE TO CUSTOMER OR ANY THIRD PARTY FOR ANY LOST PROFITS, USE OF USER INFORMATION, LOSS OF DATA, BUSINESS INTERRUPTION, OR OTHER INDIRECT, CONSEQUENTIAL, SPECIAL, OR INCIDENTAL DAMAGES OF ANY NATURE ARISING FROM OR RELATING TO CUSTOMER’S USE OF THE SERVICE OR USE OF THE SERVICE THROUGH CUSTOMER’S ACCOUNT BY ANYONE ELSE, EVEN IF MERAKI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO CASE WILL MERAKI’S TOTAL CUMULATIVE LIABILITY TO CUSTOMER AND ANYONE WHO USES THE MERAKI SERVICE THROUGH CUSTOMER’S ACCOUNT, FOR ANY AND ALL CLAIMS UNDER ANY THEORY OF LAW, EXCEED THE AGGREGATE AMOUNT CUSTOMER PAID TO MERAKI IN THE PRECEDING TWELVE (12) MONTHS.
+CUSTOMER UNDERSTANDS THAT THESE LIMITATIONS OF MERAKI’S AND MERAKI’S SUPPLIERS’ LIABILITY ARE A FUNDAMENTAL PART OF THIS AGREEMENT.
+Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to Customer, in which case Meraki’s liabilities shall be limited to the maximum extent allowed by law.
+6.5 Indemnity.
+CUSTOMER AGREES TO DEFEND, INDEMNIFY AND HOLD HARMLESS MERAKI FROM AND AGAINST ANY AND ALL CLAIMS, PROCEEDINGS, INJURIES, LIABILITIES, LOSSES, COSTS AND EXPENSES (INCLUDING REASONABLE ATTORNEYS’ FEES), INCLUDING, BUT NOT LIMITED TO, CLAIMS ALLEGING NEGLIGENCE, COPYRIGHT INFRINGEMENT AND/OR TRADEMARK INFRINGEMENT AGAINST MERAKI OR THE MERAKI SERVICE, RELATING TO OR ARISING OUT OF CUSTOMER’S BREACH OF ANY TERM OF THIS AGREEMENT, CUSTOMER’S OR ITS END USEER’S MISUSE OF THE SERVICE, OR CUSTOMER’S UNAUTHORIZED MODIFICATION OR ALTERATION OF THE MERAKI HARDWARE OR MERAKI SOFTWARE.
+==========
+ARTICLE 7
+MISCELLANEOUS
+7.1 Force Majeure.
+Neither Party shall be liable hereunder by reason of any failure or delay in the performance of its obligations hereunder (except for payment obligations) on account of strikes (other than strikes of a party’s own employees), shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, governmental action, labor conditions (other than with respect to a party’s own employees), earthquakes, material shortages or any other causes that are beyond the reasonable control of such party; provided, however, that the parties will use commercially reasonable efforts, including the implementation of business continuity measures, to mitigate the effects of such force majeure.
+7.2 Independent Contractors.
+The Parties hereto are independent contractors.
+Neither Party to this Agreement nor any of its employees, customers or agents, shall be deemed to be the representative, agent or employee of the other Party for any purpose whatsoever, nor shall any of them have the right or authority to assume or create an obligation of any kind or nature, express or implied, on behalf of the other, nor to accept service of any legal claims or notices addressed to or intended for the other.
+==========
+7.3 Amendment; No Waiver.
+This Agreement cannot be amended, changed, modified or supplemented orally, and no amendment, change, modification or supplement of this Agreement shall be recognized nor have any effect, unless the writing in which it is set forth is signed by both Parties, nor shall any waiver of any of the provisions of this Agreement be effective unless in writing and signed by the Party to be charged therewith.
+The failure of either Party to enforce, at any time, or for any period of time, any provision hereof or the failure of either Party to exercise any option herein shall not be construed as a waiver of such provision or option and shall in no way affect that Party’s right to enforce such provision or exercise such option.
+No waiver of any provision hereof shall be deemed to be, or shall constitute, a waiver of any other provision, or with respect to any succeeding breach of the same provision.
+==========
+7.4 Governing Law.
+This Agreement will be governed by the laws of the State of California without regard to its conflicts of laws provisions.
+The state and federal courts within Santa Clara County, California will have exclusive jurisdiction over all disputes arising out of this Agreement.
+7.5 Export Control.
+Customer shall comply fully with all United States and other country’s export laws and regulations and ensure that the Service, or products related thereto, are not directly or indirectly exported or re-exported to any country, person, entity or end user in violation of, or for any use prohibited by, such export laws and regulations.
+==========
+7.6 Severability.
+If any portion of this Agreement is held invalid by a court of competent jurisdiction, such portion shall be deemed to be of no force and effect and this Agreement shall be construed as if such portion had not been included herein, provided however, if the deletion of such provision materially impairs the commercial value of this Agreement to either Party, the Parties shall attempt to renegotiate such provision in good faith.
+7.7 Entire Agreement.
+This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements, understandings and arrangements, oral or written, between the Parties with respect to the subject matter hereof.
+No agreement or representations, oral or otherwise, express or implied, with respect to the subject matter hereof have been made either Party which is not expressly set forth in this Agreement.
+==========
+7.8 Assignment.
+During the term of this Agreement, neither party shall have the right to assign this Agreement and the Service hereunder without the prior written consent of the other party, which shall not be unreasonably withheld.
+Any attempt to do so shall be void.
+Notwithstanding the foregoing, Meraki may assign or otherwise transfer this Agreement to its subsidiary, affiliate or successor in the event of a change of control or to the purchaser of substantially all of its assets or stocks.
+This Agreement shall be binding upon the respective parties hereto and their respective legal successors and permitted assignees.
+7.9 Headings.
+The headings used in this Agreement are for convenience of reference only and shall not affect the meaning or construction of this Agreement.
+==========
+7.10 Language.
+The official language of this Agreement is English.
+All contract interpretations, notices and dispute resolutions shall be in English.
+Any attachments or amendments to this Agreement shall be in English.
+Translations of any of these documents shall not be construed as official or original versions of such documents.
+==========
+Should you have any questions concerning this Agreement, or if you desire to contact Meraki for any reason, please contact [email protected].
+Subscriber Agreement
+This Subscriber Agreement (the "Agreement") is a legal agreement between you ("You") and Meraki Inc., a Delaware corporation with offices at 660 Alabama St., San Francisco, CA 94110 ("Meraki").
+BEFORE YOU CLICK ON THE "I AGREE" BUTTON, CAREFULLY READ THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+BY CLICKING ON THE "I AGREE" BUTTON, YOU ARE REPRESENTING THAT YOU ARE AT LEAST 18 YEARS OLD AND AGREE TO BE BOUND BY, AND ARE BECOMING A PARTY TO, THIS AGREEMENT.
+IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, CLICK THE "DECLINE" BUTTON AND YOU WILL NOT RECEIVE THE BENEFIT OF ANY SERVICES.
+==========
+SERVICE
+User Account.
+When You register and provide valid credit card information, a Meraki account will be created with an associated account number (“Meraki Account”).
+You are responsible for maintaining up-to-date and accurate information (including without limitation legal name, valid billing address, telephone number, credit card information) with respect to Your registration and Meraki Account.
+==========
+You are responsible for maintaining the secrecy of any passwords used in connection with Your Meraki Account and for all activities that occur under Your Meraki Account.
+Any activity that occurs under Your Meraki Account will be deemed to have been authorized by You.
+Pre-Payment.
+==========
+If You have not previously purchased a pre-paid Meraki services card, You must pre-pay for Your use of the Meraki services by providing a valid credit card and billing information.
+Your Meraki Account will be credited with service credits (“Credits”) in either the amount of Your pre-paid card that You activate, or the amount You have authorized to be charged to your credit card, and such pre-paid Credits may be applied towards the use of Meraki services at any location where the Meraki services are made available by a third party network operator (“Network Operator”).
+You may not convert, cash-out or otherwise transfer Credits.
+Charges for Credits will be either in U.S. dollars or the local currency of Your billing address, in Meraki’s discretion, and are exclusive of any taxes and duties or other amounts, however designated, which, if imposed by any taxing authority will be added to the prepayment amount charged to your credit card.
+==========
+Authorization.
+You hereby authorize Meraki to process Your credit card information and to charge your credit card in the amounts that You have purchased upon registration or when You update.
+All information that you provide Meraki will be used in accordance with Meraki’s then current Privacy Policy, available at: http://meraki.com/legal/privacy/.
+Notwithstanding the foregoing, you expressly authorize Meraki to share your credit card and Meraki Account information with the Network Operator where You access the Meraki Services.
+==========
+Internet Access.
+You acknowledge and agree that the Meraki Services and associated Internet access are made available to You through the Network Operator.
+Meraki is the Network Operator’s collection agent.
+If You should encounter any problems with Internet access or otherwise require technical support in connection with your use of the Internet, please contact your Network Operator.
+==========
+Your Responsibilities.
+You agree that you will comply with all applicable local, state, federal, and foreign laws in using the Meraki services and accessing and using the Internet.
+You assume all risk with Your use of the Meraki services and access and use of the Internet.
+You understand and agree that certain proprietary software of Meraki is embedded in the Meraki hardware.
+If You have access to Meraki hardware, you agree that you will not and will not permit others to, whether directly or indirectly use the Meraki hardware in any ways such as to: (i) reverse engineer, decompile, disassemble or otherwise attempt to discover the source code or underlying ideas or algorithms of the Meraki software (except to the extent that such activities may not be prohibited under applicable law); or (ii) remove any proprietary notices or labels on the Meraki hardware.
+==========
+Term and Termination
+Term.
+This Agreement shall be effective from the date You register and create a Meraki Account and shall continue to stay in effect until terminated under Section 2.2.
+If the contact information You have provided is false or fraudulent, Meraki reserves the right to terminate Your access to the Meraki services and Your Meraki Account immediately without any further obligation.
+==========
+Termination and Suspension.
+You may at any time and for any reason terminate this Agreement.
+Meraki may, at its option, either terminate or suspend this Agreement or Your access to Your Meraki Account if (i) Meraki has reason to believe You have violated any term of this Agreement, any applicable law, or have provided false or fraudulent information; or (ii) You make a request directly to Your credit card company to invalidate a payment previously authorized by You.
+If Your Meraki Account remains inactive (meaning You have not used the Credits for Meraki services for which You have pre-paid) for a period of one (1) year, we reserve the right to close Your Meraki Account.
+You will not be entitled to a refund of any pre-paid Credits for Meraki services, and Your Credits will not roll over to any subsequent Meraki Account You may open, if this Agreement is terminated or Your Meraki Account is closed in accordance with the terms of this Agreement.
+Effect of Termination.
+Upon termination of this Agreement Your Meraki Account will be closed and You will not be entitled to any refund of Credits purchased as a prepayment for Meraki Services that were not used prior to termination.
+Articles 3 and 4 shall survive termination of this Agreement.
+==========
+DISCLAIMER; Limiations of liability; REMEDIES
+Disclaimer of Warranties.
+MERAKI DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT.
+YOU UNDERSTAND AND AGREE THAT THE MERAKI SERVICES ARE PROVIDED "AS IS."
+MERAKI MAKES NO WARRANTY THAT THE SERVICES WILL MEET YOUR REQUIREMENTS, OR THAT USE OF THE MERAKI SERVICES OR ACCESS TO THE INTERNET WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; NOR DOES MERAKI MAKE ANY WARRANTY AS TO THE ACCURACY OR RELIABILITY OF ANY INFORMATION OBTAINED THROUGH THE MERAKI SERVICE OR INTERNET.
+FURTHER, MERAKI DOES NOT WARRANT THAT THE MERAKI SERVICE OR MERAKI HARDWARE OR THE MERAKI SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+MERAKI ALSO ASSUMES NO RESPONSIBILITY, AND SHALL NOT BE LIABLE FOR ANY DAMAGES TO, OR VIRUSES THAT MAY INFECT YOUR HARDWARE OR SOFTWARE.
+Because some jurisdictions do not permit the exclusion of certain warranties, some of the foregoing disclaimers may not apply to You.
+Exclusion and Limitation of Liability.
+==========
+IN NO EVENT WILL MERAKI OR ITS SUPPLIERS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY LOST PROFITS, LOST INFORMATION, LOSS OF DATA, BUSINESS INTERRUPTION, OR OTHER INDIRECT, CONSEQUENTIAL, SPECIAL, OR INCIDENTAL DAMAGES OF ANY NATURE ARISING FROM OR RELATING TO YOUR USE OF THE MERAKI SERVICES, MERAKI HARDWARE, OR USE OF THE SERVICE THROUGH YOUR ACCOUNT BY ANYONE ELSE, EVEN IF MERAKI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+IN NO CASE WILL MERAKI’S TOTAL CUMULATIVE LIABILITY TO YOU FOR ANY AND ALL CLAIMS UNDER ANY THEORY OF LAW, EXCEED THE TOTAL AMOUNT OF PREPAYMENT IN YOUR ACCOUNT AT THE TIME OF THE EVENT GIVING RISE TO THE LIABILITY.
+YOU UNDERSTAND THAT THESE LIMITATIONS OF LIABILITY ARE A FUNDAMENTAL PART OF THIS AGREEMENT.
+Some jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to You, in which case Meraki’s liabilities shall be limited to the maximum extent allowed by law.
+Indemnity.
+YOU AGREE TO DEFEND, INDEMNIFY AND HOLD HARMLESS MERAKI FROM AND AGAINST ANY AND ALL CLAIMS, PROCEEDINGS, INJURIES, LIABILITIES, LOSSES, COSTS AND EXPENSES (INCLUDING REASONABLE ATTORNEYS’ FEES), INCLUDING, BUT NOT LIMITED TO, CLAIMS ALLEGING NEGLIGENCE OR INFRINGEMENT RELATING TO OR ARISING OUT OF YOUR BREACH OF ANY TERM OF THIS AGREEMENT, YOUR USE OF THE MERAKI SERVICES, OR YOUR USE OF THE INTERNET.
+MISCELLANEOUS
+Force Majeure.
+Neither Party shall be liable hereunder by reason of any failure or delay in the performance of its obligations hereunder (except for payment obligations) on account of strikes (other than strikes of a party’s own employees), shortages, riots, insurrection, fires, flood, storm, explosions, acts of God, war, governmental action, labor conditions (other than with respect to a party’s own employees), earthquakes, material shortages or any other causes that are beyond the reasonable control of such party; provided, however, that the parties will use commercially reasonable efforts, including the implementation of business continuity measures, to mitigate the effects of such force majeure.
+==========
+Independent Contractors.
+The Parties hereto are independent contractors.
+Neither Party to this Agreement nor any of its employees, customers or agents, shall be deemed to be the representative, agent or employee of the other Party for any purpose whatsoever, nor shall any of them have the right or authority to assume or create an obligation of any kind or nature, express or implied, on behalf of the other, nor to accept service of any legal claims or notices addressed to or intended for the other.
+Amendment; No Waiver.
+This Agreement cannot be amended, changed, modified or supplemented orally, and no amendment, change, modification or supplement of this Agreement shall be recognized nor have any effect, unless the writing in which it is set forth is signed by both Parties, nor shall any waiver of any of the provisions of this Agreement be effective unless in writing and signed by the Party to be charged therewith.
+The failure of either Party to enforce, at any time, or for any period of time, any provision hereof or the failure of either Party to exercise any option herein shall not be construed as a waiver of such provision or option and shall in no way affect that Party’s right to enforce such provision or exercise such option.
+No waiver of any provision hereof shall be deemed to be, or shall constitute, a waiver of any other provision, or with respect to any succeeding breach of the same provision.
+Governing Law/Arbitration.
+This Agreement will be governed by and construed in accordance with the laws of the State of California, without regard to its conflicts of laws provisions.
+==========
+Any dispute relating in any way to your use of the Meraki services, the will be submitted to confidential arbitration in Santa Clara County, California, except that, to the extent you have in any manner violated or threatened to violate any proprietary rights of Meraki or its licensors, we may seek injunctive or other appropriate relief in any state, federal, or national court of competent jurisdiction (and you hereby irrevocably consent to nonexclusive jurisdiction and venue of the state and federal courts of California with respect to any such matters).
+Arbitration under this Agreement will be conducted under the rules then prevailing of the American Arbitration Association.
+The arbitrator's award will be binding and may be entered as a judgment in any court of competent jurisdiction.
+==========
+To the fullest extent permitted by applicable law, no arbitration under this Agreement will be joined to an arbitration involving any other party subject to this Agreement, whether through class arbitration proceedings or otherwise.
+Severability.
+If any portion of this Agreement is held invalid by a court of competent jurisdiction, such portion shall be deemed to be of no force and effect and this Agreement shall be construed as if such portion had not been included herein, provided however, if the deletion of such provision materially impairs the commercial value of this Agreement to either Party, the Parties shall attempt to renegotiate such provision in good faith.
+==========
+Entire Agreement.
+This Agreement constitutes the entire agreement between You and Meraki with respect to the subject matter hereof and supersedes all prior agreements, understandings and arrangements, oral or written.
+No agreement or representations, oral or otherwise, express or implied, with respect to the subject matter hereof have been made by Meraki which are not expressly set forth in this Agreement.
+Assignment.
+==========
+Your Meraki Account is for the benefit of You and people authorized by You to access Your Account.
+You may not transfer any Credits to any other person or account, or otherwise attempt to assign this Agreement to any other party.
+Any attempt to do so shall be void.
+Headings.
+The headings used in this Agreement are for convenience of reference only and shall not affect the meaning or construction of this Agreement.
+==========
+Language.
+The official language of this Agreement is English.
+All contract interpretations, notices and dispute resolutions shall be in English.
+==========
+Modification.
+Meraki may modify any of the terms and conditions contained in this Agreement, at any time and in Meraki’s sole discretion, by posting a change notice or updated version on the Meraki Website.
+IF ANY MODIFICATION IS UNACCEPTABLE TO YOU, YOUR ONLY RECOURSE IS TO TERMINATE THIS AGREEMENT.
+==========
+YOUR CONTINUED USE OF THE MERAKI SERVICE OR YOUR MERAKI ACCOUNT FOLLOWING MERAKI’S POSTING OF A CHANGE NOTICE OR UPDATED AGREEMENT WILL CONSTITUTE YOUR ACCEPTANCE OF THE CHANGE.
+Notices.
+Any notice required or permitted by this Agreement shall be deemed given if delivered by registered mail, postage prepaid, three (3) days after deposit with postal authorities.
+==========
+Meraki will provide legal notices to You at the then current address listed in Your Meraki Account.
+You will provide any legal notices to Meraki at 660 Alabama St, San Francisco, California 94110, or such other address as Meraki may post on its website in accordance with Section 4.10 above.
+GPL Source Code/Linux
+This page contains versions of the RedBoot bootloader, Linux kernel and OpenWRT distribution modified to run on the Meraki Mini hardware.
+==========
+Please note that custom firmware images are not supported by Meraki and may put your device in a non-working state.
+Devices with custom firmware images are not covered under the limited warranty.
+Enjoy!
+==========

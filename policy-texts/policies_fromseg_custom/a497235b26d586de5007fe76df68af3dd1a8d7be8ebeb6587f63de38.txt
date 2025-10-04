@@ -1,0 +1,195 @@
+We – Meetrics GmbH, Alexanderstr.
+7, 10178 Berlin – operate the website www.meetrics.com and are responsible for collecting, processing and utilising your personal data, with respect to the German Data Protection and the German Telemedia Act.
+The protection and security of your data is an important concern for us.
+We have therefore taken technical and organisational measures to protect your data from loss, destruction, deliberate manipulation and unauthorised access from third parties.
+In addition to this, we use your data exclusively in compliance with the relevant data protection regulations.
+In the following document, we will inform you on which personal data we collect and store, how this data is used and what rights you have regarding this.
+==========
+I. Collection, storage and usage
+Every time our website is accessed, information is saved, which the user’s browser sends to our server.
+This includes, for example, the IP address of the computer, the date and time of the visit, the browser type/version as well as the name of the internet service provider.
+The data is collected and processed anonymously or with pseudonyms for statistical and security purposes; to improve the user-friendliness of our online presence.
+IP addresses are only analysed when our network structure (servers, for example) is attacked or an attempt is detected.
+We regularly delete this data.
+We also use cookies (see V.) as well as third party services (see VI.)
+.
+We only collect personal data (for example, name, address, email address or similar) for website-related purposes when we are entitled to process or use them, for example if we are entitled to collect data on the basis of a legal regulation or at the user’s consent.
+==========
+II.
+Transmission of data
+We only pass on personal data if we are legally obliged to, if it’s necessary to process a contract or for billing purposes.
+Data will not be passed on to third party services without express consent.
+III.
+==========
+Dashboard
+We save your name or the name of your organisation, your email address and your username, as well as your password, in an encrypted form, in order to provide our Dashboard service.
+All login data is deleted after the contract with us for this service is terminated.
+IV.
+==========
+Newsletter
+We require your email address in order to send you our newsletter.
+This is saved by us along with your name (optional) and is used exclusively to provide you with regular reports and other current news.
+The newsletter can be unsubscribed at any time by sending a short email to berlin@meetrics.com.
+==========
+V. Cookies
+We use cookies on our website.
+Cookies are small files which are stored on your device and contain information about certain settings and data used by your browser when visiting our website.
+Cookies allow us to adapt our website to the needs of the user, to analyse their usage behaviour when visiting our website or to help identify the user anonymously, so that they do not have to log in every time.
+No personal data are collected with cookies, unless you have given us your express consent.
+If you do not want to enjoy the advantages of cookies, it’s possible to change your browser settings to block cookies, or inform you before a cookie is saved.
+In addition to this, you are able to delete cookies from your device after they have already been saved.
+However, certain features of our website do not fully function without the use of cookies.
+==========
+VI.
+Third party services and content
+1.
+Google Analytics, Maps & AdSense
+In order to analyse and optimise our website and our Dashboard, we make use of Google Analytics.
+Google Analytics is a web analytics service provided by Google Inc., which uses cookies (see V.) to provide information about website usage.
+The information generated, including IP addresses, is generally transferred to Google’s servers in the USA and stored there.
+Google uses the information on our behalf to evaluate the way users interact with our website and to compile reports about this usage.
+User profiles, with pseudonyms, are created using this data.
+==========
+We only use Google Analytics with the IP address anonymisation function (anonymizeIP), which anonymises or hides the IP addresses before they are saved or processed.
+If you don’t wish to participate in Google Analytics, you can install a browser add-on to deactivate it.
+We also use Google Maps API, an interactive map service provided by Google Inc.
+Information about the usage of our website is transferred to Google’s servers in the USA and is stored there.
+To stop your data from being transferred to Google, JavaScript can be disabled in your browser.
+==========
+This does mean, however, that you can no longer use Google Maps’ features, including the display of maps.
+For more information about how data is collected and stored by Google, click here.
+Google AdSense
+Our website uses Google AdSense, a service for including advertisements from Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.)
+.
+==========
+Google AdSense uses cookies, text files which are stored on your computer in order to enable analysis of your use of our website.
+Google AdSense uses also web-beacons (invisible images).
+Through these web beacons information such as the visitor traffic are evaluated on these pages.
+The information generated by cookies and web beacons about the usage of this website (including your IP address) and the delivery of advertising formats are transmitted to a Google server in the USA and stored there.
+This information can be given by Google to contractors of Google.
+Google will not link your IP address with any other data stored by Google.
+You may refuse the use of cookies by selecting the appropriate settings on your browser, but we point out, that in that case, you might not be able to take full advantage of all the features of our website.
+By using our website, you agree to the processing of data Google collected about you in the manner described above and for the above-mentioned purposes.
+For additional information about privacy and cookies for advertising on Google AdSense, please see the Google Privacy Policy and the following links:
+http://www.google.de/policies/privacy/partners/
+http://www.google.de/intl/de/policies/technologies/ads
+http://support.google.com/adsense/answer/2839090
+2.
+Social Media
+Buttons for Facebook, LinkedIn and Twitter are integrated in to our website.
+==========
+The logo of each company is used for the corresponding button.
+As soon as you actively click on one of these buttons, a new window opens and you will be forwarded to the page of our corresponding social media profile.
+This also establishes a direct connection between your browser and the social media’s server, and sends a message that your IP address has visited our website.
+If you are also a user of the social media provider and are logged in to your account, they are also able to see that your social media profile visited our website.
+We have no influence on the collection or use of your data carried out by the social media providers.
+For more information on their individual data protection policies, click here: Facebook, LinkedIn, Twitter.
+==========
+VII.
+Your legal rights
+On request, we can inform you if we have any personal data from you, and which data we have stored.
+You can also retract the processing and use of your personal data at any time.
+In accordance with legal requirements, we can correct, block, or delete your personal data.
+If you would like to make use of your legal rights or if you have any questions regarding our data protection, send us an email: datenschutz@meetrics.com.
+==========
+I. Purpose of measurements performed by Meetrics:
+Meetrics performs analyses for the purpose of determining the quality of advertising environments, on behalf of advertisers, media agencies, online marketers and website operators.
+As a result, customers are provided with information about the following aspects:
+the share of advertising materials that became visible as a percentage of all delivered advertising materials
+whether advertising was displayed in environments that might be harmful to the brand
+whether calls were generated by botnets or other fraudulent delivery situations
+Meetrics Viewability measuring does not require any personal attributes.
+Meetrics Viewability measuring is based solely on websites’ internal visibility properties.
+II.
+Technical basics
+Meetrics uses a javascript that is integrated into an HTML document in the course of advertising delivery to analyse visits to a page.
+As part of the analysis, aggregated evaluations are created based on individual visits, to provide information about the advertising positions used.
+The evaluation objects in this context are advertising positions in individual sections of a page (on the most granular assessment level for example, information could be provided that out of 1,000 instances of advertising delivery within a campaign, 800 instances have become effectively visible in a particular advertising position of a domain).
+==========
+III.
+Data collected
+In order to be able to provide the full scope of our services, user interaction with the website and the advertising material may be saved.
+For this purpose, data about the user’s operating system and browser will be collected.
+Interaction with the website is also recorded in order to determine the visibility of advertising media and to distinguish human visitors to a website from automated calls.
+In order to account for the environments in which advertising is placed, it is also verified whether specified keywords are present in advance.
+We do not create profiles.
+==========
+User IP address
+Meetrics saves IP addresses for a short time, in order to identify the geographical origin of the traffic.
+Furthermore, Meetrics is also tasked by customers to identify fraudulent advertising delivery and to present this as an aggregated result for each analysed advertising position.
+Storage time is extended to 12 hours, only for IP addresses that show a suspect frequency of calls.
+IP Addresses which do not show any signs of fraud are removed immediately.
+==========
+The aggregation of calculated performance key figures based on different aggregation criteria takes place based on campaign information and no personal attributes are used at any time.
+Meetrics Audience Verification
+This service allows advertisers to determine the socio-demographic spread of users of an online access panel found in specific advertising positions.
+For preparing this statistical analysis, Meetrics cooperates with online panel providers.
+In the course of registering users for this type of panel on the panel operator’s website, users explicitly grant consent for personal data to be captured by the panel provider.
+Furthermore, a cookie containing a pseudonymised user ID is placed by Meetrics following opt-in by the panel lists.
+The content of the cookie is also transmitted if an accordingly marked user retrieves a file from the Meetrics server as part of a Meetrics Ad Attention Monitor script delivery.
+This data is only provided to our customers in aggregated form.
+Transmission of results based on individual panel lists is excluded.
+==========
+V. Disclosure and duration of storage
+Under no circumstances will personal data collected on the customers’ websites be sold or otherwise disclosed to third parties.
+Aggregated data to assess the quality of advertising positions (e. g. advertising format x on domain y) is provided to Meetrics’ customers (protected by a password).
+Meetrics uses a data centre in Germany to perform data processing and storage (https://wiki.hetzner.de/index.php/Datenschutz-FAQ).
+Aggregated data may be saved for up to 2 years.
+VI.
+Your legal rights
+Affected users are entitled to information, correction, deletion, restriction, data portability, revocation and opposition.
+In the case of that the processing of data violates data protection law or data protection claims have otherwise been violated in any way, a complaint to the supervisory authority is possible.
+You can reach the Meetrics Privacy Team at:
+Meetrics GmbH, Alexanderstr.
+7, 10178 Berlin
+Our Privacy Officer Thomas Werning :
+Email: datenschutz@meetrics.de
+May 2018
+VII.
+==========
+Lega base
+Meetrics Viewabilty and Fraud detection is based on Article 6.
+(1) f. GDPR.
+GDPR Art. 6 (1)f -,,processing is necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data”
+Reason for one’s own legitimate interest
+Recital: The processing of personal data within the necessary quantity for the prevention of fraud constitutes a legitimate interest of the responsible person.
+The processing of personal data for the purpose of direct advertising can be considered as serving the legitimate interest of a person.
+It is within the legitimate internal interest of the website operator to prevent fraudulent web page visits from generating on his website.
+In the end this damages the operation of the website.
+==========
+Meetrics clients have an interest in playing their advertisement out to people.
+Only then will the advertisement have the chance to unfold its effect.
+The determination of the country of origin is furthermore essentially important for billing of the advertisement call ups, since it is only through this that it can be ensured that the call ups are suitable to the advertisement.
+Are there milder options which could achieve this goal
+In order to prevent the call ups of automated visitors a fingerprint of the computer initiating the call ups could be formed.
+But Meetrics does not do this.
+==========
+The IP address is only stored for a short period of time.
+It is stored for a maximum time of 12 hours within the system.
+External Service providers can be used to determine the geographical origin.
+They are in the position to make a more precise determination of the country of origin.
+==========
+Meetrics has decided not to pass on the IP address to the outside world.
+The IP address will be synchronized internally only the assignment of a country will take place.
+The privacy policy of Meetrics provides transparency concerning the use of Information from the IP address.
+==========
+When can the processing be reasonably expected by the involved parties
+Recital
+The existence of a legitimate interest would have to be carefully evaluated.
+It is necessary to examine whether the person concerned, at the time of collecting the personal data and considering the circumstances in which the collection occurred could reasonably foresee that the processing would be carried out for that purpose.
+In the privacy policy of the website, the user can also see that tracking by Meetrics can take place through an external script.
+More detailed information can be found by the user on the Meetrics website.
+By calling up the website, it must be clear to the affected person that this will transfer their IP address to the server of the website.
+==========
+This is processed to prevent mass page views so that fraud and possible impairment of the operation of the website is prevented.
+What are the legitimate interests of the person concerned
+Website visits which do not form personality profiles which could then be used on other websites for further profiling.
+Result 
+It is in the interest of the website operator whom finances the operation of the website through advertising, to protect it against fraudulent call ups.
+The IP address is furthermore briefly stored for the purpose of documentation and the determination of fraud and will be deleted afterwards.
+This is stated in the privacy policy of Meetrics .
+==========
+Meetrics continually works on saving the smallest possible amount of data.
+We use cookies in order to improve the functionality of our web site.
+Through the use of this website, you express your consent to the usage of cookies.
+==========

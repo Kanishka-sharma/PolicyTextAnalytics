@@ -1,0 +1,73 @@
+From the kind and considerate Legal Department of Red Hat:
+
+
+General
+This Website may include inaccuracies or typographical errors.
+Red Hat and the third parties that provide content on this site may make improvements and/or changes in the products, services, programs, and prices described in this Website at any time without notice.
+Changes are periodically made to the Website.
+These Terms represent the entire understanding relating to the use of the Website and prevail over any prior or contemporaneous, conflicting or additional, communications.
+Red Hat can revise these Terms at any time without notice by updating this posting.
+==========
+Any action related to this Website will be governed by North Carolina law and controlling U.S.  federal law.
+No choice of law rules of any jurisdiction will apply.
+Software Use
+Any software that is made available to you to download from the Website (the "Software") is the copyrighted work of Red Hat and/or third parties.
+Your use of the Software is governed by the terms of the end user license agreement which accompanies or is included with the Software (the "License Agreement").
+You shall not install any Software that is accompanied by or includes a License Agreement, unless you first agree to the terms of the License Agreement.
+SOFTWARE IS WARRANTED, IF AT ALL, IN ACCORDANCE WITH THE TERMS  OF THE LICENSE AGREEMENT.
+EXCEPT AS SET FORTH IN THE LICENSE AGREEMENT, ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT  SUCH DISCLAIMERS ARE HELD TO BE LEGALLY INVALID.
+==========
+Links to Third Party Sites
+This Website may be linked to other websites which are not under the control of and are not maintained by Red Hat.
+Red Hat is not responsible for the content of those sites.
+Red Hat provides these links to you only as a convenience, and the inclusion of any link to such sites does not imply endorsement by Red Hat of those sites.
+Red Hat reserves the right to terminate any link or linking program at any tme.
+User Chat Rooms
+Red Hat may, but is not obligated to, monitor or review any areas on the Website where users transmit or post communications or communicate solely with each other, including, but not limited to chat rooms, bulletin boards or other user forums, and the content of any such communications.
+Red Hat, however, will have no liability related to the content of any such communications, whether or not arising under the laws of copyright, libel, privacy, obscenity, or otherwise.
+==========
+Disclaimer of Warranty
+UNLESS OTHERWISE EXPLICITY STATED, THE MATERIALS ON THE WEBSITE ARE PROVIDED "AS IS".
+ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, ARE DISCLAIMED, EXCEPT TO THE EXTENT THAT SUCH DISCLAIMERS ARE HELD TO BE LEGALLY INVALID.
+RED HAT MAKES NO REPRESENTATIONS, WARRANTIES, OR GUARANTIES AS TO THE QUALITY, SUITABILITY, TRUTH, ACCURACY OR COMPLETENESS OF ANY OF THE MATERIALS CONTAINED ON THE WEBSITE.
+ANY QUESTIONS REGARDING THE MATERIALS SHOULD BE DIRECTED TO THE PROVIDERS OF SUCH MATERIALS.
+==========
+Limitation of Liability
+RED HAT SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED AS A RESULT OF USING, MODIFYING, CONTRIBUTING, COPYING, DISTRIBUTING, OR  DOWNLOADING THE MATERIALS ON THIS WEBSITE.
+IN NO EVENT SHALL RED HAT BE LIABLE FOR ANY INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGE (INCLUDING LOSS OF BUSINESS, REVENUE, PROFITS, USE, DATA OR OTHER ECONOMIC ADVANTAGE) HOWEVER IT ARISES, WHETHER FOR BREACH OR IN TORT, EVEN IF RED HAT HAS BEEN PREVIOUSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+YOU HAVE SOLE RESPONSIBILITY FOR ADEQUATE PROTECTION AND  BACKUP OF DATA AND/OR EQUIPMENT USED IN CONNECTION WITH THE WEBSITE AND WILL NOT MAKE A CLAIM AGAINST RED HAT FOR LOST DATA, RE-RUN TIME, INACCURATE OUTPUT, WORK DELAYS OR LOST PROFITS RESULTING FROM THE USE OF THE MATERIALS.
+YOU AGREE TO HOLD RED HAT HARMLESS FROM, AND YOU COVENANT NOT TO SUE RED HAT FOR, ANY CLAIMS BASED ON USING THE WEBSITE.
+Year 2000 Readiness Disclosure
+
+Trademarks
+Red Hat, the Red Hat "Shadow Man" logo, RPM, Maximum RPM, the RPM logo, Linux Library, PowerTools, Linux Undercover, RHmember, RHmember More, Rough Cuts, Rawhide and all Red Hat-based trademarks and logos are trademarks or registered trademarks of Red Hat, Inc.
+in the United States and other countries.
+==========
+SPARC is a registered trademark of SPARC International, Inc.
+Products bearing SPARC trademarks are based on an architecture developed by Sun Microsystems, Inc.
+Linux is a registered trademark of Linus Torvalds.
+All other trademarks are the property of their respective owners.
+==========
+Powered By Red Hat Linux
+You may have reached this page because of a link from a "Powered By Red
+Hat Linux" logo.
+For more information on Red Hat Linux, visit our store.
+You may use the following image on your web site as long as it is
+accompanied by a hyperlink to Red Hat's web site.
+If you want
+to use this image or other Red Hat trademarks for any other uses, please
+contact us.
+white background
+transparent background
+
+
+
+Investment
+Red Hat, Inc. is a publicly traded company (NASDAQ symbol: RHAT).
+For 
+additional information, visit our Investor Relations section.
+Copyright
+Except where otherwise specified, the contents of this site are copyright © 1995-2000 Red Hat, Inc., Research Triangle Park, North Carolina, USA.
+All rights reserved.
+Please direct any questions or comments to legal@redhat.com.
+==========

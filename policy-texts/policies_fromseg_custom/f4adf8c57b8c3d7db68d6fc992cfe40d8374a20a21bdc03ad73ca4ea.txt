@@ -1,0 +1,143 @@
+Lookout firmly believes that your privacy is as important as your security, so we want to be completely transparent about the data we collect to help safeguard your device and the security of your employer.
+Lookout, Inc. (“Lookout,” “we,” or “us” or “our”) provides you with this Privacy Policy to describe our information practices with respect to our Enterprise Security Products (the “Enterprise Security Product”).
+This Privacy Policy governs the data collected from or about you through your installation and activation of our Enterprise Security Product on your mobile device.
+By downloading and activating the Enterprise Security Product, you consent to the data collection, use, disclosure, and storage practices described in this Privacy Policy.
+You may have been directed to download and install the Enterprise Security Product as a result of your employment by an organization that either (1) requires all or some of its workforce to install the Enterprise Security Product or (2) requires all or some of its workforce to install a mobile device management suite that includes the Enterprise Security Product.
+==========
+Please be advised that this Privacy Policy governs only our information practices with respect to our Enterprise Security Product.
+To the extent you have questions regarding the data collection, use, disclosure, and security practices of your employer (“Employer”) or a mobile device management provider (“MDM Provider”), you should direct those questions to those parties.
+Lookout reserves the right to change this Privacy Policy at any time to reflect changes in the law, our data collection and use practices, the features of the Enterprise Security Product, or advances in technology.
+==========
+Please check this page periodically for changes.
+Your continued use of the Enterprise Security Product following the posting of changes to this Privacy Policy will mean you accept those changes.
+We have endeavored to structure this Privacy Policy to answer your questions about our Enterprise Security Product.
+The Privacy Policy contains answers to the following questions:
+
+What is the Lookout Enterprise Security Product?
+==========
+What data does Lookout collect from your mobile device?
+If Lookout is collecting information about applications installed on my device, does that mean Lookout will read or review my emails or see my photos?
+Does Lookout collect any other data about me outside of my mobile device?
+When does Lookout collect data from my mobile device?
+How does Lookout use the data collected from my mobile device?
+Does Lookout share my data with anyone else?
+What information can my Employer NOT see?
+==========
+Do you use my data for marketing purposes?
+How does Lookout protect my data?
+Where does Lookout store my data?
+How can I contact you with more questions?
+1.
+==========
+What is the Lookout Enterprise Security Product?
+Lookout provides security products to protect mobile devices from cybercriminals and other threats.
+Using predictive machine intelligence, we analyze data from applications stored on mobile devices to identify malicious applications or other software that can threaten your security.
+Our Enterprise Security Product enables organizations to manage and protect employees’ devices from malware and spyware from a single organizational account.
+Lookout scans applications as they are installed or accessed on employees’ devices.
+If an application is found to be malicious, we provide employees and administrators with remediation measures (e.g., uninstall or ignore).
+2.
+==========
+What data does Lookout collect from your mobile device?
+To protect your mobile device and your Employer from threats, Lookout collects certain categories of data from your device.
+Such data may include:
+
+Your mobile phone number;
+The manufacturer and model of your mobile device;
+Certain technical settings of your mobile device, including the display size of your mobile device and firmware version;
+Your IP address (which can indicate your country and geolocation);
+The type and version of operating system on your mobile device;
+The unique device identifier of your mobile device;
+Configuration data of your device, such as whether your device is configured to allow root access or whether hardware restrictions of the device have been removed;
+Metadata of all applications installed on your mobile device (including, but not limited to, the name of the app, the version of the app);
+In certain circumstances, we may also collect a copy of the application;
+Data from tracking tools used to analyze product performance on your device; and
+How you respond to alerts from Lookout that certain applications may pose a security threat.
+3.
+If Lookout is collecting information about applications installed on my device, does that mean Lookout will read or review my emails or see my photos?
+No.
+==========
+Lookout collects only metadata about applications on your device, or the application itself.
+Lookout does not collect user data you enter into those applications.
+Because Lookout does not collect any user data you enter into the applications on your mobile device, Lookout will not collect, read, review, or scan your emails, text messages, photos, or videos.
+4.
+==========
+Does Lookout collect any other data about me outside of my mobile device?
+Our Enterprise Security Product requires that all employee mobile devices be associated with a particular email address.
+Accordingly, your Employer may provide Lookout with your email address.
+==========
+If you installed the Enterprise Security Product as part of a MDM Provider’s product, we may also collect information about you from that MDM Provider.
+Please contact the applicable MDM Provider regarding that provider’s privacy practices.
+We may also collect other information about you if you provide such information to us directly, such as by contacting us and voluntarily disclosing such information, or to third parties such as our partners and marketers.
+We may use this information to provide you with updates about Lookout and our products and services and invite you to conferences and other events that Lookout may participate in or host.
+5.
+==========
+When does Lookout collect data from my mobile device?
+As described above, Lookout collects your email address from your Employer.
+After you download, install, and activate the Enterprise Security Product, Lookout will immediately begin collecting data from your device.
+As you install or access applications on your mobile device, we will scan those applications for potential security threats.
+6.
+==========
+How does Lookout use the data collected from my mobile device?
+The data we collect from your mobile device enables us to detect threats to you and/or your Employer, to improve our Enterprise Security Product, and to improve our other product offerings.
+In analyzing the applications on your mobile device, if we encounter an application we have not previously analyzed, we may download a copy of part or all of the application to analyze and determine if it poses a risk.
+We present you with the option of uninstalling the application with a security risk, or ignoring the risk.
+We will also collect your remediation choice for malicious files and applications (e.g., uninstall or ignore).
+==========
+We may also use the data collected to categorize the risk threat of your device (e.g. Low, Medium, High).
+As an enterprise product, Lookout collects the data to protect not just your mobile device, but also the security of your Employer.
+We may also combine data collected from your mobile device with data collected from third parties to improve our products, including our Enterprise Security Product.
+Lookout may also aggregate and/or de-identify information collected by the Enterprise Security Product or via other means so that the information is not intended to identify you.
+Our use and disclosure of aggregated and/or de-identified information is not subject to any restrictions, and we may disclose it to others without limitation for any purpose.
+7.
+Does Lookout share data my data with anyone else?
+==========
+Yes.
+As an enterprise product, certain data is shared with your Employer, or anyone authorized by your Employer to view such data.
+Through the Enterprise Security Product dashboard, Employers or their authorized persons are granted access to certain information related to the security of your mobile device.
+Your Employer may be able to see your unique device attributes such as phone number, device model, and carrier.
+Your Employer will have visibility into applications that we have identified as malicious, as well as those that are in violations of any applicable company policy of your Employer.
+==========
+If you installed and activated our Enterprise Security Product as part of a product by an MDM Provider, we may share data collected from your mobile device with that MDM Provider.
+We may share any data related to you with third parties, including service providers or partners that we have engaged to perform business-related functions on our behalf.
+This may include service providers that: (a) provide customer, technical, or operational support; (b) fulfill orders and user requests; (c) handle payments; (d) host our online services; (e) maintain databases; (f) analyze data for product improvement and enhancement purposes; and (g) otherwise support or market our Enterprise Security Product or any other Lookout products and services.
+==========
+We may disclose any data related to you in response to any subpoenas, court orders, or other legal process we receive, or to establish or exercise our legal rights or to defend against legal claims.
+If we receive a request for information from a local, state, federal, or foreign law enforcement agency, we will endeavor to transmit those requests to your Employer for processing by the Employer, but we reserve the right to respond directly and provide the information requested.
+We may disclose any data related to you when we believe in good faith that such disclosure is appropriate in order to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Privacy Policy, Enterprise License Agreement or the Enterprise End User Agreement  for the Enterprise Security Product, and/or to protect the rights and property of Lookout, our employees, users and the public.
+This may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations.
+We may share any data related to you in connection with any merger, reorganization, a sale of some or all Lookout assets, or a financing or acquisition of all or a portion of our business by another company.
+8.
+==========
+What information can my Employer NOT see?
+Lookout does not enable your Employer to see the content of your personal email, browsing history, contacts, calendar, or your personal text messages.
+Your Employer may have certain rights to access this information on their own, where, for example, this information is transmitted using an Employer-provided device or network.
+Lookout, however, will not afford your Employer visibility into applications on your device unless they contain threats or violate company policy.
+9.
+==========
+Do you use my data for marketing purposes?
+We do not use data collected from your mobile device to sell products to you, nor do we share it with third parties for their marketing purposes.
+We may aggregate and/or de-identify information collected from your device to conduct research and provide insight into mobile device security and threats.
+==========
+In these instances, the aggregated and de-identified information included in the research is not intended to be identifiable to you.
+We may, however, use the information you provide to us directly or to third parties such as our partners and marketers to provide you with information about Lookout and our products and services, including conferences and other events that Lookout may participate in or host.
+10.
+==========
+How does Lookout protect my data?
+We have implemented reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information.
+These safeguards are tailored to address the sensitivity of the information that we collect, process and store and the current state of technology.
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, because no method of transmission over the Internet or method of electronic storage is 100% secure, we cannot assure you that information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
+11.
+Where does Lookout store my data?
+Lookout complies with the U.S. — E.U. Safe Harbor Framework.
+==========
+The Enterprise Security Product is hosted in the United States and is governed by United States law.
+If you are using the Enterprise Security Product from outside the United States, please be aware that your information may be transferred to, stored and processed in the United States where our servers are located and our databases are operated.
+The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country.
+By using the Enterprise Security Product, you consent to your information being transferred to our facilities and to the facilities of those third parties with whom we share it as described in our Privacy Policy.
+12.
+==========
+How can I contact you with more questions?
+If you have additional questions, we encourage you to contact your Employer (or MDM Provider as applicable).
+You may also direct questions to us at privacy@lookout.com .
+Effective Date: June 25, 2015
+==========

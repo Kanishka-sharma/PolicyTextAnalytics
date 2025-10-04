@@ -1,0 +1,138 @@
+Comet Systems, Inc. is committed to protecting the privacy of our users.
+In plain English, we want to make sure you understand precisely how our software operates and what information we have-and don't have-about the users of our software and the visitors to our Websites, www.cometsystems.com, www.livecursors.com, www.cometzone.com and www.mycometcursor.com.
+For starters, we'd like you to know that to date Comet Systems has maintained a policy of total anonymity for users of the Comet Cursor and My Comet Cursor.
+==========
+We deliberately never ask for your name, address, email address, or any other personally identifiable information when you download and install this software.
+As a result, you can use our software without telling us who you are or ever revealing any information about yourself.
+==========
+Please read through the entire policy.
+If you have any questions, please email or call Sarah MacArthur, our Privacy Officer.
+Her email is sarahm@cometsystems.com and her phone number is 212-231-2000 x. 135.
+==========
+Comet Systems offers several different products which are all covered by this Privacy Policy: the Comet Cursor, My Comet Cursor, and CometZone and LiveCursors.
+Please note that there is a special (GUID-less) version of the Comet Cursor that is bundled with RealPlayer 7.
+What is the Comet Cursor?
+The Comet Cursor is the software that changes your cursor to customized images on web sites and on your computer.
+What is My Comet Cursor?
+My Comet Cursor is an application to allow users to choose which cursor images appear on their computers.
+==========
+What are CometZone and LiveCursors?
+CometZone and LiveCursors are both services for Website operators who want to use our cursor-changing technology on their own Websites.
+What personally identifiable (non-anonymous) information is collected about users of the Comet Cursor?
+None.
+==========
+Surfers who download our Comet Cursor software are not asked to provide their email address, name, credit card number, or any other personally identifiable information.
+Our goal is to make installing our software as quick and easy as possible; personal information is not useful or necessary for us.
+As a result, you can use the software without telling us who you are or ever revealing any information about yourself.
+Will I get email from Comet Systems or from advertisers because I downloaded the Comet Cursor?
+No.
+(We never asked for your name or email address when you downloaded the software).
+==========
+What anonymous information is collected about users of the Comet Cursor?
+From the perspective of information collection there are two main versions of the Comet Cursor.
+One is the version of the Comet Cursor which is bundled with RealPlayer 7.
+==========
+This version is not issued a GUID.
+All other versions of the Comet Cursor contact our servers to record logs of cursor impressions using a GUID (Globally Unique IDentifier).
+When you download the Comet Cursor software, it is issued a GUID from our servers.
+Using this GUID, we can keep track of how many people are using our software.
+The GUID is also used every time the software contacts our servers when we log cursors changing (for example, our software could inform our servers that at 12:31pm on November 16, 1999, 143 different people saw their arrow cursor change into a baseball bat cursor on a baseball team's Website).
+==========
+Collecting such statistics is an audit mechanism we use to bill our clients, since some of them pay us on a "per-cursor-impression" basis.
+We have posted instructions if you would like to delete the delete the GUID.
+==========
+Second, our software checks in to see if a new version of the Comet Cursor software is available.
+If there is a bug fix or version upgrade available for the Comet Cursor, the software will retrieve the new code and replace the outdated code.
+==========
+What anonymous information is collected about users of My Comet Cursor?
+My Comet Cursor works with the Comet Cursor to allow you to choose and display a custom cursor image on your computer.
+My Comet Cursor acts like a mini Website.
+As with any Website, each time a user clicks on site content, (e.g. choosing a cursor image), that information is stored anonymously.
+Comet uses this aggregated usage information to determine which cursor content is most popular and to help us improve the content selection and performance of the site.
+In the case where content is licensed from other organizations (e.g. Snoopy and other Peanuts characters), Comet may provide aggregate usage statistics to the licensor.
+Again, all of this information is completely anonymous and aggregated.
+==========
+What personally identifiable (non-anonymous) information does Comet Systems collect about people who visit Comet Systems' Websites (www.cometsystems.com, www.cometzone.com, www.livecursors.com and www.mycometcursor.com)?
+At www.cometsystems.com, www.livecursors.com, www.cometzone.com, and at www.mycometcursor.com, we do not require that you give us any personally identifiable information.
+There are only two times we know names, email addresses, or other personally identifiable information about visitors to any of our Websites.
+==========
+One is when people contact us, for example, with a tech support question.
+In such cases, we keep this information confidential and use it strictly to respond to their requests.
+==========
+The second is if you choose to submit your email address to voluntarily subscribe to the CometZone, Star Trek, or Viz newsletters.
+If you choose to subscribe to the CometZone newsletter, Comet Systems will use your email address for the sole purpose of emailing you the newsletter.
+==========
+This information will not be shared, or resold, to any other company without your explicit consent.
+Included in each of our newsletters will be instructions on how to unsubscribe.
+If you choose to subscribe to the Star Trek or Viz newsletters, your email address will be passed on to the appropriate company.
+Please note that use of that information is not controlled by Comet Systems, and will be governed by the privacy policies of Star Trek and Viz respectively.
+Comet Systems and the Children's Online Privacy Protection Act: In an effort to be compliant with COPPA, it is Comet Systems policy to collect NO personally identifiable information from children.
+Therefore, all individuals are required to be 14 years and older to submit their email address and subscribe to the newsletters.
+==========
+What anonymous information is collected about visitors to Comet Systems' Websites (www.cometsystems.com , www.cometzone.com, www.livecursors.com and www.mycometcursor.com)?
+Comet Systems receives standard web log information: cookies, referer id's, IP addresses and system information.
+None of this information is personally identifiable -- it is anonymous.
+What is a cookie?
+==========
+A "cookie" is a small bit of record-keeping information that web sites often store on a user's computer.
+Cookies do not include people's names, email addresses, or other information that is personally identifiable; they are used to identify a computer, not a person.
+Cookie technology is fairly commonplace on the Internet because cookies let Websites personalize their service based on a user's preferences.
+==========
+On most browsers, you can ask the browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it.
+Comet Systems does not require that you accept cookies.
+How does Comet Systems use cookies?
+==========
+Currently we use only one type of cookie which does not involve any personally identifying information.
+We use this cookie (our "no nag" cookie) to store information about whether a surfer has been prompted to download our software.
+On a Website, for example, which only wants its visitors to see one offer to download the Comet Cursor, we use the cookie to note this so as to avoid repeated download solicitations.
+Currently we do not use cookies on any of our Websites.
+However we reserve the right to do so in the future.
+==========
+What is a referer ID?
+A referer ID is the information passed along by a web browser that references the Web URL you linked from, and is automatically gathered by our server.
+==========
+We use this information to see what sites link to our sites.
+Referer IDs contain no personally identifiable information.
+==========
+What is an IP address?
+IP addresses are used by your computer every time you are connected to the Internet.
+Your IP address is a number that is used by computers on the network to identify your computer so that data (such as the Web pages you request) can be sent to you.
+They are automatically gathered by our Web server when you visit our Websites.
+Comet Systems will not use your IP address to attempt to identify your personal information.
+==========
+What is system information?
+System information we gather from our web logs includes time of visit, type of browser used, the operating system and platform, and CPU speed.
+This kind of anonymous information is routinely sent by your browser when you connect to Websites and is used by Comet Systems only for broad demographic statistics, for example, what percentage of users have Netscape browsers versus Internet Explorer.
+You will not be personally identified from this information.
+==========
+What can I do to remove the Comet Cursor software from my computer?
+To remove the Comet Cursor from your machine, visit out uninstaller page for directions.
+If you are using Internet Explorer and would like to ensure that you are not prompted to download the Comet Cursor again from any Website using the technology, you can visit this page and follow the "no nag" instructions: download.cometsystems.com/no_nag/nonag.asp.
+==========
+Choosing the "No more download offers" option will place a cookie on your machine so as to remember that you have asked not to receive solicitations to download the Comet Cursor.
+What data has been collected from people using the Comet Cursor software, and what has Comet Systems done with it?
+Comet collects several pieces of anonymous information: a GUID (Globally Unique IDentifier), the url (web address) of sites where a cursor changed, and the filename of the cursor image.
+We do not collect any non-anonymous information and we make no attempt to create user profiles or connect this anonymous information with any personally identifiable information, such as names or email addresses.
+We also do not share log posting data with outside parties.
+==========
+We use this info for two main reasons: to count number of unique users and to report cursor impressions.
+Has Comet or any other company linked GUIDs (Globally Unique IDentifiers), cookies, or any other identifer with people's offline identities?
+No.
+==========
+What user profiles, if any, has Comet created using its data?
+We do not create profiles of individual users.
+Has the data (or any profiles built using it) been disclosed to any outside parties?
+If so, to whom and under what terms?
+No.
+==========
+Is there any security surrounding an ActiveX control?
+Microsoft Internet Explorer's "Authenticode" technology is intended to verify that a given file has not been modified from its original form since the time it was "signed" (i.e., shipped) by its publisher.
+==========
+This allows a clear and unambiguous association to be made between a given software product and its publisher.
+By providing a mechanism to identify the actual source of the software, Microsoft and Verisign add a layer of security to the Internet.
+Comet Systems has registered its ActiveX control with Verisign.
+==========
+What happens if you change your privacy policy?
+Any changes will be posted here before they go into effect.
+[ top ]
+==========

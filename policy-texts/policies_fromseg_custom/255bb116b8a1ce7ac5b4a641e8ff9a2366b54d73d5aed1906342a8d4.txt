@@ -1,0 +1,31 @@
+In order to provide the Platform, our clients must configure the Platform to collect data from users of our clients’ websites, mobile applications, advertising impressions, email campaigns, retail stores and other sources (“Data Sources”) that use our Platform.
+Signal does not have any relationship, contractual or otherwise, with the users of the Data Sources, the client maintains these relationships.
+The Platform deploys various cookies and similar tracking technologies (See How We Collect Usage Data) to automatically collect certain information about your device when you visit or interact with Data Sources that use our technology (“Usage Data”) as well as information about how you interact with ads.
+==========
+This includes certain unique identifiers that may be considered personal data in certain jurisdictions, including the European Economic Area.
+We collect this information by assigning a random unique identifier (“UID”) to your device the first time you interact with a Data Source that uses our technology.
+The UID is then used to establish linkages between you and other information the client and Platform may have about you.
+The information we automatically collect includes:
+
+Information about your device, such as the unique identifiers assigned to your device (e.g., iOS Identifier for Advertising (IDFA), Android Advertising ID (AAID or GAID).
+==========
+Information about your online behavior, such as information about the activities or actions you take and content you view on Data Sources that use our technology, such as time spent on a web page, and whether you scroll or click on an ad or a web page, session start/ stop time, your referring website address, searches performed, and purchase history.
+Information about ads served, viewed, or clicked on, such as the type of ad, where the ad was served, whether you clicked on it and the number of times you have seen the ad.
+==========
+We do not collect any “sensitive” or “special categories of personal data” as defined under European data protection laws.
+We may also enhance the Usage Data, with information collected from third parties, such as  other web-based and mobile networks, exchanges and websites (“Partners”) or our clients (for example, they may upload certain “offline” data into the Platform).
+==========
+In addition, the information we automatically collect may be associated with profile information that we infer about you.
+This information may include, for example, hashed identifiers derived from other information (such as email addresses), mobile device IDs, demographic or interest data, and content viewed or actions taken on a Data Source.
+==========
+Signal’s Tag Manager (Data Hub) itself [including the domain thebrighttag.com] does not have usage tracking about the on-page firing.
+With no tags deployed, Signal does not collect any information.
+==========
+When used by a business customer of Signal, Signal Data Hub will deliver the library containing the customer specified tags to the customer’s owned property.
+A customer may choose to use custom Signal tags to track information about the usage of their own properties.
+==========
+This first-party data is only accessible to the client that collected it and is never made available to other clients or to Signal itself for any other usage.
+In order to monitor system stability and performance, Signal may collect some aggregated data about tag firing.
+This firing data does not include user IP addresses or any user-specific identifiers that could be associated with a particular individual.
+Other than data in standard HTTP request logs, all of which are deleted within 14 days of being received, and aside from the first-party use case described above, Signal does not collect, retain, or share any information about visitors to our customers’ properties, including page URLs visited.
+==========

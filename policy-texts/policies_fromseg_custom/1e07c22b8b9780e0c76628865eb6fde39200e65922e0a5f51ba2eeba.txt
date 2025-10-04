@@ -1,0 +1,102 @@
+This Privacy Policy is designed to provide you with information on how we approach your privacy as an Internet user interacting with websites that have implemented our retargeting technology.
+Please note that this Policy does not pertain to processing of data we collect through the www.rtbhouse.com website.
+This issue is comprehensively addressed in RTB House RTB House Website Privacy Policy.
+1.
+==========
+GENERAL INFORMATION
+We provide online advertisement services to our clients, acting as a Demand Side Platform (DSP) in the programmatic advertising environment.
+Our role is to give advertisers an effective tool to display their ads to you on websites and mobile applications you visit.
+The ads displayed to you are meant to be highly personalized, i.e. tailored to your interests and thus most relevant to you.
+To serve you personalized ads we collect and process certain information related to your online activity on the websites of our clients.
+We achieve this by using “cookies” set on your browser while you visit our clients’ websites or other tracking technologies available on your device such as mobile advertising IDs.
+Based on your browsing patterns we can understand what sort of products and services you are interested in and display advertisements compatible with these interests.
+==========
+While processing any information related to internet users we aim at ensuring highest level of privacy protection and transparency.
+For this purpose we strictly comply with all applicable laws, in particular EU General Data Protection Regulation (“GDPR”), e-Privacy Directive as well as established best practices in the digital advertising market.
+2.
+==========
+HOW DO WE COLLECT AND USE YOUR DATA
+In order to collect your data we use cookies and other tracking technologies.
+Cookies are text files inserted in your web browser when you visit our client’s (advertiser’s) websites.
+They allow to register certain activities you perform there (e.g. the products you browse, add to the shopping cart and purchase) and consequently to determine which ads should be displayed to you to match your current interests.
+While providing our services we operate under creativecdn.com domain.
+We store two cookies under this domain: (a) “u” which contains unique ID established for a specific user, (b) “ts”, which stores timestamp needed to establish cookie lifetime.
+==========
+Data collected with our cookies on the client’s website allow us to “retarget” visitors of such website with personalized ads displayed on other websites through the use of programmatic instantaneous auction system known as real-time bidding (RTB).
+Real-time bidding procedure begins when you enter a certain website where our clients’ ads may be displayed to you – this triggers a ‘bid request’ being sent to us by our business partners.
+It is after receiving such bid request that our technology uses data about your browsing activity on our client’s website to decide whether to respond it and if so – which ad to display to you.
+Our platform is integrated with the RTB environment through cookie matching of technical identifiers (e.g. cookie IDs) used by our business partners (such as Supply-Side Platforms).
+Cookie matching involves linking our partners’ user IDs which enables us to: (a) serve our clients’ advertisements on websites which use our business partners’ digital advertising technology, and (b) collect information related to our ad serving activity.
+We also use the collected data to detect frauds and other potential dangers to privacy security as well as for calculating the usage levels of our technology, diagnose problems etc.
+==========
+We do not purchase any third-party data from data providers in order to optimize our services.
+Please note that we process the data only for the above-mentioned purposes.
+Our clients as well as publishers whose websites or mobile application you visit may independently collect and use the data related to you for different purposes.
+3.
+WHAT CATEGORIES OF DATA WE PROCESS
+In connection with providing our services we collect the following information you:
+unique online identifiers, including cookie IDs and mobile advertising IDs;
+data related to your activity on the digital properties controlled by a client (e.g. IDs of products or product categories you viewed);
+technical browser and device information (“user agent”);
+timestamps;
+IP addresses (collected only for fraud detection / non-specific geolocation purposes).
+4.
+==========
+PERSONAL DATA PROCESSING (GDPR)
+While providing retargeting services we do not collect personally identifiable information (PII) such as names, e-mail addresses, postal addresses or telephone numbers nor receive any additional data from our clients, which, along with data collected by our technology, would enable us to directly identify you.
+By using our technology we can only recognize a user who has already visited one of our clients’ websites.
+However, the data we collect is tied to unique online identification numbers which under GDPR are considered ‘online identifiers’ that allow us to ‘single out’ a specific user from other users.
+According to the GDPR, information collected with the use of such tracking technologies may be considered personal data (this type of non-personally identifiable data is referred to as ‘pseudonymous data’).
+Consequently, in cases where GDPR applies to our services we assure to comply with all requirements established by this legislation.
+==========
+We have also appointed Data Protection Officer, whom you may contact if you have further questions.
+Please see the last chapter of this Privacy Policy for the Data Protection Officer contact details.
+As a part of GDPR compliance programme we have joined the IAB Europe Transparency & Consent Framework (TCF) as a registered vendor and comply with the TCF policies.
+==========
+For more information, please visit http://advertisingconsent.eu/.
+You may access a set of information required by the GDPR pertaining to our data processing activities as a data controller here.
+5.
+==========
+DATA SECURITY MEASURES
+We have deployed organizational and technical measures to assure an appropriate level of security of your data.
+We have deployed procedures regarding every aspect of processing, we carefully select technologies used for processing as well as data recipients and we constantly develop the awareness and knowledge about privacy and personal data protection at our company.
+We store your data in top-tier multi-tenant data centers operated by market leading companies with appropriate data security certifications.
+We use security mechanisms, file system permissions and passwords as well as various two-factor authentication methods to prevent unauthorized access to processed data.
+6.
+==========
+EXERCISING YOUR PRIVACY RIGHTS
+If, after getting acquainted with the extent of data collected about your online activity, you have any concerns about your privacy you can change the settings of your browser or device to disable cookies or other tracking technologies and prevent gathering any data about you through such technology.
+Please note that due to the common use of cookies, turning them off may prevent you from using a variety of websites.
+Please refer to your browser or device documentation to learn how to turn off online tracking mechanisms.
+==========
+You can also opt out specifically from RTB House tracking technology and consequently – from processing of categories of your personal data mentioned above.
+This will prevent us from collecting any information from your browser and will result in deletion or effective anonymization of all data previously collected.
+In order to opt out from RTB House cookies please use the following link: Opt-Out
+Please note that cookies are stored in a particular internet browser.
+If you use more browsers or more devices – you need to opt-out from each of them.
+Also, opt-out entails storing another “opt-out cookie” in your browser.
+If you delete all cookies in your browser’s settings, you will also delete an opt-out cookie.
+In those cases, you may need to opt-out again.
+For opt-out from ads on mobile devices please use device settings:
+For iOS: select “Privacy” -> “Advertising” -> “Limit Ad Tracking”.
+For Android: select “Users area” -> “Google” -> “Ads” -> “Opt out of Ads Personalization”.
+==========
+Please note that GDPR grants you additional rights such as the right of access, rectification, erasure or portability of your personal data, object to or restrict processing as well as right to lodge a complaint with a supervisory authority.
+Also, where we collected and process your personal data subject to your consent, you can withdraw it at any time.
+Such withdrawal does not affect the lawfulness of any processing we conducted prior to your withdrawal.
+Again, to learn more, see our GDPR notice or contact our Data Protection Officer.
+7.
+==========
+PRIVACY POLICY CHANGES
+In order to develop the privacy protection we may deem it fit or necessary to update this Privacy Policy at any time.
+Please follow our website where we will inform you about any material changes to our Privacy Policy
+8.
+CONTACT
+If you have any further questions related to your privacy please do not hesitate to contact our Data Protection Officer us at:
+Data Protection Officer
+RTB House S.A.
+61/101 Złota Street
+00-819 Warsaw, Poland
+dpo@rtbhouse.com
+Last updated: January 25th, 2019.
+==========

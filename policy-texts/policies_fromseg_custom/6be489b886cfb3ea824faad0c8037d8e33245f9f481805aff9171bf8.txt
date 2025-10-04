@@ -1,0 +1,211 @@
+Introduction
+Konduit.me is an advertising technology company that provides optimization services to make digital video more valuable to all partners and consumers in the video advertising ecosystem.
+When its technology is used by publishers platforms, or advertisers, it benefits all users by reducing latency, decreasing errors, and increasing fill rate.
+Konduit.me understands the importance of privacy and thus, designs and operates its services with privacy in mind.
+To keep up to date on industry privacy standards, Konduit.me is also a member of the Trustworthy Accountability Group (TAG) and Interactive Advertising Bureau (IAB).
+This Platform Privacy Policy (“Privacy Policy”) covers how Konduit.me, acting as data processor, treats information it receives, monitors, and processes through its services and its partnerships with subsidiaries and affiliates (collectively, “Konduit.me”) effective April 1, 2018.
+==========
+In this policy, we provide transparency in how Konduit.me collects, processes, uses, and discloses data, as well as the legal basis for collection, pursuant to offering its products and Services (the “Konduit Services” of the “Service”).
+If you would like to understand our privacy practices in connection with services we provide to users on our website konduit.me, please click here to see our Website Privacy Policy.
+To go direct to our opt-out, click here.
+==========
+Data Collection
+Konduit.me provides its Services only to other commercial businesses, and while its technology benefits consumers, it does not directly serve any individuals.
+As necessary to provide our Service to our clients, Konduit.me may process and collect information, including personal data that may relate to an identifiable individual.
+Specifically, the information we process and collect may include information like your IP address, device type, domain, referring website address, browser type and language and other technical information.
+We refer to all of this information as “Digital Identifiers”.
+In some countries, including countries in the European Union (“EU”), this information may be considered personal data under applicable data protection laws.
+==========
+What do we collect?
+We process and collect the following information, which relates to an identifiable individual:
+
+Unique IDs, including:
+                    
+Cookie IDs.
+Cookie IDs are stored in browser cookies placed on the internet browser associated with the device you are using to surf the web.
+==========
+Examples of commonly used internet browsers include Microsoft Explorer, Google Chrome and Mozilla Firefox.
+Our KME cookie consists of a random combination of letters and numbers, but is unique to the browser on your device.
+The KME cookie allows us to identify your browser the next time you are visiting a web site that uses our Services.
+For more information about our KME cookie and other cookies we use, please see our Platform Services Cookie Policy.
+Device IDs.
+In the case of mobile devices (e.g., mobile phones, tablets, etc.), some mobile inventory suppliers and third-party service providers that we work with may provide us with the device ID assigned to your device (i.e., a Google AdID for Android devices or an Apple IDFA for Apple devices).
+==========
+Internet Protocol Address (“IP address”).
+IP addresses are assigned by your Internet service provider (e.g., Comcast/Xfinity, AT&T, British Telecom, Virgin Media, Sky Broadband, Orange, etc.) to the modem used to access the Internet for connected devices in your home and/or business.
+Any devices using the modem to access the Internet may broadcast the same IP address.
+==========
+At home, connected devices could include one or more laptop/desktop computers, tablets, mobile phones, smart/connected TVs and gaming consoles.
+At work, connected devices could include one (or all) floor(s) in an office building.
+HTTP headers & User Agent.
+When a client sends Konduit an ad request, we receive certain information about the source of the request, such as the publisher client (web site) sending the request and data associated with the source device’s Internet browser/content delivery software (e.g., Microsoft Explorer, Mozilla Firefox, Google Chrome or a smart/connected TV or gaming console’s browser).
+We may also receive information such as device type (e.g., computer, tablet, smart/connected TV), date/time of visit and/or browser type.
+==========
+Click-stream Data.
+Click-stream data includes web pages you visited when viewing an ad we’ve sent in response to an ad call we received, and information on your interaction with the Services when viewing content on your device’s Internet browser, including whether you interacted with the ad (e.g., viewed the ad to completion or clicked on the ad), and what ad content you viewed (i.e., which ad we delivered to you).
+Geographic Location Information.
+We may potentially receive geographic location information (i.e., information that determines with reasonable specificity the actual physical location of a person or device, such as GPS level latitude-longitude coordinates or location based Wi-Fi triangulation) from an ad call to our systems.
+How do we collect?
+==========
+Konduit.me is an advertising technology company that works with other commercial businesses to optimize and accelerate the delivery of digital video ads.
+As such, Konduit.me receives information through the various publishers, platforms, advertisers, and other third-party service providers that are involved in the ad serving process through both cookie and non-cookie technology.
+Konduit.me only collects relevant and necessary information to perform its Services and where Konduit.me has a lawful basis to do so.
+Konduit.me can receive your information from any part of the ad serving process, from when an ad call is initiated to when the call is sent out to other platforms or third-party service providers.
+The information sent to us is outlined above in the section, “What do we collect?”
+.
+Since Konduit.me is rarely the primary collection point for data, we rely on the various publishers, platforms, advertisers, and third-party service providers that collect the information to pass on privacy information and opt-out flags.
+Those utilizing our technology may use their own tags, pixels, cookies, and other similar technology within their advertisements.
+We are not responsible for their use of such tracking technologies or for their privacy practices.
+==========
+Konduit.me follows the following process to identify when to collect and when to not collect your data:
+
+If you are visiting a web site or utilizing a platform that leverages our Services, Konduit.me will observe the sent ad request.
+If an opt-out flag has been checked, Konduit.me processes, preserves, and passes on the ad request with the opt-out flag and then purges the data from its Services immediately after the ad call completes.
+If an opt-out flag has not been checked, Konduit.me will check its own existing opt-out requests to see if you have opted-out of Konduit.me Services directly from Konduit.me (which you can do by clicking here).
+==========
+If you have opted-out of Konduit.me Services, Konduit.me processes, preserves, and passes on the ad request adding the opt-out flag and then purges the data from its Services immediately after the ad call completes.
+If you have not opted-out of Konduit.me Services, Konduit.me processes, preserve, and passes on the ad request.
+Then, information necessary to improving Konduit.me’s Services will be stored.
+==========
+See the below Data Use and Data Retention sections to understand how this data will be used and how long it will be stored.
+Data Use
+Konduit.me utilizes the data collected for the following functions:
+
+To provide our Services and assist with delivering the ad, in order to optimize the video ad process Konduit.me must observe and process all of the information during the ad serving process; to continue to improve Konduit.me collects and stores information to enhance future ad calls
+To personalize ad experience, such as preventing a consumer from seeing the same ads repeatedly (frequency capping)
+To report and monitor performance and effectiveness, such as reporting on ad campaign delivery to both clients, publishers, and digital media inventory partners; such as total number of ads processed by Konduit.me in a given month; such as utilizing pixel tags to measure that certain ads have been viewed and/or clicked on
+To identify and combat fraud by monitoring and analyzing data
+For legal purposes deemed to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+For business purposes such as data analysis, audits, identifying usage trends, evaluating the effectiveness of our campaigns, and to evaluate and improve our products, services, marketing, and client relationships
+
+Data Access and Information Sharing
+In the process of providing our Services, we may transfer information across borders from your country or jurisdiction.
+==========
+With the exception of data transfers from the EU and Switzerland, by providing Konduit.me with you information, you hereby consent to the transfer of information.
+This information will be provided to trusted partners who work on behalf of or with Konduit.me under confidentiality agreements using HTTPS protocols.
+These companies may use your information to help Konduit.me fulfill a transaction you requested.
+Konduit.me will only share information with affiliated or unaffiliated companies when the sharing of information is necessary to perform our Services, when we have your consent, or under the following legal and ethical circumstances:
+
+Affiliates in order to fulfil legal/contractual obligations to you.
+Vendors, consultants, and other service providers, who are our third-party service providers, vendors, contractors, or agents who perform functions required for the operation of the business (Examples include: to provide data storage and processing services, payment processing, technical support for our platform and Sites, and fraud prevention)
+Business Transfers, with a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings)
+For legal purposes: We may share your information as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+==========
+Data Retention
+The amount of time that we retain information we collect on each of our systems varies in length based on the type of data collected.
+Our log level data is aggregated or deleted after three days, but may be retained for our Services for up to 15 months after which it will be aggregated or deleted.
+Aggregated information is used for reporting and analytics and may be stored for up to an additional three years.
+==========
+Data is only retained by us so long as necessary to carry out our Services and the purposes outlined in this Privacy Policy, but we reserve the right to delete such information at our convenience.
+Standard practice is that we retain personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy and where we have ongoing legitimate business needs to do so.
+For example, we retain personal information in order to comply with applicable legal, tax or accounting requirements and to enforce our agreements or comply with our legal obligations, unless a longer retention period is required or permitted by law.
+Personal Decisions and Rights
+You have the right to request access to or that we amend, update, or delete information we’ve collected in accordance with this Privacy Policy at any time.
+Due to the fact that the information we collect and monitor with our Services is associated with randomly generated Unique IDs that are associated with your device, we are not able to personally identify your name, address, or email for purposes of providing you access to information about you, rectification and suppression of information, and erasure of such information, unless you provide us additional information.
+==========
+We will not request or seek to process any such information about you.
+Because of this, it is generally not feasible for us to provide individual with information that is tied to their identities.
+If you believe Konduit.me holds information that would allow us to correct, amend, or delete inaccurate information about you or that has been wrongly processed, please contact us at privacy@konduit.me.
+==========
+We will seek to provide access to that data, but will not be able to do so when the burden or expense would be disproporation to the risks of the individual’s privacy in the case in question, or where the rights of other persons would be violated.
+We reserve the right to charge a small fee for access and disclosure of your personal data where permitted under applicable law, which will be communicated to you.
+You may remove Konduit.me’s ability to connect information it has collected to you and your device by opting out of Konduit.me’s Services.
+To exercise this right email privacy@konduit.me or click here.
+You have the right to withdraw your consent to our collection and processing of your personal data, as outlined in in accordance with this Privacy Policy, at any time.
+(OPT-OUT)
+We provide you with the ability to opt-out of our use of data we receive.
+By implementing Konduit.me’s opt-out cookie on your device (by clicking the link below), you remove Konduit.me’s ability to connect information it has collected to you and your device (i.e., Konduit.me’s Unique ID – the KME cookie – is deleted from your browser).
+==========
+You can withdraw your consent at any time.
+Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal data conducted in reliance on lawful processing basis other than consent.
+To exercise this right email privacy@konduit.me or click here.
+If you are a resident of the EU/ EEA, …
+You also have the right to object to processing of your personal data collected, restrict processing of your personal data, or request portability of your personal data, in each case as collected in accordance with this Privacy Policy.
+To exercise these rights email privacy@konduit.me.
+==========
+Data Protections and Security
+Consistent with industry standards and applicable international law, Konduit.me has established appropriate technical and organizational measures to secure and protect your personal data.
+Konduit.me will aim to prevent unauthorized access to, disclosure, alteration or misuse of your information.
+While Konduit.me cannot guarantee that your data will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or Konduit.me’s policies), we will make every effort possible to protect and uphold your privacy rights.
+All data stored on Konduit.me’s servers is treated as confidential.
+Our employees have appropriate and limited access and know such data is confidential.
+Cross-Border Data Transfers
+Konduit.me is headquartered in the United States.
+==========
+With operations, entities, and service providers in the United States and throughout the world, we and our service providers may transfer your information to, or access it in, jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction.
+We will take measures to ensure that your information receives an appropriate level of protection in the jurisdictions in which we process it.
+If you are located in the EU/EEA, we provide adequate protection for the transfer of personal data to countries outside of the EU/ EEA through a series of intercompany agreements based on the Standard Contractual Clauses authorized under the General Data Protection Regulation (EU) 2016/679.
+==========
+Children's Privacy
+Our Services are not developed or intended for individuals that are deemed to be children under applicable data protection or privacy laws.
+Under the California Consumer Privacy Act (CCPA), there is a mandatory opt-in before the sale of information from children under the age of 16.
+However, in compliance with the Children’s Online Privacy Protection Rule (COPPA), we do not knowingly collect information from such individuals under the age of 13 as a standard, and we request that such individuals do not provide information to us through any of the Sites’ voluntary channels such as contact forms.
+==========
+Lawful Bases for Processing Your Information 
+For all users, we will only collect and process personal data about you where we have a lawful basis to do so.
+Lawful bases include consent (where you have given consent to such processing), processing is necessary for the performance of a contract, processing is necessary for compliance with a legal obligation and processing based on “legitimate interests”.
+We may process your personal data for the purposes of our legitimate interests, provided that such processing shall not override your rights and freedoms.
+For example, we may process your personal data to:
+
+Execute and perform our Services and fulfill legally binding contractual obligations
+Improve the quality and content of our Services, including the performance of our Services
+Enable or administer our business, such as for quality control, consolidated reporting, and customer service
+Comply with all applicable laws
+Protect you, us, or others from threats, such as fraud and security threats
+Manage corporate transactions, such as mergers and acquisitions
+Understand and improve our business or client relationships generally
+
+GDPR
+GDPR is a new set of rules in the European Union designed to give residents of the EU more control over their Personal Data.
+It’s goal is to ensure that citizens and businesses in the European Union can fully benefit from the modern digital economy.
+According to the text, the “Regulation protects fundamental rights and freedoms of natural persons and in particular their right to the protection of personal data.”
+Generally, it applies to the Personal Data of EU residents and the companies that handle it.
+Refer to articles 1-3 of the GDPR to determine whether it applies to you.
+==========
+If GDPR applies to you, you can find the complete list of data subject rights in Chapter 3 of the GDPR, or click below for a summary:
+
+Right of Access – You have the right to obtain information from the controller or processor (us) such as the purposes of processing, categories of personal data concerned, recipients of the data, how long it may be stored, and notification of the remaining rights outlined here.
+Right to Rectification – The right to rectification concerns the ability to correct any inaccurate data concerning the data subject.
+The data that we collect, such as your IP Address, is not technically correctable, so we request that you exercise your right to erasure instead.
+Right to Erasure – This is also known as the right to be forgotten.
+If you request to be forgotten, your old ID will be disassociated from you and any information we have on that ID will be deleted in 14 days.
+Right to Data Portability – You have the right to receive any personal data we have in a commonly used and machine-readable format, though we are unaware of any other services which could utilize the information productively.
+CCPA
+The California Consumer Privacy Act (CCPA) of 2018 is a bill passed by the state of California to amend Part 4 of Division 3 of The Civil Code of the State of California.
+Generally, it grants the residents of California with more rights and protections for their personal data.
+==========
+Some of these core rights include:
+
+Right to Transparency – You have the right to know what personal information is being collected about you, to know what we are doing with your information and who we are sharing it with, and to know the business or commercial purpose of the data being collected.
+This includes the categories of third parties with whom your data is shared and the categories of sources of information from whom your data was acquired.
+All of this information is outlined in this Privacy Policy.
+Right of Access – You have the right to obtain information from the controller or processor (us) such as the purposes of processing, categories of personal data concerned, recipients of the data, how long it may be stored, and notification of the remaining rights outlined here.
+==========
+Right of Refusal – You have the right to say no to the sale of your information and withdraw your consent at anytime.
+Right to Erasure – This is also known as the right to be forgotten.
+You have the right to delete any personal data you have posted.
+Right to Security – Companies have a legal responsibility to protect your personal information and to have appropriate security measures in place.
+If a company is careless of negligent in protecting your data, you have the right to sue companies who collected your data, where that data was stolen or disclosed pursuant to an unauthorized data breach.
+Right to Equal Service and Price – You have the right to receive the same quality of service and the same price regardless of whether or not you choose to exercise your privacy rights.
+==========
+Liability
+If Konduit.me has legally transmitted your Personal Data to a third party, Konduit.me shall not be liable for any unlawful processing or unlawful use by that third party.
+Under no circumstances does Konduit.me accept responsibility for any direct or indirect damage resulting from faulty or unlawful use of the Personal Data by a third party.
+Konduit.me is in any case only liable for the damage caused by Processing of Personal Data if it did not comply with its specific legal obligations.
+Konduit.me shall in no event be liable for any special, incidental, indirect or consequential losses or damages.
+==========
+Contact Us
+If you have any questions, complaints or concerns about this Platform Services Privacy Policy or its implementation, you may contact us at this email address: privacy@konduit.me, or you can send correspondence to the following address:
+In the United States:
+Privacy
+Konduit.me
+3700 O’Donnell Street, Suite 200
+Baltimore, MD  21224
+Please contact us first to address any questions or concerns you may have related to our privacy policy.
+If contacting us does not resolve your complaint and it is related to information collected about you in the European Union or European Economic Area, please contact the applicable EU Data Protection Authority.
+Changes to this Privacy Policy and Additional Information
+Konduit.me reserves the right to update, modify, add or delete provisions of this Platform Services Privacy Policy from time to time.
+As a result, you should review this Privacy Policy periodically.
+Appropriate notice will be given when relevant and significant updates are made to Konduit.me’s information practices.
+You may be provided other privacy-related information in connection with your use of our Services, as well as for special features and services not described in this Privacy Policy that may be introduced in the future.
+==========

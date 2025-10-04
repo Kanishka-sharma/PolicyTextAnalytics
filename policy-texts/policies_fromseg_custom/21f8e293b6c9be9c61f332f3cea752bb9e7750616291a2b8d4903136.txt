@@ -1,0 +1,145 @@
+1.
+PREAMBULE
+The purpose of this document is to present the technical and organizational measures in place through ADLOOP to ensure the protection of personal data and compliance with the legal and regulatory requirements applicable to the protection of personal data and the rights of individuals.
+2.
+==========
+DEFINITIONS
+Account: Refers to the account of the Data Controller, accessible on the Platform, allowing a User to use the Services.
+Agreement: Refers to the contract or terms and conditions accepted by the Data Controller to benefit from the provision of the Services.
+Data Controller: Refers to any client of  who has subscribed to the ADLOOP Services
+Hosting Providers: Refers to the subcontractors of ADLOOP in charge to ensure the hosting of the Platform.
+IT Policy: Refers to the document applicable to each User concerning the rules of access and use of the Platform.
+Personal Data: Refers to any information relating to an identified or identifiable individual.
+Is deemed to be an “identifiable individual ” a person who can be identified, directly or indirectly, in particular by reference to an ID, such as a name, an identification number, location data, an online identifier, or to one or more specific elements specific to its physical, physiological, genetic, psychic, economic, cultural or social identity.
+Platform: Refers to all IT and / or telecommunications equipment used by ADLOOP for the provision of the Services, the provision of the Solution and the storage of Personal Data.
+Hosting of the Platform is outsourced to Hosting Providers.
+==========
+Regulation: Refers to all legal and regulatory texts applicable in France and in the European Union regarding the protection of Personal Data and in particular Regulation (EU) 2016/679 of the European Parliament and of the Council of April 27, 2016 applicable to from May 25, 2018.
+Services: Refers to the Services provided by ADLOOP and involving the hosting of Personal Data.
+The Services involved are Data Privacy, Tag Commander, Data Commander, Fuse Commander and Mix Commander.
+User: Refers to anyone with access to the Platform via a username and password.
+3.
+==========
+SECURITY OF PROCESSING
+3.1.
+AUTHENTIFICATION
+Accessing ADLOOP features requires to log in using :
+A login composed of a personal email address,
+A personal and confidential password to access the Account.
+The password is chosen by the User upon Account validation and has to be composed of ten characters at least among with four several types of characters (uppercase, lowercase letters, numbers and special characters), as recommended by the French Data Protection Authority.
+==========
+This authentication device ensures traceability and access to Personal Data under conditions of security and confidentiality in accordance with the provisions of the Regulations and applicable recommendations of the CNIL (French Data Protection Authority).
+Each User has personally committed, by accepting the Adloop privacy & security policy, to ensure the complete confidentiality of his password and has undertaken not to share it with anyone.
+A technical device encourages User to change his password regularly, every 3 months, in accordance with the recommendations of the French Data Protection Authority.
+==========
+Five invalid login attempts will block authentication for 10 minutes.
+In the event of any suspicion of use by an unauthorized third party of its authentication elements, the User may change his password immediately.
+ADLOOP undertakes to notify the Data Controller of any breach of the password of a User assigned to his Account within a maximum period of 72 hours after discovery.
+In this case, the password of the User will be modified at the next login to the Account.
+3.2.
+PSEUDONYMISATION
+The Personal Data processed within the framework of the Services are the subject to a procedure of pseudonymisation consisting of replacing the information relating to the Personal Data by an encrypted value processed by SHA1 algorithms.
+3.3.
+SECURITY MEASURES
+ADLOOP implements the following security measures to protect Personal Data collected and processed as part of the Services : HTTPS connections and Traceability of connection sessions.
+3.4.
+==========
+SECURED HOSTING
+ADLOOP outsources the hosting of the Platform and Personal Data to ISO / IEC 27001 certified Hosting Providers.
+The hosting of the Platform is strictly partitioned, compared to other hosting platforms, by setting up:
+a VPN connection between the Platform and the users’ workstations.
+a last generation firewall,
+a rigorous filtering rules on incoming and outgoing traffic,
+an active monitoring of telecommunication equipment.
+The data Controller is informed that, when ordering the Services, the hosting of the Platform and Personal Data is subcontracted to:
+The OVH company for hosted datacenters, 2 rue Kellermann, 59100 Roubaix
+4.
+==========
+COOKIE & PRIVACY POLICY
+4.1 ON ADLOOP WEBSITE
+What we collect
+Adloop.co uses a web analytics software (Google Analytics) for audience measurement and content consumption analysis.
+Google Analytics uses cookies to identifiy users across visits.
+Data tracked are pseudonymous and may include your IP (Internet Protocol) address.
+==========
+We also collect personal information through the online contact forms available on our website as well as through various offline commercial contacts.
+This information may include but not be limited to first name, surname, address, company, position, online marketing budgets as well as e-mail and telephone number.
+==========
+What we do with your data
+Website visits data are only used for trafic & campaigns analysis.
+It remains stored within Google Analytics platform.
+The contact informations is stored in our CRM systems for the exclusive use by ADLOOP and its employees.
+==========
+Your personal data will be used for the sole purpose of helping us provide you information on our product and services, understanding your business needs, or answering your specific query.
+We will not use your data for an automated profiling or scoring as defined in article 22 of the European General Data Protection Regulation.
+Your data will be stored within the European Union in a secured OVH datacenter and will not be transferred outside the European Union.
+==========
+Reasonable security measures are in place to protect both personal and non-personal information that we collect, included back-up systems, firewalls and login/password and encryption of the access to our hosted software platform.
+We may keep those personal and non-personal data for a maximum duration of three years.
+Right of access to your personal data and your refusal to share your personal data
+If you want to disable Google Analytics Tracking, you can opt out with this link :
+GA opt-out
+In compliance with French law, you have a right to access, delete, correct or transfer your personal information.
+==========
+To do so, please contact us at contact@adloop.co or by mail at AREIA SAS (ADLOOP) 8 rue Saint-Marc, 75002 Paris, France.
+For any enquiry or complaint regarding the treatment of your personal data, you can contact the French Data Protection Authority here : Commission Nationale de l’Informatique et des Libertés (CNIL), 3 Place de Fontenoy – TSA 80715 – 75334 PARIS CEDEX 07
+If you decide you do not want to share visit data with ADLOOP or you request that your personal data be deleted, this will have no impact on your ability to use the ADLOOP website but we will not be able to provide you commercial or technical information about our products and services.
+==========
+Reasonable security measures are in place to protect both personal and non-personal information that we collect, included back-up systems, firewalls and login/password and encryption of the access to our hosted software platform.
+All the personal information we collect is stored in a data center located in the European Union.
+==========
+ADLOOP abides by the European Regulation (UE) 2016/679 from the European Parliament and the European Council of April 27, 2016, also known as General Data Protection Regulation (GDPR).
+4.2 ON ADLOOP PLATFORM
+What we collect
+ADLOOP drops a cookie on the browser of every visitor landing on the Data Controller web property.
+The purpose of this cookie is to store a randomly generated pseudonymous ID that will allow ADLOOP to measure how often the site is visited and the origin of each visit.
+==========
+The Visitors data are aggregated and analysed by algorithms in order to help the Data Controller to improve their marketing efforts.
+ADLOOP also drop anonymous third party cookies in order to measure the exposure to several ads.
+What we do with your data
+ADLOOP provides marketing measurement & optimization services to its clients
+Visitor data are and remain the sole property of the Data Controller.
+ADLOOP uses the visitors data to feed its algorithms and generate reports & recommandations to improve marketing efficiency and profitability.
+ADLOOP will not share, distribute, sell or rent any of the collected information with third parties, except when requested by the Data Controller.
+However, we may share information if so requested by governmental or other judicial authorities.
+==========
+We will not use your data for an automated profiling or scoring as defined in article 22 of the European General Data Protection Regulation.
+Your data will be stored within the European Union in a secured OVH datacenter and will not be transferred outside the European Union.
+Reasonable security measures are in place to protect both personal and non-personal information that we collect, included back-up systems, firewalls and login/password and encryption of the access to our hosted software platform.
+==========
+Pseudonymous data are kept for a maximum duration or 100 days.
+Aggregated anonymous data are kept as long as the contract with the Data Controller is under way.
+Right of access to your personal data and your refusal to share your personal data
+If you don’t want ADLOOP to track your visits, you can opt-out by using the opt-out link provided by the Data Controller on its digital properties.
+If you decide you do not want to share personal data with ADLOOP, this will have no impact on your ability to visit the Data Controller website or use the Data Controller services.
+I In compliance with French law, you have a right to access, delete, correct or transfer your personal information.
+==========
+To do so, please contact us at contact@adloop.co or by mail at AREIA SAS (ADLOOP) 8 rue Saint-Marc, 75002 Paris, France.
+For any enquiry or complaint regarding the treatment of your personal data, you can contact the French Data Protection Authority here : Commission Nationale de l’Informatique et des Libertés (CNIL), 3 Place de Fontenoy – TSA 80715 – 75334 PARIS CEDEX 07
+Reasonable security measures are in place to protect both personal and non-personal information that we collect, included back-up systems, firewalls and login/password and encryption of the access to our hosted software platform.
+==========
+All the personal information we collect is stored in a data center located in the European Union.
+ADLOOP abides by the European Regulation (UE) 2016/679 from the European Parliament and the European Council of April 27, 2016, also known as General Data Protection Regulation (GDPR).
+ADLOOP people
+Person responsible for Data Treatment : Stéphane Gendrel
+Data Protection Office : Stéphane Gendrel
+Domains using Adloop Services :
+adloop.centerparcs.fr
+pv.m6boutique.com
+pv.aramisauto.com
+pv.shopdisney.fr
+pv.sandro-paris.
+com
+pv.claudiepierlot.com
+pv.maje.com
+adloop.centerparcs.be
+adloop.centerparcs.de
+adloop.centerparcs.nl
+adloop.pierreetvacances.com
+pv.clinique.com
+pv.maccosmetics.com
+pv.thalys.com
+pv.izy.com
+pv.salto.fr
+Check out the latest news from our blog!
+==========

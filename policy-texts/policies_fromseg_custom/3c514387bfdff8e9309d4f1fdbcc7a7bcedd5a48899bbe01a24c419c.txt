@@ -1,0 +1,332 @@
+Privacy Notice
+This Privacy Notice (“Notice”) explains how Location Sciences Group Plc (“Location Sciences”, “our”, “we”) approach the Personal Data that we collect and process relating to:
+The use of this Website
+Our role in the Interactive Advertising Bureau’s Transparency & Consent Framework 2.0 (“TCF”) for Verify, our proprietary location verification tool for the advertising industry
+Any application that uses one of Location Science’s products (often described as our ‘Software Development Kit’ or ‘SDK’) to provide various functionalities and
+the conditions under which we may lawfully disclose that information to Third Parties
+It is important that you read this Privacy Notice together with any other data processing notifications that we or the users of our clients’ or partners’ applications may provide at or around the time that your personal data is collected, so that you are fully aware of how and why we are using that data.
+This Notice supplements the other notices and is not intended to override or replace them.
+==========
+Please note that our Website, Software and our Services are not intended for children (those aged 13 and under).
+Location Sciences do not knowingly collect Personal Data relating to children.
+For more information about the TCF please click here.
+This Notice was last updated on 14th August 2020.
+1.
+==========
+About our Business and our approach to Data Laws
+Location Sciences provides services to the digital advertising industry, such as media agencies and their clients, the advertisers.
+Our services centre around verifying the accuracy of location data in order to prevent the fraudulent use of digital advertising technology, and at the same time measuring the quality and accuracy of location-based advertising campaigns.
+==========
+Anonymised, aggregated data is also used in order to generate statistical insights about advertising audiences.
+Our technology is embedded within Verify-enabled digital advertisements that you are served, in order to detect fraud by analysing the accuracy and quality of location data transmitted through the digital advertising exchange during a digital advertising campaign.
+It performs these tasks without compromising the privacy of any individual who has consented to location-based advertising.
+==========
+Location Sciences identifies itself as a Data Processor, and a Data Controller where data collected via the Website are concerned under UK and European Data Protection law (The UK Data Protection Act 2018, EU GDPR 2016/679).
+As such, we are responsible for upholding your rights as a Data Subject.
+==========
+This Notice will set out these rights as clearly as possible and will explain how to contact us or a competent authority if you have any enquiries or complaints.
+You have the right to contact us in order to request the restriction of processing, to manage consent, to correct, or to erase your personal data at any time, where relevant.
+You will find more details about your rights under the GDPR and other relevant legislation further on in this Notice.
+If you should have any questions regarding this Privacy Notice, or if you wish to request a copy of your personal information, an email request should be sent to our Data Protection Officer via:
+dataprivacy@locationsciences.com
+Location Sciences adheres strictly to our legal duty to protect any personal information we collect from you.
+You may lodge a complaint with the Information Commissioner’s Office (ICO) in the event you determine that we are not in compliance with applicable Data Protection law.
+2.
+==========
+www.locationsciencesgroup.ai: Purposes and Legal Basis of Data Collection
+Location Sciences does not capture or store any personal information about individuals who access this website, except where you voluntarily choose to give us your personal details via email, or by using an electronic form, or making a commercial enquiry about any of our services.
+In these circumstances, the personal information that you give us will only be used to provide the information or service you have requested.
+Personal information is not disclosed to third parties unless this is indicated on the web page and / or relevant form at the point of collecting information from you, or as required by law.
+If you wish to update the information you have previously given to us, you can contact Location Sciences at Data Protection Officer, Location Sciences AI Ltd., First Floor, St James House, St James Square, Cheltenham, Gloucestershire GL50 3PR
+dataprivacy@locationsciences.com
+The website will only collect your personal data in the following circumstances:
+Where you have asked us to do so or have properly consented to us doing so.
+==========
+Where we need to do so in order to perform a contract that we have agreed with you.
+Where it is necessary for our legitimate interests (or those of a third party) and your fundamental rights do not override those interests.
+Where we need to comply with a legal or regulatory obligation.
+==========
+What information do we collect?
+If you provide it to us on our ‘Contact Us’ page, we may collect the following information about you:
+Name
+E-mail Address
+How long do we keep your information for?
+We will hold your personal information on our systems only for as long as required to provide you with the service you have requested.
+Where you sign up to receive e-mail marketing from us we will retain your e-mail address after you ‘opt-out’ of receiving e-mails in order to ensure that we continue to honour and respect that request.
+==========
+In some circumstances you can ask us to delete your data: see ‘Your Rights’ below for further information.
+In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
+==========
+Security
+Location Sciences takes the protection of your information very seriously.
+We use encryption (SSL) to protect your personal data when appropriate, and all the information provided to Location Sciences is stored securely once we receive it.
+Location Sciences may store your personal data on secure servers either on our premises or in secure third party data centres
+How we may use the personal information we collect:
+Depending on how and why you provide us with your personal data.
+==========
+We may share it in the following ways:
+To fulfil your requests that are collected via the website.
+To optimise your experience of the website, for example making sure it fits your device properly and to remember any preferences you may have set.
+==========
+To contact you for administrative purposes regarding any service you have signed up for.
+For example, we may wish to notify you that a given service has been suspended for maintenance.
+==========
+We do not share data that directly identifies individuals (such as names, addresses, phone numbers or email addresses) with our partners or other third parties.
+For the avoidance of doubt, we will not contact you for promotional purposes, such as notifying you of new services unless you specifically agree to be contacted for such purposes at the time you submit your information on the site, or at a later time if you sign up specifically to receive such promotional information.
+3.
+==========
+Verify & TCF 2.0: Purposes and Legal Basis of Data Collection
+Location Sciences is a member of the industry group the Interactive Advertising Bureau, or IAB.
+We are registered as a participant in the TCF 2.0, the recognised online advertising industry framework run by the IAB to promote transparency and compliance with applicable data privacy laws for all participants in the process of serving advertisements to your device.
+==========
+We do not collect or receive personal information that directly identifies individuals (such as names, addresses, phone numbers or email addresses), and so we do not identify an end user’s actual real-world identity via our technology.
+However, some of the data which we process (such as device ID numbers, IP addresses and location data) are considered as “personal data” for the purposes of some data protection legislation, and so it is therefore our Notice to treat the data which we process in the provision of our Services as “personal data” in accordance with the requirements of applicable local laws and regulations.
+==========
+Location Sciences does not have a direct relationship with the consumers whose data we receive from Partners or third parties and process on their behalf.
+Instead, we put in place binding agreements with our Partners to ensure that the data that it has passed to us has been obtained in line with TCF 2.0 standards, ensuring that consent has been properly obtained where relevant.
+==========
+Under the TCF 2.0, we have declared the purposes for which we collect personal data, and the legal basis for each purpose:
+Purpose Legal Basis
+To store and/or access information on a device Consent
+To measure Ad performance Consent + Legitimate Interest
+To apply market research to generate audience insights Consent
+To measure content performance Consent + Legitimate Interest
+To develop and improve products Consent
+For Information storage and access Consent
+For Measurement Consent
+Special Purpose Legal Basis
+To ensure security, prevent fraud and debug Legitimate Interest
+We also use precise geolocation data and have declared this as a “Special Feature” under the TCF 2.0 in order to support the purposes stated above.
+We rely upon consent as the legal basis for this special feature.
+4.
+==========
+Location Sciences Software Development Kit: Purposes and Legal Basis of Data Collection
+The Location Sciences Software Development Kit (SDK) constitutes code that is embedded within an iOS or Android application.
+As previously stated in this Notice, in order to promote transparency and control over personal data, we are registered in TCF 2.0, the industry framework run by the IAB.
+==========
+The SDK does not collect or receive personal information that directly identifies individuals (such as names, addresses, phone numbers or email addresses), and so we do not identify an end user’s actual real-world identity via our technology.
+However, some of the data which we process (such as device ID numbers, IP addresses and location data) are considered as “personal data” for the purposes of some data protection legislation, and so it is therefore our Notice to treat the data which we process in the provision of our Services as “personal data” in accordance with the requirements of applicable local laws and regulations.
+Location Sciences does not have a direct relationship with the consumers whose data we receive from Partners or third parties and process on their behalf, but we do put in place binding agreements with our Partners to ensure that the data collected by the SDK is lawfully obtained, particularly where consent is used as the legal basis for the collection of that Data.
+==========
+Under the TCF 2.0, we have declared the purposes for which we collect personal data, and the legal basis for each purpose:
+Purpose Legal Basis
+To store and/or access information on a device Consent
+To measure Ad performance Consent + Legitimate Interest
+To apply market research to generate audience insights Consent
+To measure content performance Consent + Legitimate Interest
+To develop and improve products Consent
+For Information storage and access Consent
+For Measurement Consent
+Special Purpose Legal Basis
+To ensure security, prevent fraud and debug Legitimate Interest
+We also use precise geolocation data and have declared this as a “Special Feature” under the TCF 2.0 in order to support the purposes stated above.
+We rely upon consent as the legal basis for this special feature.
+To find out more about Online Behavioural Advertising, please go to: http://www.youronlinechoices.com/uk
+5.
+==========
+International Transfers
+Please note that some of our service providers and data partners are based outside of the European Economic Area (the “EEA”).
+Where we transfer your data to a service provider or data partner that is outside of the EEA, we ensure that appropriate safeguards are in place to make sure that your personal data is held securely and that your rights as a Data Subject are upheld.
+6.
+==========
+How long do we keep your information for?
+We will hold your personal information on our systems only for as long as required to provide you with the service you have requested.
+Where you sign up to receive e-mail marketing from us we will retain your e-mail address after you ‘opt-out’ of receiving e-mails in order to ensure that we continue to honour and respect that request.
+In some circumstances we may anonymise your personal data so that it can no longer be associated with you, for research or statistical purposes.
+In these cases we may use this information indefinitely without further notice to you.
+7.
+==========
+Your Rights
+As an UK or EU citizen data subject you have rights in relation to your personal data.
+Below, we have described the various rights that you have, as well as how you can exercise them.
+==========
+Right of Access
+You may, at any time, request access to the personal data that we hold which relates to you (you may have heard of this right being described as a “subject access request”).
+Please note that this right entitles you to receive a copy of the personal data that we hold about you in order to enable you to check that it is correct and to ensure that we are processing that personal data lawfully.
+It is not a right that allows you to request personal data about other people, or a right to request specific documents from us that do not relate to your personal data.
+You can exercise this right at any time by writing to us using the contact details set out here and telling us that you are making a Subject Access Request.
+You do not have to fill in a specific form to make this kind of request.
+==========
+Your Right to Rectification and Erasure
+You may, at any time, request that we correct personal data that we hold about you which you believe is incorrect or inaccurate.
+You may also ask us to erase personal data if you do not believe that we need to continue retaining it (you may have heard of this right described as the “right to be forgotten”).
+Please note that we may ask you to verify any new data that you provide to us and may take our own steps to check that the new data you have supplied us with is right.
+==========
+Further, we are not always obliged to erase personal data when asked to do so; if for any reason we believe that we have a good legal reason to continue processing personal data that you ask us to erase we will tell you what that reason is at the time we respond to your request.
+You can exercise this right at any time by writing to us using the contact details set out here and telling us that you are making a request to have your personal data rectified or erased and on what basis you are making that request.
+If you want us to replace inaccurate data with new data, you should tell us what that new data is.
+You do not have to fill in a specific form to make this kind of request.
+==========
+Your Right to Restrict Processing
+Where we process your personal data on the basis of a legitimate interest (see the section of this Notice which explains why we use your personal data) you are entitled to ask us to stop processing it in that way if you feel that our continuing to do so impacts on your fundamental rights and freedoms or if you feel that those legitimate interests are not valid.
+You may also ask us to stop processing your personal data (a) if you dispute the accuracy of that personal data and want us verify that data’s accuracy; (b) where it has been established that our use of the data is unlawful but you do not want us to erase it; (c) where we no longer need to process your personal data (and would otherwise dispose of it) but you wish for us to continue storing it in order to enable you to establish, exercise or defend legal claims.
+Please note that if for any reason we believe that we have a good legal reason to continue processing personal data that you ask us to stop processing, we will tell you what that reason is, either at the time we first respond to your request or after we have had the opportunity to consider and investigate it.
+Your Right to Portability
+Where you wish to transfer certain personal data that we hold about you, which is processed by automated means, to a third party you may write to us and ask us to provide it to you in a commonly used machine-readable format.
+==========
+Because of the kind of work that we do and the systems that we use, we do not envisage this right being particularly relevant to the majority of individuals with whom we interact.
+However, if you wish to transfer your data from us to a third party we are happy to consider such requests.
+==========
+Your Right to stop receiving communications
+For details on your rights to ask us to stop sending you various kinds of communications, please contact us.
+Your Right to object to automated decision making and profiling
+You have the right to be informed about the existence of any automated decision making and profiling of your personal data, and where appropriate, be provided with meaningful information about the logic involved, as well as the significance and the envisaged consequences of such processing that affects you.
+Exercising your rights
+When you write to us making a request to exercise your rights we are entitled to ask you to prove that you are who you say you are.
+==========
+We may ask you to provide copies of relevant ID documents to help us to verify your identity.
+It will help us to process your request if you clearly state which right you wish to exercise and, where relevant, why it is that you are exercising it.
+The clearer and more specific you can be the faster and more efficiently we can deal with your request.
+If you do not provide us with sufficient information then we may delay actioning your request until you have provided us with additional information (and where this is the case we will tell you)
+8.
+==========
+Cookies
+What is a cookie?
+A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website’s computer and stored on your computer’s hard drive.
+Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+==========
+Many sites do this whenever a user visits their website in order to track online traffic flows.
+Cookies record information about your online preferences.
+Users have the ability to set their computers to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time.
+The last of these, of course, means that certain personalised aspects of the website cannot then be provided to that user.
+Each browser and device is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.
+If you have set your computer to reject cookies you can still browse locationsciences.ai anonymously until such time as you wish to register for locationsciences.ai services.
+==========
+For further information on cookies please visit http://www.aboutcookies.org
+Please note, that if you use multiple browsers you will need to opt out of receiving cookies on each device and for each browser.
+Also, if you change devices or delete cookies from your device you will need to repeat this opt-out process.
+Location Sciences’ cookies
+Information supplied by cookies can help us to provide you with a better online user experience and assist us to analyse the profile of our visitors.
+For example, if on a previous visit you went to our App Owners page, we might find this out from your cookie and highlight technology integration information on your second and subsequent visits.
+==========
+We may automatically collect the following information from each of your visits to this website:
+Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+Information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from this website (including date and time), page response times, download errors, and length of visits to certain pages.
+If you receive the HTML-formatted version of our newsletters, we will collect and save notifications that you have opened the email sending out a particular newsletter, in addition to information in respect of your clicks on links in each newsletter.
+If you would like to discontinue receiving newsletters that you chose to sign-up for, you may update your email preferences by using the “unsubscribe” link found in the emails we send you or by contacting us at dataprivacy@locationsciences.com
+Our website also uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).
+==========
+Google Analytics uses “cookies”, which are text files placed on your computer, to help us analyse how users use our site.
+The information generated by the cookie about your use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States.
+Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity for Location Sciences and providing other services relating to website activity.
+==========
+Google may also transfer this information to third parties when required to do so by law, or where such third parties process the information on Google’s behalf.
+Google will not associate your IP address with any other data held by Google and no personally identifiable information will stored.
+==========
+You may refuse the use of cookies by selecting the appropriate settings on your browser.
+However, please note that if you do this you may encounter issues with using the full functionality of our website.
+As a business we use Google Analytics services that enable us to understand the performance of our website.
+This in turn means we can deliver a more appropriate and relevant service to you.
+==========
+We may from time to time use remarketing tools within Google Analytics and implement the Google Display Network to advertise online which means third-party vendors, including Google, may show our adverts across the internet.
+We, and third-party vendors, including Google use first-party cookies (such as Google Analytics cookies) and third-party cookies (such as DoubleClick cookie) together to report how your ad impression and other uses and interactions relate to visits on our site.
+We also utilise the Google Analytics Demographic and Interest reporting tool from which we may gather information such as age, gender and interests that are already held by Google to understand who is visiting our site and the best way to serve you relevant content.
+No personally identifiable information will be collected and all demographic information is anonymous.
+9.
+==========
+Our Data Partners
+Location Sciences partners with the following companies that may receive all or part of your data.
+Please see their Privacy Policies listed below for how your data is used by them.
+To opt out of data collection, please contact us
+Adder
+AdSquare
+Advan Research Company
+Affinity Answers
+AirSage
+Analytic Services LLC dba Culmen International
+AppliedPost
+Arrivalist
+Bazze
+Blogwatcher Inc.
+CACI Limited (UK)
+Carbon Reach
+Camber Systems
+Cisco Systems, Inc. (Meraki LLC)
+Civilia
+Complementics
+Crossover Communications Ltd.
+Crux
+Cuende
+DDQI
+Descartes Labs, Inc.
+==========
+Digital Envoy.
+Ecopia Tech
+Ectalyc 
+Eyeota
+Factual and Factual’s Trusted Partners (Google, Trade Desk, Inc. and affiliated companies, The, Adobe, MediaMath, Amazon, AT&T, AppNexus, Xandr, Inc., LoopMe, Adform, MiQ, S4M, Amobee)
+GEOBLINK SL
+GeoUniq and GeoUniq’s Trusted Partners (Jakala and Adkaora)
+Gyana
+HERE Technologies
+Hyas
+Image Insights Inc.
+==========
+Infinia Mobile
+Intersection
+JCDecaux UK Limited
+JLL
+JKI Industries
+Jorte
+Kairos Fire
+Kalibrate
+Kisio Consulting
+Liveramp
+Location Sciences
+Locomizer
+Lotame
+M1 Data and Analytics
+Market Services Inc. (AggData)
+Maxar
+Microsoft
+Mobilewalla
+MyTraffic
+Native Touch
+nContext
+Nearco
+Neustar
+Neilsen
+Nodle International
+NYBSYS
+Oklahoma Crisis Management
+Omniscience
+On Device Research
+OnSpot Data
+Orbital Insight 
+Place Dashboard
+Placense
+Posterscope
+PushSpring
+Quorum Data Inc.
+Reveal Mobile
+Sense360
+Shopfully
+Situ8ed
+Skyhook Wireless
+Spur Intelligence
+Talon Outdoor Limited
+Targomo
+Telefonica
+Tiendeo
+Troverlo
+UberMedia
+Ubimo, Inc.
+University of Virginia
+Texas A&M 
+Wireless Registry dba SignalFrame
+xAd, Inc. dba GroundTruth
+X-Mode Social, Inc.
+Zeotap
+Service Providers
+Adobe
+Amazon Web Services – AWS Offerings
+Atlassian
+Facebook
+Google
+Hubspot
+Microsoft
+Omniscience
+Salesforce
+Tectonix
+(Partner list correct as of list 2nd September 2020)
+==========

@@ -1,0 +1,44 @@
+Before you can create the right cookie compliance and privacy policy for your website, you need to understand your compliance risks.
+That means understanding how many cookies your website is setting on visitor's browsers and what they do.
+Carrying out a cookie audit is an essential first step in your plan to make your website compliant.
+If you haven't taken that step yet, then you are putting your business at an increased risk of enforcement by the Information Commissioner's Office (ICO).
+Among its powers are the ability to force you to make a change to your website to comply with the law, or hand out fines of up to half a million pounds.
+==========
+The Optanon Cookie Auditor is an extension for Google's Chrome browser, designed to help website owners find out what cookies are being set by their site on visitors' browsers.
+Built in response to the development of new privacy regulations, it helps site owners to prepare for their initial compliance with EU online privacy regulations on the disclosure of cookies, and it provides a mechanism to keep that disclosure up to date by enabling you to continually scan for new cookies as you browse.
+The Optanon Cookie Auditor has a number of unique features that we believe make it the best solution for cookie audits:
+It relies on 'real world' browsing to ensure accuracy and completeness.
+Automated solutions are mere simulations and as a result cannot capture all the cookies your site might set on real user's machines.
+==========
+It continues to record cookies until told to stop.
+This means that even when you have finished your initial audit, you can keep Optanon looking for new cookies, which is vital for maintaining compliance over time.
+It can collate information from several browsers at once.
+==========
+If you have a large site you want to audit quickly, you can spread the load by installing it on several machines.
+The data on your site is sent to a central database.
+You can buy a report for a one off fee, or get the data for free as part of the Optanon Privacy Compliance service
+It is fully integrated with the Optanon Privacy Compliance service.
+The data captured by the Optanon Cookie Auditor can quickly and easily be turned into a disclosure and compliance notice on any website, supporting Implied, Opt-in and Information Only formats.
+==========
+There are many ways you can carry out a cookie audit on your website, and the good news is, it needn't cost you a fortune.
+At the Cookie Collective we aim to provide services to fit any budget.
+There are three key stages to a cookie audit:
+Discovery
+Research
+Categorisation
+The Discovery  stage is just about finding out what cookies you have on your site.
+Our Optanon Cookie Auditor will provide you with a list of cookies your site places in the browser.
+And with our unique Audit as you browse technology - all you have to do is download and set it to record your site as you review and edit it.
+The Research  stage involves working out what those cookies do.
+To help you with this we are building a new public information resource, Cookiepedia, which contains over six million cookies, with an ever increasing number of descriptions written by contributors and our internal research team.
+However if you don't have the time and want to take advantage of our knowledge and experience, we can provide a full service professional audit.
+Our team will spend time doing the research for you and producing a detailed report on your cookies and recommending appropriate strategies for both short and long term compliance.
+For more information about these services, including an example report, please get in touch now.
+The Categorisation stage is about working out how you want to present the information about your cookies to your visitors.
+==========
+Most consumers have very little understanding of what cookies do, and so it is important to get this message right.
+We recommend the ICC UK Cookie Guide as an excellent resource for this purpose.
+The UK branch of the International Chambers of Commerce  have consulted widely among experts and big business to create a simple four category system for communicating what cookies do.
+All of our professional Cookie Audits will categorise your cookies using this system.
+If you would like a quote for provision of audit services, please get in touch and we will be happy to respond.
+==========

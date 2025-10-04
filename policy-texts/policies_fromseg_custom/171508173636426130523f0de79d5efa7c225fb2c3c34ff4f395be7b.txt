@@ -1,0 +1,75 @@
+The cookies we set and why
+This website is owned and operated by Situation Publishing.
+When someone visits www.theregister.co.uk / www.channelregister.co.uk we collect standard internet log information and details of visitor behaviour patterns.
+We do this to find out things such as the number of visitors to the various parts of the site.
+==========
+We collect this information in a way which does not personally identify anyone.
+When we do want to collect personally identifiable information - for things like our newsletters - we will be upfront about this.
+We will make it clear when we collect personal information and will explain what we intend to do with it.
+==========
+Most web browsers allow some control of most cookies through the browser settings.
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org.
+==========
+Cookies from Situation Publishing
+Cookies are widely used to make websites work, or work more efficiently, as well as to provide information to the owners of the site and to help deliver adverts correctly.
+The table below explains the cookies we use, why we use them and when they are set.
+Cookies from our suppliers
+We use Google DoubleClick to serve adverts across our sites and have no direct control of the cookies it sets.
+You can read all about Google's advertising cookies here.
+You can still receive adverts without being the Google cookie being set.
+You can opt out here.
+Some of our sites use Google Analytics for tracking and reporting of site performance.
+You can opt out here.
+==========
+Some of our advertisers use other Ad Servers which may set cookies too.
+Unfortunately, we can't directly control their cookies either.
+But you can, by taking control of your cookie management.
+Read how, here.
+Some advertisers try to behaviourally target you using retargeting cookies across sites – that's when you notice adverts stalking you across lots of different sites.
+==========
+We forbid this behaviour in the terms and conditions of any advertising contracts we enter into.
+But sometimes Google does this through the ads it runs across the site.
+==========
+You should be aware of how to manage this yourself.
+This is a decent resource to help you.
+==========
+Cookie Details
+# Name Title Purpose Activated Duration
+Initiated by Google Doubleclick
+1 id Doubleclick ID Google uses the DoubleClick cookie on DFP sites, AdSense sites, partner sites and certain Google services to serve more relevant ads across the web and limit the number of times a given ad is shown to you.
+You should read more here.
+==========
+On visit 2 Years
+Initiated by Google Analytics
+2 __utma / __utmb / __utmc / __utmz Google Analytics Google Analytics uses cookies to define user sessions, and to provide a number of reporting features.
+These cookies are set or updated only to collect the data required for such reports, and are first-party.
+You can opt out here.
+==========
+On visit Up to 2 Years
+Initiated by The Register / The Channel
+3 sc Session Count Used for counting how many page impressions a user sees in the session - we use it to limit the effect of advertising on our readers.
+On visit Browser Session
+4 c Visited Channels This tells us which sections of the site a user has visited and allows us to target them with an advert.
+e.g. read the Servers section, target with a Servers advert.
+==========
+On visit 1 Month
+Initiated by you
+5 s Account Login Required so we can enable account functions.
+At login 1 Year
+6 eucookie EU Cookie Consent Prevents display of the cookie notification message.
+On clicking the button to acknowledge that you no longer wish to be reminded about our cookie policy.
+==========
+10 Years
+7 voted polls Voted Polls Required to manage the deployment of polls On poll vote 1 Week
+8 v Version Captures the fact that a user has rated the article, so they can't rate it again.
+On rating 1 Year
+9 td Traffic Driver Tell us which promotional activities users have clicked on - e.g. if they clicked on an event promotion, or a podcast promotion we would know the promotion had driven X responses.
+On click of promotion 1 Year
+10 cid Campaign ID When someone finishes completing a survey, we record the ID in this cookie, so we can then avoid promoting it to the user any further.
+On survey completion 1 Month
+11 forum_sort Per topic user sort order preference For recording logged in users' forum preferences.
+==========
+On Forum Sort Browser Session
+12 sl Lite Account login Required to enable account functions from email recipients.
+On clicking on a link in one of our email newsletters Browser Session
+==========

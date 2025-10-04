@@ -1,0 +1,46 @@
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree.
+Cookies contain information that is transferred to your computer's hard drive.
+1.
+==========
+First Party Cookies
+These are cookies which websites use to distinguish you from other users of the website e.g. to help provide you with a good experience when you browse the website.
+We do not currently use any first party cookies on our website.
+2.
+Third Party Cookies
+These are cookies on our website that are not related to us and might include for example advertising networks and providers of external services (like web traffic analysis services).
+==========
+We do not have any control over these.
+These cookies are likely to be analytical/performance cookies or targeting cookies.
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies.
+However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+Here are some of the third party cookies that are on our website:
+Cookie
+Name
+Purpose
+Google Analytics
+__utma
+__utmb
+__utmc
+__utmz
+These cookies are used to collect information about how visitors use our site.
+==========
+We use the information to compile reports and to help us improve the site.
+The cookies collect information in an anonymous form, including the number of visitors to the site, where the visitors have come to the site from and the pages they have visited.
+==========
+Facebook
+_e_3Pnw_0
+Act
+Datr
+Wd
+reg_ext_ref
+reg_fb_gate
+reg_fb_ref
+lsd
+These cookies allow our Facebook fans to interact with the website and like our content.
+DistrictM
+__cfduid
+ASP.NET_SessionId
+CMSSID
+These cookies are used to identify individual clients behind a shared IP address and apply security settings on a per-client basis, as well as distinguish individual sessions for users.
+Except for essential cookies, all cookies will expire after 90 days.
+==========

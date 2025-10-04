@@ -1,0 +1,733 @@
+Consumer Privacy Choices
+UM takes its data privacy responsibilities seriously.
+We are committed to providing transparency about our practices, protecting individuals from misuse of personal information, and allowing consumer data choices.
+These pages provide you with information about how we acquire and use personal information and allow you choices to control your information.
+==========
+UM Mobile App Products Privacy Policy
+Effective: January 1, 2020
+This Privacy Policy describes how UM, Inc. (“UM” “we” or “us”) collects, stores and uses information about users of our websites (“Sites”) and mobile applications (“Apps”) owned by UM, Inc. (collectively, the “Products”).
+By using our Products, you agree to UM’s collection, storage, use and disclosure of information as described in this Privacy Policy.
+If you disagree with anything in this Privacy Policy, please do not install or use Our Products.
+==========
+Background
+Our Products support users’ experience with Twitter including the social apps Echofon, UberSocial, and Plume.
+To use these Apps, users (“Users”) need to log in in using their Twitter credentials.
+WHAT INFORMATION IS COLLECTED
+We collect the following types of information from our Users:
+Information You Provide: When you set up your account, provide us with an email, or share information with us in any other way, such as a customer support request, we collect and store the information you share.
+This will include your Twitter handle, but not your password which is retained by Twitter.
+You do not have to share information with us, but without it you may not be able to access certain content or features of the Products.
+==========
+Automatic Collection: Like many technology providers, we use common internet technologies such as cookies on Sites and persistent tools on Apps to keep track of users’ interactions with the Products.
+These tools will collect general device and browser information, including device type and model, browser type and version, app type and versions, as well as information related to your use of the Products.
+We also contract with third party providers who use similar tracking tags on the Products via SDKs, to collect information about your use of the Products, for advertising, analytics, and measurement purposes.
+More about this is discussed below.
+==========
+Publicly Posted: If you post information on public areas via the Products (or elsewhere on the internet), that information is public and may be collected, stored and used by anyone, including us.
+We use a Twitter API to pull up your posts and timeline information; such information is stored by Twitter and is not stored by us.
+Use of Social Media Applications: The Products utilize certain API “feeds” or other mechanisms provided by third parties, notably Twitter (“Third Party Apps”), to access your accounts as authorized by you when you use of the Products.
+==========
+Those Third Party Apps may share information about you with us, depending upon the privacy settings you have set within your account for such Third Party Apps.
+The Third Party App settings enabled by you do not allow us to access content, data or information not authorized by those privacy settings.
+Please refer to the privacy settings in your Third Party Apps account to manage your public profile and other aspects of your account with those Third Party Apps.
+==========
+Mobile Location Information: If you consent to allow access to your geo location on the Products, and the Products are location enabled, we will collect and store information related to your mobile device location including over time to help provide a better experience with our Products and in connection with advertising, analytics, and measurement.
+Some functional use of the Products may be dependent on the data related to geolocation information (such as when you post a tweet from or about a location).
+If the settings on your device allow us to receive location information, we may also associate location information with other information we have about you.
+You are always free to turn off geolocation on your device (or limit it to certain Apps).
+Some of this information may identify a particular device and may be “personal information” under some jurisdictions.
+==========
+Personal Information, as the term used in the United States, or Personal Data as referred to pursuant to the European Directives 95/46/EC and 2002/58/EC (EU General Data Protection Regulations Legislation, also known as “GDPR”) (hereinafter “PI”) has different definitions.
+Different regulations around the world may use different terminology and apply a different description of what information is considered personal information, so we encourage you to visit our jurisdictional specific pages as applicable (i.e. GDPR Notice).
+==========
+The information we collect from devices that may be considered PI are:
+your Twitter handle
+mobile advertising device IDs (MAIDs): these are IDFAs for iOS, and Android Ad IDs for Android
+Information about a User’s activities or actions on the Products and interaction with advertising that run on the Products (session start/stop time, and advertising click-stream information)
+IP addresses and general location data that can be extrapolated from an IP address level (city or postal code)
+Latitude and longitude geolocation information if a User has provided consent from the relevant Product and enabled the mobile device to share location information.
+You are always free to turn off geolocation (or limit it to certain mobile applications) or to adjust your advertising settings on your device
+For clarity, and without limiting the above, we do not collect information that directly identifies a natural person, including the following information, among other information: names, email addresses, cell phone or home phone numbers, login passwords, social security, drivers licenses.
+We also do not collect financial or other sensitive information.
+==========
+Advertising on the Products
+The Products display advertisements (“Ads”) which are delivered by UM’s services and through third party providers.
+When Ads are served, information regarding interaction with the Ads shown to you is collected by the third party advertising exchange partners and us.
+The Ads that are served on the Products include targeted, behavioral advertising based upon information compiled about users to provide more relevant advertising content.
+==========
+UM and third parties operating the ad serving platforms we use, collect and utilize interest, contextual, demographic, geolocation information, and device-related information  (i.e. device ID and browser type, date and time stamps) and information related to Ads served (such as preferences, content viewed, clicks and views) in connection with delivering and measuring advertising.
+This data is used to help choose which Ads to deliver and to enhance our advertising and analytics capabilities, as well as to offer analytics measurement and data enhancement services to our partners for their marketing and advertising purposes.
+When the Products are location enabled, and you have consented to enabling access to  geolocation data on the Products, UM will collect and process geolocation data over time and use this data in connection with the advertising, measurement, and attribution services as described herein.
+To the extent UM makes available geolocation to third parties in accordance with this Privacy Policy, it will be provided without identifying you personally.
+==========
+The Products are enabled with tools to support the services of third parties performing advertising and analytics on the Products.
+The third party service provider tools implemented on our Products are for the purposes of: advertising services, analytics and crash reporting services, Emoji (in UberSocial/Android and UberSocial/iPhone), Facebook (to enable cross-posting and showing timelines); an Android-file logger (to allow Users to share app logs with us).
+To enable these services, those tools will collect and transmit devices ID, device-related and application-related information to those providers.
+HOW INFORMATION WE COLLECT IS USED
+We use the information we collect for a variety of business purposes in connection with the Products, which include the following purposes:
+Providing Our Services: Generally we use the information we collect about Users to inform about our products (including advertising) as described in this Policy and to fulfill your requests and validate your User rights; contact and communicate with you; and as otherwise described in this Policy.
+==========
+Serving Ads: To allow us to offer advertising inventory in the Products and to fill that inventory with relevant ads.
+Performance Analytics: To analyze ad performance, such as tracking views of ads, as well as click-through rates to websites or app stores and/or installs of apps that have been advertised.
+Service Usage and Support: To calculate usage levels, to help diagnose server problems, and administer the Products.
+Use for Our Services Business (as described in our Business Services Privacy Policy)
+As we believe to be necessary or appropriate: (a) under applicable law, including laws outside a User’s country of residence; (b) to comply with subpoenas, warrants, or other legal process; (c) to respond to requests from public and government authorities including public and government authorities outside an User’s country of residence; (d) to enforce our terms and conditions; (e) to protect our operations; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, Users, or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+==========
+WHERE WE SHARE INFORMATION
+Anonymous/Aggregated Information.
+Anonymous or aggregated information that does not identify you personally, like usage and metrics information, may be shared with others, including partners, developers, potential investors, marketers, and business partners.
+Anonymous information helps us understand trends and user needs so that we can better design new products and services and refine existing products and services to serve our customers better.
+==========
+PI May Be Shared As Follows:
+during due diligence or in preparation for or after a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation.
+If UM or its assets is purchased, all associated data and information will be transferred.
+==========
+with those entities who are helping us make the Services available and functional under contract and with safeguards.
+These include third-party vendors, technical agents, subcontractors, and our affiliates and consultants who assist us in performing functions to operate our Services.
+These functions include, for example, website hosting, maintenance, data analysis, customer support, infrastructure services, technical agents, analytics and metrics services.
+==========
+These third parties will be contractually restricted in the way they can use PI.
+As in any transaction, if you provide your credit card information for purchases on Product, our credit card processor and your credit card company will be provided with all relevant information about us, item(s) purchased, cost and other information necessary to process the transaction.
+We use a third party service provider to process payments made on our Sites, so your credit card information is not collected and retained by us.
+==========
+when permitted or required by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our users or business partners.
+We may disclose PI to the extent required by law, or if we have a good-faith belief that we need to disclose it in order to comply with official investigations or legal proceedings (whether initiated by governmental/law enforcement officials, or private parties).
+If we have to disclose PI to governmental/law enforcement officials, we may not be able to ensure that those officials will maintain the privacy and security of PI.
+WHAT ARE MY CONSUMER CHOICE/DATA PROTECTION RIGHTS/OPT OUT
+For personal information access, opt out and deletion requests with respect to any PI processed by UM, and for personal data of Data Subjects for residents of EU, UK and Switzerland, you can follow the instructions on our Consumer Choices page.
+Please note that we will need your Mobile Ad ID in order to identify your device in our systems.
+==========
+While CCPA only covers California residents, we will voluntarily extend its core rights for people to control their data to all of our users across the United States, not just those who live in California.
+EUROPEAN UNION, UK AND SWITZERLAND ADDITIONAL NOTICE
+If you are a resident in the European Economic Area and want to find out more about your data protection rights, please see our separate section called “EU Privacy Notice – GDPR”
+SECURITY
+Information that UM collects is stored on servers that UM manages, using standard security procedures and practices appropriate to the nature of the information.
+==========
+Please be aware that no data transmission over the Internet or information contained in our servers can be guaranteed to be 100% secure.
+As a result, UM cannot guarantee or warrant the security of any information you transmit on or through the Products and you do so at your own risk.
+==========
+CHILDREN’S PRIVACY
+The Products not intended for children under age 13 (or up to age 16 in certain countries), or for anyone under age 18 without involvement of a parent or guardian.
+The Products includes unmonitored content posted by users and sourced from other third parties and as you can imagine, such content may be unsuitable for children.
+We do not knowingly collect or distribute information from or about children under 13 (or up to age 16 in certain countries).
+==========
+CHANGES TO PRIVACY POLICY
+UM reserves the right to change this Privacy Policy at any time, and will do so by posting changes to this Privacy Policy.
+The new Privacy Policy will apply to all Users of the Products and will replace any prior Privacy Policies that are inconsistent.
+This Privacy Policy is also subject to our Terms of Service.
+==========
+DISPUTE RESOLUTION
+This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California applicable to agreements made and performed in California, excluding the application of the conflict of laws provisions.
+You agree that any action or suit brought by a party to enforce or adjudicate your rights under this Agreement shall be brought in the federal or state courts located in Los Angeles, California.
+WHO WE ARE.
+==========
+CONTACT US
+If you have any questions about this Privacy Policy or our privacy practices, please email us at privacy@um.co.
+Or you can contact us by mail at:
+UM, Inc.
+130 West Union Street
+Pasadena, CA 91103
+Attn: Compliance Officer
+For Japan, see our privacy policy in Japanese here.
+For Portugal, see our privacy policy in Portuguese here.
+==========
+Business Services Privacy Policy
+Summary of Changes
+Effective: January 1, 2020
+This Privacy Policy describes how the mobile advertising and business intelligence services (the “Services”) of UM, Inc. (“UM” “We” or “Us”) collect, store, and use information about consumers.
+If you are interested in the privacy practices for the websites and mobile app products owned by UM, please visit the UM Products Privacy Policy.
+Background
+Our Services provide advertising and business intelligence solutions to our clients and partners, which include working with publishers, advertisers, data partners, and third party ad exchanges across a network of mobile applications (“Apps”) and websites (“Sites”).
+==========
+We provide UM advertising optimization and measurement tools to advertisers and publishers and We utilize data science and technology to provide a variety of businesses with useful reports, analytics and information.
+The Services use our proprietary technology to understand mobile location information for providing businesses with insights, analytics and research.
+==========
+HOW IS INFORMATION COLLECTED
+UM is able to collect first party data directly from individuals (“Users” or “Data Subjects”) of its mobile apps such as Echofon and UberSocial and from mobile apps of its publisher partners that utilize an UM SDK.
+UM owned apps and publishing partners utilizing an UM SDK are required to notify users and gain consent that the data is being captured and will be shared with third parties.
+==========
+UM also collects information through its demand and supply partners of mobile advertising networks and from select data partners.
+In addition to the information collected from Apps as mentioned above, the Services receive information about Users from third party Sites and Apps that utilize affiliate SDKs or other collection interfaces, and through our advertising services and third party ad exchange services, and from data suppliers we work with.
+UM only works with third parties that agree to meet required notifications to Users that the data is being captured and will be shared with third parties, such as Cuebiq, whose privacy policy can be viewed here.
+==========
+Our technology collects information about the geolocation of mobile devices.
+We receive geolocation data from mobile devices (using the manufacturers’ advertising device id) provided by mobile App publishers (via SDK or other methodologies), other media supply sources in conjunction with the opportunity to purchase advertising inventory, and via data providers.
+We may collect this information over time and across websites, mobile apps and devices.
+==========
+We also purchase data sets from select third parties where we get sufficient comfort that the data was obtained in conformance to current privacy regulations.
+When we receive geolocation data, we rely upon the mobile app publishers and other media supply sources that are responsible for enabling your connection to our Services to request and obtain consent for the collection and use of your geolocation data.
+You may also control your mobile device directly by enabling or disabling your location settings on your device.
+==========
+WHAT INFORMATION IS COLLECTED
+When Users visit an App that uses our SDK or the SDK of our partners, We and the partners will collect certain information about devices.
+Some of the this information may identify a particular device and may be “personal information” under some jurisdictions.
+==========
+PI, Personal Information, as the term used in the United States, or Personal Data as referred to pursuant to the European Directives 95/46/EC and 2002/58/EC (EU General Data Protection Regulations Legislation, also known as “GDPR”) (hereinafter “PI”) has different definitions.
+Different regulations around the world may use different terminology and apply a different description of what information is considered personal information, so we encourage you to visit our jurisdictional specific pages as applicable (i.e. GDPR Notice).
+==========
+Generally we try to minimize the PI we collect (“Non-PI”).
+Non-PI includes: information such as type of browser used (Chrome or Safari), device model and operating system information and version (e.g. iOS ver 10 ),  language preferences, as well as other aggregated and de-identified information.
+==========
+The information we collect from devices that may be considered PI are:
+Unique device Identifiers: The unique IDs that we collect are IDFAs for iOS, and Android Ad IDs for Android
+IP addresses and general location data that can be extrapolated from an IP address level (city or postal code)
+Information about a User’s interaction with advertising on Apps (advertising click-stream information such as type of ad, type of App, where served, whether User clicked on ad)
+Latitude and longitude geolocation information if a User has provided consent from the relevant App and enabled the mobile device to share location information.
+If you have previously given consent for collection of geolocation information, You are always free to turn off geolocation (or limit it to certain mobile applications) or to adjust your advertising settings on your device
+For clarity, and without limiting the above, we do not collect information that directly identifies a natural person, including the following information, among other information: names, email addresses, cell phone or home phone numbers, login passwords, social security, drivers licenses.
+We also do not collect financial or other sensitive information.
+==========
+PIXELS, COOKIES AND OTHER PERSISTENCE TOOLS
+Our Services may use persistent cookie-like tools on mobile devices to enable us to measure the effectiveness related to serving advertising and for business intelligence about the activities of Users on Apps and Sites.
+You are free to set your consents on the settings of your browser, operating system and device to de-activate the ability to identify your device persistently.
+Please refer to these settings for more information on how to disable your browser or operating system from receiving cookies and controlling your preferences, including to disallow sharing of device level information or to disable geolocation access.
+==========
+HOW INFORMATION WE COLLECT IS USED
+Our Services include business intelligence services, which involve robust data information and reporting to clients.
+We use our proprietary tools to transform raw mobile device information collected as described above, including geolocation information, into useful insights for our clients.
+==========
+We utilize our data science technology to provide our clients with trend and statistical analyses, such as identifying patterns that will enhance the relevance of ads, providing advertisements to certain types of audiences, identifying and optimizing trade areas and business locations, and for helping our clients make informed business decisions about consumer behavior with trend and movement information.
+We provide insights, patterns and commonalities to help our clients understand trends and make evaluations about the products and services they offer, such as informing a Partner’s real estate decision about where to locate a store.
+==========
+With respect to the manufacturer advertising device identifier (MAID) we collect, we store it in our systems as an anonymized, hashed id.
+Much of the information is further anonymized into aggregated files and use of data points without unique identifiers or only with a hashed identifier.
+The geolocation we collect is also randomly jittered as another step in making the data less personal.
+We sell hashed device identifiers with jittered geolocation information to clients and partners that utilize our business intelligence Services.
+This information is used in a number of ways to offer such clients information about business trends, reports, patterns.
+Our policy is to sell unhashed MAIDs only to clients who need such for cases of targeting advertising, measurement and matching.
+==========
+UM does not collect data or create data segments that are based upon what we consider to be sensitive information (for example, we don’t create segments to determine religion or credit worthiness).
+UM may create health-related segments such as an inferred interest in diet and wellness, but not sensitive health data such as medical conditions or diseases.
+==========
+All of our clients who purchase our Services are required to conform to applicable privacy regulations as well as our contractual requirements.
+UM prohibits the use of its Services by others for DAA proscribed uses ((a) employment, credit or health care eligibility; (b) insurance eligibility, underwriting, or pricing; (c) unlawful tracking or surveillance of individuals or for generating personally identifiable information.
+As a matter of policy, beyond legal requirements, UM does not sell its data products to law enforcement agencies for use in law enforcement activities or to monitor the movement of individuals or groups.
+==========
+Our Services also include advertising services that allow us to help our advertising and publishing clients provide more relevant advertising and content on the Sites and Apps on our Network.
+In general, we use the information collected from and about you and from partners to enhance our advertising services by providing ad content that is more closely related to your interests.
+==========
+For example, the information is used to create audiences that are grouped together based on shared preferences (e.g., Sports Fans, car enthusiasts, movie goers) and to measure the effectiveness of ad campaigns.
+Data used to create online audiences is de-identified, helping ensure that neither the ad server nor our cookies contains PI, but will include a mobile advertising device id.
+We may assign an UM ID to your browser, computer or mobile device when we serve an ad to it or we identify it on a client’s website or mobile app.
+The UM ID and other information collected via the Services can also help our advertising clients measure the effectiveness of advertisements delivered via the Services.
+==========
+They enable the Services to determine within a reasonable level of confidence that a computer or device is the same as one with which the Services has previously interacted.
+For instance, the Services can determine that a computer or device to which we served an ad on Monday may be the same computer or device for which we observed a purchase on Tuesday.
+==========
+In other words, in such cases we are able to infer that a device (e.g. your computer) and another device (e.g. your smartphone) are used by the same owner.
+Where we are able to make such inferences, we may use this information to deliver targeted ads across multiple computers or devices.
+==========
+This is sometimes referred to as cross-device advertising.
+The ad network providers we work with will only pass MAIDs and other information to Us if consent has been obtained from Users.
+The publishers of the Sites and Apps request consent from individuals using the Site or Apps and upon our ad exchange partners in passing the information to us.
+==========
+In addition, for advertising targeted to Users in the EU, Uk, and Switzerland, UM is an approved status vendor and participates in the IAB Europe Transparency and Consent Framework (see more at https://advertisingconsent.eu/about/).
+Legally sufficient consent is obtained using this framework from those publishers whose Apps utilize the framework.
+In addition, You have the ability to withdraw consent at any time by contacting the publisher of the relevant App or Site and checking your privacy settings on your devices and with the Apps and Sites you visit from time to time.
+==========
+WHEN WE SHARE INFORMATION
+UM shares PI and Non-PI that we collect with advertisers, clients, customers and partners as described above.
+We may also share PI information, for the following purposes:
+during due diligence or in preparation for or after a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation.
+==========
+with those entities that are helping us make the Sites, Apps, and Services available and functional, like technical agents, payment processing vendors, other subcontractors, and our affiliates and consultants under contract and with safeguards.
+These functions include, for example, web site hosting, maintenance, data analysis, customer support, email delivery services, infrastructure services, technical agents, analytics and metrics services.
+==========
+These third parties will be restricted in the way they can use PI and will need to keep your information confidential and secure.
+if permitted or required by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our users, clients, partners, or business partners.
+==========
+When businesses (not consumers) subscribe to our Services, the order process may request a credit card transaction.
+Order information is encrypted when it is transmitted for credit card processing to the credit card services provider and when returned to us.
+==========
+Encryption is a process by which we use software to scramble information in transit.
+We use a third party service provider to process payments for our Services, so your credit card information is not collected and retained by Us.
+==========
+We may disclose your PI to the extent required by law, or if we have a good-faith belief that we need to disclose it in order to comply with official investigations or legal proceedings (whether initiated by governmental/law enforcement officials, or private parties).
+If we have to disclose PI to governmental/law enforcement officials, we may not be able to ensure that those officials will maintain the privacy and security of PI.
+WHAT ARE MY CONSUMER CHOICE/DATA PROTECTION/OPT OUT RIGHTS
+For personal information access, opt out and deletion requests with respect to any PI processed by UM, and for personal data of data subjects for residents of EU, UK and Switzerland, you can follow the instructions on our Consumer Choices page.
+Please note that we will need your Mobile Ad ID in order to identify your device in our systems.
+==========
+While CCPA only covers California residents, We voluntarily extend its core rights for people to control their data to all of our users across the United States, not just those who live in California.
+SECURITY
+All of the User Information is kept on servers that UM manages, using reasonable administrative, technical and physical safeguards designed to protect against unauthorized access or disclosure of data.
+==========
+Please be aware that no data transmission over the Internet or information contained in our servers can be guaranteed to be 100% secure.
+As a result, while we strive to use commercially acceptable means to protect information, we cannot guarantee or warrant its security.
+==========
+CHILDREN’S PRIVACY
+We do not knowingly collect or distribute information from or about children under age 13 (or up to age 16 in certain countries).
+If you believe your child has provided UM with PI, such as by registering at one of our Apps without parental consent, and you would like to have the data removed, please contact us using the contact information below.
+==========
+EUROPEAN UNION, UK AND SWITZERLAND ADDITIONAL NOTICE
+If you are a resident in the European Economic Area and want to find out more about your data protection rights, please see our separate section called “EU Privacy Notice – GDPR.”
+DISPUTE RESOLUTION
+This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California applicable to agreements made and performed in California, excluding the application of the conflict of laws provisions.
+You agree that any action or suit brought by a party to enforce or adjudicate your rights under this Agreement shall be brought in the federal or state courts located in Los Angeles, California.
+==========
+This Privacy Policy is subject to our Terms of Service.
+CHANGES TO PRIVACY POLICY
+We reserve the right to change this Privacy Policy at any time and will post the updated policy here.
+WHO WE ARE.
+==========
+CONTACT US
+If you have any questions about this Privacy Policy or our privacy practices, please email us at privacy@um.co.
+Or you can contact us by mail at:
+UM, Inc.
+130 West Union Street
+Pasadena, CA 91103
+Attn: Privacy Officer
+Privacy Notice - California CCPA
+Effective on: January 1, 2020
+This PRIVACY NOTICE FOR CALIFORNIA RESIDENTS supplements the information contained in the Privacy Statements of UM, Inc. (collectively, “we,” “us,” or “our”) and applies solely to Consumers who reside in the State of California (“consumers” or “you”).
+This Notice does not apply to any employees.
+==========
+We adopt this notice to comply with the California Consumer Privacy Act of 2018 (“CCPA”).
+Terms defined in the CCPA have the same meaning when used in this notice.
+CCPA
+Under the CCPA, Personal Information is defined to include all of the following categories:
+Category Examples
+ Identifiers.
+A unique personal identifier, Internet Protocol address, email address, account name, or other similar identifiers.
+==========
+Personal information categories listed in the California Customer Records statute (Cal.
+Civ.
+Code § 1798.80(e)).
+==========
+Social Security number, passport number, driver’s license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information.
+Protected classification characteristics under California or federal law.
+==========
+Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, gender, pregnancy or related medical conditions, sexual orientation, veteran or military status, genetic information (including familial genetic information).
+Biometric information.
+Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data.
+Browsing history Internet activity information including browsing history, search history, interaction with a website or with advertisements.
+==========
+Geolocation data.
+Physical location or movements.
+Sensory data.
+Audio, electronic, visual, thermal, olfactory, or similar information.
+==========
+Personal Information under the CCPA does not include publicly available information from government records; de-identified or aggregated consumer information or information excluded from the CCPA’s scope, like health or medical information covered by the Health Insurance Portability and Accountability Act of 1996 (HIPAA).
+Personal Information We Collect
+We collect the following categories of Personal Information under CCPA from Consumers within the last twelve months:
+For   Personal Information
+Advertising and Business Intelligence Services
+Device information such as mobile advertising device ids (MAIDs), ip addresses, and browser typeGeolocation data (if enabled) associated with a device id.
+such as latitude-longitude, GPS source, postal code, and country code
+Interaction with advertisements including advertising click-stream data
+ Our Mobile Apps
+Your Twitter handleMobile advertising device ids (MAIDs), ip addresses, and location data (if enabled) associated with a device id;
+Browsing history with Apps and interaction with advertisements  including advertising click-stream data
+  Our Websites Your ip address and your interactions with the Sites
+We obtain the categories of personal information listed above from the following categories of sources:
+Directly from Products (mobile apps) and our SDKs
+Indirectly from our demand and supply partners of mobile advertising networks and from select data partners.
+==========
+Directly and indirectly from activity on our website.
+For example, from submissions through our website portal or website usage details collected automatically.
+==========
+Use of Personal Information
+As discussed more fully in our Privacy Policies, most of the information we collect and use is de-identified and aggregated information, such as de-identified categories of app use and jittered geolocation information associated with a de-identified device id.
+We also provide partners with de-identified device id information, except in the case when the actual device id is needed, such as for targeted advertising and for matching and measurement of advertising.
+De-identified and aggregated information is not Personal Information, and we use such information in a number of ways for our business intelligence services as we discuss in our Privacy Policy, including for marketing and targeted advertising and data analytics.
+We do not use your twitter handle other than to authenticate your use on our Twitter-based Apps.
+==========
+Your Rights And Choices
+The CCPA provides consumers (California residents) with specific rights regarding their Personal Information.
+This section describes your CCPA rights and explains how to exercise those rights.
+Information Request
+You have the right to request that we disclose certain information about our collection and use of your Personal Information about you over the past 12 months.
+==========
+To provide this information we need your mobile advertising device id (which is a unique id number assigned to each device).
+We ask you to complete a form and then follow the instructions to provide us with a legible image of your mobile advertising device id.
+==========
+Once we receive and confirm your consumer request, we will disclose to you:
+The categories of Personal Information we collected about you.
+The categories of sources for the Personal Information we collected about you.
+Our business or commercial purpose for collecting or selling that Personal Information.
+The categories of third parties with whom we share that Personal Information.
+If we sold or disclosed your Personal Information for a business purpose, we will also identify the categories of Personal Information we shared by such sale.
+Access Right
+CCPA provides consumers with rights to request access of the Personal Information about them when the consumer can verify that they are the rightful owner of the information requested.
+==========
+We need your mobile ad id in order to identify any device in our systems but we don’t have a way to confirm that the device mobile ad id actually belongs to the particular person making the request.
+That’s because we do not collect the information that would match the device id to the actual owner (such as a name or account information) to allows us to confirm that the consumer requesting the information is the same consumer that owns the device.
+It would require us to actually collect more Personal Information to try to verify who the device owner is, such as requesting a full name, address, and receipt of purchase of the device.
+Additionally we want to avoid the potential risk of providing a requestor who provides a mobile ad id with the Personal Information that belongs to another individual.
+For example, a requestor can take a snapshot of the device id of his/her friend and request her Personal Information without her consent.
+Accordingly, in a matter of caution, we are not able to provide the particular file associated with any particular mobile advertising device id.
+==========
+If you are uncomfortable with our having any Personal Information about you, please send us a request to opt out or to delete your information.
+Opt Out Of Sales And Deletion Request Rights
+You have the right to request that we opt out your Personal Information from any sales.
+You also have the right to request that we delete your Personal Information.
+==========
+Once we receive and confirm your verifiable consumer request, we will honor your request (and direct our service providers to as well).
+We may deny your deletion request if we cannot verify the device id or it meets one of the exemptions under CCPA.
+We will also retain a copy of our records related to processing your request.
+==========
+Exercising Access, Opt Out, And Deletion Rights
+To exercise the rights described above, please visit our Consumer Choices pages.
+You may only make a verifiable consumer request for access or data portability twice within a 12-month period.
+==========
+We cannot respond to your request if we cannot verify your mobile device identity to confirm the Personal Information relates to you.
+Making a verifiable consumer request does not require you to create an account with us.
+We will only use Personal Information provided in the request to process the request and to a retain a record of the request.
+Response Timing And Format
+We endeavor to respond to a verifiable consumer request within 45 days of its receipt.
+If we require more time (up to 90 days), we will inform you of the reason and extension period in writing.
+We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or unfounded.
+Non-Discrimination
+We will not discriminate against you for exercising any of your CCPA rights.
+==========
+Changes to This Notice
+We reserve the right to amend this notice at our discretion and at any time.
+When we make changes to this privacy notice, we will post the update information on our website.
+Contact Information
+If you have any questions or comments about this notice, our Privacy Statement, the ways in which we collect and use your Personal Information, your choices and rights regarding such use, or wish to exercise your rights under California law, please do not hesitate to contact us.
+==========
+Consumer Choices and Opt Out Options
+Effective: January 1, 2020
+Thank you for your interest regarding what Personal Information or Personal Data for Data Subjects in the European Union, UK or Switzerland pursuant to the European Directives 95/46/EC and 2002/58/EC (EU General Data Protection Regulations Legislation, also known as “GDPR”) is processed at UM, Inc.
+Here is information about how you can control, delete or opt out of further sales with respect to this information.
+Communication from Us
+
+You can tell us to stop sending you marketing emails by clicking the unsubscribe link included at the bottom of the marketing emails.
+If you have provided us with contact information for a business relationship (sales) or customer support, you can ask us to delete this information using the email privacy@ubermedia.com.
+In some cases, We need to send you “transactional” emails relating to normal business operations.
+For example, we may email you to inform you about certain account activity.
+You cannot opt out of these emails.
+==========
+Your Use of our Apps
+
+When you utilize our mobile apps (“Apps”), we collect your twitter handle and information about how you use those Apps and/or respond to advertisements on those Apps.
+Tell us if you would like us to stop collecting information about how you use our Apps.
+Please note that you will have to repeat this process for each App and account.
+==========
+Learn More >
+Services
+The categories of Personal Information collected by UM’s business services are mobile advertising device ids (MAID), IP addresses, advertising click stream information and location data associated with that device as discussed more fully in our Business Services Privacy Policy.
+Among other things, we do not collect an actual cell phone numbers or your name, full address or email address.
+==========
+A sample of what Personal Information for a device is as follows
+Mobile advertising device id
+IP Addresses and general (city or postal code) location data that can be extrapolated from an IP address
+Latitude and longitude points
+Timestamps with local dates and times and time zones
+DO NOT SELL MY PERSONAL INFORMATION
+If you would like to opt out of all sales of any Personal Information we may have associated with your device, please click here to complete a form to OPT OUT OF SALES.
+The information you supply to us for this request will only be used for the purpose of identifying the Personal Information about the device which you are requesting and responding to your request (including a record of our efforts).
+DELETION REQUEST
+If you would like us to DELETE the Personal Information or Personal Data we have associated with your device, please click here to complete a form to request DATA DELETION.
+The information you supply to us for this request will only be used for the purpose of identifying the Personal Information about the device which you are requesting and responding to your request (including a record of our efforts).
+ACCESS
+Certain jurisdictions also provide consumers with rights to request access (correction or portability) of the Personal Information held about them.
+==========
+We are not able to provide you with the particular file about any particular device because we are not able to confirm who the actual device owner is.
+We need your manufacturers’ advertising device id (the IDFAs for iOS, and Android Ad IDs for Android, “MAIDs”)  in order to identify the device in our systems but we don’t have a way to confirm that the device MAID belongs to any particular person.
+We do not retain information that would match the device id to the actual owner, so we do not have a way to confirm that the consumer requesting the information is the same consumer that owns the device.
+==========
+It would require us to actually collect more Personal Information to try to verify who the device owner is, such as requesting their full name, address, and receipt of purchase of the device.
+Additionally we want to avoid the potential risk of providing a requestor who provides a MAIDwith the Personal Information that could belong to another individual.
+For example, the requestor takes a snapshot of the device id of his fiancée to request her Personal Information without her consent.
+If you are uncomfortable with our having any Personal Information about you, please complete the form to request a DATA DELETION.
+==========
+Interest Based Advertising
+There are several ways that you can manage the way that targeting advertising is collected on your device.
+You can manage certain collection and sharing of information as follows:
+Browser Settings
+You may control how your browser responds to cookies by adjusting the privacy and security settings of your web browser.
+Device-Based Advertising Opt Out
+You may limit the disclosure of ad targeting program by your mobile device by adjusting the settings on your mobile Device.
+Please note: by opting out this way you may still receive ads, however they may be less relevant because they will not be based on your interests or device history.
+FOR IOS DEVICE USERS (IPHONE, IPAD, IPOD)
+Go to “Settings” from your Device’s home screen; scroll down to “Privacy”; select “Advertising”; and turn on “Limit Ad Tracking.”
+FOR ANDROID MOBILE DEVICES
+Go to “Google Settings” on your device; select “Ads”; and check the box labeled “Opt Out of Interest-Based Ads.”
+We honor these “limit” or “opt out” instructions or “flags” by removing recognized devices from our cross-app advertising or ad delivery and reporting solutions, on a going forward basis.
+Interest-Based Advertising Opt Out
+You can opt out of information collected for web-based interest-based advertising (for instance, by tailoring ads based on activities tracked across websites, over time), by those companies that participate in the Network Advertising Initiative or the Digital Advertising Alliance, by visiting the http://optout.networkadvertising.org/?c=1.
+EEA and Swiss residents, please refer to www.youronlinechoices.com.
+==========
+The “opt out” methods on these industry web portals generally are cookie-based, so if you delete your cookies (or change or update your browser) you will need to opt out again.
+If you opt out, you may still see ads on other companies’ websites, but they will not be based on your use of our apps and websites.
+==========
+UM complies with the DAA’s Self-Regulatory Principles for Online Behavioral Advertising and related DAA guidance.
+For more general information about interest-based ads and your choices, please see:
+Digital Advertising Alliance (DAA)
+European Interactive Digital Advertising Alliance (EDAA)
+Network Advertising Initiative (NAI)
+Please also review the privacy policies on the websites and mobile apps that you use because they may offer additional privacy choices.
+==========
+Our Apps
+For our Apps Echofon, UberSocial, and Plume, you log into the account using your Twitter credentials.
+We retain your Twitter handle as your account name but do not have access to your password.
+Twitter does.
+You can ask us at any time to delete your account on our Apps.
+==========
+Form here.
+Please note that all of your Twitter post, timeline, profile and other information reside with Twitter and are not held by us.
+Please contact Twitter to exercise consumer choices with the information they hold.
+Please also note even if we delete your account upon your request, but you continue to use Twitter with your account information, that information is stored by Twitter and would be accessible again, if you decide to re-engage with our apps.
+==========
+GDPR Notice
+PRIVACY NOTICE: EUROPEAN UNION, UK AND SWITZERLAND ADDITIONAL NOTICE
+Effective on: January 1, 2020
+This PRIVACY NOTICE FOR EUROPEAN UNION, UK AND SWITZERLAND RESIDENTS supplements the information contained in the Privacy Statements of UM, Inc. (“UM” or “We,”) and applies solely to data subjects who reside in those countries (“Data Subjects” or “you”).
+We adopt this notice to comply with pursuant to the European Directives 95/46/EC and 2002/58/EC (EU General Data Protection Regulations Legislation, also known as “GDPR”) and addresses data subjects whose Personal Data we may receive in the course of delivering our mobile advertising and business intelligence services (collectively, the “Services”).
+Terms defined herein shall have the same meaning as in the GDPR when used in this notice, except as otherwise noted herein.
+Controllership
+Within the scope of this Policy, UM acts as a data controller for the Personal Data we process.
+==========
+Basis of Processing
+We may process your Personal Data on the basis of:
+your consent;
+the need to perform a contract;
+our legitimate interests or those of a third party, such as our interest in marketing our Services;
+the need to comply with the law; or
+any other ground, as required or permitted by law.
+Where we process your Personal Data based on your consent, you may withdraw it at any time.
+However, this will not affect the lawfulness of our processing before you withdrew your consent.
+It will also not affect processing performed on other lawful grounds.
+==========
+How We Receive Personal Data
+We may receive your Personal Data:
+when you provide it directly to us as part of using our websites or mobile applications;
+when you provide it directly to us as part of formation or fulfillment of a contract or as part of us delivering our Services;
+from third party app publishers and advertising companies who collect your Personal Data through their web-based software applications;
+when our service providers provide it to us; or
+we purchase data from trusted third parties.
+Categories of Personal Data
+We may process the following types of Personal Data from Data Subjects:
+For   Personal Data
+Advertising and Business Intelligence Services
+Device information such as mobile advertising device ids (MAIDs), ip addresses, and browser typeGeolocation data (if enabled) associated with a device id.
+==========
+such as latitude-longitude, GPS source, postal code, and country code
+Interaction with advertisements including advertising click-stream data.
+Our Mobile Apps
+Your Twitter handleMobile advertising device ids (MAIDs), ip addresses, and location data (if enabled) associated with a device id;
+Browsing history with Apps and interaction with advertisements  including advertising click-stream data
+ Our Websites Your ip address; and your interaction with the Sites
+Purposes of Processing
+We may process your Personal Data for the purposes of:
+providing the Services to our customers;
+creating and updating data sets;
+providing targeted advertising and content;
+responding to your requests or questions; and
+sending you email marketing communications about our business which we think may interest you.
+==========
+Data Retention
+For  Personal Data , We keep your Personal Data only for as long as we need it for our legitimate business purposes.
+For example, when we collect information about your interaction with an advertisement served to you, we retain that information for the calendar quarter and then delete it.
+==========
+Other information, like device ids, we retain for our ongoing Services.
+We will retain your information for as long as the Services are active and after that, for a period which enables us to handle or respond to any complaints, queries or concerns relating to the Services.
+==========
+We will periodically review the Personal Data we hold and delete it securely, or in some cases anonymize it, when there is no longer a legal, business, or consumer need for it to be retained.
+Sharing Personal Data with Third Parties
+As discussed more fully in our Privacy Policies, most of the information we collect and use is de-identified and aggregated information, such as de-identified categories of app use and jittered geolocation information associated with a de-identified device id.
+We also provide partners with de-identified mobile device activity in aggregate, except in cases when the actual device id is needed, such as for targeted advertising, and for matching and measurement of advertising.
+De-identified and aggregated information is not Personal Data, and we use such information in a number of ways for our business intelligence services as we discuss in our Privacy Policy.
+==========
+We may also share aggregate, anonymized information with advertisers, clients, customers, and partners when providing our Services to those parties.
+We may also share Personal Data with third party service providers, who process Personal Data on our behalf, and who agree to use the Personal Data only to assist us in providing our Services or as required by law.
+Our service providers may provide:
+payment processing services;
+cloud storage services;
+web site hosting services;
+maintenance and IT services;
+customer support services;
+analytics and metrics services;
+email software; and
+CRM software.
+==========
+Some of these third parties may be located outside of the United States.
+However, before transferring your Personal Data to these third parties, we will either ask for your explicit consent or require the third party to maintain at least the same level of privacy and security for your Personal Data that we do.
+==========
+We do not share or use your Twitter handle other than to authenticate your use on our Twitter-based Apps.
+Cookies
+A “cookie” is a small file stored on your device that contains information about your device.
+==========
+We may use cookies to provide basic relevant ads, website functionality, authentication (session management), usage analytics (web analytics), and to remember your settings, and generally improve our applications, websites, and Services.
+If you would prefer not to accept cookies, you can change the setup of your browser to reject all or some cookies.
+Note, if you reject certain cookies, you may not be able to use all of our Services’ features.
+For more information, please visit https://www.aboutcookies.org/.
+You may also set your browser to send a Do Not Track (DNT) signal.
+For more information, please visit https://allaboutdnt.com/.
+Please note that our Services do not have the capability to respond to “Do Not Track” signals received from web browsers.
+==========
+Access & Review
+If we process your Personal Data, you may have the right to request access to (or to update, correct, or delete) such Personal Data.
+You may also have the right to opt out of having your Personal Data shared with third parties and to revoke your consent to our sharing your Personal Data with third parties.
+You may also have the right to opt out if your Personal Data is used for any purpose that is materially different from the purpose(s) for which it was originally collected or which you originally authorized.
+To submit these requests or raise any other questions, please visit our Consumer Choices and Opt Out Options page.
+Exercising Access, Data Portability, And Deletion Rights
+You have the right to request that we disclose certain information to you about our collection and use of your Personal Data.
+==========
+To provide this information we need your mobile advertising device id (which is a unique id number assigned to each device).
+We ask you to complete a form and then follow the instructions to provide us with a legible image of your mobile advertising device id.
+==========
+To exercise the rights described above,  please visit our Consumer Choices pages.
+We cannot respond to your request or provide you with Personal Data if we cannot verify your mobile device identity to confirm the Personal Data relates to you.
+Making a verifiable consumer request does not require you to create an account with us.
+We will only use Personal Data provided in a verifiable consumer request to verify the requestor’s identity or authority to make the request.
+We provide you with reasonable access and deletion rights to the Personal Data.
+If you live in the EU, and wish to exercise your rights with respect to any Personal Data we hold about you, please visit our “Consumer Choices” pages.
+We endeavor to respond to a verifiable consumer request promptly.
+==========
+If we require more time (than required by law), we will inform you of the reason and extension period in writing.
+We do not charge a fee to process or respond to your verifiable consumer request unless it is excessive, repetitive, or unfounded.
+International Transfers
+Where we transfer your Personal Data outside the EU, we rely on approved standard EU Model Clauses so these transfers are conducted in accordance with applicable laws and using adequate and appropriate safeguards.
+==========
+Changes To This Notice
+We reserve the right to amend this notice at our discretion and at any time.
+When we make changes to this privacy notice, we will post the updated information on our website.
+==========
+Contact Information
+If you have any questions or comments about this notice, our Privacy Statement, the ways in which we collect and use your Personal Data, your choices and rights regarding such use, or wish to exercise your rights under GDPR, please do not hesitate to contact us.
+PRIVACY SHIELD NOTICE
+Effective on: June 4, 2020
+Introduction and Scope
+UM, Inc. (“UM”, “we”, “us”, “our”) takes the protection of personally identifiable information (“Personal Data”) very seriously.
+This Privacy Policy (the “Policy”) addresses data subjects whose Personal Data we may receive in the course of delivering our mobile advertising and business intelligence services (collectively, the “Services”).
+Controllership
+Within the scope of this Policy, UM acts as a data controller for the Personal Data we process.
+==========
+Basis of Processing
+We may process your Personal Data on the basis of:
+your consent;
+the need to perform a contract;
+our legitimate interests or those of a third party, such as our interest in marketing our Services;
+the need to comply with the law; or
+any other ground, as required or permitted by law.
+Where we process your Personal Data based on your consent, you may withdraw it at any time.
+However, this will not affect the lawfulness of our processing before you withdrew your consent.
+It will also not affect processing performed on other lawful grounds.
+==========
+How We Receive Personal Data
+We may receive your Personal Data:
+when you provide it directly to us as part of using our websites or mobile applications;
+when you provide it directly to us as part of formation or fulfillment of a contract or as part of us delivering our Services;
+from third party app publishers and advertising companies who collect your Personal Data through their web-based software applications;
+when our service providers provide it to us; or
+we purchase data from trusted third parties.
+Categories of Personal Data
+We may process the following types of Personal Data:
+Category Personal Data Elements
+Geolocation Information Latitude-longitude, GPS source, postal code, country code
+Activity Information Website from which you visit the UM website or application, pages and content you visit, click-stream data
+Preference Information Types of products, services, content, and retail locations you may be interested in based on your activities
+Device Information Device ID, IP address, browser type
+Purposes of Processing
+We may process your Personal Data for the purposes of:
+providing the Services to our customers;
+creating and updating data sets;
+providing targeted advertising and content;
+responding to your requests or questions; and
+sending you email marketing communications about our business which we think may interest you.
+==========
+Data Retention
+We retain your Personal Data for only as long as we need it for our legitimate business purposes.
+For example, when we collect information about your interaction with an advertisement served to you, we retain that information for the calendar quarter and then delete it.
+When the purposes of processing are satisfied, we will securely delete the Personal Data or, in some cases, anonymize it.
+In the case of Personal Data relating to Data Subjects in the EEA, we will immediately hash and anonymize the Personal Data during the instant moment it is sent, unless the Personal Data is necessary for us to perform a contract with or deliver Services to that Data Subject, in which case the Personal Data will be treated securely and deleted or anonymized when no longer needed for the processing purposes.
+==========
+Sharing Personal Data with Third Parties
+We may share aggregate, de-identified information with advertisers, clients, customers, and partners when providing our Services or our data sets to those parties.
+We may provide these parties with Personal Data in certain cases, such as for targeted advertising and for matching and measurement of advertising.
+We may also share Personal Data with our third party service providers who process Personal Data on our behalf and who agree to use the Personal Data only to assist us in providing our Services or as required by law.
+Our service providers may provide:
+payment processing services;
+cloud storage services;
+web site hosting services;
+maintenance and IT services;
+customer support services;
+analytics and metrics services;
+email software; and
+CRM software.
+==========
+Some of these third parties may be located outside of the United States.
+However, before transferring your Personal Data to these third parties, we will either ask for your explicit consent or require the third party to maintain at least the same level of privacy and security for your Personal Data that we do.
+We remain liable for the protection of your Personal Data within the scope of our Privacy Shield certification that we transfer to third parties, except to the extent that we are not responsible for the event that leads to any unauthorized or improper processing.
+Other Disclosure of Your Personal Data
+We may disclose your Personal Data to the extent required by law, or if we have a good-faith belief that we need to disclose it in order to comply with official investigations or legal proceedings (whether initiated by governmental/law enforcement officials, or private parties).
+==========
+We may also disclose your Personal Data if we sell or transfer all or some of our company’s business interests, assets, or both, or in connection with a corporate restructuring.
+We reserve the right to use, transfer, sell, and share aggregated, anonymous data for any legal business purpose.
+The purposes may include analyzing usage trends or seeking compatible advertisers, sponsors, and customers.
+==========
+Personal Data will be used only in accordance with our privacy statements.
+If we have to disclose your Personal Data to governmental/law enforcement officials, we may not be able to ensure that those officials will maintain the privacy and security of your Personal Data.
+==========
+Cookies
+A “cookie” is a small file stored on your device that contains information about your device.
+In this Policy, the term “cookie” includes cookies, web beacons, pixels, and similar technology.
+==========
+We may use cookies to provide basic relevant ads, website functionality, authentication (session management), usage analytics (web analytics), and to remember your settings, and generally improve our applications, websites, and Services.
+We use session and persistent cookies on our website and mobile apps.
+==========
+Session cookies are deleted when you close your browser.
+Persistent cookies may remain even after you close your browser, but always have an expiration date.
+Many of the cookies placed on your device through our Services are first-party cookies, since they are placed directly by us.
+Other parties, such as Google, may also set their own (third-party) cookies through our Services.
+Please refer to the policies of these third parties to learn more about the way in which they collect and process information about you.
+==========
+We also use persistent cookies in our software development kit (“SDK”) utilized by other publishers.
+If you would prefer not to accept cookies, you can change the setup of your browser to reject all or some cookies.
+Note, if you reject certain cookies, you may not be able to use all of our Services’ features.
+==========
+For more information, please visit https://www.aboutcookies.org/.
+You may also set your browser to send a Do Not Track (DNT) signal.
+For more information, please visit https://allaboutdnt.com/.
+Please note that our Services do not have the capability to respond to “Do Not Track” signals received from web browsers.
+==========
+Data Integrity & Security
+We have implemented and will maintain technical, administrative, and physical measures that are reasonably designed to help protect Personal Data from unauthorized processing.
+This includes unauthorized access, disclosure, alteration, or destruction.
+==========
+Access & Review
+If we process your Personal Data, you may have the right to request access to (or to update, correct, or delete) such Personal Data.
+If we have received your Personal Data in reliance on the Privacy Shield, you may also have the right to opt out of having your Personal Data shared with third parties and to revoke your consent to our sharing your Personal Data with third parties.
+You may also have the right to opt out if your Personal Data is used for any purpose that is materially different from the purpose(s) for which it was originally collected or which you originally authorized.
+To submit these requests or raise any other questions, please contact us through our “Consumer Choices” pages or by using the information in the “Contact Us” section below.
+Privacy of Children
+The Services are not directed at, or intended for use by, children under the age of 13.
+==========
+EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
+For Personal Data processed in the scope of this Policy, UM, Inc. complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework (the “Privacy Shield”), as adopted and set forth by the U.S. Department of Commerce regarding the processing of Personal Data transferred from the European Union, the European Economic Area, the United Kingdom, or Switzerland to the United States, or otherwise received in reliance on the Privacy Shield.
+We commit to adhere to the Privacy Shield Principles and have certified our adherence to the Department of Commerce.
+==========
+To learn more about the Privacy Shield, and to view UM, Inc.’s certification, please visit https://www.privacyshield.gov and https://www.privacyshield.gov/list, respectively.
+VeraSafe Privacy Program
+UM, Inc. is a member of the VeraSafe Privacy Program.
+This means that VeraSafe has assessed our data governance and data security (regarding Personal Data processed within the scope of this Privacy Policy) for compliance with the VeraSafe Privacy Program Certification Criteria.
+The certification criteria require that participants maintain a high standard for data privacy.
+Participants must also implement specific best practices regarding notice, onward transfer, choice, access, data security, data quality, recourse, and enforcement.
+==========
+Dispute Resolution
+Where a privacy complaint or dispute cannot be resolved through our internal processes, we have agreed to participate in the VeraSafe Privacy Shield Dispute Resolution Procedure.
+Subject to the terms of the VeraSafe Privacy Shield Dispute Resolution Procedure, VeraSafe will provide appropriate recourse free of charge to you.
+To file a complaint with VeraSafe and participate in the VeraSafe Privacy Shield Dispute Resolution Procedure, please submit the required information here: https://www.verasafe.com/privacy-services/dispute-resolution/submit-dispute/
+Binding Arbitration
+If your dispute or complaint can’t be resolved by us, nor through the dispute resolution program established by VeraSafe, you may have the right to require that we enter into binding arbitration with you under the Privacy Shield’s “Recourse, Enforcement and Liability Principle” and Annex I of the Privacy Shield.
+U.S. Regulatory Oversight
+UM, Inc. is subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
+==========
+Changes to this Policy
+If we make any material change to this Policy, we will post the revised Policy to this web page.
+We will also update the “Effective” date.
+By continuing to use our Services after we post any of these changes, you accept the modified Policy.
+==========
+Contact Us
+If you have any questions about this Policy or our processing of your Personal Data, please write to our Privacy compliance officer by email at privacy@um.co or by postal mail at:
+UM, Inc.
+Attn: Privacy Compliance Officer
+130 W. Union St.
+Pasadena, CA 91103
+Please allow up to four weeks for us to reply.
+==========
+Insights provided by UM in any study mentioned are aggregated and de-identified, not tied to any single device or individual.
+UM adheres to GDPR and CCPA and has been certified for privacy compliance by Verasafe, an independent third party.
+==========

@@ -1,0 +1,133 @@
+(Status: October the 30th, 2020)
+1.
+Introduction
+Today's Internet is full of good content.
+==========
+Some of it is not available for free, but the majority is.
+At this point, you've probably often asked yourself how exactly the latter services, e.g. websites or apps, earn their money to provide high-quality content (news, lifestyle blogs, games & Co.) regularly.
+==========
+A key way to monetize such content is user-oriented advertising.
+For example, in the form of display or video ads.
+==========
+Over time, technology has evolved.
+As a result, today you get ads that you are interested in and which are relevant to you.
+==========
+The digital advertising ecosystem ("AdTech Industry") consists of a variety of stakeholders such as advertising clients, agencies, measurement services, and many other providers of advertising technology.
+VLYBY Digital GmbH ("VLYBY" or "we") is an integral part of the digital advertising infrastructure.
+==========
+In the following, we provide an overview of how our technology works and what contribution we make to data protection.
+VLYBY as a technology supplier
+We are a technology supplier.
+With the help of our solution, operators of websites and/or digital content (collectively "Publishers") can show (video) advertising on their websites and/or mobile applications ("Digital Offers").
+VLYBY provides Publishers with a 'single tag solution, a technology that technically enables Publishers to display (video) ads on their Digital Offers ("Technology").
+Example: If you scroll down your favourite online blog and a video ad appears within a text as soon as it is viewable: We provide the appropriate infrastructure in order to show this video.
+This Technology is to be understood as a kind of connector.
+==========
+In addition to the Publisher, on the one hand, we also work with partners such as marketers demand side platforms ("DSPs") or sell side platform ("SSPs") (collectively referred to as "Demand Partners") who, with the appropriate technologies and advertising material, deliver the advertising content that is displayed within the advertising spaces on the Publishers' Digital Offers.
+As a general note, our Technology that Publishers integrate into their Digital Offers neither sets or reads any identifiers such as cookies IDs or mobile identifiers of the user's devices.
+However, our Technology may include Demand Partners' technologies (e.g. ad player) that include Demand Partners' cookies or other trackers, which can be dropped when an ad is served to a user on a Digital Offer.
+VLYBY as an advertising service provider
+In some cases, Publishers not only integrate our Technology into their Digital Offers but also engage with us as an advertising service provider.
+When providing our advertising services ("Services") we act as the 'middleman' between Publishers and the other stakeholders in the AdTech Industry (e.g. Demand Partners).
+In particular, we  technically support Publishers to monetize their ad space and serve relevant (video) ads on their Digital Offers.
+==========
+In these scenarios, we may (but do not necessarily) process information related to an ad space and/or a (video) ad that is considered personal data under applicable data protection law, including but not limited to General Data Protection Regulation ("GDPR") and Federal Data Protection Act ("Bundesdatenschutzgesetz" or "BDSG").
+Whilst, as a general principle, we only process personal data in accordance with Publishers' instructions (section III.1) and consider ourselves a data processor ("Processor", Art. 28 GDPR) we require certain personal data from Publishers in order to enable Publishers to use our Technology and provide Services to them (section III.2).
+For these use cases, we consider ourselves a data controller ("Controller", Art. 4 (7) GDPR).
+2.
+Contact details
+If you wish to get in touch with us – whether we act as a Processor (section III.1) or a Controller (section III.2) please do so via the following channels:
+VLYBY Digital GmbH
+Schwanthalerstr.
+22
+80336 Munich
+Germany
+Email: privacy@vlyby.com
+‍
+3.
+==========
+Information that we process through our Technology and Services
+In order to support Publishers to monetize their ad space and deliver (video) advertising to users, our Technology and Services enable Publishers to collect certain types of information.
+These type of information also include personal data that falls under the scope of GDPR and thus we list certain types of information ("Data Categories") that are processed for specific purposes ("Purposes") through our Technology and Services:
+Note: If a Publisher engages with our Technology and Services we process the below Data Categories for the Purposes in our capacity as a Processor.
+==========
+This means that VLYBY supports the Publisher with these processing operations in line with the Publishers' instructions.
+VLYBY does not carry these processing activities as a Controller.
+3.1.
+Processor activities
+3.1.1.
+==========
+Data Categories
+Information about users' decisions (i.e. did the user consent to this processing, has the user withdrawn and/or opt-out of this processing);
+Information about end users' devices (e.g. operating system, language settings, device identifier, mobile advertising identifiers (i.e. IDFA or AAID);
+Publisher/Demand Partner cookie information (e.g. cookie ID)
+‍
+3.1.2.
+Purposes
+Serving (video) advertising on Publishers' Digital Offers by way of 
+embedding Demand Partners' technology in Publisher Digital Offers;
+Monetizing of ad space that is technically integrated on Publishers' Digital Offers through our Technology
+‍
+3.2.
+Controller activities
+3.2.1.
+Data Categories
+Registration information/login data (username/email address and password) 
+Billing information (e.g. name, address, email address and financial information corresponding to your selected method of payment (e.g. bank account number).
+3.2.2.
+Purposes
+Providing the Technology and Services to Publishers; 
+Administration of contractual relationship and billing.
+4.
+==========
+Legal basis for processing
+To the extent, we act as a Controller (section III.2) our processing is based on the following legal ground:
+Processing Publisher's personal data for the Purposes described under section III.2 is necessary for the purpose of fulfilling our contractual obligations towards the Publisher (Art. 6 (1) lit.
+b) GDPR).
+==========
+Note: As a Processor we do not require a legal basis for the processing described under section III.1 as we process these information exclusively in accordance with the Publisher's instructions.
+The Publisher remains responsible for the lawfulness for the processing carried out by VLYBY in its capacity as a Processor.
+5.
+==========
+Cookies
+We use strictly necessary session cookies for the operation and security of our website, for example to ensure that you can navigate around the website and to authenticate when you set up and/or login to your account at VLYBY.
+Session cookies are stored for the duration of a browser session and are deleted when the browser is closed.
+Loading these strictly necessary session cookies and processing information derived from these is based on our legitimate interests in pursuing our business objectives and securing our website (Art. 6 (1) lit.
+==========
+f) GDPR).
+You may at any time object to the above processing by sending us a brief message to one of the communication channels stipulated under section II.
+6.
+==========
+Recipients
+In our capacity as a Controller under section III.2 we disclose personal data to the following categories of recipients:
+To third party services providers who provide data processing services to us and support us in providing our Services (for example, to technically support the delivery of our Service and the management of Publisher accounts),
+To public authorities and other recipients who are permitted to receive this information by law (e.g. social security institutions, tax authorities, tax consultants, law enforcement agencies, outside legal counsel).
+To the extent, any of the above categories of recipients are resided outside the European Economic Area and therefore process personal data in a third country we put in place appropriate safeguards to ensure an adequate level of data protection at these recipients (e.g. a transfer based on an adequacy decision by the European Commission).
+==========
+Note: As a Processor (section III.1) , we (including our sub-processors) process personal data on behalf of Publishers and therefore personal data that are provided by Publishers to us (incl.
+our sub-processors) are made available to them who are the controller of these data sets.
+7.
+==========
+How long do we keep your information?
+In our capacity as a Controller (section III.2) , we retain personal as long as we have an ongoing legitimate business need to do so (for example, to comply with applicable legal, tax or accounting requirements).
+8.
+==========
+Your rights
+Subject to the requirements under GDPR, a data subject is entitled to the exercise the following rights towards us in our capacity as a Controller (section III.2): 
+Right of access, Art. 15 GDPR
+Right to rectification, Art. 16, 19 GDPR
+Right to erasure, Art. 17, 19 GDPR
+Right to restriction of processing, Art. 18, 19 GDPR
+Right to data portability, Art. 20 GDPR
+Right to object, Art. 21 GDPR
+You have the right not to be subject to a decision based solely on automated processing (Art. 22 GDPR).
+In connection with our processing, your personal data will not be subject to a decision based solely on automated processing, which produces legal effect or similarly significantly affects you (including profiling as defined in Art. 22 GDPR).
+Any of the above data subject rights can be addressed to us via the communication channels described under section II.
+==========
+You also have the right to complain to a data protection authority about our processing of Data Categories.
+The competent supervisory authority for our data processing is
+Bavarian State Office for Data Protection Supervision (BayLDA)
+Promenade 27D
+91522 Ansbach
+Email: poststelle@lda.bayern.de
+==========

@@ -1,0 +1,92 @@
+AdTonos is a Service (“Service”) provided by Radio Net Media Limited.
+Our goal is to provide unparallel audio experience and this is why we focus on audio ads targeting.
+This is our legitimate interest to process user data according to GDPR regulations.
+However, we process your data only where we have your explicit consent according to Paragraph 1 of General Data Protection Regulation implemented in European Economic Area countries.
+More information about our legitimate interest can be found below.
+The same privacy policy we extend to all end users from all regions.
+It is important to underline that we process data on behalf of our partners and on the basis on their information that they have obtained necessary, explicit consent and have a legitimate interest to use that information by the Service we provide.
+==========
+Why and how we collect information
+We need particular information to perform audio advertising targeting.
+We believe that listening to relevant advertising extends the experience.
+We mostly use cookies for targeting however we also consider any efficient technology like tags, scripts, pixels, beacons, mobile applets, or mobile device IDs to collect more information.
+==========
+We also exchange data with our reliable partners by a server to server communication or by SFTP connection.
+An HTTP cookie (also called web cookie, Internet cookie, browser cookie, or simply cookie) is a small piece of data sent from a website and stored on the user’s computer by the user’s web browser while the user is browsing.
+Cookies were designed to be a reliable mechanism for websites to remember stateful information (such as items added in the shopping cart in an online store) or to record the user’s browsing activity (including clicking particular buttons, logging in, or recording which pages were visited in the past).
+They can also be used to remember arbitrary pieces of information that the user previously entered into form fields such as names, addresses, passwords, and credit card numbers (Source: Wikipedia).
+All other used technologies allow us to communicate with your web browser or, in case of mobile applets between application and our server.
+Please be advised that term “cookie” refers to cookie and other identifiers.
+==========
+How we process information
+We are an ad-tech company that focuses on providing unparallel Service and experience to end users.
+We process information to perform advertising activities.
+For example, to play audio ads that are relevant to end user’s interests or location.
+We also may use the information to count the number of playouts (ads played to one end user) or to identify if the end user is unique in terms of ad campaign definition.
+That data is also processed to merge and relate to publishers, campaigns or other relevant targeting information.
+Cookies are also used to perform end user opt-out.
+==========
+Each user may have a unique ID assigned for further processing, as for example, to match users’ browser activity with the mobile device based on the probabilistic analysis.
+It may also be used to match our Service with our partners’ advertising services.
+Our unique user ID might be matched with data that are processed by our partners to deliver the most relevant advertising.
+We also may use data and information to detect unusual behaviour that might come from fraudulent bot activities.
+The user ID is also used during the process of advertising campaign set up by our partners, including price calculation, potential advertising reach or a number of playouts.
+To help us to continuously offer the best service for our partners we may conduct internal data mining for research purposes and new features development.
+Data we collect and process
+Collected data Identificator Purpose
+Cookie UID, CID, LID AdTonos creates an unique ID for every device that publishes or interacts with AdTonos ads.
+==========
+This also includes tracking cookies, stored locally on user’s device.
+Mobile profile IDFA, GAID, MID Android or iOS mobile phones use mobile advertising profiles to collect information and data about user’s advertising preferences.
+AdTonos collects and uses that data to perform tailored advertising interactions and targeting.
+Cross-Device IDs CDID To identify the same user across different devices we use Cross-Device IDs that describes probabilistic links between users devices, based on machine learning alghorytms.
+Thus, the accuracy of that matching might vary due to quality and quantity of processed information.
+Partner ID AID, PID To optimize and enhance users experience from advertising, AdTonos is integrated with multiple advertising, marketing and data processing partners.
+Each of partners has an unique ID assigned.
+==========
+Browser AdTonos stores and processes information about interacting device’s browser.
+Operating system AdTonos stores and processes information about interacting devices’ operating system, including its default user language.
+IP Address AdTonos stores and processes information about IP address of interacting device.
+Interactions AdTonos stores and processes information about number of, type and time, of end users interaction on accessed by user mobile applications, webpages and smart speakers.
+IP Gateway location, Mobile location AdTonos stores and processes information about IP gataway location (including, but may not be limited to country, city, region and zipcode) or mobile device location data based on truncated GPS coordinates.
+E-mail In order to process full interaction path like direct sales or orders to end users AdTonos stores and processes e-mail address followed by end user consent.
+Mobile phone number In order to process full interaction path like direct sales or orders to end users AdTonos stores and processes mobile phone number followed by end user consent.
+Aggregated profiles AdTonos is integrated with multiple user data exchange platforms in order to perfom targeted advertising.
+This results in receiving, collecting and processing information from third parties.
+The quality and quantity of that information may vary depending on third party, from aggregated profiles to more specific information included in the profile.
+==========
+According to GDPR we are obliged to share information with any authorities, regulators, government agencies, court or law enforcement bodies as a matter of law or regulation, or where there is a need to protect yours, ours or any person’s interest.
+Because of our legitimate interest we may share data with third-party service providers (like f.e. Mailchimp, Google, Facebook) for the purpose of providing us additional functionalities to extend our Service experience or other purposes according to our Service Privacy Policy.
+We also share information with our Advertisers and Publishers to provide the best experience from our Service or any entity or person based on your prior consent.
+List of our partners that we share cookie IDs can be found here.
+How to opt-out and data protection rights
+If you wish to opt-out from targeted advertising enabled by our Service please read carefully information below.
+If you need to update, change, correct or request deletion of your personal information (often referred as “Right to be forgotten” procedure), please contact us at gdpr@adtonos.com or use this link: https://app.adtonos.com/opt-out
+To opt-out from any of our emails as newsletters, service updates or press releases, click a link provided at the bottom of each e-mail.
+==========
+The changes will be effective immediately.
+Please be advised that our cookie expires after 60 days from last update and then it is deleted from our records after 11 months.
+Mobile device IDs or mobile advertising profiles could be updated by going to the application settings section on your device.
+To withdraw your consent on any partner’s website to use AdTonos service, please refer directly to that partners’ website.
+==========
+Please be adviced that the changes will not be effective immediately and will not have any effect on all data processing prior to your consent withdrawal.
+It will also have no effect on processing your personal information related to GDPR compliant processing other than consent.
+Please be advised that some of our partners may be located out of the European Economic Area thus information may be transferred to and processed outside of the European Economic Area with respectable laws for data protection.
+All residents of the European Economic Area may exercise their rights granted by GDPR to object further processing of personal information or to request a report of their personal information by sending an email to gdpr@adtonos.com.
+All residents of the European Economic Area may refer to GDPR website here: https://ec.europa.eu/info/law/law-topic/data-protection_en You have also right to complain to respective data protection authority.
+Please find one in your local area to help you go through the process.
+==========
+Data protection & security
+We ensure that the data we collect and process is in line with high-security standards.
+We carefully select our partners and one of the selection criteria is the same understanding of data privacy and security.
+Despite the fact of throughout selection criteria process of our partners, we cannot guarantee that any changes of respective privacy policies has been made on partners’ sites.
+Please refer to applicable privacy policies on our partners’ websites.
+==========
+We constantly implement and update safety regulations as well as host our data at most renowned data centres like IBM, SoftLayer, AWS or Akamai.
+If you need any question regarding our Privacy Policy or would like to get more information about data protection please contact us at the details provided below.
+Compliant to GDPR, Radio Net Media Ltd, owner of AdTonos service has appointed Data Protection Officer.
+If you believe your data or any personal information has been used against our Service Privacy Policy please contact us immediately at:
+gprd@adtonos.com
+or
+GDPR, Radio Net Media Limited, 71-75 Shelton Street, Covent Garden, London, England, WC2H 9JQ.
+==========

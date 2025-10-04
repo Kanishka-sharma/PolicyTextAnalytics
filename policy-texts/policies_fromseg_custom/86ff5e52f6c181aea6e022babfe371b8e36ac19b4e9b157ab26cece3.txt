@@ -1,0 +1,312 @@
+Lotame does not provide its Services directly to consumers.
+Instead, Lotame’s Services help businesses – marketers, advertising agencies, marketing technology platforms and publishers – engage in interest-based advertising and marketing.
+Interest-based advertising is the practice of delivering relevant content and advertising to people based on their interests, activities, and behaviors.
+==========
+Note that when providing interest-based advertising services to its clients, Lotame does not use information that directly identifies anyone as a specific person (such as your name, address, email address, or phone number), but we may use other pseudonymized personal information as further described below.
+Lotame Services consist of the following:
+Data Products and Services.
+Some of Lotame’s Services, including the Lotame Data Exchange (“LDX”), allow Lotame’s clients to utilize data to reach the right online audiences for their products and services.
+To provide these Services, Lotame licenses data from third party providers (including website owners, app owners, data aggregators, data onboarders, and SmartTV manufacturers) and makes this data available to its clients.
+This data is called “Third Party Data.”
+Lotame’s clients use Third Party Data to create data segments associated with certain interests, behaviors, and attributes (for example, an interest in travel or an interest in sports).
+These data segments are associated with cookies and advertising identifiers, so that clients can send relevant advertisements to consumers on their computers, phones, and other mobile devices.
+SaaS Products and Services.
+==========
+Lotame offers Services that are offered through its software as a service platform, including the Lotame Data Management Platform (“DMP”), that Lotame provides to clients.
+These Services assist clients in collecting and organizing information about their customers from their own sources – including client websites, mobile applications, advertising campaigns, CRM systems, and data partners – and using this information for marketing purposes.
+Lotame provides the tools that facilitate our clients’ collection and export of this data (called, “First Party Data”) and Lotame acts as a ‘data processor’ or ‘service provider’ in processing this data on behalf of and at the direction of those clients.
+Marketing Technology Services.
+Lotame has additional Services that help clients use data to deliver personalized content and advertising to users both online, via computers, phones, and other mobile devices, and offline, via more traditional marketing methods.
+For example, Lotame helps clients to identify relationships across computers, phones and other mobile devices, so that a user can benefit from targeted advertising across multiple devices.
+Lotame collects and receives information on behalf of its clients, First Party Data, and receives information from third parties, Third Party Data, for use in its Services.
+Lotame collects First Party Data and Third Party Data via many methods, including cookies, pixel tags, SDKs (software development kits), secure file transfers, and server to server connections.
+==========
+Lotame pixel tags generally appear as “third party tags”.
+These methods allow Lotame to collect information from websites that Lotame does not own or operate.
+Information Collected by Lotame
+The following information is collected and used by Lotame to provide its Services:
+Demographic Information, such as:
+Age
+Gender
+Income Range
+Online Behavioral Information
+Lotame collects information on your online browsing activity to determine what types of activities and products you may be interested in and how you interact with certain content and advertisements.
+This information includes:
+Inferred behavioral data
+Websites and content viewed
+Mobile applications used
+Date and time of visits to a website
+Search terms used on a website
+Frequency of visits to a website
+Engagement with an advertisement
+Technical Identifiers
+Technical identifiers may be used to identify your device and typically include:
+Cookies
+Mobile advertising identifiers (Apple IDFA and Google AAID)
+IP address
+Non-personal data inferred from an IP address, such as non-precise geo-location data
+Non-cookie technologies
+Television Data
+Lotame licenses television viewership data from third parties and creates audience segments based upon that data.
+==========
+Client and Partner IDs
+Clients and partners may provide Lotame with proprietary IDs, which are IDs that identify a customer or consumer to the client or partner.
+These client and partner IDs may correspond to personal information of the client or partner but Lotame does not have access to the personal information connected with these IDs.
+Personal Information That Has Been De-Identified or Pseudonymised
+Lotame may use personal information that has been de-identified, typically by using a mathematical process (commonly known as a hash function) to convert information into a code.
+==========
+We use that de-identified data to provide our Services (including to connect your activity and interests).
+Lotame also pseudonymises data by assigning proprietary IDs to technical identifiers, such as cookies.
+==========
+Lotame analyzes the information it collects and receives, and organizes it into user groups and audiences, based on factors such as age, gender, geography, interests and online actions.
+Our clients and partners then use the Lotame-created user groups and audiences, along with information about the possible relationships among different browsers and devices, to design and deliver customized advertising campaigns or other relevant content to users on their computers, phones, and other mobile devices.
+==========
+Clients can combine Third Party Data with their own First Party Data when using Lotame’s SaaS and Marketing Technology Services.
+Our clients and partners may also analyze and organize the underlying data to create custom user groups and audiences.
+Lotame uses the information it collects and receives to:
+Identify relationships between different browsers and devices
+Analyze the effectiveness of online advertising campaigns
+Provide aggregated information about user interests
+Attribute user interests to browsers and devices
+Test the accuracy of certain products, including cross-device matching
+Determine the overlap in First Party and Third Party data sets
+Create pre-packaged audience segments
+Create modeled audience segments and products
+Lotame’s clients generally use First Party Data, along with Third Party Data provided by Lotame, to:
+Deliver targeted advertising campaigns to users across devices
+Serve targeted content to users across devices
+Analyze and improve the effectiveness of online advertising campaigns
+Create data-driven marketing products, including models
+In addition to sharing certain data as directed by clients, we may share information that is non-personal or pseudonymized with other clients and third party companies such as advertisers, agencies, ad networks or exchanges, to provide services to our clients and to enable our clients and those third parties to analyze user behaviors or to customize the ads that you see online.
+In addition, we may provide access to information we collect to other service providers, but to the extent we have any personal information we only share personal information with service providers who will only utilize the information to provide their services to us or for our clients.
+If our company is sold, assigned, transferred, merged, files for bankruptcy protection, sells all or a portion of its assets, or undergoes some other change to its corporate form, information may be transferred as part of that transaction or change, including in connection with a due diligence process.
+==========
+We may also release information in order to comply with requests from law enforcement, government agencies, and similar entities, or to otherwise protect Lotame, our clients and users.
+Political Data
+Lotame creates and shares audience segments consisting of political data for jurisdictions outside of the European Economic Area.
+For a list of the political segments we offer through our Data Products and Services, click here.
+Sensitive Data
+Lotame does not collect information or create or share general audience segments through its SaaS Products and Services that are classified by the Network Advertising Initiative (“NAI”) as Sensitive Information (as defined in the NAI Code of Conduct).
+For a list of the non-sensitive health-related segments we offer through our Data Products and Services, click here.
+Lotame does not create or share EEA audience segments that are classified by the General Data Protection Regulation as Sensitive Personal Data.
+Children
+Lotame does not generate pre-packaged audience segments that are targeted to children under the age of 16.
+Lotame may collect information from children under the age of 16 on behalf of our clients that use our SaaS Products and Services.
+Such information will only be retained, used, or disclosed as instructed by our clients.
+==========
+Lotame provides you with the ability to opt-out of the collection and use of your information for interest-based advertising for all of Lotame’s Services.
+This means that Lotame, and any clients that utilize data collected by Lotame using a Lotame pixel tag or similar technologies, will not be able to use your data for online interest-based advertising purposes.
+If you are a California resident, see Part 8 related to your right to opt-out of the sale of your personal information.
+==========
+Opt-Out of Interest-Based Advertising
+The following information provides you with instructions on how opt-out of Interest-Based Advertising from cookies, in mobile applications and across devices.
+Please note that opting out of Interest-Based Advertising does not mean that you will no longer receive online advertising.
+It does mean that the company from which you have opted out of receiving Interest-Based Advertising will no longer deliver interest-based ads to you on a particular browser or device.
+Also, after choosing to opt-out via any of the methods below, if you use a different device or a different browser, or if you delete browser cookies, you may need to repeat the opt-out steps for that particular device or browser.
+In addition, if you block cookies on your browser or if third-party cookies are blocked by default, some of the opt-out tools above may not function.
+==========
+Browser Opt-Out
+For Lotame Only.
+To opt-out of the collection and use of data by Lotame for online Interest-Based Advertising on your browser (including a mobile browser if third-party cookies are enabled for that browser), you can click here and follow the instructions provided.
+Your opt-out choice is applied only to the browser from which you make the choice.
+==========
+Lotame’s browser opt-out is cookie based so if cookies are blocked by your browser or you have you have deleted cookies from your browser, you will no longer be opted-out and you may need to opt-out again.
+Please note that even after you opt-out of the use of your information by Lotame for Interest-Based Advertising, Lotame may continue to collect and use such information for clients, because our clients use their own cookie, which is not affected by the Lotame browser opt-out, or for other purposes, including analytics and research.
+Additionally, should you elect to opt-out, you will still receive ads, but these ads may be less relevant to your interests.
+==========
+Interest-Based Advertising, Generally.
+You can opt-out of the collection of data across unaffiliated sites over time for Interest-Based Advertising and other purposes from companies participating in the Digital Advertising Alliance Consumer Choice Page at www.aboutads.info/choices and from members of the Network Advertising Initiative via www.networkadvertising.org/choices.
+Mobile Applications Opt-Out
+To opt-out of the collection and use of data for interest-based advertising on your mobile device, you can modify the settings on your mobile device.
+Please note that the specific opt-out instructions for each device may differ depending on which version of the operating system software you are running.
+==========
+For Apple Devices: Go to Settings, Select Privacy, Select Advertising, and enable the “Limit Ad Tracking” setting.
+For Android Devices: Open the Google Settings App, Select Ads, and enable the “Opt out of interest-based advertising” setting.
+Alternately, you may wish to download the TrustE mobile application and/or the Digital Advertising Alliance “App Choices” mobile application and follow the instructions provided.
+You may opt-out of the collection and use of data by Lotame specifically, or by all companies that offer a mobile application opt-out via the TrustE or AppChoices app.
+Your opt-out choice is applied only to the collection of data from applications on the device from which you opt-out.
+Television Opt-Out
+Lotame licenses television viewership data from third parties that offer smart TVs and video streaming devices.
+Instructions on how to opt-out from many popular smart TVs and video streaming devices are available here.
+European Opt-Out
+In Europe, you can opt-out via the IAB Europe’s industry opt-out at www.youronlinechoices.eu.
+Do Not Track
+When you browse the web, your browser can send a request to websites to not collect or track your browsing data (“Do Not Track”).
+==========
+In some browsers, that standing request may even be turned on by default.
+Standards regarding how to interpret and implement a “Do Not Track” signal are not currently defined, which means different websites, publishers, data providers, or ad technology companies that work with Lotame or use its technology may request that we interpret the signal differently.
+To find out more about “Do Not Track,” please visit http://www.allaboutdnt.com.
+==========
+Lotame has certain responsibilities as both a data controller and a data processor under the European Union’s General Data Protection Regulation (“GDPR”).
+We have worked cooperatively with clients and partners to address these responsibilities and have updated our policies and procedures to address GDPR.
+We have made certain enhancements to our products and services to address GDPR and will continue to operate according the principles of “privacy by design”.
+==========
+For a brief overview of Lotame’s commitment to GDPR compliance, please click here.
+Privacy Shield
+Lotame is a U.S. company, and we transfer information to the United States for processing.
+==========
+The U.S. may not have the same data protection laws as the country in which you initially provided the information.
+When we transfer your information to the U.S., we will protect it as described in this Policy.
+Lotame complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework (the “Privacy Shield Principles”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union, United Kingdom, and Switzerland to the United States, respectively, in reliance on the Privacy Shield.
+Lotame has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+If there is any conflict between the terms of this Policy and the Privacy Shield Principles, the Privacy Shield Principles will govern.
+==========
+Lotame’s commitment to the Privacy Shield Principles covers Personal Information about residents of all nations in the European Economic Area (EEA), which comprises the European Union (currently including the United Kingdom), Iceland, Liechtenstein, and Norway (collectively, “EEA residents”) as well as all residents of Switzerland.
+To learn more about the Privacy Shield program, and to view Lotame’s certification, please visit https://www.privacyshield.gov/list.
+With respect to its participation in the Privacy Shield Principles, Lotame is subject to the jurisdiction and enforcement powers of the United States Federal Trade Commission.
+Lotame may be liable in some circumstances for transferring personal information to a third party that violates the Privacy Shield Principles.
+Upon the request of clients and partners, Lotame may also agree to be bound by the terms of the EU Standard Contractual Clauses.
+In certain cases you may have the right to request binding arbitration of non-monetary claims that are not otherwise resolved by the procedures listed here (see https://www.privacyshield.gov/welcome, as described in the EU-US Privacy Shield Annex I and the Swiss-US Privacy Shield).
+==========
+Subject Access Requests
+EEA residents have the right to request certain information from Lotame, including without limitation, the right to ask what personal data Lotame has collected on you from the EEA, and the right to ask that Lotame correct this personal data if you believe it to be inaccurate.
+EEA residents should first visit the Lotame Privacy Manager, which provides information to consumers about how Lotame uses personal data in connection with its Data Products and Services and displays Third Party Data associated with the device viewing the Lotame Privacy Manager, as well as any devices that are connected to this device through Lotame’s cross-device technology.
+Specifically, the Lotame Privacy Manager displays audience segments that show interests, behaviors, and attributes associated with this particular device, as well as any connected devices.
+You will see different segments displayed when viewing the Privacy Manager from a different browser, computer or device.
+==========
+For additional information about how Lotame uses Personal Information in connection with its other service offerings, EEA residents should contact Lotame via email at: privacy@lotame.com or by mail at 8850 Stanford Blvd, Suite 4000, Columbia, MD 21045, Attention: Legal Department.
+Lotame has appointed its General Counsel and VP of Global Privacy, as Lotame’s Data Protection Officer for GDPR purposes.
+Our Data Protection Officer will work with the broader Lotame team to respond to all inquiries within thirty days of receipt.
+==========
+Lotame will respond in good faith to all privacy inquiries but may not be able to provide complete information if your request requires Lotame to release confidential information of third parties, or otherwise imposes an undue burden or expense.
+Lotame may be required to disclose your personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+==========
+Lotame continues to voluntarily submit unresolved privacy complaints of EEA residents to an independent dispute resolution mechanism administered by the ANA.
+If you do not receive timely acknowledgment of your complaint, or if Lotame does not satisfactorily address your complaint, you can reach the ANA for more information and to file a complaint at:
+Privacy Shield Line:
+
+ANA
+Attn: Privacy Shield
+225 Reinekers Lane, Suite 325, Alexandria, VA 22314
+https://thedma.org/resources/consumer-resources/privacyshield-consumers/
+In the event a satisfactory resolution cannot be resolved through the ANA, Lotame will cooperate with the United States Federal Trade Commission and any data protection authorities of the EEA member states and Switzerland to investigate and resolve any open complaints.
+==========
+If you are a California resident, California law, including the California Consumer Privacy Act of 2018 (“CCPA”) and California Civil Code section 1798.83, provides you with additional rights regarding our collection, disclosure and, if applicable, sale of your personal information.
+Collection of Personal Information
+Categories of Personal Information Collected (corresponds to categories listed in CCPA §1798.140(o)(1))
+Lotame has collected the following categories of Personal Information in the preceding 12 months as a ‘service provider’ on behalf of its SaaS clients and as a ‘business’ from entities from which Lotame licenses Personal Information:Category A: Identifiers Unique personal identifier, online identifier, Internet Protocol address
+Category F: Internet or other electronic network activity information Interaction with our client’s or licensee’s web sites, applications, or advertisements
+Category G: Geolocation data Approximate physical location (derived from an Internet Protocol address)
+Category K: Inferences Consumer preferences, characteristics, behaviors
+Personal Information Sources
+See Part 2: What Information We Collect & How We Collect It, listing the sources of Personal Information.
+Purposes for Which Personal Information is Collected
+See Part 3: How We Use Your Information, setting forth the purposes for which Lotame uses Personal Information.
+Categories of Third Parties with whom Personal Information is Shared
+See Part 4: How We Share Your Information, setting forth the categories of third parties with whom Lotame may share Personal Information.
+For Lotame’s SaaS clients, Lotame will only share Personal Information collected on behalf of that client with third parties requested by the client.
+Disclosure or Sale of Personal Information
+Categories of Personal Information Disclosed or Sold (corresponds to categories listed in CCPA §1798.140(o)(1))
+In the preceding 12 months, Lotame has disclosed the following categories of Personal Information for performing services on behalf of a client as their service provider and sold the following categories of Personal Information for conducting analytics or use in interest-based advertising or other marketing purposes for:
+Category A: Identifiers
+Category F: Internet or other electronic network activity information
+Category G: Geolocation data
+Category K: Inferences
+Sale of Personal Information of Minors Under 16 Years of Age
+Lotame does not knowingly sell Personal Information of minors under 16 years of age (“Minors”).
+Lotame contractually prohibits business that license data to us from transmitting to Lotame Personal Information of Minors and have procedures in place to ensure compliance with this requirement.
+==========
+Your Consumer Rights Under the CCPA
+Under CCPA, you may have the following consumer rights.
+Please note that these rights are not absolute and in certain cases are subject to conditions or limitations as specified in the CCPA:
+Right to Know
+You have the right to request, at no charge, that we disclose to you the categories and specific pieces of Personal Information Lotame has collected about you in the prior 12 months, including:
+categories of Personal Information collected about you;
+categories of sources from which we collected your Personal Information;
+business and/or commercial purposes for collecting and disclosing your Personal Information;
+categories of third parties to/with whom your Personal Information has been disclosed/shared, including for a business purpose; and
+the specific pieces of Personal Information collected about you.
+==========
+You have the right to obtain the above information, in a portable and (if technically feasible) readily usable format.
+Right of Deletion
+You have the right to request the deletion of your Personal Information we have collected about you.
+==========
+This right may be subject to certain conditions and limitations under CCPA.
+Right to Opt-Out of Sale
+You have the right to opt-out of sale of your Personal Information we have collected about you.
+==========
+Right to be Free from Discrimination
+You may exercise all of the above rights at any time and Lotame will not unlawfully discriminate against you for exercising your rights under CCPA.
+Submitting a Request to Exercise Your Rights
+You may exercise any of your rights as set out above, by submitting a request as set forth below.
+==========
+You may be required to provide additional information to verify your identity and request before further action is taken.
+Please note that when submitting the following requests, Lotame is only able to apply your request to Personal Information that we use in our Data Products and Services, where we act as a business.
+For our clients where Lotame acts as a service provider, Lotame will inform our client of your request.
+==========
+Exercising Your Right to Know, to Delete, and to Opt-Out of Sale
+You may exercise any of your rights as set out above by:
+calling 1-833-269-2618 and following the instructions provided
+by submitting a request using our Privacy Manager.
+You may also exercise your right to opt-out of sale by clicking the following link:
+DO NOT SELL MY PERSONAL INFORMATION
+X
+YOU HAVE SUCCESSFULLY OPTED OUT!
+==========
+We’re sorry to see you go, but Lotame has placed an opt-out cookie in your browser.
+This cookie will prevent Lotame from tailoring the ads you see based on the anonymous information Lotame collects, as described further in Lotame’s privacy policy.
+This opt-out applies only to this browser and this computer, and you must repeat the process if you switch to a different browser or computer.
+Lotame is a member of the Network Advertising Initiative (NAI).
+==========
+If you would like to opt-out of Lotame together with other NAI members using the NAI’s opt-out tool, you can do so by clicking here
+Unfortunately, we were unable to confirm an opt-out cookie was set.
+Your browser must be set to accept cookies in order for the Lotame opt-out tool to work.
+Lotame helps websites tailor the ads you see by using cookies (https://www.networkadvertising.org/understanding-online-advertising/how-does-it-work).
+==========
+Since your browser blocks access to these cookies, we do not coordinate ad placement across websites.
+If you still wanted to explicitly opt-out, you can change your browser settings to accept cookies and retry our opt-out tool.
+Afterwards, you can return your browser to its previous cookie handling behavior.
+This opt-out would apply only to this browser and this computer.
+You must repeat the process if you clear your cookie history or change either your browser or computer.
+Please note, websites can still place first-party cookies to record browsing activity while you are browsing their sites.
+==========
+Lotame verifies your request based upon the browser you are using to access the Privacy Manager or, if providing an IDFA/GAID of your device, by requesting an attestation.
+Appointing an Authorized Agent to Submit a Request on Your Behalf
+You may use an authorized agent to submit a request to know or delete on your behalf.
+If you authorize an agent to make a request for you, the agent will be required to provide Lotame with written proof of your authorization and verification of your identity.
+RECORDS (updated monthly)
+  Responded
+Request Type Received In Whole In Part Denied Median Days to Respond
+Know 0 0 0 0 N/A
+Delete 0 0 0 0 N/A
+Opt-Out of Sale 0 0 0 0 N/A
+PART 9: Security, Confidentiality and Retention
+Security and Confidentiality
+Lotame has implemented (and requires its subprocessors or subcontractors to maintain) appropriate physical, administrative, and technical measures that are designed to help protect the data that Lotame collects or receives in connection with its Services from unauthorized access, disclosure, or modification.
+==========
+However, no security procedures or protocols can be guaranteed to be completely secure and we therefore cannot ensure or warrant the security of any information we collect or store.
+In accordance with internal policies, Lotame promptly evaluates and responds to all security incidents.
+==========
+Data Retention
+Lotame generally retains the non-personal user data we collect for all of our products and services for purposes of interest-based advertising for up to thirteen months from the date of its collection.
+In limited cases, where a client has a legitimate business purpose for requesting a longer retention timeline, Lotame will retain non-personal user data for the client’s use for up to eighteen months.
+Security and Confidentiality
+Lotame has implemented (and requires its subprocessors or subcontractors to maintain) appropriate physical, administrative, and technical measures that are designed to help protect the data that Lotame collects or receives in connection with its Services from unauthorized access, disclosure, or modification.
+==========
+However, no security procedures or protocols can be guaranteed to be completely secure and we therefore cannot ensure or warrant the security of any information we collect or store.
+In accordance with internal policies, Lotame promptly evaluates and responds to all security incidents.
+==========
+Data Retention
+Lotame generally retains the non-personal user data we collect for all of our products and services for purposes of interest-based advertising for up to thirteen months from the date of its collection.
+In limited cases, where a client has a legitimate business purpose for requesting a longer retention timeline, Lotame will retain non-personal user data for the client’s use for up to eighteen months.
+==========
+Lotame will review and update this Policy periodically in response to changing legal, technical and business developments.
+If we change the policy, we’ll provide notice by posting the new policy here, changing the date at the top, and indicating on our homepage that this Policy has been updated.
+To contact us with any questions, comments, or suggestions, please email us at privacy@lotame.com or write to us at Lotame Solutions, Inc., 8850 Stanford Blvd., Suite 4000, Columbia, Maryland, 21045, Attention: Legal Department.
+==========
+Cookie: A cookie is a small file of information that is stored on your hard drive when you visit a website using a particular browser.
+Cookies are used to store and receive information about a user’s activities on a particular website.
+Pixel Tags: A pixel tag is an invisible image or block of code that allows a website owner or third party to “drop” cookies and collect certain information about a user’s activities on a particular website.
+==========
+IP Address: An IP address is a series of numbers that can be used to identify a particular device on a computer network.
+An IP address provides a general location of a device, but not a specific street address.
+==========
+Advertising Identifiers: Advertising identifiers are unique identification numbers assigned to your mobile device by the hardware manufacturer.
+IDFA is the advertising identifier for Apple devices and AAID is the advertising identifier for Android devices.
+Advertising identifiers are used to identify devices and collect certain information about a user’s activities on a mobile device.
+==========
+Hashed Email Address: A hashed email address is an email address that has been transformed into a string of numbers and letters such that it cannot be traced back to the email address.
+There are several hashing formats.
+But, for example, john@lotame.com, when hashed might look like this: b5b2fc6f4cef.
+Non-Cookie Technologies: A non-cookie technology is a methodology that is used to collect data from a browser across unaffiliated websites for the purposes.
+==========

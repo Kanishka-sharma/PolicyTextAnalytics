@@ -1,0 +1,9 @@
+The purpose of any data collection is straightforward – to show the most relevant advertisement to a user.
+We therefore utilize the information described above to better customize the sort of advertisements you see, typically by building models based on the types of user who, overall, are more likely to respond to a particular advertisement versus another.
+We also use the data for non-targeting reasons such as frequency capping, fraud prevention, reporting statistics and billing, within the permissions of the NAI/DAA Principles and EDAA Framework.
+==========
+Our tracking cookies are programmed to expire in ninety days from the last time we encounter you, at which point the web browser will delete them automatically.
+Click stream data is stored in log files, which are retained in our systems for 24 months for billing purposes, and are not used for targeting.
+We do not disclose unencrypted cookie id information to third parties.
+We only disclose IP address information if required for troubleshooting, and only then without other identifying information.
+==========

@@ -1,0 +1,67 @@
+We identify specific events that occur prior to a consumer purchase or taking a desired action on an advertiser’s ad campaign.
+We use such data to focus an ad campaign on consumers who browse in similar patterns online.
+The data we collect is used to increase the relevancy of the ads being displayed to your device, along with analytics, attribution and reporting purposes, to give our customers and partners more information about the performance of their advertising campaign and to improve performance over time.
+We use browsing and purchase data
+To serve relevant ads, we single out patterns of general purchase behavior but we do not willingly use data that would identify a particular individual (such as name, phone number, address, etc.) in delivering the online ad.
+Through our pixel on our customers’ websites, we collect and use data related to your device’s browsing activity, through cookies and statistical identifiers.
+We also collect and use mobile advertising identifiers (such as Apple IDFA or Android Advertising ID, also known as Google Advertising ID).
+Through our technology, we record:
+
+Events related to your device’s activity on our customers' websites (such as the number of pages viewed, the products viewed, date and time of browsing, products purchased (optional)).
+Information related to your device (browser type, device type, operating system, version, IP address*).
+Events related to our ad serving activity such as the number of ads displayed to your device, and ads clicked.
+==========
+The above list is referred to as device-identified information (DII).
+It identifies a particular device but not a particular individual.
+DII is sometimes described as pseudonymous data.
+==========
+Note: *In compliance with industry standards, we use full IP addresses:
+
+For fraud detection purposes to help alert us to situations which could not have been caused by human behavior, such as a massive amount of clicking in a limited period of time; or
+To extract geographical information.
+We may also collect technical identifiers from our advertising partners for the purpose of linking browsers (“ID syncing”).
+For that purpose, we process and store:
+
+Technical IDs of our advertising partners, and/or a hashed version of your CRM ID, your email address, or your phone number.
+We use a hashing method to turn your email address/CRM ID/phone number into a series of characters that does not identify you individually.
+For example, a hash of jsmith@example.com would be 765D64036CC8EC496F31DD0C242DBECA.
+==========
+Mobile advertising IDs (such as Apple IDFA or Google Ad ID) which are specific technical data created by mobile manufactures to allow personalization and customer analytics in a secure and non-identifying way for users.
+Mobile advertising IDs are resettable and/or limited by the Limit Ad Tracking option in the device settings.
+==========
+Optionally, our customers can provide purchase data from their point of sale systems (“POS”).
+POS data is used after it is transformed into DII (e.g., tied to a cookie ID).
+It is then used to inform tailored advertising, analytics, and ad delivery and reporting.
+==========
+Data from trusted partners
+We may use a combination of basic, publicly available demographic data points to place device IDs into pre-defined market segments, such as “middle-income renters without children” or “middle-income, middle-aged homeowners and renters with children.”
+These segments consist of groups of households with similar demographic and life-stage characteristics.
+==========
+We may also receive device-identified information from other sources.
+For example, we might receive data from a third party that indicates that in a geographic area, a certain model of car is popular and therefore people located in that general area might be interested in an ad for similar cars.
+==========
+We combine this information with the information we collect directly.
+Audience Matched Advertising
+As discussed in the section above, some of our customers may contribute personally identified information ("PII") from their Customer Relationship Management ("CRM") software, such as name, address, email address, phone number, and associated transactional information.
+==========
+CRM data may reflect online or offline interactions with a particular advertiser, publisher or retailer.
+We use a combination of our technology and LiveRamp’s technology to convert the PII to a device identified identifier before being used in providing advertising to your device.
+For more information about LiveRamp’s services, you can visit the LiveRamp Privacy Policy.
+==========
+Our customers acquire and use this data on our platform to understand which kinds of households or individuals are likely to be interested in their products and services, to deliver online ads to those customers and prospects, and to further refine and improve their advertising campaigns or the advertising campaigns of the brands which sell through their retail stores.
+This is also called Audience-Matched Advertising, which is the practice of using data linked, or previously linked, to Personally-Identified Information (e.g., email address, phone number) for the purpose of tailoring advertising on one or more unaffiliated websites or mobile applications, or on devices, based on preferences or interests known or inferred from such data.
+We use and may disclose CRM data along with information such as purchase data in order to measure the effectiveness of advertising campaigns and for other reporting and analytic purposes.
+Data we do not collect or use
+We do not collect hardware-based identifiers such as universal device identifier (UDID) or Mac address.
+We do not use sensitive data (such as sensitive health information generally regarded by most people as sensitive), certain aspects of a user’s personal life or financial situation (such as credit, insurance or employment eligibility), or use of, or interest in pornographic or otherwise obscene “adult” products or services for interest based advertising.
+==========
+You can review our standard health segments here.
+We do not create segments to specifically target children under 16 years old.
+==========
+Our pixel platform is set to not collect personal data from devices which appear to be physically located in the European Economic Area (EEA).
+In other words, if your device appears to be located in the EEA, our technology will not place an interest-based advertising cookie ID or other similar identifier.
+==========
+We may create aggregated data
+We aggregate general consumer data and disclose such information to advertisers and other third parties for marketing, promotional, and other purposes.
+We also disclose aggregated user statistics (for example, the general browsing behavior we see online shows 15% purchased TVs during the holiday season) in order to describe our services to prospective customers and partners, and other third parties, and for other lawful purposes.
+==========

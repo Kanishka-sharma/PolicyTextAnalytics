@@ -1,0 +1,29 @@
+If You (End User) use a (third-party) mobile application which uses our SDK as an integrated component, we will collect (and the publisher of the relevant app has obtained your opt-in consent thereto) the following information (unless you have followed the opt-out procedures as described below):
+- iOS® Identifier for Advertising (on iOS only), Android™ Advertiser ID (on Android only)
+- Details regarding mobile phone operating system and device
+- Location
+- Encrypted MD5 email (if in-app sign-in available)
+- App usage
+We never access personal identifiable data
+For sake of clarity, We do not collect the following Personal Information from an End User: UDID, Android ID, IMEI, MSISDN, name, non-encrypted email address, phone number.
+Any publisher of apps using our SDK is obliged to enable You to opt-in for the collection of the information as described above or applying other measures required by local privacy laws applicable to the Service.
+Therefore, the publisher of Your app must, as a minimum, enable You to opt-in before the collection of information, for instance by integrating the possibility of an opt-in for the data collection in the starting screen of the app and by providing an opt-out link in the Settings of the app.
+==========
+If You have opted out, We will delete your data and not continue to collect such information.
+Please turn to the publisher of Your app in case You are unable to find the mechanism for such opt-in and opt-out.
+You (End User) can also opt-out of the data collection by Predicio from our website.
+To do so You have to click the opt-out link below and submit your iOS® Identifier for Advertising (on iOS only), Android™ Advertiser ID (on Android only), and email.
+Opting out will not stop advertising from the mobile app(s) integrating our SDK, but will cause Predicio to no longer collect and analyze data from the device of a user.
+We may use the data collected through our SDK for the following purposes:
+(i) to provide the user with customized services and the display of customized content and products and targeted advertising both on the app of the developer and on other third party apps and websites,
+(ii) to ensure the technical functioning of the services of Predicio,
+(iii) to improve the algorithms used by Predicio for inferring profile information and other analytics.
+Predicio may also aggregate the data with other users' data in order to create statistics about the general use of mobile applications, which helps Predicio to improve existing services or develop new services.
+==========
+We may share, on the basis of our legitimate interests according to Art. 6 para.
+1 f) GDPR, the data of an End User, such as the device information and inferred data (e.g. profiled data), with third parties including advertisers, DMPs and partners, some of whom may use this data for the purposes of (i) create segments for targeted advertising and marketing purposes, (ii) internal system improvements, product improvement, statistical analysis, and research and development, and (iii) demographic and behavioral ad targeting.
+==========
+To learn more about behavioral advertising or to opt-out of some types of behavioral advertising for third-party ad networks, the user can visit the Network Advertising Initiative or the Digital Advertising Alliance.
+Additionally, the mobile operating system of a user (e.g. iOS or Android) should also give the user the option to manage his or her advertising preferences (this may be found in the "Settings" function on the respective device).
+If you have any question or inquiry relating to Our use of Your personal data or in case You want to issue a request for access, rectification, restriction on processing, portability, objection to processing, or deletion of personal information, or exercise any other data subject right available to you under the EU General Data Protection Regulation (GDPR), You may contact us by e-mail to the following address: support@predic.io.
+==========

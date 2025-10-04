@@ -1,0 +1,88 @@
+Last Modified on 01/24/2020 4:24 pm EST
+This privacy policy is meant to help publishers and web site visitors understand what data Sortable collects, why we collect it and what we do with it.
+Data we collect
+We collect the following data in order to serve ads to visitors and report on those ads to our publishers
+Publisher data
+At sign up, we'll collect a publisher's email address, telephone number, and banking information.
+Data from visitors to one of our publisher's sites
+We collect information about the services that you use and how you use them, like when you watch a video on YouTube, visit a website that uses our advertising services, or view and interact with our ads and content.
+This information includes:
+Device information: When using a mobile device we collect device-specific information (such as your hardware model, operating system version, unique device identifiers).
+Event logs: When a visitor views an ad on a publisher's site, we automatically collect and store certain information surrounding that event including:
+URL and query parameters
+Advertising information
+Winning partner
+Bid price
+Advertiser
+Deal ID
+Additional segment and targeting data provided by the publishers (First Party data)
+Location information: We use a user's IP Address to estimate a user's location.
+Local storage: We collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
+Cookies and similar technologies: We use cookies or similar technologies to identify visitor browsers or devices across sessions.
+==========
+Data use, storage, and retention
+There are two classes of data we collect and retain: event logs and ad impressions.
+Data type Event logs Ad impressions
+Description Telemetry collected from the browser and our internal services during the process of serving an ad.
+Created by ingesting and processing event logs.
+This data is also summarized to improve reporting performance.
+==========
+Use
+Analysis by our data scientists
+Input into machine learning algorithms to optimize auction parameters (such as floors)
+We do not conduct optimization or analysis at a Sortable ID or IP address level
+Fraud detection and avoidance
+Internal debugging
+Reporting on advertising impressions to our publishers
+Billing publishers
+Retention 12 months, after which it is deleted Retained for the lifetime of a customer
+Access Restricted to employees who require access (engineers and data scientists) Restricted to publisher 
+Anonymity Pseudonymized personal data.
+However the IP address is not truncated.
+Pseudonymized personal data.
+The following transformations ensure pseudonymity:
+IP address are truncated to the first 3 octets
+Only a whitelisted set of query parameters is included in URLs, to avoid accidental capture of personal information
+This data can be tied back to the event log data until that data is past its retention period.
+Data security and location
+Data is stored in Amazon's S3 cloud storage.
+Data is physically located and processed in the US, in Amazon's US-EAST data centers.
+Product specific details
+Product Sortable Managed Services
+Sortable Hosted
+Sortable Select  Sortable Server-to-Server Demand
+Sortable for Prebid
+What it does Ad-serving container loads partner's header bidding scripts Infrastructure to connect to DSPs and SSPs via the OpenRTB Protocol
+Personal data we collect
+The following pseudonymized personal data about the user is collected for reporting purposes:
+IP address to identify the user’s location
+First and third-party cookies (the Sortable ID), and mobile device identifiers (for app inventory) to correlate sessions 
+Other data we collect
+The following data is collected about the ad impression for reporting purposes and shard with partners in aggregate:
+Winning partner
+Bid price
+Advertiser
+Deal ID
+Whether the user viewed or clicked the impression
+URL query parameters and DFP key values.
+Publishers must agree to not store personal data in these properties.
+First-party segment and targeting data to expose segments of inventory in the ad auction.
+Publishers must agree to not store personal data in these properties.
+Information we share
+Sortable does not pass personal data on to header bidding partners, but advertising partners may collect additional data once loaded:
+First and third-party cookies (the Partner’s ID), and mobile device identifiers to correlate sessions 
+Pixel data obtained by placing pixels on the page
+The following data is passed along to partners during the ad impression:
+IP address
+Sortable ID
+Partner cookies
+Segments and targeting data
+Historical viewability data
+The advertising partners may collect the following personal data during an ad impression:
+First and third-party cookies (the Partner’s ID), and mobile device identifiers to correlate sessions
+Pixel data obtained by placing pixels on the page
+GDPR
+See this page for details on how we comply with GDPR.
+Contact us
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact the Sortable privacy team by e-mail at privacy@sortable.com
+==========

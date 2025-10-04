@@ -1,0 +1,130 @@
+Our websites at LiveScore.com and LiveScores.com use cookies and local storage to distinguish you from other users.
+This allows us to provide you with the best possible experience when you browse our websites and helps us to understand how to improve our service even further.
+==========
+INFORMATION ABOUT OUR USE OF COOKIES
+What is a cookie?
+A cookie is a small file of letters and numbers that is sent from a website.
+If you provide your consent, this information is stored on your browser or the hard drive of your computer.
+What type of cookies do we use?
+We use the following cookies:
+Strictly Necessary cookies.
+==========
+These are cookies that are required for the operation of our website.
+Examples include cookies that enable you access our website and cookies that ensure content works correctly on your device.
+==========
+Without them you will not be able to use all of the services we provide.
+If you decide to opt-out from storing these cookies, certain parts of our website will not work correctly and in some cases may not work at all.
+Functionality cookies.
+These cookies enable the features of our website.
+They recognise you when you return to our website and remember the choices you have made such as the selection of your favourites sports matches or enable notifications.
+This enables us to personalise our content for you and remember your preferences (for example, your time zone, favourite matches, sounds notifications, etc).
+Without these cookies, you will still be able to use our website, but your experience will be more difficult, and you may not get the best of our services.
+==========
+You will not see content that is relevant to you.
+Targeting cookies – Marketing and advertising.
+These cookies record your visit to our website, the pages you have visited (including, in the case of interest-based advertising, the pages of other websites) and the links you have followed.
+We will use this information to make our website and the advertising displayed on it more relevant to your interests.
+We may also share this information with third parties for this purpose.
+Without these cookies, you will be able to use and enjoy all the features of our website but the ads you see will not be tailored to your preferences.
+==========
+You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
+Type of Cookie Name of Cookie Purpose Expiration Time More information
+Essential cookie cookiePolicyConsent This cookie is essential to show you our cookie policy.
+1 year
+Essential cookie euconsent This cookie is essential to maintain your consent with the use of our services.
+13 months
+Functional cookie BodyLayoutForceDesktop This cookie is only used when local storage is unavailable.
+==========
+It enables us to show the website in desktop layout on a mobile device.
+12 months
+Functional cookie Google Plus button A range of cookies that enables us to show you the Google Plus button and provide a possibility to interact with it.
+Link Link
+Functional cookie Facebook Like button A range of cookies that enables us to show you the Facebook Like button and provide a possibility to interact with it.
+==========
+Link Link
+Targeting cookie _ga This cookie enables us to understand usage statistics on our website.
+2 years Link
+Targeting cookie _gat This cookie enables us to understand usage statistics on our website.
+2 years Link
+Targeting cookie _git This cookie enables us to calculate the total unique users visiting our website 2 years Link
+Targeting cookie _lstID This cookie enables us to calculate the total unique users visiting our website.
+As long as you use our Services
+Targeting cookie Oath (and its affiliates) A range of cookies and web beacons are deployed in order to show you personalised advertising, to improve reporting on campaign performance and to avoid showing you ads that you have already seen Link Link
+Targeting cookie Rubicon (and its affiliates) A range of cookies and web beacons are deployed in order to show you personalised advertising, to improve reporting on campaign performance and to avoid showing you ads that you have already seen Link Link
+INFORMATION ABOUT OUR USE OF LOCAL STORAGE
+What is local storage?
+Browser web storage enables websites to store data in a browser on a device.
+This technology is similar to cookies in that only non-sensitive data is stored, but has a greater storage limit.
+When web storage is used in "local storage" mode, it enables data to be stored across sessions (meaning that data are retrievable even after the browser window has been closed and reopened).
+One technology that facilitates web storage (and local storage) is HTML 5.
+What type of properties do we store in local storage?
+==========
+We use the following properties:
+Functionality properties.
+These properties enable the features of our website.
+==========
+They recognise you when you return to our website and remember the choices you have made such as the selection of your favourites sports matches or enable notifications.
+This enables us to personalise our content for you and remember your preferences (for example, your time zone, favourite matches, sounds notifications, etc).
+Without these properties, you will still be able to use our website, but your experience will be more difficult, and you may not get the best of our services.
+You will not see content that is relevant to you.
+==========
+Targeting – Marketing and advertising properties.
+These properties record your visit to our website, the pages you have visited (including, in the case of interest-based advertising, the pages of other websites) and the links you have followed.
+We will use this information to make our website and the advertising displayed on it more relevant to your interests.
+We may also share this information with third parties for this purpose.
+Without these properties, you will be able to use and enjoy all the features of our website but the ads you see will not be tailored to your preferences.
+==========
+You can find more information about the individual properties we use and the purposes for which we use them in the table below:
+Type of Property Name of Property Purpose More information
+Functional property matches_last_updated This property enables us to synchronise your Favourite matches between browser tabs.
+Functional property notifications_enabled This property enables us to display notifications about your favourite sport matches.
+Functional property sounds_enabled This property allows us to enable sound notification about your favourite sport matches.
+Functional property timezone_offset This property enables the website to display the content in a different time zone than the system default.
+==========
+Functional property my_matches This property enables us to list your sport matches as Favourites.
+Functional property miniLeagueTable This property enables the website to remember your selection of the mini league table.
+Functional property com.livescore.refresh_detection.count
+com.livescore.refresh_detection.timestamp
+com.livescore.refresh_detection.url
+A range of values stored in Session Storage, which expires when you close the browser tab.
+==========
+We use this informationit to calculate the amountnumber of manual refreshes of made to the page you are currently visiting and show an alert that the page does not need to be refreshed manually if needed.
+Functional property Facebook Like button A range of properties that enables us to show you the Facebook Like button and provide a possibility to interact with it.
+Link
+Functional property BodyLayoutForceDesktop This property enables us to remember your choice when you visit our website from a mobile device and choose to view the site in the desktop layout.
+==========
+Targeting property google_experiment_mod This property enables us to show you personalised advertising, to improve reporting on campaign performance and to avoid showing you ads that you have already seen.
+Targeting property google_pub_config This property enables us to show you personalised advertising, improve reporting on campaign performance and avoid showing you ads that you have already seen.
+==========
+Duration
+Except for essential cookies, all cookies will expire after 2 years or, in respect of interest-based advertising, after the period stated in the relevant web pages at the links in the table above.
+Local storage does not expire, the information remains on your computer for future browsing sessions.
+The technology works in real-time, allowing websites to access the data stored in the local storage on your browser when you access their websites.
+You are, however, able to manage your browser settings to disable the local storage and/or to delete the stored data (see below).
+==========
+MANAGING COOKIES AND LOCAL STORAGE PREFERENCES
+Most modern browsers allow you to see what cookies you have on your device, and manage your preferences by using their cookie settings.
+You can usually find these cookie settings in the “option” or “preference” menu of your browser.
+==========
+You can always use the “help” functionality in your browser to search for this information.
+Here is a list of links which you will find helpful to understand how to manage your cookie preferences:
+Information about cookies in general
+How to manage your cookies in Internet Explorer.
+How to manage your cookies in Firefox.
+How to manage your cookies in Chrome.
+How to manage your cookies in Safari.
+==========
+Modern browsers allow you to delete the data in local storage (also referred to as "website data", "browsing data" or "other data" in some browsers) by using the privacy settings associated with that browser.
+Most browsers also now offer the option to accept, prompt for or block the storage of local data.
+==========
+Opt-out in respect of interest-based advertising.
+If you do not want our ad partners to receive usage data derived from targeting cookies or you do not want to receive interest-based advertising, please follow the instructions detailed in the following links: http://www.networkadvertising.org/choices, http://www.aboutads.info, http://www.youronlinechoices.eu, http://www.youradchoices.com, https://policies.oath.com/ie/en/oath/privacy/controls/index.html, or http://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/, in order to manage preferences via your browser if you are visiting the website.
+==========
+If you are using the mobile app, you can manage preferences via your device's privacy setting (e.g. Apple iOS Limit Ad Tracking).
+Duration
+Except for essential cookies, all cookies will expire after 2 years or, in respect of interest-based advertising after the period stated in the relevant web pages at the links in the table above.
+==========
+Local storage does not expire.
+All properties stored there are permanent.
+Update consent
+==========

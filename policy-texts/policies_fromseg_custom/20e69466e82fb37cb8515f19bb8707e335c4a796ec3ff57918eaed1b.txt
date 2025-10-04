@@ -1,0 +1,395 @@
+As a valued and trusted partner, and largest TLS/SSL vendor and certificate authority, Sectigo is committed to providing you with a secure and protected experience.
+When using our products and services, we want you to know the measures we are taking to protect your privacy.
+This Privacy Portal is designed to give you a central resource where you can find information on what we are doing and what you can do to protect your rights.
+==========
+DATA PROTECTION AND YOU
+As the Internet continues to evolve and our use of it continues to change and grow, the laws enacted to protect us also change and grow, giving us some peace-of-mind as we increase and expand our interactions on the web.
+The biggest change to come is the General Data Protection Regulation (GDPR), which will become effective on May 25, 2018.
+Although its scope applies to the EU, most individuals, companies and organizations worldwide will be impacted.
+==========
+So what does this mean to you?
+This means that most organizations will now have to put in place a privacy regime that will be transparent, providing you with sufficient information on your rights and how your data is collected and used.
+Since Sectigo has always been committed to your privacy and has undertaken security measures that ensure the protection of your data,
+we are ready
+.
+==========
+RESOURCES AVAILABLE TO YOU
+This website uses cookies.
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic.
+We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+==========
+You consent to our cookies if you continue to use our website.
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site.
+==========
+For all other types of cookies we need your permission.
+This site uses different types of cookies.
+Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Your consent applies to the following domains: stage.webdev.sectigo.com, blog.whichssl.com, www.whichssl.com, www.sectigo.com, blog.positivessl.com, blog.instantssl.com, www.evsslcertificate.com, www.hackerguardian.com, www.trustlogo.com, www.optimumssl.com, www.enterprisessl.com, www.positivessl.com, www.instantssl.com, ssl.sectigo.com
+Your current state: Allow all cookies (Necessary, Preferences, Statistics).
+==========
+Change your consent | Withdraw your consent
+Cookie declaration last updated on 23/10/2018 by Cookiebot:
+Necessary (35)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website.
+The website cannot function properly without these cookies.
+Name Provider Purpose Expiry Type
+__cfduid [x7] client-socket.
+==========
+help.com
+login.help.com
+plugins.help.com
+sounds.help.com
+hsforms.com
+hsforms.net
+comodo.com Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year HTTP Cookie
+ASP.NET_SessionId comodoca.com Preserves the visitor's session state across page requests.
+Session HTTP Cookie
+CookieConsent [x13] blog.whichssl.com
+whichssl.com
+comodoca.com
+blog.positivessl.com
+blog.instantssl.com
+evsslcertificate.com
+hackerguardian.com
+trustlogo.com
+optimumssl.com
+enterprisessl.com
+positivessl.com
+instantssl.com
+ssl.comodo.com Stores the user's cookie consent state for the current domain 1 year HTTP Cookie
+io client-socket.
+help.com Preserves user session state across page requests.
+Session HTTP Cookie
+JSESSIONID nr-data.
+net Preserves users states across page requests.
+Session HTTP Cookie
+PHPSESSID [x12] blog.whichssl.com
+whichssl.com
+blog.positivessl.com
+blog.instantssl.com
+evsslcertificate.com
+hackerguardian.com
+instantssl.com
+trustlogo.com
+optimumssl.com
+enterprisessl.com
+comodo.com
+ssl.comodo.com Preserves user session state across page requests.
+Session HTTP Cookie
+Preferences (2)
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+Name Provider Purpose Expiry Type
+CookieConsentBulkSetting-# consentcdn.cookiebot.com Enables cookie consent across multiple websites Persistent HTML Local Storage
+CookieConsentBulkTicket cookiebot.com Enables cookie consent across multiple websites 1 year HTTP Cookie
+Statistics (64)
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+==========
+Name Provider Purpose Expiry Type
+_at.hist.
+# [x4] accounts.google.com
+blog.whichssl.com
+comodoca.com
+blog.instantssl.com Used by the social sharing platform AddThis to store the user's usage history of the AddThis sharing widget Persistent HTML Local Storage
+_ga [x15] blog.whichssl.com
+whichssl.com
+comodoca.com
+positivessl.com
+blog.instantssl.com
+instantssl.com
+evsslcertificate.com
+hackerguardian.com
+trustlogo.com
+optimumssl.com
+enterprisessl.com
+support.comodo.com
+comodo.com
+secure.instantssl.com
+ssl.comodo.com Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+2 years HTTP Cookie
+_gat [x15] blog.whichssl.com
+whichssl.com
+comodoca.com
+positivessl.com
+blog.instantssl.com
+instantssl.com
+evsslcertificate.com
+hackerguardian.com
+trustlogo.com
+optimumssl.com
+enterprisessl.com
+support.comodo.com
+comodo.com
+secure.instantssl.com
+ssl.comodo.com Used by Google Analytics to throttle request rate Session HTTP Cookie
+_gid [x15] blog.whichssl.com
+whichssl.com
+comodoca.com
+positivessl.com
+blog.instantssl.com
+instantssl.com
+evsslcertificate.com
+hackerguardian.com
+trustlogo.com
+optimumssl.com
+enterprisessl.com
+support.comodo.com
+comodo.com
+secure.instantssl.com
+ssl.comodo.com Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+==========
+Session HTTP Cookie
+collect google-analytics.
+com Used to send data to Google Analytics about the visitor's device and behaviour.
+Tracks the visitor across devices and marketing channels.
+Session Pixel Tracker
+LivePersonID liveperson.net Helps facilitate an interactive LivePerson chat session and determine when the service should be started in the user's browser.
+==========
+1 year HTTP Cookie
+optimizelyBuckets [x3] hackerguardian.com
+instantssl.com
+comodo.com Stores settings on Optimizely user experience experiments and variations that the visitor has been bucketed into.
+This ensures the visitor consistently sees the same variation, even over multiple sessions.
+179 days HTTP Cookie
+optimizelyEndUserId [x3] hackerguardian.com
+instantssl.com
+comodo.com Used to measure how selected users react to targeted changes to the website's content and functionality, in order to determine what variation is most efficacious in terms of converting users to customers.
+179 days HTTP Cookie
+optimizelyPendingLogEvents [x3] hackerguardian.com
+instantssl.com
+comodo.com Used by Optimizely as a cache of a user's actions between tracking calls.
+Session HTTP Cookie
+optimizelySegments [x3] hackerguardian.com
+instantssl.com
+comodo.com Used by Optimizely to store the user's audience and dimension information (e.g., browser, campaign, mobile, source type, custom dimensions).
+179 days HTTP Cookie
+VisitorStatus comodoca.com Used to collect statistical data on user-defined parameters in Google Analytics.
+20 years HTTP Cookie
+Marketing (53)
+Marketing cookies are used to track visitors across websites.
+==========
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name Provider Purpose Expiry Type
+__atuvc [x3] blog.whichssl.com
+comodoca.com
+blog.instantssl.com Updates the counter of a website's social sharing features.
+13 months HTTP Cookie
+__atuvs [x3] blog.whichssl.com
+comodoca.com
+blog.instantssl.com Ensures that the updated counter is displayed to the user if a page is shared with the social sharing service, AddThis.
+==========
+Session HTTP Cookie
+_at.cww [x4] accounts.google.com
+blog.whichssl.com
+comodoca.com
+blog.instantssl.com Used by the social sharing platform AddThis Persistent HTML Local Storage
+_hjIncludedInSample [x5] comodoca.com
+hackerguardian.com
+instantssl.com
+positivessl.com
+comodo.com Determines if the user's navigation should be registered in a certain statistical place holder.
+Session HTTP Cookie
+_hjRecordingEnabled hackerguardian.com This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.
+Session HTML Local Storage
+ads/ga-audiences google.com Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+==========
+Session Pixel Tracker
+at-lojson-cache-# [x4] accounts.google.com
+blog.whichssl.com
+comodoca.com
+blog.instantssl.com Used by the social sharing platform AddThis Persistent HTML Local Storage
+at-rand [x4] accounts.google.com
+blog.whichssl.com
+comodoca.com
+blog.instantssl.com Used by the social sharing platform AddThis Persistent HTML Local Storage
+bcookie linkedin.com Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years HTTP Cookie
+bscookie linkedin.com Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years HTTP Cookie
+GPS youtube.com Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+==========
+Session HTTP Cookie
+IDE doubleclick.net Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+2 years HTTP Cookie
+lidc linkedin.com Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+Session HTTP Cookie
+loc addthis.com Geolocation, which is used to help providers determine how users who share information with each other are geographically located (state level).
+==========
+13 months HTTP Cookie
+MUID bing.com Used widely by Microsoft as a unique user ID.
+The cookie enables user tracking by synchronising the ID across many Microsoft domains.
+1 year HTTP Cookie
+MUIDB bing.com Pending 1 year HTTP Cookie
+NID google.com Registers a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.
+6 months HTTP Cookie
+optimizely_data$$first_session [x3] hackerguardian.com
+instantssl.com
+ssl.comodo.com Used for targeted advertising.
+==========
+Session HTML Local Storage
+pagead/1p-user-list/# google.com Pending Session Pixel Tracker
+rc::a google.com Pending Persistent HTML Local Storage
+rc::b google.com Pending Session HTML Local Storage
+test_cookie doubleclick.net Used to check if the user's browser supports cookies.
+Session HTTP Cookie
+uvc addthis.com Detects how often the social sharing service, AddThis, encounters the same user.
+13 months HTTP Cookie
+VISITOR_INFO1_LIVE youtube.com Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+==========
+179 days HTTP Cookie
+xtc addthis.com Registers the user's sharing of content via social media.
+13 months HTTP Cookie
+YSC youtube.com Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+Session HTTP Cookie
+yt.innertube::nextId youtube.com Pending Persistent HTML Local Storage
+yt.innertube::requests youtube.com Pending Persistent HTML Local Storage
+yt-remote-cast-installed youtube.com Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage
+yt-remote-connected-devices youtube.com Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage
+yt-remote-device-id youtube.com Stores the user's video player preferences using embedded YouTube video Persistent HTML Local Storage
+yt-remote-fast-check-period youtube.com Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage
+yt-remote-session-app youtube.com Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage
+yt-remote-session-name youtube.com Stores the user's video player preferences using embedded YouTube video Session HTML Local Storage
+Unclassified (136)
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name Provider Purpose Expiry Type
+__widgetsettings [x2] https
+twitter.com Pending Persistent HTML Local Storage
+adOtr whichssl.com Pending Session HTTP Cookie
+altutgv2 whichssl.com Pending Persistent HTML Local Storage
+ap [x10] whichssl.com
+comodoca.com
+blog.positivessl.com
+evsslcertificate.com
+hackerguardian.com
+instantssl.com
+optimumssl.com
+enterprisessl.com
+comodo.com
+ssl.comodo.com Pending Session HTTP Cookie
+CMDSESSID instantssl.com Pending Session HTTP Cookie
+CMSCsrfCookie comodoca.com Pending Session HTTP Cookie
+CMSCurrentTheme comodoca.com Pending Session HTTP Cookie
+CMSLandingPageLoaded comodoca.com Pending Session HTTP Cookie
+CMSPreferredCulture comodoca.com Pending 1 year HTTP Cookie
+CMSUserPage comodoca.com Pending Session HTTP Cookie
+cnv whichssl.com Pending Persistent HTML Local Storage
+cookiesAccepted positivessl.com Pending 10 years HTTP Cookie
+country [x9] comodoca.com
+blog.positivessl.com
+evsslcertificate.com
+hackerguardian.com
+instantssl.com
+optimumssl.com
+enterprisessl.com
+comodo.com
+ssl.comodo.com Pending 4 years HTTP Cookie
+CRAFT_CSRF_TOKEN positivessl.com Pending Session HTTP Cookie
+csr whichssl.com Pending Persistent HTML Local Storage
+currency [x9] comodoca.com
+blog.positivessl.com
+evsslcertificate.com
+hackerguardian.com
+instantssl.com
+optimumssl.com
+enterprisessl.com
+comodo.com
+ssl.comodo.com Pending 4 years HTTP Cookie
+currency_id positivessl.com Pending 1 year HTTP Cookie
+entryURL [x10] whichssl.com
+comodoca.com
+blog.positivessl.com
+evsslcertificate.com
+hackerguardian.com
+instantssl.com
+optimumssl.com
+enterprisessl.com
+comodo.com
+ssl.comodo.com Pending Session HTTP Cookie
+helpdotcom_temporary_cookie_domain [x8] comodoca.com
+help.com
+hackerguardian.com
+optimumssl.com
+enterprisessl.com
+positivessl.com
+instantssl.com
+comodo.com Pending Session HTTP Cookie
+helpdotcom_widget_greeting_popout_closed_d203a08b-b2dd-4be1-890b-b050b1e164f7 comodo.com Pending Session HTTP Cookie
+helpdotcom_widget_proactive_greetings_d203a08b-b2dd-4be1-890b-b050b1e164f7 [x7] comodoca.com
+hackerguardian.com
+optimumssl.com
+comodo.com
+enterprisessl.com
+positivessl.com
+instantssl.com Pending Session HTTP Cookie
+helpdotcom_widget_room_id comodo.com Pending Session HTTP Cookie
+helpdotcom_widget_session_id [x8] comodoca.com
+help.com
+hackerguardian.com
+instantssl.com
+optimumssl.com
+comodo.com
+enterprisessl.com
+positivessl.com Pending Session HTTP Cookie
+helpdotcom_widget_view comodo.com Pending Session HTTP Cookie
+helpdotcom_widget_visibility [x7] comodoca.com
+hackerguardian.com
+optimumssl.com
+comodo.com
+enterprisessl.com
+positivessl.com
+instantssl.com Pending Session HTTP Cookie
+helpdotcom_widget_visitor_id [x7] comodoca.com
+hackerguardian.com
+instantssl.com
+optimumssl.com
+comodo.com
+enterprisessl.com
+positivessl.com Pending 15999 days HTTP Cookie
+helpdotcom-state-v1 plugins.help.com Pending Persistent HTML Local Storage
+i18nextLng plugins.help.com Pending Persistent HTML Local Storage
+key5sk1 [x6] whichssl.com
+positivessl.com
+instantssl.com
+trustlogo.com
+enterprisessl.com
+comodo.com Pending Session HTTP Cookie
+local_storage_support_test [x2] https
+twitter.com Pending Persistent HTML Local Storage
+n_sha [x5] whichssl.com
+instantssl.com
+trustlogo.com
+enterprisessl.com
+comodo.com Pending 179 days HTTP Cookie
+otr whichssl.com Pending Persistent HTML Local Storage
+PRLST whichssl.com Pending Session HTTP Cookie
+referrerURL [x10] whichssl.com
+comodoca.com
+blog.positivessl.com
+evsslcertificate.com
+hackerguardian.com
+instantssl.com
+optimumssl.com
+enterprisessl.com
+comodo.com
+ssl.comodo.com Pending Session HTTP Cookie
+region [x9] comodoca.com
+blog.positivessl.com
+evsslcertificate.com
+hackerguardian.com
+instantssl.com
+optimumssl.com
+enterprisessl.com
+comodo.com
+ssl.comodo.com Pending 4 years HTTP Cookie
+sp_lit whichssl.com Pending Session HTTP Cookie
+spcsrf whichssl.com Pending Session HTTP Cookie
+SPSI [x2] aboutssl.org
+whichssl.com Pending Session HTTP Cookie
+SWIFT_client support.comodo.com Pending 6 days HTTP Cookie
+SWIFT_sessionid40 support.comodo.com Pending Session HTTP Cookie
+UTGv2 whichssl.com Pending 1 year HTTP Cookie
+==========

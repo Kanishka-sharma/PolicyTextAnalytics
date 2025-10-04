@@ -1,0 +1,296 @@
+This Terms of Service has been updated as of March 29, 2016 and will be effective as of April 8, 2016.
+If you signed up before March 29, 2016, you can find the prior Terms of Service here.
+Welcome to Freshdesk.com!
+==========
+Please read these terms of service and Our Privacy Policy (together, these “Terms”) carefully as they form a contract between You and FreshDesk and govern use of and access to the Service and Websites by You, Your Affiliates, Agents and End-Customers whether in connection with a paid subscription to the Service or a free trial of the Service.
+In the event of a conflict between these terms of service and Our Privacy Policy, these terms of service shall prevail.
+By accessing or using the Service or Websites, or authorizing or permitting any Agent or End-User to access or use the Service or Websites, You agree to be bound by these Terms.
+If You are entering into these Terms on behalf of a company, organization or another legal entity (an “Entity”), You are agreeing to these Terms for that Entity and representing to FreshDesk that You have the authority to bind such Entity and its Affiliates to these Terms, in which case the terms “FreshDesk User” “You,” “Your” or related capitalized terms herein shall refer to such Entity and its Affiliates.
+If You do not have such authority, or if You do not agree with these Terms, You must not accept these Terms and may not use the Service or Websites.
+==========
+We may update the Service and Our Websites from time to time and may change content at any time.
+However, please note that any of the content on Our Websites may be out of date at any given time, and we are under no obligation to update it.
+1.
+==========
+USE OF THE SERVICE AND WEBSITES
+1.1 Subject to compliance by You, the Agents and End-Customers with these Terms and solely during the Subscription Term, You have the limited right to access and use the Service in accordance with the Service Plan(s) that You subscribe to for Your internal business purposes.
+You may not allow more than one third party (other than Your Affiliates) to use your Account to provide customer service or support without prior notification to FreshDesk.
+Without limiting the foregoing, Your right to access and use the API is also subject to the restrictions and policies implemented by FreshDesk from time to time with respect to the API as set forth on http://freshdesk.com/api or otherwise communicated to You in writing.
+==========
+You must be 18 years or older to use the Service.
+1.2 In addition to complying with the other terms, conditions and restrictions set forth below in these Terms, You agree not to (a) license, sublicense, sell, resell, rent, lease, transfer, assign, distribute, time share or otherwise commercially exploit or make the Services available to any third party, other than Agents and End-Customers in furtherance of Your internal business purposes as expressly permitted by these Terms; (b) use the Service To Process data on behalf of any third party other than Agents or End-Customers; (c) modify, adapt, or hack the Service or otherwise attempt to gain unauthorized access to the Service or related systems or networks; (d) falsely imply any sponsorship or association with FreshDesk; (e) use the Service in any unlawful manner, including but not limited to violation of any person’s privacy rights; (f) use the Service to send unsolicited or unauthorized junk mail, spam, pyramid schemes or other forms of duplicative or unsolicited messages; (g) use the Service to store or transmit files, materials, data, text, audio, video, images or other content that infringes on any person’s intellectual property rights; (h) use the Service in any manner that interferes with or disrupts the integrity or performance of the Service and its components; (i) attempt to decipher, decompile, reverse engineer or otherwise discover the source code of any Software making up the Service; (j) use the Service to knowingly post, transmit, upload, link to, send or store any content that is unlawful, racist, hateful, abusive, libelous, obscene, or discriminatory; (k) use the Service to store or transmit any “protected health information” as that term is defined in 45 C.F.R. 160.103 unless expressly agreed to otherwise in writing by FreshDesk; (l) use the Service to knowingly post transmit, upload, link to, send or store any viruses, malware, Trojan horses, time bombs, or any other similar harmful software (“Malicious Software”); or (m) try to use, or use the Service in violation of these Terms.
+==========
+1.3 You are responsible for compliance with the provisions of these Terms by Agents and End-Customers and for any and all activities that occur under Your Account, as well as for all Your Data.
+Without limiting the foregoing, You are solely responsible for ensuring that Your use of the Service to store and transmit Your Data is compliant with all applicable laws and regulations.
+You also maintain all responsibility for determining whether the Service or the information generated thereby is accurate or sufficient for Your purposes.
+==========
+Subject to any limitation on the number of individual Agents available under the Service Plan for which You subscribed, access to and use of the Service is restricted to the specified number of individual Agents permitted under Your subscription to the Service.
+You agree and acknowledge that each Agent will be identified by a unique username and password (“Login”) and that an Agent Login may only be used by one (1) individual.
+You will not share an Agent Login among multiple individuals.
+You and Your Agents are responsible for maintaining the confidentiality of all Login information for Your Account.
+The FreshDesk Group will not be held liable for any damage or loss that may result from Your failure to protect Your login information, including Your password.
+==========
+1.4 In addition to Our rights as set forth in Section 8.4, FreshDesk reserves the right, in FreshDesk’s reasonable discretion, to temporarily suspend Your access to and use of the Service: (a) during planned downtime for upgrades and maintenance to the Service (of which FreshDesk will use commercially reasonable efforts to notify You in advance through our Service) (“Planned Downtime”); (b) during any unavailability caused by circumstances beyond Our reasonable control, such as, but not limited to, acts of God, acts of government, acts of terror or civil unrest, technical failures beyond Our reasonable control (including, without limitation, inability to access the Internet), or acts undertaken by third parties, including without limitation, distributed denial of service attacks; or (c) if We suspect or detect any Malicious Software connected to Your Account or use of the Service by You, Agents, Your Affiliates or End-Customers.
+We will use commercially reasonable efforts to schedule Planned Downtime for weekends (Pacific Time zone) and other off-peak hours.
+==========
+1.5 You will need a high speed Internet connection in order for the Service to function as intended.
+You are responsible for procuring and maintaining the network connections that connect Your network to the Service, including, but not limited to, “browser” software that supports protocols used by FreshDesk, including Secure Socket Layer (SSL) protocol or other protocols accepted by FreshDesk, and to follow procedures for accessing services that support such protocols.
+We are not responsible for notifying You, Agents, Your Affiliates or End-Customers of any upgrades, fixes or enhancements to any such software or for any compromise of data, including Your Data, transmitted across computer networks or telecommunications facilities (including but not limited to the Internet) which are not owned, operated or controlled by FreshDesk.
+==========
+We assume no responsibility for the reliability or performance of any connections as described in this section.
+1.6 We do not guarantee that Our Websites, or any content on them, will always be available or be uninterrupted.
+==========
+We reserve the right to suspend, withdraw, discontinue or change all or any part of Our Websites, excluding the Service, without notice.
+We will not be liable to You if for any reason Our site is unavailable at any time or for any period.
+==========
+You are responsible for making all arrangements necessary for You to have access to Our Websites.
+1.7 You may link to our Websites provided You do so in a way that is fair and legal and does not damage Our reputation or take advantage of it.
+You must not establish a link in such a way as to suggest any form of association, approval or endorsement on Our part where none exists.
+You must not establish a link to Our Websites in any website that is not owned by You.
+Our Websites must not be framed on any other website, nor may You create a link to any part of Our Websites other than the home page.
+We reserve the right to withdraw linking permission without notice.
+==========
+1.8 Where Our Websites contain links to other websites and resources provided by third parties, these links are provided for Your information only.
+We have no control over the contents of those websites or resources.
+2.
+==========
+INTELLECTUAL PROPERTY RIGHTS
+2.1 Each of us shall maintain all rights, title and interest in and to all our respective patents, inventions, copyrights, trademarks, domain names, trade secrets, know-how and any other intellectual property and/or proprietary rights (collectively, “Intellectual Property Rights”).
+The rights granted to You, Your Affiliates, Agents and End-Customers to use the Service and the Websites under these Terms do not convey any additional rights in the Service or Websites, or in any Intellectual Property Rights associated therewith.
+Subject only to limited rights to access and use the Service and Websites as expressly stated herein, all rights, title and interest in and to the Service, the Websites and all hardware, Software and other components of or used to provide the Service and Websites, including all related Intellectual Property Rights, will remain with and belong exclusively to FreshDesk.
+==========
+FreshDesk shall have a royalty-free, worldwide, transferable, sub-licensable, irrevocable and perpetual license to incorporate into the Service and/or Websites or otherwise use any suggestions, enhancement requests, recommendations or other feedback We receive from You, Agents or End-Customers.
+FreshDesk, and FreshDesk’s other product and service names, and logos used or displayed on the Service or Websites are registered or unregistered trademarks of FreshDesk (collectively, “Marks”), and You may only use such Marks to identify You as a FreshDesk User; provided You do not attempt, now or in the future, to claim any rights in the Marks, degrade the distinctiveness of the Marks, or use the Marks to disparage or misrepresent FreshDesk, its services or products.
+==========
+2.2 You must not use any part of the content on Our Websites for commercial purposes without obtaining a license to do so from us or Our licensors.
+We are the owner or the licensee of all Intellectual Property Rights in Our Websites, and in the material published on it.
+Those works are protected by copyright laws and treaties around the world.
+==========
+All such rights are reserved.
+2.3 FreshDesk claims no intellectual property rights over the content You upload or provide to the Service.
+==========
+2.4 Notwithstanding anything to the contrary herein, you agree that FreshDesk may obtain and aggregate technical and other data about your use of the Service that is non-personally identifiable with respect to you, including without limitation, ticket source, time stamps, number of responses, times of responses, ticket states (open/resolved/etc.)
+(“Aggregated Anonymous Data”), and FreshDesk may use the Aggregated Anonymous Data to improve, support and operate the Service and otherwise for any business purpose during and after your use of the Service.
+For clarity, this Section 2.4 does not give FreshDesk the right to identify you as the source of any Aggregated Anonymous Data.
+3.
+==========
+THIRD-PARTY SERVICES
+If You decide to enable, access or use Other Services, be advised that Your access and use of such Other Services is governed solely by the terms and conditions of such Other Services, and We do not endorse, are not responsible or liable for, and make no representations as to any aspect of such Other Services, including, without limitation, their content or the manner in which they handle data (including Your Data) or any interaction between You and the provider of such Other Services.
+You irrevocably waive any claim against FreshDesk with respect to such Other Services.
+FreshDesk is not liable for any damage or loss caused or alleged to be caused by or in connection with Your enablement, access or use of any such Other Services, or Your reliance on the privacy practices, data security processes or other policies of such Other Services.
+==========
+You may be required to register for or log into such Other Services on their respective websites.
+By enabling any Other Services, You are expressly permitting FreshDesk to disclose Your Data as necessary to facilitate the use or enablement of such Other Service.
+4.
+==========
+VOICE FUNCTIONALITY
+If Your Service Plan and subscription to the Service allows You to use the phone service, You understand and agree that (a) the Service is not intended to support or carry emergency calls to any emergency services such as public safety answering points, (b) FreshDesk will not be held liable for any claim, damages or loss (and You hereby waive any and all such claims or causes of action), arising from or relating to Your (or Agents or End-Customers) inability to use the Service to make such emergency calls, (c) You are solely responsible for Your operation of the phone service in compliance with all applicable laws in all jurisdictions governing use of the Service by You, Your Affiliates, Agents and End-Customers, including but not limited to telephone recording and wiretapping laws, and (d) You will defend, hold harmless and indemnify FreshDesk from and against any third party claim arising from any of the foregoing.
+FreshDesk may disable the phone numbers provided to You if Your subscription to the Service, Account or rights to access and/or use the Service are otherwise suspended, terminated, or cancelled.
+In the event that You wish to port-out your phone number upon termination of Your subscription to the Service or for any other reason, you agree to notify support@freshdesk.com.
+==========
+Upon receipt of such request, FreshDesk shall use reasonable efforts to assist You in the port-out to the third-party service provider of Your choice.
+Use of Freshdesk’s phone service is subject to the payment of additional fees and charges, including, without limitation, the phone call rates as detailed on the Websites.
+When enabling Freshdesk’s phone service, You are consenting, on behalf of You and Your Agents and End-Customers to the Processing of Your Data (as generated by or necessary for the provision or operation of the phone service) by the third-party service provider we utilize to provide the phone service.
+5.
+==========
+BILLING, PLAN MODIFICATIONS AND PAYMENTS
+5.1 Unless otherwise indicated on a Form referencing these Terms and subject to Section 6.2, all charges associated with Your access to and use of the Service (“Subscription Charges”) are due in full upon commencement of Your Subscription Term, and You hereby authorize FreshDesk or its authorized agents, as applicable, to bill Your credit card or other accepted payment method beginning upon the commencement of Your Subscription Term (and any renewal thereof) in accordance with the terms of the Service Plan until You terminate Your Subscription as provided in these Terms or a Form.
+You acknowledge and agree that FreshDesk may use a third party service provider to manage credit card and other payment processing; provided, that such service provider is not permitted to store, retain or use Your payment account information except to process Your credit card and other payment information for FreshDesk.
+In order to ensure that we are able to process Your Subscription Charges without interruption, You must notify us of any change in Your credit card or other payment account information, either by updating Your Account on Our Website or otherwise.
+==========
+You will receive a receipt upon each receipt of payment by FreshDesk, and You may obtain a receipt from within the Service.
+Any update made by You on the Service Plans shall authorize Freshdesk to issue recurring transactions for subsequent terms until cancellation of the account.
+5.2 Unless otherwise indicated on a Form referencing these Terms or required by applicable laws and subject to Section 6.2, all Subscription Charges are non-refundable.
+==========
+There will be no refunds or credits for partial months of the Service or if You do not use the Service during a period of time when Your Account is open.
+You will be required to prepay Subscription Charges for Freshdesk’s phone service.
+==========
+Unless otherwise indicated on any Form, if You fail to pay Your Subscription Charges or charges for other services indicated on any Form referencing these Terms within a maximum of five (5) business days of Our notice to You that payment is due or delinquent, or if You do not update payment information upon Our request, in addition to Our other remedies, We may suspend or terminate access to and use of the Service by You, Agents, Your Affiliates and End-Customers.
+5.3 If You upgrade or downgrade Your Service Plan, Your credit card or other designated payment method will be charged Your new billing rate immediately (on a pro-rated basis) upon your election to upgrade or downgrade, - unless You cancel Your Account as provided in these Terms or a Form.
+If You upgrade Your Service Plan or increase the number of Agents during Your Subscription Term (a “Subscription Upgrade”), any incremental Subscription Charges associated with such Subscription Upgrade will be prorated over the remaining period of Your then-current Subscription Term, charged to Your Account and due and payable upon implementation of such Subscription Upgrade.
+Your Subscription Charges will reflect any such Subscription Upgrades.
+in any subsequent Subscription Terms, unless You cancel [the Subscription Upgrade] as provided in these Terms or a Form.
+5.4 Other than a credit for downgrade of an annual Service Plan, no refunds or credits for Subscription Charges or other fees or payments will be provided to You if You elect to downgrade Your Service Plan.
+Downgrading Your Service Plan may cause loss of content, features, or capacity of the Service as available to You under Your Account, and FreshDesk does not accept any liability for such loss.
+FreshDesk reserves the right to contact You if You maintain an exceptionally high number of End-Customers, an unusually high monthly ticket ratio per Agent, an unusually high level of open tickets or other excessive stress on the Service.
+==========
+5.5 Unless otherwise stated, the Subscription Charges do not include any taxes, levies, duties or similar governmental assessments, including value-added, sales, use or withholding taxes assessable by any local, state, provincial or foreign jurisdiction (collectively “Taxes”).
+You are responsible for paying Taxes except those assessable against FreshDesk based on its income.
+We will invoice You for such Taxes if We believe We have a legal obligation to do so and You agree to pay such Taxes if so invoiced.
+6.
+==========
+CREDITS POLICY
+6.1 FreshDesk may choose to offer credits in regards to some or all of the Service.
+FreshDesk reserves the right to award credits at its sole discretion.
+==========
+Credits have no monetary or cash value and can only be used by You to offset Your subsequent payments of Subscription Charges.
+Credits may only be applied to Subscription Charges due for the Service specifically identified by FreshDesk when issuing the credit.
+Credits can only be used by You and are non-transferable.
+6.2 To the extent that You have been awarded credits, unless the instrument (including any coupon) states an earlier expiration date, these credits shall expire and no longer be redeemable twelve (12) months from the date the credit was issued.
+==========
+7 DATA PRIVACY AND SECURITY; CONFIDENTIALITY
+7.1 If You choose, or You are provided with, a user identification code, password or any other piece of information as part of Our security procedures, You must treat such information as confidential.
+You must not disclose it to any third party.
+==========
+We have the right to disable any user identification code or password, whether chosen by You or allocated by us, at any time, if in Our reasonable opinion You have failed to comply with any of the provisions of these Terms.
+7.2 Subject to the express permissions of these Terms, You and FreshDesk will protect each other’s Confidential Information from unauthorized use, access or disclosure in the same manner as each protects its own Confidential Information, but with no less than reasonable care.
+==========
+Except as otherwise expressly permitted pursuant to these Terms, each of us may use each other’s Confidential Information solely to exercise our respective rights and perform our respective obligations under these Terms and shall disclose such Confidential Information solely to those of our respective employees, representatives and agents who have a need to know such Confidential Information for such purposes and who are bound to maintain the confidentiality of, and not misuse, such Confidential Information.
+The provisions of this Section 7 shall supersede any non-disclosure agreement by and between You and FreshDesk entered prior to these Terms that would purport to address the confidentiality of Your Data and such agreement shall have no further force or effect with respect to Your Data, except to the extent any provisions thereof are intended or expressly stated to survive.
+==========
+7.3 FreshDesk will maintain commercially reasonable administrative, physical and technical safeguards to protect the security, confidentiality and integrity of Your Data.
+These safeguards may include encryption of Your Data in transmission (using SSL or similar technologies) as described further in Our Privacy Policy.
+==========
+7.4 You agree that FreshDesk and the service providers it utilizes to assist in providing the Service to You shall have the right to access Your Account and to use, modify, reproduce, distribute, display and disclose Your Data solely to the extent necessary to provide the Service, including, without limitation, in response to Your support requests.
+Any third party service providers We utilize will only be given access to Your Account and Your Data as is reasonably necessary to provide the Service and will be subject to confidentiality obligations.The FreshDesk Group may also access or disclose information about You, Your Account, Agents or End-Customers, including Your Data, in order to (a) comply with the law or respond to lawful requests or legal process; (b) protect FreshDesk Group’s or its customers’ or partners’ rights or property, including enforcement of these Terms or other policies associated with the Services; (c) act on a good faith belief that such disclosure is necessary to protect personal safety or avoid violation of applicable law or regulation.
+==========
+7.5 We collect certain information about You, Your Affiliates, Agents and End-Customers as well as Your and their respective devices, computers and use of the Service.
+We use, disclose, and protect this information as described in Our Privacy Policy, the then-current version of which is available at www.FreshDesk.com/privacy and is incorporated into these Terms.
+==========
+7.6 To the extent FreshDesk Processes any Personal Data on Your behalf in connection with use of the Service by You, Your Agents and/or End-Customers, FreshDesk and You hereby agree that You shall be deemed to be the data controller and FreshDesk shall be deemed to be the data processor as those terms are understood under the Directive (and any applicable national legislation implementing the Directive).
+By utilizing the Service, You consent, on behalf of You and Your Agents and End-Customers (and represent that You have the authority to consent on behalf of Your Agents and End-Customers) to the Processing of Your Data, including, without limitation, any Personal Data, within the FreshDesk Group and to other authorized service providers pursuant to these Terms and Our Privacy Policy within the European Economic Area, the United States and in other countries and territories.
+8.
+==========
+CANCELLATION AND TERMINATION
+8.1 You may elect to terminate Your Account and subscription to the Services at any time by clicking on the Account Settings link in the Admin page when You login to our Website, but You will remain liable for all charges accrued up to that time, including full monthly charges for the month in which You discontinued the Service.
+Unless Your Account and subscription to the Service is so terminated, Your subscription to the Service will renew for a Subscription Term equivalent in length to the then expiring Subscription Term.
+Unless otherwise provided for in any Form, the Subscription Charges applicable to Your subscription to the Service for any such subsequent Subscription Term shall be Our standard Subscription Charges for the Service Plan to which You have subscribed as of the time such subsequent Subscription Term commences.
+8.2 Unless agreed to otherwise in a Form referencing these terms, no refunds or credits for Subscription Charges or other fees or payments will be provided to You if You elect to terminate Your subscription to the Service or cancel Your Account prior to the end of Your then effective Subscription Term
+8.3FreshDesk strongly recommends You to export all Your Data before any termination or cancellation of Your Account.
+Following the termination or cancellation of Your subscription to the Service and/or Your Account, We reserve the right to delete all Your Data in the normal course of operation any time after the expiry of 14 days after the cancellation or termination of Your Account.
+Your Data cannot be recovered once it is deleted.
+==========
+8.4 If You terminate Your subscription to the Service or cancel Your Account prior to the end of Your then-effective Subscription Term or We effect such termination or cancellation, in addition to other amounts You may owe FreshDesk, You must immediately pay any then unpaid Subscription Charges associated with the remainder of such Subscription Term.
+This amount will not be payable by You in the event You terminate Your subscription to the Service or cancel Your Account as a result of a material breach of these Terms by FreshDesk, provided that You provide advance notice of such breach to FreshDesk and afford FreshDesk not less than thirty (30) days to reasonably cure such breach.
+8.5 FreshDesk reserves the right to modify, suspend or terminate the Service (or any part thereof), Your Account or Your and/or Agents’ or End-Customers’ rights to access and use the Service, and remove, disable and discard any of Your Data if We believe that You, Your Affiliates, Agents or End-Customers have violated these Terms.
+You will be liable to pay FreshDesk any fees outstanding or due until the date of termination.
+Unless legally prohibited from doing so, FreshDesk will use commercially reasonable efforts to contact You directly via email to notify You when taking any of the foregoing actions, and provide You with an opportunity to cure such breach within 15 days from notification by FreshDesk to You.
+FreshDesk shall not be liable to You, Agents, End-Customers or any other third party for any such modification, suspension or discontinuation of Your rights to access and use the Service.
+Any suspected fraudulent, abusive, or illegal activity by You, Agents or End-Customers may be referred to law enforcement authorities at Our sole discretion.
+==========
+FreshDesk shall not be liable to You or any third party for any modification, suspension or discontinuation of the Service.
+DISCLAIMER OF WARRANTIES
+THE WEBSITES AND THE SERVICE, INCLUDING ALL SERVER AND NETWORK COMPONENTS ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT ANY WARRANTIES OF ANY KIND TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, AND FRESHDESK EXPRESSLY DISCLAIMS ANY AND ALL CONDITIONS, REPRESENTATIONS, WARRANTIES OR OTHER TERMS, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+YOU ACKNOWLEDGE THAT FRESHDESK DOES NOT WARRANT THAT THE SERVICE OR WEBSITES WILL BE UNINTERRUPTED, TIMELY, SECURE, ERROR-FREE OR FREE FROM VIRUSES OR OTHER MALICIOUS SOFTWARE, AND NO INFORMATION OR ADVICE OBTAINED BY YOU FROM FRESHDESK OR THROUGH THE SERVICE OR WEBSITES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.
+THE CONTENT ON OUR WEBSITES IS PROVIDED FOR GENERAL INFORMATION ONLY.
+==========
+IT IS NOT INTENDED TO AMOUNT TO ADVICE ON WHICH YOU SHOULD RELY.
+YOU MUST OBTAIN PROFESSIONAL OR SPECIALIST ADVICE BEFORE TAKING, OR REFRAINING FROM, ANY ACTION ON THE BASIS OF THE CONTENT ON OUR WEBSITES.
+10.
+==========
+LIMITATION OF LIABILITY
+10.1 TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL FRESHDESK, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUPPLIERS OR LICENSORS BE LIABLE TO ANY PERSON FOR (A): ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, COVER OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOST PROFITS, REVENUE, SALES, GOODWILL, USE OR CONTENT, IMPACT ON BUSINESS, BUSINESS INTERRUPTION, LOSS OF ANTICIPATED SAVINGS, LOSS OF BUSINESS OPPORTUNITY) HOWEVER CAUSED, UNDER ANY THEORY OF LIABILITY, INCLUDING, WITHOUT LIMITATION, CONTRACT, TORT, WARRANTY, BREACH OF STATUTORY DUTY,NEGLIGENCE OR OTHERWISE, EVEN IF FRESHDESK HAS BEEN ADVISED AS TO THE POSSIBILITY OF SUCH DAMAGES OR COULD HAVE FORESEEN SUCH DAMAGES.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AGGREGATE LIABILITY OF FRESHDESK AND ITS AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, SUPPLIERS AND LICENSORS, RELATING TO THE SERVICES WILL BE LIMITED TO AN AMOUNT EQUAL TO TWELVE MONTHS OF THE SUBSCRIPTION FEE FOR THE SERVICE PRIOR TO THE FIRST EVENT OR OCCURRENCE GIVING RISE TO SUCH LIABILITY.
+THE LIMITATIONS AND EXCLUSIONS ALSO APPLY IF THIS REMEDY DOES NOT FULLY COMPENSATE YOU FOR ANY LOSSES OR FAILS OF ITS ESSENTIAL PURPOSE.
+11.
+==========
+INDEMNIFICATION
+11.1 FreshDesk will indemnify and hold You harmless, from and against any claim against You by reason of Your use of the Service as permitted hereunder, brought by a third party alleging that the Service infringes or misappropriates a third party’s valid patent, copyright, or trademark (an “IP Claim”).
+FreshDesk shall, at its expense, defend such IP Claim and pay damages finally awarded against You in connection therewith, including the reasonable fees and expenses of the attorneys engaged by FreshDesk for such defense, provided that (a) You promptly notify FreshDesk of the threat or notice of such IP Claim; (b) FreshDesk has or will have the sole and exclusive control and authority to select defense attorneys, defend and/or settle any such IP Claim; and (c) You fully cooperate with FreshDesk in connection therewith.
+If use of the Services by You, Your Affiliates, Agents or End-Customers has become, or in FreshDesk’s opinion is likely to become, the subject of any such IP Claim, FreshDesk may at its option and expense (a) procure for You the right to continue using the Service as set forth hereunder; (b) replace or modify the Service to make it non-infringing; or (c) if options (a) or (b) are not commercially and reasonably practicable as determined by FreshDesk, terminate Your subscription to the Services and repay You, on a pro-rated basis, any Subscription Charges previously paid to FreshDesk for the corresponding unused portion of Your Subscription Term.
+==========
+FreshDesk will have no liability or obligation under this Section 11.1 with respect to any IP Claim if such claim is caused in whole or in part by (i) compliance with designs, data, instructions or specifications provided by You; (ii) modification of the Service by anyone other than FreshDesk; or (iii) the combination, operation or use of the Services with other hardware or software where the Services would not by itself be infringing.
+The provisions of this Section 11.1 state the sole, exclusive and entire liability of FreshDesk to You and constitute Your sole remedy with respect to an IP Claim brought by reason of access to or use of the Service by You, Your Affiliates, Agents or End-Customers.
+11.2 You will indemnify and hold FreshDesk harmless against any claim brought by a third party against the FreshDesk Group, and their respective employees, officers, directors and agents arising from or related to use of the Service by You, Your Affiliates, Agents or End-Customers in breach of these Terms or matters which You have expressly agreed to be responsible pursuant to these Terms; provided that FreshDesk promptly notifies You of the threat or notice of such a claim.
+==========
+12 ASSIGNMENT; ENTIRE AGREEMENT; REVISIONS
+12.1 You may not, directly or indirectly, by operation of law or otherwise, assign all or any part of these Terms or Your rights under these Terms or delegate performance of Your duties under these Terms without FreshDesk’s prior consent.
+We may, without Your consent, assign Our agreement with You to any member of the FreshDesk Group or in connection with any merger or change of control of FreshDesk or the sale of all or substantially all of Our assets provided that any such successor agrees to fulfill its obligations pursuant to these Terms.
+Subject to the foregoing restrictions, these Terms will be fully binding upon, inure to the benefit of and be enforceable by the parties and their respective successors and assigns.
+==========
+12.2 These Terms, together with any Form(s), constitute the entire agreement, and supersede any and all prior agreements between You and FreshDesk with regard to the subject matter hereof.
+These Terms and any Form(s) shall prevail over the terms or conditions in any purchase order or other order documentation You or any Entity which You represent provides (all such terms or conditions being null and void), and, except as expressly stated herein, there are no other agreements, representations, warranties, or commitments which may be relied upon by either party with respect to the subject matter hereof.
+==========
+Notwithstanding the foregoing, additional terms may apply to certain features or functionality FreshDesk offers through the Services (the “Additional Terms”).
+In those instances, FreshDesk will notify You of such Additional Terms prior to the activation of these features or functionality and the activation of these features or functionality in Your Account will be considered acceptance of the Additional Terms.
+All such Additional Terms will be considered incorporated into these Terms when You or any Agent authorized as an administrator in Your Account activate the feature or functionality.
+Where there is a conflict between these Terms and the Additional Terms, the Additional Terms will control.
+12.3 We may amend these Terms from time to time, in which case the new Terms will supersede prior versions.
+Please read these Terms of use carefully before You start to use our Service or Websites, as these will apply to Your use of the Service and our Websites.
+Please check these Terms from time to time to take notice of any changes we made, as they will be binding on You.
+==========
+We will notify You not less than ten (10) days prior to the effective date of any such amendment and Your continued use of the Service following the effective date of any such amendment may be relied upon by FreshDesk as Your consent to any such amendment.
+FreshDesk’s failure to enforce at any time any provision of these Terms does not constitute a waiver of that provision or of any other provision of the Terms.
+13.
+==========
+SEVERABILITY; NO WAIVER
+If any provision in these Terms is held by a court of competent jurisdiction to be unenforceable, such provision shall be modified by the court and interpreted so as to best accomplish the original provision to the fullest extent permitted by applicable law, and the remaining provisions of these Terms shall remain in effect.
+The failure of FreshDesk to exercise any right provided for herein shall not be deemed a waiver of any right hereunder.
+14.
+==========
+EXPORT COMPLIANCE AND USE RESTRICTIONS; FEDERAL GOVERNMENT END USE PROVISIONS
+The Service and other Software or components of the Service which FreshDesk may provide or make available to You, Your Affiliates, Agents or End-Customers may be subject to U.S. (or other territories) export control and economic sanctions laws.
+You agree to comply with all such laws and regulations as they relate to access to and use of the Service, Software and such other components by You, Your Affiliates, Agents and End-Customers.
+==========
+You shall not access or use the Service if You are located in any jurisdiction in which the provision of the Service, Software or other components is prohibited under U.S. or other applicable laws or regulations (a “Prohibited Jurisdiction”) and You shall not provide access to the Service to any government, entity or individual located in any Prohibited Jurisdiction.
+You represent, warrant and covenant that (i) You are not named on any U.S. government (or other government) list of persons or entities prohibited from receiving U.S. exports, or transacting with any U.S. person, (ii) You are not a national of, or a company registered in, any Prohibited Jurisdiction, (iii) You shall not permit Agents or End-Customers to access or use the Service in violation of any U.S. or other applicable export embargoes, prohibitions or restrictions, and (iv) You shall comply with all applicable laws regarding the transmission of technical data exported from the United States and the country in which You, Your Affiliates, Agents and End-Customers are located.
+==========
+If You are a U.S. federal government department or agency or contracting on behalf of such department or agency, this Service is a “Commercial Item” as that term is defined at 48 C.F.R. §2.101, consisting of “Commercial Computer Software” and “Commercial Computer Software Documentation”, as those terms are used in 48 C.F.R. §12.212 or 48 C.F.R. §227.7202.
+Consistent with 48 C.F.R. §12.212 or 48 C.F.R. §227.7202-1 through 227.7202-4, as applicable, the Service is licensed to You with only those rights as provided under the terms and conditions of these Terms.
+15.
+==========
+RELATIONSHIP OF THE PARTIES
+The parties are independent contractors.
+These Terms do not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship among the parties.
+==========
+16.
+SURVIVAL
+Sections 1.2, 2 (Intellectual Property Rights), 5 (Billing, Plan Modification and Payments), 7 (Data Privacy and Security; Confidentiality),8 (Cancellation and Termination),9 (Disclaimer of Warranties), 10 (Limitation of Liability), 16 (Survival) and 18 (Governing Law and Dispute Resolution) shall survive any termination of our agreement with respect to use of the Service by You, Agents or End-Customers.
+Termination of such agreement shall not limit Your or FreshDesk’s liability for obligations accrued as of or prior to such termination or for any breach of these Terms.
+17.
+==========
+NOTICES; CONSENT TO ELECTRONIC COMMUNICATIONS
+You agree that we may send You communications or data regarding Your Account and the Service, including but not limited to: (a) notices about Your use of the Services, including any notices concerning violations of use; (b) updates; and (c) any other issues related to Your Account, via electronic mail.
+All notices to be provided by FreshDesk to You under these Terms may be delivered in writing (i) by nationally recognized overnight delivery service (“Courier”) or US mail to the contact mailing address provided by You on any Form; or (ii) electronic mail to the electronic mail address provided for Your Account.
+Our address for a notice to us in writing by Courier or US Mail is: FreshDesk, Inc., Attn: Chief Executive Officer, 1250 Bayhill Drive, Suite 315, San Bruno, CA 94066.
+All notices shall be deemed to have been given immediately upon delivery by electronic mail, or if otherwise delivered upon receipt or, if earlier, two (2) business days after being deposited in the mail or with a Courier as permitted above.
+18.
+==========
+GOVERNING LAW AND DISPUTE RESOLUTION
+18.1 These Terms shall be governed by the laws of the State of California without regard to conflict of laws principles.
+You hereby expressly agree to submit to the exclusive personal jurisdiction of the federal and state courts of the State of California, San Francisco County, for the purpose of resolving any dispute relating to the Terms or access to or use of the Service by You, Your Affiliates, Agents or End-Customers.
+18.2 Any dispute, claim or controversy arising out of or relating to these Terms or the breach, termination, enforcement, interpretation or validity thereof, including the determination of the scope or applicability of these Terms to arbitrate, shall be determined by arbitration in San Francisco, California before three arbitrators.
+The arbitration shall be administered by JAMS pursuant to its Comprehensive Arbitration Rules and Procedures and in accordance with the Expedited Procedures in those Rules.
+==========
+Judgment on the Award may be entered in any court having jurisdiction.
+This clause shall not preclude parties from seeking provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
+19.
+PUBLICITY
+You agree that We may identify You as Our customer on Our Websites and/or marketing collateral and use Your logo for that purpose, unless you have notified us otherwise by an e-mail to: corporate@freshdesk.com.
+20.
+==========
+DEFINITIONS
+When used in these Terms with the initial letters capitalized, in addition to terms defined elsewhere in these Terms, the following terms have the following meanings:
+Account: means any FreshDesk accounts or instances created by or on behalf of FreshDesk User or its Agents within the Service.
+Affiliate: means, with respect to a party, any entity that directly or indirectly controls, is controlled by, or is under common control with such party, whereby “control” (including, with correlative meaning, the terms “controlled by” and “under common control”) means the possession, directly or indirectly, of the power to direct, or cause the direction of the management and policies of such person, whether through the ownership of voting securities, by contract, or otherwise.
+==========
+Agent: means an individual authorized to use the Service through Your Account for such Service as an agent and/or administrator as identified through a unique login.
+API: means the application programming interfaces developed and enabled by FreshDesk that permits a FreshDesk User to access certain functionality provided by the Service.
+Confidential Information: means all information disclosed by You to FreshDesk or by FreshDesk to You which is in tangible form and labeled “confidential” (or with a similar legend) or which a reasonable person would understand to be confidential given the nature of the information and circumstances of disclosure.
+==========
+For purposes of these Terms, Your Data shall be deemed Confidential Information.
+Notwithstanding the foregoing, Confidential Information shall not include information that (a) was already known to the receiving party at the time of disclosure by the disclosing party; (b) was or is obtained by the receiving party by a third party not known by the receiving party to be under an obligation of confidentiality with respect to such information; (c) is or becomes generally available to the public other than by violation of these Terms; or (d) was or is independently developed by the receiving party without use of the disclosing party’s Confidential Information.
+Directive: means Directive 95/46/EC on the protection of individuals with regard to the processing of Personal Data and on the free movement of such data.
+==========
+Documentation: means any written or electronic documentation, images, video, text or sounds specifying the functionalities of the Service provided or made available by FreshDesk to You, Your Affiliates, Agents or End-Customers through the Service or otherwise.
+End-Customer: means any person or entity other than FreshDesk User or Agents with whom FreshDesk User or its Agents interact using the Service.
+Form: means any service order form executed or approved by You and FreshDesk with respect to Your subscription to the Service, which form may detail, among other things, the number of Agents authorized to use the Service under Your subscription to the Service and the Service Plan(s) applicable to Your subscription to the Services.
+FreshDesk: means FreshDesk Inc., a Delaware corporation, or any of its successors or assignees.
+In these Terms, FreshDesk may also be referred to as “We” and “Our.
+””
+FreshDesk Group: means FreshDesk together with its Affiliates.
+Other Services: means third-party products, applications, services, software, products, networks, systems, directories, websites, databases and information that the Service links to, or which You may connect to or enable in conjunction with the Services, including, without limitation, Other Services which may be integrated directly into Your Account.
+==========
+Personal Data: means data relating to a living individual who is or can be identified either from the data or from the data in conjunction with other information that is in, or is likely to come into, the possession of the data controller (as defined in the Directive).
+Processing/To Process: means any operation or set of operations which is performed upon Personal Data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction.
+==========
+Service: means the on-demand FreshDesk customer service solution and tools provided by FreshDesk, including, individually and collectively, Software, the API and any Documentation.
+Any new or modified features added to or augmenting or otherwise modifying the Service or other updates, modifications or enhancements to the Service (“Updates”) are also subject to these Terms and FreshDesk reserves the right to deploy Updates at any time.
+==========
+You understand and agree that the Services may be sold separately or as a bundle; and, that individual Services may be subject to separate and distinct Service Plans.
+Service Plan(s): means the service plan(s) and the functionality and services associated therewith (as detailed on the Websites) for which You subscribe with respect to any Agent.
+Software: means software provided by FreshDesk (either by download or access through the internet) that allows an Agent, Your Affiliates or End-Customer to use any functionality in connection with the Service.
+Subscription Term: means the period during which You have agreed to subscribe to the Service with respect to any individual Agent.
+Websites: means www.FreshDesk.com and other websites that FreshDesk operates.
+Your Data: means all electronic data, text, messages or other materials submitted to the Service by You, Your Affiliates, Agents and End-Customers in connection with Your use of the Service, including, without limitation, Personal Data.
+==========

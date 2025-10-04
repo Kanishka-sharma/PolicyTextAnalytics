@@ -1,0 +1,159 @@
+Privacy Policy
+ABTSHIELD project is an AI-based firewall, limiting the risks and a negative impact of bots and trolls on readers ’experience and advertisers’ campaigns efficiency, which are the primary source of business for publishers.
+It is an intelligent technology that automatically detects undesirable sources of traffic and allows publishers to gain an additional source of revenue within their existing advertising models.
+==========
+The provider of this solution is Edge NPD Sp z o.o. 22A Czeska Street 03-902 Warsaw, Poland (“the Provider”).
+The Provider believes in the right to privacy of all Internet users.
+This Privacy Policy describes the practices used by Provider for gathering, storing, using, and disclosing information that we collect from users of our website at [the name of the website] (“the Site”) and the ABTSHIELD project’s mobile and website products and services (our “Service”), as well as from our former, current, and prospective clients and individuals that communicate with us.
+==========
+This section also outlines some of the measures we take to protect that information.
+The use of information collected through our Service shall be limited to the purpose of providing the service for which our Clients have engaged ABTSHIELD project.
+==========
+For the purposes of GDPR, the Provider is the controller of your personal information, unless you are explicitly told otherwise.
+Site Data Collection
+The Provider is the sole owner of the information collected on our Site.
+==========
+The information may consist of both Personally Identifiable Information (“PII”) and Non-Personally Identifiable Information (“Non-PII”), and is collected in order to conduct business with current and prospective business clients and research on statistics of visiting our website.
+We do not sell or rent data collected via our Site to other parties, but we may provide it to third-parties as necessary to conduct our business operations and for the performance of our Services with our customers or as otherwise outlined in this policy.
+Addictive Mobility collects this data and uses it to provide requested information to prospective clients, to establish self-service advertiser and publisher accounts, and otherwise as necessary to conduct our business.
+==========
+Our Site may contain links to other websites.
+The Provider is not responsible for the privacy practices of these third-party websites.
+Data Collected by our Services
+The Provider collects data from across its Services as outlined below.
+==========
+This data, which may include:
+
+event/visit date/time;
+URL calling tracker link/additional descriptors/tags of events;
+packets related to HTTPS communication (like: tls hash, connection distance, tls version, uptime, ip address)
+HTTP headers (like temporary cookie ID, host name).
+RAW packets are downloaded from the TCP/IP and TLS stack of the server operating system.
+==========
+Selected fields of the network layer headers, transmissions, sessions and applications are processed in the meaning of the notation of the ISO/OSI network model.
+This data include anonymous identifiers associated with your device, does not identify you personally, as well as unique device ID, and may come from such sources like the apps that you use.
+==========
+We use this data along with our technology to perform a variety of tasks, such as (bot scoring based on traffic analysis).
+Information collected from cookies
+A cookie contains small amounts of data, often including an anonymous unique identifier that is sent to the user’s browser from a website and stored on the user computer’s hard drive.
+==========
+Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future.
+See “Deleting and blocking cookies” below for more information.
+==========
+We use cookies on the Site and Services to automatically collect information when users visit our Site/are using our Services to support for the identification algorithm of the device connecting to the Site/Service.
+These cookies do not provide ABTSHIELD with any personally identifiable information about an Internet user.
+The random user session ID carried through the cookie on the user’s machine is generally deleted after 365 days of user inactivity.
+Aggregated statistical information are retained as necessary to comply with our legal obligations, resolve disputes, and execute our agreements.
+==========
+In addition to our own data, ABTSHIELD uses data from third-party companies to provide the Services.
+We and these third party companies may use cookies, pixels tags, and other tools to collect activity information on our Services (as well as on third-party sites and services); we and these third-party companies use this information to reduce the risk and negative impact of bots and trolls on the experience of readers and the effectiveness of advertisers’ campaigns.
+==========
+Browser opt-out options
+Users can disable the cookies from their browsers.
+Please note that due to the common usage of cookies, disabling them may limit your access to a large number of websites.
+There is no one standardized way to remove cookies since different browsers clear cookies using different procedures.
+Most web browsers and advertising technologies offer a way of managing how your data is used and choices for opting out of certain types of advertising and marketing.
+Below are links to help you set your preferences.
+Google Chrome: http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647
+Firefox: http://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored#w_delete-cookies-for-a-single-site
+Internet Explorer: https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies
+Safari: https://support.apple.com/en-gb/HT201265
+Opera: https://help.opera.com/en/latest/web-preferences/
+Mobile Device Opt-out options
+Users may disable cookies in their mobile browser (typically under Tools -> Options -> Privacy, but this may vary between browser types and versions).
+==========
+Hosting
+The Services are hosted in European Union.
+If you access our website or the Services from any jurisdiction with laws or regulations governing personal data collection, use, and disclosure that differ from the laws of Poland, please be advised that through your continued use of the Services, you are transferring your Personal Information to EU and you consent to that transfer.
+==========
+Security
+The Provider takes steps to use generally accepted standards to protect the security of information that we collect.
+To that end, we have designed and deployed hardware, software, and networking solutions in an effort to reasonably secure and protect access to our systems and data.
+==========
+No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.
+Therefore, we cannot guarantee its absolute security.
+If you have any questions regarding security you can contact us at office@abtshield.com.
+==========
+Legal Disclaimer
+We may need to disclose information, including PII, when in our good-faith judgment we are required to do so by law, or when such action is necessary to comply with a current judicial proceeding, a court order or legal process.
+We may also transfer all or some of the data discussed in this policy, in connection with a of assets, bankruptcy, or other corporate change.
+==========
+Rights related to personal data
+You have the following rights with respect to your personal data:
+
+Access
+
+You can ask us to: confirm whether we are processing your personal data; give you a copy of that data; provide you with other information about your personal data such as what data we have, what we use it for, who we disclose it to, whether we transfer it abroad and how we protect it, how long we keep it for, what rights you have, how you can make a complaint, where we got your data from and whether we have carried out any profiling, to the extent that such information has not already been provided to you in this Policy.
+Rectification
+
+You can ask us to rectify inaccurate information.
+We may seek to verify the accuracy of the data before rectifying it.
+==========
+Erasure
+
+You can ask us to erase your personal data, but only where:
+
+it is no longer needed for the purposes for which it was collected;
+you have withdrawn your consent (where the data processing was based on consent);
+following a successful right to object (see “Objection” below);
+it has been processed unlawfully;
+or to comply with a legal obligation to which we are subject.
+We are not required to comply with your request to erase your personal data if the processing of your personal data is necessary:
+
+for compliance with a legal obligation;
+or for the establishment, exercise, or defense of legal claims.
+There are certain other circumstances in which we are not required to comply with your erasure request, although these two are the most likely circumstances in which we would deny that request.
+==========
+Restriction
+
+You can ask us to restrict (i.e. keep but not use) your personal data, but only where:
+
+its accuracy is contested (see “Rectification” above), to allow us to verify its accuracy;
+the processing is unlawful, but you do not want it erased;
+it is no longer needed for the purposes for which it was collected, but we still need it to establish, exercise, or defend legal claims;
+you have exercised the right to object, and verification of overriding grounds is pending.
+We can continue to use your personal data following a request for restriction, where: we have your consent; to establish, exercise or defend legal claims; or to protect the rights of another natural or legal person.
+Right to object
+
+You can ask us to stop processing your personal information, and we will do so
+
+to the extent that we are relying on our legitimate interests to use your personal information, you have the right to object to such use, unless we can either demonstrate compelling legitimate grounds for the use that override your interests, rights, and freedoms or where we need to process the data for the establishment, exercise or defense of legal claims, and
+where we are processing your personal information for direct marketing purposes.
+==========
+Portability
+
+You can ask us to provide your personal data to you in a structured, commonly used, machine-readable format, or you can ask to have it “ported” directly to another Data Controller, but only where our processing is based on your consent and the processing is carried out by automated means.
+Withdrawal of Consent
+
+You can withdraw your consent in respect of any processing of personal data which is based upon a consent which you have previously provided.
+If you wish to access personal information that you have submitted to us, to request the correction of any inaccurate information you have submitted to us, to request deletion of or object to processing of your information, please send your request to office@abtshield.com.
+We may ask you for additional information so that we can confirm your identity.
+==========
+We will take steps to try to resolve any complaint you raise regarding our treatment of your personal information.
+You also have the right to raise a complaint with the privacy regulator in your jurisdiction.
+==========
+Governing Law and Dispute Resolution
+This Privacy Policy, and all related matters are governed solely by the laws of Poland, excluding any rules of private international law or the conflict of laws which would lead to the application of any laws.
+Retention
+As a general rule, we retain your personal information for as long as necessary to fulfil the purposes for which it was collected, or as necessary to comply with our legal obligations, resolve disputes, maintain appropriate business records, and enforce our agreements.
+==========
+Our clients instruct us on how long to retain client data, which we handle as a data processor.
+We may retain personal data for longer where required by our regulatory obligations, professional indemnity obligations, or where we believe necessary to establish, defend, or protect our legal rights and interests or those of others.
+==========
+The NPII data collected by ABTSHIELD project in the above outlined process will be kept by Provider’s database for the period of one year only.
+After one year all data is routinely destroyed.
+==========
+This information is only used for the purpose of retargeting and in no way it is related to PII.
+Information about children
+The Site and Services are not intended for minors under the age of 16.
+We do not knowingly or specifically collect information about minors under the age of 16.
+If you believe we have unintentionally collected such information, please notify us at office@abtshield.com, so that we can delete this information from our servers.
+==========
+Further information
+This Privacy Policy may be updated from time to time.
+All changes will be posted on this Site.
+The Provider encourages users to periodically check back to this site for any changes to the privacy policy.
+Except when required by law, any modifications made to this Privacy Policy will not affect the privacy of data collected by the Provider prior to the effective date of the policy change.
+Contact us
+If you have questions or concerns regarding the way in which your personal data is being processed or this Policy, please contact us at office@abtshield.com.
+==========

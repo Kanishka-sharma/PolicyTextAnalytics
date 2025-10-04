@@ -1,0 +1,37 @@
+is.gd Terms & Conditions Of Use
+Forbidden activities
+is.gd may NOT be used creating shortened URLs that: -
+Are used in commercial email
+Are used for unsolicited advertising (spam) including email and forum posts
+Link to malicious content (phishing, viruses, trojans, adware, any other malware)
+Link to any form of child pornography
+Link to other URL shortening or redirection sites (these "chains" of links are often used to hide malicious usage)
+Link to material that infringes copyright
+In addition any use of is.gd and any content linked to must be legal in the UK (where is.gd is hosted).
+We reserve the right to remove any shortened URLs which we deem to have violated our terms and conditions, or that we believe violate the spirit of our terms or of fair usage (at our discretion).
+We may if we choose report use that is forbidden by our terms and conditions to the relevant governmental or law enforcement agencies, including relevant information such as the IP address of the link creator.
+==========
+We also reserve the right to block any abusers from using our service in future.
+In addition, shortened URLs may be removed retroactively if they later appear on any of the blacklists that is.gd consults.
+Excessive usage
+We ask that you limit usage of our service to "reasonable" levels.
+There is currently no fixed limit, but please don't open multiple concurrent connections from the same machine, or undertake usage so heavy it causes service issues for other users.
+We reserve the right to remove shortened URLs from our service and/or block the abuser from our service temporarily or permanently when usage exceeds levels we consider reasonable.
+==========
+Warranty and liability
+is.gd is provided as a free service, and as such carries no warranty of any kind.
+is.gd is not liable for any loss or problem you might suffer due to using the service.
+This includes losses in the event that the service stops operating, is unavailable or slow, suffers data loss, or any other issue which might be considered detrimental to you.
+is.gd Privacy Policy
+We do not collect any personally identifying information from users of this website.
+We store only the technical information necessary to provide our URL shortening service, such as the original long URLs.
+We may also store the IP addresses of computers using the is.gd service (and similar usage information such as web browser/resolution) for the purposes of identifying abuse of the service and tracking anonymous usage trends.
+==========
+This information will not be made available to third parties.
+We check submitted URLs and user IP addresses against blacklists to help prevent spam.
+These blacklists may be operated by third parties.
+==========
+URLs shortened by our website are not private and should not be treated as such.
+Third parties could easily guess the short URL that you are using, so you should not use is.gd to link to sensitive or secure data.
+Anonymous statistics on shortened URLs you create (such as number of visits to them, creation date etc.) are not treated as private and will be made available to anyone through the site.
+==========

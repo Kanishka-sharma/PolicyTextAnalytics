@@ -1,0 +1,241 @@
+TO THE EXTENT ALLOWED BY LOCAL LAW, NEITHER HP NOR ITS THIRD PARTY SUPPLIERS MAKES ANY OTHER WARRANTY OR CONDITION OF ANY KIND, WHETHER EXPRESS OR IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE.
+General Terms
+                            This HP Hardware Limited Warranty gives you, the customer, express limited warranty rights from HP, the manufacturer for the duration specified on the product description page.
+Please refer to the HP Web site for an extensive description of your limited warranty entitlements.
+In addition, you may also have other legal rights under applicable local law or special written agreement with HP.
+==========
+HP MAKES NO OTHER EXPRESS WARRANTY OR CONDITION WHETHER WRITTEN OR ORAL AND HP EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS NOT STATED IN THIS LIMITED WARRANTY.
+TO THE EXTENT ALLOWED BY THE LOCAL LAW OF JURISDICTIONS OUTSIDE THE UNITED STATES, HP DISCLAIMS ALL IMPLIED WARRANTIES OR CONDITIONS, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+FOR ALL TRANSACTIONS OCCURRING IN THE UNITED STATES, ANY IMPLIED WARRANTY OR CONDITION OF MERCHANTABILITY, SATISFACTORY QUALITY, OR FITNESS FOR A PARTICULAR PURPOSE IS LIMITED TO THE DURATION OF THE EXPRESS WARRANTY SET FORTH ABOVE.
+SOME STATES OR COUNTRIES DO NOT ALLOW A LIMITATION ON HOW LONG AN IMPLIED WARRANTY LASTS OR THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES FOR CONSUMER PRODUCTS.
+IN SUCH STATES OR COUNTRIES, SOME EXCLUSIONS OR LIMITATIONS OF THIS LIMITED WARRANTY MAY NOT APPLY TO YOU.
+FOR CONSUMER TRANSACTIONS, THE LIMITED WARRANTY TERMS CONTAINED IN THIS STATEMENT, EXCEPT TO THE EXTENT LAWFULLY PERMITTED, DO NOT EXCLUDE, RESTRICT, OR MODIFY BUT ARE IN ADDITION TO THE MANDATORY STATUTORY RIGHTS APPLICABLE TO THE SALE OF THIS PRODUCT TO YOU.
+==========
+This Limited Warranty is applicable in all countries and may be enforced in any country or region where HP or its authorized service providers offer warranty service for the same product model number subject to the terms and conditions set forth in this Limited Warranty.
+Under this HP Limited Warranty, products purchased in one country or region may be transferred to another country or region where HP or its authorized service providers offer warranty service for the same product model number.
+Warranty terms, service availability, and service response times may vary from country or region to country or region.
+Standard warranty service response time is subject to change due to local parts availability.
+If so, your HP authorized service provider can provide you with details.
+==========
+HP will not alter form, fit, or function of this HP product to make it operate in a country for which it was never intended to function for legal or regulatory reasons.
+HP is not responsible for any tariffs or duties that may be incurred in transferring the products.
+Transfer of the products may be covered by export controls issued by the United States or other governments.
+==========
+This Limited Warranty applies only to HP branded and Compaq branded hardware products (collectively referred to in this Limited Warranty as "HP Hardware Products") sold by or leased from Hewlett-Packard Company, its worldwide subsidiaries, affiliates, authorized resellers, authorized distributors, or country distributors (collectively referred to in this Limited Warranty as "HP") with this Limited Warranty.
+The term "HP Hardware Product" is limited to the hardware components and required firmware.
+The term "HP Hardware Product" DOES NOT include any software applications or programs; non-HP products or non-HP branded peripherals.
+All non-HP products or non-HP branded peripherals external to the HP Hardware Product—such as external storage subsystems, displays, printers and other peripherals—are provided "AS IS" without HP warranty.
+However, non-HP manufacturers and suppliers, or publishers may provide their own warranties directly to you.
+==========
+HP guarantees that the HP Hardware Products that you have purchased or leased from HP are free from defects in materials or workmanship under normal use during the Limited Warranty Period.
+The Limited Warranty Period starts on the date of purchase or lease from HP, or from the date HP completes installation.
+Your dated sales or delivery receipt, showing the date of purchase or lease of the product, is your proof of the purchase or lease date.
+==========
+You may be required to provide proof of purchase or lease as a condition of receiving warranty service.
+You are entitled to hardware warranty service according to the terms and conditions of this document if a repair to your HP Hardware Product is required within the Limited Warranty Period.
+==========
+Unless otherwise stated, and to the extent permitted by local law, new HP Hardware Products may be manufactured using new materials or new and used materials equivalent to new in performance and reliability.
+HP may repair or replace HP Hardware Products (a) with new or previously used products or parts equivalent to new in performance and reliability, or (b) with equivalent products to an original product that has been discontinued.
+Replacement parts are warranted to be free from defects in material or workmanship for ninety (90) days or, for the remainder of the Limited Warranty Period of the HP Hardware Product they are replacing or in which they are installed, whichever is longer.
+HP will, at its sole discretion, repair or replace any component or hardware product that manifests a defect in materials or workmanship during the Limited Warranty Period.
+All component parts or hardware products removed under this Limited Warranty become the property of HP.
+In the unlikely event that your HP Hardware Product has recurring failures, HP, at its sole discretion, may elect to provide you with (a) a replacement unit selected by HP that is the same or equivalent to your HP Hardware Product in performance or (b) to give you a refund of your purchase price or lease payments (less interest) instead of a replacement.
+==========
+This is your exclusive remedy for defective products.
+Exclusions
+                            HP DOES NOT WARRANT THAT THE OPERATION OF THIS PRODUCT WILL BE UNINTERRUPTED OR ERROR-FREE.
+==========
+HP IS NOT RESPONSIBLE FOR DAMAGE THAT OCCURS AS A RESULT OF YOUR FAILURE TO FOLLOW THE INSTRUCTIONS INTENDED FOR THE HP HARDWARE PRODUCT.
+This Limited Warranty does not apply to expendable or consumable parts and does not extend to any product from which the serial number has been removed or that has been damaged or rendered defective (a) as a result of accident, misuse, abuse, contamination, improper or inadequate maintenance or calibration or other external causes; (b) by operation outside the usage parameters stated in the user documentation that shipped with the product; (c) by software, interfacing, parts or supplies not supplied by HP; (d) improper site preparation or maintenance; (e) virus infection; (f) loss or damage in transit; or (g) by modification or service by anyone other than (i) HP, (ii) an HP authorized service provider, or (iii) your own installation of end-user replaceable HP or HP approved parts if available for your product in the servicing country or region.
+==========
+If you have purchased an HP Product that includes a rechargeable battery HP warrants that battery will be free from defects in material and workmanship for a period of one (1) year from the date of purchase of the HP Product that uses the battery.
+As with all batteries, the maximum capacity of the battery included in the HP Product will decrease with time or use.
+The battery warranty does not cover changes in battery capacity.
+==========
+Your battery is only warranted from defects in materials or workmanship resulting in failure.
+To determine whether your battery has had a warranted failure, you may be required to run an HP diagnostic test.
+Battery life is not warranted and will vary depending on product configuration and usage, including but not limited to product model, applications running, power management settings, and product features.
+If you have purchased a tablet notebook PC that includes a stylus or pen, HP warrants that the pen or stylus will be free from defects in material and workmanship for a period of one (1) year from the date of purchase of your tablet notebook PC.
+==========
+YOU SHOULD MAKE PERIODIC BACKUP COPIES OF THE DATA STORED ON YOUR HARD DRIVE OR OTHER STORAGE DEVICES AS A PRECAUTION AGAINST POSSIBLE FAILURES, ALTERATION, OR LOSS OF THE DATA.
+BEFORE RETURNING ANY UNIT FOR SERVICE, BE SURE TO BACK UP DATA AND REMOVE ANY CONFIDENTIAL, PROPRIETARY, OR PERSONAL INFORMATION.
+==========
+HP IS NOT RESPONSIBLE FOR DAMAGE TO OR LOSS OF ANY PROGRAMS, DATA, OR REMOVABLE STORAGE MEDIA.
+HP IS NOT RESPONSIBLE FOR THE RESTORATION OR REINSTALLATION OF ANY PROGRAMS OR DATA OTHER THAN SOFTWARE INSTALLED BY HP WHEN THE PRODUCT IS MANUFACTURED.
+HP is not responsible for any interoperability or compatibility issues that may arise when (1) products, software, or options not supported by HP are used; (2) configurations not supported by HP are used; or (3) parts intended for one system are installed in another system of different make or model.
+==========
+Exclusive Remedy
+                            TO THE EXTENT ALLOWED BY APPLICABLE LOCAL LAW, THESE TERMS AND CONDITIONS CONSTITUTE THE COMPLETE AND EXCLUSIVE WARRANTY AGREEMENT BETWEEN YOU AND HP REGARDING THE HP HARDWARE PRODUCT YOU HAVE PURCHASED OR LEASED.
+THESE TERMS AND CONDITIONS SUPERSEDE ANY PRIOR AGREEMENTS OR REPRESENTATIONS—INCLUDING REPRESENTATIONS MADE IN HP SALES LITERATURE OR ADVICE GIVEN TO YOU BY HP OR AN AGENT OR EMPLOYEE OF HP—THAT MAY HAVE BEEN MADE IN CONNECTION WITH YOUR PURCHASE OR LEASE OF THE HP HARDWARE PRODUCT.
+No change to the conditions of this Limited Warranty is valid unless it is made in writing and signed by an authorized representative of HP.
+==========
+Limitation of Liability
+                            IF YOUR HP HARDWARE PRODUCT FAILS TO WORK AS WARRANTED ABOVE, THE MAXIMUM LIABILITY OF HP UNDER THIS LIMITED WARRANTY IS EXPRESSLY LIMITED TO THE LESSER OF THE PRICE YOU HAVE PAID FOR THE PRODUCT OR THE COST OF REPAIR OR REPLACEMENT OF ANY HARDWARE COMPONENTS THAT MALFUNCTION IN CONDITIONS OF NORMAL USE.
+EXCEPT AS INDICATED ABOVE, IN NO EVENT WILL HP BE LIABLE FOR ANY DAMAGES CAUSED BY THE PRODUCT OR THE FAILURE OF THE PRODUCT TO PERFORM, INCLUDING ANY LOST PROFITS OR SAVINGS OR SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES.
+HP IS NOT LIABLE FOR ANY CLAIM MADE BY A THIRD PARTY OR MADE BY YOU FOR A THIRD PARTY.
+THIS LIMITATION OF LIABILITY APPLIES WHETHER DAMAGES ARE SOUGHT, OR A CLAIM MADE, UNDER THIS LIMITED WARRANTY OR AS A TORT CLAIM (INCLUDING NEGLIGENCE AND STRICT PRODUCT LIABILITY), A CONTRACT CLAIM, OR ANY OTHER CLAIM.
+==========
+THIS LIMITATION OF LIABILITY CANNOT BE WAIVED OR AMENDED BY ANY PERSON.
+THIS LIMITATION OF LIABILITY WILL BE EFFECTIVE EVEN IF YOU HAVE ADVISED HP OR AN AUTHORIZED REPRESENTATIVE OF HP OF THE POSSIBILITY OF ANY SUCH DAMAGES.
+THIS LIMITATION OF LIABILITY, HOWEVER, WILL NOT APPLY TO CLAIMS FOR PERSONAL INJURY.
+THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS.
+==========
+YOU MAY ALSO HAVE OTHER RIGHTS THAT MAY VARY FROM STATE TO STATE OR FROM COUNTRY TO COUNTRY.
+YOU ARE ADVISED TO CONSULT APPLICABLE STATE OR COUNTRY LAWS FOR A FULL DETERMINATION OF YOUR RIGHTS.
+==========
+Limited Warranty Period
+                            The Limited Warranty Period for an HP Hardware Product is a specified, fixed period commencing on the date of purchase and specified on the product description page.
+The date on your sales receipt is the date of purchase unless HP or your reseller informs you otherwise in writing.
+Options and Accessories Limited Warranty
+                            The Limited Warranty terms and conditions for most HP branded options and accessories (HP Options) are as set forth in the Limited Warranty applicable to the HP Option and included with the product.
+If your HP Option is installed in an HP Hardware Product, HP may provide warranty service for either the period specified in the warranty documents (HP Option Limited Warranty Period) that shipped with the HP Option or for the remaining warranty period of the HP Hardware Product in which the HP Option or Accessory is being installed, whichever period is the longer, but not to exceed three (3) years from the date you purchased the HP Option or HP Accessory.
+The HP Option Limited Warranty Period starts from the date of purchase from HP or an HP authorized reseller.
+Your dated sales or delivery receipt, showing the date of purchase of the HP Option, is your warranty start date.
+See your HP Option Limited Warranty for more details.
+==========
+Non-HP options are provided "AS IS."
+However, non-HP manufacturers and suppliers may provide warranties directly to you.
+==========
+Software Limited Warranty
+                            EXCEPT AS PROVIDED IN THE APPLICABLE SOFTWARE END-USER LICENSE OR PROGRAM LICENSE AGREEMENT, OR IF OTHERWISE PROVIDED UNDER LOCAL LAW, SOFTWARE PRODUCTS, INCLUDING ANY SOFTWARE PRODUCTS, FREEWARE OR OPEN SOURCE SOFTWARE (software provided under public license by third parties, including operating systems or applications) OR THE OPERATING SYSTEM PREINSTALLED BY HP ARE PROVIDED 'AS IS' AND WITH ALL FAULTS, AND HP HEREBY DISCLAIMS ALL OTHER WARRANTIES AND CONDITIONS, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE AND NON-INFRINGEMENT, ANY IMPLIED WARRANTIES, DUTIES OR CONDITIONS OF MERCHANTABILITY, OF FITNESS FOR A PARTICULAR PURPOSE, AND OF LACK OF VIRUSES.
+Some states/jurisdictions do not allow exclusion of implied warranties or limitations on the duration of implied warranties, so the above disclaimer may not apply to you in its entirety.
+==========
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL HP OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT, EVEN IF HP OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF THE REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+Some states/jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+==========
+The only warranty obligations HP has with respect to software distributed by HP under the HP brand name are set forth in the applicable end-user license or program license agreement provided with that software.
+If the removable media on which HP distributes the software proves to be defective in materials or workmanship within ninety (90) days of purchase, your sole remedy shall be to return the removable media to HP for replacement.
+==========
+It is your responsibility to contact non-HP manufacturers or suppliers for their warranty support.
+Customer Responsibilities
+                            In order to avoid the risk of charges for issues not covered by your limited warranty (issues that are not due to defects in materials and workmanship on HP Hardware Products), you will be asked to assist HP as follows:
+                            
+Verify configurations, load most recent firmware, install software patches, run HP diagnostics and utilities.
+==========
+Implement temporary procedures or workarounds provided by HP while HP works on permanent solutions.
+Use HP remote support solutions where applicable.
+HP strongly encourages you to use available support technologies provided by HP.
+If you choose not to deploy available remote support capabilities, you may incur additional costs due to increased support resource requirements.
+Cooperate with HP in attempting to resolve the problem using online chat, email, or telephone.
+This may involve performing routine diagnostic procedures, installing additional software updates or patches, removing third-party options, and/or substituting options.
+==========
+Make periodic backup copies of your files, data, or programs stored on your hard drive or other storage devices as a precaution against possible failures, alteration, or loss.
+Before returning any HP Hardware Product for warranty support or repairs, back up your files, data, and programs, and remove any confidential, proprietary, or personal information.
+Remove any external options or accessories that would be subject to loss during the repair or replacement process.
+==========
+Perform additional tasks as defined within each type of warranty service listed below and any other actions that HP may reasonably request in order to best perform the warranty support.
+Types of Hardware Warranty Service
+                            Listed below are the types of warranty support service that may be applicable to the HP Hardware Product you have purchased.
+All services may not be available in all countries or regions.
+==========
+Customer Self Repair Warranty Service
+                            HP products are designed with many Customer Self Repair (CSR) parts to minimize repair time and allow for greater flexibility in performing defective parts replacement.
+If during the diagnosis period, HP identifies that the repair can be accomplished by the use of a CSR part, HP will ship that part directly to you for replacement.
+You are required to co-operate with HP in attempting to resolve the problem over the telephone.
+==========
+This may involve performing routine diagnostic procedures, installing software updates or patches, removing third party options and/or substituting options.
+If assistance is required, you can contact HP technical support and a technician will help you using online chat, email, or telephone.
+==========
+HP specifies in the documentation shipped with a replacement CSR part whether a defective part must be returned to HP.
+In cases where it is required to return the defective part to HP, you must ship the defective part back to HP within a defined period of time, normally five (5) to fifteen (15) days.
+The defective part must be returned with the associated documentation in the provided shipping material.
+Failure to return the defective part may result in HP billing you for the replacement.
+With a Customer Self Repair, HP will pay all shipping and part return costs and determine the courier/carrier to be used.
+The classification of CSR parts may vary by country or region.
+==========
+Parts Only Warranty Service
+                            Your HP Limited Warranty may include a parts only warranty service.
+Under the terms of parts only service, HP will provide replacement parts free of charge.
+If HP carries out the repair, labor and logistics costs are at your expense.
+==========
+Advanced Unit Replacement Warranty Service
+                            Your HP Limited Warranty may include an advanced unit replacement warranty service.
+Under the terms of the advanced unit replacement warranty service, HP will ship a replacement unit directly to you if the HP Hardware Product you purchased is diagnosed as defective.
+On receiving the replacement unit, you will be required to return the defective unit back to HP, in the packaging that arrives with the replacement unit, within a defined period of time, normally five (5) to fifteen (15) days.
+==========
+HP will incur all shipping and insurance costs to return the defective unit to HP.
+Failure to return the defective unit may result in HP billing you for the replacement unit.
+==========
+Pick Up & Return Warranty Service
+                            Your HP Limited Warranty may include a pick up and return warranty service.
+Under the terms of pick up and return service, HP will pick up the defective unit from your location, repair it, and return it to your location.
+HP will incur all repair, logistics, and insurance costs for this type of service.
+Carry-in Warranty Service
+                            Your HP Limited Warranty may include a carry-in warranty service.
+Under the terms of carry-in service, you will be required to deliver your HP Hardware Product to an authorized service location for warranty repair.
+==========
+You must prepay any shipping charges, taxes, or duties associated with transportation of the product to and from the service location.
+In addition, you are responsible for insuring any product shipped or returned to an authorized service location, and you assume risk of loss during shipping.
+Mail-in Warranty Service
+                            Your HP Limited Warranty may include a mail-in warranty service.
+Under the terms of mail-in service, you will be required to ship your HP Hardware Product to an authorized service location for warranty repair.
+You must prepay any shipping charges, taxes, or duties associated with transportation of the product to the repair location.
+In addition, you are responsible for insuring any product you ship, and you assume risk of loss during shipping.
+HP will return the repaired product to you and incur all logistics and insurance costs to return the product to you.
+==========
+On-Site Warranty Service
+                            Your HP Limited Warranty may include an on-site warranty service.
+Under the terms of on-site service, HP may, at its sole discretion, determine if a defect can be repaired:
+                            
+Remotely
+By the use of a CSR part
+By a service call at the location of the defective unit
+
+                            
+                            If HP ultimately determines that an on-site service call is required to repair a defect, the call will be scheduled during standard office hours unless otherwise stated for the HP Hardware Product you purchased.
+Standard office hours are typically 8:00 AM to 5:00 PM (08.00 to 17.00), Monday through Friday, but may vary with local business practices.
+==========
+The response time may vary, and additional charges may be incurred, depending on travel constraints and distance from the nearest HP Support location or HP authorized service provider.
+To find the phone numbers, and in some cases maps, of the nearest HP Support location or HP authorized service provider, refer to the HP Web site at http://welcome.hp.com/country/us/en/wwcontact.html.
+In order to receive on-site support, you must:
+                            
+                            
+Have a representative present when HP provides warranty services at your site
+Notify HP if products are being used in an environment that poses a potential health or safety hazard to HP employees or subcontractors
+Subject to its reasonable security requirements, provide HP with sufficient, free, and safe access to and use of all facilities, information, and systems determined necessary by HP to provide timely support
+Ensure that all manufacturers labels (such as serial numbers) are in place, accessible, and legible
+Maintain an environment consistent with product specifications and supported configurations
+
+Initial Setup and Technical Support for Included Software
+                            Technical Support for your HP Software, HP pre-installed third-party software and third-party software purchased from HP, including initial setup support, is available from HP via multiple contact methods, including electronic media and telephone, for the period described on the product description page.
+==========
+Any exceptions to this will be specified in your End User License Agreement (EULA).
+Support includes assistance with:
+                            
+                            
+Answering your installation questions (how to, first steps, and prerequisites).
+Setting up and configuring the software and options supplied or purchased with HP Hardware Products (how-to and first steps.)
+Excludes system optimization, customization and network configuration.
+==========
+Interpreting system error messages.
+Isolating system problems to software usage problems.
+==========
+Obtaining HP Care Pack information or updates for software supplied or purchased with HP Hardware Products.
+Support does NOT include assistance with:
+                            
+                            
+Generating or diagnosing user generated programs or source codes.
+==========
+Installation of non-HP software.
+System optimization, customization, and network configuration.
+==========
+Freeware and Open Source Operating Systems and Applications
+                            HP does not provide technical support for software provided under public license by third parties ("Freeware" and “Open Source” software), including operating systems or applications.
+Technical support for Freeware and Open Source software provided with HP Hardware Products is provided by the Freeware or Open Source software vendor.
+For support contact information, please refer to the Freeware or Open Source operating system or application help, documentation, or other application support statement included with your HP Hardware Product.
+Contacting HP
+                            If your product fails during the Limited Warranty Period and the suggestions in the product documentation do not solve the problem, you can receive support by doing one of the following:
+                            
+                            
+                            Before calling HP or an HP authorized service provider please have the following information available:
+                            
+                            
+Product serial number, model name, and product model number
+Applicable error messages
+Add-on options
+Operating system
+Third-party hardware or software
+Detailed questions
+
+Back to top
+==========

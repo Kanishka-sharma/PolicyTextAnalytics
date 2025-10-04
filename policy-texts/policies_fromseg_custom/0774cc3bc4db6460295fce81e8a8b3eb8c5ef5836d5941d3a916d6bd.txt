@@ -1,0 +1,127 @@
+The privacy of the online visitors to our websites, of school districts and schools who purchase our products and services, of educators and students whose information we may receive on behalf of a customer, and of the individuals we otherwise interact with is a high priority for Frontline Technologies Group, LLC (“Frontline”, “we”, “us”, or “our”).
+Frontline provides a platform that provides customers with the best, most popular tools for employee management, all in one place.
+Built specifically for K-12 school districts and educators, our tools help you get out of the administrative tasks and instead focus on advancing student growth through your employees.
+We also offer solutions for educators to develop professionally and find employment opportunities.
+==========
+Information We Collect
+Information about Districts and Schools: When districts and schools purchase and use our products and services, we receive certain information about them and their users.
+We receive information when a district’s administrator, educator, or other district user registers with Frontline, or if the district user corresponds with us online.
+This information may include the individual’s name, school name, school district name, school email address and/or account name and password, phone number, role at the district, state the district is located in, and/or message content.
+We may also receive information about districts from third parties.
+We may retain information provided by a district if a district user sends us a message, posts content to our website or through our services, or responds to emails or surveys.
+==========
+Once a district begins using our services, we will keep records of activities related to the services.
+We use the above information, or share this information with our service providers, to, among other things, operate, maintain, and provide the features and functionality of the services; to monitor our services offerings; to communicate with our districts and website visitors; and promote our products and services to districts.
+As part of the services, districts and the district’s users also share personal information with Frontline.
+==========
+In these cases, the districts’ privacy policies govern the use of this personal information.
+The districts determine what information is shared with Frontline, and districts are responsible for determining whether information is ever shared with Frontline.
+Frontline receives information provided by districts related to teachers and other school employees, such as demographic information including the individual’s name, address, email address, and date of birth, social security number; credentials obtained and the granting institution; information about the individual’s employment with the educational organization; and system usernames and passwords.
+In order to deliver products and services to its customers, Frontline may share this information with third party service providers for business purposes, such as third parties who provide hosting services.
+Districts may also direct Frontline to share this information with other third parties who provide services to the district.
+Student Data: Frontline may have access to personally identifiable information about students (“Student Data”) in the course of providing its services to a district.
+We consider Student Data to be confidential and do not use such data for any purpose other than to provide the services on the district’s behalf.
+Frontline has access to Student Data only as requested by the district and only for the purposes of performing services on the district’s behalf, as directed by the district.
+The Student Data your educational organization shares with Frontline may include the following information about students and their guardians: demographic information including name, mailing address, email address, and date of birth; student education records including your student’s grades, class enrollment, and behavioral records; and health-related information required for Medicaid reimbursement.
+==========
+Information About You:  We receive information about you when you interact with us as an individual, such as looking for a teaching position or signing up to receive a newsletter.
+This information includes information that you voluntarily provide about yourself, such as name, address, telephone numbers, professional and educational details, and payment information, and information that we collect through technology, as described below.
+We may also receive information about you from third parties, such as the results of a background check if you apply for a job with us.
+==========
+We do not knowingly collect, solicit, or sell information concerning anyone under the age of 16.
+If you are under 16, please do not use this website.
+We may use, or share with our service providers, the personal information we collect for business purposes, including the following: to fulfill or meet the reason you provided the information; to provide, support, personalize, and develop our website, products, and services; to create, maintain, customize, and secure your account with us; to process your requests, transactions, and payments and prevent fraud; to respond to your inquiries, including to investigating and addressing your concerns and monitor and improve our responses; for testing, research, analysis, and product development, including to develop and improve our website, products, and services; or to respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.
+Information We Collect Through Technology: We automatically collect certain types of usage information when website visitors view our website or use our services.
+==========
+We may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Frontline identify you faster and enhance your navigation through the site.
+A cookie may also convey information to us about how you use the services (e.g., the pages you view, the links you click and other actions you take on the website) and allow us to track your usage of the services over time.
+We may collect log file information from your browser or mobile device each time you access the services.
+Log file information may include information such as your web request, Internet Protocol (“IP”) address, browser type, information about your mobile device, number of clicks and how you interact with links on the service, pages viewed, and other such information.
+We may employ clear gifs (also known as web beacons), which are used to anonymously track the online usage patterns of our users.
+In addition, we may also use clear gifs in HTML-based emails sent to our districts to track which emails are opened and which links are clicked by recipients.
+==========
+The information allows for more accurate reporting and improvement of the services.
+We may also collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the services.
+We may use the data collected through cookies, log files, device identifiers, and clear gifs information to remember information so that a user will not have to re-enter it during subsequent visits; provide custom, personalized content and information; to provide and monitor the effectiveness of our services; monitor aggregate metrics such as total number of visitors, traffic, and usage on our website and our services; diagnose or fix technology problems; and help users efficiently access information after signing in.
+You can disable or reject cookies through your web browser, but turning off cookies may adversely affect your use of Frontline’s website or services.
+Your continued use of Frontline’s website and/or services reflects your acceptance of the use of cookies, log files, device identifiers, and clear gifs.
+==========
+Disclosure to Third Parties
+Frontline discloses information as described in this Privacy Policy, including to service providers for business and commercial purposes.
+Beyond that, Frontline will disclose information to comply with a court order or other legal process served on us or assist government enforcement agencies; investigate or prevent suspected illegal activities or protect the security and integrity of Frontline Education; enforce this Privacy Policy, our Terms of Service, or other such binding agreements; take precautions against liability, investigate or defend against any third-party claims or allegations; or exercise or protect the rights, property, or personal safety of Frontline, its employees, customers, or others.
+How We Protect Your Information
+Data Protection: Frontline maintains strict administrative, technical and physical procedures to protect information stored in our servers.
+Access to information is limited (through unique account credentials) to those employees who require it to perform their job functions.
+Additionally, we use unique account identifiers which attribute each user to a specific account.
+We have many unit and integration tests in place to ensure these privacy controls work as expected.
+These tests are run every time our codebase is updated and even one single test failing will prevent new code being shipped to production.
+==========
+We use industry-standard Transport Layer Security (TLS) encryption technology to safeguard the account registration process, sign-in information and data transmitted to Frontline servers.
+We store and process data in accordance with industry best practices.
+This includes appropriate administrative, physical, and technical safeguards to secure data from unauthorized access, disclosure, and use.
+==========
+We will conduct periodic risk assessments and remediate any identified security vulnerabilities in a timely manner.
+Incident Response: We also have a written incident response plan, to include prompt notification of the districts and educators in the event of a security or privacy breach of protected information.
+Review or Deletion of District Records Maintained by Frontline: To review or update information concerning districts, schools, and their users, please contact your educational organization directly.
+Requests sent to Frontline seeking a copy of such records, or demanding that Frontline modify or delete any records that it maintains will be forwarded directly to the appropriate educational organization.
+Please note that even when records are modified or deleted from Frontline’s active databases, copies may remain in data backups as necessary to comply with business or regulatory requirements.
+==========
+Data Retention: We will not knowingly retain personal information beyond the time period required to support the authorized educational/school purposes.
+Following termination or deactivation of a district account, Frontline may retain profile information and content for a commercially reasonable time for backup, archival, or audit purposes, but any and all Student Data associated with the district will be deleted promptly.
+We may maintain anonymized or aggregated data, including usage data, for analytics purposes.
+Despite these precautions, no system can be completely secure and there remains a risk that unauthorized access or use, hardware or software failure, human error, or a number of other factors may compromise the security of your information.
+==========
+Links to Other Web Sites and Services
+Please remember that this privacy policy applies to the Frontline’s services and websites, and not to other websites or third-party applications, which may have their own Privacy Policies.
+You should carefully read the privacy practices of each third-party application before agreeing to engage with the application through the service.
+California Privacy Rights
+This section applies only to California residents who interact with Frontline as an individual.
+Certain individuals residing in California have specific rights regarding their Personal Information under the California Consumer Privacy Act of 2018 (CCPA).
+The following section describes how we collect, use and share Personal Information of California residents in operating our business, and their rights with respect to that Personal Information.
+==========
+Note that these rights are not absolute, and in certain cases, we may decline your requests concerning your Personal Information, as permitted by the CCPA.
+For purposes of this section, “Personal Information” has the meaning given in the CCPA, but does not include information exempted from the scope of the CCPA.
+Access to Specific Information
+If you have interacted with Frontline independently, you have the right to request and receive certain information about how we have collected and used your Personal Information over the past 12 months.
+Such information includes: the categories of Personal Information we collected about you; the categories of sources for the Personal Information we collected about you; our business or commercial purpose for collecting and/or selling the Personal Information; the categories of third parties with whom we share the Personal Information; if we disclosed your Personal Information for a business purpose, and if so, the categories of Personal Information received by each category of third-party recipient; and if we sold your Personal Information, the categories of Personal information received by each category of third party recipient.
+==========
+Deletion Request Rights
+You have the right to request that we delete the Personal information we collected from you.
+Non-Discrimination
+You are entitled to exercise the rights described above free from discrimination in the form of legally prohibited increases in the price or decreases in the quality of our services.
+Accordingly, we will not discriminate against you for exercising any of your rights under the CCPA.
+However, the exercise of your rights may impact our websites’ functionality.
+Exercising Your Rights
+To exercise your California privacy rights to information, access and deletion described above, please submit a verifiable consumer request to us by either:
+Calling us at: 800-722-6904
+Sending an email to: security@frontlineed.com
+Only you, or a person authorized to act on your behalf pursuant to the CCPA, may make a verifiable consumer request related to your Personal Information.
+In order to verify your request, we may ask you to confirm Personal Information you have provided to us.
+We reserve the right to confirm your California residence to process your requests and will need to confirm your identity to process your requests to exercise your information, access or deletion rights.
+==========
+As part of this process, government identification may be required.
+Consistent with California law, you may designate an authorized agent to make a request on your behalf.
+In order to designate an authorized agent to make a request on your behalf, you must provide a valid power of attorney, the requester’s valid government-issued identification, and the authorized agent’s valid government-issued identification.
+We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it.
+==========
+Personal Information We Collect, Use and Share
+We collect Personal Information when you provide it to us voluntarily, through your interaction with our websites as described above, or from third parties.
+We have collected the following categories of Personal Information in the past twelve (12) months: identifiers; customer / financial information and records; characteristics of protected classifications under California or federal law; commercial information; internet or other electronic network activity information; geolocation data; and professional or employment-related information.
+Personal Information does not include publicly available information or deidentified or aggregated consumer information.
+Use of Personal Information
+We may use or disclose the Personal Information we collect as described above or for one or more of the following business purposes: auditing related to a current interaction with a consumer and concurrent transaction; detecting security incidents, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity; debugging to identify and repair errors that impair existing intended functionality; performing services that you request, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing advertising or marketing services; undertaking internal research for technological development and demonstration; and undertaking activities to verify or maintain the quality of a service that is owned and controlled by Frontline, and to improve, upgrade, or enhance the services that are owned and controlled by Frontline.
+Disclosure of Personal Information to Third Parties
+In the past twelve (12) months, we have disclosed the categories of Personal Information described above for our business or commercial purposes to service providers and third parties with whom you authorize or direct us to share your information.
+We have not sold Personal Information in the preceding twelve (12) months.
+==========
+Updates to this Privacy Policy
+We may update or modify this Privacy Policy to reflect changes in the way Frontline maintains, uses, shares, or secures your information.
+Please check this Policy each time you interact with our systems to ensure that you are aware of any revisions.
+How to Contact Us
+If you have questions about this Privacy Policy, please contact us by email, telephone, or postal mail:
+Email:  security@frontlineed.com
+Address:
+1400 Atwater Drive
+Malvern, PA 19355
+Updated 12/31/2019
+==========

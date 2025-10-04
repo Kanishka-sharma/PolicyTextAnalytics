@@ -1,0 +1,185 @@
+Smart (“Smart”, “our”, “us”, “we”) is a ad monetization platform, Supply Side Platform (“Platform”) providing programmatic buyers with exclusive access to high quality premium publisher (“Clients”) inventory, i.e. the websites you are visiting and/or services you are using.
+As an independent, publisher-focused platform, we help our Clients monetize their websites (“Services”) so that they can continue offering users (“Users”, “you”, “your”) content.
+==========
+Our technology gathers User information to optimize the delivery of digital advertising to you.
+We use this information to effectively display ads on the devices you are using to deliver, tailor advertising to you, when permitted and for statistical reporting and analytics purposes, as explained below.
+Smart AdServer is located at 66 rue de la Chaussée d’Antin, 75009 Paris, France.
+==========
+If you have any questions regarding privacy, you can contact us at privacy@smartadserver.com.
+The purpose of this Privacy Policy is to explain what information we gather, for which purposes, how we use that information and what we do to protect it.
+This policy provides details about choices you can make with regards to how we gather and use information about you (“Personal Data”).
+This Privacy Policy applies when we collect your Personal Data when navigating on the websites of our Clients using our Services.
+For more information regarding the processing of your Personal Data when navigating on our corporate website please read our Corporate Privacy Policy.
+For more information on the cookies used when navigating on our corporate website, please check our Cookie Policy.
+Smart uses technologies like cookies, tags, and mobile SDKs to collect the data and store it on a user’s device.
+Cookies are small text files that contain a string of characters, stored in the user’s device.
+They allow us to recognize and remember the user’s browser, preferences and other information.
+The Smart tag is a small piece of code that is inserted into a Client’s website source code, which allows them to have access and manage our services.
+An SDK, or Software Development Kit, is the software used by our Clients to integrate Smart to their mobile application (iOS and Android).
+==========
+Web beacons are used to help our Clients understand how visitors interact with their websites.
+Pixel tags are transparent images, iFrames, or JavaScript that are placed on a site.
+The use of a pixel tag allows a website to measure the actions of the visitor opening the page that contains the tag.
+==========
+When navigating on our Client’s websites, mobiles and/or application or any connected devices (including connected TV) we may collect:
+your IP address;
+cookie information, for example your unique browser ID;
+technical information about the device: browser, operating system, screen size;
+information about the geographic location of the device when it accesses a website;
+pseudonymous ID of audience segmentation (if the website uses this type of system);
+information about other identifiers assigned to the device (IDFA, AAID);
+information about the user’s activity on the device, including web pages and mobile apps visited or used.
+Please note that as part of our Services we do not collect any information that could directly identify you.
+==========
+This means we do not know who you are.
+We do not know your name, your address, your place of work, your date of birth, your email address, or your phone number.
+We do not collect sensitive information (such as your religious affiliation, political opinions or health details).
+==========
+We do not create segments to specifically target children under 16 years old.
+For which purposes and on which grounds will Personal Data be processed?
+1.
+==========
+Purposes
+Smart does not receive, collect or process information unless it is used for the following purposes:
+to perform our Services to our Clients, including providing, operating, managing, maintaining and enhancing our Platform;
+to improve our performance;
+to perform interest-based advertising and increase the relevancy of the ads being displayed to you;
+to perform contextual advertising;
+to perform optimization in respect to a campaign, including to limit the number of times you see a particular ad;
+to customize ads to a particular location;
+to show ads related to the content of the concerned web page;
+to report aggregated statistics (for example, to understand the effectiveness of an online advertising campaign);
+to secure, amend and improve our Services;
+to detect and prevent fraud and/or any other fraudulent activity
+2.
+Legal Grounds
+When we are operating as a data controller, meaning that we determine the purposes and the means of the processing, we rely on:
+i) user consent, if required; or
+ii) our legitimate interests to
+technically serve contextual ads on your device ;
+to detect and prevent any fraudulent activity.
+==========
+When we are operating as a data processor, we are processing the data on behalf of our Clients based on their instructions.
+Therefore, they are accountable for the establishment of an appropriate legal basis for the processing of the data.
+==========
+You can find this information in their own Privacy Policy available on their website.
+To whom do we provide your Personal Data?
+Who can have access to your Personal Data?
+We may share information, including Personal Data, to our affiliates and with trusted third parties that provide services for Smart, such as hosting and internet connectivity, Demand-Side Partners (DSP), third-party data providers or advertisers.
+When permitted we may also share data with trusted business partners in order to perform or enhance our products and services.
+We may also disclose information if:
+we are required by national or international law or legislation to do so;
+we must comply with an authorized request or demand;
+it is necessary in order to defend our own rights or interests.
+==========
+Finally, we may transfer your data to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+How long do we store the data?
+The data we use to provide our Services is being kept up to thirteen months, depending on the cookie or tag storing it.
+For more details about the storage duration, please see the table below.
+==========
+We may also store your personal data contained in our logs for up to 40 days.
+When we are operating as a data controller, you can exercise your rights directly to us.
+Please note that we do process Personal Data on behalf of Publishers.
+In some cases, it may be appropriate for you to exercise your rights directly on the website of the Publisher of your choice.
+==========
+You may ask us at any time:
+to confirm your Personal Data is being processed and/or to provide you a copy of your Personal Data;
+to rectify your Personal Data if it is inaccurate or incomplete;
+to withdraw your consent;
+to erase your Personal Data, for instance if it is unlawfully processed or if you withdraw your consent;
+to opt out the process of any data;
+to restrict the processing of your Personal Data, (i) if the information is inaccurate, (ii) the processing is unlawful, (iii) you need us to retain the information after the retention for a legal claim, or (iv) you have objected to the processing and a verification of our legitimate interests is pending;
+to provide you with an electronic file of your Personal Data, or to transfer your Personal Data to a third party, if technically feasible (portability).
+Before sending any requests, please note and consider that it is not feasible for us to provide Personal Data that is tied to your identity.
+Instead, you can provide us with your Smart AdServer ID and we will be able to connect to this information with the Personal Data tied to this ID (see section: How to find your Smart AdServer ID below).
+==========
+Your request should be addressed to privacy@smartadserver.com.
+We will respond within one month.
+If permitted under applicable legislation, we may extend the response period to two months if such is necessary due to the complexity and number of requests.
+==========
+We will notify and explain the reasons for any extension to you.
+If we deny your request, we will inform you of the reasons for such denial.
+If you consider your rights have been infringed upon according to the current privacy regulation, or regarding the denial of a request, you may lodge a complaint towards your local competent supervisory authority.
+==========
+How to find your Smart AdServer ID
+You have the possibility to oppose the deposit of cookies and to have access to a list of your cookies by configuring your browser.
+Chrome: Follow the primary instructions under “Delete cookies from a site” section.
+==========
+Search for smartadserver.com.
+Click on it and search for the cookie named “pid”.
+==========
+You can find your ID number under “Content”.
+Mozilla: Follow the primary instructions under “Delete cookies for a single site”.
+==========
+Search for smartadserver.com.
+Search and click on the “pid” cookie.
+==========
+You can find your ID number under “Content”.
+Opera: Follow the instructions under Configuring cookie settings and “Manage cookies”.
+==========
+Search for smartadserver.com.
+Search and click on the “pid” cookie.
+==========
+You can find your ID number under “Content”.
+Safari: Follow the primary instruction under “Remove stored cookies and data”.
+==========
+Search for smartadserver.com.
+Search and click on the “pid” cookie.
+You can find your ID number under “Content” in the pid.
+The links above will also guide you for the management and erasure of cookies within your browser.
+==========
+This section of the Privacy Policy is aimed solely at providing relevant information to California residents under the California Consumer Protection Act (CCPA).
+When you are navigating on our Client’s websites and/or using their apps on your devices, we may collect Personal Information, notably via the use of cookies or other tracking technologies.
+CCPA Personal Information (CCPA PI) is defined by California law as information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with California consumers or households.
+When doing so we are acting as a Service Provider, providing adserving and real time bidding Services to the Clients.
+==========
+For information on the categories of CCPA PI we collect, the sources from which the CCPA PI is collected, the purposes of collecting those CCPA PI and with whom we may share those, please refer to the sections above.
+If you are California resident, the CCPA grants you several rights:
+The Right to request disclosure of CCPA PI a Business collects, uses, shares or sells about you
+We are committed to ensuring that you know what information we collect, for more information please refer to the ‘what data do we process’ section above or contact us directly at privacy@smartadserver.com
+The Right to request the deletion of your CCPA PI
+Upon your request, we will delete the CCPA PI we have collected about you, except for situations when that information is necessary for us to: provide you with a good or service that you requested; perform a contract we entered into with you; maintain the functionality or security of our systems; comply with or exercise rights provided by the law; or use the information internally in ways that are compatible with the context in which you provided the information to us, or that are reasonably aligned with your expectations based on your relationship with us.
+==========
+The Right to Opt-Out of ‘Sales’ of CCPA PI
+As we are a Service Provider, we do not sell your personal information, therefore you will need to exercise your CCPA right by directly requesting the Publisher on which behalf we process your Personal Information.
+The Right to Non-Discrimination for the exercise of a Consumer’s Privacy Rights
+We are committed to providing you control over your CCPA PI.
+If you exercise any of these rights explained in this section of the Privacy Policy, we will not disadvantage you.
+You will not be denied or charged different prices or rates for goods or services or provided a different level or quality of goods or services
+You may however opt-out and/or request the deletion of your Personal Information we process for our own benefit by directly requesting us.
+To exercise your right, please refer to the “opt-out and withdrawing of consent” section below or contact us at privacy@smartadserver.com.
+==========
+Transfer of Personal Data outside of the European Union
+Personal Data may be transferred to our affiliates or a partner located outside the EU/EEA including to third-countries for which the European Commission has not adopted an adequacy decision yet.
+With these partners, we ensure that appropriate safeguards are implemented to ensure an adequate level of protection including but not limited to the signature of standard contractual clauses adopted by the European Commission.
+==========
+Opt-out and withdrawing of consent
+For the sake of transparency, Smart has adopted a cookie opt-out policy, allowing each Internet user to opt out from our advertising network.
+This ensures that your browser will no longer be identified by our system.
+==========
+Please note that for us to acknowledge your desire to opt-out, one cookie will be placed on your device in order to ensure the performance of your opt-out.
+Moreover, this opt-out will only be available for the device on which it was created.
+If you wish to opt-out, click here.
+A blank page will open, confirming the opt-out process has been completed and Smart will no longer place cookies on your computer.
+==========
+You can withdraw your consent, as the case may be, at any time directly on the website.
+You can also accept or reject some or all cookies (for example, blocking all third-party cookies) directly on your browser by adjusting your browser settings.
+However, please note that some websites may not be accessible or function properly if you decide to opt-out from all cookies.
+==========
+If you do not know how to do this, the links below set out information about how to change your browser settings for some of the most commonly used web browsers:
+Chrome
+Safari
+Firefox
+Internet Explorer
+Microsoft Edge
+For mobile devices you can also refer to the following links:
+Chrome
+Safari
+How do we ensure the security of your personal data?
+In order to ensure and maintain the security of your Personal Data, we have implemented all technical and organizational measures at our disposal to prevent your data from being unintentionally and accidentally lost, used, altered, or made available to the public without your authorization.
+==========
+Should such an event occur, we have implemented measures to react promptly and to inform you and the competent supervisory authority when necessary.
+Amendment of this Privacy Policy
+We reserve the right to update this Privacy Policy from time to time in order to reflect any change to our products or services or to comply with changes in our legal and/or regulatory obligations.
+Please check this page for any updates.
+==========

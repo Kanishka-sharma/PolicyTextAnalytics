@@ -1,0 +1,94 @@
+As the regulations are in the process of changing, these are some useful things to know:
+The General Data Protection Regulation is an EU law, taking effect from 25th May 2018.
+It broadens the definition of personal data to include anything unique to an individual.
+It also restates the requirements to have a solid legal basis for processing personal data and being transparent to data subjects (i.e. people) about what processing is taking place.
+Personal Data is therefore an EU term, including things like name, email address, but also unique cookie IDs and IP addresses
+Personally-Identifiable Information (or PII) is a mainly US term, and includes name and email address, but does NOT include cookie IDs or IP address.
+(Note: this definition changes slightly for COPPA – see the separate section under Children’s Privacy below)
+The ePrivacy Directive, as it is known, requires websites to obtain consent for any cookies or similar technologies that are placed on a user’s device.
+There is an additional EU Regulation called the ePrivacy Regulation, which is expected to take effect in 2019-2020.
+Its effect is not considered in the policy below.
+==========
+When you visit a site operated by one of our Partners, we collect the following data:
+IP address (considered personal data under GDPR)
+Cookie ID (considered personal data under GDPR)
+User agent (not considered personal data, as it’s not unique to an individual)
+We will also log clickstream data related to the website URL, the ad you’ve seen, time of day, and the topics we’ve identified on the page.
+We may also combine data we have collected with behavioural topic information from selected third party companies, but we require those companies to be of good standing and comply with the same self-regulatory and legal practices that we do.
+In Europe, we require Advertisers and Digital Content Providers with whom we work to include this cookie within their legally-required cookie consent mechanisms.
+==========
+We’ve agreed with the majority of our Partners that they have a legitimate interest in either monetizing their site, or in building a relationship with their customers – and Exponential have a legitimate interest in assisting them in that goal.
+Please review the privacy policies of websites you visit to verify the legal basis in effect.
+We also work with Partners who may ask you for your consent to process data, and Exponential may be listed in the consent dialogue.
+Please send any questions on legal basis to privacy@exponential.com.
+By understanding what behaviours users display and which sites they visit and purchase on, we can try and show more relevant ads to users, improving the customer journey.
+==========
+We share the data with select companies to assist us in this goal.
+They fall into 3 categories:
+Type
+Data Controller or Processor?
+Companies
+Log storage, access
+Processor
+Google Cloud, AWS
+3rd Party Data Provider
+Processor
+Oracle
+Exchange
+Processor
+Google AdX, AppNexus, Index Exchange
+We also use the data, both cookie and non-cookie, for non-targeting reasons such as frequency capping, fraud prevention, reporting statistics and billing, within the permissions of the NAI/DAA Principles and EDAA Framework.
+==========
+Our tracking cookies are programmed to expire in ninety days from the last time we encounter you, at which point the web browser will delete them automatically.
+Click stream data is stored in log files, which are retained in our systems for 13 months (typically 2 months for troubleshooting and a further 11 months in case of billing or traffic fraud queries).
+If you would like to review what data we may hold about you, please contact us at privacy@exponential.com and you will be guided through the process.
+Please note that the only personal data we retain is a cookie id and IP address.
+We do not retain accessible log information for more than 60 days.
+==========
+Exponential complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union to the United States.
+Exponential has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+To learn more about the Privacy Shield program, and to view our certification, please visit privacyshield.gov.
+==========
+Exponential’s accountability for personal data it receives under the Privacy Shield and transfers to a third party is described in the Privacy Shield Principles.
+In particular, Exponential remains responsible and liable under the Privacy Shield Principles if third party agents or service providers that it engages to process the personal data on its behalf do so in a way that is inconsistent with the Privacy Shield Principles, unless Exponential proves that it is not responsible for the event giving rise to the damage.
+Exponential is sensitive to the issue of children’s privacy.
+==========
+Hence, our services are neither developed for, nor directed at, children.
+We don’t offer the targeting of advertising towards anyone under the age of 13.
+In accordance with COPPA, we do not work with websites known to us to be directed to children.
+Exponential allows advertisers to target users in certain health-related categories.
+A list of these categories may be found here.
+==========
+At the time of writing, we do not take into account the setting of the Do Not Track field in browsers.
+Exponential follows generally accepted industry standards to protect against unauthorized access to, destruction or disclosure of data.
+This includes undertaking physical, electronic and management activities to protect data integrity, access and use.
+==========
+Any data that is stored on our servers is treated as confidential and is not made generally available to the public.
+Our servers are protected by firewalls and are located in secure data facilities to further increase security.
+Please keep in mind, however, that despite these reasonable efforts to protect data on our servers no method of transmission over the Internet is guaranteed to be secure and therefore we shall not be liable for any breach of security by an outside party.
+==========
+We reserve the right to disclose personally identifiable information you have disclosed to us in response to judicial process or court order or to provide information to law enforcement agencies or in connection with an investigation of matters related to public safety, as permitted by law.
+In the event that another company acquires all or substantially all of the assets of our business through a consolidation, merger, asset purchase or other transaction, we reserve the right to transfer all data that is in our possession or under our control to such acquiring party.
+You may also provide us with personally identifiable information (such as your name, email address, physical address or telephone number) when you elect to contact us about this Privacy Policy or any other customer-service related matter.
+We will only utilize such data for the purpose of responding to your inquiry.
+==========
+However, we do reserve the right to retain an archival record of all such correspondence.
+We reserve the right to make changes to this Privacy Policy by posting an updated version on this page.
+The date on which the current Privacy Policy was posted will always be noted at the top of this page.
+Any change we make to our Privacy Policy will be made in compliance with applicable law.
+==========
+In compliance with the Privacy Shield Principles, Exponential commits to resolve complaints about our collection or use of your personal data.
+EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Exponential via privacy@exponential.com or using the mailing address below.
+Exponential has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States.
+If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit https://www.jamsadr.com/eu-us-privacy-shield for more information or to file a complaint.
+==========
+The services of JAMS are provided at no cost to you.
+Complaining parties may also, in absence of a resolution by Exponential and JAMS, seek to engage in binding arbitration through the Privacy Shield Panel.
+Any other complaints regarding our privacy practices, or related questions or comments regarding this Privacy Policy should be directed to privacy@exponential.com or mailed to:
+5858 Horton St, Suite 300, Emeryville.
+==========
+CA 94608.
+USA.
+Attn: Legal Department.
+==========

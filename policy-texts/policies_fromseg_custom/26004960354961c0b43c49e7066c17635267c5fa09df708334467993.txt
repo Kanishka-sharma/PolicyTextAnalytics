@@ -1,0 +1,336 @@
+Grabit Interactive Media Inc. dba Kerv Interactive PRIVACY POLICY
+When you use our services, you’re trusting us with your information.
+We understand this is a big responsibility and work hard to protect your information and put you in control.
+This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
+Effective May 30, 2018
+We build a range of services that help millions of people to explore and interact with the world in new ways.
+==========
+Our services include:
+Patented overlay video technology, which allows all objects within video assets to be interactive, shoppable, and linked out
+Overlay technology for banners, allowing all objects to be interactive and link out
+Hosting services for creative assets- both banner and video
+Products that are integrated into third-party apps and sites, like ads and embedded videos
+OPT-OUT ALIGNMENT AND DETAILS:
+MOBILE:
+From iOS 6.1 onward, users can now reset the Advertising Identifier on any iPhone, iPad, or iPod touch.
+This means you can basically throw all the anonymously gathered data about a device that is used to serve relevant ads out the window and start fresh, thereby removing any of the targeted data that has been accumulated and assigned to that Advertising ID.
+Open “Settings” then choose “General” followed by “About”
+Scroll all the way down and locate “Advertising”, from there tap on “Reset Advertising Identifier” and confirm the ID reset
+Once confirmed, iOS will regenerate a new random blank ID.
+==========
+You can also go the extra mile and turn iOS ad tracking off completely while you’re at that settings screen, which functions like a “Do Not Track” feature and prevents any of anonymous data accumulation from happening.
+What that will do is completely deny the ability for anonymous data to be gathered about the device to serve more relevant ads, outside of web cookies.
+DESKTOP:
+Cookies These little files hide in your computer so that your browser and websites can track your browsing sessions and save certain useful information, such as account names and passwords, for later retrieval.
+==========
+Although cookies may seem harmless overall, they can threaten your privacy if an attacker tries to use them maliciously.
+Because of that threat, most modern browsers make cookie storage easy to understand and control.
+They also make it simple to remove individual website cookies, or even to delete cookies from your computer entirely.
+Here’s how you can perform the latter task in some of the most popular browsers.
+How to delete Cookies in Google Chrome
+If you’re running Google Chrome version 14 or higher, click the wrench button in the upper-right corner of the Chrome window.
+==========
+From there, select Options.
+In the navigation pane of the Options page, click Under the Hood.
+Under the Privacy section, click Content Settings.
+Click the “All cookies and site data” button in the Content Settings window.
+How to delete Cookies in Firefox
+Make sure you’re running the latest version of the Firefox browser, and then select the Firefox menu.
+==========
+From there, select Options and then Options again.
+Click the Privacy tab to bring up your user-privacy options.
+==========
+Under the History section, click the Remove Individual Cookies link.
+Click the Remove All Cookies button to zap them.
+At the bottom of the Cookies window that appears, click the Remove All Cookies button to delete all cookies associated with your Firefox browser.
+How to delete Cookies in Safari
+Confirm that you’re running version 5 or later of Apple’s Safari browser, and then click the Gears menu in the upper-right corner of the Safari window.
+From there, select Reset Safari.
+==========
+In this window, check the bottom box, ‘Remove all website data’.
+Check the bottom box, labeled Remove all website data.
+You can uncheck everything else if you want to remove only cookies.
+==========
+Click the Reset button to eliminate all cookies associated with Safari.
+How to delete Cookies in Internet Explorer
+Upgrade to the latest version of Internet Explorer.
+Select the Tools menu from the Internet Explorer window, and click Delete Browsing History.
+==========
+In the Delete Browsing History window, check the box next to Cookies.
+You can uncheck everything else if you want to remove only cookies.
+From here you can choose which parts of your browsing history to erase.
+Click Delete to remove all cookies stored in Internet Explorer.
+Congratulations, you’ve successfully cleaned out your browser’s cookie cabinet.
+Although cookie files pose a potential threat to privacy, don’t forget that they can also improve your Web browsing by making it faster and more convenient.
+==========
+Reasons why you might want to reset the Advertising Identifier
+Keeping in mind that all of the accumulated data is anonymous, there isn’t some universally important reason to reset the Ad ID and by no means should it be considered standard procedure.
+Because the data is anonymized, the reasons to reset the ID tend to be fairly unique situations:
+The ads you are being served are tied to past activities that are no longer relevant to your interests
+You or your employer are particularly sensitive about privacy
+Your iOS device is company-owned, and you don’t want IT to (potentially) discover that you’re searching the web for things unrelated to work by having ads for unrelated stuff show up on the device
+You are transferring an iOS device to a new owner or family member, and you don’t want to go all out and reset to factory settings for some reason
+Of course, there are other reasons as well, but again it’s important to stress this isn’t some super important thing to think about for 99.5% of iOS users.
+For some historical background, the Advertising Identifier is a relatively new creation, and previously advertisers tracked anonymous data by the actual device UDID.
+Because the UDID is tied to hardware and not possible to reset, Apple created the Advertising ID as an alternative to the UDID, one which can be freely reset and directly controlled by the user much like cookies and browser history can be managed at any time.
+==========
+INFORMATION Grabit Interactive Media Inc. dba Kerv Interactive COLLECTS
+We want you to understand the types of information we collect as you use our services
+We collect information to provide better experiences across all produced content — from figuring out basic interests through interaction behavior, to more complex things like which ads or content you will find useful.
+For example, if you interact with content that has luxury cars, you may want to see more content and/or ads that have luxury cars.
+We also may use your IP address to determine your approximate location, so that we can serve you ads for a nearby food delivery service if you show interest or interaction with a local food service.
+==========
+The information Grabit Interactive Media Inc. dba Kerv Interactive collects, and how that information is used, depends on how you manage your browser and publisher level controls.
+When controls allow, we store the information we collect with unique identifiers tied to browser (chrome, firefox, etc), browser version (Chrome 66.4), platform (windows, mac, etc.), mobile versus desktop along with device operating system.
+This helps better curate content and products that you would actually be interested in interacting with and/or purchasing.
+We do not ever collect personal information, defined as your name, email address, or billing information.
+Information we collect as you use our services
+Your apps, browsers & devices
+We collect information about the apps, browsers, and devices you use when interacting with our technology.
+This helps us to provide features such as swiping versus clicking functionality when interacting with our video technology.
+==========
+The information we collect includes browser type, device type and settings, and operating system.
+A unique identifier is a string of characters that can be used to uniquely identify a browser, app, or device.
+==========
+Different identifiers vary in how permanent they are, whether they can be reset by users, and how they can be accessed.
+On other platforms besides browsers, unique identifiers are used to recognize a specific device or app on that device.
+For example, a unique identifier such as the Advertising ID is used to provide relevant advertising on Android devices and can be managed in your device’s settings.
+Unique identifiers may also be incorporated into a device by its manufacturer (sometimes called a universally unique ID or UUID), such as the IMEI-number of a mobile phone.
+For example, a device’s unique identifier can be used to customize our service to your device or analyze device issues related to our services.
+==========
+We also collect information about the interaction of your apps, browsers, and devices with our services, including IP address, crash reports, system activity, and the date, time, and referrer URL of your request.
+We also collect information about the interaction of your apps, browsers, and devices with our services, including IP address, crash reports, system activity, and the date, time, and referrer URL of your request.
+Your activity
+We collect information about your activity in our services, which we use to do things like retargeting content you might like.
+The activity information we collect may include:
+Videos you watch
+For example, we collect information about views and interactions with ads or embedded content, so we can provide aggregated reports to advertisers and publishers, like telling them whether we served their ad or content on a page and whether the ad was interacted with, and how deep that interaction was.
+Purchase activity if client pixels or macros are in place
+People with whom you communicate or share content if sharing features are utilized within the technology/services
+Activity on third-party sites and apps that use our services
+Your location information
+We collect information about your location when you use our services, which helps us offer features like driving directions for your weekend getaway or showtimes for movies playing near you.
+Your location can be determined with varying degrees of accuracy by:
+GPS
+IP Address
+Every device connected to the Internet is assigned a number known as an Internet protocol (IP) address.
+==========
+These numbers are usually assigned in geographic blocks.
+An IP address can often be used to identify the location from which a device is connecting to the Internet.
+The types of location data we collect depend in part on your device and account settings.
+For example, you can turn your Android device’s location on or off using the device’s settings app.
+==========
+In some cases, Grabit Interactive Media Inc. dba Kerv Interactive may also collect information about you from trusted partners, including marketing partners who provide us with information about potential customers of our business services, and security partners who provide us with information to.
+For example, information about security threats can help us notify you if we think your account has been compromised (at which point we can help you take steps to protect your account).
+==========
+We may also receive information from advertisers to provide advertising and research services on their behalf.
+For example, advertisers may upload data from their loyalty-card programs so that they can better understand the performance of their ad campaigns.
+We only provide aggregated reports to advertisers that don’t reveal information about individual people.
+==========
+We use various technologies to collect and store information, including cookies, pixel tags, local storage, such as application data caches, databases, and server logs.
+A cookie is a small file containing a string of characters that is sent to your computer when you visit a website.
+When you visit the site again, the cookie allows that site to recognize your browser.
+Cookies may store user preferences and other information.
+You can configure your browser to refuse all cookies or to indicate when a cookie is being sent.
+However, some website features or services may not function properly without cookies.
+==========
+A pixel tag is a type of technology placed on a website or within the body of an email for tracking certain activities, such as views of a website or when an email is opened.
+Pixel tags are often used in combination with cookies.
+An application data cache is a data repository on a device.
+It can, for example, enable a web application to run without an internet connection and improve the performance of the application by enabling faster loading of content.
+EVENTS BEING LOGGED
+Impression
+When the ad is loaded and starts playback
+Quartile 25%
+When the ad playback reaches 25% completion
+Quartile 50%
+When the ad playback reaches 50% completion
+Quartile 75%
+When the ad playback reaches 75% completion
+Quartile 100%
+When the ad playback reaches 100% completion
+Object Select
+When a user clicks on the video and saves a scene
+Frame Select
+When a user launches a scene from the carousel
+Auto-Populate Scene
+When a scene is added to the carousel automatically
+Scene Close
+When a scene is closed
+Roll Over
+When the user hovers over a hotspot
+Roll Over Click
+When a user clicks on a hotspot
+Shop Later Click
+The user clicks on the Shop Later button
+Brand Logo Click
+The user clicks on the Brand Logo
+Kerv Logo Click
+The user clicks on the “Powered by Kervit” watermark
+Carousel Scroll
+The user scrolls the scenes in the carousel
+Carousel Open
+When the user clicks the tab to open the carousel
+Carousel Close
+When the user clicks the tab to close the carousel
+SCHEMA OF COLLECTED DATA
+Contextual
+timestamp (timestamp of the record)
+hosturl (url the video was played on)
+Auctionid (auction id from our bidder)
+Deliverytype (tracks the difference between VAST and non-VAST delivery)
+Frame (frame number the video was on when the interaction was recorded)
+sceneid (frame number the video was on when the interaction was recorded)
+Assetlistindex (If interacting with an asset, the list that asset is part of)
+Assetlinkurl (If interacting with an asset, the URL of that asset)
+User
+usersessionid (internally assigned id for the user session)
+userip (ip address of the end user)
+platform (windows, mac, etc)
+browser (chrome, firefox…)
+browser version (number of browser version, like chrome 66.4)
+mobile (whether or not the record was mobile)
+Internal
+Advertiser ID
+Campaign ID
+Lineitem ID
+Creative ID
+Assetlist ID
+Mediameta ID
+Distribution ID
+Assetlistindex (If interacting with an asset, the list that asset is part of)
+Assetlinkurl (If interacting with an asset, the URL of that asset)
+Usersavedscenes (scenes this user had saved when the interaction was recorded)
+WHY Grabit Interactive Media Inc. dba Kerv Interactive COLLECTS DATA
+We use data to build better services
+We use the information we collect from all our services for the following purposes:
+Provide our services:
+We use your information to deliver our services in a more relevant way, like processing the objects that you interact with and buy for more relevant content recommendations or ads in the future.
+==========
+Maintain & improve our services:
+We also use your information to ensure our services are working as intended, such as tracking outages or troubleshooting issues that you report to us.
+And we use your information to make improvements to our services.
+For example, we use cookies to analyze how people interact with our services.
+And that analysis can help us build better products.
+For example, it may help us discover that it’s taking people too long to complete a certain task or that they have trouble finishing steps at all.
+We can then redesign that feature and improve the product for everyone.
+==========
+Develop new services:
+We use the information we collect in existing services to help us develop new ones.
+For example, understanding how people interact as we move them from an impression, to an object select, to a frame select, could help us come up with a new mid funnel service.
+==========
+Provide personalized services (including content and ads):
+We use the information we collect to customize our services for you, including providing recommendations, and personalized content.
+Depending on your settings, we may also show you personalized ads based on your interests.
+==========
+You may also see personalized ads based on information from the advertiser.
+If you shopped on an advertiser’s website, for example, they can use that visit information to show you ads.
+==========
+Measure performance:
+We use data for analytics and measurement to understand how our services are used.
+For example, we analyze data about your frequency and interactions with our services to optimize product design.
+And we also use data about the ads you interact with to help advertisers understand the performance of their ad campaigns.
+We use a variety of tools to do this, including Domo, Beeswax, and Google Analytics.
+==========
+Protect Grabit Interactive Media Inc. dba Kerv Interactive, our users, and the public
+We use the information to help improve the safety and reliability of our services.
+This includes detecting, preventing and responding to fraud, abuse, security risks, and technical issues that could harm Grabit Interactive Media Inc. dba Kerv Interactive, our users, or the public.
+Some examples of how we use your information to help keep our services safe and reliable include:
+Collecting and analyzing IP addresses and cookie data to protect against automated abuse.
+We use different technologies to process your information for these purposes.
+==========
+We use automated systems that analyze your content to provide you with things like personalized ads and content, or other features tailored to how you use our services.
+And we analyze your content to help us detect abuse such as spam, malware, and illegal content.
+==========
+We also use algorithms to recognize patterns in data.
+For example, Grabit Interactive Media Inc. dba Kerv Interactive can automatically target a user with specific content or service features based on interaction activity or lack thereof.
+==========
+We may combine the information we collect among our services and across your devices for the purposes described above.
+We’ll ask for your consent before using your information for a purpose that isn’t covered in this Privacy Policy.
+==========
+YOUR PRIVACY CONTROLS
+You have choices regarding the information we collect and how it’s used
+This section describes key controls for managing your privacy across 3rd party services.
+Grabit Interactive Media Inc. dba Kerv Interactive utilizes 3rd party sites and aligns with your preferences as they are set up with 3rd party opt-ins or outs.
+Privacy controls
+Activity Controls
+Decide what types of activity you’d like saved in your online accounts.
+==========
+For example, you can turn on Location History if you want traffic predictions for your daily commute.
+Grabit Interactive Media Inc. dba Kerv Interactive does not own these services so these are recommendations on how you can opt-in or out of data collection from 3rd parties.
+==========
+Ad settings
+Manage your preferences about the ads shown to you via browser or other online account settings.
+Some accounts or browsers allow you to input and modify interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services.
+==========
+Information you share
+Control whom you share information with through your online accounts.
+Your personal information.
+Manage your contact information, such as your name, email, and phone number within your online accounts.
+==========
+When you’re signed out, you can manage information associated with your browser or device, including:
+Signed-out search personalization: Choose whether your search activity is used to offer you more relevant results and recommendations through 3rd parties.
+Ad Settings: Manage your preferences about the ads shown to you on 3rd party sites and apps through online preferences.
+==========
+SHARING YOUR INFORMATION
+When you share your information
+Many of our services let you share information with other people, and you have control over how you share.
+For example, you can share videos via social sharing buttons.
+Remember, when you share information publicly, your content may become accessible through search engines.
+When Grabit Interactive Media Inc. dba Kerv Interactive shares your information
+We do not share your personal information with companies, organizations, or individuals outside of Grabit Interactive Media Inc. dba Kerv Interactive except in the following cases:
+For external processing
+We provide personal information to other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+For example, we use service providers to help us with customer support.
+For legal reasons
+We will share personal information outside of Grabit Interactive Media Inc. dba Kerv Interactive if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to:
+Meet any applicable law, regulation, legal process, or enforceable governmental request.
+==========
+Enforce applicable Terms of Service, including investigation of potential violations.
+Detect, prevent, or otherwise address fraud, security, or technical issues.
+==========
+Protect against harm to the rights, property or safety of Grabit Interactive Media Inc. dba Kerv Interactive, our users, or the public as required or permitted by law.
+We may share non-personally identifiable information publicly and with our partners — like publishers, advertisers, developers, or rights holders.
+==========
+If Grabit Interactive Media Inc. dba Kerv Interactive is involved in a merger, acquisition, or sale of assets, we’ll continue to ensure the confidentiality of your personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy.
+KEEPING YOUR INFORMATION SECURE
+We build security into our services to protect your information
+All Grabit Interactive Media Inc. dba Kerv Interactive products are built with strong security features that continuously protect your information.
+==========
+The insights we gain from maintaining our services help us detect and automatically block security threats from ever reaching you.
+And if we do detect something risky that we think you should know about, we’ll notify you and help guide you through steps to stay better protected.
+We work hard to protect you and Grabit Interactive Media Inc. dba Kerv Interactive from unauthorized access, alteration, disclosure, or destruction of information we hold, including:
+We use encryption to keep your data private while in transit
+We review our information collection, storage, and processing practices, including physical security measures, to prevent unauthorized access to our systems
+We restrict access to personal information to Grabit Interactive Media Inc. dba Kerv Interactive employees, contractors, and agents who need that information in order to process it.
+==========
+Anyone with this access is subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+COMPLIANCE & COOPERATION WITH REGULATORS
+We regularly review this Privacy Policy and make sure that we process your information in ways that comply with it.
+==========
+Data transfers
+Your information may be processed on servers located outside of the country where you live.
+Data protection laws vary among countries, with some providing more protection than others.
+Regardless of where your information is processed, we apply the same protections described in this policy.
+==========
+When we receive formal written complaints, we respond by contacting the person who made the complaint.
+We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of your data that we cannot resolve with you directly.
+==========
+ABOUT THIS POLICY
+When this policy applies
+This Privacy Policy applies to all of the services offered by Grabit Interactive Media Inc. dba Kerv Interactive.
+and services offered on third-party sites, such as advertising services.
+==========
+This Privacy Policy doesn’t apply to services that have separate privacy policies that do not incorporate this Privacy Policy.
+This Privacy Policy doesn’t apply to:
+The information practices of other companies and organizations that advertise our services
+Services offered by other companies or individuals, including products or sites that may include Grabit Interactive Media Inc. dba Kerv Interactive services, or be linked from our services
+Changes to this policy
+We change this Privacy Policy from time to time.
+We will not reduce your rights under this Privacy Policy without your explicit consent.
+==========
+We always indicate the date the last changes were published, and we offer access to archived versions for your review.
+If changes are significant, we’ll provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).
+ARCHIVED VERSIONS
+Previous Version
+==========

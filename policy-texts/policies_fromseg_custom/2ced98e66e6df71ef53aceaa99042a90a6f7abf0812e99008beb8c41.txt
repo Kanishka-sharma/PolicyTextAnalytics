@@ -1,0 +1,56 @@
+The Wayback Machine - https://web.archive.org/web/20170419203006/https://matterport.com/cookie-policy/
+Last Updated: January 20, 2016
+For end users of this website (the “Site”) in the European Union, the following provisions supersede the corresponding provisions in the Matterport Privacy Policy:
+Information Collected With Cookies.
+Like most websites, we also use cookies on certain pages of our Site.
+Cookies make using the Internet easier by, among other things, saving your preferences for you.
+For example, a cookie lets our Site remember that you’ve registered, which allows us to speed up your future activities on our Site, and which allows you to enter your registration information less frequently while visiting our Site.
+Where we have your permission, we may also use cookies: (i) to deliver content tailored to your interests, as further described below; or (ii) to relate your use of our Site to personal information that you previously submitted, such as calling you by name when you return to our Site.
+If you do not consent to such cookies, or your browser is set to reject cookies, then your use of the Site may not be as efficient or as enjoyable as it would be if the cookie were enabled.
+The information that we collect with cookies allows us to improve our marketing and promotional efforts, to statistically analyze usage of our Site, to improve our content and product offerings and to customize our Site’s content, layout and services.
+The cookies (our own and third party) we use in connection with our Site are:
+Cookie Name/Type Purpose
+First Party Cookies
+PHPSESSID To store a simple message when a form is submitted that can be displayed on a different page.
+For example, if an order form is completed incorrectly, a message will be stored and presented to the user to indicate the submission errors.When a user submits a contact form, a message is stored and presented to the user thanking them for their inquiry.
+==========
+No personal information is stored in this cookie.
+Tracked information is retained for the current user session only.
+Shopping Cart (SESSID) To remember user shopping cart settings for the current session.
+No personal information is collected, and this tracked information is retained for 24 hours.
+==========
+Showcase (stored in HTML5 local storage) To turn on help by default only for new users of our Showcase application.
+This feature stores, through the use of the Mixpanel ID (see “Mixpanel” below) the number of times a user has seen the Showcase application.
+==========
+No personal information is collected, and this tracked information is retained indefinitely.
+Third Party
+Mixpanel (token stored in HTML5 local storage) To keep track of what users are doing so we can better understand product usage and make improvements to the product.
+==========
+Mixpanel generates a random ID number for every user that sees any of our products, and associates user activities on our Site and certain anonymous user information (such as browser version, user city location, user device type) with user ID.
+For logged-in users, we track activity in a way that may be mapped to that user’s account.
+Activity is only mapped to the randomly generated ID for non-logged-in users.
+==========
+Tracked information is retained indefinitely.
+Keen.io To keep track of how many users are visiting showcases, and where those users come from (e.g. referrer).
+==========
+This technology anonymously tracks usage by browser (including browser type and version) and location of the user, but it does not track information specific to the user.This analytics tracking technology does not set a cookie or other data on the user’s computer.
+Collected data is stored indefinitely.
+==========
+Google Analytics We use Google Analytics to help us improve our Site and understand the demographics and interests of our visitors.
+This data is used as part of a pool of anonymized visitors.
+==========
+We also use Google Analytics to collect anonymous information about user behavior on our Site for the purpose of serving our tailored advertising to users while viewing other areas of the Internet.
+Tracked information is retained for a period set by Google, which is less than one day.Cookies include _ga and _gat
+Share Buttons We use Facebook, Twitter, Google+, and LinkedIn cookies to enable users to share our content on social platforms via their personal accounts.
+No personal information is collected, and this tracked information is retained only during the active session.
+MailMunch To allow users to subscribe to various newsletters and programs on our Site via email.Information is stored to return a message when a submission is made, or a submission error is present.
+No personal information is collected, and this tracked information is retained only during the active session.
+==========
+Unbounce Unbounce cookies (ubpv, ubps) allow us to track sessions, clicks, and form completions on our Site pages at the try.matterport.com subdomain.
+No personal information is collected, and this tracked information is retained only during the active session.
+==========
+You have the choice of accepting or declining the use of cookies through a notice on the homepage when you first visit our Site or via your web browser.
+To ensure cookies are not placed, you can refuse to click the “I accept” box, or you can click the “I disagree” box, when you are presented with a notice on our homepage stating that cookies are in use.
+You can also set your browser to either reject all cookies, to allow only “trusted” websites to set them, or to accept only those cookies from those websites you are currently on.
+To learn how to delete or disable cookies in general, visit www.allaboutcookies.org/manage-cookies.
+==========

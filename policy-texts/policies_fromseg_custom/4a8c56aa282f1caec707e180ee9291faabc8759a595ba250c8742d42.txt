@@ -1,0 +1,443 @@
+Polar Privacy Policy
+
+
+
+
+
+
+
+
+
+Polar (“Polar Mobile Group Inc.”) operates various online services that may collect information/data for either our own commercial purposes, and/or at the direction and on the behalf of our customers.
+It is our policy to respect your privacy regarding any data we may collect, to afford you all legal rights to which you are entitled under applicable laws, to 
+employ adequate cybersecurity measures
+ when handling such data, and to handle and process such data lawfully.
+Below, our privacy policy is detailed in plain everyday language.
+==========
+It is Polar’s intent that you are fully aware of the collection and processing of any data you provide 
+us
+.
+Relevant Standards, Laws, and Regulations
+
+
+Below are direct links to standards, laws, and/or regulations that are applicable to our privacy and data policies:
+
+
+
+
+
+
+
+
+
+
+Changes to this policy
+
+
+Our Privacy Policy may change from time to time.
+We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice.
+==========
+What we do
+
+
+Polar is a technology provider to media publishers.
+Our 
+MediaVoice
+ platform, and any related product(s) and/or service(s), enables publishers to monetize their web traffic, primarily via advertising.
+What data we collect
+
+
+We collect data about the services that you use and how you use them, like viewing and interacting with ads and content:
+
+
+
+
+Log information
+
+When you use our services or view content provided by us and/or websites that utilize our services, we automatically collect and store certain data in server logs.
+This includes:
+
+
+
+
+details of how you used our service (for example: ads you viewed and/or clicked, pages you viewed, and for how long you viewed them).
+==========
+Internet protocol (IP) address.
+device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request, and referral URL.
+cookies that may uniquely identify your browser.
+Device information
+
+We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information).
+Location information
+
+When you use our services, we may collect and process information about your actual location.
+We use your IP address to determine your location, and do not attempt to establish your location with greater precision than the city-level.
+==========
+Third-party information
+
+We may receive information about you and your activities from third-party partners, such as information from a partner when we jointly offer services or from an advertiser about your experiences or interactions with them.
+This information is only used in conjunction with our services for purposes that the third-party outlined with you when they collected it.
+Unique application identifier
+
+
+
+Certain services include a unique application identifier.
+This identifier, and information about your installation (for example, the operating system type and application version number), may be sent to us when that service periodically contacts our servers.
+==========
+Cookies and similar technologies
+
+
+
+We and our partners use various technologies to collect and store information when you visit, and this may include using cookies or similar technologies to identify your browser or device.
+We also use these technologies to collect and store information when you interact with services we offer to our partners, such as advertising services or Polar features that may appear on other sites.
+This information may be linked with information about visits to multiple sites.
+==========
+We 
+do not collect
+ 
+any of the following personal information about you:
+
+
+
+Name
+
+
+Home or business address
+
+
+Telephone number
+
+
+Date & place of birth
+
+
+Government-issued identification number(s), such as social security number
+
+
+Gender
+
+
+Race
+
+
+Religious affiliations
+
+
+Political affiliations
+
+
+Physical, physiological, genetic, biometric, and/or mental attributes
+
+
+
+
+
+
+
+To the best of our knowledge, a small subset of the data we collect has special classifications under various standards, laws, and regulations:
+
+
+
+Some constitutes 
+personal information
+ as defined by the PIPEDA.
+Some constitutes 
+personally identifiable information
+ (PII) as defined by NIST Special Publication 800-122, such as your device information and IP address.
+Some constitutes 
+personal data
+ as defined by the GDPR, such as your randomly generated user ID and your IP address.
+Why we collect data
+
+
+We use the information we collect to:
+
+
+
+provide, maintain, protect, and improve our products and services;
+
+
+develop new products and/or services;
+
+
+protect Polar, Polar’s customers, and end users;
+
+
+tailor content and advertisements based on your habits and preferences.
+Our general guideline is to collect data only when it is necessary for the proper functioning of the product being used or the services being performed, or for the protection of such services (for example, to prevent fraud).
+==========
+When you contact Polar directly, we keep a record of your communication to help solve any issues you might be facing.
+We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
+We may combine personal information from one service with information from other Polar services.
+Your activity on other sites and apps may be associated with your information in order to improve Polar’s services and the ads delivered by Polar and/or our partners.
+==========
+We use aggregated information from all of our users to produce and publish trend reports and other relevant industry metrics/benchmarks.
+We 
+do not sell
+ any personally identifiable data to third parties.
+We will ask for your consent before using personal information for a purpose other than those that are set out in this Privacy Policy.
+==========
+Polar processes information on our servers in many countries around the world.
+We may process your information on a server located outside the country where you live.
+How we collect data
+
+
+Polar primarily collects data by sending AJAX HTTPS requests from the web page to our servers.
+These servers may be associated with any of our public domain names (or subdomains):
+
+
+
+aboutpolar.com
+
+
+mediaconductor.me
+
+
+mediaeverywhere.com
+
+
+mediavoice.com
+
+
+plrsrvcs.com
+
+
+polar.me
+
+
+polaracademy.me
+
+
+polarcdn.com
+
+
+polarcdn-engine.
+==========
+com
+
+
+polarcdn-meraxes.
+com
+
+
+polarcdn-pentos.
+com
+
+
+polarcdn-static.
+com
+
+
+polarcdn-terrax.
+==========
+com
+
+
+polarmobile.ca
+
+
+polarmobile.com
+
+
+poweredbypolar.com
+
+
+
+
+
+
+
+If employed, our sub-processors may also collect data via a similar mechanism.
+These servers may be associated with any of their public domain names (or subdomains):
+
+
+
+
+
+
+How long we retain data
+
+
+We normally retain any personally identifiable data for a period of 36 months, or until we receive and process a request for deletion from you.
+We may retain anonymized and/or aggregated data indefinitely.
+==========
+How we identify and authenticate you
+
+
+When you visit a website or app that makes use of Polar’s 
+MediaVoice
+ 
+platform, we may set a first party cookie.
+This cookie contains a randomly generated user ID that identifies your browser.
+This user ID is sent with tracking data we collect (see above: “
+What data we collect
+”).
+Your possession of this user ID is necessary in order for us to be able to link any data we have with you individually, both for routine operations (such as ad serving) and the exercise of data rights (should they apply).
+If you choose to delete Polar’s first party cookie, Polar has no means of recovering it.
+Subsequent visits will result in a new user ID being generated.
+==========
+Where we are
+
+
+Polar is a privately held Canadian company headquartered in Toronto, Ontario, Canada.
+We 
+have
+ offices in Toronto, Ontario, Canada; New York, NY, USA; London, England, UK; and Sydney, New South Wales, Australia.
+Our headquarters is located at the following address:
+
+
+
+
+
+
+156 Front Street West
+
+
+Suite 610
+
+
+Toronto, Ontario, Canada
+
+
+M5J 2L6
+
+
+
+
+
+
+Our data processing and 
+storage
+ takes place in Canada, although data exchanged with Polar over the Internet may (and often does) traverse networks and/or systems
+ 
+in other countries.
+==========
+We make use of various 
+Content Delivery Networks
+ (with worldwide locations) to handle web traffic and deliver content.
+On-the-fly access and use of data (for example, in order to serve an ad) may take place on a server located in any of the following countries:
+
+
+
+Canada
+
+
+United States
+
+
+United Kingdom
+
+
+Ireland
+
+
+Japan
+
+
+
+
+
+
+
+Polar’s policies and standards aim to be fully compliant with the Canadian 
+Personal Information Protection and Electronic Documents Act 
+(PIPEDA), as well as the European Union’s 
+General Data Protection Regulation
+ 2016/679 (GDPR).
+Who is accountable
+
+
+Polar’s team roster is available on online: 
+
+https://polar.me/company/team/
+
+
+
+
+
+
+
+Key management personnel regarding data policy, management, protection, and risk mitigation are listed below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Title/Role
+
+
+
+
+Name
+
+
+
+
+
+
+Chief Executive Officer
+
+
+
+
+Mr. Kunal Gupta
+
+
+
+
+
+
+Chief Financial Officer
+
+
+
+
+Mr. Andrew Shannon
+
+
+
+
+
+
+Vice President, Engineering
+
+
+
+
+Mr. Carlo Barrettara
+
+
+
+
+
+
+
+
+
+
+Polar’s Vice President, Engineering serves as its GDPR 
+Data Protection Officer
+.
+You can reach our team by sending an email to 
+
+support@polar.me
+
+.
+How to access your personal data
+
+
+Please contact our team via email at 
+
+support@polar.me
+
+ in order to access your data and/or exercise any other lawful data rights to which you are entitled.
+==========

@@ -1,0 +1,46 @@
+Leiki and Privacy
+Short version
+Our policy on privacy is simple and clear; identities of users are none of our business.
+Longer version 
+We don't track or store any data that can be used to identify a particular person; no name, address or phone number, no email address, user name or IP address is recorded by our service.
+Instead we keep our users totally anonymous.
+==========
+Only a random number stored in a cookie tells us that the browser who visited a page was the same browser as the one who visited another page yesterday.
+We have no idea who was using that browser.
+As we have no idea who is using our system, we don't have any kind of person registry of our users either.
+Many online services are very eager to get any kind of personal identifier they can, sometimes sneakily asking for email addresses, real names and even income levels.
+==========
+So why have we chosen to keep our users anymous?
+We think most users prefer it that way.
+We respect them.
+==========
+It makes our business more straightforward and life simpler.
+There are plenty of laws concerning person registries.
+We want to respect these laws.
+==========
+We don't just say "we're not evil", we actually are not  
+Customer sites
+Some of the sites that are our customers use registration and login of users, asking for personal information.
+For example webshops usually require registration and login before you can make a purchase.
+If you have given them the right to do so (by accepting terms of use), they can combine their person registry with our service.
+Our privacy policy remains the same in these cases: Leiki has no idea who you are.
+If there's any personal information it's all in the customer's system, not ours.
+==========
+Manage your profile
+Below are buttons to clear the anonymous profile associated with your browser or to disable our anonymous tracking.
+"Clearing your profile" means that all the information on interests associated with your browser is removed.
+This means that your interest profile will start to accumulate from scratch when you click on sites using our service.
+"Disabling anonymous tracking" means that interests associated with your browser will not be tracked anymore.
+If our customers use personal recommendations (e.g. on a service frontpage) they will not reflect your the interest profile associated with your browser anymore.
+Contextual recommendations which are based on the contents of the page you are viewing will work as before.
+Please note that disabling the personal recommendations will cause you to see less interesting content on our customer sites, with more need to use a search engine and a bigger chance of missing personally interesting articles.
+So even though we give you the choice, we don't recommend clicking this button.
+Leiki profile:
+Not found 
+ 
+
+
+Anonymous tracking:
+ON
+Disable
+==========

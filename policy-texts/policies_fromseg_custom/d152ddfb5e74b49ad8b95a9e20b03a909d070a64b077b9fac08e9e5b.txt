@@ -1,0 +1,81 @@
+Updated on January 12, 2016 - What’s new »
+What Are Cookies?
+Cookies are small data files that a web site you visit may save on your hard drive.
+They usually include an anonymous unique identifier.
+A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
+==========
+What Cookies and Similar Technologies Does Evernote Use?
+Evernote uses cookies and similar technologies to assist with functions such as user authentication, remembering user preferences, understanding how users use our Service, and managing and tracking the effectiveness of our marketing efforts.
+We also may include tracking pixels, which are small graphic images, in our email messages and newsletters to determine whether the messages were opened and the links were actually clicked.
+In some cases, as outlined below, third parties may also get the opportunity to set cookies.
+We describe in this document the cookies and similar technologies found on our Service.
+==========
+Please check back here periodically, as we may update this information from time to time.
+Functional Cookies
+Functional cookies are ones Evernote sets to enable the website to work as intended.
+These cookies are necessary to enable you to move around our web site and use its features.
+Without these cookies, we can’t provide services you have asked for, like processing an order in the Evernote Market, for example.
+==========
+We use other cookies to help recognize and remember you when you are logged into the Service so we can remember your settings and preferences, such as your language and region or your logged-in state.
+These cookies also may help us provide services you have asked for, such as watching a video or commenting on our user forum.
+These cookies do not track your browsing activity on non-Evernote websites.
+As described below, you may disable any of these functional cookies; but if you do so, then various functions of the web site may be unavailable to you or may not work as intended.
+==========
+Analytics
+We use cookies and similar tracking technologies to help us understand how you use our website, our mobile applications, our desktop clients, our browser extension products (such as Evernote Web Clipper and Evernote Clearly), and our Save to Evernote button.
+By providing us with information about how you interact with our website, apps and products, these tools help us learn how to make the Evernote experience even better and customize our communications with you.
+For example, these technologies can tell us things like how you arrived at the Evernote site, if you have visited the site before, how long you stay on the site, and which pages you visit.
+They also provide us with general information about where in the world you may be located.
+==========
+The following analytics technologies are in use:
+Google Analytics.
+To learn more about Google Analytics and your privacy, visit http://www.google.com/analytics/learn/privacy.html.
+To opt out of being tracked by Google Analytics when using our website, visit http://tools.google.com/dlpage/gaoptout.
+Chartbeat.
+To learn more about Chartbeat and your privacy, visit http://chartbeat.com/privacy/.
+==========
+Finally, we use a marketing automation service called Silverpop.
+Silverpop uses cookies to provide information on how you interact with our web site and marketing emails.
+Silverpop provides valuable information about your visit to Evernote web pages, completion of Evernote web forms and interactions with emails we send you.
+These cookies allow us to refine our marketing efforts and provide more relevant information to you.
+==========
+Advertising
+We collect a unique ad tracking identifier (the Advertising Identifier or “IDFA” on Apple devices and the Google Ad ID or “AID” on Android devices) from your device.
+These identifiers are unique to your device but you can reset them or limit their use through your device settings.
+These identifiers do not contain your name or email address.
+We use these ad tracking identifiers together with our analytics technologies in order to inform our targeted advertising initiatives.
+==========
+We contract with third-party advertising networks that use cookies and similar technologies to collect information about your visits to and actions on certain pages of Evernote.com, your use of the Evernote applications, and whether you open certain emails we send you.
+We do this in order to serve advertisements for relevant Evernote products and services to you later, such as when you are on certain third-party sites, and to measure the performance of our messages.
+We do not share your personal information (i.e., your name or email address) or Content with a third party as part of this process.
+You may opt out of these targeting and advertising cookies at any time by visiting the Network Advertising initiative opt-out page, where you can select to opt out of some or all third-party advertising networks.
+Social Media Features
+Our web site uses social media features (“Social Features”) provided by companies and services such as Facebook, Twitter, Google+, YouTube, LinkedIn and others (depending on what country you’re in) to enable you to share information with these channels.
+The Social Features are identified on our web site by our display of the companies’ logos.
+==========
+These cookies are owned and controlled by third parties, and therefore the third parties – and not Evernote – are responsible for their use.
+As such, we can't guarantee that we have listed every cookie you might get from a third party since a third party could change these cookies at any time as their needs change.
+When you visit a page on the Evernote web site that contains Social Features, your browser establishes a direct connection to the applicable social network’s servers.
+The Social Features inform the social networks what pages you have accessed on Evernote’s site, and, if you are logged into the social network, your visit may be logged to your account on that service.
+==========
+For example, if you click the Facebook “Like” button, that information is transmitted from your browser directly to Facebook and stored by them.
+Even if you are not logged into the social network, and do not click on a Social Feature on the Evernote site, there is still a possibility that a Social Feature can transmit your IP address and cookie information to the operator of the social network.
+We will not transmit information regarding your account contents to such social networks.
+For information on the purpose and scope of data processing by a social network, as well as your options for protecting your privacy, please review the appropriate social network's privacy policy.
+==========
+For your convenience, below are links to the most commonly used Social Features you’ll see on the Evernote site.
+Facebook: https://www.facebook.com/about/privacy
+Google+ and YouTube: http://www.google.com/policies/privacy
+Twitter: http://twitter.com/privacy
+LinkedIn: http://www.linkedin.com/static?key=privacy_policy
+Additional Social Features on our Russian-language site are VK, Odnoklassniki, LiveJournal, My.Mail.Ru and LiveInternet (no terms or privacy policy available).
+An additional Social Feature on our Japanese-language site is Hatena.
+==========
+How Do I Turn Off Cookies or Similar Technologies?
+You can configure your browser to accept cookies, reject cookies or notify you when a cookie is being used.
+However, if you configure your browser to reject cookies, you may not be able to use Evernote products or services that require you to sign in or take advantage of all the features of the Evernote Service.
+In addition, information at the links above can help you disable specific cookies related to web site performance and marketing.
+If you do not want to receive tracking pixels, you will need to disable HTML images in your email client, but that may affect your ability to view images in other email that you receive.
+http://google.com/settings/ads
+http://www.networkadvertising.org/managing/opt_out.asp
+==========

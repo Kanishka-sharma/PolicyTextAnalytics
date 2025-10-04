@@ -1,0 +1,145 @@
+About RxList
+Frequently Asked Questions:
+Q.  Why does your RxList search 
+                    find drug names I was not looking for?
+A.
+The search uses 'fuzzy' logic 
+                    and attempts to match patterns similar to your input assuming 
+                    you may not know how to spell the drug name you're searching 
+                    for.
+If you are certain of your spelling, an asterisk (*) 
+                    placed in the search string (such as prozac*) will turn off 
+                    the fuzzy logic feature and the search will perform exact 
+                    pattern matches only.
+Q. I went to your advanced search 
+                    page and found several different search boxes, what's the 
+                    difference?
+A.  Let's list and describe the 
+                    5 searches found on the advanced search 
+                    page:
+
+
+
+RxList Search: 
+                      Search the RxList database for brand name, generic name 
+                      and pharmacologic category.
+==========
+Many of the most popular entries 
+                      have links to professional and/or patient oriented material.
+Keyword 
+                      Search: Search the body of the professional monographs 
+                      and the RxList Alternatives content for keywords such as 
+                      interactions, side effects, foreign brand names, etc.
+RxList-ID 
+                      (Imprint) Search:  Many tablets and capsules 
+                      have alphanumeric characters printed on them for identification.
+Use this search to identify by the characters printed (imprint 
+                      codes) on tablets and capsules.
+==========
+Drug FAQ's/Patient 
+                      monographs: Use this search to find drug information 
+                      written in plain English.
+Search Medical 
+                      Dictionary: RxList offers the full Taber's Medical 
+                      Encyclopedia of more than 53,000 medical terms.
+Q.
+How can I check to see if 
+                    all my medications are safe to take together?
+A.
+==========
+You can look each product 
+                    up individually in RxList and read the Drug Interaction sections 
+                    for each, if available.
+The Keyword search is handy for checking 
+                    interactions by entering multiple drug names into the search.
+You may also try our Drug Interaction Checker located at: 
+                    www.webrx.com 
+Q.
+How often do you update RxList?
+A.
+==========
+The database of approximately 
+                    5,000 product names is updated every several days.
+The professional monographs are reviewed annually (licensed 
+                    material is updated quarterly).
+Q.  I searched for a drug name 
+                    but the only information I found was the brand name, generic 
+                    name, and category.
+Where's the rest of the information?
+A.
+There are approximately 5,000 
+                    products listed in the RxList database.
+==========
+Of these, there are 
+                    nearly 700 professional monographs and about 1,500 patient 
+                    oriented monographs.
+RxList is adding new material all the 
+                    time and strives to meet the needs of most of the users most 
+                    of the time.
+When RxList was founded in 1995, the only information 
+                    was brand name, generic name, and category.
+Q.  Can I purchase my prescriptions 
+                    from RxList?
+A.  RxList is not a licensed 
+                    pharmacy.
+Our Webrx.com 
+                    Pharmacy , however, maintains the necessary licenses to 
+                    ship to all 50 states (Michigan pending) and offers, in addition 
+                    to prescription medications, Over-the-Counter (OTC) products, 
+                    Health and beauty aids, Natural products, and competitive 
+                    pricing.
+Q.  I e-mailed a question to 
+                    info@rxlist.com and received an auto-reply that said your 
+                    policy is to not answer questions.
+Why is that?
+A.  RxList is run by a very small 
+                    staff who keep pretty busy maintaining the site leaving little 
+                    time to research your questions.
+==========
+Q. What's your 
+                    privacy policy?
+A. Privacy Policy: Users of RxList 
+                    remain completely anonymous to RxList.
+RxList does not collect 
+                    any personally identifiable information about its users such 
+                    as name, address, phone number, or e-mail address.
+==========
+RxList 
+                    uses cookies only in the RxBoard area and does not collect 
+                    or store any information with regard to these cookies.
+RxList 
+                    uses the services of a number of Internet advertising agencies 
+                    to serve its ads.
+Most of our pages display at least one ad 
+                    served by Doubleclick.
+To view Doubleclick's privacy policy, 
+                    click 
+                    here.
+While you're at it, why not read our use 
+                    agreement?
+==========
+Q.  Who runs RxList?
+A.  RxList was founded and is 
+                    maintained by Neil Sandow, Pharm.D.
+a licensed California 
+                    Pharmacist with twenty + years of experience in retail and 
+                    institutional pharmacy and twelve years as a Director of Pharmacy 
+                    for several Bay Area hospitals.
+Dr. Sandow has been publishing 
+                    on the Internet since 1994.
+==========
+In 1999, RxList merged with 
+                    HealthCentral.com, 
+                    Inc. and is now part of the Healthcentral.com Network 
+                    of sites.
+Q.  Why did you change the appearance of RxList?
+A.  RxList has looked pretty much the same since it first
+hit 'the Net' in 1995.
+Now that RxList is part of the HealthCentral Network of Health Sites, we felt it was
+time to 'spiff it up' a bit and provide a little more consistency with the other sites in the Network.
+==========
+None of the functionality
+has changed and graphics have been kept small and persistent to allow caching for maximum speed.
+Some pages do load a little slower due to the use of tables which present a more elegant look at the expense of some performance.
+We hope you'll appreciate the changes and feel free to let us know one way or the other.
+==========

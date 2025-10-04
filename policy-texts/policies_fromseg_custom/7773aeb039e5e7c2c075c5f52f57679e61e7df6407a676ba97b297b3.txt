@@ -1,0 +1,509 @@
+AdServing Factory Privacy Notice
+Updated 29/10/2018
+					About this Notice
+ This privacy notice has been prepared in fulfilment of the obligations under Articles 13 and 14 of Regulation (EU) 2016/679 (GDPR), and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
+1.
+Who we are / contact us
+
+This privacy notice applies to all the products, services and websites provided by AdServing Factory srl.
+Our main office is located
+					at:
+					 Alexandru Deparateanu 20, sector 1
+					 Bucharest
+					 RO
+				
+AdServing Factory srl is the data controller responsible for the personal data collected via the website adservingfactory.com.
+AdServing Factory srl is
+					also a data controller for certain personal data provided to us by our customers.
+However, AdServing Factory srl services are provided
+					on the basis we are a Data Processor for our customers.
+Our customers are consumer brands, media agencies and digital
+					publishers.
+If you have questions about how we use your data or you would like us to stop using your data you can contact us via
+					our contact form.
+If you have other reasonable questions relating to your personal information you can contact us at
+					privacy@adservingfactory.com.
+==========
+It may take up to 30 days to respond.
+Before contacting us please check what types of data we collect under
+					"What types of personal data do we use and how long do we store it?"
+, if you make a query about types of data we
+					do not collect or process or make other irrelevant queries we have the right not to respond.
+2.
+==========
+Your Rights
+
+You have the right to know whether we have stored any personal information about you.
+The types of data we collect and
+					store are described in the section
+					"What types of personal data do we use and how long do we store it?"
+.
+==========
+If you do not want us to process your personal information then:
+
+Do not ask us to provide your business with our services
+Do not give your consent for marketing
+Do not put your name and contact details in our contact forms
+Opt out of any marketing email we may send you by clicking the unsubscribe link or reply to the email with "unsubscribe"
+						in the subject line
+Contact us via our contact form to stop processing your data
+
+If you have provided us with your personal information, you can ask us to give you a copy of the information, update
+					the information, correct the information, stop using the information or delete the information.
+You can exercise these
+					rights via our contact form.
+We may make an administrative charge of £10 for you to access any information we may store
+					about you.
+We will not make a charge for any request to simply delete personal information we may hold about you.
+If you make frequent or unreasonable requests we may refuse to act on the request or make a reasonable charge to do so.
+==========
+If you are concerned about how we have processed your personal data you can complain to the
+					Information Commissioners Office (ICO).
+The ICO is the UK’s data independent data supervisory authority.
+AdServing Factory srl
+					Ltd is a UK company and complaints about us should be referred to the ICO.
+3.
+==========
+Who do we share your data with?
+We may disclose your personal information to any member of our group of companies.
+Some of our web pages use plug-ins from other organisations (such as the ‘Google Analytics‘).
+These are only activated
+					if you provide a consent.
+For more information on how these organisations use information, please read their privacy
+					policies.
+==========
+We may also disclose your personal data to other companies in the following limited circumstances:
+
+In the event that we sell AdServing Factory srl or asset/s of AdServing Factory srl, we may disclose your personal data to the prospective
+						buyer of AdServing Factory srl or the asset/s.
+If AdServing Factory srl or a substantial part of its shareholding are acquired by a third party, the personal information held
+						by AdServing Factory srl may be transferred to the acquirer.
+We will disclose your personal data in order to comply with any legal obligation, or in order to enforce or apply our
+						Service Agreement and/or other agreements; or to protect the rights, property, or safety of AdServing Factory srl, our customers,
+						or others.
+This includes exchanging information with other companies and organisations for the purposes of fraud protection,
+						credit risk reduction and debt collection.
+Where you give us permission to do so (for example, for marketing our products and services)
+
+Other than the above, limited circumstances we will never disclose your data to any third party.
+4.
+==========
+What are the purposes and legal basis for processing your personal data?
+We use different legal basis for processing your data depending on the purpose and your relationship with us.
+Your relationship to AdServing Factory srl
+Purpose of Processing your Information
+Legal Basis
+
+
+
+I am visitor to a site using AUX service
+Sales of advertising inventory on site
+Legitimate Interest
+
+
+I am a customer
+Provision of our service to your business
+Contract
+
+
+I am a customer
+Collect payment / recover debt
+Contract
+
+
+I am a customer
+User authentication and system security
+Contract
+
+
+I am a customer
+System access logs and reporting
+Contract
+
+
+I am a customer
+Customer Support (inc.
+Support Tickets)
+Contract
+
+
+I am a customer
+System improvement and debugging
+Legitimate Interest
+
+
+I am a customer
+Law enforcement
+Legal Obligation
+
+
+I am a customer/former customer
+Marketing of AdServing Factory srl's products and services
+Legitimate Interest
+
+
+I am a customer
+Marketing of third-party products and services
+Consent
+
+
+I am not a customer
+Marketing of AdServing Factory srl's products and services
+Consent
+
+
+I am not a customer
+Marketing of third-party products and services
+Consent
+
+
+
+If you are a visitor to our site and only browse the pages or our site we will process your personal information for
+					statistical purposes related to the number and type of users of our site.
+These statistical purposes are often referred
+					to as “analytics”.
+==========
+Specifically, this means we count how many users we have and how often they visit our website.
+We
+					collect information listing which of our pages are most frequently visited, and by which types of users and from which
+					countries.
+5.
+==========
+What types of personal data do we use and how long do we store it?
+Description / Collection Method
+Personal Information Type
+Purpose of Processing Your Personal Information
+Retention Period
+
+
+
+
+Truncated IP address of website visitor to publisher site using AUX
+The truncated IP addresses of the visitor of the Publisher websites, specifically, the first three parts of an IPv4 IP address are parsed by AdServing Factory srl.
+For example, an IP address of 12.214.31.144 would be parsed as 12.214.31.0.
+This is not Personal Data since this truncated IP address cannot be used to directly or indirectly identify a natural person.
+==========
+The Purpose of this processing is to allow AdServing Factory srl to provide the AUX service to the publisher of the site visited by the data subject.
+The AUX service includes a media sales agency service.
+This means AdServing Factory srl manages advertising sales on the Publisher’s website/s.
+==========
+The IP address is only processed in real-time and is not stored.
+ADT
+The ADT is an online device identifier created by AdServing Factory srl when a visitor to the Publisher’s website visits a page for the first time using a particular type of device.
+The data used to create the ADT are: the truncated IP address (as above); the name of the browser used to access the website at that particular time; the browser accept headers (which reveal language and other capabilities of browser) of the browser used to access the site at that particular time; and the Publisher account hash (which is a reference to the Publisher).
+==========
+The Purpose of this processing is to allow AdServing Factory srl to provide the AUX service to the publisher of the site visited by the data subject.
+The AUX service includes a media sales agency service.
+This means AdServing Factory srl manages advertising sales on the Publisher’s website/s.
+For up to 13 months, or for up to 30 days after the expiration of our agreement with the Publisher, whichever is sooner.
+==========
+Correspondence
+Name, email address and other personal information you may tell us in the course of our communication.
+If you contact us, we may keep a record of the correspondence for future reference.
+Indefinite
+
+
+Mailing Lists
+Name, email address and area of interest provided by you.
+If you subscribe to our mailing list, we will use your email address to send you emails corresponding to your stated
+									area of interest.
+Until we close the mailing list or you unsubscribe from the mailing list.
+==========
+Contact Form
+Name, email address and other personal information you may tell us in the course of our communication.
+If you provide us with other information via the contact form, we will retain it and use it for the defined purpose.
+Two years, unless you request deletion of your personal information sooner.
+==========
+AdServing Factory srl Site Visitor Logs
+Anonymous or pseudonymous information relating to your visits to our website.
+This includes, but is not limited to, the IP address from which you accessed our website, your device screen size, device operating system type, browser type, browser language setting, URLs you access on our website, and the times of your access to those URLs.
+Site visitor logs are used for system administration, debugging, security analysis or improving the availability
+									or usability of our website and service.
+Site visitor logs may also be aggregated, from time-to-time, to create
+									statistics about the use of our website, e.g. the total number of unique visitors per month.
+Such statistics are
+									entirely anonymous.
+Site visitor logs are retained for up to 52 weeks.
+Statistics are retained indefinitely.
+==========
+Reference IDs for Consent or a Contract Agreement
+If you give us consent for marketing or you agree to a contract with us, we will keep a reference to that consent
+									or contract.
+This reference will be linked to one or more of your devices.
+Consent or contract references are used by us as a way to identify.
+References to consent or contract are held until the expiry date.
+For consent, the maximum is 13 months, for contract
+									it is 30 days after contract expiry or termination.
+==========
+If you are a customer of AdServing Factory srl then we also use and store the following types of data.
+Description / Collection Method
+Personal Information Type
+Purpose of Processing Your Personal Information
+Retention Period
+
+
+
+
+Service Set-Up, Service Provision, System, Operational Notifications and Customer Marketing Communications
+Name, email address (provided by you) and IP address (collected by us).
+To provide you with the service you have requested and other product and service information.
+This includes: verification
+									of your contact details via email, payment collection, system security, system and operational notifications and
+									support.
+In addition to this, we will send you marketing communications about our products and services.
+Until 12 months after termination of service and collection of all outstanding payments.
+==========
+Service Access, Activity Logs and Security Logs
+Anonymous or pseudonymous information relating to your use of our service.
+This includes, but is not limited to,
+									the IP address from which you accessed our service, URLs you accessed, and the times of your access to those URLs.
+If you share the use of our service with your suppliers or customers then their personal data will be collected
+									and processed in the same way.
+Service access, activity logs and security logs are used for user authentication, system administration, debugging,
+									security analysis or improving the availability or usability of our service.
+User logs may also be aggregated, from
+									time-to-time, to create statistics about the use of our service.
+==========
+Indefinite
+
+
+
+
+
+
+
+6.
+How do we store and process your data?
+The data that you provide to us, such as your name and email address will always be stored within the European Economic
+					Area (“EEA”).
+Some of the data we collect from your device as shown in the table below may be transferred and processed
+					outside of the EEA to a country that has been judged by the European Commission to offer an adequate level of data protection.
+==========
+For a list of such countries click
+					here.
+Personal Information
+Storage and Processing Locations
+
+
+
+
+Name, email address and information shared during communications.
+Within European Economic Area (EAA) only.
+Anonymous or pseudonymous information relating to your visits to our website.
+This includes, but is not limited to,
+									the IP address from which you accessed our website, your device screen size, device operating system type, browser
+									type, browser language setting, URLs you access on our website, and the times of your access to those URLs.
+Within European Economic Area (EAA) only and countries that have been deemed by the European Commission to have adequate
+									privacy protection.
+References to your consent for use of your personal information or agreement to a contract.
+Within European Economic Area (EAA) only and countries that have been deemed by the European Commission to have adequate
+									privacy protection.
+If you are a customer of AdServing Factory srl then we also use and store the following types of data in the locations listed below.
+Personal Information
+Storage and Processing Locations
+
+
+
+
+Name, email address and IP address processed as part of system authentication.
+==========
+Within European Economic Area (EAA) only.
+Anonymous or pseudonymous information relating to your use of our service.
+This includes, but is not limited to,
+									your IP address from which you accessed our service, URLs you access on our website, and the time of your access
+									to those URLs.
+Within European Economic Area (EAA) only.
+==========
+We take all reasonably necessary measures to ensure that your personal information is secure and treated as private and
+					in accordance with this privacy notice.
+Please note that the transmission of any data via the internet is not secure and hence you transmit your personal information
+					to us at your own risk.
+7.
+==========
+Cookies
+
+
+					A cookie is a file that is downloaded to your computer or phone when you access a web page.
+Cookies are used for many purposes.
+For more information about cookies please visit the section on cookies the ICO website
+					here.
+==========
+We use cookies to enhance your experience, (e.g. improve page loading times), enhance security (e.g. identify trusted
+					and untrusted users), analytics (e.g. count the number of visitors to the site and which pages they visited), to authenticate
+					devices that have a user that has agreed to our contract and to authenticate devices that have a user that has consented
+					to marketing.
+Under the law cookies for marketing and analytics require a consent to be stored on your device, the others do not.
+The cookies that may be stored when you visit our website and services are detailed below.
+Name
+Provider
+Name
+Possible Values
+Purpose
+Expiry
+Information
+
+
+
+
+AdServing Factory srl myaccount
+AdServing Factory srl
+x1auth
+Random alphanumeric hash
+Maintain user session state
+2 hours
+
+
+
+AdServing Factory srl myaccount
+AdServing Factory srl
+x1mautologin
+Alphanumeric hash
+Maintain user autologin
+1 year
+
+
+
+Cloudflare Security and Performance Cookie
+Cloudflare
+__cfduid
+Unique number
+To enhance website security and load time performance.
+1 year
+Cloudflare
+
+
+Google Analytics cookie
+Google
+_ga
+Unique number
+To count unique visitors
+2 years
+Google
+
+
+Google Analytics cookie
+Google
+_gid
+Unique number
+To count unique visitors per day
+2 years
+Google
+
+
+Google Analytics cookie
+Google
+_gat
+1
+To control requests to Google Analytics
+1 minute
+Google
+
+
+
+
+AdServing Factory srl also uses Cookies when working as a Data Processor.
+==========
+These Cookies are under the control of our customer, the Data Controller.
+A list of these Cookies are provided under our Data Processing Agreement with our customer.
+For the avoidance of doubt AdServing Factory srl does not use cookies for the AUX service.
+8.
+==========
+AdServing Factory srl Enterprise Adserver
+
+
+					The AdServing Factory srl Enterprise Adserver (EAS) is used by consumer brands and media agencies.
+When these businesses use EAS, AdServing Factory srl works as a Data Processor on behalf of those businesses.
+EAS is specifically used by consumer brands and media agencies to:
+				
+
+Deliver digital advertising content to websites
+Count the number of ads delivered in a campaign
+Count each time an ad is clicked
+Create statistics regarding the total number of ads delivered and clicks per unique number of devices in any given campaign
+
+
+					For the avoidance of doubt, EAS does not use Cookies and cannot be used to target individual devices with advertising.
+==========
+Any specific targeting of advertising is controlled entirely by the site owner or via AdServing Factory srl’s Token Direct technology (see below).
+AdServing Factory srl always works within the data minimisation principles as described in GDPR.
+Hence in order to create statistics regarding the distribution of advertising campaigns, AdServing Factory srl generates an anonymous device token (ADT) to approximately identify a device.
+An ADT is created by AdServing Factory srl whenever an ad is delivered by EAS, or whenever EAS is used to count ad delivery or clicks.
+The data used to create the ADT are: 
+				
+
+the truncated IP address of the visitor of the website where an ad is served by EAS.
+Specifically, this means we do not read the last byte of an IPv4 address or the last four bytes of an IPv6 address.
+For example, an IPv4 address of 12.214.31.144 would be parsed as 12.214.31.0.
+==========
+Therefore, the IP address which is considered Personal Data under GDPR has been anonymised, since it can no longer be used to directly or indirectly identify a natural person
+the operating system of the device used to access the site at that particular time
+the name of the browser used to access the site at that particular time
+the browser accept headers (which reveal language and other capabilities of browser) used to access the site at that particular time
+the AdServing Factory srl customer account hash (which is a reference to the business using EAS)
+
+
+					Given the way the ADT is created, it is probable that more than one device will share the same ADT (e.g. it is likely that two or more Samsung Galaxy S9 devices using Chrome and connected to the same wifi network will visit examplesite.co.uk).
+In addition, it is not possible to check how many devices share the same ADT.
+Furthermore, it is highly likely that any single device will have more than one ADT, (e.g. the same Samsung Galaxy S9 device will have a new ADT whenever it uses a different browser or it is connected to a different wifi network, even if it is visiting the website).
+==========
+Therefore, the ADT cannot be used to directly or indirectly identify a natural person and hence is not personal data as defined in Article 4 of GDPR.
+For the avoidance of doubt, ADT does not involve any physical storage on your device, for example, the ADT does not use or rely on Cookies.
+9.
+==========
+AdServing Factory srl TokenDirect
+
+
+						The AdServing Factory srl TokenDirect is a technology used by consumer brands to run targeted display advertising campaigns.
+When brands use TokenDirect, AdServing Factory srl works as a Data Processor on behalf of those brands.
+TokenDirect allows consumer brands to use the explicit consent they have gained from their customers and prospects to run targeted ad campaigns.
+==========
+This is achieved by creating a data link between consumer brands and website owners.
+This data link is based on a system of interlocking Data Processing Agreements (DPAs) that utilise the TokenDirect system.
+This means a website owner must agree to become the data processor of a given consumer brand in order to operate TokenDirect for that brand.
+TokenDirect can only operate if and when you provide an explicit consent to a consumer brand for direct commercial communications (i.e. targeted marketing messages).
+TokenDirect will store an encrypted reference of your consent to marketing on the device you are using to give the consent.
+==========
+This reference is called a PI ID.
+A PI ID is an authentication token and cookie that references an explicit consent.
+Attached to the PI ID record is a time-stamp, expiry date (of the consent) and purpose (of the consent).
+It is a random string of alphanumeric characters.
+A PI ID is pseudonymised personal information under GDPR.
+==========
+Under the law cookies for marketing and analytics require a consent to be stored on your device, the others do not.
+The cookies that may be stored when you give your consent to a consumer brand using TokenDirect are detailed below.
+Name
+Provider
+Name
+Possible Values
+Purpose
+Expiry
+Information
+
+
+
+
+PI
+AdServing Factory srl
+pi
+Alphanumeric string
+Direct commercial communications
+Depends upon purpose specified by brand.
+Up to a maximum of 2 years
+HTTPS-Only Cookie
+
+
+PIES
+AdServing Factory srl
+pies
+Hexadecimal string
+Recovery of PI ID
+Same as PI expiry date
+Depending on device, it will be stored in Local Storage or IndexDB
+
+
+
+
+
+						If you wish to withdraw consent for the PI or PIES cookie you will need to visit the site of the brand where you gave consent.
+Please note AdServing Factory srl only operates TokenDirect as a Data Processor hence the TokenDirect cookie is under the control of our customer, the consumer brand.
+==========

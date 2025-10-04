@@ -1,0 +1,134 @@
+Last Updated: October 2017
+PART I. GENERAL INFORMATION
+Our commitment to privacy
+Your privacy is important to us and maintaining your trust is one of our highest priorities.
+Braze collects information, including certain personally identifiable information (“Personal Data”), from members of the public who visit our website (found at www.braze.com) (the “Website”) or who interact with our customers through applications offered by our customers (“Customer Applications”), through Customer websites, or otherwise, in the course of our Customers’ use of the Braze Services (the "Services").
+To ensure that your privacy is protected and your privacy choices are respected, this Privacy Policy includes a description of our information practices, how we use tracking technologies, as well as the decisions you may make regarding how your information is collected and used.
+==========
+Introduction to Braze
+Braze is a U.S. company, headquartered in New York, with global operations.
+Braze is a life-cyle engagement platform for companies around the world ("our Customers"), supporting stronger relationships between brands and their clients, primarily by leveraging first party data to personalize and automate lifecycle marketing campaigns through first party channels, such as email, mobile and web push notifications, and in-app/in-browser messaging.
+In practical terms, this means that we collect information for our use or on behalf of our Customers to customize messages to such visitors (“you”), including marketing messages, that you may find useful and to help Braze and our Customers understand your marketing preferences.
+In all cases, as a data processor to our Customers, we process the data collected through our Services only on behalf of our Customers, work strictly in accordance with their instructions since they are the data controllers, and do not use any personal information for our own purposes.
+More information about Braze can be found at www.braze.com.
+==========
+PART II.
+INFORMATION WE COLLECT WHEN YOU USE THE BRAZE WEBSITE
+Braze acts as a data controller with respect to the information it collects from visitors to its Website.
+Braze collects information from users of our Website for several reasons.
+==========
+Some users request additional information about us, so we may ask for, and receive, contact information (such as name, email address, company name, etc.), which enables us to respond to such requests.
+We may also collect and use the following information about you if you visit our Website:
+the content of any email or other communication that you send to Braze, for example, when you make inquiries about Braze and its products;
+your email address, if you subscribe to a Braze newsletter;
+information automatically collected about visitors to the Website, as described in the section entitled 'Tracking Technologies' below; and
+information you submit when participating in any surveys conducted by us.
+Braze complies with all applicable anti-spam laws when it sends emails to you.
+If you provide us with personal information relating to another person, you confirm that you have informed them of our identity and the purposes (as set out below) for which their personal information will be used and that you have obtained their consent prior to sharing their information with us.
+==========
+PART III.
+INFORMATION WE COLLECT WHEN BRAZE IS A SERVICE PROVIDER (DATA PROCESSOR)
+Information we collect about you automatically when you use a digital product that has integrated any Braze SDK.
+When you open an app that you have downloaded onto your computer or mobile device, if that app is a Customer Application (meaning that the app provider has integrated the Braze SDK into their Customer Application), then we will automatically track certain usage metrics involved with your use of that Customer Application (such as when you first used the Customer Application and when you last used it, the total number of sessions you have had on that Customer Application).
+==========
+We also automatically track certain device information (such as your language and locale preferences, your current time zone, wireless carrier and relevant device metadata).
+A detailed list of what we automatically collect can be found at braze.com/documentation.
+Information we collect because our Customer has chosen to send such information to us when you use a digital property that has integrated any Braze SDK.
+We may collect information about you that our Customers choose to share with us, that is collected by their Customer Applications or other digital properties, such as your, email address, name, birthdate, and/or gender.
+As a data processor Braze does not choose the information that will be sent to it by its Customers and follows the instructions of its Customers in connection with the processing of all of such information.
+Usage information – Our Customers may ask us to track your activity and certain performance metrics in connection with your use of a Customer Application or other digital properties, for example if you have abandoned a shopping cart or if the Customer Application is a game, when you have completed a certain level of that game.
+Our Customers may send us information about your previous actions in their Customer Application or other digital properties, for example, information about how many times you have purchased items through their Customer Application, digital properties, stores, or elsewhere.
+Information collected by tracking technologies – We use various technologies to collect information which may include saving user identifiers and other cached data to offline browser storage, or offline storage on mobile devices.
+==========
+Please see the section entitled "Tracking Technologies" for further information on this topic.
+Location information.
+Braze may collect device location information from you if a Customer chooses to enable location services in connection with their digital properties, and you have granted our Customer permission to collect location information from your device.
+We use location information to provide our Customers with information about the use of their digital properties and to enable our Customers to target messages to you based on your location.
+==========
+Information we collect from other sources.
+We may also collect or receive information from third parties used for authentication, or from data augmentation partners.
+From authentication providers such as Facebook and Twitter, we may collect information such as your name, email address, gender, interests, platform specific user identifier, and contact information.
+Partners such as location information vendors (Foursquare, PlaceIQ, etc.) or install attribution partners (TUNE, AppsFlyer, etc.) can be directed by our Customers to send your information to Braze.
+==========
+Use of information
+We may use the information we collect from our Customers for a variety of reasons, including:
+to provide, operate and maintain the Services;
+to manage our Customers' use of the Services, respond to inquiries and comments and provide Customer service and support;
+to analyze our Customers' use of the Services for trend monitoring, marketing and advertising purposes;
+to send our Customers technical alerts, updates, security notifications, and administrative communications;
+to investigate and prevent fraudulent activities, unauthorized access to the Services, and other illegal activities; and
+For any other purposes about which we notify our Customers.
+Sharing and disclosure of information to third parties
+We may share and disclose information about our Customers and you in the following circumstances:
+Customers – we may disclose information to our Customers in the form of aggregated, anonymous data about the way the Services have been used to enable us to provide and improve our Services, to provide strategic advice to our Customers, and to further and enhance our role as a thought leader in the industry;
+Vendors, consultants and other service providers - If our Customers direct us to do so, we may share information with third party vendors, consultants and other service providers who use your information to enable our Customers to send you messages that are targeted to your preferences.
+For example, our customers may direct us to work with a third-party location service provider or a third-party translation-service provider.
+Our customers may also direct Braze to send information to other websites or vendors, and Braze will follow the directions of its customers;
+Compliance with laws – we may disclose information to a third-party where we are legally required to do so in order to comply with any applicable law, regulation, legal process or governmental request;
+Protection of our legal rights – we may also disclose information where we believe it necessary in order to protect or exercise, establish or defend our legal rights;
+Business transfers – we may share or transfer information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company; and
+Provision of our Services – We use sub-processors in our provision of the Braze Services to our customers, such as third party hosting providers and third party database support services.
+Some of these third party sub-processors may have logical access to data about you, but in all cases, any sub-processor to whom we disclose any information will be subject to a written agreement containing confidentiality protections designed to protect any personal information that is shared with them.
+==========
+PART IV.
+INTERNATIONAL TRANSFERS AND SECURITY
+Processing of information in the U.S. and elsewhere
+Braze stores our Customer’s data either in the United States or in the European Union at data centers run by third-party hosting providers.
+As data controllers, our Customers decide where they want their data stored and Braze, as a data processor, complies with our Customers’ requests.
+Information stored in Braze’s EU data center may nonetheless be accessed in the United States in connection with the provision of technical support.
+In order to validate this transfer of personal data from the EU to the United States, Braze enters into the Standard Contractual Clauses (the “Model Clauses”) with our EU customers on request.
+==========
+Security
+We use technical, organizational and administrative measures designed to protect the security, confidentiality and integrity of information that is submitted to, collected or processed by our Services about our Customers and about you.
+Each of our Customers will have its own technical, organizational and administrative measures to protect the data it processes as well as its and its employees’ passwords and log-in credentials to the Braze Services.
+It is our Customers' responsibility to assess the appropriateness of the security measures they have in place to protect any data that you provide to them.
+==========
+PART V. TRACKING TECHNOLOGIES
+Our Website and our Services may use cookies (small text files containing a string of alphanumeric characters that we put on your device) and/or other tracking technologies to distinguish you from other Website users or that enable our Customers to recognize you when you return to their Customer Application or other digital properties.
+Tracking Technologies used in connection with our Website
+When you visit our Website we may send one or more cookies to your browser.
+They enable us to store information about your device that is then used for matching certain other device-related information that we collect via the browser.
+This helps us, among other things, to provide you with a good experience when you browse our Website and also allows us to recognize you when you return and to learn your interests so we can better respond to any inquiries you may make.
+==========
+Blocking cookies from our Website
+You have the right to decide whether to allow websites such as braze.com to lay cookies on your browser.
+You can set or amend your web browser controls to accept or refuse cookies.
+If you choose to reject cookies, you may still use our Website, although your access to some functionality and areas of our Website may be restricted.
+The process to disable cookies through your web browser may vary from browser-to-browser, so you should visit your browser's help menu for more information.
+==========
+Tracking Technologies used in connection with our Services
+Braze may use local storage and other tracking technologies in connection with the provision of the Braze Services to our Customers when a Customer has integrated a Braze SDK into the Customer website or other digital property.
+Braze also uses local storage, which is another type of tracking technology, to recognize you when you use a Customer Application or other digital property that integrates the Braze SDK.
+Our Customers want to recognize you when you return to their Customer Applications or other digital properties and tracking technologies enable them to tailor content and messages to you based on your prior behavior within the Customer Application or other digital property.
+Our contracts require our Customers to disclose the use of these tracking technologies to you in their privacy policies and/or the terms of use for their websites or other digital properties.
+==========
+PART VI.
+YOUR PRIVACY RIGHTS
+Update and access to your information
+In general, as a data processor, when processing personal information to provide our Services, we do so only on behalf of our Customers and in accordance with their instructions as the data controller.
+This means that if you wish to access, review, correct, transfer, modify or delete any personal information we process on behalf of a Braze Customer, you should contact that Customer with your request.
+We will then help them to fulfill that request in accordance with their instructions and applicable legal requirements.
+Where we act as a data controller and hold personal information for our own account management, billing or marketing purposes, then we provide individuals with the opportunity to access, correct, transfer, review, modify, or delete any such personal information that has previously been provided.
+==========
+You can send an email to privacy@braze.com.
+Unsubscribe from our mailing list
+You may at any time ask us to remove you from any mailing list on which you previously asked Braze to include you by sending us an email at privacy@braze.com or by clicking "Unsubscribe" in any e-mail communications we send you.
+Emails sent by our Customers to you will contain an unsubscribe link as required by applicable law.
+The Braze Services will not send emails to you if you have opted out of the receipt of emails from Braze Customers.
+PART VII.
+==========
+OTHER IMPORTANT INFORMATION
+Changes to our Privacy Policy
+If we change our Privacy Policy, we will update the "Last Updated" date at the top of this webpage.
+We encourage you to review this Privacy Policy frequently to stay informed of the latest modifications.
+Children
+Our Services are not directed to individuals under the age of 13.
+We do not knowingly collect personal information from such individuals without parental consent and require our Customers to fully comply with applicable law in the data collected from children under the age of 13.
+==========
+If you become aware that a child has provided us with information, please contact us at privacy@braze.com.
+If we become aware that a child under the age of 13 has provided us with personal information, we will delete such information.
+If you have any questions about this Privacy Policy, you may contact us at:
+Braze Privacy Policy Issues
+318 West 39th Street, 5th Floor, New York, NY 10018
+privacy@braze.com
+==========

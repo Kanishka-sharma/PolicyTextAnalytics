@@ -1,0 +1,86 @@
+Last Updated December 18th, 2018
+Parrable is a technology company.
+We offer a technology platform that enables advertisers, publishers and their technology partners (our “Clients”) to maintain state on computers and mobile devices.
+In other words, we help our Clients identify when they are seeing the same computers and mobile devices over time to customize content and advertising, and perform analytics.
+This privacy policy covers our website located at www.parrable.com (the “Website”) as well as our proprietary technology platform (the “Platform”).
+==========
+Parrable is a member of the Network Advertising Initiative (“NAI”), which is a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards.
+Parrable complies with the 2018 NAI Code of Conduct and the cross-industry Self-Regulatory Program for Online Behavioral Advertising as managed by the Digital Advertising Alliance (“DAA”).
+==========
+Information Collected via the Platform
+The Platform is designed to help advertisers, publishers and their technology partners (our “Clients”) maintain state on computers and mobile devices.
+The Platform assigns a unique pseudonymous identifier associated with an Internet browser (our “Browser ID”) whenever our technology encounters a internet browser on a computer or mobile device (“device”).
+We store this Browser ID in an encrypted cookie (our “EID”) in the browser being used on a device.
+==========
+The Browser ID does not help us identify you individually.
+It helps us identify your browser so that when our systems encounter that browser again, our Clients will be able to customize advertising and content to your interests and to better understand the effectiveness of their digital advertising campaigns.
+In addition to creating the Browser ID, our Platform collects nonpersonally identifiable information, including IP address, mobile advertising identifier (e.g., IDFA or AAID), the time/date a computer or device was seen, and the domain name of the website on which the Browser ID was placed or seen.
+Our systems may enable the linking of multiple Browser IDs and the linking of Browser IDs with mobile advertising identifiers when we are able to reasonably infer that multiple IDs are likely to belong to the same device.
+Our Platform also assigns a second unique pseudonymous identifier associated with a device (our “Device ID”) whenever our technology encounters the device.
+The Device ID is stored along with the Browser ID in the EID.
+==========
+The EID is encrypted and re-encrypted every time our systems are able to see your device (e.g., when you visit a website where our technology is enabled) to help ensure that no one has access to our identifiers without approval from Parrable.
+Parrable does not transfer data about your computer or device except the Browser ID, the Device ID, the mobile advertising identifier and one or more opt-out flags for users that have expressed an optout choice.
+If you’d like to exercise your opt-out choice, you may do so through the information provided below.
+Our platform uses HTTP cookies to store the EID.
+==========
+Cookies are small text files placed onto your browser.
+For more information about cookies and web beacons, please http://www.allaboutcookies.org/cookies .
+==========
+How Parrable utilizes Information Collected via the Platform
+Parrable only uses the information collected via the Platform to generate aggregate statistics and to operate and optimize the Platform.
+Parrable does not create or utilize profiles nor does Parrable perform ad targeting or content customization.
+Opt-out from Parrable’s platform
+If you’d like to opt-out from the Platform or if you’d like to know whether Parrable has placed an EID on the device and browser you are currently using, please click here to visit our opt-out page.
+==========
+Privacy Practices for our Website
+Our Website is directed to Clients and prospective Clients, which are mostly businesses.
+We may collect personally identifiable information (“PII”) via the Website when it is provided directly to us.
+For example, if you send us an email, or register on the site to become a Client, we will collect that information and use it for the purposes it was provided and will store your PII for a reasonable time for record keeping purposes.
+==========
+We also collect non-personally identifiable information via our Website.
+Nonpersonally identifiable information is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer’s operating system.
+==========
+We may use HTTP cookies and web beacons to help administer the Website.
+For more information about cookies and web beacons, please visit http://www.allaboutcookies.org/cookies.
+==========
+Additional Information about our Privacy Practices.
+Regardless of whether information is collected via our Website or our Platform, the security of your information is important to us.
+Parrable has implemented reasonable security measures to protect the information, both during transmission and once it is received.
+==========
+This includes but is not limited to the use of firewalls and encryption.
+No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while the company strives to use commercially acceptable means to protect your information, it cannot guarantee absolute security.
+==========
+If you have any questions about these security practices, please email info@parrable.com.
+Information Relating to Children.
+==========
+Parrable’s products and services are designed for those 13 years of age and older.
+Parrable does not knowingly collect personally identifiable information (“PII”) from anyone under the age of 13 via the Website or via our Platform.
+If the company is made aware that it has received PII from someone under 13 it will use reasonable efforts to remove that information from its records.
+==========
+Data Retention.
+The Parrable technology Platform retains information for less than a year from the last time the Browser ID or Device ID was seen.
+Parrable stores PII collected via the Website for a reasonable time for record keeping purposes.
+==========
+European Union.
+The Parrable technology Platform is not currently operating in the EEA, we are not marketing our services in the EU and we are not intentionally collecting data from EU data subjects.
+We take steps to prevent EU data from being ingested into our Platform.
+If you have specific questions regarding Parrable’s approach to the EEA, please contact us at info@parrable.com.
+==========
+Disclosure of Information to Third Parties, Onward Transfer.
+Parrable does not rent, sell or share your PII collected via the Website with non-affiliated third parties without your consent.
+Our Platform is designed to share information (not including PII) with our Clients for the purpose of enabling their use of the Browser ID.
+The company may also share information collected via the Platform and the Website with trusted third-party partners.
+==========
+These third-party contractors are prohibited from using the information for purposes other than performing services for Parrable.
+Parrable may share aggregate data collected on the Website or via our technology Platform with unaffiliated third parties without restriction.
+Parrable may disclose your information to third parties when obligated to do so by law and in order to investigate, prevent, or take action regarding suspected, or actual prohibited activities, including but not limited to fraud and situations involving potential threats to the physical safety of any person.
+==========
+Finally, Parrable may transfer information, including any PII, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+If Parrable is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your PII.
+==========
+Changes to this Privacy Policy
+This privacy policy is subject to change.
+If the company plans to make any material or substantive changes in the way it uses the PII collected through this Website, it will post a clear and conspicuous notice on the Website and in this privacy policy prior to the changes being made.
+If you have any questions please email us at info@parrable.com with your inquiry .
+==========

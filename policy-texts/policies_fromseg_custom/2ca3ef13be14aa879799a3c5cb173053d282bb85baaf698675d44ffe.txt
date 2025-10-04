@@ -1,0 +1,215 @@
+Updated: January, 2020
+Nielsen Marketing Cloud (“Nielsen,” “we,” or “us”) is committed to protecting users’ privacy and handling their data in an open and transparent manner.
+This Privacy Statement describes the data services that we provide to our clients and how we use, share, and protect the personal data that we gather about users in connection with our services (referred to herein as “personal data”).
+This Privacy Statement also describes users’ choices and legal rights in relation to their personal data.
+The practices described in this Privacy Statement are undertaken by Nielsen companies providing Nielsen Marketing Cloud Services around the world.
+Learn more about Nielsen’s family of companies or contact Nielsen’s Privacy Department (see the “Contact Us” section below for our contact details) for more information.
+==========
+This Privacy Statement does not apply to the data handling practices of website publishers and other parties who share data with Nielsen or those parties’ use of users’ data for interest-based advertising and other purposes.
+We encourage users to review the privacy statements of each platform, website, and mobile application (“mobile app”) that they access or use to learn how these parties may use their data.
+Contents
+Our Data Services
+Data Collection
+Data Use
+Data Disclosures and Transfers
+Basis for Processing Users’ Personal Data
+Users’ Choices
+Users’ Legal Rights
+Data Retention and Security
+Children’s Data
+Changes to this Privacy Statement
+Contact Us
+Nielsen collects data from multiple sources about users’ online activity across websites, mobile apps, and devices (including laptops, smartphones, and televisions); sorts it into categories based on users’ demographics, interests, and preferences; and makes it available to advertisers, website publishers, and content providers (collectively, our “Clients”) in order to facilitate interest-based advertising and provide a more relevant advertising experience to consumers.
+We do not collect directly-identifiable data, such as names, email addresses, phone numbers, or social media user names from users in connection with our services.
+We collect data via our own technologies and from third parties, such as website publishers, mobile app developers, smart TV operators, and other providers of advertising technology and services in a variety of ways, including through the use of browser cookies, pixel tags, application software development kits (“SDKs”), and server-to-server connections with our partners.
+==========
+We collect information about users’ browsers and devices, such as the mobile device identifier, IP address, and operating system.
+We also collect information about users’ visits to certain websites (such as number of visits and pages viewed) and use of mobile apps on a device.
+We do not collect information that directly identifies individuals (e.g., names, email addresses, phone numbers).
+We use the information collected to gain insights on computer and device users, in order to allow our Clients to deliver more effective and relevant advertising and content, as described below in the “Data Use” section.
+Additional details about our data collection practices and the different technologies we use to facilitate these activities can be found below.
+==========
+Cookies.
+Cookies are small text files that are stored on a user’s browser and can be accessed by web servers when the browser returns to a website or goes to another website.
+We use cookies to gather data about a user’s visit to a website (e.g., number of visits, average time spent, pages viewed, navigation history through the website, and other statistics).
+==========
+Pixel Tags.
+Pixel tags are small strings of code that provide a method for delivering an image on a web page or other document.
+==========
+Pixel tags allow the operator of the web page or other document (or a third party who serves the pixel tag) to set, read, and modify certain cookies.
+Pixel tags may also be used to gather data about the device being used to view that web page, such as the time a tag was sent, the user’s operating system and browser type, and similar data.
+==========
+SDKs.
+An SDK is a piece of code within a mobile app that provides functionality for the app.
+==========
+We use SDKs to collect and transmit certain data to us.
+This data includes a mobile advertising identifier (i.e., an Apple IDFA or Google Advertising ID), IP address, timestamp, general (not precise) location information derived from the device’s IP address, and data regarding the use of mobile apps on the device from which we make inferences about the demographics, interests, and/or preferences of users.
+We also receive data (such as user agent data and device ID) collected by or from users’ mobile devices.
+Server-to-Server Connections.
+==========
+We may obtain data, such as user agent header, IP address, or unique device ID, that relates to users’ browsers, mobile devices, and television use from other online and offline third-party sources directly through connections to their servers and various secure data transfer methods.
+As part of our efforts to comply with the EU General Data Protection Regulation (“GDPR”), when processing personal data or accessing and/storing data on users’ devices using cookies and similar technologies (e.g., pixel tags and device identifiers), the Nielsen Marketing Cloud participates as a vendor under the IAB Europe’s Transparency & Consent Framework.
+For additional information about the Framework, please visit https://iabeurope.eu/press-releases/iab-europe-iab-tech-lab-release-updated-transparency-consent-framework/.
+(https://advertisingconsent.eu/vendor-list/).
+==========
+Generally, we and our Clients use the data collected in order to gain better insights on computer and device users and allow our Clients to deliver more effective and relevant advertising and content to such users.
+For example, data about a user’s visits to different websites may be used to make inferences about the types of ads and content that may interest the user.
+We and our Clients also may use the data collected in browsers for advertising, analytics, or ad reporting purposes, for security and anti-fraud purposes, or to improve our services.
+We may use and combine data obtained  from different sources, including data from third-party sources, such as Neustar, Liveramp, and Experian, to help our Clients create a more personalized advertising and online experience for users.
+We may also use data about a user’s activity across multiple, unaffiliated third-party mobile apps to predict the types of ads that may interest the user.
+We share this data and data about a user’s visits to different websites with our Clients to identify an ad, a group of ads, or content to be displayed on a particular computer or device.
+We may combine the data collected with a user’s mobile device advertising identifier and retain it for up to 120 days from the date of the user’s last online activity.
+We may receive and create non-sensitive health and lifestyle-related segments (i.e., categories of users grouped by common traits or preferences) to enable our Clients to deliver interest-based ads to users in web browsers and mobile apps.
+Examples of such segments include: Cycling, Diet and Fitness, Diet and Weight Loss, Digestive Health-Yogurt, Fitness and Exercise, Health and Beauty, Health Food, Running, Skin Care, and Yoga.
+==========
+We may use data we collect or receive from advertising technology partners and our Clients, including smart television providers, website publishers, and mobile app providers, to make a deterministic or statistical match of mobile device advertising identifiers and cookie identifiers.
+For example, we or our partners may match a user’s devices if the user logs in to the same online service on multiple devices or web browsers or if the user’s devices share similar attributes that support an inference that they belong to the same user.
+We also may use such data to match a user’s interests across devices, as well as for analytics, ad reporting, or to improve our services.
+We may retain information about device matches for up to 13 months from a user’s last online activity.
+==========
+data disclosures and transfers
+We may disclose data collected through or in connection with our services with various parties for different purposes, as described below.
+We share data within the Nielsen group of companies to allow Nielsen’s media measurement business to provide more detailed reports for Nielsen’s other customers.
+For example, Nielsen Marketing Cloud cookie data allows Nielsen to let its advertising customers know whether consumers who clicked on an ad tend to fit into segments of inferred commercial interests, such as an interest in sports, gardening, or cars.
+This helps Nielsen’s customers refine their advertising and other marketing-related communications.
+We may share aggregate, anonymized data with our Clients and other third parties in connection with reporting and accounting needs as well as with other unaffiliated third parties for various purposes, such as advertising and statistical or educational analysis.
+==========
+We use data obtained (as described in the “Data Collection” section above)  about different websites a user has visited, content a user has viewed on a television, and/or mobile apps a user has used over time in order to group cookie identifiers or mobile device advertising identifiers into various categories based on demographics, interests, and/or preferences.
+For example, a particular browser or device may be identified as a member of one or more interest categories (e.g., an interest in green living, golf, or action movies) when the browser or device visits certain web pages or mobile apps that are operated by our Clients.
+The particular categories that a cookie identifier or mobile device advertising identifier might fall into are dynamic and change based on a user’s ongoing browsing history or mobile app use.
+We also create custom categories for our Clients based on demographics and interests (e.g., females aged 26-40 who are interested in sports, clothing, and travel and live in a certain region).
+==========
+Our Clients identify the categories of individuals to whom they wish to target specific ads, and we provide them with cookie identifiers, IP addresses, or mobile device advertising identifiers that match those categories, which they or their partners (e.g., advertising agencies) can then use to deliver ads.
+Any time a user deletes their cookies or resets their mobile device advertising identifier, we stop associating new data to those identifiers.
+As described below in the “Users’ Choices” section, a user who clears their cookies and/or resets their mobile device advertising identifier is treated as a new user, and new data will be collected and associated with the new cookie identifier or mobile device advertising identifier.
+==========
+We share data with third parties that provide services to us, such as system hosting, management, and support; data analysis; data backup; and security and storage services.
+We may share data if we have a legal obligation to do so or where we believe it is necessary to protect the rights, property, or safety of any person.
+In the event of a corporate transaction, such as a reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with a bankruptcy or similar proceeding), all data collected or maintained by us may be shared with relevant third parties.
+Users that have questions or concerns about the legal basis upon which we collect and use their personal data can contact us at privacy.department@nielsen.com.
+==========
+Some of these disclosures may constitute a “sale” under relevant laws.
+A “sale” typically occurs when we transfer data (including personal data such as users’ unique computer and device identifiers) to our Clients and partners so that they can use the information for their own business purposes, such as to create a more personalized advertising and online experience for users.
+A sale does not occur when we share data with other companies that provide services to us.
+Users may opt out of data collection and use (including the sale of personal information) by following the instructions set forth in the “Users’ Choices” section below.
+==========
+All of these disclosures may result in the transfer of personal data to countries or regions with data protection laws that differ from those in a user’s country of residence.
+In cases where users’ personal data is transferred outside of their country of residence, we will ensure that there are adequate safeguards in place to protect their data.
+Additional information for users residing in the EU/EEAWhere EU/EEA-based users’ personal data will be transferred to a country that has not been recognized by the European Commission as providing an adequate level of protection, the safeguards put in place by us might include a data transfer agreement with the data recipient based on standard contractual clauses approved by the European Commission for transfers of personal data to countries not providing an adequate level of protection.
+Further details relating to the transfers described above and the safeguards used with respect to such transfers can be requested by contacting us at privacy.department@nielsen.com.
+Basis for processing users’ personal data
+We are committed to providing users with choices with respect to how we process their personal data.
+This section describes how users can exercise these choices.
+==========
+Applicable law in certain countries requires us to set out in this Privacy Statement the legal basis upon which we rely in order to process users’ personal data.
+Consent: We rely on the consent that we or our data providers obtain from users in order to perform our services and help our Clients deliver more effective and relevant advertising and content to users.
+Legitimate interests: We may rely on our legitimate interests to process users’ personal data, provided that such interests are not overridden by users’ interests, fundamental rights, or freedoms.
+In particular, we may process users’ personal data in reliance on a legitimate interest in the effective and lawful operation of our business as well as the effective delivery and improvement of our products, services, and websites.
+Compliance with legal obligations: We may process users’ personal data if necessary for us to comply with a legal obligation arising under an applicable law to which we are subject.
+==========
+Users that have questions or concerns about the legal basis upon which we collect and use their personal data can contact us at privacy.department@nielsen.com.
+We are committed to providing users with choices with respect to how we process their personal data.
+This section describes how users can exercise these choices.
+==========
+OPTING OUT AND OBJECTING TO OUR USE OF PERSONAL DATA
+We provide users with multiple ways to opt out of our use of their data, as described below.
+SMART TELEVISIONS
+Nielsen Marketing Cloud requires its Smart Television clients and partners to ensure that appropriate disclosures regarding data collection and use and related choices are provided to users.
+==========
+Users wishing to opt out of the collection and use of their data from televisions can do so by adjusting the settings on their TVs.
+WEB BROWSERS 
+Users may opt out of our data collection and use of cookies for interest-based advertising purposes at any time.
+==========
+Click here to visit our opt-out page
+After opting out, users will no longer be included in the ad and content targeting activities that are conducted online or via smart television platforms via our services.
+Users will still receive online and television ads and content, but these ads and content may not be as personalized or relevant to the users.
+We make efforts to work with different ad platforms to ensure opt out requests are communicated and addressed in a timely manner, but changes may not take immediate effect, depending on the platform.
+==========
+If a user changes devices or browsers, uses multiple devices or browsers, or deletes their cookies, they will need to repeat the opt-out process for each device and each browser.
+Users may download a browser plugin that will help them maintain their opt-out choices even if they delete certain cookies from their browser by visiting https://www.aboutads.info/PMC.
+==========
+Please note that ongoing changes by browser manufacturers to their default settings may interfere with our opt-out functionality.Nielsen Marketing Cloud is a member of several interest-based advertising self-regulatory groups, including the Digital Advertising Alliance (“DAA”), European Interactive Digital Advertising Alliance (“EDAA”), and Network Advertising Initiative (“NAI”), and adheres to the self-regulatory principles and/or codes of conduct of each organization.
+Users may opt out of our processing of their data by using the opt-out tools and consumer choice mechanisms provided by each of these interest-based advertising self-regulatory groups by following the links below:
+DAA: https://optout.aboutads.info/?c=2&lang=EN
+EDAA: https://www.youronlinechoices.com
+NAI: https://optout.networkadvertising.org/?c=1
+Please note that Nielsen Marketing Cloud’s participation in these organizations may appear under the “eXelate” name.
+==========
+We honor “Do Not Track” signals set in certain browsers by not tracking a user’s web viewing data while “Do Not Track” is turned on in the user’s browser settings.
+We currently honor signals set in Chrome, Firefox, Safari, and certain versions of Internet Explorer.
+==========
+MOBILE APPS
+Because mobile app environments do not accept cookies, the opt-out methods described above may not work when a user is in the mobile app environment.
+Users who would like to exercise opt-out control while in the mobile app environment, may, therefore, want to download the AppChoices App provided by the DAA relevant for their mobile platform using the links below on each of their mobile devices and by setting their preferences within each app.
+Download AppChoices for iOS devices
+Download AppChoices for Android devices
+Note: Users that have reset their mobile device advertising identifiers will also need to reset their preferences within the AppChoices App.
+==========
+CROSS-DEVICE MATCHING OPT OUT
+Users who wish to opt out of our cross-device matching, may do so by using the tools identified in each of the “Web Browsers” and “Mobile Apps” sub-sections above.
+Once a user has opted out using the tools for web browsers and mobile apps, we will disassociate the data collected on the user’s browser or device from which the user has opted out from the other browsers or devices that we may have presently matched to it.
+Similarly, we will disassociate the data collected on other browsers or devices from the device from which the user has opted out.
+In order to opt out on all browsers and devices that we may have matched, the user will need to opt out separately on each device and each browser that they use.
+==========
+Depending on their country or U.S. state of residence, under applicable law users may also have the right to:
+request confirmation as to whether or not we are processing personal data about them;
+request access to or copies of the personal data we hold about them and request that we update or correct such data (where applicable);
+propose restrictions on the ways in which we use their personal data (e.g., if we have no legal right to keep using it) or limit our use of their personal data (e.g., if their personal data is inaccurate or unlawfully held);
+object to our processing of their personal data;
+withdraw the consent that they have given us to process their personal data (where we process their personal data on the basis of their consent);
+request that their personal data be transferred to another organization in a structured, commonly used, and machine-readable format (to the extent applicable);
+request that we delete the personal data we hold about them; and
+lodge a complaint with the appropriate data protection or privacy authority regarding our processing of their personal data.
+Users that are interested in exercising one or more of the rights described above should fill out a form here or contact us at privacy.department@nielsen.com.
+Nielsen Marketing Cloud does not discriminate against users who exercise their rights under applicable law.
+==========
+Because we want to avoid taking action regarding your personal data at the direction of someone other than you, only you or an “Authorized Agent” permitted to act on your behalf may submit a request.
+An “Authorized Agent” means a natural person or a business entity you have authorized to act on your behalf by providing your written permission.
+Please note, we may deny a request from an Authorized Agent if they do not submit proof that they have been authorized by you to act on your behalf.
+Your request must:
+Provide sufficient information that allows us to reasonably verify you are the person about whom we collected personal data or an Authorized Agent; and
+Describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+==========
+We cannot respond to your request or provide you with personal data if we cannot verify your identity or authority to make the request and confirm the personal data we maintain relates to you.
+To verify your identity, we will seek to match any personal data you provide when you (or an Authorized Agent) submit your request to any personal data we already maintain.
+If we are unable to verify your identity based on the information we maintain, we will let you know.
+==========
+Additional information for users residing in the EU/EEA
+Users that have questions or concerns about our collection or use of their personal data can contact our EU Data Protection Officer at privacy.department@nielsen.com.
+Users that are unsatisfied with the way in which we have handled their personal data or any privacy query or request that they have raised to us have the right to complain to the Data Protection Authority (“DPA”) in their country of residence or the location where the issue that is the subject of their complaint occurred.
+Users can find the contact details of all national DPAs by visiting this site.
+==========
+data retention and security
+We retain pseudonymized log file data, including cookie data, web browsing data, and mobile browsing and app usage data for up to 120 days from the date of a user’s last online activity for ad targeting purposes.
+Aggregated data may be retained for other purposes, including analytics, for up to 13 months.
+We use generally-accepted industry security standards including physical, electronic, and administrative safeguards that are designed to help protect the data that we collect, use, and retain.
+==========
+However, please note that no security measures are perfect, and there can be no absolute assurance of security.
+We understand the importance of protecting the privacy of children, especially in the online environment.
+==========
+Our products and services are not designed for or directed at children.
+We do not knowingly solicit, collect, or maintain personal data from children under the age of 16.
+Similarly, we prohibit our third-party data providers from providing us with personal data from websites and mobile apps directed at children or from knowingly sharing with us data relating to children.
+If we become aware that we have collected or received personal data relating to a child, we will take reasonable steps to delete it.
+==========
+Changes to this privacy Statement
+We may update or revise this Privacy Statement as needed from time to time in light of, for example, changing business or personal data processing practices, technology, or legal requirements.
+When we make changes to this Privacy Statement, we will amend the “Last updated” date at the top of this page.
+We encourage users to visit this page periodically to review any updates and remain informed about how we are processing and protecting personal data.
+Users can exercise their legal rights as described above in the “Users’ Legal Rights” section.
+Should you have questions relating to this Privacy Statement or Nielsen Marketing Cloud’s privacy practices, please email us at: privacy.department@nielsen.com or write us at:
+For EEA residents:
+Nielsen
+Nielsen House
+Oxford Business Park South
+John Smith Drive
+Oxford OX4 2WB
+UK
+Attn.: Legal Dept.
+For residents in all other countries:
+Nielsen
+85 Broad Street
+New York, NY 10004
+USA
+Attn.: Legal Dept.
+==========

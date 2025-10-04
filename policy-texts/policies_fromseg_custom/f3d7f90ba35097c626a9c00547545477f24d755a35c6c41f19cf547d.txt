@@ -1,0 +1,18 @@
+NAI SELF-REGULATORY PRINCIPLES
+Governing Online Preference Marketing (OPM)
+Sensitive Personally Identifiable Data - Network advertisers shall not use personally identifiable information about sensitive medical or financial data, sexual behavior or sexual orientation, nor social security numbers, for OPM.
+Non-Personally Identifiable OPM - Network advertisers, when entering into a contract with publisher customers for services which include OPM, shall require that their customers: (1) post a privacy policy that clearly and conspicuously discloses (a) the customer's use of the network advertiser services for OPM; (b) the type of information that may be collected by the network advertiser; and (c) the consumer's ability to choose not to participate; and (2) provide a clear and conspicuous link to the Non-PII Opt-Out Page of the NAI gateway educational site (or, if only one network advertiser services the Web site, to a screen at the site of the network advertiser that has on the screen either the ability to opt-out or a hyperlink to the ability to opt-out).
+Merger of PII with Previously Collected Non-PII - Network advertisers or organizations acting on their behalf will not merge previously collected Non-PII with PII for OPM without the consumer's prior affirmative consent ("opt-in;") to any such merger.
+Network advertisers will collect PII for OPM purposes only from the sites of publisher customers with which they have contractual relationships.
+Merger of PII with Prospective Non-PII - Network advertisers will not merge PII with Non-PII collected on a going forward basis (i.e., after the user provides PII) for OPM unless the consumer has been afforded robust notice and choice about such merger before it occurs.
+Robust Notice - The notice must be at the time and place of collection of the PII and must disclose: (a) that the PII is shared with a network advertiser for purposes of OPM; (b) the type of information that may be collected and linked by the network advertiser; (c) the consequent loss or partial loss of anonymity to the advertising company of future Web usage; and (d) the ability of the consumer to choose not to participate.
+==========
+For this category of merger, all such opt-out notices in the screen presented to the user shall be substantially similar in clarity and prominence to the sample notices provided.
+NAI Gateway Educational Site - NAI will establish an NAI site that will provide users with information about the privacy practices of NAI companies, as well as the ability readily to opt-out for each NAI company, at a single Web location.
+==========
+Contractual Enforcement - If network advertisers know or have reason to know that a publisher customer is in breach of the specified contractual requirements for customer compliance, the network advertiser will make reasonable efforts to enforce the contract.
+Access to PII - Network advertisers shall provide consumers with reasonable access to PII and other information that is associated with PII retained by the network advertiser for OPM purposes.
+==========
+Enforcement - The NAI principles themselves are an enforceable document under existing FTC authority.
+The NAI agrees to establish a third-party enforcement program that will govern compliance with the NAI principles, including the possibility of referrals to the Federal Trade Commission.
+==========

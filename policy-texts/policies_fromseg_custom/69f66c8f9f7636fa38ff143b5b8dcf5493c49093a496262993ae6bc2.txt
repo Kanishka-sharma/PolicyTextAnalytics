@@ -1,0 +1,174 @@
+This Cookies Policy describes how STMicroelectronics International N.V and its subsidiaries (“ST”) and its partners use cookies and similar technologies such as pixel tags, web beacons, clear GIFs, JavaScript, and local storage (“Cookies”) in connection with the web sites (including mobile web sites and apps) owned and controlled by STMicroelectronics International N.V and its subsidiaries (the “ST Sites”).
+By using ST Sites, you agree with this Cookies Policy and consent to the use of Cookies by ST in accordance with the terms of this Cookies Policy.
+Cookies may be used to collect information that is personally identifiable, or that can become personally identifiable if ST combines it with other information.
+In such cases, the ST Privacy Policy will apply in addition to this Cookies Policy.
+==========
+About Cookies
+Cookies are small files—usually made of letters and numbers— downloaded on to a device (computer, tablet, phone, or similar device) when you use such device to visit a web site.
+Cookies allow a web site to recognize a user’s device and are used by web site owners to operate their web sites more efficiently, and provide analytic information.
+Cookies are used to understand how the site or service is being used, to help you navigate between pages efficiently, to help remember your preferences, and generally to improve your browsing experience.
+==========
+Cookies may also be used to ensure marketing you see online is more relevant to you and your interests and to deliver advertisements and communications relevant to your interests.
+ST and its service providers may use different types of Cookies on ST Sites:
+Strictly necessary Cookies.
+These Cookies are essential for the operation of ST Sites (for example, to enable you to log into secure areas of our web site or use a shopping cart).
+These Cookies enable you get access the ST Sites and use their features.
+Disabling these Cookies will encumber the ST Sites’ performance and may make the features and service unavailable.
+Analytical and performance Cookies.
+==========
+These Cookies collect information about how you use the ST Sites for the purposes of improving and optimizing the way ST Sites work and to ensure that visitors can easily find the information they are looking for on ST Sites.
+Analytics Cookies are used to measure the performance of ST Sites and to optimize ST Sites’ content (which pages visitors go to most often and if they get error messages from web pages).
+Functionality Cookies.
+These Cookies are used to recognize you when you return to ST Sites.
+This enables ST to personalize content for you, and remember your preferences (for example, your choice of language or region).
+Advertising and Targeting Cookies.
+These Cookies record your online activities and retain user preferences, allowing those preferences to be used in future browsing sessions, in order to make the content displayed on ST Sites more relevant to you and your interests.
+ST and its third-party partners may also use these types of Cookies to deliver advertisements and communications relevant to your interests and to measure the effectiveness of advertising campaigns.
+These Cookies can remember that your device has visited a site or service, and may also be able to track your device’s browsing activity on other sites or services other than ST Sites.
+This information may be shared with organizations outside ST, such as advertisers and/or advertising networks to deliver the advertising, and to help measure the effectiveness of an advertising campaign.
+==========
+Session and Persistent Cookies
+Cookies may be either “persistent” or “session”.
+Persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date.
+ST may use persistent Cookies for storing your preferences so that they are available for the next visit, keep tracking how often you visit ST Sites, how your use the ST Sites, and the effectiveness of advertising efforts; while a session cookie will expire at the end of the user session, when the web browser is closed.
+First and third-parties Cookies
+Whether a Cookie is ‘first’ or ‘third’ party refers to the website placing the Cookie.
+First party Cookies are cookies set by the ST Site visited by the user.
+Third party cookies are Cookies that are set by a website or a domain other than the ST Site.
+If a user visits a website and a separate company sets a Cookie through that website this would be a third party Cookie.
+Purpose of use
+ST and its service providers may use Cookies for various purposes, including to:
+help ST and third parties obtain information about your visits to ST Sites;
+process your orders;
+analyze your visiting patterns to improve ST Sites;
+understand how you interact with e-mails, advertisements, or other content
+enhance your experience and understand traffic patterns
+deliver advertising, communications, and content from us and third parties, specific to your interests;
+perform analytics and help ST to optimize ST Sites, and to help serve you advertising based on your interests;
+aggregate statistics about how ST Sites are used
+remember your language and other preferences;
+help you obtain information you are looking for;
+provide a safe and secure service for online transactions;
+measure how many people use ST Sites, and how they use them, keep ST Sites running efficiently and better understand ST Sites’ audiences.
+If you register on one of ST Sites, or otherwise provide us with your personal information, we may associate that information with other information ST collects from or about you or that you provide, information regarding your use of ST Sites, or information ST receives from or about you from third parties.
+ST may use this combined data for marketing and analytics purposes.
+Cookie ST or third-party Cookie Purpose of Use Session or Persistent 
+Downloadable Software: email ST Functionality Persistent
+Downloadable Software: light_approvals ST Functionality Persistent
+Downloadable Software: init_lmu_[user-id] ST Functionality Persistent
+Login: login-token ST Strictly necessary Session
+Login: TAG_USER ST Strictly necessary Session
+Login: TAG_USER_COMP ST Strictly necessary Session
+Search: searchHistory ST Functionality Session
+Adobe Marketing Cloud: demdex third-party Analytical and performance
+Advertising and targeting Persistent
+Adobe Marketing Cloud: AMCV_ ST Analytical and performance
+Advertising and targeting Persistent
+Adobe Analytics: c_m ST Analytical and performance Session
+Adobe Analytics: gpv_pn ST Analytical and performance Persistent
+Adobe Target: mbox ST Analytical and performance
+Advertising and targeting Persistent
+Adobe Analytics: s_cc ST Analytical and performance Session
+Adobe Analytics: s_dl ST Analytical and performance Persistent
+Adobe Analytics: s_nr ST Analytical and performance Persistent
+Adobe Analytics: st_chan ST Analytical and performance Persistent
+Adobe Analytics: AdbKie ST Analytical and performance Session
+Adobe Analytics: s_fid ST Analytical and performance
+Advertising and targeting Persistent
+Adobe Analytics: AdbUie ST Analytical and performance Session
+Kampyle: PHPSESSID third-party Analytical and performance Session
+Kampyle: FF_referrer_url third-party Analytical and performance Persistent
+Kampyle: FF_caller_url third-party Analytical and performance Persistent
+Kampyle: __utma third-party Analytical and performance Persistent
+Kampyle: __utmb third-party Analytical and performance Persistent
+Kampyle: __utmc third-party Analytical and performance Session
+Kampyle: __utmz third-party Analytical and performance Persistent
+Alexa: _sm_au_c third-party Analytical and performance Session
+Crazy Egg: _sm_au_c third-party Analytical and performance Session
+Blocking, deleting and opting out Cookies
+If you do not want ST to recognize your device, you can also delete Cookies from your device, block all Cookies, or warn you before a Cookie is stored by adjusting your browser settings.
+==========
+If you do not accept Cookies, the use of some services or parts of ST Sites will not be available to you.
+Generally, Cookies allow ST to determine who you are and thus provide you with better and more personalized services.
+The following web sites provide information on how to adjust the Cookies settings on some popular browsers:
+a) Apple Safari
+Manage cookies
+Choose Safari > Preferences, and then click Privacy.
+In the “Block cookies” section, specify if and when Safari should accept cookies from websites.
+==========
+To see an explanation of the options, click the Help button (question mark).
+If you want to see which websites store cookies on your computer, click Details.
+If you set Safari to block cookies, you may need to temporarily accept cookies to open a page.
+Repeat the above steps, selecting Never.
+==========
+When you’re done with the page, block cookies again, and then remove the page’s cookies.
+b) Google Chrome
+Delete specific cookies or clear all cookies
+In the top right, click the Menu.
+Click Settings > Show advanced settings.
+In the "Privacy" section, click Content settings.
+Under "Cookies," click All cookies and site data.
+To delete all cookies, click Remove all.
+To delete a specific cookie, hover over a site, then click the X that appears to the right.
+You can also choose to remove all cookies created during a specific time period.
+Allow or don't allow cookies
+In the top right, click the Menu.
+==========
+Click Settings > Show advanced settings.
+In the "Privacy" section, click Content settings.
+Use the "Cookies" section to change your settings:
+To block all cookies, click Block sites from setting any data.
+When you use this setting, most sites that require you to sign in won't work.
+==========
+To allow only first-party cookies and block all third-party cookies, check Block third-party cookies and site data.
+This setting means that site data cannot be written and read, even if you've added a site to the exceptions list and have chosen to allow its cookies.
+To allow both first-party and third-party cookies, click Allow local data to be set.
+c) Microsoft Internet Explorer
+Manage Cookies
+Under the “Privacy” tab in Internet Options, there are two sets of options – “Sites” and “Advanced.”
+==========
+Let’s look at “Sites” first.
+When you click on this, you will be presented with the option of specifying which sites are always allowed or not allowed to use cookies on your computer, regardless of their privacy policy.
+Delete Cookies
+To delete all cookies, head to the “General” tab under “Internet Options” and then click “Delete…”under the “Browsing History” tab.
+Check “Cookies and Website Data” and click delete.
+To delete individual cookies, click “Settings” under the “Browsing History” tab.
+==========
+From there, head to “Temporary Internet Files” and select “View Files” to see a list of all the temporary internet files Internet Explorer has saved to your hard drive.
+Select the files you want to remove and delete them manually.
+d) Mozilla Firefox
+Enable and disable cookies
+Click the menu button  New Fx Menu and choose Options.
+Select the Privacy panel.
+==========
+Set Firefox will: to Use custom settings for history.
+Check mark Accept cookies from sites to enable cookies, and uncheck it to disable them.
+Choose how long cookies are allowed to be stored:
+Keep until:
+they expire: Each cookie will be removed when it reaches its expiration date, which is set by the site that sent the cookie.
+I close Firefox: The cookies that are stored on your computer will be removed when Firefox is closed.
+Close the about:preferences page.
+Any changes you've made will automatically be saved.
+Delete all cookies
+To delete all cookies stored on your computer, either open the Cookies window as explained above and use the Remove All Cookies button, or else do the following:
+Click the menu button, choose History, and then Clear Recent History.
+Set Time range to clear to Everything.
+==========
+Click on the arrow next to Details to expand the list of history items.
+Select Cookies and make sure that other items you want to keep are not selected.
+Click Clear Now to clear the cookies and close the Clear Recent History window.
+==========
+Links to other websites
+ST Sites may contain links to websites of other providers to which this Cookies Policy does not apply.
+If the usage of web pages of other providers is connected with the collection, processing, or use of personal data, please see the respective privacy policies of those providers.
+ST assumes no responsibility for the content of these websites.
+==========
+Privacy at ST
+For more information about ST's approach to privacy see ST Privacy Policy and the ST Code of Conduct.
+You can contact ST regarding this Cookies Policy at the following email address: cookies_policy@st.com.
+Please provide ST with your contact details, the name of the ST Site or service in question, and a detailed description of your request.
+==========
+This Cookies Policy may be modified at any time.
+Any change to this Cookies Policy will become effective when ST makes the revised Cookies Policy available on ST Sites.
+Cookies Policy: May 1st 2016
+==========

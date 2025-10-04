@@ -1,0 +1,26 @@
+PRIVACY POLICY
+This privacy policy discloses the privacy practices for Marketing Science Consulting Group, Inc. and the technology toolset Bot Analytics (b2c.com).
+Information Collection, Use, and Sharing 
+We collect data about the browser using standard javascript requests, as specified by the W3C.
+( https://www.w3.org/standards/webdesign/script ); the same as other analytics platforms such as Google Analytics or Adobe Analytics.
+==========
+This data contains NO personal information or personally identifiable information.
+We will never ask you to provide any information to us.
+==========
+We do not set or use cookies.
+We do not write or store any information similar to cookies in your browser.
+The data enables us to make a determination whether the visitor is a bot or human.
+==========
+There is NO login process, usernames, or passwords.
+We are the sole owners of the information collected on this site.
+We will not sell or rent this collected information to anyone.
+==========
+We use aggregated data to assess the quality of the entire population of visitors.
+Security 
+
+We take precautions to protect the anonymous data that is collected.
+==========
+We always use "https" to secure all communications to and from the browser and our servers.
+All data is encrypted during transmission and in storage on the servers.
+Our Privacy Policy may change from time to time and all updates will be posted on this page.
+==========

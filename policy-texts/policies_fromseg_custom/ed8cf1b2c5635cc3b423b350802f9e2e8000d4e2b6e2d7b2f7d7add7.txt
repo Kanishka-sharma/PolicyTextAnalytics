@@ -1,0 +1,155 @@
+Privacy Policy  Last Updated: October 15, 2020
+AudioMob is an advertising technology company that allows game developers to monetise their games without interrupting gameplay, using audio ads.
+A reference to “AudioMob” “we” or “our” means AudioMob Limited.
+AudioMob provides advertising technology via our platform (“AudioMob Platform”) and related advertising tools (collectively the “AudioMob Services”).
+We provide our services and tools to our “Developers,” who own and operate mobile applications (each a “Developer Property”) and “Buyers” who are advertisers and other ad partners looking to distribute ad content through the AudioMob Platform.
+==========
+The AudioMob Services help Developers display advertising to end users (“Users”) who interact with Developer Property that use the AudioMob Services.
+This Privacy Policy (“Policy”) covers the information that we may process about end users (“Users”) through the AudioMob Services.
+If you are resident in the European Economic Area and want to find out more about your data protection rights please see YOUR DATA PROTECTION RIGHTS below.
+==========
+AudioMob may also share or license certain information about Users collected in connection with the AudioMob Services with brands, agencies and other interested third parties, to help them better identify and validate commercial opportunities, promote transparency and protect against fraud.
+This Section covers all the information we collect and receive from Users in connection with our products and services, including Users of Developer Properties that use the AudioMob Services.
+WHAT INFORMATION WE COLLECT
+Information we automatically collect
+When a User visits a Developer Property that incorporates our technology, AudioMob and our partners use and deploy tracking technologies to automatically collect certain information about the Users and their devices.
+Some of this information (including mobile advertising IDs) may identify a particular device and may be “personal data” in some jurisdictions, including the EU.
+==========
+The AudioMob Services are designed to process information in such a manner that the information cannot be directly attributed to a specific, identifiable individual without the use of additional information (such as a name, address or email address).
+AudioMob and our partners may collect this information the first time a User interacts with a Developer Property that utilises the AudioMob Services and we may combine and associate this information with information we (or our partners) may collect about the User’s interactions with other ads served through the AudioMob Platform.
+==========
+The information we may collect includes:
+
+
+Device information, such as the device type and model, manufacturer, operating system type and version (e.g. iOS or Android), user-agent, carrier name, time zone, network connection type (e.g. Wi-Fi or cellular), IP address, general location inferred from IP address, hardware-based identifiers (e.g. MAC address), information about our Developer apps and versions currently active on a device (but not any other apps), and identifiers assigned to a device, such as its iOS Identifier for Advertisers (IDFA), Android/Google Advertising ID (AAID or GAID), or other unique device identifier (typically an alphanumeric string allocated to a device by the device manufacturer).
+Information about a User’s behaviour on our Developer Property, such as information about the activities on those Developer Properties and geolocation (including latitude and longitude coordinates but only if the Developer Property has enabled location services on the device and the User has granted the Developer permission to collect and share this information for advertising purposes).
+Information about Ads served, engaged with or interacted with, such as the type of Ad, where the Ad was served, the number of times a User has listened to the Ad, how long the Ad was engaged with, whether the User clicked on it and whether the User visited an advertiser website or relevant app store.
+==========
+HOW WE USE YOUR INFORMATION
+We use the information we collect for a variety of business purposes.
+For example, we use the information we collect for the following purposes:
+
+
+Providing the AudioMob Services: Generally we use the information we collect about Users to provide our products and services (including the AudioMob Services) as described in this Policy.
+==========
+Serving Ads: To allow Developers to offer advertising inventory in their Developer Properties and Buyers to bid on and fill that inventory with relevant Ads.
+Reporting: To provide information and reports to Buyers about when and how Users have been exposed to their ads, clicked on their ads or visited a Developer Property.
+Frequency Capping: To prevent Users from seeing the same Ad too many times.
+Performance Analytics: To analyse Ad performance, such as tracking engagement with ads and click-through rates to websites or app stores and/or installs of apps that have been advertised.
+Location-Based Advertising: To deliver location based advertising services through the use of a User device’s physical location (where permitted by law).
+Fraud Detection: To identify invalid Ad impressions, interactions or installs.
+==========
+As we believe to be necessary or appropriate: Under applicable law, including laws outside a User’s country of residence, including responding to requests from government authorities, including and government authorities outside of a User’s country of residence, and to enforce our terms and conditions.
+TRACKING TECHNOLOGIES
+We may use tracking technologies (such as pixel tags, IDFA, AAID/GAID, UDID, ETags) to collect information automatically from Users devices.
+==========
+They help us perform functions such as limiting the same Ad from continuously being served and serving an Ad more relevant to the User.
+Cross-App and Cross-Device targeting
+Our Developers and Buyers may use information that we share with them to establish connections among related devices for targeted advertising, analytics and reporting purposes.
+They may match a User’s devices if the User logs utilises the same or similar service on multiple devices or if the User’s devices share similar attributes that support an inference that they are used by the same person or household.
+This means that information about a User’s use of applications on their device may be combined and used with information from the User’s other devices.
+Our Developers and Buyers may use other information about a User’s activity across multiple, unaffiliated third-party mobile applications for targeted advertising, analytics and reporting purposes.
+For example, if a User uses a travel app, these third parties may display travel-related ads to the User on other unrelated apps.
+To opt out of cross-app targeting practices, please follow the instructions in the paragraph below titled “Opting Out of Interest-Based Advertising in Mobile Apps” below.
+==========
+GENERAL INFORMATION
+HOW WE SHARE YOUR INFORMATION?
+Information we collect may be disclosed:
+
+
+Developers:  If you are a User, we may disclose information collected through our AudioMob Services to our Developers to allow them to analyse the effectiveness and performance of our AudioMob Services and to offer targeted Ad inventory to our Buyers.
+Buyers: If you are a User, we may share information we collect in connection with our AudioMob Services with our Buyers for purposes relevant to our business relationships with them, such as for billing purposes, dispute resolution or fraud prevention and to allow them to make decisions regarding buying advertising inventory on our Developer Properties and other applications and to analyse the effectiveness and performance of their advertising campaigns via the AudioMob Services.
+Other clients: If you are a User, we may share certain information we collect in connection with our AudioMob Services with brands, agencies and other interested third parties to help them better identify and validate commercial opportunities.
+Analytics Partners: If you are a User, we may share your information (such as your mobile device ID, or other unique identifier) with our attribution and analytics partners to validate and measure the success and effectiveness of Ads delivered via the AudioMob Platform.
+==========
+Business transfers: We may share your information with a third party in the event of any reorganisation, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or sock (including in connection with any bankruptcy or similar proceedings).
+For legal purposes: We may share your information as we believe to be necessary or appropriate under applicable law, including laws outside your country of residence, to respond to requests from government authorities, including government authorities outside your country of residence and to enforce our terms and conditions.
+With consent: We may disclose an individual’s information to any other person with the individual’s consent to such disclosure.
+==========
+YOUR OPT-OUT CHOICES
+Opting Out of Interest-Based Advertising in Mobile Apps
+Our advertising partners may display interest-based advertising to you in mobile applications, based on your use of mobile applications over time and across non-affiliated apps.
+To learn more about these practices and how to opt out, visit www.aboutads.info/appchoices and download the DAA’s AppChoices mobile app and follow the instructions provided in the AppChoices mobile app.
+Alternatively, you can also adjust the advertising preferences on your mobile device (in iOS, visit Settings > Privacy > Advertising > Limit Ad Tracking, and in Android, visit Settings > Google > Ads > Opt out of interest-based ads).
+==========
+YOUR DATA PROTECTION RIGHTS
+You have the following data protection rights:
+
+
+You have the right to request access to or that we change, update, or delete your personal information at any time.
+Please note that we may impose a small fee for access and disclosure of your personal information where permitted under applicable law, which will be communicated to you.
+==========
+If we have collected and processed your personal information with your consent, then you can withdraw your consent at any time.
+Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+The right to opt out of receiving marketing communications from us.
+Please see YOUR OPT-OUT CHOICES for further information.
+==========
+If you are a resident of the European Economic Area (EEA), you may also have the following rights:
+
+
+
+The right to object to processing of your personal information, restrict processing of your personal information, or request portability of your personal information.
+To exercise these rights email privacy@audiomob.com ; and
+
+
+The right to complain to a data protection authority about our collection and use of your personal information.
+For more information, please contact your local data protection authority.
+Contact details for data protection authorities in the EEA are here.
+Please note that because most of the information we collect can only identify a particular device and cannot directly identify you personally and therefore you may need to provide us with some additional information to enable us to identify the personal information we hold about you and ensure that we accurately fulfil your request and do not infringe on the privacy rights of other individuals.
+You can exercise your rights at any time by contacting us at privacy@audiomob.com.
+==========
+We will respond to your request in accordance with our obligations under applicable privacy laws.
+Please review our Data Subject Rights Notice for further information and instructions on how to exercise your rights.
+==========
+LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION 
+For users located in the EEA, our legal basis for collecting and using personal information described above will depend on the personal information concerned and the specific context in which we collect or use it.
+We normally rely on our or our Developers legitimate interests to collect and use your personal information, except where such interests are overridden by your data protection interests or fundamental rights and freedoms.
+The AudioMob legitimate interests are described in more detail in the sections above with the heading “How We Use Your Information”.
+In connection with the AudioMob Services, our legitimate interests include the operation of our AudioMob Platform and the provision of the AudioMob Services to Developers as required by our agreements with them.
+We may rely on your consent that we obtain directly from you, or in the context of our AudioMob Services, which is obtained for us by Developers that use our technology or use technology that interacts with the AudioMob Platform.
+THIRD PARTIES
+We are not responsible for the privacy practices of any third parties, including our Developers or any other third party operating any site or service to which the AudioMob Services or AudioMob Platform link.
+The inclusion of a link through the AudioMob Services does not imply endorsement of the linked site or service by us or by our affiliates.
+==========
+KEEPING YOUR PERSONAL INFORMATION SECURE
+We use reasonable organisational, technical, administrative and physical safeguards to protect the personal information we collect and process.
+The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information and to help ensure that your data is safe and secure.
+==========
+RETENTION OF YOUR INFORMATION
+We retain personal information for the period necessary to fulfil the purposes outlined in this Policy and where we have ongoing legitimate business needs to do so.
+If you are a User, we may retain information that we collect through the AudioMob Services for up to 60 days from the last date that we received any of the User’s data.
+If we are required to retain information to comply with a legal or audit obligation, we may store User information for longer periods.
+After the applicable retention period, AudioMob may only retain and use your data: (i) in an aggregated or anonymised format; (ii) to comply with its legal obligations; (iii) to resolve disputes and enforce agreements.
+INTERNATIONAL DATA TRANSFERS
+Where applicable, we will protect your personal information through other legally valid methods, including international data transfer agreements.
+In connection with the AudioMob Platform and AudioMob Services, your personal information may be transferred to and processed by AudioMob its service providers and partners in countries other than the country in which you are resident.
+==========
+These countries may have data protection laws that are different from the laws of your country of residence and may not provide the same level of protection as your jurisdiction.
+Regardless of where your data is located, AudioMob shall process your personal information in accordance with this Policy.
+==========
+If you are resident in the EEA, UK or Switzerland, we will protect your personal information when it is transferred outside of your jurisdiction by (i) processing it in a territory that provides an adequate level of protection for personal information based on the receiving country’s data protection laws; and/or (ii) implementing appropriate safeguards to protect your personal information, such as requiring the recipient to comply with the Standard Contractual Clauses or another lawful and approved transfer mechanism.
+PRIVACY OF CHILDREN
+AudioMob complies with the requirements under applicable privacy laws such as Children's Online Privacy Protection Act (COPPA) and California Consumer Privacy Act (CCPA) the US and GDPR in EEA and does not knowingly collect personal information or personal data about users of sites or apps directed to children.
+==========
+UPDATES TO THIS POLICY
+We will review and update this Policy periodically and will note the date of its most recent revision at the bottom of this Policy.
+If we make material changes to this Policy, we will post the revised Policy on our website and may take additional measures to inform you about such changes prior to such changes taking effect, if required by applicable data protection laws.
+==========
+We encourage you to review this Policy frequently to be informed of how AudioMob is protecting your information.
+CONTACTING US
+If you have any questions about this Policy or AudioMob’s privacy practices, please contact us by email at privacy@audiomob.com or by mail using the details provided below.
+Please note that email communications are not always secure, so please do not include sensitive information in your emails to us.
+==========
+European Economic Area (EEA) Residents:
+Attn: Data Protection OfficerAudioMob Limited,
+71-75 Shelton Street, 
+Covent Garden, 
+London, 
+England, 
+WC2H 9JQ
+To comply with our obligations under EU data protection legislation, we have appointed a Data Protection Officer (DPO).
+Our DPO is contactable at dpo@audiomob.com or by mail using the details provided above.
+==========
+Who is the controller of my data?
+For the purposes of EU data protection legislation, each mobile application Developer is the controller of your personal information that is obtained via the respective Developer mobile application.
+==========

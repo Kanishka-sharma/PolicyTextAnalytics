@@ -1,0 +1,63 @@
+HOME
+COGNITIV CORP.
+PRIVACY POLICY
+What is Cognitiv?
+Cognitiv is an advertising technology company headquartered in New York City.
+==========
+This privacy policy serves to inform you about how we process information on behalf of advertisers, data providers and other businesses that use our technology and services.
+If you have any questions about this privacy policy, please feel free to contact us at privacy@cognitiv.ai.
+==========
+Cognitiv develops and manages algorithms for a diverse set of customers.
+Some of those algorithms are used in the process of buying digital media.
+==========
+Cognitiv’s technology enables customers to decide when and how much to pay for ad space on websites, mobile apps, video players, and other devices and allows for the use of proprietary and third party data in the purchase of that ad space.
+Generally, an Internet user’s computer or mobile device comes into contact with Cognitiv technology when a user views an ad that was in part served with the help of our technology or when a user clicks or taps on the ad to visit an advertiser’s website or app.
+==========
+Privacy Practices
+Advertising supports free content and enriching digital user experiences.
+Our goal is to make advertising more effective and efficient by helping advertisers to display ads that may be of interest to you.
+Cognitiv believes that relevant ads are more valuable to users and advertisers’ only want to show ads to relevant users.
+Information We Collect
+Cognitiv’s technology collects Non-Personally Identifiable Information (“Non-PII”) to help target online advertising to you based on your interests.
+This includes, but is not limited to, your IP host address, browser type (e.g. Chrome or Firefox), the date and time of the ad request, pages viewed, operating system (e.g. Macintosh, Windows, Android, OSX), the URL or App being viewed, and Internet Service Provider (e.g. Verizon or Comcast).
+In some jurisdictions, some of this information is considered PII and we do not collect or store that information in those jurisdictions.
+Customers and third parties may also share Non-PII with us.
+==========
+On mobile devices, we may also collect some or all of the following mobile specific information: device type, make and model, operating system, mobile advertising identifiers, operating system device identifier (For example, IDFA for iOS and Android ID for Android), information from mobile applications, and GPS location if you have opted-in to provide such information.
+Our Technology
+We use the standard “cookies” feature of major browser applications.
+Cookies are text files that are stored on your computer and we use them to determine how often you’ve visited a website or seen an ad by assigning an anonymous identifier to your browser.
+We do not use cookies to access any other data on your computer.
+==========
+We also use pixel tags, which are small, invisible 1×1 images on a web page.
+Pixel tags allow the web page or a third party who serves the pixel tag to set, read and modify cookies.
+Our pixel tag allows Cognitiv cookies to be set, read, and modified when you visit the websites or apps of our partners.
+Opting Out of Cookies
+Please click here if you’d like to opt-out from having Cognitiv collect your Non-PII in connection with our technology.
+When you opt out, we will place an opt-out cookie on your computer.
+This cookie tells us not to collect your Non-PII to tailor our online advertising campaigns.
+Please note that if you block, delete or restrict cookies in any way, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
+Cognitiv adheres to the Self-Regulatory Principles for Online Behavioral Advertising and the Application of Self-Regulatory Principles to the Mobile Environment published by the Digital Advertising Alliance (DAA).
+We honor the DAA’s opt-out mechanism for data collection and use in connection with mobile applications.
+In some instances, we associate our cookies with a third-party vendor, Beeswax.
+Their privacy policy can be found here.
+==========
+Mobile Tracking
+iOS mobile devices may provide a “Limit Ad Tracking” setting.
+On Android devices, your settings may allow you to “Opt out of Interest-Based Ads.”
+When you have opted out using this setting on a device, Cognitiv will not use Non-PII data to target ads to you.
+Location Tracking
+Cognitiv may receive precise location data from publishers or exchanges for use in displaying ads.
+We use such data for targeting ads and evaluating their success.
+This precise location data is maintained in our logs in accordance with our data retention policy (below).
+Data Retention
+Aggregated data, such as the results of campaigns or the amount spent on different inventory sources, may be retained indefinitely.
+Non-aggregated data, such as logs of auctions or bids, which may contain Non-PII data, is never retained for more than 24 months.
+==========
+Changes to Our Policy
+We may revise this policy at any time.
+Any changes and/or updates to the policy will be updated directly on this page.
+We encourage you to visit this page periodically to review our privacy policy so that you will always know what information we gather and how we may use that information.
+Contacting Us
+Should you have any questions in regards to this policy or Cognitiv’s privacy practices, please contact us at the following email and we will be happy to assist you in any way possible: privacy@cognitiv.ai
+==========

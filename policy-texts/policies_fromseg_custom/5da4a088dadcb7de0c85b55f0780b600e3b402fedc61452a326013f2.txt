@@ -1,0 +1,78 @@
+General
+This policy explains the cookies that may be set as a result of your visiting the University's central web site - URLs starting http://www.cam.ac.uk/.
+You will need to consult the appropriate information on other sites for information on their policies.
+==========
+Most web browsers automatically accept cookies, but within your web browser you can choose to accept or decline cookies for any web site.
+You can usually modify your browser settings to decline all cookies if you prefer, or accept or decline on a case-by-case basis.
+==========
+The Information Commissioner's Office Advice for Members of the Public tells you how to control cookies.
+Bear in mind that disabling cookies may prevent you from taking full advantage of websites.
+More information about cookies - http://www.allaboutcookies.org/.
+Information Commissioner's Office Advice for Members of the Public - http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx.
+==========
+Cookies
+The cookies used on this site are there to:
+authenticate you for accessing restricted content (your Raven authentication)
+measure how you use the website (using Google Analytics) so we can improve it.
+Only the cookies associated with Raven identify you personally, when you request authentication; other cookies used on this site do not collect personal information.
+Raven Authentication
+This site uses the University's Raven authentication service if it needs to identify you to give you access to restricted content.
+This may lead to two cookies being set:
+One is set by and only returned to this server.
+It manages your authentication to this site.
+If you reject this cookie you will not be able to access restricted content on this site.
+The other is set by and returned to the server at raven.cam.ac.uk.
+==========
+This is used to implement Raven's 'single sign-on' function and allows Raven to identify you to other web sites without you having to re-enter your Raven password.
+Further information about this cookie, including how to disable it, can be found in the Raven Privacy and cookie policy at http://raven.cam.ac.uk/privacy.html.
+==========
+Google Analytics
+This site runs Google Analytics, which uses four cookies for tracking visitors to the site.
+These cookies store information about what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page.
+No data specific to any identifiable user is retained, and we do not share our data with any other Google services.
+==========
+With the values gained from these cookies Google Analytics can interpret journeys through our website content, give us information about how people use our site and so present an opportunity to improve it.
+Due to shortcomings in Google Analytics the cookies for www.cam.ac.uk are returned to any web site in .
+cam.ac.uk.
+==========
+We believe that the Google Analytics code on these other sites will ignore these extra cookies.
+Google Analytics information about privacy and cookies may be found at http://www.google.com/analytics/tos.html and https://developers.google.com/analytics/resources/concepts/gaConceptsCookies.
+==========
+As a user you may opt out of the process Google Analytics uses to collect traffic log data (should your web browser be compatible).
+Google provides a browser add-on that enables a user to opt out of receiving Google Analytics cookies - http://tools.google.com/dlpage/gaoptout.
+==========
+Summary
+Cookie Returned to Function Duration
+Ucam-WLS-Session raven.cam.ac.uk Authentication Current browsing session
+Ucam-WebAuth-Session www.cam.ac.uk Authentication Current browsing session
+__utma .
+cam.ac.uk Google Analytics Persistent for 2 years
+__utmb .
+cam.ac.uk Google Analytics Persistent for 30 minutes
+__utmc .
+cam.ac.uk Google Analytics Current browsing session
+__utmz .
+cam.ac.uk Google Analytics Persistent for 6 months
+Other cookies
+The following sections of cam.ac.uk are run by the Office of External Affairs and Communications and from time to time will set cookies on your computer additional to those listed above (if you give consent):
+www.cam.ac.uk/research (Research)
+news.admin.cam.ac.uk/news (News)
+www.cam.ac.uk/sciencefestival (The Cambridge Science Festival)
+www.cam.ac.uk/opencambridge (Open Cambridge)
+www.cam.ac.uk/festivalofideas (The Festival of Ideas)
+A list of the cookies that may be set are on the page http://www.admin.cam.ac.uk/offices/communications/cookies/.
+==========
+If you disable cookies or opt out of receiving them from these sections of the site you will lose the ability to comment on articles.
+Links to other websites
+This website contains links to and from third-party sites.
+This policy only covers use of cookies on this site.
+You should consult privacy and cookie policies on third-party sites before you submit and personal data.
+The University of Cambridge is not responsible for any cookies that may be set by third party websites that are linked to from pages on www.cam.ac.uk.
+==========
+Access to personal data
+For the purpose of the UK Data Protection Act 1998, the 'Data Controller' for the processing of data collected by this site is the University of Cambridge, and the point of contact for subject access requests is the University Data Protection Officer (The Old Schools, Trinity Lane, Cambridge CB2 1TN, tel. 01223 332320, fax 01223 332332 E-mail: data.protection@admin.cam.ac.uk).
+The University is also Data Controller in respect of any personal data served as content by this site.
+The title of this document is: About this site: Cookie Policy for the University Central Web Site (www.cam.ac.uk)
+URL: http://www.cam.ac.uk/site/cookie-policy.html
+Last updated: 1 August 2012
+==========

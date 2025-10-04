@@ -1,0 +1,142 @@
+4.
+How we use personal data in the Platform
+We use personal data in the Platform for the commercial purposes of delivering tailored ads to you on behalf of our advertiser clients.
+We use personal data for our business purposes to improve our Platform, our products and our services that we provide to our advertiser clients and partners, as well as to create new products and services.
+Below, we have set out a description of specific ways we use various combinations of your personal data in the Platform to fulfil our commercial interests to serve our advertiser clients, as well as to improve our products.
+Purpose/Activity
+  Personal Data Type
+
+
+
+
+Enabling MediaMath advertiser clients to create marketing campaigns;
+Creating Segments;
+Facilitating MediaMath advertiser clients’ creation of segments;
+Making decisions related to the opportunity to display an ad (e.g., deciding which advertiser clients’ campaigns are a good match for a bid opportunity and what price to bid in each case) and placing the bid on behalf of our advertiser clients;
+Setting, reading and modifying a MediaMath cookie or reading a mobile advertising identifier or OTT TV Device Identifier for Advertising;
+Collecting information about a browser or device;
+Facilitating our partners’ collection of personal data, including by placing partners’ pixels or tags on our advertiser clients’ Digital Properties;
+Delivering ads, including ads based on your inferred interests or activities on Digital Properties;
+Measuring the effectiveness of those ads and attributing your activities to our advertiser clients’ campaigns;
+Generating and providing to advertiser clients reports and user-level data related to their advertising campaigns in the Platform;
+Automated decision-
+making and profiling based on personal preferences, interests, behavior, or location;
+Transferring data to a third party where advertiser clients have elected to use its services or where MediaMath has engaged a subcontractor to provide certain functionality or capabilities as a part of the Platform or to improve our Platform and the products and services that we provide to our advertiser clients and partners; and
+Fraud detection and prevention.
+MediaMath ID Inserted Cells
+Bid Request and Impression Data
+Pixel Data and Other Client Data
+Third-Party Segment Data and Other Third-Party Data
+
+
+
+
+
+
+Synchronizing MediaMath cookie ID with third- party partners (Cookie Syncing).
+==========
+MediaMath ID
+Impression Data
+Pixel Data
+Other Third-Party Data
+
+
+
+
+
+
+Associating multiple browsers and devices with each other;
+Development, maintenance, and commercialization of MediaMath’s cross- device graph that associates your different devices with each other;
+Append audience membership to Client’s advertiser client’s first-party data.
+MediaMath ID
+Impression Data
+Third-Party Segment Data and Other Third-Party Data
+Pixel Data and Other Client Data
+
+
+
+
+
+
+Mapping data pixels to third-party segments.
+MediaMath ID
+Pixel Data and Other Client Data
+Third-Party Segment Data and Other Third- Party Data
+
+
+
+
+
+
+Honoring opt-out requests for users who have opted out.
+Enabling hyperlocal targeting of devices within a defined location.
+==========
+We also publish or otherwise make public anonymous, aggregate, or summary information regarding campaigns run in the Platform on behalf of our advertiser clients.
+For example, we may publish a report that reflects aggregated statistics regarding seasonal trends in shopping patterns or geographic differences in advertising impression opportunities.
+These reports do not contain personal data.
+==========
+Automated decision-making and profiling
+Our Platform uses proprietary algorithms to make automated decisions about whether or not to bid on opportunities to serve you ads on behalf of our advertiser clients and, if so, how much to bid.
+The ads you see are the result of advertiser client campaigns that specify how much to spend and on what basis to spend combined with the use of our algorithms.
+The ways in which we use algorithms to determine bid prices may be considered automated decision-making in certain jurisdictions.
+Additionally, these processes, in combination with advertiser client campaigns described below, may constitute profiling in certain jurisdictions.
+==========
+These automated decisions use the MediaMath ID we assign to your browser or device.
+Using proprietary technology, we associate data that we collect from third parties with this MediaMath ID.
+==========
+We create Segments using inferred details about certain of your preferences, behaviors, and demographic information, and use those Segments to serve ads on behalf of our advertiser clients.
+For example, if you are browsing a shoe retailer’s website on your mobile device, we may infer that you are interested in buying sneakers and associate that mobile device with a sneaker-buyer Segment.
+==========
+If an advertiser client subsequently wants to advertise sneakers, the advertiser client may choose to target that Segment across your devices.
+If MediaMath then receives an opportunity to show you an ad, provided by an advertiser client, on your computer browser, which computer browser has been associated with your mobile device by our algorithm, MediaMath’s bidding technology will automatically decide whether to bid and if so what price to bid on behalf of our advertiser clients, based on the data and algorithms outlined above.
+==========
+Legal basis for processing (EEA and UK)
+Our legal basis under the General Data Protection Regulation (“GDPR“) for processing the personal data in the Platform depends on the personal data concerned and the specific context in which we process it.
+However, we will normally collect personal data about you only where we have your consent or the processing is in our (or a third party’s, such as our advertiser clients’) legitimate interests and not overridden by your fundamental rights and freedoms.
+If we collect and use your personal data in reliance on our legitimate interests (or those of any third party), this interest will normally be to deliver you with ads through our technology (where we do not rely on your consent for such purposes), to measure ad performance, to develop and improve our products, to ensure appropriate security and to prevent and detect fraud in connection with our services.
+We may have other legitimate interests and, if appropriate, we will make clear to you at the relevant time what those legitimate interests are.
+==========
+If you have questions about or need further information concerning the legal basis on which we collect and use your personal data, please contact us using the contact details provided in Section 12 below.
+CCPA sale of personal information
+For the purposes of the CCPA, MediaMath may disclose all of the categories of personal information collected on the Platform to the categories of third parties as described in Section 7 below, for purposes that may be considered a “sale” under the CCPA.
+We do not sell the personal information of minors under 16 years of age without affirmative authorization.
+==========
+Some web browsers have options that may be characterized as “do not track” settings, which may or may not affect your settings related to our Website.
+We do not understand them to operate in that manner or to signify a “do not sell” request made by a consumer under the CCPA.
+==========
+We are aware that various parties are developing “do not sell” signals, and we may recognize certain such signals if we conclude that such a program is appropriate and in accordance with the requirements of the CCPA.
+If you are a California resident and want to exercise your right to opt out of the sale of your personal information, please see complete the Access Request Form available.
+If you opt out of the sale of your personal information, MediaMath may still process your personal data to show you ads that are not personalised or otherwise provide certain services to advertiser clients that do not involve the sale of personal information under the CCPA.
+==========
+Opt-out and choice mechanisms
+Opt out of tailored advertising
+You may opt out from tailored advertising at any time through one of the ways described below.
+If you opt out of tailored advertising, you will still see ads, but those ads are less likely to have anything to do with products or services you care about.
+With tailored advertising, you receive ads and offers that are more likely to be useful to you.
+==========
+Your opt-out is only applicable to the Platform and does not opt you out from platforms provided by third-party companies.
+However, you can opt out from both MediaMath and many third-party companies at once; to do so, please see “Other ways to opt out of tailored advertising” below.
+When you opt out, MediaMath will collect data from your browser, app, or device only as needed to honor your opt-out and for limited research and development purposes to improve our browser- and device-recognition technology, which also helps to improve our ability to honor your opt-out.
+When you opt out, MediaMath also stops sending tailored advertising to the opted-out browser, app, or device.
+If you use multiple browsers or devices and wish to limit the data that MediaMath collects and do not wish to receive MediaMath tailored advertising on any of them, you must opt out from each browser and device individually.
+Opt out of tailored advertising in a browser
+You may opt out if you are using a browser by clicking the “Click here to opt out” link below.
+Please note that if cookies are not enabled in your browser, including if third-party cookies are disabled, or if you use certain ad-blocking tools, our opt-out mechanism may not work properly.
+Please also note that deleting your cookies does not opt you out.
+==========
+If you clear your cookies, or if you use a different browser or device, you will need to renew your opt-out choice.
+Opt this browser out of tailored advertising (if using a browser)
+Your current opt-out status with MediaMath in this web browser is:
+
+Opt out of tailored advertising in the mobile application environment
+You may opt out in mobile app environments using the “AppChoices” mobile application, where applicable, which you can download to your mobile device from your App Store or via the DAA AppChoices page here.
+Other ways to opt out of tailored advertising
+You may learn more about tailored advertising and opt out of tailored advertising from MediaMath and other online advertising companies that are also members of applicable self-regulatory organizations by visiting their opt-out links:
+Other ways to limit ad tracking in the mobile and OTT TV device application environment
+You also may limit ad tracking in mobile app environments on your mobile device as well as on your OTT TV Device.
+==========
+For the most effective and up-to-date methods for doing so, you should consult instructions provided by those device manufacturers.
+The NAI provides additional information regarding opting out on mobile available here and TV streaming devices available here.
+Where MediaMath receives a signal to limit ad tracking, we will collect data from your device only as needed to honor your choice and for limited research and development purposes to improve our device-recognition technology, which also helps to improve our ability to honor your choice.
+Where MediaMath receives a signal to limit ad tracking, MediaMath also will not serve tailored advertising in the apps on your mobile device or OTT TV Device.
+==========

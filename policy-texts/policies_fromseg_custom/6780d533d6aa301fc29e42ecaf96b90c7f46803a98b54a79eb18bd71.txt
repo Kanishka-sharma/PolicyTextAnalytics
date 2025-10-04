@@ -1,0 +1,171 @@
+Lucidity and Lucidity.tech are d/b/a tradenames of KR8OS, Inc. (“Lucidity”, “we”, “us” or “our”).
+We know that you care about how your information is used and shared, and we take your privacy seriously.
+Please read the following Privacy Policy (the “Privacy Policy”).
+==========
+This Privacy Policy applies to the  websites we own and operate, including those located at www.lucidity.tech and golucidity.com and all subdomains thereof, and our dashboard(s) located at golucidity.com, lucy.lucidity.tech, and vera.lucidity.tech  (collectively, the “Lucidity Website”) and to our products and services, including the advertising tracking services (receiver.lucidity.tech) and other products and services operated by Lucidity from time to time (collectively, the “Lucidity Service”).
+By accessing and using the Lucidity Website or using the various websites and applications that participate in the Lucidity Service, you (“you” or “your”) consent to us processing your information in accordance with this Privacy Policy.
+The Lucidity Website and the Lucidity Service may link to third party websites or applications.
+Lucidity does not control and is not responsible for such third parties’ privacy practices.
+Users should consult the privacy policies of such third party websites or applications to learn about such third parties’ privacy practices.
+==========
+For purposes of this Privacy Policy, “Personally Identifiable Information” or “PII” means any information used or intended to be used to identify a particular individual, including name, address, telephone number, email address, financial account number, and government-issued identifier.
+“Non-PII” means information not included in the definition of “PII”, including information such as pages or ads visited, clicks on ads, referring domain, visit duration, device type, device identifier, browser type, IP address and operating system.
+==========
+Guide to Content:
+ Use of Lucidity WebsiteLucidity ServiceOpt-Out of Interest-Based AdvertisingThird Party Service ProvidersBusiness TransfersLegal and Regulatory ComplianceInformation Processing and Do-Not-TrackAggregate InformationSecurityMinimum AgeChanging Your Newsletter SubscriptionChanges to Privacy PolicyContact 
+Use of Lucidity Website
+VisitorsLucidity collects
+data on the people that visit our website.
+We do this via two methods:
+Form Signups:
+Lucidity uses a number of forms on our site that request information.
+==========
+The forms
+collect information such as the following from user input:
+First NameLast NameEmail AddressCompany NamePersonal Message
+We use this data to
+send personalized emails to those users that choose to enter their information.
+The user-provided emails may be used for marketing purposes, to send the users
+information about a new product or recent company news, and/or for business
+development purposes (for example, we may email such users directly to gauge
+any business opportunities).
+==========
+It is important to
+note that we implement a “double opt-in” feature for anyone that provides
+information in one of our forms.
+That person will receive an email with a
+confirmation link that explicitly asks their permission to send them
+information.
+==========
+They must click this link in order to be added to our mailing
+list.
+If they do not do this, then they aren’t added to our mailing list.
+==========
+Website Trackers: Lucidity
+also uses a number of website tracking tags that passively collect data on the users
+that visit our site.
+We use:
+A tracking tag from Google Tag ManagerA tracking ID from Google AnalyticsA tracking tag from LinkedIn
+These trackers are
+used to collect aggregated information about the audiences that visit our site.
+That information, referred to as “Log
+Data”, includes:
+On-site activityDemographic informationOperating systemDesktop or MobileLocationInterestsProfessional information
+This information is
+used in two ways.
+The first use for this data is audience insights.
+We use
+analytics on the people who visit our site to better understand which sections
+of our website are resonating with our audience, which sections need
+improvement, etc, in order to make more informed marketing decisions.
+==========
+The
+second use is for advertising.
+We use the data collected to retarget the users
+that visit our site with advertisements.
+We do not collect PII from website
+trackers – data collected from website trackers is anonymized and
+aggregated.
+==========
+CustomersIf you register to use the Lucidity Website as a customer (e.g., as an advertiser, agency or publisher), we may ask for and store information you provide such as your email, first name, last name, company name, username, address, phone number, Tax ID, VAT or sales tax registration number, information required for purposes of conducting a credit check if relevant, or any other relevant tax number and credit card information for billing purposes (collectively, “Registration Data”).
+After you register to use the Lucidity Website or Lucidity Service, you may set up advertising campaigns and other account parameters.
+We may collect information about the manner of your use of the Lucidity Website or Lucidity Service, including session length, IP address, time of usage, viewed pages and files, your advertising campaign selections, and other information regarding your use of the Lucidity Website or Lucidity Service (collectively with Registration Data, the “Account Data”).
+This information may be used to provide the Lucidity Service to you, to conduct internal analysis, account management and maintenance, to perform billing, invoicing and payment functions in connection with your account, to send services-related information, alerts and promotional messages to you, and to maintain and improve the performance of the Lucidity Website and Lucidity Service.
+We may also use this information to offer personalized features, including varying the content that you receive in future visits to the Lucidity Website based on your preferences and activities.
+==========
+We may also provide you with the option of adding users to your publisher or advertiser account.
+When you do so, we will collect the email address of the individual you wish to add.
+We will then send that individual a one-time email informing them they have been added.
+If you have been added to an account and wish to no longer have your email address used, you may contact us at privacy@golucidity.com.
+==========
+Combination of Log Data, Registration and Account DataLog Data may be combined with a visitor’s Registration Data and Account Data once the visitor has registered or subsequently logged into the Lucidity Website or Lucidity Service.
+The combined data may be used to provide, monitor and assist in improvements to the Lucidity Website, and to customize content and advertising displayed to the user on the Lucidity Website.
+Log Data, Account Data, Registration Data, and combined data is not sold or rented to third parties.
+In addition, such information is not shared with third parties except in the case of third party service providers, legal processes and aggregate information, as noted below.
+==========
+Lucidity Service
+Types of Information CollectedLucidity partners with numerous companies to track online advertisements and manage advertising campaigns served to end users of websites, mobile websites, mobile applications (“Apps“) and other online media (“End Users”).
+As an End User browses the Internet or uses Apps that include references to the Lucidity Service, we may collect anonymous elements about such interactions such as auction ID, timestamp, exchange ID, and site ID.
+==========
+The collected information may be stored on our servers.
+However, our system does not collect or store any PII or any device-specific data, such as device ID or IP address.
+==========
+We may receive from third parties the ability to target and optimize advertisements, independent of or in combination with the data collected by Lucidity, with the assistance of audience interest segments and product categories.
+This may include general health-related segments made available by third parties in delivering advertisements based on inferred End User interest in such topics, such as general health, wellness, common ailments and illnesses, beauty and fitness.
+Such health-related segments do not include sensitive health information (such as an End User having a certain medical condition like heart disease or arthritis).
+==========
+For example, a user who views content related to nutrition might later be shown an ad for dietary products.
+Similarly, a user who views content related to beauty might later be shown ads related to beauty-related products.
+==========
+Lucidity may also work with partners to collect data across browsers or devices to help predict or infer possible relationships between such browsers and devices, and such insights may be used deliver more relevant advertising across potentially related browsers and devices.
+The information collected under this Privacy Policy may be used to administer and enhance the Lucidity Service, to manage advertising campaigns, to provide aggregate reports and analysis to advertisers, agencies and publishers who participate in the Lucidity Service, to track conversions, and to work with our partners to schedule, deliver and optimize advertisements, limit the number of times a specific advertisement is presented to the same browser or device (frequency capping), provide advertisements only to certain types of devices, detect and eliminate fraudulent activity, and display, optimize, target and/or customize advertisements to the interests or preferences of End Users.
+==========
+Opt-Out of Interest-Based Advertising
+End Users can opt out of interest-based advertising at https://optout.aboutads.info and https://optout.networkadvertising.org.
+Following an opt-out, Lucidity’s system will still track and
+manage advertisements shown to the End User.
+Please note, however, that these
+advertisements may be less relevant to such End User’s interests.
+If the End
+User changes devices or browsers or removes their opt-out cookies, he or she
+will need to complete the opt-out steps described below on the new device in
+order to remain opted-out.
+==========
+Third Party Service Providers
+We retain certain third party service providers to perform functions and services for us.
+We may share information with these third party service providers, but only to the extent necessary to perform these functions and services, and only pursuant to obligations that are consistent with this Policy.
+==========
+Business Transfers
+In the event of a merger, acquisition, reorganization, change of control, or sale of all or substantially all assets, customer information is typically one of the business assets that is transferred and we may therefore transfer and/or disclose your information to the prospective seller or buyer of such business or assets as a part of such merger, acquisition, reorganization, or sale.
+Legal and Regulatory Compliance
+We may disclose information when we believe in good faith that such disclosure is legally necessary, or to protect the rights, property, or safety of Lucidity or others or prevent harm.
+==========
+Information Processing and Do-Not-Track
+Your information may be kept on computers located outside of your
+state or country, where the privacy laws may not be as protective as those
+where you live.
+If you’re located outside the United States and choose to
+provide your PII to us, we may transfer your PII to the United States and
+process it there.
+Lucidity does not currently honor do-not-track signals received
+from Internet browsers.
+==========
+However, you may opt-out of having your information be
+used for advertisement targeting as described under “Opt-Out of
+Interest-Based Advertising” above.
+Aggregate Information
+Lucidity may share aggregate and anonymous usage statistics regarding the Lucidity Service with the public or businesses with whom we work.
+==========
+Such aggregated information is not PII.
+Lucidity may also use such aggregated information to help Lucidity improve the design and delivery of the Lucidity Service and increase its effectiveness.
+==========
+Security
+Lucidity uses reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification.
+Please note that where we have given you (or where you have chosen) a password that enables you to access the Lucidity Website or Lucidity Service, you are responsible for keeping this password confidential.
+==========
+Regardless of the precautions taken by you or by us, “perfect security” does not exist on the Internet.
+We cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk.
+==========
+Minimum Age
+The Lucidity Service and Lucidity Website are not developed for, nor directed at, children under 13.
+Lucidity does not knowingly collect or accept PII from anyone under the age of 13.
+If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address.
+In the event that we learn that we have collected PII from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
+If you believe that we might have any information from or about a child under 13, please contact us at privacy@golucidity.com.
+==========
+Changing Your Newsletter Subscription and Privacy Preferences
+Lucidity may send to registered users and customers certain service and/or account activity-related announcements from time to time.
+You can unsubscribe from our email newsletters at any time.
+To do so, you can follow the instructions on the bottom of each newsletter.
+Customers of Lucidity may also edit their privacy preferences by emailing privacy@golucidity.com for such purpose.
+==========
+You may also write to Lucidity at:
+Lucidity 3435 Ocean Park Blvd #107-840Santa Monica, CA 90405
+
+Changes to this Privacy Policy
+We may amend this Privacy Policy from time to time to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations, and industry standards.
+Use of information we collect is subject to the Privacy Policy in effect at the time such information is used.
+Contact
+If you have any questions or concerns regarding this Privacy Policy, please send us a message to privacy@golucidity.com or write to us at:
+Lucidity Attn: Privacy3435 Ocean Park Blvd #107-840 Santa Monica, CA 90405Last modified: ​[January 29th,2020]
+==========

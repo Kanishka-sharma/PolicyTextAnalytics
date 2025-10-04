@@ -1,0 +1,205 @@
+1.
+INTRODUCTION
+ScaleMonk.
+ScaleMonk, Inc. (“ScaleMonk”, “we”, “us” and “our”) is a global provider of digital advertising technology that powers ads that appear on third party websites and mobile applications (referred to as “Digital Properties”) on your mobile devices.
+==========
+We do this through our technology platform (the “Platform”), which provides a variety of tools and services that make the buying of ad space efficient and effective for advertisers and other ad buyers (referred to as our “clients”) to purchase ad space on digital properties provided by publishers and the parties that represent them, such as supply-side platforms and ad networks (referred to as our “supply partners”).
+Our Platform helps advertisers reach their target audiences with more relevant ads resulting in improved performance and control for advertisers and a better Internet experience for users.
+==========
+To deliver relevant advertising to you, the Platform may collect information about your activity across multiple third-party Digital Properties.
+The Platform uses this information in order to predict the types of ads that may interest you and display advertising to you based on that information (“Behavioral Advertising”).
+==========
+To learn more about Behavioral Advertising and your choices with respect to it, please visit www.aboutads.info/consumers and www.networkadvertising.org/understanding-online-advertising
+a. Scope of Privacy Policy
+We strongly believe in the importance of online privacy.
+To ensure that your privacy is protected and that your information choices are respected, we describe in this privacy policy (the “Privacy Policy”) how we may collect, use and share data we collect from you when you visit our website at www.scalemonk.com (the “Website”) and interact with our Platform.
+Please note that this Privacy Policy relates solely to the personal data we collect and process about you through the Platform or Website.
+==========
+The ads delivered by the Platform may appear on a variety of other third-party Digital Properties.
+ScaleMonk does not control these third-party Digital Properties and is not responsible for their privacy practices.
+You should refer to the privacy statements of such third-party Digital Properties that you visit to find out how they collect and use your personal information.
+2.
+==========
+DATA COLLECTION AND USE
+a.
+The data the Platform collects and processes
+The Platform does not collect any data that identifies an individual’s personal identity, such as name, address, phone number or any governmental identifiers (such as Social Security Number).
+The Platform collects certain data about your device, including:
+• Unique cookie IDs.
+• Mobile ad IDs (such as an IDFA on an iPhone, Google ADID on Android).
+• IP addresses from which a user’s device accesses a Digital Property.
+• Other information about browsers and devices, such as type, version and settings.
+• The pages you visit on third party websites and the types of applications you use.
+• The country you are in when you visit a Digital Property.
+==========
+• Actions you take on third-party Digital Properties and the date and time of your visits to those Digital Properties.
+• Information about ads that are shown, such as which ads are shown, where they are shown (which Digital Property) and the time they are shown.
+• Information about your interaction with an ad, including whether you clicked on the ad and whether you visited the advertiser’s website or downloaded the advertiser’s mobile application.
+• Information about you or inferences about your interests that a client or partner (including supply partner) has collected about you and shared with us such as information about your interests or demographic information (your age or gender) to help make the ads served to you more relevant.
+b.
+==========
+How the Platform collects data and how we use it
+The Platform collects and receives data about you from our clients and partners through various ways, including through bid requests, server to server cookie syncs, integration with our mobile SDKs and direct uploads to our Platform.
+In addition, we receive data from third parties as described in Section 2a above.
+Cookies and Pixels.
+We also use cookies and other technologies to recognize browsers and devices and to collect the categories of data described above in Section 2a to provide our services.
+These technologies include:
+ₒ Cookies.
+These are small text files that can be stored on your device when you view a client’s advertisement or visit a client’s Digital Property.
+==========
+ₒ Pixels.
+These pixels or “tags” are transparent images that we, our clients and our supply partners and other partners use to understand how users interact with the Digital Properties on which they are placed.
+==========
+ₒ There are many resources available on the Internet to learn more about cookies.
+We recommend (but have no responsibility for the contents of) visiting All About Cookies at www.allaboutcookies.org to learn more.
+The Platform uses data collected about you on our own behalf and on behalf of clients and partners to provide our services to our clients, including to serve you ads based on your interests, your current or prior location, or based on the content you are viewing, to measure the performance of the ads served to you, to optimize our clients’ advertising campaigns, to create inferences about your interests and to analyze aggregated statistics in order to detect fraud and improve our services.
+c.
+==========
+The information we collect through the Website or other sources and how we use it
+Volunteered Information.
+We collect information that you provide voluntarily, such as your name, email address and phone number.
+==========
+We collect this information when:
+• You contact us with questions regarding our services or to request a demonstration of our products and services.
+• You request information such as whitepapers, reports and webinars.
+• When you provide our employees with your information.
+• When you provide information for billing and other business purposes.
+• When you apply for employment.
+We use the information voluntarily provided by you for the purposes that were disclosed at the time it was collected (such as general marketing purposes, or to notify you regarding updates to our services).
+Information collected for billing and related purposes shall be used for the purposes disclosed at the time of collection, as well as credit checks, invoicing, collections, troubleshooting, account maintenance and other related business purposes.
+==========
+You may choose to stop receiving marketing communication at any time by following the unsubscribe instructions included in any marketing communications we send you or by contacting us via email at privacy@scalemonk.com.
+You may also request the removal of your information from our marketing database by contacting us the same way.
+==========
+Automatically Collected Data
+We automatically receive certain information when you visit our Website, including IP address, browser type, internet service provider, referring pages, operating system, date/time stamp and clickstream data.
+We collect this information to help us better understand the visitors who come to our Website, where they come from, and what content on our Website is of interest to them.
+We use this information for our own internal analytics purposes, to measure trends and to improve the functionality of the Website.
+Some of this information may be collected using cookies and similar tracking technologies, as described in Section 2b.
+==========
+d. Disclosure of data from the Platform and Website
+We may share the information collected from you and about you in the following circumstances:
+• We may share Bid Request Data with our clients in order to provide our services.
+• Some of the data collected by the Platform belongs to our clients.
+When this is the case, our clients can take this data, such as records of ad impressions, off of the Platform.
+• We disclose cookie information with our clients and partners to be able to associate our cookie ID with those clients’ and partners’ cookie IDs.
+• We may use service providers to store or process data on our behalf, such as service providers that manage our marketing database, provide web analytics, data storage or computing infrastructure.
+• We may share data in order to investigate or prevent suspected malicious activity, fake traffic or other activity that may be harmful to us or our clients.
+• We may share aggregated data that does not include individual-level records with any party or publicly.
+• We may disclose data when we are required to by law, such as in response to a subpoena, to comply with a binding court order, legal process or government request, including in response to a public authority to meet national security or law enforcement requirements.
+• If we sell all or part of our assets or, are otherwise involved in a merger or business transfer, we may transfer or assign your information to a third party as part of that transaction.
+3.
+==========
+DATA RETENTION
+If you have voluntarily provided us with through our Website and offline, we will retain your data for as long as your account is active or as needed to provide you the services or perform the purposes for which it was provided.
+Information collected by the Platform, including unique user IDs and mobile ad IDs, for no longer than 13 months from receipt of consent (or from any “refreshed” consent permitting us to continue to retain the information).
+We will delete your data after the times stated above, except we may retain and use your information as necessary to comply with our legal obligations (such as to resolve disputes and enforce our agreements) and for operational reasons, such as for auditing, corporate record-keeping, compliance accounting or to fix bugs.
+4.
+==========
+SECURITY
+We have implemented physical, electronic, organizational and administrative safeguards to prevent the unauthorized access to, misuse, loss or alteration of the information that our Platform and Website collect.
+We believe that these measures are appropriate given the nature of the data and our systems, but no transmission of data over the Internet is guaranteed to be completely secure.
+We cannot and do not ensure or warrant the security of any data you provide to us or that we collect about you.
+5.
+==========
+YOUR CHOICES
+a. ScaleMonk’s Opt-Out
+If you want to limit the data the Platform collects and processes about you and want us to not target ads that are based on your interests to your browsers or devices, you may directly access our opt out, which will cease data collection and disassociate data from your device by visiting www.scalemonk.com/opt-out.
+When you opt-out, we will collect and process data from your browser, application or device only as needed to honor your opt-out and for limited research and development purposes to improve our browser and device recognition technology, which also helps us to improve our ability to honor your opt-out.
+When you opt out, we stop targeting interest-based advertising to the opted-out browser, application or device.
+==========
+You will still see ads, but those ads are not likely to have anything to do with your interests.
+b. Industry opt-out pages
+The online advertising industry provides websites from which you may opt out of interest-based advertising distributed by ScaleMonk and other companies that participate in industry self-regulatory programs.
+==========
+The US-based opt out pages are www.aboutads.info/choices and www.networkadvertising.org/choices.
+The Europe-based opt out page is www.youronlinechoices.com.
+The Canada-based opt out page is www.youradchoices.ca/choices.
+==========
+c. For mobile applications
+You may opt out using your device settings.
+To learn how to use the mobile application opt out, consult your device instructions.
+To find information on opting out on a mobile device, please visit www.networkadvertising.org/mobile-choice.
+6.
+==========
+THE EU GENERAL DATA PROTECTION REGULATION (GDPR)
+a. ScaleMonk as a Data Controller and a Data Processor
+“Personal Data” is a term used in the GDPR that means, generally, data that identifies or can identify a particular unique user or device – for example, names, addresses, cookie IDs, mobile ad IDs, precise location data and biometric data.
+European data protection law makes a distinction between organizations that process Personal Data for their own purposes (known as “data controllers”) and organizations that process Personal Data on behalf of other organizations (known as “data processors”).
+==========
+We sometimes act as a data controller and sometimes (such as when we are handling our clients’ information) as a data processor.
+This section only applies when we process your Personal Data as a data controller; when we act as a data processor, it is our client (the data controller) to whom you would need to address any questions or seek enforcement of your data subject rights (such as access to or deletion of your Personal Data).
+b. Legal Basis for Processing
+If you are a visitor from the European Economic Area, which consists of the European Union, Switzerland and the United Kingdom, our legal basis for collecting and processing your Personal Data will depend on the information concerned and the specific context in which we collect and process it.
+==========
+Our legal basis for processing your Personal Data for the purposes described in Sections 2a and 2d will typically rely on:
+• Your consent.
+In some cases, we rely on your consent in order to process your Personal Data.
+For example, we rely on your consent when we store and gain access to information stored on your device.
+For this “cookie consent” (which applies to both cookies and mobile ad IDs), we rely on mobile application developers and contractually require them to only transmit legally obtained information.
+We do so to fulfill our obligations under the ePrivacy Directive.
+We may choose to obtain consent in other cases as well, such as when we process data that you voluntarily provide through our Website and offline, in which case we will adhere to applicable laws relating to such consent and its withdrawal.
+==========
+• Legitimate interests.
+In some cases, we collect Personal Data from you where the processing is in our (or a third party’s, such as our clients’) legitimate interests and not overridden by your rights, such as your right to opt-out.
+If we collect and use your Personal Data in reliance on our legitimate interests (or those of any third party), these interests will typically be to operate the Platform (such as to detect fraud or to ensure that bugs are detected and fixed).
+==========
+• Legal obligations.
+Some processing of data may be necessary for us to comply with our legal or regulatory obligations.
+==========
+c. International Transfer of Data
+As ScaleMonk works with global companies and technologies, we may need to transfer your Personal Data outside of the country from which it was originally collected.
+For example, we may transfer your data to third parties that we work with who may be located outside of the European Economic Area.
+When we transfer Personal Data outside of the European Economic Area, we take steps to make sure that safeguards are in place to protect your Personal Data, including, when required by European data protection law, entering into European Standard Contractual Clauses and Data Processing Agreements.
+Please contact us at the contact information below for more information about the safeguards we have put in place to protect your Personal Data and privacy rights in these circumstances.
+d. Your Rights as a Data Subject
+As a resident of the European Economic Area, you have certain rights with respect to Personal Data that we hold about you as a data controller.
+You may contact us at privacy@scalemonk.com in order to exercise the following rights:
+• The right to ask us to provide you with copies of the Personal Data that we hold about you.
+==========
+When we receive your request, we will provide you with step-by-step instructions to follow.
+• The right to ask us to update or correct any out-of-date or incorrect Personal Data that we hold about you.
+• The right to withdraw your consent for processing Personal Data on which we rely on consent to process.
+Once we receive your request, we will cease processing your Personal Data within 30 days or less.
+You may also withdraw your consent by using the device-based opt-out described in Section 5 above.
+• The right to manually request that we delete your Personal Data, subject to our instructions to confirm your identity.
+==========
+You may also make this request by opting out through device settings as described above.
+Upon receiving this opt-out signal, your Personal Data will be deleted within 30 days if you have an Android device, or if you have an iOS device, we will permanently render the Personal Data disconnected from your device.
+==========
+• In addition, you have the right to lodge a complaint with a supervisory authority.
+However, we hope that you will first consult with us so that we may work with you to resolve any complaint or concern you may have.
+7.
+==========
+CHILDREN
+Our Platform and services are not directed to individuals under the age of 16.
+If you become aware that a child has provided us with information please contact us and we will take steps to remove that information.
+8.
+==========
+CALIFORNIA DO-NOT-TRACK STATEMENT
+We are committed to providing you with meaningful choices about the information collected on our Platform and our Website and that is why we provide the variety of opt-out mechanisms listed above.
+However, we do not currently recognize or respond to browser-initiated Do-Not-Track signals.
+To learn more about Do-Not-Track, you may do so by clicking here or visiting https://allaboutdnt.com/.
+9.
+==========
+CALIFORNIA PRIVACY RIGHTS
+If you are a California resident, California law requires us to provide you with some additional information regarding the “personal information” (as defined in the California Consumer Privacy Act (“CCPA”)) we collect, and your rights with respect to such information.
+Please see our California Privacy Notice for more information.
+10.
+==========
+CHANGES TO OUR POLICIES
+From time to time, ScaleMonk may revise this Privacy Policy.
+The date of the last update can be found at the top of this page.
+If we execute revisions that materially change or affect whether or how we collect or use personal information, we will notify you by email (if, as a user of our Website or recipient of our marketing communications, you have provided us your email address) or by means of a notice on our Website prior to the change becoming effective.
+If you would like to stay up-to-date on our most current policies and practices, you should periodically review the Website.
+11.
+==========
+CONTACT US
+If you have any questions about privacy on the Platform, you may send us a message at privacy@scalemonk.com.
+You may also contact us by post at:
+ScaleMonk, Inc.
+437 Lytton Ave
+Ste 200
+Palo Alto, CA, 94301
+If you are located in the European Economic Area, you may contact our Data Protection Officer at dpo@scalemonk.com.
+==========

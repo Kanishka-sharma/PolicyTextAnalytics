@@ -1,0 +1,127 @@
+5.
+Mobile Application 
+When you use our New Relic mobile app, we do not ask for access or track any specific location- based information from your mobile device at any time while downloading or using our mobile apps or Services.
+We send push notifications to alert you of new activity on New Relic.
+If you no longer wish to receive such push communications, please turn them off at the device level.
+6.
+==========
+Your Choices Regarding Your Personal Data 
+Marketing: we offer you choices regarding the collection, use, and sharing of your Personal Data.
+We will periodically send you free newsletters and e-mails that directly promote the use of our site or the purchase of our Services, subject to your consent if you are based in the EEA.
+When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting AskPrivacy@NewRelic.com.
+Should you decide to opt-out of receiving future mailings, we may share your e-mail address with third parties to ensure that you do not receive further communications from third parties.
+Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Service or Privacy Policy.
+Your other rights- If you are based in the EEA please click here to review your choices regarding your Personal Data Data Subject Rights.
+Otherwise, you may change any of your Personal Data in your account by editing your profile within the registration portion of our Site or by sending an e-mail to us at the e-mail address set forth below.
+You may request deletion of your account information by us by sending an email to support@newrelic.com, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).
+==========
+We will endeavor to respond without delay.
+When we delete account information, it will be deleted from the active database, but may remain in our archives.
+We will otherwise retain your information for as long as your account is active or as needed to provide you Services as well as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+7.
+==========
+Do Not Track 
+Currently, various browsers - including Internet Explorer, Firefox, and Safari - offer a “do not track” or “DNT” option that relies on technology known as a DNT header, which sends a signal to the websites visited by the user about the user’s browsers DNT preference setting.
+New Relic does not currently commit to responding to browser’s DNT preference across its Sites and Services, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent.
+New Relic takes privacy and choices regarding privacy seriously and will make efforts to continue to monitor the development around DNT browser technology and the implementation of a standard for DNT.
+8.
+==========
+Advertising 
+We partner with third party ad networks to either display advertising on our Site or to manage our advertising on other sites.
+Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this Site and other websites to provide you targeted advertising based upon your interests.
+If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here.
+Please note this does not opt you out of being served advertising.
+You will continue to receive generic ads.
+9.
+==========
+Testimonials 
+We post customer testimonials on our web site which may contain personally identifiable information.
+We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+If you want your testimonial removed please contact us at AskPrivacy@NewRelic.com.
+10.
+Unauthorized Profiles 
+If an account/profile was created without your knowledge/authorization, please contact us at support@newrelic.com to request removal of the profile.
+11.
+==========
+Third Party Websites 
+This Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use our Site, or Services.
+Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents.
+When you click on such a link, you will leave our site and go to another site.
+During this process, a third party may collect Personal Data or Anonymous Data from you.
+==========
+We have no control over, do not review, and cannot be responsible for, these outside websites or their content.
+Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on a link to a third party.
+We encourage you to carefully read the privacy statement of any website you visit.
+==========
+Our Site also includes social media features, such as the Facebook Like button and widgets, such as the “Share this” button or interactive mini-programs that run on our site.
+These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly.
+Social media features and widgets are either hosted by a third party or hosted directly on our Site.
+Your interactions with these features are also governed by the privacy policy of the company providing it.
+12.
+==========
+Application Data 
+a. Types of Application Data We Collect
+New Relic collects Application Data when our Services are deployed in your applications.
+“Application Data” means data about the performance of your application, system data (such as version data, names of plug-ins, etc.) about the environment in which your application is operating, data about transactions in your application, stack traces and source code snippets for certain classes of errors, and other similar data related to your application.
+Application Data is referred to as “Data” under the ToS, and it may include Personal Data.
+With respect to the Application Data, our customer is the data controller and New Relic is the data processor.
+b. Use of Your Application Data
+New Relic shall only process Application Data upon instructions from our customer, including those in the agreement to provide the Services and customer’s configuration of the New Relic Services.
+Application Data we collect is primarily used to display application performance information back to the account user.
+It is also used by New Relic personnel to answer questions that customers may have about their account, to develop and improve our Services, and in accordance with the Documentation.
+==========
+New Relic may also aggregate Application Data across multiple accounts and use this data to create and publish industry benchmarks or comparative application performance metrics.
+You also have the option of disabling collection of certain types of Application Data collected through our Services, which you may exercise by following the instructions in the user manual for the applicable Services.
+c. Disclosure of Your Application Data
+We may share your Application Data with third parties to provide technical support or to provide specific services, such as hosting of your applications.
+Additionally, New Relic may engage third party sub-processors to process Application Data (that includes Personal Data) in connection with the provision of the Services.
+Provided that a customer signs up for notifications at https://newrelic.com/NR-legal-signup-datasubprocessors, New Relic shall provide prior notice of any new sub-processors.
+After being notified, customer will have ten (10) business days to notify New Relic in writing of any reasonable objection it has to the new sub-processor(s).
+Failure to notify New Relic within this time frame will be deemed approval of the new sub-processor(s).
+==========
+New Relic may disclose Application Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on New Relic; or (b) protect or defend the rights or property of New Relic or users of the Services.
+If another company acquires our company or our assets, that company will possess the Application Data collected by it and us and will assume the rights and obligations regarding your Application Data as described in this Privacy Policy.
+d. Security of Your Application Data and Personal Data
+New Relic is committed to protecting the security of your Application Data and Personal Data.
+We use a variety of industry-standard security technologies and procedures to help protect your Application Data and Personal Data from unauthorized access, use, or disclosure.
+==========
+When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+We also require you to enter a password to access your account information.
+Please do not disclose your account password to unauthorized people.
+==========
+New Relic also has implemented appropriate technical and organizational measures to ensure that the level of security is appropriate to the risk in the performance monitoring and the analytics processing involved in the Services.
+Despite these measures, you should know that New Relic cannot fully eliminate security risks associated with Application Data and Personal Data and mistakes and security breaches may happen.
+If you have any questions about security on our Site or Services, you can contact us at the information below.
+==========
+e. Access to your Application Data 
+New Relic acknowledges that you have the right to access your Personal Data.
+If Personal Data pertaining to you has been submitted to us in Application Data by our customer and you wish to exercise any rights you may have with regards to access, correct, amend, or delete such Personal Data, please inquire with the customer directly.
+If you wish to make a request directly to New Relic, please provide the name of the New Relic customer who submitted your Personal Data to our Services.
+New Relic will refer your request to that customer, and will support them as needed in responding to your request within a reasonable timeframe.
+13.
+==========
+Your California Privacy Rights 
+Our customers who are California residents may request and obtain from us once a year, free of charge, certain information about the Personal Data (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year.
+If applicable, this information would include a list of the categories of Personal Data that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.
+If you are a California resident and would like to make such a request, please submit your request by completing the Personal Data Request form and submitting it to PersonalDataRequests@NewRelic.com.
+If you have questions please contact AskPrivacy@NewRelic.com.
+14.
+How to contact us 
+How to contact us and/or our Data Protection Officer
+If you have questions about how your information is gathered, stored, shared or used, or if you wish to exercise any of your data rights, contact us at:
+AskPrivacy@NewRelic.com
+
+15.
+==========
+Changes to this Privacy Policy 
+This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Application Data and Personal Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site.
+Any material changes to this Privacy Policy will be effective upon the earlier of five (5) calendar days following our dispatch of an e-mail notice to you of the changes, five (5) calendar days following our posting of notice of the changes on our site, or the date that you accept the changes (e.g., by clicking an “I Accept” button or similar means).
+These changes will be effective immediately for new users of our Site, or Services.
+Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address.
+In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+==========
+In any event, changes to this Privacy Policy may affect our use of Application Data or Personal Data that you provided us prior to our notification to you of the changes.
+If you do not wish to permit changes in our use of your Application Data or Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us.
+Continued use of our Site, or Services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+Last updated October 16, 2018
+==========

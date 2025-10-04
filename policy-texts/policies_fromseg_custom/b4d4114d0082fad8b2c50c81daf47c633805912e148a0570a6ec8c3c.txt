@@ -1,0 +1,69 @@
+When a Microsoft product collects age, and there is an age in your jurisdiction under which parental consent or authorization is required to use the product, the product will either block users under that age or will ask them to provide consent or authorization from a parent or guardian before they can use it.
+We will not knowingly ask children under that age to provide more data than is required to provide for the product.Once parental consent or authorization is granted, the child's account is treated much like any other account.
+The child can access communication services, like Outlook and Skype, and can freely communicate and share data with other users of all ages.
+==========
+Learn more about parental consent and Microsoft child accounts.Parents or guardians can change or revoke the consent choices previously made, and review, edit, or request the deletion of the personal data of the children for whom they provided consent or authorization.
+As the organizer of a Microsoft family group, the parent or guardian can manage a child’s information and settings on their Family Safety page and view and delete a child’s data on their privacy dashboard.Below is additional information about the collection of data from children as related to Xbox.What is Xbox?
+==========
+Xbox is the gaming and entertainment division of Microsoft.
+Xbox hosts an online network that consists of software and enables online experiences crossing multiple platforms.
+This network lets your child find and play games, view content, and connect with friends on Xbox and other gaming and social networks.
+Children can connect to the Xbox network using Xbox consoles, Windows devices, and mobile devices (Android and iPhone).
+Xbox consoles are devices your child can use to find and play games, movies, music, and other digital entertainment.
+When they sign in to Xbox, in apps, games or on a console, we assign a unique identifier to their device.
+For instance, when their Xbox console is connected to the internet and they sign in to the console, we identify which console and which version of the console’s operating system they are using.Xbox continues to provide new experiences in client apps that are connected to and backed by services such as Xbox network and cloud gaming.
+When signed in to an Xbox experience, we collect required data to help keep these experiences reliable, up to date, secure, and performing as expected.Data we collect when you create an Xbox profile.
+==========
+You as the parent or guardian are required to consent to the collection of personal data from a child under 13 years old.
+With your permission, your child can have an Xbox profile and use the online Xbox network.
+During the child Xbox profile creation, you will sign in with your own Microsoft account to verify that you are an adult organizer in your Microsoft family group.
+==========
+We collect an alternate email address or phone number to boost account security.
+If your child needs help accessing their account, they will be able to use one of these alternates to validate they own the Microsoft account.We collect limited information about children, including name, birthdate, email address, and region.
+==========
+When you sign your child up for an Xbox profile, they get a gamertag (a public nickname) and a unique identifier.
+When you create your child’s Xbox profile you consent to Microsoft collecting, using, and sharing information based on their privacy and communication settings on the Xbox online network.
+Your child’s privacy and communication settings are defaulted to the most restrictive.Data we collect.
+==========
+We collect information about your child’s use of Xbox services, games, apps, and devices including:When they sign in and sign out of Xbox, purchase history, and content they obtain.Which games they play and apps they use, their game progress, achievements, play time per game, and other play statistics.Performance data about Xbox consoles, Xbox Game Pass and other Xbox apps, the Xbox network, connected accessories, and network connection, including any software or hardware errors.Content they add, upload, or share through the Xbox network, including text, pictures, and video they capture in games and apps.Social activity, including chat data and interactions with other gamers, and connections they make (friends they add and people who follow them) on the Xbox network.If your child uses an Xbox console or Xbox app on another device capable of accessing the Xbox network, and that device includes a storage device (hard drive or memory unit), usage data will be stored on the storage device and sent to Microsoft the next time they sign in to Xbox, even if they have been playing offline.Xbox console diagnostic data.
+If your child uses an Xbox console, the console will send required data to Microsoft.
+Required data is the minimum data necessary to help keep Xbox safe, secure, up to date, and performing as expected.Game captures.
+==========
+Any player in a multiplayer game session can record video (game clips) and capture screenshots of their view of the game play.
+Other players’ game clips and screenshots can capture your child’s in-game character and gamertag during that session.
+If a player captures game clips and screenshots on a PC, the resulting game clips might also capture audio chat if your child’s privacy and communication settings on the Xbox online network allow it.Captioning.
+==========
+During Xbox real-time (“party”) chat, players may activate a voice-to-text feature that lets them view that chat as text.
+If a player activates this feature, Microsoft uses the resulting text data to provide captioning of chat for players who need it.
+==========
+This data may also be used to provide a safe gaming environment and enforce the Community Standards for Xbox.Data use.
+Microsoft uses the data we collect to improve gaming products and experiences— making it safer and more fun over time.
+Data we collect also enables us to provide your child with personalized, curated experiences.
+==========
+This includes connecting them to games, content, services, and recommendations.Xbox data viewable by others.
+When your child is using the Xbox network, their online presence (which can be set to “appear offline” or “blocked”), gamertag, game play statistics, and achievements are visible to other players on the network.
+Depending on how you set your child’s Xbox safety settings, they might share information when playing or communicating with others on the Xbox network.In order to help make the Xbox network a safe gaming environment and enforce the Community Standards for Xbox, we may collect and review voice, text, images, videos and in-game content (such as game clips your child uploads, conversations they have, and things they post in clubs and games).
+Xbox data shared with game and apps publishers.
+When your child uses an Xbox online game or any network-connected app on their Xbox console, PC, or mobile device, the publisher of that game or app has access to data about their usage to help the publisher deliver, support, and improve its product.
+This data may include: your child’s Xbox user identifier, gamertag, limited account info such as country and age range, data about your child’s in-game communications, any Xbox enforcement activity, game-play sessions (for example, moves made in-game or types of vehicles used in-game), your child’s presence on the Xbox network, the time they spend playing the game or app, rankings, statistics, gamer profiles, avatars, or gamerpics, friends lists, activity feeds for official clubs they belong to, official club memberships, and any content they create or submit in the game or app.Third-party publishers and developers of games and apps have their own distinct and independent relationship with users and their collection and usage of personal data is subject to their specific privacy policies.
+==========
+You should carefully review their policies to determine how they use your child’s data.
+For example, publishers may choose to disclose or display game data (such as on leaderboards) through their own services.
+You may find their policies linked from the game or app detail pages in our stores.Learn more at Data Sharing with Games and Apps.To stop sharing game or app data with a publisher, remove its games or app from all devices where they have been installed.
+==========
+Some publisher access to your child’s data may be revoked at microsoft.com/consent.Managing child settings.
+As the organizer of a Microsoft family group, you can manage a child’s information and settings on their Family Safety page, as well as their Xbox profile privacy settings from their Xbox Privacy & online safety page.You can also use the Xbox Family Settings app to manage your child’s experience on the Xbox Network including: spending for Microsoft and Xbox stores, viewing your child’s Xbox activity, and setting age ratings and the amount of screen time.Learn more about managing Xbox profiles at Xbox online safety and privacy settings.Learn more about Microsoft family groups at Simplify your family’s life.Accessing child data.
+As the organizer of a Microsoft family group, a parent can view and delete a child’s data on their privacy dashboard.
+The dashboard allows you to review your child's personal information, have it deleted, and refuse to permit further collection or use of your child's information.To close your child’s account, sign in with their account info at  account.microsoft.com/profile and select ”How to close your account.”
+Legacy.Xbox 360.
+==========
+This Xbox console collects limited required diagnostic data.
+This data helps keep your child’s console functioning as expected.Kinect.
+==========
+The Kinect sensor is a combination of camera, microphone, and infrared sensor that can enable motions and voice to be used to control game play.
+For example:
+        If you choose, the camera can be used to sign in to the Xbox network automatically using facial recognition.
+==========
+This data stays on the console, is not shared with anyone, and can be deleted at any time.For game play, Kinect will map distances between the joints on your child’s body to create a stick figure representation to enable play.The Kinect microphone can enable voice chat between players during play.
+The microphone also enables voice commands for control of the console, game, or app, or to enter search terms.The Kinect sensor can also be used for audio and video communications through services such as Skype.Learn more about Kinect at Xbox Kinect and Privacy.
+==========

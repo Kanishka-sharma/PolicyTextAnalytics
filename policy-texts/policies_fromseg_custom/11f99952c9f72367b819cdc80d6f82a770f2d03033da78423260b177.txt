@@ -1,0 +1,292 @@
+This data protection declaration applies to the processing of your data, namely your personal data, on the Internet site “https://onetech.group” with all secondary and sub-sites as well as by the SSP of One tech Group GmbH (platform).
+The platform is operated by One Tech Group GmbH from Hamburg (operator).
+==========
+The e-mail address of the operator is: info@onetech.group.
+The complete contact data can be found in the imprint of the operator.
+==========
+The platform is used for information purposes, for the delivery of advertising on the Internet and for the administration of the delivery of advertising.
+The platform is also used by customers of the operator.
+In this respect, the operator processes the data on behalf of the respective customer, who is responsible for data processing in accordance with the order.
+The content of this declaration can be accessed at any time via the subpage of the same name on the platform and can also be saved or printed out using the corresponding functions of your Internet browser.
+==========
+For the use of the platform by the operator’s customers, reference is made to the data protection declaration of the respective customer.
+I. Preliminary remarks
+The operator takes the protection of your data seriously and complies with the laws on data protection.
+These laws serve to protect natural persons when processing personal data.
+Personal data is all information relating to an identified or identifiable natural person.
+Such data will only be processed to the extent necessary for the possible execution of a contract or for the provision and improvement of the platform.
+==========
+Processing for contract implementation is only carried out if you initiate or conclude a contract with the operator; in this respect, reference is made to the usage contract.
+Processing for the purpose of providing and improving the platform will only be carried out if this is stated below or in a separate consent, ordered by authorities or courts or otherwise provided for by law.
+==========
+The data will be processed by the operator only in the member states of the European Union (EU).
+In particular, the Internet servers used by the operator for data processing are located in the member states of the EU.
+A transfer to a third country or an international organization does not take place in principle.
+==========
+II.
+Data processing
+Your data will be processed depending on the form as well as independent of the form.
+Depending on the form, this is the data that you enter in a form on the platform.
+Form-independent is the data that you leave on the operator’s servers even without entering it in a form.
+You can also leave form independent data on the servers of the operator if you use an app or the website of a customer of the operator.
+However, these data are only processed by the operator on behalf of the customer, who is responsible for data processing and whose privacy policy you can find on the respective app or website.
+1.
+==========
+Form dependent processing
+The data you enter in a form on the platform will be processed when the form is used, namely after the form is sent.
+This is data for establishing contact and, if you are a customer of the operator, the data concerning your customer account.
+Personal data, which you send via a form provided for this purpose, is always transmitted encrypted to the operator’s servers.
+a) Contact form
+If you contact the operator via a form, your data entered in the contact form will be transmitted in encrypted form via the operator’s servers to the operator by e-mail.
+==========
+Any further automated processing of your personal data will not take place.
+The data transmitted to your person will only be used to process your request.
+If it is an inquiry in connection with a data processing that the operator carries out on behalf of a customer, the operator will forward your inquiry to the respective customer in encrypted form.
+==========
+An answer is always sent by e-mail, which is also transmitted in encrypted form, provided your e-mail service provider supports this.
+After final processing of the inquiry, your personal data that you have entered in the contact form or in response to an answer from the operator will be deleted.
+This does not apply if the data is still required for the execution of the contract or if legal storage obligations conflict with this; however, the processing of your data is restricted in this respect.
+2.
+==========
+Form independent processing
+The data required by the operator either for the provision or the improvement of the platform is processed independently of forms.
+In particular, this may involve browser cookies, mobile identifiers and access protocols, whereby the data is always transmitted in encrypted form.
+a) Browser Cookies
+The platform uses so-called cookies.
+==========
+These are small text files or simple entries in a database that your browser stores.
+The data in the cookies can only be read again by the platform that stored them.
+On the one hand, the platform uses cookies when you log into your customer account.
+These cookies ensure that only you can access the data stored in your customer account after you have logged in.
+==========
+For this purpose, a so-called session ID is stored in the cookie.
+After you log out, the cookie with the ID is deleted again.
+On the other hand, cookies are used when you visit a website that uses the platform.
+==========
+That is, when you visit a page that delivers advertising via the platform or prepares the delivery of advertising.
+These cookies are used to tailor the delivery of advertising to the target group and interests of the user.
+For this purpose, a so-called advertising ID is stored in the cookie (e.g. so that the same advertisement is not displayed to you again and again).
+The ID can also be assigned to advertising categories (e.g. age between 18 and 35 years / interest in cars).
+==========
+However, these categories always apply to a larger group of people, both individually and collectively.
+This means that the operator cannot identify you as a person either by the Advertising ID as such or by the categories assigned to the ID.
+The cookies with the advertising ID can also be used by the customers for whom the operator processes data on behalf of the customer when delivering advertising via the platform.
+The operator’s customers can assign the advertising ID to their own ID with advertising categories.
+In this respect, however, the respective customer is responsible for the data processing, for which the data protection declaration on the website you visit applies.
+==========
+The cookies used by the platform do not cause any damage to your end device (e.g. computer / tablet), in particular they do not contain viruses.
+You can prevent the storage of cookies by making the appropriate setting in your browser; in this case, you may no longer be able to use all the functions of the platform or the website you are visiting.
+The same applies to the deletion of stored cookies.
+==========
+b) Mobile Identifier
+Advertising can also be delivered to mobile applications (apps) via the platform.
+For this purpose, the apps can use a so-called mobile identifier, which is provided by the operating system of your mobile device (Apple iOS or Google Android).
+This identifier ultimately corresponds to the advertising ID from a cookie.
+This means that the identifier can be assigned to advertising categories in order to design the advertising in the apps to suit the target group and interests.
+==========
+However, the categories always apply to a larger group of people.
+The operator can therefore identify you as a person neither by the identifier as such nor by the assigned categories.
+The identifiers can also be used by the customers for whom the operator delivers advertising and assigned to their own ID with advertising categories.
+In this respect, however, the respective customer is responsible for data processing.
+==========
+The operator itself can neither read out, change nor delete the identifier.
+However, you can prevent the use of the identifier by making the appropriate setting in the app or in your operating system; in this case, you may no longer be able to use all functions of the app or the system.
+The same applies, depending on the app and the operating system, to changing or deleting the identifier.
+For details, please refer to the privacy policy of the respective app and your system.
+==========
+c) Access logs
+The use of the platform and the advertising delivery are statistically evaluated.
+For this purpose and in order to prevent misuse of the platform, an access log is created by the operator.
+==========
+In the protocol data about the access to the platform and the retrieval of advertising is stored.
+This is the data that is transferred to the platform by your browser when establishing a connection.
+In other words, it is your IP address, the time of access or retrieval, the ID in a cookie of the platform or the mobile identifier, which address (URL) was accessed, whether the access was successful and how large the data transmitted by the platform was.
+If your browser transmits the respective data, the previous address (referrer) as well as information on the operating system and browser used (e.g. version) will also be stored; however, you can prevent the transmission of this data via the settings of your browser.
+==========
+The protocols are statistically evaluated, also for customers who use the platform for advertising delivery.
+The evaluation shows when which advertisement was delivered to which Internet page or app.
+This means that the statistics can only show the logged data to a limited extent, in particular the last quarter (octet) of the IP address is always blacked out.
+The identification of your person does not allow such an evaluation.
+==========
+To prevent misuse, the protocols are encrypted and stored separately from the statistics.
+Decrypted and merged with other data, the logs are only used in the event of a concrete suspicion of misuse, whereby the management and the data protection officer of the operator and, if applicable, of the customer concerned are consulted.
+The logs are deleted as soon as they are no longer required to prevent misuse.
+At the latest, the deletion will take place three months after the end of the calendar month in which the data was logged.
+==========
+d) Social networks
+The platform may link to social networks that are operated by third parties.
+This may be done in order to share (e.g. “Share”) or like (e.g. “Like”) the platform or contributions to it in the respective network.
+However, a connection to such a network will only be established after you have clicked the button (link) for the respective network on the platform.
+==========
+Due to the processing of personal data by the social networks, on which the operator has no influence, reference is made to the data protection declaration of the respective operator:
+ 
+
+XING (XING SE): https://www.xing.com/privacy
+LinkedIn (LinkedIn Ireland U.C.): https://www.linkedin.com/legal/privacy-policy
+Google+ (Google LLC): https://policies.google.com/privacy?hl=de
+Facebook (Facebook Ireland Ltd.): https://www.facebook.com/privacy/explanation
+Twitter (Twitter International Company): https://twitter.com/de/privacy
+
+e) Embedded contents
+The platform may embed Google Maps (interactive maps) content on its sub-pages.
+These contents are therefore not transmitted via the operator’s servers, but via the servers of Google Inc. (Google).
+When displaying and using the embedded contents, your IP address is transmitted to the Google servers.
+This is because without the transmission of your IP address, the embedded contents cannot be accessed by your browser.
+==========
+In addition, your browser may transmit further data to Google’s servers (e.g. your location, if you use the corresponding function), but the operator has no influence on this.
+In this respect, you can also access the data protection declaration for Google Maps at:
+https://www.google.com/intl/de/policies/privacy/
+f) Google Analytics
+The operators of the platform use Google Analytics to analyze website usage.
+The resulting data is used to optimize the website and advertising measures.
+Google Analytics is a web analysis service provided by Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, United States).
+Google processes the data for website use on behalf of the operator and is contractually obliged to take measures to ensure the confidentiality of the processed data.
+During your visit to the website, the following data, among others, is recorded:
+
+Pages called up
+Orders including the turnover and the ordered products
+The achievement of “website objectives” (e.g. contact requests and newsletter subscriptions)
+Your behavior on the pages (for example clicks, scrolling behavior and dwell time)
+Your approximate location (country and city)
+Your IP address (in abbreviated form, so that no clear assignment is possible)
+Technical information such as browser, Internet provider, end device and screen resolution
+Source of your visit (i.e. which website or advertising medium brought you to us)
+
+This data is transferred to a Google server in the USA.
+Google complies with the data protection regulations of the “EU-US Privacy Shield” agreement.
+==========
+Google Analytics stores cookies in your web browser for a period of two years since your last visit.
+These cookies contain a randomly generated user ID, which enables us to recognize you on future visits to our website.
+The recorded data is stored together with the randomly generated user ID, which enables the evaluation of pseudonymous user profiles.
+==========
+This user-related data is automatically deleted after 14 months.
+Other data remains stored in aggregated form for an unlimited period of time.
+If you do not agree with the collection, you can prevent this by installing the browser add-on once to deactivate Google Analytics.
+==========
+III.
+Your rights
+If you are affected by a processing of your personal data, you are entitled to rights against the person responsible for data processing according to the data protection regulations.
+==========
+You can contact the operator at any time to assert these rights, for example by e-mail at the address mentioned at the beginning of this document.
+The same applies to other questions regarding data protection by the operator.
+When contacting the operator in other contexts, you should also provide information that allows an assignment in the respective context (e.g. your customer number as a customer).
+1.
+==========
+Right of withdrawal
+You have the right to revoke any consent to data processing at any time.
+Revocation of consent does not affect the lawfulness of the processing that has taken place on the basis of the consent until revocation.
+2.
+==========
+Right of objection
+2.
+a) General
+You have the right to object at any time, for reasons arising from your particular situation, to the processing of personal data concerning you which is necessary for the performance of a task carried out in the public interest or which is carried out in order to protect the legitimate interests of the operator.
+The operator will then no longer process the personal data unless he can prove compelling reasons for processing worthy of protection that outweigh your interests, rights and freedoms, or the processing serves to assert, exercise or defend legal claims.
+2.
+==========
+b) Advertising
+We use web tracking systems for advertising, market research and to make your use of our offers as pleasant as possible.
+In doing so, data on the use of our offers is stored in pseudonymous user profiles (your IP address is anonymized).
+This enables us to further develop our offers and to adjust the contents even better to your needs.
+Furthermore, the user profiles are used for so-called retargeting.
+This enables us to 
+ 
+place interesting offers on other websites that you visit.
+The pseudonymous user profiles are not merged with personal data.
+==========
+The tracking providers we use are members of industry associations (see below for details), through whose websites you can centrally object to usage-based online advertising by the respective members.
+Below you will find the websites of these associations for a convenient cross-vendor opt-out:
+“European Interactive Digital Advertising Alliance (EDAA): http://www.youronlinechoices.com/de/praferenzmanagement/
+“Digital Advertising Alliance (DAA): http://www.aboutads.info/choices/
+In addition, the operator will consider it an objection to data processing for advertising purposes if you set the Do Not Track option in your browser settings.
+==========
+If you prevent the use of a Mobile Identifier in the settings of your mobile device (smartphone / tablet), it will no longer be used for advertising delivery via the app(s) of the respective device.
+However, the setting does not affect cookies stored in the browser of the same device.
+Any objection to the processing of such cookies would therefore have to be declared separately (e.g. by calling up the preference management linked above via the browser of the device).
+Your right to contact the operator or its customers personally in the event of an objection remains unaffected.
+3.
+==========
+Right of appeal
+You have the right to complain to a supervisory authority if you believe that the processing of personal data concerning you is in breach of the law.
+The State Commissioner for Data Protection and Freedom of Information Hamburg (HmbBfDI) is responsible at the operator’s headquarters; contact details can be found on the HmbBfDI website.
+Your right to complain to any other supervisory authority, in particular in the member state where you reside, your place of work or the location of the suspected infringement, remains unaffected.
+Furthermore, the right of complaint is without prejudice to any other administrative or judicial remedy.
+4.
+==========
+Right of information
+You have the right to obtain confirmation from the Operator as to whether personal data concerning you are being processed; if this is the case, you have the right to obtain information about this data and the following information (a) the purposes of the processing; (b) the categories of personal data being processed; (c) the recipients or categories of recipients to whom the data have been or will be disclosed; (d) the envisaged duration for which the data will be kept or, if this is not possible, the criteria for determining this duration; (e) your rights under data protection legislation; (f) if the data are not collected from you, all available information on the origin of the data; (g) the existence of automated decision making, including profiling and meaningful information on it.
+Most of the information can already be found in this declaration.
+==========
+In addition, you can of course contact the operator at any time, for example by e-mail to the address mentioned at the beginning.
+Upon request, the operator will provide you with a copy of the personal data that is the subject of processing.
+This, however, only insofar as it does not infringe the rights and freedoms of other persons.
+If you make the request electronically, the information will be made available to you in a common electronic format, unless you indicate otherwise.
+5.
+==========
+Right of rectification
+You have the right to request the operator to correct incorrect personal data concerning you without delay.
+Taking into account the purposes of processing, you also have the right to request the completion of incomplete personal data, including by means of a supplementary declaration.
+6.
+==========
+Right of cancellation
+You have the right to demand from the operator that personal data concerning you be deleted immediately, and the operator is obliged to delete such data immediately if one of the following reasons applies (a) the data are no longer necessary for the purposes for which they were collected or otherwise processed; (b) you withdraw your consent on which the processing was based and there is no other legal basis for the processing; (c) you object to the processing and there are no legitimate overriding reasons for the processing or your objection relates to direct marketing; (d) your personal data have been processed unlawfully; (e) the deletion is necessary for the fulfilment of a legal obligation to which the operator is subject; or (f) the data have been collected in connection with an offer of information society services made directly to a child on the basis of the child’s consent.
+However, the right of deletion shall not apply if the processing is necessary: (a) to exercise the right to freedom of expression and information; (b) to fulfil a legal obligation; (c) to perform a task in the public interest or (d) to assert, exercise or defend legal claims.
+In this respect, you may demand a blockage if necessary.
+7.
+==========
+Right to block
+You have the right to request the operator to restrict (block) the processing if one of the following conditions is met: (a) the accuracy of your personal data is disputed by you, for a period of time that allows the operator to verify the accuracy of such data; (b) the processing is unlawful and you refuse to have your data deleted and instead demand the restriction of data use; (c) the Operator no longer needs the personal data for the purposes of the processing, but you need it for the purpose of asserting, exercising or defending legal claims; or (d) you have lodged an objection to the processing as long as it is not yet clear whether the justified reasons of the Operator outweigh yours; the weighing of justified reasons is not required in the case of an objection to the processing for direct marketing purposes.
+If the processing has been restricted, your personal data – apart from being stored – may only be processed with your consent or for the purpose of asserting, exercising or defending legal claims or protecting the rights of another person or for reasons of an important public interest.
+If you have obtained a restriction on processing, you will be informed by the operator before the restriction is lifted.
+8.
+==========
+Right to data transferability
+You have the right to receive your personal data, which you have provided to the Operator, in a structured, common and machine-readable format and you have the right to transfer this data to another person in charge without hindrance by the Operator, provided that the processing is based on your consent or on a contract between you and the Operator and that the processing is carried out by means of automated procedures.
+In this respect, you have the right to obtain that your personal data be transmitted directly by the operator to another responsible person, as far as this is technically feasible and does not affect the rights and freedoms of other persons.
+==========
+Your right of deletion remains unaffected.
+This right does not apply to processing that is necessary for the performance of a task that is in the public interest.
+9.
+==========
+Miscellaneous
+The operator will notify all recipients to whom your data has been disclosed of any correction or deletion of your personal data or of any restriction on processing, unless this proves impossible or involves a disproportionate effort.
+The operator will inform you of such recipients if you so request.
+If the Operator has made the personal data public and is obliged to delete it, it will take reasonable measures, taking into account the available technology and implementation costs, to inform third parties processing your personal data that you have requested the deletion of all links to such data or copies of the data.
+==========
+IV.
+Final remarks
+1.
+==========
+Legal bases
+The legal regulations for data protection can be found in particular in the Federal Data Protection Act (BDSG) and the Telemedia Act (TMG).
+From 25 May 2018, however, the Basic Data Protection Regulation (DSGVO) will take precedence.
+Insofar as you have given your express consent to the processing of your data, this is also the legal basis for data processing for the purposes to which you have consented (Art. 6 para.
+1 letter a DSGVO).
+Insofar as the processing is necessary for the performance or initiation of a contract, this constitutes the legal basis (Art. 6 para.
+1 letter b DSGVO).
+==========
+These are contracts of use that are concluded between you and the operator or initiated upon your request.
+Furthermore, the legal basis for data processing is the protection of the operator’s legitimate interests (Art. 6 para.
+f DSGVO).
+This is the economic interest in the operation of the platform, in particular in the delivery of advertising that is appropriate to the target group and interests.
+There is no automated decision-making including profiling within the meaning of Art. 22 DSGVO.
+In particular, the assignment to advertising features does not have any legal effect on you or impairs it considerably in a similar way.
+2.
+==========
+Protective measures
+Taking into account the type, scope, circumstances and purposes of the processing as well as the different probability of occurrence and severity of the risks to your rights and freedoms, the operator will implement suitable technical and organizational measures to ensure that the data processing is carried out in accordance with the statutory provisions.
+The measures are taken in consideration of the state of the art and include in particular an encryption of your data.
+The equipment and systems on which the data is processed are protected against unauthorized access, both physical and digital.
+==========
+In particular, the operator’s servers are password protected.
+By regularly testing and updating the software used, the operator prevents security gaps that could enable misuse of your data.
+Only those persons subordinate to the operator (employees) who require this for the fulfilment of their tasks are granted access to personal data, and only to the extent necessary in each case.
+The employees of the operator are instructed in advance in data processing and are obliged to maintain confidentiality.
+Regular backups protect the data from loss and can be restored at any time.
+==========
+The pre-setting of the systems ensures that only personal data whose processing is necessary for the respective processing purpose is processed.
+This ensures that data protection principles such as data minimization are implemented.
+==========
+In addition, the operator ensures the confidentiality, integrity, availability and resilience of the systems through technical and organizational measures.
+Compliance with the data protection regulations is regularly checked and the measures updated as necessary.
+==========

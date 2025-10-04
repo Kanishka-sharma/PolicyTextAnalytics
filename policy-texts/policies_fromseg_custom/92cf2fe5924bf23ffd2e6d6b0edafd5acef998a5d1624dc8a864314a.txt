@@ -1,0 +1,561 @@
+Square User Agreement
+Welcome to Square.
+This Square User Agreement ("Agreement") is a legal agreement between you ("you," "your") and Square, Inc. ("Square," "we," "our" or "us").
+==========
+We want to make it easy for you to accept payments, and have developed a payments service (the "Service," more fully described in Section 1 below) that is subject to the rules and regulations of various payment card networks as well as financial services authorities and regulators in the United States.
+Before you can use the Service, we require that you accept the terms of this Agreement.
+If you do not agree with these terms and do not want to be bound by this Agreement, you will not be granted any rights under this Agreement and you may not download, use, or access the Service.
+Signing up for Square means you accept these terms:
+
+1.
+==========
+Your License
+Square grants you a personal, limited, non-exclusive, revocable, non-transferable license, without the right to sublicense, to electronically access and use the Service solely to accept and receive payments and to manage the funds you so receive.
+The Service includes our website, any software, programs, documentation, tools, internet-based services, components, and any updates (including software maintenance, service information, help content, bug fixes or maintenance releases) thereto provided to you by Square.
+You will be entitled to download updates to the Service, subject to any additional terms made known to you at that time, when Square makes these updates available.
+While we want you to enjoy the Service, you may not, nor may you permit any third party to do any of the following: (i) access or attempt to access Square systems, programs or data that are not made available for public use: (ii) copy, reproduce, republish, upload, post, transmit, resell or distribute in any way material from Square; (iii) permit any third party to use and benefit from the Service via a rental, lease, timesharing, service bureau or other arrangement; (iv) transfer any rights granted to you under this Agreement; (v) work around any of the technical limitations of the Service, use any tool to enable features or functionalities that are otherwise disabled in the Service, or decompile, disassemble or otherwise reverse engineer the Service, except to the extent that such restriction is expressly prohibited by law; (vi) perform or attempt to perform any actions that would interfere with the proper working of the Service, prevent access to or use of the Service by our other users, or impose an unreasonable or disproportionately large load on our infrastructure; or (vii) otherwise use the Service except as expressly allowed under this section.
+2.
+==========
+Ownership
+The Service is licensed and not sold.
+Square reserves all rights not expressly granted to you in this Agreement.
+The Service is protected by copyright, trade secret and other intellectual property laws.
+Square owns the title, copyright and other worldwide Intellectual Property Rights (as defined below) in the Service and all copies of the Service.
+This Agreement does not grant you any rights to Square’s trademarks or service marks.
+For the purposes of this Agreement, "Intellectual Property Rights" means all patent rights, copyright rights, mask work rights, moral rights, rights of publicity, trademark, trade dress and service mark rights, goodwill, trade secret rights and other intellectual property rights as may now exist or hereafter come into existence, and all applications therefore and registrations, renewals and extensions thereof, under the laws of any state, country, territory or other jurisdiction.
+==========
+You may choose to or we may invite you to submit comments or ideas about the Service, including without limitation about how to improve the Service or our products ("Ideas").
+By submitting any Idea, you agree that your disclosure is gratuitous, unsolicited and without restriction and will not place Square under any fiduciary or other obligation, and that we are free to use the Idea without any additional compensation to you, and/or to disclose the Idea on a non-confidential basis or otherwise to anyone.
+You further acknowledge that, by acceptance of your submission, Square does not waive any rights to use similar or related ideas previously known to Square, or developed by its employees, or obtained from sources other than you.
+3.
+==========
+Account Registration
+You must register and create a "Member" account to use the Service.
+When prompted by our registration process, you agree to (a) provide true, accurate, current and complete information about yourself, and (b) maintain and update this information to keep it true, accurate, current and complete.
+If any information provided by you is untrue, inaccurate, not current or incomplete, Square has the right to terminate your Square Account ("Account")and refuse any and all current or future use of the Service.
+If you open a Member Account on behalf of a company, organization, or other entity, then (a) "you" includes you and that entity, and (b) you represent and warrant that you are an authorized representative of the entity with the authority to bind the entity to this Agreement, and that you agree to this Agreement on the entity’s behalf.
+==========
+You may access the Service through a mobile device using services provided by third party carriers.
+These third parties may charge you fees to access the Service.
+You are solely responsible for the payment of those fees.
+==========
+Your use of the Service may also be subject to the terms of your agreements with your mobile device manufacturer and your carrier.
+Using the Service with a mobile device requires a mobile device that is compatible with the Service.
+Square does not warrant that the Service will be compatible with your mobile device.
+4.
+==========
+Protecting Your Information
+It is your sole responsibility to ensure that your account numbers, passwords, security questions and answers, login details and any other security or access information used by you to use or access the Service is kept safe and confidential.
+You must prevent unauthorized access to and use of any of your information or data used with or stored in or by the Service ("Account Data").
+==========
+You are responsible for all electronic communications sent to us or to any third party containing Account Data.
+When we receive communications containing your Account Data, we assume you sent it to us.
+==========
+You must immediately notify us if you become aware of any loss, theft or unauthorized use of any Account Data.
+We reserve the right to deny you access to the Service, in whole or in part, if we believe that any loss, theft or unauthorized use of any Account Data or access information has occurred.
+You grant us permission to anonymously combine your Account Data with that of other members in order to improve our services to you.
+5.
+==========
+Use of the Service
+We have the right and sole discretion to revise, update or otherwise modify the Service and to establish or change limits regarding the use of the Service.
+We will always attempt to notify you of any modifications with reasonable notice, by posting to the Square website and/or sending you an email to the email address provided when you registered or subsequently updated by you.
+We reserve the right to make any such changes effective immediately to maintain the security of our system or to comply with any laws or regulations, and to provide with notice via email of such changes.
+==========
+We may also perform maintenance on the Service from time to time and this may result in service interruptions, delays, or errors.
+We will always attempt to provide prior notice of scheduled maintenance but cannot guarantee that notice will always be provided.
+==========
+You may be offered new services or software that may be in beta and not final.
+As such, the Service may contain errors and "bugs" that may result in its failure.
+You agree that we may contact you in order to assist you with the Service and obtain information needed to identify and fix any errors.
+6.
+==========
+E-Sign Consent; Payment Services Agreement
+Upon installation of the software, which is a part of and which allows you to access and use the Service, you will be prompted to establish your user profile and account on the Square website.
+It is important that you complete this process because the information you provide and selections you make will allow Square to provision the payment processing services applicable to your Account.
+In order to receive payments via the Service, you will be required to consent to receive disclosures and other information electronically in terms of the Square E-Sign Consent and enter into a Payment Services Agreement ("PSA").
+The PSA will be presented during the account establishment process and must be executed prior to performing a transaction.
+==========
+Square processes payment transactions in accordance with agreements with entities called payment processors ("Processors") and payment card networks including, but not limited to, MasterCard International Inc. and Visa USA, Inc. (collectively, the "Networks").
+In certain instances, the Networks require that you enter into an agreement directly with Square’s payment processor of record, such agreement being referred to as the "Commercial Entity Agreement."
+If appropriate, you will be presented with the Commercial Entity Agreement along with the Payment Services Agreement.
+7.
+==========
+Receipts
+
+
+When your customer is present at the time of the transaction and signs the Square electronic receipt, you benefit from the Payment Network rules for card present transactions.
+You agree to request that your customer personally signs for all transactions greater than $25.00 when your customer is present.
+==========
+If you operate a 501(c)(3) organization you may offer Square electronic receipts to your donors as a convenience, by completing the required fields in the "Tax and Reporting" section of our website.
+You acknowledge that not all payments made to your organization will be eligible for classification as "tax deductible to the extent allowed by law", and you assume full responsibility for the classification of your transactions.
+Square specifically disclaims any liability in this regard.
+==========
+You shall make a written receipt available to your customers for any transaction valued greater than fifteen dollars ($15.00).
+You may give your customers the option to receive or decline a written receipt.
+As a convenience, but not in lieu of a written receipt, you may also offer Square electronic receipts for delivery through SMS or email to your customers.
+8.
+==========
+Third Party Services and Websites
+You may be offered services, products and promotions provided by third parties and not by Square.
+If you decide to use these Third Party Services you will be responsible for reviewing and understanding the terms and conditions associated with these services.
+==========
+You agree that Square is not responsible for the performance of these services.
+The Square website may contain links to third party websites as a convenience to you.
+The inclusion of any website link does imply an approval, endorsement, recommendation by Square.
+You agree that you access any such website at your own risk, and that the site is not governed by the terms and conditions contained in this Agreement.
+Square expressly disclaims any liability for these websites.
+9.
+Privacy
+Upon acceptance of this Agreement you confirm that you have read, understood and accepted Square’s Privacy Policy.
+10.
+==========
+Security
+We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure.
+However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
+You acknowledge that you provide your personal information at your own risk.
+11.
+==========
+No Warranty
+THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS.
+USE OF THE SERVICE IS AT YOUR OWN RISK.
+==========
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SERVICE IS PROVIDED WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM COMPANY OR THROUGH THE SERVICE WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED HEREIN.
+==========
+WITHOUT LIMITING THE FOREGOING, SQUARE, ITS PROCESSORS, ITS PROVIDERS, ITS LICENSORS (AND THEIR RESPECTIVE SUBSIDIARIES, AFFILIATES, AGENTS, DIRECTORS, AND EMPLOYEES) DO NOT WARRANT THAT THE CONTENT IS ACCURATE, RELIABLE OR CORRECT; THAT THE SERVICE WILL MEET YOUR REQUIREMENTS; THAT THE SERVICE WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION, UNINTERRUPTED OR SECURE; THAT ANY DEFECTS OR ERRORS WILL BE CORRECTED; OR THAT THE SERVICE IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+ANY CONTENT DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICE IS DOWNLOADED AT YOUR OWN RISK AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR PROPERTY OR LOSS OF DATA THAT RESULTS FROM SUCH DOWNLOAD.
+SQUARE DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICE OR ANY HYPERLINKED WEBSITE OR SERVICE, OR FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND SQUARE WILL NOT BE A PARTY TO OR IN ANY WAY MONITOR ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES
+12.
+==========
+Limitation of Liability and Damages
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL SQUARE, ITS PROCESSORS, SUPPLIERS OR ITS LICENSORS (OR THEIR RESPECTIVE AFFILIATES, AGENTS, DIRECTORS AND EMPLOYEES) BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING WITHOUT LIMITATION DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES, THAT RESULT FROM THE USE OF, OR INABILITY TO USE, THIS SERVICE.
+UNDER NO CIRCUMSTANCES WILL SQUARE BE RESPONSIBLE FOR ANY DAMAGE, LOSS OR INJURY RESULTING FROM HACKING, TAMPERING OR OTHER UNAUTHORIZED ACCESS OR USE OF THE SERVICE OR YOUR ACCOUNT OR THE INFORMATION CONTAINED THEREIN.
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, SQUARE AND ITS PROCESSORS (AND THEIR RESPECTIVE AFFILIATES, AGENTS, DIRECTORS, AND EMPLOYEES)  ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT; (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO OR USE OF OUR SERVICE; (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION STORED THEREIN; (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SERVICE; (V) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE THAT MAY BE TRANSMITTED TO OR THROUGH OUR SERVICE BY ANY THIRD PARTY; (VI) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE THROUGH THE SERVICE; AND/OR (VII) USER CONTENT OR THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY.
+IN NO EVENT SHALL SQUARE, ITS PROCESSORS, AGENTS, SUPPLIERS, OR LICENSORS (OR THEIR RESPECTIVE AFFILIATES, AGENTS, DIRECTORS, AND EMPLOYEES) BE LIABLE TO YOU FOR ANY CLAIMS, PROCEEDINGS, LIABILITIES, OBLIGATIONS, DAMAGES, LOSSES OR COSTS IN AN AMOUNT EXCEEDING THE AMOUNT OF FEES EARNED BY US IN CONNECTION WITH YOUR USE OF THE SERVICE DURING THE THREE (3) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO THE CLAIM FOR LIABILITY.
+==========
+THIS LIMITATION OF LIABILITY SECTION APPLIES WHETHER THE ALLEGED LIABILITY IS BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR ANY OTHER BASIS, EVEN IF SQUARE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+THE FOREGOING LIMITATION OF LIABILITY SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW IN THE APPLICABLE JURISDICTION.
+==========
+The Service is controlled and operated from its facilities in the United States.
+Square makes no representations that the Service is appropriate or available for use in other locations.
+==========
+Those who access or use the Service from other jurisdictions do so at their own volition and are entirely responsible for compliance with all applicable United States and local laws and regulations, including but not limited to export and import regulations.
+You may not use the Service if you are a resident of a country embargoed by the United States, or are a foreign person or entity blocked or denied by the United States government.
+Unless otherwise explicitly stated, all materials found on the Service are solely directed to individuals, companies, or other entities located in the United States.
+13.
+Indemnity
+You will indemnify, defend and hold us and our Processors harmless (and our respective employees, directors, agents, affiliates and representatives)  from and against any and all claims, costs, losses, damages, judgments, Tax assessments, penalties, interest, and expenses (including without limitation reasonable attorneys’ fees) arising out of any claim, action, audit, investigation, inquiry, or other proceeding instituted by a person or entity that arises out of or relates to: (a) any actual or alleged breach of your representations, warranties, or obligations set forth in this Agreement, including without limitation any violation of our Policies or the Networks’ rules; (b) your wrongful or improper use of the Services; (c) any transaction submitted by you through the Service (including without limitation the accuracy of any Product Information that you provide or any claim or dispute arising out of products or services offered or sold by you); (d) your violation of any third-party right, including without limitation any right of privacy, publicity rights or Intellectual Property Rights; (e) your violation of any law, rule or regulation of the United States or any other country; (f) any other party’s access and/or use of the Service with your unique username, password or other appropriate security code.
+14.
+Representation and Warranties
+You represent and warrant to us that: (a) you are at least eighteen (18) years of age; (b) you are eligible to register and use the Service and have the right, power, and ability to enter into and perform under this Agreement; (c) the name identified by you when you registered is your name or business name under which you sell goods and services; (d) any sales transaction submitted by you will represent a bona fide sale by you; (e) any sales transactions submitted by you will accurately describe the goods and/or services sold and delivered to a purchaser; (f) you will fulfill all of your obligations to each customer for which you submit a transaction and will resolve any consumer dispute or complaint directly with the purchaser; (g) you and all transactions initiated by you will comply with all federal, state, and local laws, rules, and regulations applicable to your business, including any applicable tax laws and regulations; (h) except in the ordinary course of business, no sales transaction submitted by you through the Service will represent a sale to any principal, partner, proprietor, or owner of your entity; and (i) you will not use the Service, directly or indirectly, for any fraudulent undertaking or in any manner so as to interfere with the use of the Service and (j) you are not engaged in and will not accept payment for any of the following: (1) any illegal activity, (2) adult entertainment oriented products or services (all media types; internet, telephone, printed material, etc), (3) internet/mail order/telephone order pharmacies (where fulfillment of medication is performed with an internet or telephone consultation, absent a physical visit with a physician including re-importation of pharmaceuticals from foreign countries.)
+==========
+, (4) internet/mail order/telephone order firearm or weapon sales, (5) internet/mail order/telephone order cigarette or tobacco sales, (6) drug paraphernalia, (7) occult materials, (8) hate products, (9) online gambling (10) lotteries, raffles, or gambling, (11) escort services, (12) collection agencies engaged in the collection of uncollectible debt as defined by the Associations, (13) credit repair agencies (14) sports forecasting or odds making, (15) any merchant business model for products/services that are solely based on guaranteed "rebate", "refund" or "prize" associated with the sale of those products/services (especially those where the rebate or refund equals or exceeds the product/service purchase price or value), or (16) bankruptcy attorneys.
+15.
+==========
+Consent to Electronic Communication
+We primarily communicate with you via your registered electronic address (e-mail and Short Message Service ("SMS") messaging).
+By registering for the services and accepting the terms of this Agreement, you affirmatively consent to receive notices electronically from us.
+You agree that we may provide all communications and transactions related to the services and your accounts, including without limitation agreements related to the Service, amendments or changes to such agreements, disclosures, notices, transaction information, statements, policies (including without limitation notices about our Privacy Policy), responses to claims, and other customer communications that we may be required to provide to you by law in electronic format.
+All communications by us will be sent either (a) via e-mail or SMS messaging associated with your mobile phone, (b) by providing access to a Website that we designate in an e-mail or SMS notice to you, or (c) posting on our website.
+==========
+All Communications will be deemed to be in "writing" and received by you when sent to you.
+You are responsible for creating and maintaining your own records of such communications.
+You must send notices to us at the designated e-mail addresses on the website or through the submission forms on the website.
+We reserve the right to discontinue or modify how we provide communications.
+==========
+We will give you prior notice of any change.
+Your continued consent is required to use your account and the Service.
+To withdraw your consent, you will need to close your account.
+16.
+Limitation on Time to Sue
+Unless otherwise required by law, an action or proceeding by you to enforce an obligation, duty or right arising under this Agreement or by law must commence within one year after the cause of action accrues.
+17.
+==========
+Export Restrictions
+The Service may only be used in the United States.
+By accepting this Agreement you confirm that you will satisfy these requirements.
+You will not export the Service directly or indirectly, and you acknowledge that the Service may be subject to export restrictions imposed by US law, including US Export Administration Regulations (15 CFR, Chapter VII).
+18.
+==========
+Amendment
+We have the right to change or add to the terms of this Agreement at any time, and to change, delete, discontinue, or impose conditions on any feature or aspect of the Service with notice that we in our sole discretion deem to be reasonable in the circumstances, including such notice on our website at https://squareup.com or any other website maintained or owned by us for the purposes of providing services in terms of this Agreement.
+Any use of the Service after our publication of any such changes shall constitute your acceptance of this Agreement as modified.
+19.
+==========
+Termination
+Square may permanently or temporarily terminate, suspend, or otherwise refuse to permit your access to the Service without notice and liability for any reason, including if in Square's sole determination you violate any provision of this Agreement, or for no reason.
+Upon termination for any reason or no reason, you continue to be bound by this Agreement.
+==========
+We reserve the right (but have no obligation) to delete all of your information and Account Data stored on our servers if your membership is terminated or if you have not renewed your membership subscription.
+Upon termination you must immediately stop using the Service the license provided under this Agreement shall end.
+You also agree that upon termination in accordance with this section, Square shall not be liable to you or any third party for termination of access to the Service or deletion of your information or Account Data.
+The rights and obligations of Section 12 (Limitation of Liability and Damages) and Section 13 (Indemnity), will survive termination of this Agreement.
+20.
+Assignment
+This Agreement, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by Square without restriction.
+21.
+==========
+General Provisions
+Except as expressly provided in this Agreement, these terms are a complete statement of the agreement between you and Square, and describe the entire liability of Square and its vendors and suppliers (including Processors) and your exclusive remedy with respect to your access and use of the Service.
+In the event of a conflict between this Agreement and the Privacy Policy, this Agreement shall prevail.
+==========
+If any provision of this Agreement is invalid or unenforceable under applicable law, then it shall be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect.
+This Agreement will be governed by California law as applied to agreements entered into and to be performed entirely within California, without regard to its choice of law or conflicts of law principles that would require application of law of a different jurisdiction, and applicable federal law.
+The parties hereby consent to the exclusive jurisdiction and venue in the state courts in San Francisco County, California or federal court for the Northern District of California.
+==========
+Headings are included for convenience only, and shall not be considered in interpreting this Agreement.
+The Agreement does not limit any rights that Square may have under trade secret, copyright, patent or other laws.
+No waiver of any term of this Agreement shall be deemed a further or continuing waiver of such term or any other term, and Square's failure to assert any right or provision under this Agreement shall not constitute a waiver of such right or provision.
+22.
+==========
+Usage of Shortcode (778273)
+Square will send you real-time receipts via a text message which you may also use as secondary authentication.
+Standard message and data rates may apply (check with your carrier).
+You may start by entering your mobile phone number during a transaction at a Square user, or by opting-in at squareup.com.
+For help, text HELP to 778273, text STOP to quit.
+Service available on: AT&T, T-Mobile®, Sprint, Nextel, Virgin Mobile, Verizon Wireless, Alltel, Dobson, Cellular One, NTelos, US Cellular and Cincinnati Bell.
+==========
+If you have any issues, please contact support.
+E-Sign Consent Agreement
+Applicant Consent to receive disclosures and other information electronically.
+Important Notice
+In order to enroll for a Square Account as defined in the Square User Agreement, Square must provide certain disclosures required by law.
+Square can only provide these disclosures electronically if the applicant consents.
+1.
+==========
+Definitions
+In this E-Sign Consent, the following definitions apply: “I” and “me” mean the person who is applying to establish a Square Account.
+“You” means Square and any person, company, bank or financial institution that is an assignee of Square’s rights.
+2.
+==========
+Consumer Consent
+By checking the “I agree to have the Terms and Conditions presented electronically,” which I hereby adopt as my electronic signature, I consent and agree that:
+
+a) You can provide disclosures required by law and other information about my legal rights and duties to me electronically.
+b) My electronic signature on agreements and documents has the same effect as if I signed them in ink.
+c) You can send all communications, billing statements and disclosures, including, but not limited to, this Square E-Sign Consent, the Square Privacy Policy, the Square User Agreement and the Square Payment Services Agreement (collectively defined as “Disclosures”) to me electronically (1) via e-mail, (2) by access to a web site that we designate in an e-mail notice we send to you at the time the information is available, or (3) to the extent permissible by law, by access to a web site that we will generally designate in advance for such purpose.
+==========
+d) If I want a paper copy, I can print a copy of the Disclosure or download the information for my records.
+e) This consent applies to this application and Account, to all future Disclosures on this Account, to all future transactions in which I use Square or with you, at any time, and to other Disclosures that you provide to me by email, unless I have, prior to such transaction, withdrawn my consent by the procedure mentioned below.
+3.
+==========
+What I Will Need
+I understand that in order to access and retain the electronic Disclosures I will need the following:
+
+a) A computer with an Internet connection.
+b) A current web browser that includes 128-bit encryption.
+==========
+(Minimum recommended browser standards are Microsoft Internet Explorer version 6.0 and above, Firefox version 1.5 and above, or Safari 2.0 and above.)
+The browser must have cookies enabled.
+==========
+c) A valid email address.
+d) Sufficient storage space to save past Disclosures and/OR an installed printer to print them.
+e) If I use a spam filter that blocks or re-routes emails from senders not listed in my email address book, I must add noreply@messaging.squareup.com to my email address book.
+4.
+==========
+Requesting Paper Documents and Withdrawing Consent
+I understand that I may request paper copies of the Disclosures within 180 days of the date of the Disclosure, and that you will provide them to me by mail at no charge.
+I understand that I have the right to receive these Disclosures in paper form and that I may withdraw my consent by signing into squareup.com and going to “Settings” and selecting the option to withdraw my consent.
+I can also request paper copies and/or withdraw consent by contacting you at:
+
+
+      Square, Inc.
+Customer Support — Legal
+      901 Mission Street, suite 104
+      San Francisco, CA 94103
+    
+
+Any withdrawal of my consent to receive electronic Disclosures will be effective only after you have a reasonable period of time to process my withdrawal.
+5.
+==========
+Updating Email Address
+At any time, I can update the email address to which you will send alerts that my Disclosure is available.
+I can change my email address by signing into squareup.com and going t o “Settings.”
+I can also do this by contacting you at:
+
+
+      Square, Inc.
+==========
+Customer Support — Legal
+      901 Mission Street, suite 104
+      San Francisco, CA 94103
+    
+
+6.
+Legal Effect
+By consenting, I agree that electronic Disclosures have the same meaning and effect as if you provided paper Disclosures to me.
+When you send me an email or other electronic notification alerting me that the Disclosure is available electronically and make it available online, that shall have the same meaning and effect as if you provided a paper Disclosure to me, whether or not I choose to view the Disclosure, unless I had previously withdrawn my consent to receive Disclosures electronically.
+7.
+==========
+General
+I understand and agree that you reserve the right to cancel this electronic Disclosure service, change the terms of use of this service or send Disclosures in paper form at any time.
+I understand and agree that you are responsible for sending notice of the Disclosures to me electronically including at the email address I have provided, but are not responsible for any delay or failure in my receipt of the email notices.
+==========
+Payment Services Agreement
+As explained in section 6 of the Square User Agreement that you have previously accepted, Square processes payment transactions in accordance with agreements with entities called payment processors (“Processors”) and payment card networks (“Networks”) including MasterCard International Inc. and Visa USA, Inc.
+This Agreement constitutes your agreement with Square enabling Square and the Processors to facilitate your payments as your master merchant of record.
+In order to enable Square’s payment processing services for your Square Account, Square may perform underwriting of your application.
+In connection with such underwriting and ongoing maintenance of your Account, you agree that Square may share information about you and your Account(s).
+==========
+Each signer of this Agreement authorizes Square to obtain credit bureau reports on such person in connection with your request for a Square Account and, further, if a Square Account is opened, Square may obtain additional credit bureau reports from time to time for the purpose of determining whether such signer or the Account holder continues to meet the requirements for the Square Account.
+You authorize and direct Square to share information about you regarding your application (including whether you are approved or declined) with each other, and if you are approved, information about your Account and its transactions for regulatory or compliance purposes and/or for use in connection with the management and maintenance of the program, including to create and update their customer records about you and to assist them in better serving you.
+==========
+Managing your Square Account
+
+1.
+Your Square Account
+Your Square Account permits you to receive payments.
+Individuals and businesses may register for Square Accounts.
+==========
+You confirm that you are either a legal resident of the United States, a United States citizen or a business entity authorized to conduct business by the state in which it operates.
+The Service and your Square Account may only be used in the fifty States of the United States of America and the District of Columbia.
+You may not use the Service or your Square Account in any other jurisdiction.
+You further agree not export the Service directly or indirectly, and you acknowledge that the Service may be subject to export restrictions imposed by US law, including US Export Administration Regulations (15 CFR, Chapter VII).
+By accepting this Agreement you confirm that you will satisfy these requirements.
+2.
+Managing Your Square Account
+Your Square Accounts may be accessed through our software and website.
+3.
+==========
+Square Account Balances
+You may hold monetary balances that you receive in your Square Account (your "Balance").
+You are not required to maintain a Balance to use our Service.
+==========
+When you carry a Balance, your funds will be co-mingled and held with other participants' funds in one or more pooled accounts at one or more FDIC-insured banks by us on your behalf and for the benefit of you and other users holding balances (each a "Pooled Account").
+US dollar balances held in the Pooled Account are eligible for FDIC pass-through insurance, meaning that your Balance may be FDIC insured up to $250,000 (or such other amount applicable to transaction accounts as determined by applicable law).
+We have sole discretion over the establishment and maintenance of any Pooled Account.
+==========
+Funds associated with your Square Account will at all times be held separate from our corporate funds.
+We will not use your funds for our corporate purposes (including without limitation the granting of any security or similar interest), will not voluntarily make funds available to our creditors in the event of bankruptcy or for any other purpose, and will not knowingly permit our creditors to attach the funds.
+==========
+You will not receive interest or any other earnings on any funds that we handle for you.
+As consideration for using the Service, you irrevocably assign to us all rights and legal interests to any interest and/or other earnings that may accrue or are attributable to our holding of your Balance in a Pooled Account or Reserve (described below).
+4.
+==========
+Reserve
+At any time and from time to time, we may temporarily suspend or delay payments to you and/or designate an amount of funds that we must maintain in your Square Account or in a separate reserve account established and maintained by us (a "Reserve") to secure the performance of your payment obligations under this Agreement.
+Without limiting the foregoing, we may require a Reserve if you have a high rate of Chargebacks (described in Section 22), refunds, or other indications of performance problems related to your use of the services.
+==========
+The Reserve will be in an amount as reasonably determined by us to cover anticipated Chargebacks, returns, unshipped merchandise and/or unfulfilled services or credit risk based on your processing history or such amount designated by our Processor.
+For the first six (6) months new Square Accounts will be required to maintain a Reserve of no less than the combination of a trailing 14 days of sales activity and any pending transaction disputes (i.e., Chargeback, refund request or claims).
+The Reserve may be raised, reduced or removed at any time (including during the first six (6) months of a new Square Account) by Square, in its sole discretion, based on your payment history, a credit review, or otherwise as Square may determine or as may be required by our Processor.
+==========
+If you do not have sufficient funds in your Reserve, we may fund the Reserve from funds deposited by you upon our request or funds due to you under this Agreement.
+You grant us a security interest in and lien on any and all funds held in any Reserve, and also authorize us to make any withdrawals or debits from the Reserve, without prior notice to you, to collect amounts that you owe us under this Agreement, including without limitation for any reversals of deposits or transfers made to your Square Account.
+==========
+You will execute any additional documentation required for us to perfect our security interest in any funds in the Reserve.
+This security interest survives for as long as we hold funds in your Reserve.
+5.
+==========
+Square Account History
+When a payment is made to your Square Account, we will update your Square Account activity on the website and provide you a transaction confirmation.
+The confirmation will serve as your receipt.
+==========
+You should print or otherwise store a copy of these for your records.
+Summaries of your Square Account activity, including monthly statements, are available on our website.
+==========
+Except as required by law, you are solely responsible for (a) compiling and retaining permanent records of all transactions and other data associated with your Square Account and your use of the Services, and (b) reconciling all transactional information that is associated with your Square Account.
+Upon the termination of this Agreement and any other Square agreement for any reason, we will have no obligation to you to store, retain, report, or otherwise provide any copies of, or access to, any records, documentation or other information in connection with any Card transactions submitted by you through the Services.
+6.
+Unauthorized Square Account Activity
+If you believe that there is an error or unauthorized transaction activity is associated with your Square Account, you agree to contact us immediately.
+7.
+==========
+Dormant Square Accounts
+If there is no activity in your Square Account (including without limitation access or payment transactions) for at least two (2) years, consecutively, and you are currently holding a Balance, we will notify you by sending an e-mail to your registered e-mail address and give you the option of keeping your Square Account open and maintaining the Balance, withdrawing the Balance, or requesting a check If you do not respond to our notice within thirty (30) days, we will automatically close your Square Account and escheat your funds in accordance with applicable law, and if permitted, to the Square service.
+Accepting and Making Payments
+
+8.
+Our Role
+You may make payments and accept payments using our Services.
+Except for our limited role in processing payments that you authorize or initiate, we are not involved in any underlying transaction between you and any customer.
+We are a payment processor enabling merchants to accept payments from their customers in accordance with Association rules.
+==========
+Our role is solely to provide you, as a merchant, with a portal to a financial institution that has access to the ACH system.
+As a merchant payment processor,  we process payments from consumers as an agent of the merchant to whom the consumers owe money, rather than on behalf of the consumers themselves.
+We are not a bank or a money services business (“MSB”) and we do not offer banking or MSB services as defined by the United States Department of Treasury.
+9.
+==========
+Your Authorization
+You authorize us to hold, receive, and disburse funds on your behalf in accordance with your payment instructions (subject to the terms of this Agreement and our Policies).
+Your authorization permits us to (a) generate a paper draft or an electronic funds transfer, each to process payment transactions that you authorize.
+We may use the services of one or more third party Processors and/or financial institutions to provide the Service and process your transactions (each a "Processor").
+Your authorizations will remain in full force and effect while you maintain your Square Account with us.
+We may decide not to authorize or settle any transaction you authorize if we believe that the transaction is in violation of any Square agreement, or exposes you, other Square members, our Processors or Square to harm, including but not limited to fraud and other criminal acts.
+10.
+==========
+Square Account Limits
+Square Accounts are limited to certain transaction limits, which are displayed on our Site.
+Square Account limits may be raised once you have completed additional identity or credit verification processes with us.
+Notwithstanding any Square Account limits, we may delay, suspend or reject a transaction for any Square Account if we suspect the transaction is unauthorized, fraudulent, suspicious or otherwise unusual based on prior transaction activity and application of our internal fraud controls.
+11.
+==========
+Acceptable Use
+You will at all times adhere to all laws, rules, and regulations applicable to your use of the Services.
+You may not act as a payment intermediary, aggregator or service bureau or otherwise resell the Services on behalf of any third party, including without limitation the handling, processing, and transmission of funds for any third party.
+We may inspect your Square Account for any reason, including without limitation to investigate any alleged violation of law, this Agreement, our Policies or any third-party complaints.
+12.
+==========
+General
+Subject to the terms of this Agreement (including our set-off rights), we will deposit to your Square Account the amounts actually received by us for transactions submitted through the Service (less any applicable fees set forth below).
+Funds for any given transaction will not be deposited until the transaction is deemed complete.
+Transactions will be deemed complete when we have received or sent the funds and when we or the designated financial institutions have accepted the transaction or funds.
+==========
+You are responsible for monitoring your transactions and ensuring that any payments made to you by us are correct.
+You must notify us of any errors in payments made to you within 60 days of the error first appearing on your electronic transaction history.
+13.
+==========
+Accepting Credit Cards
+A. Networks.
+The Networks require that you will comply with all bylaws, rules, and regulations of the Networks, as may be applicable to you and your Card transactions and as are in effect from time to time ("Association Rules").
+You understand that Square may be required to modify this Payment Services Agreement in order to comply with requirements imposed by the Network Rules.
+Such rules and regulations may be amended from time to time, that are provided to you or are generally available to the public (including merchant rules posted on usa.visa.com and www.mastercard.com) ("Network Rules").
+You may use the logos of the Networks only in the manner authorized by the Networks and to indicate that Cards of the Networks are accepted as methods of payment using the Square Payments service.
+==========
+B. Indemnification.
+You agree to indemnify, defend and hold harmless Square and Processor against all claims, actions, demands, losses, liabilities, damages, and expenses arising from or related to (a) any breach of any obligation under this Payment Services Agreement or the User Agreement (related to Card transactions processed by Square), including without limitation any violation of Network Rules; (b) any misrepresentation or fraud by you in applying for or maintaining an Square Account, your submission of Card transactions for processing, or the operation of your business; or (c) your provision or sale of goods or services to customers for Card transactions processed by Square.
+==========
+C. Warranty Disclaimer.
+Neither Square nor its Processors make any representations or warranties, whether express or implied, regarding any service provided directly or indirectly to you, including without limitation, any warranties of merchantability, fitness for a particular purpose, title or non-infringement or implied warranties arising from a course dealing or trade usage.
+D. Limitation of Liability.
+To the extent allowed by law, Square and Processor and their respective affiliates, directors, officers, and employees will not be liable for any indirect, incidental, punitive, or consequential damages arising out of or related to this Payment Services Agreement or Square's payment services, including without limitation any inability, delay, or errors in using the Services at any time without prior notice.
+14.
+==========
+Accepted Cards
+We may remove or add Cards that we accept at anytime without prior notice.
+Network Rules currently require that you will not (a) establish limits below which you will not accept a Card, (b) assess a surcharge for the use of a Card in connection with any transaction, or (c) dispense cash on any Card transaction.
+We will only process Cards that receive an authorization from the applicable Network or card issuer.
+An authorization does not guarantee that such transaction will be collectible or that the cardholder is actually authorized to use the Card or that the transaction will not be subject to Chargeback (described below).
+15.
+==========
+Your Obligations
+You will accept and process returns of, and provide refunds and adjustments for, your goods or services in accordance with this Agreement and Network Rules, and you will calculate and refund any associated taxes required to be refunded.
+You will route all refund (and adjustment) payments through us.
+We will credit the applicable Square Account, and you will reimburse us for all amounts so refunded.
+We have no obligation to accept any returns of any of your goods or services.
+==========
+You shall make a written receipt available to your customers for any transaction valued greater than fifteen dollars ($15.00).
+You may give your customers the option to receive or decline a written receipt.
+As a convenience, but not in lieu of a written receipt, you may also offer Square electronic receipts for delivery through SMS or email to your customers.
+16.
+==========
+Card Refunds
+Network Rules require that you will (a) maintain a fair policy for the return or cancellation of merchandise or services and adjustment of Card sales, (b) disclose your return or cancellation policy to your customers at the time of purchase, (c) not give cash refunds to a customer in connection with a Card sale, unless required by law, and (d) not accept cash or any other consideration for preparing a refund in connection with a Card sale.
+The amount of the refund/adjustment cannot exceed the amount shown as the total on the original sales data except by the exact amount required to reimburse the customer for postage that the customer paid to return merchandise.
+If you accept returns and are making an uneven exchange of merchandise (e.g., the sales price is not the same), you must issue a credit for the total amount of the merchandise being returned and complete a new sale for any new merchandise.
+Please be aware, if your refund policy prohibits returns or is unsatisfactory to the buyer, you may still receive a Chargeback relating to such sales.
+17.
+==========
+Customer Service
+Unless provided otherwise elsewhere in this Agreement, you will be solely responsible for all customer service issues relating to your goods or services (including pricing, rebates, item information, availability, technical support, functionality and warranty), order fulfillment (including shipping and handling), order cancellation by you or customer, returns, refunds and adjustments, and feedback concerning experiences with your personnel, policies or processes.
+In performing customer service, you will always present yourself as a separate entity from us.
+As between you and us, we will be solely responsible for all customer service issues relating to any Square Account, payment, card processing, debiting or crediting.
+18.
+==========
+Withdrawals from Square Accounts
+You may withdraw funds in your Square Account via ACH to your designated bank account(subject to withdrawal limits).
+In the event that you do not have an ACH-enabled Square Account, you may request a physical check.
+Check requests will be subject to a processing fee as disclosed in our Fee Schedule and an identity verification process.
+We may restrict access to funds in your Square Account to the extent necessary for us to complete any pending investigation or resolve a pending dispute or as required by law or court order or if otherwise requested by law enforcement or any governmental entity.
+19.
+==========
+Availability of Funds
+In addition to any applicable Square Account limits, we may restrict transactions to or from your Square Account or limit access to funds in your Square Account in such amounts and for such time as we reasonably deem necessary to protect us if: (a) we are subject to financial risk, (b) you have violated any term of this Agreement and other Square agreements, (c) any dispute exists involving your Square Account or transaction to which you are a party, or (d) needed to protect the security of our systems.
+We may restrict access to funds in your Square Account for the time that it takes for us to complete any pending investigation or resolve a pending dispute.
+We also may hold your funds as required by law or court order or if otherwise requested by law enforcement or any governmental entity.
+==========
+Chargebacks and Disputed Transactions
+
+20.
+Your Liability
+The amount of a transaction may be charged back or reversed to your Square Account (a "Chargeback") if the transaction (a) is disputed, (b) is reversed for any reason by the Network, our Processor, or a payer's or our financial institution, (c) was not authorized or we have any reason to believe that the transaction was not authorized, or (d) is allegedly unlawful, suspicious, or in violation of the terms of this Agreement (including any Policy).
+21.
+==========
+Collection Rights
+For any transaction that results in a Chargeback, we may withhold the Chargeback amount in a Reserve.
+We may deduct the amount of any Chargeback and any associated fees, fines, or penalties listed in the Fee Schedule or assessed by the Association or our Processor from your Square Account (including without limitation any Reserve), any proceeds due to you, your Bank Square Account, or other payment instrument registered with us.
+If you have pending Chargebacks, we may limit withdrawals made from your Square Account.
+==========
+Further, if we reasonably believe that a Chargeback is likely with respect to any transaction submitted by or authorized by you or on your behalf, we may withhold from payments otherwise due to you under this Agreement until such time that: (a) a Chargeback is assessed due to a customer’s complaint, in which case we will retain the funds; (b) the period of time under applicable law or regulation by which the customer may dispute that the transaction has expired; or (c) we determine that a Chargeback on the transaction will not occur.
+If we are unable to recover funds related to a Chargeback for which you are liable, you will pay us the full amount of the Chargeback immediately upon demand.
+You agree to pay all costs and expenses, including without limitation attorneys' fees and other legal expenses, incurred by or on behalf of us in connection with the collection of all Square Account deficit balances unpaid by you.
+22.
+Excessive Chargebacks
+If we determine that you are incurring an excessive amount of Chargebacks, we may establish controls or conditions governing your Square Account, including without limitation, by (a) establishing new processing fees, (b) creating a Reserve in an amount reasonably determined by us to cover anticipated Chargebacks and related fees, (c) limiting withdrawal privileges, and (d) terminating or suspending the Service.
+23.
+==========
+Contesting Chargebacks
+You agree to assist us when requested, at your expense, to investigate any of your transactions processed through the Service.
+We will request necessary information from you to contest the Chargeback.
+If the Chargeback is contested successfully, we will release the reserved funds to your Square Account.
+If a Chargeback dispute is not resolved in your favor by the Association or issuing bank or you choose not to contest the Chargeback, we may recover the Chargeback amount and any associated fees as described in this Agreement.
+You acknowledge that your failure to timely assist us in investigating a transaction, including without limitation providing necessary documentation within thirty (30) days of our request, may result in an irreversible Chargeback.
+Payment Terms
+
+24.
+==========
+Our Fees
+You agree to pay the applicable fees listed on our Fee Schedule ("Fees") whenever you use our Services.
+Subject to the terms of this Agreement, we reserve the right to change our Fees.
+All Balances and all fees, charges, and payments collected or paid through the Services are denominated in US dollars.
+25.
+==========
+Our Set-off Rights
+To the extent permitted by law, we may set off against the Balances for any obligation you owe us under this Agreement, including without limitation any Chargebacks.
+All Fees are charged at the time we process a transaction and are deducted first from the transferred or collected funds and thereafter from the Balance in your Square Account.
+If you owe us an amount that exceeds your Balance, we may charge or debit a payment instrument registered in your Square Account.
+==========
+Your failure to fully pay amounts that you owe us on demand will be a breach of this Agreement.
+You will be liable for our costs associated with collection in addition to the amount owed, including without limitation attorneys' fees, court costs, collection agency fees, and any applicable interest.
+26.
+Processing Errors
+In the event there is an error in the processing of any transaction, you authorize us to initiate debit or credit entries to your Square Account to correct such error, provided that any such correction is made in accordance with applicable laws and regulations.
+27.
+==========
+Taxes
+You are responsible for determining any and all taxes and duties, including without limitation, sales, use, transfer, value added, withholding, income, and other taxes and/or duties assessed, incurred, or required to be collected, paid, or withheld for any reason in connection your use of our software and services.
+("Taxes").
+You also are responsible for collecting, withholding, reporting, and remitting correct Taxes to the appropriate tax authority.
+We are not obligated to determine whether Taxes apply and are not responsible for calculating, collecting, reporting, or remitting any Taxes to any tax authority arising from any transaction.
+==========
+Termination
+
+28.
+Your Rights
+You may terminate this Agreement and other Square agreements by closing your Square Account at any time.
+Upon closure of a Square Account, any pending transactions will be cancelled.
+==========
+Any funds that we are holding in custody for you at the time of closure, less any applicable Fees, may be withdrawn, assuming all withdrawal-related authentication requirements have been fulfilled (for example, you may not close your Square Account as a means of evading withdrawal restrictions).
+If an investigation is pending at the time you close your Square Account, we may hold your funds as described herein.
+If you are later determined to be entitled to some or all of the funds in dispute, we will release those funds to you.
+29.
+==========
+Suspension or Termination by Us
+We may terminate this Agreement and close your Square Account for any reason at any time upon notice to you.
+Without limiting the foregoing, we may suspend the Services and access to your Square Account (including without limitation the funds in your Square Account) if (a) you have violated the terms of the Square agreements and policies and this Agreement, (b) you pose an unacceptable credit or fraud risk to us, or (c) you provide false, incomplete, inaccurate, or misleading information (including without limitation any registration information) or otherwise engage in fraudulent or illegal conduct.
+30.
+==========
+Effect of Termination
+We will not be liable to you for compensation, reimbursement, or damages in connection with your use of the Service, or any termination or suspension of the Services.
+Any termination of this Agreement does not relieve you of any obligations to pay any Fees or costs accrued prior to the termination and any other amounts owed by you to us as provided in this Agreement.
+In addition to any provision that is reasonably necessary to accomplish or enforce the purpose of this Agreement, the following sections of this Agreement survive and remain in effect in accordance with their terms upon the termination of this Agreement: 4, 7, 13-16, 18-27, 30, 32.
+==========
+General terms
+
+31.
+Amendment
+We have the right to change or add to the terms of this Agreement at any time, and to change, delete, discontinue, or impose conditions on any feature or aspect of the software or services with notice that we in our sole discretion deem to be reasonable in the circumstances, including notice on our website at http://squareup.com  or any other website maintained or owned by us for the purposes of providing services in terms of this Agreement, and communicate to you.
+Any use of our software or services after our publication of any such changes shall constitute your acceptance of this Agreement as modified.
+32.
+==========
+General Provisions
+Except as expressly provided in this Agreement, these terms are a complete statement of the agreement between you, Square and our Processor, with respect to the provision of payment services.
+In the event of a conflict between this Agreement and any other Square agreement or policy, this Agreement shall prevail on the subject matter of this Agreement.
+==========
+If any provision of this Agreement is invalid or unenforceable under applicable law, then it shall be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law, and the remaining provisions will continue in full force and effect.
+This Agreement will be governed by California law as applied to agreements entered into and to be performed entirely within California, without regard to its choice of law or conflicts of law principles that would require application of law of a different jurisdiction, and applicable federal law.
+The parties hereby consent to the exclusive jurisdiction and venue in the state courts in San Francisco County, California or federal court for the Northern District of California.
+==========
+Headings are included for convenience only, and shall not be considered in interpreting these Terms.
+The Terms do not limit any rights that Square may have under trade secret, copyright, patent or other laws.
+==========

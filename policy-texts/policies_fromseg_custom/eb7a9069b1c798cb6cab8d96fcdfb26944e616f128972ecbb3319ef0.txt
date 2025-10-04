@@ -1,0 +1,227 @@
+Effective Date: February 26, 2020
+Blockthrough is a Header Bidding wrapper for the adblocked web.
+What is the Adblocked Web: Settings within a web browser or, software available to download to a computer, can enable a consumer to block advertising being served to them as they surf the web.
+This is called Ad Blocking.
+If a consumer chooses to block general advertising in this way but consents to access a layer of filtered advertising which only serves campaigns and creative that adheres to the Acceptable Ads specification (www.acceptableads.com), it is possible that the advertising will have been enabled by Blockthrough.
+Consumers consent to Acceptable Ads via their adblocker settings.
+==========
+Our corporate website at www.blockthrough.com is designed for our business partners and those seeking information about Blockthrough.
+This Privacy Policy provides information about Blockthrough and how we collect, share and use Personal Information about individuals who use our website and our customer’s end users, as well as how individuals can exercise applicable privacy rights.
+This policy relates to our website www.blockthrough.com and the data that is collected via the Website and our ad filtering services, from our customers and prospective customers and otherwise in the course of Blockthrough’s business operations.
+“Personal Information” (also known as “Personal Data” in some jurisdictions) means any information about an identifiable individual.
+Company Blockthrough Inc.
+325 Front Street West
+Toronto, ON M5V 2Y1
+Email contact: legal@blockthrough.com
+Company Number: 801650367
+CEO: Marty Krátký-Katz
+
+HOW WE COLLECT PERSONAL INFORMATION  
+Blockthrough collects Data as detailed below:
+Personal Information provided voluntarily during your visit to Blockthrough.com.
+Certain parts of our Website may ask you to provide Personal Information.
+Such information includes:
+Email for Dashboard login
+Submitting enquiries to Blockthrough
+Subscribing to marketing communications from Blockthrough
+Applying for an open position to work at Blockthrough
+The Dashboard is an interface that provides our clients with information about their traffic and our product’s performance.
+The Dashboard can be accessed here (https://dashboard.blockthrough.com/).
+==========
+The Personal Information that you are asked to provide and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your Personal Information and you will be provided with an option to opt-in to receive future marketing messages.
+Personal Information collected automatically during your visit on Blockthrough.com
+During your visit to Blockthrough.com, we collect certain information automatically from your device.
+==========
+Such information includes:
+IP address
+Device type
+Unique device identification numbers
+Browser-type
+Broad geographic location (e.g. country or city-level location)
+We may also collect information about how your device has interacted with our
+website, including the pages accessed and links clicked.
+When this information is linked to an identifiable individual, it constitutes Personal Information
+Collecting this automatic information enables us to run website analytics, detect and prevent malicious behavior on our website and improve and organize the content and features of our website.
+==========
+Some of this information may be collected using cookies and similar tracking technology, as explained further under the heading “Use of Cookies” below.
+The data that is collected automatically (using cookies) does not include any data that can directly identify an individual.
+==========
+Personal Information we collect in operating our business
+In the course of business, we may ask you to provide Personal Information voluntarily.
+Such information includes:
+Billing information
+Account maintenance and other customer services
+Marketing information for current and prospective customers
+Responding to general inquiries
+We use this Personal Information in order to provide our services to our customers, including administering customer accounts and providing customer service.
+Personal Information processed on behalf of our customers
+When our customers implement the Blockthrough ad filtering services on their web properties, Blockthrough processes Personal Information of end users who visit our customer’s websites to order to serve the advertisements in accordance with an end user’s blocking preferences.
+The Personal Information processed by Blockthrough is:
+IP address
+Device type
+Unique device identification numbers
+Browser-type
+Broad geographic location (e.g. country or city-level location)
+When processing Personal Information on behalf of our customers, Blockthrough is acting as the “data processor” and the customer is the “data controller”.
+YOUR RIGHTS
+You have the following data protection rights:
+If you wish to access, correct, update or request deletion of your Personal Information, you can do so at any time via standard data subject rights request forms at https://blockthrough.com/subject-access-request/ or by emailing [email protected].
+In addition, you can object to the processing of your Personal Information or ask us to restrict processing of your Personal Information.
+You can exercise these rights  via standard data subject rights request forms at https://blockthrough.com/subject-access-request/ or by emailing [email protected].
+If you choose to receive marketing communications from us, you have the right to opt-out at any time by clicking on the “unsubscribe” link in the marketing e-mails we send you.
+==========
+Please allow up to 72 hours for your contact details to be removed from our database.
+Please note, if you do decide to opt-out and you or your business have a contractual agreement with Blockthrough regarding the provision of products or services, we may still be required to send you emails in regards to these services and to support our contractual obligations.
+==========
+If we have collected and processed your Personal Information with your consent, then you can withdraw your consent at any time via standard data subject rights request forms at https://blockthrough.com/subject-access-request/; by clicking on the “unsubscribe” link in any e-mail communications or by emailing [email protected].
+Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Information conducted in reliance on lawful processing grounds other than consent.
+==========
+You have the right to complain to a data protection authority about our collection and use of your Personal Information.
+For more information, please contact your local data protection authority.
+You may also have to the right to make a complaint to your local privacy regulator regarding Blockthrough’s collection, use or disclosure of Personal Information.
+LEGAL BASIS FOR PROCESSING PERSONAL INFORMATION
+Blockthrough will collect Personal Information from you only when:
+Where the processing is in our legitimate interests and not overridden by your rights
+Where we have your consent to process your Personal Information
+We need Personal Information to fulfill a contractual obligations to you or our customers
+If we collect and use your Personal Information in relation to our legitimate interests (or those of any third party), this interest will normally be to operate our platform and communicate with you as necessary to provide our services to you and for our legitimate commercial interest, for instance, when responding to your queries, improving our platform, undertaking marketing, or for the purposes of detecting or preventing illegal activities.
+We may have other legitimate interests and if appropriate we will make clear to you at the relevant time what those legitimate interests are.
+==========
+If we ask you to provide Personal Information to comply with a legal requirement or to perform a contract with you, we will notify you at the time and advise you whether the provision of your Personal Information is mandatory or not (as well as of the possible consequences if you do not provide your Personal Information).
+For further information concerning the legal basis on which we collect and use your Personal Information, please contact us by sending an email to [email protected]
+HOW LONG DOES BLOCKTRHOUGH  KEEP PERSONAL INFORMATION?
+==========
+We retain Personal Information for as long as we have an active relationship with our customers unless otherwise specified, or until it is deleted following a request from the individual subject of the data.
+When we have no ongoing legitimate business need to process your Personal Information, we will either delete it when it reaches a maximum storage time limit (currently 12-months after the last interaction with a data subject) or anonymize it.
+==========
+SHARING OF PERSONAL INFORMATION
+As part of operating our business, Blockthrough may share Personal Information with authorized employees, affiliates, subsidiaries, vendors, or other third parties to perform services on our behalf that are related to the purposes stated in this privacy policy.
+Such purposes include:
+We may disclose Personal Information to Blockthrough companies, third-party services providers and partners who provide data processing services to us (for example, to support the delivery of, provide functionality on, or help to enhance the security of our Website), or who otherwise process Personal Information for purposes that are described in this Privacy Notice or notified to you when we collect your Personal Information.
+Those parties include:
+Amazon Web Services
+Google Cloud Platform
+GoDaddy
+HubSpot
+MailChimp
+We may disclose Personal Information to third parties when we believe we are reasonably required to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to fraud and situations involving potential threats to the physical safety of any person.
+We may transfer Personal Information, including any personally identifiable data, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, debt refinancing, or other corporate change.
+==========
+In these instances, Blockthrough will take the steps necessary to ensure that the Data will continue to be governed by this privacy statement.
+We may disclose Personal Information to any competent law enforcement body, regulatory, government agency, court or other third party in case it should occur that we believe disclosure is necessary (i) as a matter of applicable law or regulation, (ii) to exercise, establish or defend our legal rights, or (iii) to protect your vital interests or those of any other person;
+We may disclose Personal Information to a potential acquirer of Blockthrough and its agents/advisers in connection with any actual or proposed purchase, merger or acquisition of any part of our business, provided that we inform the buyer it must use your Personal Information only for the purposes disclosed in this Privacy Notice;
+We may disclose Personal Information to any other person with your consent to the disclosure.
+We may disclose Personal Information if we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of Blockthrough or others
+We may work with other companies that provide analytics services.
+==========
+These entities may use cookies, web beacons and other technologies to collect information about your use of our websites and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.
+This information may be used by Blockthrough and others to, among other things, analyze and track data, determine the popularity of certain content, and better understand online activity.
+==========
+INTERNATIONAL TRANSFER OF DATA
+Your Personal Information may be transferred to, and processed in, countries other than the country in which you reside.
+These countries may have data protection laws that are different to the laws of your country (and, in some cases, may not be as protective).
+Specifically, third-party service providers, and partners may provide their services out of other countries.
+==========
+In order to deliver appropriate safeguards to require that your Personal Information will remain protected in accordance with this Privacy Notice, we rely on the following legal mechanisms to export Personal Data from the European Economic Area (EEA):
+The decisions of the European Commission that Canada is a jurisdiction that offers an adequate level of protection.
+European Commission’s Standard Contractual Clauses for transfers of Personal Information between our group companies, which require all group companies to protect the Personal Information they process from the EEA in accordance with European Union data protection law.
+Our Standard Contractual Clauses can be provided on request.
+We have implemented similar appropriate safeguards with our third party service providers and partners and further details can be provided upon request.
+==========
+We transfer Personal Data to the U.S. under Privacy Shield certification.
+HOW DOES BLOCKTHROUGH KEEP PERSONAL INFORMATION SECURE?
+We use appropriate technical and organizational measures to protect the Personal Information that we collect and process about you.
+The measures we use are designed to provide a level of security appropriate to the risk of processing your Personal Information.
+==========
+USE OF COOKIES
+Why do we use cookies?
+We use first-party and third-party cookies for several reasons.
+Some cookies are required for technical reasons in order for our Websites to operate, and we refer to these as “essential” or “strictly necessary” cookies.
+Other cookies also enable us to track and target the interests of our users to enhance the experience on our Websites.
+==========
+Cookies That Ensure the Website Can Function Properly
+Use of essential cookies for:
+Reading your browser settings so that your screen will reproduce our website in the best possible way
+Identifying your browser when you are logged in so that you will not have to log into our website again (all the time)
+Detecting abuse of our website and services, e.g., by registering a number of successive, failed login attempts
+Evenly spreading the load on the website, so that the website remains accessible at all times
+Offering the option to save login data so that you will not have to enter them anew all the time
+Providing the possibility to react to our website
+If you want to opt-out from Blockthrough cookies, follow the instructions in the Browser Settings section below.
+Please note that our Website may not function properly if you choose to refuse essential cookies.
+Third parties serve cookies through our Websites for analytics and other purposes.
+This is described in more detail below.
+Cookies Through Which We Can Measure the Website’s Use
+We use cookies to continuously try to measure how many people visit our website and what parts of the website they visit most.
+==========
+This tells us what components of the website draw our visitors’ interest most.
+The information thus gathered is used for statistics.
+These statistics provide us with insight into how frequently our web page is visited, where exactly visitors spend most of their time, etc.
+This enables us to draft the website’s structure, navigation and the contents as user-friendly as possible for you.
+We will never trace any statistics to individuals.
+==========
+We use cookies for:
+Recording the number of visitors of our web pages
+Setting the order in which a visitor visits the various pages of our website
+Assessing which parts of our site need adaptation
+Optimizing the website
+These cookies may be served by the following parties:
+Blockthrough
+Cloudflare
+Hubspot
+Google
+Cookies to Share the Contents of our Website Through Social Media
+By using buttons, you can share the articles and videos you watch on our Website through social media.
+These buttons are controlled by social media cookies that are deployed by the social media providers, so they are able to recognize you when you would like to share articles or videos.
+==========
+The collection, use and processing of data via these cookies is subject to the privacy policies of the relevant social media provider.
+Below you can find information about the third parties from which we may use cookies and their respective privacy notice:
+Facebook – https://www.facebook.com/policy.php
+Google+ – https://policies.google.com/privacy?hl=en
+Twitter – https://twitter.com/en/privacy
+LinkedIn – https://www.linkedin.com/legal/privacy-policy
+YouTube – https://policies.google.com/privacy?hl=en
+OPT-OUT INFORMATION
+Blockthrough honors your choice with respect to how data is processed and your rights.
+Different jurisdictions provide you with different rights.
+==========
+For example, EU data subjects have the right to object to certain forms of data processing and/or to withdraw their consent to such processing.
+Data subjects in the United States and many other places have the right to opt-out from many forms of ad targeting.
+==========
+Canadian residents have the right to access and correct Personal Information held by Blockthrough.
+OPTING OUT OF BLOCKTHROUGH WEBSITE AND COMMUNICATIONS
+You are entitled to opt-out from our marketing lists and databases at any time by following the instructions in those communications.
+If you opt out, we may still send you non-promotional communications, such as those about our ongoing business relations.
+You may also request to delete any previously submitted information using the same form.
+==========
+Click Here to Opt Out of Blockthrough Marketing Emails
+Note for EU data subjects.
+When we can reasonably see that a data subject is coming from the EU and has a Blockthrough opt-out cookie on their browser, that tells our systems to stop processing data with respect to that browser.
+==========
+Please refer to your web browser’s help documentation for more information for managing the use of cookies directly through the browser settings.
+The lifespan of Blockthrough’s choice cookie is 1 year if our opt-out cookie is not deleted from the users’ browser.
+==========
+DATA:  List of SubProcessors related to blockthrough.com
+Business Platform   Business Type  Privacy Policy
+HubSpot CRM Platform used to host Blockthrough’s business data, host Blockthrough’s sales data and analytics https://legal.hubspot.com/privacy-policy
+Google Email hosting
+Cloud file hostingWebsite AnalyticsServers https://cloud.google.com/security/privacy/
+Atlassian CRM platform, technical projects and ticketing for organizational purposes https://www.atlassian.com/legal/privacy-policy
+MaxCDN Servers, content distribution https://www.stackpath.com/legal/privacy-statement/
+Cloudflare Content distribution https://developers.cloudflare.com/1.1.1.1/commitment-to-privacy/
+Amazon Servers https://aws.amazon.com/privacy/
+GoDaddy Website Hosting https://www.godaddy.com/agreements/privacy
+SUBJECT ACCESS REQUEST
+A subject access requests enables you to access, modify or request deletion of information Blockthrough holds about you and to be supplied with a copy of it.
+There is no charge for your data.
+We will provide the data within 30 calendar days.
+==========
+We may need to verify your identity before processing your request
+If the documents you require include information about other people (third parties), we may edit this out.
+If you would like to access, modify or request deletion of information held about you or opt-out of emails from Blockthrough, please complete the Subject Access Request form.
+The information you supply will only be used to identify the data you are requesting and to respond to your request.
+Once you submit a Subject Access Request form we will endeavor to acknowledge the request within 72 hours of receipt and we will provide the data within 30 calendar days.
+You can also email Blockthrough at [email protected] with any questions or queries you have regarding your data.
+For additional information please refer to our privacy policy
+Print This Page
+==========

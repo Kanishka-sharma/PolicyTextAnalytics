@@ -1,0 +1,311 @@
+We are updating the SourceForge.net Terms and Conditions of Use ("Terms").
+The following Terms have been posted for your review and are effective 2009-10-19.
+If you have comments or questions about our updated Terms, please contact sfnet_ops@corp.sourceforge.com for assistance.
+==========
+The current in-force Terms may be seen at: http://sourceforge.net/apps/trac/sitelegal/wiki/Terms%20of%20Use?version=11
+
+
+A diff from old Terms to new Terms has been prepared and is available for your
+viewing at: http://sourceforge.net/apps/trac/sitelegal/attachment/wiki/Terms%20of%20Use/Sourceforge%20TOS%20wo_stats.pdf
+
+
+
+SourceForge.net Terms and Conditions of Use ("Terms")
+
+
+Last updated: October 6, 2009
+
+
+
+ 
+In these Terms, "we," "us," "its" and "our" refer to SourceForge, Inc. (the "Company" or "SourceForge"), and "you" and "your" refer to you.
+Before using SourceForge.net, please read these Terms carefully.
+These Terms are a binding legal agreement between you and SourceForge regarding your use of SourceForge.net.
+Your use of SourceForge.net constitutes your agreement with the Terms, including the SourceForge.net Policies and the SourceForge.net Privacy Statement, both of which are incorporated by this reference into these Terms.
+If you do not agree to these Terms, then you are not granted rights to use SourceForge.net, and you should not access SourceForge.net.
+SourceForge reserves the right to update and change these Terms, including, without limitation, the Privacy Statement and Policies, from time to time.
+==========
+Updates and changes to these Terms will be reflected in and accessible through the URL where such Terms first appeared.
+We will also update the "Last updated" date at the beginning of the Terms.
+Users should periodically review the most recent version of the Terms, including without limitation the Privacy Statement and Policies.
+Use of SourceForge.net after revision of the Terms constitutes acceptance of any changes.
+1.
+==========
+REGISTRATION AND USER ACCOUNTS ¶
+
+In order to access certain SourceForge.net services, you may be required to register and obtain an account with SourceForge.net.
+You should:
+
+provide true, accurate, current and complete information (collectively, "Registration Data") when registering, and
+update your Registration Data as necessary.
+You will receive a password and account designation upon completing the SourceForge.net registration process.
+You are responsible for maintaining the confidentiality of your password and for all activities that occur through your account.
+You agree to immediately notify SourceForge of any unauthorized use of your SourceForge.net password or account or any other breach of security.
+SourceForge will not be liable for any loss or damage arising from your failure to provide accurate information or to keep your password secure.
+Please use a unique combination of numbers and letters (upper and lower case)  for passwords and be sure to log off from your account at the end of each session.
+2.
+==========
+YOUR USE OF SOURCEFORGE.NET ¶
+Age ¶
+
+You represent and warrant that you are of legal age in your jurisdiction to create binding contractual and financial obligations and to assume any liability that you may incur as a result of your use of SourceForge.net.
+You must be 13 years of age or older to use SourceForge.net.
+If you are at least 13 years of age, but under the age of 18, your parent or legal guardian, as applicable, must expressly consent to your use of SourceForge.net.
+SourceForge.net is not intended for those under the age of 13.
+Use of SourceForge.net is void where prohibited.
+==========
+Prohibited Persons ¶
+
+You represent you are not a person on a list barring you from receiving services under U.S. laws or other applicable jurisdiction, including without limitations, the Denied Persons List and the Entity List, and other lists issued by the U.S. Department of Commerce, Bureau of Industry and Security, detailed at http://www.bis.doc.gov/complianceandenforcement/ListsToCheck.htm (or successor sites thereto).
+Users residing in countries on the United States Office of Foreign Assets Control sanction list, including Cuba, Iran, North Korea, Sudan and Syria, may not post Content to, or access Content available through, SourceForge.net.
+Compliance ¶
+
+You will use SourceForge.net in compliance with all applicable international, state, federal and local laws and in accordance with these Terms.
+==========
+To report any activity or Content that may be unlawful or may violate these Terms, please email staff@sourceforge.net, including full email headers where applicable.
+Encryption ¶
+
+You are aware that all postings of open source encryption code controlled under U.S. Export Control Classification Number (ECCN) 5D002 must be simultaneously reported by email to the U.S. government.
+You are responsible for submitting this email report to the U.S. government in accordance with procedures described in: http://www.bis.doc.gov/encryption/PubAvailEncSourceCodeNofify.html and Section 740.13(e) of the Export Administration Regulations ("EAR") 15 C.F.R. Parts 730-772.
+==========
+Prohibited Usage ¶
+
+In addition to the above, you may not access or use SourceForge.net for any purpose other than that for which SourceForge makes it available.
+Without limiting any other remedies, SourceForge may suspend or terminate your SourceForge.net account if we suspect that you have engaged in unlawful or prohibited activity in connection with SourceForge.net.
+SourceForge reserves the right, in its sole discretion to investigate and take appropriate legal action against anyone who, in SourceForge's sole discretion violates this provision.
+Prohibited activity includes, but is not limited to:
+
+illegal or tortious activity, including child pornography, fraud, trafficking in obscene material, drug dealing, gambling, harassment, stalking (including using any information obtained on or via SourceForge.net to harass, abuse, stalk, or harm another person), spamming, copyright infringement, patent infringement, or theft of trade secrets;
+using any information obtained from SourceForge.net in order to contact, advertise to, solicit, or sell to any user without such user's prior explicit consent (including non-commercial contacts like chain letters);
+framing or otherwise incorporating SourceForge.net, or any portion of SourceForge.net, as part of another website or service;
+compiling or collecting Content from SourceForge.net as part of a database or other work; 
+interfering with, disrupting, or creating an undue burden on SourceForge.net or the networks or services connected to SourceForge.net, including, without limitation, any attempt to circumvent the access controls or security measures of SourceForge.net; 
+accessing SourceForge.net by any means other than through interfaces provided by SourceForge, unless otherwise specifically authorized by SourceForge in a separate, prior written agreement;
+circumventing, disabling or otherwise interfering with security-related features of SourceForge.net, or features that prevent or restrict use or copying of any Materials or enforce limitations on use of SourceForge.net or the Materials therein;
+attempting to impersonate another user or person, using the user account of another person, and selling or otherwise transferring your user account, or otherwise misrepresenting your affiliation with a person or entity; and,
+selling, reselling or offering for any commercial purposes, any portion of, use of, or access to SourceForge.net, except where specifically endorsed or approved by SourceForge.
+3.
+==========
+USER CONTENT ¶
+Content ¶
+Definitions ¶
+
+As used throughout these Terms:
+
+"Code" means any software code you submit, post, display or distribute via:
+any of our software configuration management ("SCM") repositories (currently, CVS, Subversion, Git, Bazaar and Mercurial) or
+SourceForge.net's file release system.
+"Associated Content" means any text, data, music, sound, photograph, graphic, video, message or material, whether publicly posted or privately transmitted via SourceForge.net, but does not include Code.
+"Content" means any Code or Associated Content.
+Responsibility ¶
+
+You are responsible for the Content that you post, submit, create, transmit or display on or through SourceForge.net ("Your Content") and are liable for any consequences thereof.
+Communications in chat areas, forums, bulletin boards or other public or common areas of SourceForge.net are not private communications.
+You should use caution when submitting any Content that contains your personal information to a public or common area of SourceForge.net.
+==========
+Posting ¶
+
+When you create or make available Your Content, you represent and warrant that:
+
+you own or have sufficient rights to post or make available Your Content on or through SourceForge.net;
+the posting or making available of Your Content on or through SourceForge.net does not violate the privacy rights, publicity rights, copyrights, contract rights or any other rights, including intellectual property rights, of any person or entity;
+you have fully complied with any third-party licenses relating to Your Content, agree to pay for all royalties, fees and any other monies owning any person by reason of any of Your Content that you posted on or through SourceForge.net;
+Your Content does not contain any viruses, worms, Trojan horses, malicious code or other harmful or destructive content;
+Your Content is not obscene, lewd, lascivious, excessively violent, harassing, libelous or slanderous, does not advocate the violent overthrow of the government of the United States, does not incite, encourage or threaten immediate physical harm against another; 
+Your Content does not endorse or promote racism, bigotry, hatred, or physical harm of any kind against another group or individual, and does not discriminate, incite harassment or advocate harassment of any group or individual;
+Your Content does not contain material that solicits personal information from anyone under 18 or exploit people under the age of 18 in a sexual or violent manner, and does not violate any federal or state law concerning child pornography or otherwise intended to protect the health and well-being of minors;
+if your employer has rights to intellectual property you create, you have either
+received permission from your employer to make available Your Content, or
+secured from your employer a waiver as to all rights in or to Your Content;
+Your Content does not constitute, contain, install or attempt to install or promote spyware, malware or other computer code (whether on SourceForge's or others computers or equipment) intended to, or that does, enable you or others to gather information about or monitor the online or other activities of another party; and,
+Your Content does not otherwise violate, or link to material that violates, any provision of these Terms or any local, state, or federal law or regulation, including any law designed to regulate electronic advertising.
+Enforcement ¶
+
+SourceForge will not pre-screen or review Content; however, SourceForge reserves the right (but does not undertake the obligation) in its sole discretion to:
+
+monitor SourceForge.net for violations of these Terms,
+take appropriate legal action against anyone who, in SourceForge's sole discretion, violates these Terms, including, without limitation, reporting violations to law enforcement authorities;
+refuse, restrict access to or the availability of, or disable access to or the availability of (to the extent technologically feasible) any user's Content or any portion thereof that may violate these Terms or any SourceForge Policy;
+terminate the accounts of infringers;
+otherwise manage SourceForge.net in a manner designed to protect the rights and property of SourceForge and others and to facilitate the proper functioning of SourceForge.net; and
+restrict access to or the availability of material that SourceForge, in its sole discretion, considers to be obscene, lewd, lascivious, filthy, excessively violent, harassing, or otherwise objectionable.
+Your Rights to Your Content ¶
+
+You retain your ownership rights to any and all of Your Content.
+SourceForge claims no ownership of any Content you submit to SourceForge.
+You or your third party licensor, as applicable, retain all intellectual property rights to any Content and you are responsible for protecting those rights, as appropriate.
+==========
+Code Licenses Granted to SourceForge and Other Users ¶
+
+When you submit, post, upload or otherwise provide Code to SourceForge.net, you must designate promptly the software license pursuant to which licensees (including SourceForge) obtain rights with respect to such Code.
+Except as otherwise expressly permitted by these Terms, any Code submitted to SourceForge.net must be licensed to SourceForge and other licensees under a license that is:
+
+compliant with the Open Source Initiative ("OSI")'s Open Source Definition (http://www.opensource.org/docs/osd) and
+certified as an "OSI-Approved License" (http://opensource.org/licenses).
+Please note that SourceForge is not affiliated with the OSI.
+Notwithstanding anything to the contrary in these Terms, once you have selected the OSI-Approved License applicable to your Code, SourceForge shall be a licensee of such Code under the applicable OSI-Approved License that you have chosen.
+You shall promptly notify SourceForge in writing if you do not have the right to grant SourceForge or any other user an OSI-Approved License to your Code.
+Until such time as you have selected the OSI-Approved License applicable to your Code, SourceForge shall be a licensee of such Code under the license terms applicable to Associated Content.
+Compliance ¶
+
+By submitting Code to SourceForge.net, you certify that your Code is in compliance with the OSI-Approved License that you designate, and you hereby represent and warrant that you have all rights, licenses and consents necessary to grant SourceForge and other users the rights and licenses granted herein, and under the OSI Licenses you designate, without infringement of any third party rights.
+==========
+In addition, the Code that you submit must also be made available in human-readable (i.e., "Source Code") form.
+Whenever reasonably feasible, you agree that you will make Source Code available on or via SourceForge.net corresponding to Code that you post, submit, display or distribute.
+You must make Source Code available for all portions of Code that you have modified, enhanced or otherwise created derivative works from (with any such modification or derivative work being a "Change").
+SourceForge acknowledges that there may be situations where posting Source Code is not reasonably feasible; examples of such situations are when you are posting Code that: (a) is ancillary to other Code that you have Changed but such Code is only available to you in binary or executable form (such as closed-source device drivers or closed-source software frameworks); (b) is otherwise readily available in Source Code form online as part of an Open Source distribution, and where you notify users that the Source Code for such distribution is available elsewhere on the Internet (and you also provide a link to that location); or (c) SourceForge agrees in writing does not need to be posted in Source Code form.
+==========
+License to Associated Content ¶
+
+You hereby grant SourceForge a worldwide, non-exclusive, irrevocable, perpetual, fully sublicensable, transferable (in accordance with Section 16), royalty-free right and license to use, reproduce, adapt, modify, translate, create derivative works from, publish, perform, display, rent, resell and distribute Associated Content (in whole or part) and incorporate Associated Content in other works, in any form, media, or technology developed by SourceForge, though SourceForge is not required to incorporate such Associated Content into any SourceForge products or services.
+SourceForge reserves the right to syndicate Associated Content submitted, posted or displayed by you on or through SourceForge.net and use that Associated Content in connection with any service offered by SourceForge.
+You hereby represent and warrant that you have all rights, licenses and consents necessary to grant SourceForge and other users the rights and licenses granted herein to the Associated Content without infringement of any third party rights.
+4.
+==========
+PROPRIETARY RIGHTS ¶
+SourceForge's Rights ¶
+
+The code, text, graphics, photos, sounds, sayings and the like that are available on and via SourceForge.net ("Site Materials") and the trademarks, service marks and logos of SourceForge contained thereon ("Marks"), which are owned by or licensed to SourceForge, are subject to copyright and other intellectual property rights under United States and foreign laws and international conventions.
+Your use of the SourceForge Marks must be in accordance with SourceForge's trademark guidelines detailed at http://web.sourceforge.com/trademark-usage.
+SourceForge.net is a registered trademark of SourceForge in the United States and other countries; SourceForge, the SourceForge.net logo and other SourceForge.net-related trademarks, service marks, and product and service names are trademarks of SourceForge.
+All other names and designs may be trademarks of their respective owners.
+You will not to remove, obscure, or alter SourceForge's or any third party's copyright, trademark, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through SourceForge.net.
+If you provide feedback to us regarding SourceForge.net ("Feedback"), you authorize us to use that Feedback without restriction and without payment to you.
+Accordingly, you hereby grant to us perpetual and irrevocable license to use the Feedback for any purpose.
+==========
+Advertisers' Rights ¶
+
+Content contained in sponsor advertisements or presented to you on or via SourceForge.net ("Sponsor Content") may - and likely does - include proprietary and confidential information that is protected by intellectual property and other laws and treaties.
+Site Materials, Content and Sponsor Content available on and via SourceForge.net, and any other software used in connection with operating SourceForge.net, are provided to you "AS IS" for your personal information and use, except as expressly authorized by SourceForge or respective third party rights holders in a separate written agreement.
+You agree not to otherwise use, copy, modify, rent, lease, loan, sell, distribute, transmit, broadcast, publish, display, create derivative works of, or exploit the Site Materials, Content, Sponsor Content, and any software used in connection with operating SourceForge.net, in whole or in part.
+5.
+==========
+COPYRIGHT INFRINGEMENT ¶
+Copyright ¶
+
+SourceForge respects the intellectual property rights of others, and asks you to do the same.
+It is SourceForge's policy to terminate the access privileges of those who repeatedly infringe the copyright rights of others.
+You may not post, modify, distribute or reproduce in any way any copyrighted materials, trademarks or other proprietary information belonging to others without obtaining the prior written consent of the owner of such proprietary rights.
+==========
+Our procedures for responding to alleged copyright infringement are consistent with the form suggested by the United States Digital Millennium Copyright Act, the text of which can be found at the U.S. Copyright Office web site http://www.copyright.gov/legislation/dmca.pdf.
+Please note that you will be liable for damages (including costs and attorneys' fees) if you make any material misrepresentations when making or countering a copyright infringement claim.
+If you believe that your work has been copied and is accessible on or via SourceForge.net in a way that constitutes copyright infringement, send a written notification pursuant to SourceForge.net's Digital Millennium Copyright Act ("DMCA") Notification Procedure.
+==========
+Trademarks ¶
+
+SourceForge is generally unable to evaluate the merits of trademark disputes because trademark rights may be based on registration or common law use, exist only for certain categories of goods or services and may differ internationally.
+Therefore, SourceForge expects you to resolve trademark disputes directly with the project administrator(s) rather than utilize SourceForge as an intermediary.
+6.
+==========
+SOURCEFORGE.NET PRIVACY STATEMENT ¶
+
+We use your information only as described in our Privacy Statement.
+If you object in any way to our practices, do not access or use SourceForge.net.
+You understand that the technical processing and transmission of Your Content may involve transmissions over various networks and systems, including those located outside of your country and those beyond the control of SourceForge.
+7.
+==========
+GENERAL PRACTICES REGARDING USE AND STORAGE ¶
+
+You agree that SourceForge has no responsibility or liability for the deletion or failure to store any Content or other communications maintained on or transmitted via SourceForge.net.
+While SourceForge will use reasonable efforts to back up SourceForge.net data and make such data available in the event of loss or deletion, SourceForge has no responsibility or liability for the deletion or failure to store any communications or Content maintained or transmitted on SourceForge.net.
+SourceForge encourages you to make - and update frequently - backup copies of Your Content.
+Though SourceForge has no set fixed upper limit on the number of transmissions you may send or receive on or via SourceForge.net, or the amount of storage space you may use, SourceForge retains the right, at its sole discretion, to create limits at any time.
+8.
+==========
+TERM AND TERMINATION ¶
+
+These Terms shall remain in full force and effect while you are a user of SourceForge.net.
+You may terminate your use or participation at any time, for any reason, by following the instructions at: http://sourceforge.net/apps/trac/sourceforge/wiki/Removing%20a%20user%20account SourceForge may terminate your use or participation at any time for violation of these Terms or any laws or to protect the integrity of SourceForge.net, the networks or services connected to SourceForge.net or other users.
+SourceForge reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, SourceForge.net or any SourceForge.net service.
+SourceForge shall not be liable to any user or other third party for any such modification, suspension or discontinuance.
+Even after your use or participation is terminated, the material terms of these Terms will remain in effect.
+==========
+SourceForge, in its sole discretion, reserves the right to mark as "inactive" and archive SourceForge.net accounts or projects that are inactive for extended periods of time.
+Upon the termination of your SourceForge.net account, for any reason, including as a result of inactivity, violation of these Terms, or receipt of a certificate or other legal document confirming your death, SourceForge will close your account and you will no longer be able to retrieve materials contained in that account.
+9.
+==========
+LINKS TO THIRD PARTY WEB SITES ¶
+
+Links to third-party web sites on SourceForge.net are provided solely as a convenience to the user.
+When you use these links, you leave SourceForge.net.
+SourceForge has not reviewed third-party sites, does not control, and is not responsible for, any of these sites, their content or their privacy practices.
+SourceForge does not endorse or make any representations about the third-party sites, or any information, services, or products found on the sites.
+If you decide to access any linked sites, SourceForge encourages you to read the privacy statements on such linked site.
+You access linked sites at your own risk.
+10.
+==========
+INDEMNITY ¶
+
+YOU AGREE TO INDEMNIFY, HOLD HARMLESS, AND DEFEND SOURCEFORGE AND EACH OF SOURCEFORGE'S ADVERTISERS, LICENSORS, SUPPLIERS, OFFICERS, DIRECTORS, INVESTORS, EMPLOYEES, AGENTS, SERVICE PROVIDERS AND OTHER CONTRACTORS (COLLECTIVELY, "SOURCEFORGE INDEMNIFIED PARTIES") FROM ANY AND ALL THIRD PARTY CLAIMS, CAUSES OF ACTIONS, PROCEEDINGS, LIABILITIES, DAMAGES, OR OTHER DEMANDS ("CLAIMS") (INCLUDING BUT NOT LIMITED TO, REASONABLE ATTORNEYS' FEES, ACCOUNTING EXPENSES, AND LEGAL COSTS), ARISING FROM OR RELATED TO (A) YOUR (OR ANY USER OF YOUR ACCOUNT) ACCESS TO OR USE OF SOURCEFORGE.NET AND SERVICES, INCLUDING, WITHOUT LIMITATION, YOUR OR OTHERS' ACCESS OF CONTENT OR OTHER MATERIALS AVAILABLE BY MEANS OF SOURCEFORGE.NET OR THIRD-PARTY WEB SITES, OR YOUR PURCHASING OF GOODS OR SERVICES FROM THIRD PARTIES; (B) YOUR VIOLATION OF THESE TERMS OR BREACH OF THESE TERMS, INCLUDING, WITHOUT LIMITATION, ANY REPRESENTATION OR WARRANTY CONTAINED IN THESE TERMS; OR (C) YOUR CONTENT OR PROVISION TO SOURCEFORGE.NET OF INFORMATION OR ANY OTHER PRODUCTS, POSTINGS, OFFERINGS, DATA OR MATERIALS.
+SOURCEFORGE INDEMNIFIED PARTIES WILL HAVE THE RIGHT, BUT NOT THE OBLIGATION, TO PARTICIPATE, THROUGH COUNSEL OF THEIR CHOICE, IN ANY DEFENSE BY YOU OF ANY CLAIM AS TO WHICH YOU ARE REQUIRED TO DEFEND, INDEMNIFY OR HOLD HARMLESS THE SOURCEFORGE INDEMNIFIED PARTIES ("INDEMNIFIED CLAIM').
+YOU MAY NOT SETTLE ANY INDEMNIFIED CLAIM WITHOUT THE PRIOR WRITTEN CONSENT OF THE CONCERNED SOURCEFORGE INDEMNIFIED PARTIES.
+11.
+==========
+DISCLAIMER OF WARRANTIES ¶
+
+SourceForge cannot control the nature of the Content available on or via SourceForge.net.
+By operating SourceForge.net, we do not represent or imply that (1) SourceForge endorses any Content or any other materials or items available on or via SourceForge.net, including without limitation content hosted on third-party websites; or (2) that SourceForge believes any Content to be accurate, useful or non-harmful.
+SourceForge cannot guarantee and does not promise any specific results from use of SourceForge.net.
+No advice or information, whether oral or written, obtained by you from SourceForge or via SourceForge.net will create any warranty not expressly stated herein.
+ALL PRODUCTS, SERVICES, INFORMATION, CONTENT OR ANY OTHER MATERIALS OR ITEMS PROVIDED ON OR VIA SOURCEFORGE.NET ARE PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OR CONDITIONS OF ANY KIND, INCLUDING BUT NOT LIMITED TO, EXPRESS OR IMPLIED WARRANTIES, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT.
+SOURCEFORGE DOES NOT WARRANT, ENDORSE, GUARANTEE OR ASSUME RESPONSIBILITY FOR ANY PRODUCTS, SERVICES OR INFORMATION ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH SOURCEFORGE.NET OR ANY LINKED WEB SITE OR FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND SOURCEFORGE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF CONTENT, PRODUCTS, SERVICES OR INFORMATION.
+==========
+AS WITH THE PURCHASE OF A PRODUCT, SERVICE OR INFORMATION THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
+SOURCEFORGE DOES NOT WARRANT THAT SOURCEFORGE.NET SERVICES WILL BE TIMELY, UNINTERRUPTED, OR SECURE.
+SCHEDULED AND PREVENTIVE MAINTENANCE, AS WELL AS REQUIRED AND EMERGENCY MAINTENANCE WORK MAY TEMPORARILY INTERRUPT SERVICES OR ACCESS TO SOURCEFORGE.NET.
+WE DO NOT ASSUME RESPONSIBILITY FOR DELETION, MIS-DELIVERY, OR FAILURE TO STORE ANY USER COMMUNICATIONS OR PERSONALIZATION SETTINGS.
+==========
+YOU AGREE THAT YOUR USE OF SOURCEFORGE.NET WILL BE AT YOUR SOLE RISK.
+TO THE FULLEST EXTENT PERMITTED BY LAW, SOURCEFORGE AND EACH OF ITS ADVERTISERS, LICENSORS, SUPPLIERS, OFFICERS, DIRECTORS, INVESTORS, EMPLOYEES, AGENTS, SERVICE PROVIDERS AND OTHER CONTRACTORS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED IN CONNECTION WITH SOURCEFORGE.NET, YOUR USE THEREOF, THE ACCURACY OR COMPLETENESS OF SOURCEFORGE.NET'S CONTENT, THE CONTENT OF ANY WEB SITE LINKED TO SOURCEFORGE.NET OR THE SERVICES, PRODUCTS, INFORMATION OR ANY OTHER ITEMS OR MATERIALS OFFERED AND ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (A) ERRORS, MISTAKES OR INACCURACIES OF CONTENT AND MATERIALS, (B) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF SOURCEFORGE.NET, (C) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (D) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM SOURCEFORGE.NET, (E) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO, ON OR VIA SOURCEFORGE.NET BY ANY THIRD PARTY, AND/OR (F) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE ON OR VIA SOURCEFORGE.NET.
+SOURCEFORGE RESERVES THE RIGHT TO CHANGE ITS WARRANTY POLICY SET FORTH HEREIN, AT ANY TIME BY UPDATING THESE TERMS.
+12.
+==========
+LIMITED LIABILITY ¶
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, SOURCEFORGE WILL NOT BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES OF ANY KIND, OR ANY OTHER DAMAGES WHATSOEVER (INCLUDING WITHOUT LIMITATION, DAMAGES RESULTING FROM: (A) RELIANCE ON SOURCEFORGE.NET MATERIALS, (B) LOSS OF USE, DATA, PROFITS, GOODWILL AND/OR OTHER INTANGIBLE LOSSES (INCLUDING WITHOUT LIMITATION THE INABILITY TO USE SOURCEFORGE.NET SERVICES, UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA, STATEMENTS OR CONDUCT OF ANY THIRD PARTY ON SOURCEFORGE.NET), OR (C) DELAYS OR BUSINESS INTERRUPTIONS ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF SOURCEFORGE.NET), WHETHER BASED ON BREACH OF CONTRACT, WARRANTY BREACH, TORT, OR OTHERWISE, ARISING FROM YOUR USE OF SOURCEFORGE.NET, EVEN IF SOURCEFORGE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, SOURCEFORGE'S LIABILITY AND THE LIABILITY OF EACH OF ITS OFFICERS, DIRECTORS, INVESTORS, EMPLOYEES, AGENTS, ADVERTISERS, LICENSORS, SUPPLIERS, SERVICE PROVIDERS AND OTHER CONTRACTORS TO YOU OR ANY THIRD PARTIES UNDER ANY CIRCUMSTANCE IS LIMITED TO US$100.
+YOU ACKNOWLEDGE AND AGREE THAT SOURCEFORGE WOULD BE UNWILLING TO MAKE AVAILABLE SOURCEFORGE.NET ABSENT THE FOREGOING LIMITATIONS OF LIABILITY, WHICH FORM AN ESSENTIAL BASIS OF THE BARGAIN BETWEEN THE PARTIES.
+13.
+==========
+EXCLUSIONS AND LIMITATIONS ¶
+
+SOME STATES OR JURSIDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF CERTAIN WARRANTIES, OR THE EXCLUSION OR LIMITATION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES.
+THE ABOVE LIMITATIONS OR EXCLUSIONS MAY NOT APPLY TO YOU.
+14.
+RELATIONSHIP OF THE PARTIES ¶
+
+Nothing herein shall be deemed to create an agency, partnership, joint venture, employee-employer or franchisor-franchisee relationship of any kind between SourceForge and any user nor do these Terms extend rights to any third party.
+15.
+==========
+DISPUTES WITH SOURCEFORGE, CHOICE OF LAW AND FORUM ¶
+
+All disputes arising out of or relating to these Terms (including its formation, performance or alleged breach) of your access to or use of the Content and SourceForge.net, including without limitation your or others' downloading or consumption of Content or other materials available by means of SourceForge.net or third party web sites, your uploading Content to SourceForge.net, or your purchasing of goods or services from third parties, will be exclusively resolved under confidential binding arbitration held in Santa Clara County, California before and in accordance with the rules of JAMS.
+Notwithstanding the foregoing, SourceForge will have the right to seek injunctive relief to enforce these Terms or to stop or prevent an infringement of proprietary or other third party rights.
+In the event of litigation or to compel arbitration or to enforce an arbitration award under this Section, or to obtain an injunction under this Section, the parties hereby irrevocably consent and submit to the exclusive personal jurisdiction and venue of the state and federal courts located in Santa Clara County, California.
+The Terms and the relationship between you and SourceForge shall be governed by the laws of the State of California without regard to its conflict of law provisions.
+You agree the UN Convention on Contracts for the International Sale of Goods shall not apply.
+16.
+==========
+GENERAL ¶
+Notice ¶
+
+SourceForge may provide you with notices, including those regarding changes to the Terms, by email, regular mail, or postings on SourceForge.net.
+Entire Agreement ¶
+
+Unless superceded explicitly by a separate written agreement executed between you (or, where applicable, your employer) and SourceForge, the Terms constitute the entire agreement between you and SourceForge with respect to the subject matter hereof and govern your use of SourceForge.net, and supercede any and all prior understandings and agreements between you and SourceForge related to the subject matter hereof.
+The section headings in the Terms are for convenience only and have no legal or contractual effect.
+There are and will be no third party beneficiaries to the Terms.
+Waiver And Severability Of Terms ¶
+
+The failure of SourceForge to exercise or enforce any right or provision of the Terms does not constitute a waiver of such right or provision.
+If any provision of the Terms is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the Terms remain in full force and effect.
+==========
+Time Limit For Filing Claims ¶
+
+Any claim or cause of action arising out of or related to use of SourceForge.net or the Terms must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+Assignment ¶
+
+In our sole discretion, we may assign these Terms, in whole or in part, by providing notice in accordance with the notice provision in this Section should SourceForge ever file for bankruptcy or in the event of a sale, merger, acquisition or other transfer of all or substantially all of SourceForge.net.
+You may not assign these Terms, in whole or in part, without SourceForge's prior written consent.
+If you have any questions or concerns about these Terms, any policy, or SourceForge.net generally, please send us a thorough description by email to sfnet_ops@corp.sourceforge.com
+==========

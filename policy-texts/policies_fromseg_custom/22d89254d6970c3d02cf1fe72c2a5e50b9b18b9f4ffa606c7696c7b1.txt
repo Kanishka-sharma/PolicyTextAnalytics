@@ -1,0 +1,308 @@
+"Do you know the difference between education and experience?
+Education is when you read the fine print; experience is what you get when you don't."
+Pete Seeger
+Thank you for wanting to know more about the way we handle and treat your data - it is extremely important to us and so we are delighted you want to know more about it.
+Our terms and conditions, and the privacy notices below, are all written to be fully compliant with European privacy and data regulations (GDPR).
+It's all written in language that is designed to be understood and read by a 'normal' (apologies lawyers) person.
+==========
+But to help you along, here are the basics - for us it isn't just the letter of the law that applies here, it is the spirit and principles we take seriously, to protect your data and your contract with us:
+We don't sell or share data - or run clever programs to try and squeeze information out about what you are doing so we can sell you more stuff.
+And we will try and only contact you on things you actually care about.
+Our server infrastructure is provided by Amazon Web Services and is currently based in the United States (although servers may from time to time be based in other countries).
+All our servers and applications run the same security protocols that banks use to transmit financial data.
+==========
+We only hold your data because you have given it to us - if you don't want us to do that, we won't.
+If you are worried about it - don't collect or send any sensitive data through our system.
+You have control over how long we keep data for, and when you want us to automatically delete it.
+We will hold you to the same standards in how you treat data that is collected on our systems - we operate a robust acceptable use policy which means if we feel you are not treating user data properly, we will hold you to account, and may delete your account.
+We are law-abiding citizens, and comply with all the laws that apply to us - that means, if you want to use our service, you have to too :-) Check out our terms and conditions for more about this.
+==========
+If you have any questions at all about the rest of this - please email me, Bridget Harris (the CEO) at bridget@youcanbook.me
+Enjoy!
+General
+YouCanBookMe limited ("we" or "us") take the privacy of your information very seriously.
+Our Privacy and Data Protection Notice is designed to tell you, the user of our availability and booking service ("Service") about our practices regarding the collection, use and disclosure of personal and other information about you or your business that may be provided via this website or collected through our booking form or otherwise.
+This policy applies to information provided by our members and account holders ("members") and also applies to information which is processed by us when a person (referred to for convenience as a "Customer") books an appointment or submits data using our Service.
+==========
+The processing of personal data by us is regulated by the General Data Protection Regulation (GDPR) and the UK’s Data Protection Act 1998 (the "Act").
+Important Note: If you are using our Service to make a booking with our member or account holder ("account holder") please note that we are a processor of that data but we are not the data controller.
+We will pass the data you provide onto our account holder in accordance with this policy.
+Our Policy
+We aim to limit our interaction with your data wherever possible.
+We have a general policy relating to access to your data.
+We will generally seek only to access that data which is necessary in accordance with the privileges you have granted to the system.
+Automated processes may scan your data, but only for an explicit purpose to do with the management of your bookings or delivery of other services.
+When working with data that was originally collected by us, our processes may need to scan and manipulate the information in order to deliver our service to you.
+==========
+We have systems in place which allow you to limit and control the access you allow to your calendar data.
+However when working with data or content that was not collected by us and which originated elsewhere (e.g. private information you may have entered on your calendar) our policy is to only access and process a limited amount of outline data which we need to deliver the service to you (e.g. your 'free/busy' times).
+We will not review and analyse content.
+Occasionally, to assist with troubleshooting problems you are experiencing with the system, we will seek your permission to access your data.
+Our policy is always to minimise the instances that this occurs, judge the necessity on a case-by-case basis, not to automate this process and only to do so with the knowledge and permission of the owner of the data.
+==========
+Basis on which we process personal data
+Personal data we hold about you will be processed either because:
+you have consented to the processing for the specific purposes described in this notice;
+the processing is necessary in order for us to deliver our Service (i.e. to comply with our obligations under the contract between us and our account holder); or
+the processing is necessary in pursuit of a “legitimate interest”, a legitimate interest in this context means a valid interest we have or a third party has in processing your personal data which is not overridden by your interests in data privacy and security.
+Personal data we collect
+We may collect and process the following personal information or data (information that can be uniquely identified with you) about you:
+log-in details and information you provide as an account holder when you register with the Service (Log-In Information)
+contact information we collect from you as an account holder about you or your employees (for example, names, addresses, contact addresses, telephone numbers and email address provided to us by you or by your employer) (“Contact Information”)
+certain information which is contained in a third party service or calendar account (e.g. Google Calendar account) which you have linked with your YouCanBook.me account (“Calendar Information”), please refer to our list of processors at the end of this policy for information about those third party services from whom we may collect data, any data we do collect from a third party service will be used strictly in accordance with this policy;
+a record of the bookings made through the Service and information relating to each individual booking (time, location etc.) (“Booking Information);
+a record of any correspondence between you and us and other interactions with the Service or the Site (“Correspondence Information”)
+information which may be provided to our account holder using an online booking form (“Booking Form Information”)
+information relating to payment transactions which is collected where we collect payment on behalf of our account holder (but we do not collect credit card information which is sent directly from the user to our payment processor) (“Payment Information”)
+information we may require from you when you report a problem or complaint (“Complaints Information”)
+details of your visits to the Site, the resources and pages that you access and any searches you make (“Technical Information”).
+We only collect such information when you choose to supply it to us.
+You do not have to supply any personal information to us and you may withdraw your authority for us to process your data or request that we restrict our processing (see below) but our Service may not be operable in practice without providing such data to us.
+==========
+Information may also be gathered through the Service without you actively providing it, through the use of various technologies and methods such as Internet Protocol (IP) addresses and cookies.
+An IP address is a number assigned to your computer by your Internet Service Provider (ISP), so you can access the Internet.
+We use your IP address to diagnose problems with our server, report aggregate information, and determine the fastest route for your computer to use in connecting to our site, and to administer and improve the site.
+==========
+If you are a customer of our account holder and our account holder has connected with us via Stripe Connect (allowing us to collect payment on the Site) then we may have access to your payment history with our account holder, even if you are not a user of the Site.
+We will not seek to access nor will we process any data other than data specifically relating to our users and payments made via the Site.
+We will restrict access to any such information and we will also take steps to remove our access to any non-relevant data.
+How we use your personal data
+Please see the table below which sets out the manner in which we will process the different types of personal data we hold.
+Please note that some of this data (including Calendar Information, Booking Information and Booking Form Information) is processed by us as a ‘processor’ and our account holder will be the ‘data controller’ (please see section 3, Data Processing, which explains the terms which apply to us as a processor).
+Purpose/Activity
+Type of data
+Lawful basis for processing including basis of legitimate interest
+When you (or your employer) register with us to provide the Service to our account holder.
+==========
+Log-in Information
+Contact Information
+Performance of a contract.
+Necessary for our legitimate interests (to establish necessary information in order to provide our Service).
+When you use the Service as an account holder to take, manage or administer bookings.
+Log-in Information
+Contact Information
+Calendar Information
+Booking Information
+Booking Form Information
+Payment Information
+Performance of a contract.
+Necessary for our legitimate interests (in order to provide our availability and booking service).
+When you use the Service as a customer, patient or client of our account holder (“Customer”) to make a booking.
+Contact Information
+Calendar Information
+Booking Information
+Booking Form Information
+Payment Information
+Performance of a contract.
+Necessary for our legitimate interests (in order to provide our availability and booking service).
+When you use the Service as a Customer to provide information relating to a booking.
+Booking Information
+Calendar Information
+Booking Form Information
+Performance of a contract.
+Necessary for our legitimate interests (in order to provide our availability and booking service).
+When you use the Service as a customer, patient or client of our account holder to make payment to our account holder in relation to a booking.
+Payment Information
+Performance of a contract.
+Necessary for our legitimate interests (in order to provide our availability and booking service).
+To manage our relationship with our account holder which will include:
+(a) Notifying our account holder about changes to our terms or privacy notice;
+(b) Asking them to leave a review or take a survey;
+(c) When a complaint is submitted.
+Log-in Information
+Contact Information
+Calendar Information
+Booking Information
+Technical Information
+Communication Information
+Performance of a contract with you.
+==========
+Necessary to comply with a legal obligation.
+Necessary for our legitimate interests (to keep our records updated and to study how customers use our Service).
+To verify whether our Terms of Use are being complied with.
+==========
+Log-in Information
+Contact Information
+Booking Information
+Technical Information
+Communication Information
+Necessary for our legitimate interests (for the purposes of network security, compliance and preventing fraud).
+Necessary to comply with a legal obligation.
+To administer and protect our business, including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data.
+Log-in Information
+Technical Information
+Communication Information
+Necessary for our legitimate interests (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation).
+Necessary to comply with a legal obligation.
+==========
+To use data analytics to improve the Service, Site, marketing, customer relationships and experiences.
+Technical Information
+Communications Information
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep our services updated and relevant, to develop our business and to inform our marketing strategy).
+Sharing your information
+We do not disclose any information you provide to any third parties other than as follows:
+if you are an account holder we will share information about your free and busy times from any third party calendar account (e.g. Google Calendar account) which is linked with your account to anyone who is seeking to make a booking using the Service (please note that any data held on any third party calendar service will be subject to their privacy terms);
+if you use the Service to interact with other third party accounts or services you have then the Service may send information to those third party services.
+Any information sent to a third party service will be subject to the privacy policies of those services, please note that these third party services are not processors of ours or under our control - they are independent processors (or controllers) of data you choose to provide to them using the Service.
+Please refer to our list of processors which provides information about third party services we may interact with.
+We refer to these services as ‘processors in common’.
+if you are an account holder we will share information contained in any booking form or other content created by you with anyone who is seeking to make a booking using the Service;
+if you are a Customer making a booking we will supply any information you provide to us to our account holder;
+payment information may be provided to our payment processors;
+if we are under a duty to disclose or share your personal data in order to comply with any legal obligation (for example, if required to do so by a court order or for the purposes of prevention of fraud or other crime);
+in order to enforce any terms and conditions or agreements for our Services that may apply;
+we may transfer your personal information to a third party as part of a sale of some or all of our business and assets to any third party or as part of any business restructuring or reorganisation, but we will take steps with the aim of ensuring that your privacy rights continue to be protected;
+to protect the rights, property, or safety of YouCanBookMe limited, our account holders, or any other third parties.
+Other than as set out above, we shall not disclose any of your personal information unless you give us permission to do so.
+==========
+Security
+In order to safeguard the information we collect from you we will take all reasonable steps to ensure that:
+our servers are protected by security mechanisms and can only be administered via strictly controlled public/ private cryptographic keys;
+our data processing storage facilities are sited in secure locations to prevent unauthorised access, our infrastructure is provided by Amazon Web Services (AWS) and certifications for infrastructure provided by AWS can be obtained here: AWS Certifications
+all communication with our servers is encrypted through Secure Sockets Layer (SSL), an industry standard encryption method that encrypts data between your computer and our servers so that in the event of your network being insecure no data is passed in a format that could easily be deciphered.
+regular security assessments of our infrastructure are performed.
+This includes web vulnerability scans, dependency vulnerability scans, static code analysis, rule based OS inspection and manual assessments.
+==========
+Subscriber Personal Data
+There is certain information we collect for which we are not the data controller.
+We hold this information as a ‘data processor’, this includes Calendar Information, Booking Information, and Booking Form Information.
+Our account holder is the data controller for this data.
+Our terms require that our account holder process this data in accordance with applicable data legislation.
+In our Terms of Use this is defined as “Subscriber Personal Data” and the processing of Subscriber Personal Data by us will be governed by the terms of our Data Processing Agreement (“DPA”)
+Sub-processors and processors in common
+We use a number of processors or sub-processors to whom we may transfer personal data in the provision of the Service.
+A complete list of our processors sub-processors are set out in our processor list.
+Each processor is subject to contract terms in accordance with Article 28 GDPR, and to the extent that we transfer personal data to a processor outside of the UK or EEA then we will ensure that the relevant transfer is subject to appropriate safeguards as required by Article 46 GDPR.
+Those safeguards are set out against the name of each processor in our processor list.
+Where the processor is listed as having a “Supplier DPA” this means that we have entered into a data processing agreement with that processor, in the case of a processor outside of the UK or EEA this will include the European Commission's Standard Contractual Clauses for the transfer of Personal Data from the European Union to processors established in third countries (controller-to-processor transfers), as set out in the Annex to Commission Decision 2010/87/EU.
+==========
+Where the processor is listed as being in the “Privacy Shield” this means that the relevant entity has been certified as being part of the EU-US Privacy Shield Framework administered by the US Department of Commerce and has agreed to adhere to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement, and Liability.
+Please note that the processor list also contains details of ‘processors in common’ these are entities which the user has their own account with, and with whom we communicate via API.
+Please note that a processor in common is not a processor of ours, rather they are an independent controller or processor of data who you have authorised to share data with us.
+The terms on which they process data will be subject to the user’s agreement with them, and the terms of their privacy documentation.
+When we receive data from a processor in common it will be dealt with by us in accordance with the terms of this Privacy and Data Protection Notice and, where applicable, our DPA.
+==========
+Data Retention
+Our current data retention policy is to delete or destroy (to the extent we are able to) the personal data we hold about you in accordance with the following:
+Category of personal data
+Length of retention
+Records relevant for tax purposes
+8 years from the end of the tax year to which the records relate
+Personal data processed in relation to a contract between you and us
+7 years from either the end of the contract or the date you last used our Service, being the length of time following a breach of contract in which a contract party is entitled to make a legal claim
+Personal data held on marketing or business development records
+3 years from the last date on which a data subject has interacted with us
+Information relating to an individual booking
+24 months following the date of the relevant booking (unless the relevant default is adjusted by our account holder).
+For any category of personal data not specifically defined in this notice, and unless otherwise specified by applicable law, the required retention period for any personal data will be deemed to be 7 years from the date of receipt by us of that data.
+The retention periods stated in this notice can be prolonged or shortened as may be required (for example, in the event that legal proceedings apply to the data or if there is an on-going investigation into the data).
+We review the personal data (and the categories of personal data) we are holding on a regular basis to ensure the data we are holding is still relevant to our business and is accurate.
+If we discover that certain data we are holding is no longer necessary or accurate, we will take reasonable steps to correct or delete this data as may be required.
+If you wish to request that data we hold about you is amended or deleted, please refer to clause 11 below, which explains your privacy rights.
+Your privacy rights
+The GDPR gives you the following rights in respect of personal data we hold about you:
+The right to be informed
+You have a right to know about our personal data protection and data processing activities, details of which are contained in this notice.
+The right of access
+You can make what is known as a Subject Access Request (“SAR”) to request information about the personal data we hold about you (free of charge, save for reasonable expenses for repeat requests).
+If you wish to make a SAR please contact us as described below.
+The right to correction
+Please inform us if information we hold about you is incomplete or inaccurate in any way and we will update our records as soon as possible, but in any event within one month.
+==========
+We will take reasonable steps to communicate the change to any third parties to whom we have passed the same information.
+The right to erasure (the ‘right to be forgotten’)
+Please notify us if you no longer wish us to hold personal data about you (although in practice it is not possible to provide our Service without holding your personal data).
+Unless we have reasonable grounds to refuse the erasure, on receipt of such a request we will securely delete the personal data in question within one month.
+The data may continue to exist in certain backup, but we will take steps to ensure that it will not be accessible.
+We will communicate the erasure to any third parties to whom we have passed the same information.
+==========
+The right to restrict processing
+You can request that we no longer process your personal data in certain ways, whilst not requiring us to delete the same data.
+The right to data portability
+You have right to receive copies of personal data we hold about you in a commonly used and easily storable format (please let us know a format which suits you).
+You may also request that we transfer your personal data directly to third party (where technically possible).
+The right to object
+Unless we have overriding legitimate grounds for such processing, you may object to us using your personal data if you feel your fundamental rights and freedoms are impacted.
+You may also object if we use your personal data for direct marketing purposes (including profiling) or for research or statistical purposes.
+Please notify your objection to us and we will gladly cease such processing, unless we have overriding legitimate grounds.
+==========
+Rights with respect to automated decision-making and profiling
+You have a right not to be subject to automated decision-making (including profiling) when those decisions have a legal (or similarly significant effect) on you.
+You are not entitled to this right when the automated processing is necessary for us to perform our obligations under a contract with you, it is permitted by law, or if you have given your explicit consent.
+Right to withdraw consent
+If we are relying on your consent as the basis on which we are processing your personal data, you have the right to withdraw your consent at any time.
+Even if you have not expressly given your consent to our processing, you also have the right to object (see above).
+==========
+All SARs and other requests or notifications in respect of your above rights may be sent to us via our contact page.
+We will endeavour to comply with such requests as soon as possible but in any event we will comply within one month of receipt (unless a longer period of time to respond is reasonable by virtue of the complexity or number of your requests).
+Data Breaches
+If personal data we hold about you is subject to a breach or unauthorised disclosure or access, we will report this to the Information Commissioner’s Office (ICO).
+If a breach is likely to result in a risk to your data rights and freedoms, we will notify you as soon as possible.
+==========
+Other websites
+Our Site may contain links and references to other websites.
+Please be aware that this Privacy Policy does not apply to those websites.
+We cannot be responsible for the privacy policies and practices of sites that are not operated by us, even if you access them via the Site and/or any other service that is operated by us.
+We recommend that you check the policy of each site you visit and contact its owner or operator if you have any concerns or questions.
+In addition, if you came to this Site via a third party website, we cannot be responsible for the privacy policies and practices of the owners or operators of that third party site and recommend that you check the policy of that third party site and contact its owner or operator if you have any concerns or questions.
+==========
+Transferring your information outside of Europe
+As part of the services offered to you the information you provide to us will be transferred to, and stored at, countries outside of the European Union ("EU").
+By way of example, this may happen if any of our servers are from time to time located in a country outside of the EU or one of our service providers is located in a country outside of the EU (currently our server infrastructure is located in the United States, please see the next paragraph for more information).
+We may also share information with other equivalent national bodies, which may be located in countries worldwide.
+These countries may not have similar data protection laws to the UK.
+==========
+If we transfer your information outside of the EU in this way, we will take steps with the aim of ensuring that your privacy rights continue to be protected as outlined in this privacy policy.
+Certain of our processors may be based outside of the EEA, if so then we will ensure that the relevant transfer is subject to appropriate safeguards as required by Article 46 GDPR.
+Those safeguards are set out against the name of each processor in our processor list.
+If you use our Site or service while you are outside the EU, your information may be transferred outside the EU in order to provide you with those services.
+By submitting your personal information to us you agree to the transfer, storing or processing of your information outside the EU in the manner described above.
+Notification of changes to our Privacy Notice
+We will post details of any changes to our Privacy Notice on the Site to help ensure you are always aware of the information we collect, how we use it, and in what circumstances, if any, we share it with other parties.
+Contact us
+If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by way of our contact page.
+==========
+Cookie policy
+Like most websites and applications, YouCanBook.me use cookies to help provide you with the best experience whilst using our service.
+The cookies we use are split between the following categories:
+Essential cookies - which are an essential part of our service and affect the way you can use our site (e.g security & authentication)
+Performance cookies - which are used for analytics (e.g understanding usage on our website)
+Functionality cookies - which collect information about your device to help you customize our service (e.g remembering your timezone settings or accessing inline help)
+On your first visit to our site from your browser we will display a notice to notify you that we are using cookies.
+We will only load the Essential cookies and Functionality cookies until you have clicked the “Accept” button on our cookies notice.
+If you click the “Accept” button our Performance cookies will be loaded.
+Below is a list of the cookies currently set by our domain (first-party cookies):
+Cookie
+Type
+Purpose
+YouCanBook.me
+Essential
+Login/Logout app authentication
+Stripe
+Essential
+Handle payments within our service
+HelpScout
+Functionality
+In-app chat and help docs
+Google Analytics
+Performance
+Collects information about how our website and service is used
+Hotjar
+Performance
+Collects information about how our website and service is used
+As well as cookies that are set by domains we control (first-party cookies), you may also see cookies set by a third party (third-party cookies).
+These are set when you interact with certain parts of our service, such as viewing one of our help videos (YouTube) or signing in via Facebook and are used by these third-party services to understand your preferences and sometimes tailor content they show you.
+==========
+Do I have to accept cookies?
+The majority of browsers are set up to accept cookies by default but you can change the way your browser handles cookies if you wish.
+You could reject them by default or be notified when a website is trying to set or update cookie.
+Exactly how you disable cookies depends on the browser or device you are using.
+The help feature on most browsers will tell you how you how you can manage and or disable cookies.
+If you disable cookies on your browser, certain features or parts of our service may not function correctly or will have a degraded experience.
+Cookies used for tracking and analytics
+We use analytic tools, such as Google analytics to understand how our site is used and where we can make improvements to provide you with the best experience.
+You can opt out of this analytics tracking by following the links below:
+Opt out of Hotjar Analytics using their one click opt-out option
+Opt out of Google Analytics using their opt-out browser tool
+Not clicking the “Accept” button in our cookies notice.
+==========

@@ -1,0 +1,164 @@
+Effective Date: 05-SEP-2020
+Near Pte. Ltd. (“Near” or “We”) is a proprietary technology platform (the “Platform”) that receives location information among other data from computers and mobile devices via various partners to help our customers (our “Customers”) understand their consumer’s behavior better and make more informed decisions on their digital marketing programs.
+This privacy policy document (“Privacy Policy”) applies to Near’s Platform and informs you (the consumer) on how Near’s proprietary technology processes information on behalf of consumers, digital advertisers, publishers and other businesses that use our products and services (our “Customers”).
+This Privacy Policy also describes how Near collects, uses, shares and secures the information you provide, as well as your choices regarding use, access and correction of your information.
+This policy document also applies to our corporate website, https://www.near.co (the “Website”).
+If you have any questions about this Privacy Policy, please feel free to email Near’s legal team at privacy@near.co.
+==========
+Near’s Technology Privacy Practices
+Near’s technology Platform receives information about the location of mobile devices and associated information.
+This information is provided to Near by mobile app partners who have obtained appropriate consumer consent to collect and share such information.
+Here are the important ground rules under which Near operates:
+
+Near’s Platform never actively requests from consumers or stores information that can be used by us to identify you personally.
+Near gives an option for you and other consumers to opt-out or object to processing your information via the Platform at any time.
+Near complies with local laws in countries that are covered by its Platform, Website and services.
+Near does not share any data with third parties other than service providers acting on Near’s behalf.
+==========
+Near only shares aggregate analytics information with our Customers and Partners (defined below).
+Types of Information We Collect and How We Use It
+Near obtains precise location data (e.g., lat/long) only at a pre-defined geo-hash level of devices from business partners, which are generally publishers (mobile app owners), mediation platforms and ad exchanges (our “Partners”).
+Many of these Partners also help deliver advertising onto your mobile device.
+We require that these Partners have your permission prior to sending us location information obtained at the time of installing the app itself, which enables the Partner to share information with our Platform and other third party platforms.
+We never store precise location coordinates in our system.
+We also collect pseudonymous personal data via our Platform, including but not limited to device type, the advertising identifier associated with your mobile device (“Pseudonymous Identifier”), mobile browser type, operating system, log information, and IP address (which gets re-assigned periodically so that we are not able to identify individuals) etc.
+==========
+However, the information we are able to collect may differ among the various Partners that we work with as we closely integrate and comply with their privacy policies.
+Some of this pseudonymous data is considered personal data in places like the European Union, but we do not collect information that may be used to identify someone such as name, email or telephone number via our Platform.
+In other words, we are unable to identify who you are via our Platform (as we analyze and process location data only at a pre-defined geohash level).
+In some instances Near collects information such as points of interest (“POI”) data.
+==========
+POI data includes restaurant location/pricing data, real estate pricing data, etc. from other publicly available third party data sources.
+We combine this POI data with information we already have about you.
+Near also supplements, appends and annotates its data with licensed data from third party sources such as data providers and geo-demography vendors for the purposes of verifying and improving the quality of data models.
+==========
+However, none of this information allows Near to identify you personally.
+Near uses the information thus collected from its Partners and other secondary and tertiary sources to power its analytics technology to derive actionable consumer insights for marketers and publishers.
+Information collected is used to build user behavior/interest inference data models and audience/interest profiles that could be used for delivering relevant ads or other content to the user.
+For e.g. if the user indicates his gender in the app and has given the consent to the publisher to disclose this information, Near may use this information to bid for the relevant ad slot available.
+Tracking Technologies
+Most mobile devices include an identifier that allows application publishers and marketers to track user activity on mobile devices for advertising purposes (e.g.  Google’s Android Advertising Identifier (AAID) and Apple’s Identifier for Advertising (IDFA)).
+==========
+We refer to those identifiers as “Pseudonymous Identifiers.”
+Near’s Platform uses Pseudonymous Identifiers associated with your mobile device in order to help make the digital advertisements you see more relevant to you.
+We employ hashing, encryption and de-identification techniques to help ensure your privacy is safeguarded.
+==========
+Near employs session cookies in some of its products mainly for tracking ad conversions on 3rd party pages.
+These cookies are valid only for one particular session (an ad impression) and are expired immediately afterwards.
+You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+For more information about cookies, please visit http://www.allaboutcookies.org/.
+==========
+Opt-out, Objecting to Near’s Processing and other Choice Provisions
+The manufacturers of Pseudonymous Identifiers generally offer consumers with choices regarding whether mobile device data is used for advertising purposes.
+For example, you can opt-out of interest-based ads by enabling “Limit Ad Tracking” setting on iOS mobile devices and “Opt out of Interest-Based Ads” setting on Android devices.
+More information on Choices for Psuedonymous Identifiers may be found at http://www.networkadvertising.org/mobile-choice/.
+Near honors these choice settings offered by the creators of Psuedonymous Identifiers in that it will not use information collected from that device to serve ads targeted based on a user’s inferred interests or share that data with any external systems or partners for targeting via the Platform.
+Please note that EU data subjects may enjoy additional choices as described below.
+==========
+While users may decide to opt-out of interest-based ads, they should remember that doing so will prevent Near from providing them with a personalized experience and this may impair the quality of their overall user experience.
+Also, though Near always honor users’ opt-out settings, some app developers/publishers may not allow users to opt-out of all the information collected, as it would hinder effective ad delivery.
+In such cases, users might be required to purchase a paid version of those apps to disable ads.
+==========
+Near complies with the California Consumer Privacy Act (CCPA).
+We provide a form for all US consumers to exercise the right to access their data, direct Near to delete their data, and opt-out of any further use of their data.
+The form is accessible  here.
+==========
+Website Privacy Practices
+Personal Data
+Our Website is primarily designed to provide information to our Customers, which are typically businesses.
+Near collects personal data from its Website when you choose to provide it to us.
+Personal data is any information that can be used to identify a particular person or entity.
+==========
+This includes, but is not limited to: name, address, telephone number, or email address.
+For example, you may choose to send personal data about yourself in an email, or by completing a form on this Website.
+Near uses this information only to contact you to respond to your inquiry.
+==========
+Once collected, Near will store your personal data for no longer than 12 months for record keeping purposes.
+We also collect personal data such as email and login credentials to provide Customers with reports and other information about their advertising programs.
+We may also collect contact details and billing information as necessary to honor our contracts with vendors, Customers and Partners.
+Passive Collection
+As is true of most websites, Near also automatically collects certain data from visitors to this Website.
+==========
+This information may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer’s operating system.
+We use this information to analyze trends in the aggregate and administer the site.
+Near works with third-party service providers, such as Google Analytics, that collects information about the site you came from and use of the site and our Services.
+We use this solely for analyzing people who visit our website to understand the website traffic.
+==========
+Website Choice Mechanisms
+We partner with a third party vendor to manage our advertising on other sites.
+Pursuant to those advertising programs, we or our third party vendor may collect pseudonymous data based upon your visits to the Website and use that to tailor ads on other websites.
+In that case, we generally infer that you might be interested in Near’s services based upon your visit to the Website.
+Our third party vendors may use cookies or similar technologies in order to provide you advertising based upon your browsing activities or interests on this Website.
+If you wish to opt out of interest-based advertising, you may click here.
+Please note you will continue to receive generic ads.
+==========
+You may sign-up to receive communications from us.
+If you would like to discontinue receiving this information, you may update your email preferences by using the “unsubscribe” link found in emails we send to you or by contacting us at privacy@near.co.
+Please note that additional choice mechanisms available for EU data subjects are described below.
+Privacy Practices applicable to the Platform and Website
+Information Security
+The security of the consumer’s information is important to us.
+Near has implemented reasonable security measures to protect the information in our care, both during transmission and once it is received.
+==========
+This includes but is not limited to the use of firewalls and encryption.
+No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while the company strives to use commercially acceptable means to protect your information, it cannot guarantee absolute security.
+Accessing Your Information
+If we have collected personal data about you and you wish to update, correct, or delete inaccuracies within that information, you may contact us as described in this policy.
+We will respond to your request within a reasonable timeframe.
+==========
+EU data subject should scroll down to better understand their access rights.
+Information Relating to Children
+Near’s products and services are designed for those 18 years of age and older and we don’t collect personal data via our Platform.
+Near does not knowingly collect personal data from anyone under the age of 13 via our website.
+If we are made aware that we have received personal data from someone under 13 (e.g., a child sends us an email with her postal address and date of birth), we will use reasonable efforts to immediately remove that information from our records.
+==========
+Disclosure of Information to Third Parties
+Near does not rent, sell or share personal data with non-affiliated third parties without user consent.
+Near may, however, share information with trusted third-party service providers who provide services on our behalf to help with our business activities, such as providing cloud computing infrastructure or payment processing.
+These third party service providers are authorized to use your information only as necessary to provide these services to us and are prohibited from using the information for purposes other than performing services for Near.
+As required by its business, Near may also share pseudonymous data with third parties such as DSPs, DMPs and other platforms to facilitate the usage of the data by Near’s Partners and Customers.
+In these cases, the third party does not own the data and the ownership of that data stays with Near or with Near’s Partners and Clients.
+==========
+Near may disclose your information to third parties when obligated to do so by public authorities or by law pursuant to judicial or other government requests, subpoenas, warrants, orders, and in order to investigate, prevent, or take action regarding suspected, or actual prohibited activities, including but not limited to fraud and situations involving potential threats to the physical safety of any person.
+Finally, Near may transfer information, including any personal data, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+If Near is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal data.
+==========
+EU Data Subjects
+The General Data Privacy Regulation (“GDPR”) affords additional rights to EU data subjects.
+Those rights include the right to complain to EU Supervisory Authorities and the right to access, correct, port to another party and delete certain personal data processed by Near.
+With respect to EU data subjects, personal data includes pseudonymous personal data such as an IP address, a Pseudonymous Identifier or a cookie ID.
+Where Near is a controller of data via the Platform, the legal basis to process the data will be consent.
+==========
+Where Near is a controller of data received from Partners and Customers, our legal basis shall be contractual necessity.
+When we collect personal data via the Website such as email address and other contact details, we will obtain your consent.
+When prospecting for new Customers and Partners, we will collect personal data via our legitimate interest.
+We may transfer data from the EU into the United States for processing and will generally do so via model contractual clauses.
+==========
+Where Near receives from an EU data subject a request to cease processing of data via one of the choice mechanisms listed above, Near will stop all data processing with respect to the opted out browser or mobile device unless such processing is required by law.
+If you’re an EU data subject and believe Near is processing your pseudonymous data  (e.g., Near cookie ID or mobile advertising ID) or your contact information (e.g., email address, telephone number) and you wish to exercise your right to access, delete, port or remove such information, please send an email to privacy@near.co and we will respond to your request within 30 days.
+Near’s data protection officer is Dr. Christoph Bauer, CEO at ePrivacy GmbH and he may be contacted at privacy@near.co or at the following address:
+External Data Protection Officer
+ePrivacy GmbH
+represented by Prof. Dr. Christoph Bauer
+Große Bleichen 21 
+20354 Hamburg 
+Germany
+Near’s EU representative is ePrivacy Holding GmbH and they may be contacted at the following address:  
+ePrivacy Holding GmbH
+Große Bleichen 21 
+20354 Hamburg 
+Germany
+
+Changes to this Privacy Policy
+This privacy policy is subject to change.
+==========
+If the company plans to make any material or substantive changes in our privacy practices, we will post a clear and conspicuous notice on the website prior to the changes being made.
+We encourage you to periodically review this page for the latest information on our privacy practices.
+Contact Information
+For questions or concerns relating to privacy, please email privacy@near.co or send physical mail to the following address: Near Pte. Ltd.
+3 Temasek Avenue,
+  Level 18-01, Centennial Tower, 
+  Singapore 039190
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+==========

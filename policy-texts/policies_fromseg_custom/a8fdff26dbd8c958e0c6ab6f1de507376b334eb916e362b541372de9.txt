@@ -1,0 +1,34 @@
+Privacy Policy
+ 
+Last updated: September 24, 2018
+Permutive, Inc. (“Permutive”) is committed to protecting the privacy of our site visitors and customers.
+Permutive team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet.
+We will not disclose information about our customers to third parties except where it is part of providing a service to you—e.g. arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of customer research and profiling or where we have your express permission to do so.
+==========
+What Permutive Collects
+We collect all event data sent to our API by the data controller.
+In general, these events are used to analyze trends, and track users’ movements around a customer’s product.
+We receive events on an individual as well as aggregated basis.
+Our partners may also use such technologies to deliver advertisements to you.
+The data we receive for a user is completely anonymized, unless they are logged-in and the customer has asked us to link their data to their login.
+Event data is never shared between customers.
+==========
+Customer information is collected through the use of forms (e.g. registration form) or from interaction with the Customer such as in connection with support request, in which case information is collected from electronic or phone communications.
+Users’ IP addresses are received and processed at our API to estimate a user’s location, but raw IP addresses are not stored.
+Cookie Policy
+Permutive uses first-party cookies to identify website users.
+A cookie is a small information file that is sent to your computer, mobile or other device when you visit a website and it will recognise your device on future visits.
+==========
+Users can configure their web browser to reject these cookies—or all cookies—and Permutive will no longer collect information for them.
+Security
+Permutive is committed to protecting the security of your information.
+We use a variety of industry-standard security technologies and procedures to help protect your information from unauthorized access, use, or disclosure, including limiting access to the data within Permutive.
+Despite these measures, you should know that Permutive cannot fully eliminate security risks associated with your information and mistakes may happen.
+Opt-out
+Users can opt out of Permutive by running the following JavaScript command on any site that uses Permutive.
+permutive.consent({ "opt_in": false });
+We cannot provide a catch-all mechanism to opt out of all Permutive deployments since we do not use third-party cookies that persist across domains for identification.
+Data Processing Agreement
+Please view here.
+If you have any questions or feedback regarding this privacy policy, you can contact us by email at support@permutive.com.
+==========

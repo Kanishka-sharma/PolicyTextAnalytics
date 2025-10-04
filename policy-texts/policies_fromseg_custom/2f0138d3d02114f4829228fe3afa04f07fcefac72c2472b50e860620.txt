@@ -1,0 +1,44 @@
+The Cookie Law Explained
+The Cookie Law is a piece of privacy legislation that requires websites to obtain consent from visitors to store or retrieve any information on a computer or any other web connected device, like a smartphone or tablet.
+It has been designed to protect online privacy, by making consumers aware of how information about them is collected by websites, and enable them to choose whether or not they want to allow it to take place.
+==========
+It started as an EU Directive that was adopted by all EU countries on May 26th 2011.
+At the same time the UK updated its Privacy and Electronic Communications Regulations, which brought the EU Directive it into UK law.
+==========
+Other EU countries have made similar changes to their laws.
+All websites owned in the EU or targeted towards EU citizens, are now expected to comply with the law.
+==========
+Why Cookie Law?
+Almost all websites use cookies - effectively litte data files - to store information in peoples' web browsers.
+Some websites contain hundreds of them.
+There are other technologies, like Flash and HTML5 Local Storage that do similar things, and these are also covered by the legislation, but as cookies are the most common technology in use, it has become known as the Cookie Law.
+==========
+What it Means For Business
+If you own a website, you will need to make sure it complies with the law, and this usually means making some changes.
+If you don't comply you risk enforcement action from regulators, which in the UK means The Information Commissioners' Office (ICO).
+In exceptional cases this can mean a fine.
+However, non-compliance could also have other, perhaps more serious consequences than enforcement.
+==========
+There is plenty of evidence that consumers avoid engaging with websites where they believe their privacy is at risk, and there is a general low level of trust about web tracking by the use of cookies.
+What You Should Do
+Compliance with the cookie law comes down to three basic steps:
+
+Work out what cookies your site sets, and what they are used for, with a cookie audit
+Tell your visitors how you use cookies.
+==========
+Obtain their consent, such as by using Optanon, and give them some control.
+Start Complying with Optanon
+What are Cookies Anyway?
+Cookies are a kind of short term memory for the web.
+==========
+They are stored in your browser and enable a site to 'remember' little bits of information between pages or visits.
+They are mostly used to make the web experience better, like automatically logging you in to a site on return visits, or remembering settings like text size.
+==========
+Most websites also use tools like Google Analytics to measure site performance and collect traffic stats, and this also uses cookies in most cases.
+However some cookies are used to collect data across websites you have visited, creating a 'behavioural profile'.
+This profile can then be used to decide what content or adverts to show you.
+==========
+This use of cookies for tracking in particular is what the EU wants to raise awareness of with the law.
+By requiring websites to inform and obtain consent for cookies it aims to give web users more control over their online privacy.
+To find out lots more about cookies in general and the different types, take a look at Cookiepedia - an information resource all about cookies.
+==========

@@ -1,0 +1,236 @@
+Background:
+Sift Science helps online businesses detect and
+address malicious behavior on their services.
+For example, criminals
+sometimes use stolen credit cards to purchase goods fraudulently.
+That
+hurts both the business, since they may ship goods and never get paid
+for them, as well as the cardholder, who ends up with charges they
+never authorized on their account.
+==========
+In order to help prevent this and
+other kinds of harmful activity, we collect information about how
+users interact with our customers’ services.
+The following Sift
+Science Privacy Notice outlines what information we collect, how we
+use and disclose it, and who to contact if you have questions.
+Sift Science Privacy Notice
+
+
+Last Updated: May 2, 2012
+
+
+
+Sift Science provides fraud and risk analytics services (the
+"Service") to our customers.
+We have created this privacy notice
+("Privacy Notice") to describe our data collection and dissemination
+practices for the Service.
+The terms "Sift Science," "we," "us," and
+"our" refer to Sift Science, Inc. and its affiliates.
+The term
+"customer" refers to any company that uses all or a portion of the
+Service.
+The term "user" refers to any user transacting with or
+otherwise using products or services offered by a customer.
+==========
+We may revise this Privacy Notice from time to time.
+If we do so, we
+will update the "Last Updated" date above.
+Users should revisit this
+page to stay aware of any changes.
+==========
+Continued use of our customers’
+products or services that use the Service constitutes agreement to
+the then-current version of this Privacy Notice and any future
+revisions.
+Collection of Data
+
+To help our customers detect and prevent fraudulent or abusive
+online practices, we collect and analyze information related to
+users in accordance with this Privacy Notice.
+Pursuant to our
+customers’ requests, we may collect a variety of personal
+information related to use of the customers’ services by their
+users.
+==========
+This personal information may include, without limitation,
+the user’s IP address, username, user ID, or other unique
+identifiers from the customer’s systems, device ID, user agent,
+messages, and comments the user submits through a customer’s service
+(including the contents of private messages and the recipient of
+such messages), pages viewed, items viewed, bid on, placed in a
+shopping cart, or purchased by the user through the customer’s
+system, transaction information (including price paid, billing
+method, address, and bank identification number), feedback a user
+may submit, as well as other site-specific metadata.
+Our customers
+may also provide us with additional data regarding user
+transactions, such as whether or not a chargeback was issued.
+To
+facilitate our collection of information about user transactions and
+other user activities, our customers may integrate their websites
+and services with the Service through our proprietary application
+programming interface.
+Our customers may also embed Javascript code
+into page loads, which instructs users’ web browsers to make web
+requests back to our servers to collect information about user
+viewings and general usage of pages on the customer’s service, as
+well as automatically collected data (as described below).
+Automatically Collected Data:
+We may employ different types of technology, including standard log
+files, cookies, web beacons, and other similar technologies, to
+automatically log certain information from users’ Web browsers about
+the configuration of users’ computers, mobile devices, and web
+browsers, inform us of referring URLs and otherwise inform us about
+users’ use of our customers’ services, such as user preferences.
+==========
+Cookies Information:
+One form of "automatically collected" information we may record
+is information stored by "cookies" – small text files containing
+a string of alphanumeric characters.
+When a user accesses a
+customer’s service, we may send one or more cookies to the
+user’s computer.
+By sending users cookies with values that are
+unique to them, we may be able to uniquely identify a user’s web
+browser or device when a user accesses any of our customers’
+services that use our Service.
+We may use both "session" and
+"persistent" cookies to collect, store, and sometimes track
+various types of information.
+A session cookie is one that
+disappears after the user closes his browser.
+While a persistent
+cookie remains after the user closes his browser (and may be
+used by the user’s browser when the user later returns to the
+service), persistent cookies generally can be removed.
+Users can
+review the "Help" file in their Web browsers or mobile devices
+to learn the proper way to modify their cookie settings.
+==========
+Identification Technology:
+Much of the information we collect, both from our customers and
+directly from their users, when combined, may enable us to
+uniquely identify users’ computing devices or browsers when they
+access our customer’s websites or other services over the
+Internet.
+This means that even if a user were to disable
+cookies, we may still be able to identify the user’s web browser
+or device on the Internet when the user accesses any of our
+customers’ services that use our Service.
+For example, when a
+user’s browser communicates with our Service, in addition to
+sending the Service the user’s IP address and any
+device-specific identifiers, the browser may provide us certain
+configuration information about the browser and the operating
+system within which the browser operates such as the specific
+version of the browser, plug-ins the browser supports, and other
+properties of the user’s computer and browser.
+Since the
+information we receive typically varies from user to user, we
+may be able to uniquely identify a device or browser based on
+this information when the device or browser accesses sites and
+services that are linked with our Service.
+Use and Disclosure of Data
+
+We use our proprietary analytics algorithms to analyze the data that
+we collect as described above.
+Based on this analysis, we provide
+our customers with a weighted score reflecting an approximation of
+the relative risk that a particular user transaction or other user
+activity may be unauthorized or fraudulent ("Risk Score").
+We may
+combine and analyze data related to a user from multiple sources,
+including without limitation multiple customers, to compute a more
+comprehensive Risk Score or otherwise operate, develop, enhance,
+maintain, support, and provide the Service and our other products
+and services.
+==========
+Except as provided in this Privacy Notice, we do not
+sell or disclose to third parties the data pertaining to users that
+we collect from a customer or directly from the user ("Raw Data").
+We do not claim an ownership right in Raw Data.
+We may use Raw Data
+for our internal business purposes in operating, developing,
+enhancing, maintaining, supporting, and providing the Service and
+our other products and services, including to other customers.
+All
+analytical results and Risk Scores that we generate through or in
+connection with the Service using Raw Data, whether alone or in
+combination with data from other sources, are and will remain our
+property and may be used and disclosed by us in our discretion.
+==========
+We
+will not sell, distribute, or otherwise disclose any Raw Data to any
+third party, except to third parties that provide services to help
+us manage and provide the Service and as described below under
+"Business Transfers" and "To Protect Our Interests."
+We require our
+third party service providers to agree to only use the Raw Data we
+disclose to them in accordance with our privacy policies and for no
+other purpose than to provide us necessary services.
+We may store,
+analyze, and use Raw Data in the United States or any other country
+in which we or any of our third party service providers operate.
+Our
+customers are responsible for ensuring and maintaining their
+compliance with their privacy policies and other applicable terms or
+policies, third party contracts, rights of privacy, and any other
+applicable laws or regulations in connection with their use of the
+Service.
+Business Transfers:
+We may disclose and otherwise transfer
+Raw Data to an acquirer, or to a successor or assignee, as part
+of any merger, acquisition, debt financing, sale of all or a
+portion of our assets, or similar transaction, as well as in the
+event of an insolvency, bankruptcy, or receivership, in which
+Raw Data is transferred to one or more third parties as one of
+our business assets.
+To Protect our Interests:
+We also may disclose Raw Data if we believe that doing so is
+legally required or is in our interest to protect our property
+or other legal rights (including, but not limited to,
+enforcement of our agreements), or the rights or property of
+others, or otherwise to help protect the safety or security of
+our Service or of other persons, entities, facilities, or
+equipment.
+Security
+
+We have implemented physical, technical, and managerial safeguards
+in an effort to protect Raw Data from unauthorized access,
+disclosure, alteration, and destruction.
+==========
+Despite our efforts,
+however, we cannot and do not guarantee the security of the
+information we collect from our customers or users or that such
+information will not be accessed, disclosed, altered, or destroyed
+by breach of any of our physical, technical, or managerial
+safeguards.
+Customer Policies
+
+We encourage our customers to describe their use of the Service and
+other technologies that collect user information in privacy notices
+that are displayed to users.
+If users object to our customers’ use
+of the Service or our collection, use, or disclosure of their data
+as described in this Privacy Notice, they should not use any of our
+customers’ products or services that utilize the Service.
+International Users
+
+If users use our customers’ products or services from the European
+Union or other regions of the world with laws governing data
+collection and use that may differ from laws of the United States or
+other applicable jurisdictions, then those users understand that
+they are transferring their information outside of those
+jurisdictions to the United States or other jurisdictions for the
+uses identified above in accordance with this Privacy Notice.
+By
+using our customers’ products or services that utilize the Service,
+such users consent to that transfer.
+Contact Information
+
+Please contact Sift Science with any questions or comments about
+this Privacy Notice or the Service’s collection, use, or disclosure
+of user information by email at privacy@siftscience.com.
+==========

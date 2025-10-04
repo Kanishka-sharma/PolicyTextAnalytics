@@ -1,0 +1,255 @@
+DeepL Privacy Policy
+We are committed to protecting your privacy and personal data.
+Therefore, we use your personal data strictly within the legal limits of the applicable data protection laws.
+With this privacy policy, we inform you of the personal data we collect when you use our website or services.
+DeepL GmbH (“DeepL”) collects and uses your personal data exclusively within the framework of the provisions of the General Data Protection Regulation.
+In the following, we inform you about the type, scope, and purposes of the collection and use of personal data.
+You can access this information at any time on our website, www.DeepL.com.
+1.
+==========
+Data controller/Contact/Data protection officer
+The data controller responsible for data processing within the meaning of the General Data Protection Regulation, other data protection laws in force in the Member States of the European Union, and other provisions of a data protection nature is:
+DeepL GmbH
+    Im Mediapark 8a
+    50670 Köln
+
+Please feel free to address any questions or concerns regarding data protection or privacy to privacy@DeepL.com.
+DeepL’s data protection officer can be contacted at: dhpg IT-Services GmbH, Bunsenstr.
+10a, 51647 Gummersbach, atten.
+Dr. Christian Lenz, or via privacy1@DeepL.com or on 02261-8195-0.
+2.
+==========
+Scope of data protection
+Data protection concerns personal data as defined in the General Data Protection Regulation, i.e. all information relating to an identified or identifiable natural person.
+Identifiable is any natural person who can be identified directly or indirectly, in particular by assignment to an identifier such as a name, an identification number, location data, 
+an online identifier, or one or more special characteristics.
+Usage data is data required to use our website; this data includes the start, end, and extent of the user’s website use.
+3.
+==========
+Automatic data collection via website access
+When you access our website, www.DeepL.com, your device automatically transmits certain data for technical reasons.
+The following data is stored separately from any other data you may transmit to us:
+
+Date and time of access
+Browser type and version
+Operating system
+URL of the website visited prior to ours
+Amount of data sent
+Requesting domain
+Notification of successful data retrieval
+Search term when using a web browser
+Shortened/anonymized IP
+Full IP address (for a maximum of 14 days)
+
+This data is stored for purely technical reasons and is never associated with any particular individual.
+The data about website access is used for error analysis, ensuring the security of the systems, logging of 
+    access to paid services (e.g. DeepL Pro), and to improve our translation service.
+For legitimate reasons, 
+    the full IP address is used to achieve the stated purposes for a very short period of a maximum of 14 days.
+4.
+==========
+Texts and translations — DeepL Translator (free)
+Please note that you may not use our translation service for any texts containing personal data of any kind.
+If you use our translation service, you transfer to our servers all texts you would like to translate.
+This is required for us to perform the translation and to provide you with service.
+==========
+We store your texts and the translation for a limited period of time in order to train and improve our translation algorithm.
+If you make corrections to our suggested translations, these corrections will also be transferred to our server in order to check the correction for accuracy and, if necessary, to update the translated text in accordance with your changes.
+We also store your corrections for a limited period of time in order to train and improve our translation algorithm.
+5.
+==========
+Texts and translations — DeepL Pro
+When using DeepL Pro, the texts you submit and their translations are never stored, and are used only insofar as it is necessary to create the translation.
+When using DeepL Pro, we don't use your texts to improve the quality of our services.
+For detailed information, please see our DeepL Pro Terms and Conditions.
+Please note that you may not use our translation service for any texts containing personal data of any kind.
+6.
+Registration with DeepL
+You have the possibility to register with DeepL.
+The following personal data will be stored for login purposes:
+
+Email address
+Password
+IP address
+
+The following pieces of information, if you choose to include them, will also be stored:
+
+First name, last name, and company name
+Address
+Tax numbers
+Payment details
+
+Your data will be stored by us for one month and then deleted if no order is completed after registration.
+7.
+==========
+Performance of contract - DeepL Pro Subscription
+When signing up for DeepL Pro, the following personal information is stored and processed for purposes of billing and contract fulfillment:
+    
+
+Email address
+First name, last name, and company name
+Address
+Tax numbers
+Payment details
+Password
+any additional information you may provide during the registration process
+
+
+In order to process payments, we pass on the necessary payment data to the banking and payment service provider commissioned by us:
+    
+Stripe Payments Europe Ltd
+        Block 4, Harcourt Centre
+        Harcourt Road
+        Dublin 2
+        Ireland
+ and 
+ Stripe Payments UK Ltd
+        7th Floor
+        The Bower Warehouse
+        211 Old Street
+        London
+        EC1V 9NR
+        UNITED KINGDOM
+
+Stripe Payments UK Ltd (“Stripe”) is registered as an Authorised Electronic Money Institution with the FCA.
+Stripe may transfer, process, and store personal data/credit card data outside the EU,
+        but is subject to the Privacy Shield.
+8.
+==========
+Cookies
+We use cookies to provide you with a wide range of functionalities and enhance your user experience.
+Cookies are tiny files stored on your computer through your browser.
+If you do not wish to receive cookies, 
+    you may deactivate cookie storage on your computer by changing your browser settings accordingly.
+Please note that the proper functioning of the website may be impaired and the range of functionalities may be limited if you deactivate cookies.
+In particular, we are using the following cookies:
+
+Cookies to store your preferred languages and custom settings
+Cookies to store your DeepL Pro login information (if you have subscribed to DeepL Pro)
+Cookies with an individual identifier to re-identify your browser(please refer to the "Pseudonymous user profiles" and "Google Analytics" sections for further details)
+
+9.
+Pseudonymous user profiles
+We use a cookie to re-identify your browser and to generate pseudonymous user profiles.
+==========
+Such profiles are used to store certain 
+    non-personal technical information on your use of our service (such as your preferred language and corrections you made to your translations).
+We use this data to improve our translation service, to train our algorithm and to get statistical insights on the use of our service.
+==========
+If you do not want us to generate such profiles, you can opt-out by selecting the following option:
+ I refuse the storage of my user profile.
+If you refuse storage of your user profile, we will set a cookie which identifies your browser and allows us to exclude your browser from future generation of user profiles.
+==========
+The cookies mentioned above are so-called first-party cookies.
+This means that the above statistics apply only to the use of our website.
+10.
+==========
+DeepL Applications
+
+        We offer text translation applications for the Windows and Mac operating systems.
+The applications use the same interfaces for creating translations as the web-based service.
+The use of the applications is also subject to terms 4, 5, 8 and 10 of this privacy policy.
+==========
+When you use one of the apps to translate texts, your device automatically transmits certain data for technical reasons.
+The following data will be stored separately from any other data you may transmit to us:
+    
+
+Date and time of access 
+Version of the application
+Operating system
+Amount of data sent
+Notification of successful data retrieval
+Shortened/anonymized IP
+Full IP address (for a maximum duration of 14 days)
+Diagnostic information in the event of errors
+
+
+        These data are stored for purely technical reasons and are not associated with a specific person.
+The data about access are used for error analysis, ensuring system security, logging of access to paid services (e.g. DeepL Pro) and translation improvement.
+The full IP address is stored for a very short period of up to 14 days out of legitimate interest to achieve the listed purposes.
+In our Windows and Mac applications, we use cookies for the following purposes:
+    
+
+Cookies for saving your favorite languages and settings
+Cookies to store your login data for DeepL Pro (if you have subscribed to DeepL Pro)
+Cookies with an individual identifier to re-identify your application (as described in the sections "Pseudonymous User Profiles" and "Google Analytics")
+
+
+        The use of cookies cannot be turned off for technical reasons.
+==========
+Please use the web-based service if you do not agree with the use of cookies in the application.
+Your texts will be sent to the DeepL servers for translation; however, this is only done when you explicitly request translation in the application.
+11.
+==========
+Google Analytics (with anonymization function)
+We use Google Analytics (with anonymization function), a web analytics service provided by Google Inc. ("Google").
+Google Analytics uses cookies which permit an analysis of your use of the website.
+The information about your website use generated by the cookie 
+    (including your truncated IP address) is transmitted to a server controlled by Google in the USA and is stored there.
+Google uses this information to analyze your use of the website, to generate reports about website activities for website operators, 
+    and to provide further services related to website and internet use.
+==========
+Google may also share such information with third parties to the extent it is 
+    legally required to do so and/or to the extent third parties process data on behalf of Google.
+You can find detailed information about how Google uses your data in Google’s privacy policy.
+We use Google Analytics with the anonymization function.
+By means of this addition, Google shortens and anonymizes the IP address of the 
+    Internet connection of the person concerned, if our Internet pages are accessed from a member state of the European Union or from another state party 
+    to the Agreement on the European Economic Area.
+==========
+You may deactivate Google Analytics with the help of a browser add-on if you do not want this website analysis.
+This add-on can be downloaded here.
+==========
+You can also activate the "I refuse the storage of my user profile" option above, which will deactivate the Google Analytics service on our website in your browser.
+User-based event data at Google Analytics is deleted after 38 months.
+12.
+==========
+Applications
+We offer you the possibility to apply for open positions via our career page, the integrated career portal, or via email.
+By using this form of digital application, your personal and application data are electronically collected for the processing of your application.
+We use the personal data you provide solely to process your application.
+Your personal data will only be forwarded or otherwise transferred to persons involved in our recruiting activities as part of the application process.
+If an employment contract is concluded after the application process, we store your personal data in your personnel file for standard organisational and administrative purposes.
+This is naturally in compliance with further legal obligations.
+==========
+In the event of a cancellation on our part, we will automatically delete the data transmitted to us three months after notification of the rejection.
+However, this deletion will not take place if the data must be stored for a longer period of up to four months or until the conclusion of legal proceedings due to legal provisions, e.g. due to the burden of proof in accordance with German law (AGG - General Act on Equal Treatment).
+If you expressly consent to your data being stored for a longer period, e.g. for inclusion in our internal applicant pool, the data will be processed further with your consent.
+However, you can of course revoke your consent at any time with future effect.
+==========
+Your data will be forwarded for processing to the service provider Recruitee B.V., Keizersgracht 313, 1016 EE Amsterdam, the Netherlands, which operates the application system and handles personal and application data.
+Your data will remain in the EU.
+13.
+==========
+Data security
+Your visits to our website are protected by state-of-the-art encryption technology.
+The level of protection always depends on which encryption your Internet browser supports.
+You can tell whether an individual page of our website is encrypted by the key or closed lock symbol in the status bar of your browser.
+==========
+We also use appropriate technical and organisational security measures to protect your data against accidental or intentional manipulation, partial or complete loss, destruction, or against unauthorised access by third parties.
+Our security measures are continuously improved in line with technological developments.
+14.
+==========
+Your rights
+You have the following rights under European Union law.
+If you wish to exercise any of the rights below, simply write to us at the above address.
+==========
+Right to confirmation and right to information - we will be happy to confirm whether we process your personal data, what data it is and for what purpose it is processed.
+Right to rectification - if the data we store is incorrect, we will of course be happy to correct it.
+Right of erasure - if you want your personal data to be deleted, we will, as far as legally possible, comply with your request.
+If data must be kept for legal reasons, it will be blocked.
+The data is then no longer available for further use.
+Right to restriction of processing - should you wish to restrict use, we will, as far as legally possible, comply with your request.
+Right of revocation - if you wish to revoke any consents already given, we will pursue your request accordingly.
+Right to object - if your personal data are processed on the basis of legitimate interests pursuant to point (f) of Article 6(1) of the GDPR, you have the right to object to the processing of your personal data pursuant to Article 21 of the GDPR if there are reasons for doing so that result from your particular situation or are against direct marketing.
+==========
+In the latter case, you have a general right to object, which we will accept without a particular situation being stated.
+If you would like to exercise your right of revocation or objection, simply send an e-mail to privacy@DeepL.com.
+You also have the right to lodge a complaint to a supervisory authority about the processing of your personal data.
+15.
+==========
+Changes to privacy policy
+We reserve the right to modify this privacy policy.
+The current version of the privacy policy is always accessible here.
+Last updated: October 2019
+==========

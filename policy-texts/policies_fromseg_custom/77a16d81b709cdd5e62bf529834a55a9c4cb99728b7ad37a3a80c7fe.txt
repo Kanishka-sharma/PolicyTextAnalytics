@@ -1,0 +1,287 @@
+(All capitalized terms shall have the meanings as defined in the full Privacy Policy below).
+This website, accessed at www.torchbrowser.com (the “Website”) is operated by Torch Media, Inc.
+This Privacy Policy explains our privacy practices for processing Personal Data when you use our Website and/or Browser.
+==========
+In general, we do not collect identifying information directly.
+However, some data we collect in order to enable communication between your device and our services, may in certain circumstances indirectly identify you and is considered Personal Data.
+This policy applies were such data may identify you.
+==========
+To the extent we collect identifying information about you, we are committed to protecting your privacy and processing your Personal Data fairly and lawfully in compliance with applicable data protections laws.
+In our full Privacy Policy, we explain in more detail the types of Personal Data we collect, how we collect it, what is legal basis of collection, what we may use it for, who we may share it with, what our retention periods are and what are your rights in relation to the Personal Data we collect.
+Read this Policy and make sure you fully understand our practices in relation to your Personal Data, before you access or use the Website or Browser.
+==========
+If you have further questions or concerns regarding this Policy please contact us at: privacy@torch-media.com
+This Privacy Policy may change.
+If we significantly change this Policy, we will notify you of such change through the channels we usually communicate with you.
+We encourage you to review this Policy periodically.
+This Privacy Policy includes the following sections
+Definitions
+The Categories of Personal Data We Collect and the Purposes of Collection
+The Categories of Non-Personal Data We Collect and the Purposes of Collection
+Sharing your information with third parties
+International data transfers
+Cookies
+Data Security
+Data Retention
+Your Rights
+Our Policy Toward Children
+Changes to this Privacy Policy
+Information for EU Residents
+Applicable Law And Dispute Resolution
+Contact Us
+FULL PRIVACY POLICY
+Torch Media Ltd. (“TorchMedia”, “we”, “our”  or  “us”) provides this Privacy Policy, as will be updated from time to time (our “Policy” or “Privacy Policy”) to inform the Visitors and Users of our Website (or “you”) of our policies and procedures regarding the collection, use and disclosure of information we receive when you use the Website and/or Browser.
+1.
+Definitions
+1.1.
+“Applicable Laws” shall mean the GDPR and EU Member State laws implementing the GDPR and any other applicable privacy or other law to which TorchMedia is subject; all to the extent applicable to TorchMedia and as may be amended from time to time.
+1.2.
+“Browser” means TorchMedia’s proprietary chromium based browser which enables users to perform web searches and is available for downloading online, including all features of the Browser.
+1.3.
+“Data Subject” shall mean a natural person who can be identified, directly or indirectly through Personal Data collected on such person; or the meaning ascribed to similar terms in Applicable Laws.
+1.4.
+“Personal Data”, shall mean any information that can directly or indirectly identify an individual such as a person’s name, address, contact details, or bank account number.
+1.5.
+“processing” means any action taken on Personal Data including but not limited to viewing, accessing, transmission, alteration, structuring, deletion and destruction; as well as the meanings of similar terms in Applicable Laws.
+1.6.
+“Non-Personal Data” shall mean information that does not personally and specifically identify a natural person, such as anonymized information.
+1.7.
+“Services” shall mean the Website and Browser.
+1.8.
+“Visitor” shall mean a person who browses our Website.
+1.9.
+“User” shall mean a Data Subject who is registered to the Services, has access to and makes use of the Services.
+2.
+==========
+The Categories of Personal Data We Collect and the Purposes of Collection
+2.1.
+Personal Data we collect: when you use our Services, we collect the following Personal Data: Internet Protocol (IP) address; and Globally Unique Identifier (GUID).
+This information is required for the communication between your device and our Website and Browser.
+We collect this information in order to enable you to use the Services.
+2.2.
+==========
+Purposes: We collect this information for additional purposes, as follows:
+a. Functional purposes:
+to provide and operate the Services;
+To ensure the proper functioning of our Services and to detect, debug and repair any issues in our Services;
+To prevent security breaches and abuse of your Services.
+to disclose to third party vendors, service providers, contractors or agents who perform functions on our behalf with respect to the Website;
+b. Support purposes:
+to provide on-going customer assistance, technical support and maintain the Website;
+to provide service announcements and notices, promotional messages and market the our services;
+c. Development and improvement purposes:
+to monitor and analyze how Visitors and Users interact with our Services in order to improve and enhance the Services;
+to create aggregated statistical data and other aggregated and/or inferred Non-Personal Data, which we or our business partners may use to provide and further develop, customize and improve our Services based on Visitors’ and Users’ preferences, experiences and difficulties;  
+Furthermore, we process this information for the purpose of auditing and tracking usage statistics and traffic flow, detecting fraud, security or technical issues;
+to communicate with you and contact you to obtain feedback from you regarding the Website and Browser;
+d. Legal purposes:
+to enforce our Terms of Use, policies and other contractual arrangements and prevent misuse of the Website; and to comply with court orders and warrants and to take any action in any legal dispute and proceeding;
+e. as otherwise authorized by you.
+f.
+==========
+We may use the email address you provided us to provide you information about our services and products.
+At any time, you may choose (opt out) whether your Personal Data is to be used for sending such marketing materials which are not an essential part of the usage of the Services.
+You may exercise your choice by contacting us at: privacy@torch-media.com
+Please note that we have users emails only if the users contact us via one of our email addresses, so it is an info gathered by the user own initiative and we all correspondence with the user is deleted from the relevant inbox periodically.
+3.
+==========
+The Categories of Non-Personal Data We Collect and the Purposes of Collection
+3.1.
+When you use our Services, we may collect information that your browser or device sends (“Log Data”).
+This may include, but is not limited to, non-identifying information regarding the type of your device (desktop/mobile), operating system, internet browser type, language.
+3.2.
+==========
+In particular, when you download, install or uninstall our Browser we may collect the following Non-Personal Data, as applicable: product ID, campaign ID, computer language, operation system, type of install, country, install date, login dates, uninstall date, and report date.
+In addition, we collect statistical information about the usage of our Browser’s features.
+3.3.
+==========
+We use Non Personal Data to compile anonymous, statistical or aggregated information, for legitimate business purposes including for testing, development, improvement, control and operation of the Services.
+We may share such information with our third party providers who perform tasks on our behalf in connection with the Services.
+3.4.
+==========
+TorchMedia Torrent Feature: The Torch Browser features a “Torrent” software plug-in.
+This feature downloads files quickly by trading pieces with other Users who are also downloading (or have downloaded) the same content.
+Your use of TorchMedia’s Browser's Torrent feature to download your queries and result files will, in turn, enable other TorchMedia Browser Users (or users of other clients that communicate using the torrent protocol, including clients that are unaffiliated with TorchMedia) to download pieces of those files from you.
+Although your IP address is associated with your piece of the file, other users will not have access to any other Personal Information about you.
+==========
+We do not track the files that you transfer with Torch Browser's Torrent feature.
+Our use of Torch Browser's Torrent feature does not create a record of which files you transfer to be kept by TorchMedia or on behalf of any third party.
+3.5.
+==========
+Torch Features: We do not track the files that you search with Torch Browser's “Features” which include: Torch Media Grabber, Torch Player, Torch Facelift or Torch Games, and Torch Torrent (discussed above).
+Our use of Torch Browser's Torrent Feature does not create a record of which files you search to be kept by TorchMedia or any third party.
+3.6.
+==========
+Third party advertisers and websites: If you access another website through the Browser and that website is operated by any entity other than TorchMedia, that site is referred to as a “Third Party Site”.
+Unless TorchMedia clearly indicates otherwise at the time of collection, TorchMedia does not share Personal Information with Third Party Sites.
+Please be aware however that these Third Party Sites may collect information about you.
+==========
+Please see the Third Party Site's privacy policy to better understand what information is collected, how it is used and shared, and your choices regarding control.
+TorchMedia has no control over these linked Third Party Sites, each of which has a separate privacy and data collection practice, independent of this Policy.
+TorchMedia does not monitor, control, or endorse the information collection or privacy practices of any Third Party Site.
+==========
+As such, TorchMedia is not responsible for, nor does it have control over, the content or the privacy policies of these Third Party Sites.
+You must read the privacy policies of each and every website that you visit when linking from the Website.
+This Policy applies solely to information collected by TorchMedia.
+4.
+==========
+Sharing Your Information With Third Parties
+4.1.
+We do not sell, rent or lease your Personal Data.
+We may share your Personal Data and Non-Personal Data with service providers and other third parties, if necessary to fulfil the purposes for collecting and processing the information, such as cloud vendors, subcontractors who we engage to assist us in the provision of the Services.
+4.2.
+Additionally, a merger, acquisition or any other structural change may require us to transfer your Personal Data to another entity, provided that the receiving entity will comply with this Policy.
+4.3.
+==========
+We may need to disclose Personal Data in response to lawful requests by public authorities or law enforcement officials, including meeting national security or law enforcement requirements.
+We cooperate with government and law enforcement officials to enforce and comply with the law.
+4.4.
+==========
+We may use automated applications, including cookies, to evaluate usage of our Services, which may be provided by third parties.
+We use these third party to help us improve our Services, performance and user experience.
+Such third parties may combine the information that we provide about you with other information that they have collected from other sources, subject to their own privacy policies.
+For more information, please see Section “Cookies” below.
+4.5.
+We may use the following third party providers and you may learn more about their privacy practices by reviewing their privacy policies:
+Yahoo (Oath): https://policies.oath.com/us/en/oath/privacy/index.html.
+Please note that Users can replace our new tab anytime they want.
+Google Analytics: https://policies.google.com/privacy
+Start.ME: https://start.me/privacy
+Luminati Networks Ltd: https://luminati.io/legal/sdk-privacy
+5.
+International Data Transfers
+5.1.
+==========
+We may store, process or maintain information in various sites worldwide, including through cloud based service providers worldwide.
+Where the GDPR applies and we transfer Personal Data to another country outside the EEA, we will ensure that it is protected and transferred in a manner consistent with legal requirements, as detailed in Section 12.2 below.
+5.2.
+If you are located in a jurisdiction where transfer of your Personal Data to another jurisdiction requires your consent, then you provide us your express and unambiguous consent to such transfer or the storage, processing or maintenance of the information in other jurisdictions by using the service.
+6.
+==========
+Cookies
+6.1.
+A cookie is a small data file stored on your browser or device for record-keeping purposes.
+6.2.
+A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes.
+==========
+When you access or use our Services, TorchMedia uses industry-standard technologies such as “cookies”, to keep track of the settings users have selected and actions they have taken on our Services.
+Cookies store certain information on the browser or hard drive of your computer and/or your mobile device (“Local Storage”) and allow us to improve your user experience and other capabilities on our Services, monitor and analyze the performance, operation and effectiveness of the Services, and ensure our Services are secure and safe to use.
+6.3.
+==========
+Most devices and browsers will allow you to erase cookies, block acceptance of cookies, or receive a warning before a cookie is stored.
+Please note that unless you block the acceptance of cookies, the Services will utilize cookies upon your use of the Services (unless it is required by Applicable Laws to provide a separate consent to use such cookies, and in which case We will use such cookies only after we receive your separate consent to such use and subject to your right to withdraw such consent at any time).
+We use Google Analytics, whose privacy policy can be accessed by this link: https://policies.google.com/privacy?hl=en.
+6.4.
+==========
+If you would like to reject third-party cookies, please configure your browser's setting accordingly.
+For more information on how to manage your cookie preferences please see: https://www.allaboutcookies.org/.
+6.5.
+==========
+From time to time, we may use additional or alternative analytics services.
+We will provide a notice of these changes on our Website.
+7.
+==========
+Data Security
+7.1.
+We take the safeguarding of the information processed on the Services seriously, and use a variety of industry standard systems and applications to protect the information from loss, theft, damage or unauthorized use or access.
+However, although we make efforts to protect your privacy, we cannot guarantee that the Services will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+7.2.
+You should take steps to protect against unauthorized access to your device by, among other things, signing off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, and keeping your log-in and password private.
+7.3.
+If you receive an e-mail asking you to update your information with respect to the Website, do not reply and please contact us at support@torchbrowser.com.
+8.
+==========
+Data Retention
+8.1.
+We retain different types of information for different periods, depending on the purposes for processing the data.
+We may retain Personal Data for as long as necessary in order to support our legitimate business purposes, for example, for storing data, for documentation, for cyber-security management purposes, legal proceedings and tax issues.
+8.2.
+==========
+We may store aggregated Non Personal Data without time limit.
+In any case, as long as you use the Services, we will keep information about you, unless we are legally required to delete it, or to the extent applicable under Applicable Law - if you exercise your rights to delete the information.
+9.
+==========
+Your Rights
+As mentioned above, in general, we do not collect identifying information directly.
+However, some data we collect in order to enable communication between your device and our services, may in certain circumstances indirectly identify you and is considered Personal Data.
+Accordingly, in situations were we do not collect Personal Data, we will not be able to assist Data Subjects’ rights.
+9.1.
+In the cases in which we collect, use or store your Personal Data, you may have the right to access your Personal Data and/or to request us to modify or erase your Personal Data.
+==========
+In most cases, you can exercise them free of charge.
+At any time, you may contact us at: privacy@torch-media.com and request to know what Personal Data we keep about you.
+We will make good-faith efforts to locate the data that you request to access.
+9.2.
+When you ask us to exercise any of your rights under this Policy and the applicable law, we may need to ask you to provide us certain credentials to make sure that you are who you claim you are, to avoid disclosure to you of Personal Data related to others.
+9.3.
+We may redact from the data which we will make available to you, any Personal Data related to others, if applicable.
+9.4.
+If you are an EU resident, additional rights may apply, such as the right to be forgotten, the right for data portability and the right for You may contact us in order to receive more information about your rights.
+10.
+==========
+Our Policy Toward Children
+Our Website is not meant to be used by or for persons under 18, as such, we do not knowingly collect Personal Data from minors younger than 18.
+Insofar as Personal Data may be collected based on your consent, the data subject must be above the age of 16 (or above the age of 13 if this is the legal requirement in your country).
+If these age requirements are not met, you are required to obtain the consent of the parent or guardian to provide and process information in accordance with this Policy; lacking such consent, please do not use the Website.
+11.
+==========
+Changes To This Privacy Policy
+11.1.
+We may change the terms of this Privacy Policy from time to time by posting notice on our Website, with a seven (7) day advance notice.
+However, substantial changes will be effective thirty (30) days after the notice was initially posted.
+We will make an effort to inform you of substantial changes through the channels of communication generally used in such circumstances.
+11.2.
+If we need to adapt the Policy to legal requirements, the amended Policy will become effective immediately or as required.
+11.3.
+==========
+Your continued use of the Services following such notice shall constitute your consent to any changes made and a waiver of any claim or demand in relation to such changes.
+If you do not agree to the new or different terms, you should not use and are free to discontinue using the Services.
+12.
+==========
+Information for EU residents
+12.1.
+The Legal Basis For Use Of Personal Data
+12.1.1.
+We will only process your Personal Data where we have a legal basis to do so.
+The legal basis will depend on the reason or reasons we collected and need to use your Personal Data.
+In almost all cases the legal basis will be:
+To provide the Services to Visitors and Users.
+To fulfill a legitimate interest that we have as a business.
+Because you contacted us and by doing so consented to us using the Personal Data for a particular purpose.
+12.1.2.
+==========
+It is hereby clarified that the legal bases detailed above are the legal bases for actions to process Personal Data, carried out by us in accordance with the GDPR.
+If processing of Personal Data is subject to other applicable laws, then the legal basis for processing Personal Data may differ according to those applicable laws.
+12.2.
+==========
+Data transfer
+12.2.1.
+If you are a Data Subject in the EU, and we envisage transferring your Personal Data to a third country outside the EEA or to an International Organization (as defined in the GDPR), your Personal Data may be transferred outside of the EEA or to an International Organization, in one of the following ways:
+the country that we send the data to might be approved by the European Commission as offering an adequate level of protection for Personal Data;
+the recipient might have signed up to a contract based on “model contractual clauses” approved by the European Commission, obligating them to protect your Personal Data;
+where the recipient is located in the US, it might be a certified member of the EU-US Privacy Shield scheme; or
+in other circumstances the law may permit us to otherwise transfer your Personal Data outside the EEA.
+12.2.2.
+You can obtain more details of the protection given to your Personal Data when it is transferred outside the EEA by contacting us as at privacy@torch-media.com.
+12.3.
+==========
+Your Data Subject Access Rights
+If you are a Visitor or User of our Services located in the EU, you may have the following rights, subject to certain conditions under applicable laws including the GDPR: right to rectification, right to erasure, right to portability, right to object to processing of your Personal Data, right to withdraw consent where this was the basis of processing your Personal Data, the right to restrict processing, right to lodge a complaint with a local Supervisory Authority.
+To exercise these rights, where applicable, please contact us as detailed in Section “Contact Us” of this Policy.
+13.
+==========
+Applicable Law And Dispute Resolution
+13.1.
+This Privacy Policy shall be governed by and construed in accordance with the laws of the Republic of Cyprus, without regard to its conflict of law provisions.
+The courts of Limassol, Cyprus shall have exclusive jurisdiction in all disputes and proceedings arising from this Privacy Policy.
+14.
+==========
+Contact Us
+If you have any concerns relating to this Policy, please contact us and we will make good-faith efforts to address your concerns.
+We are usually able to resolve privacy questions or concerns promptly and effectively.
+If you are not satisfied with the response you receive from us, you may escalate concerns to the applicable privacy regulator in your jurisdiction.
+Upon request, we will provide you with the contact information for that regulator.
+You may contact us at the following email addresses: Notice@torch-media.com or Privacy@torch-media.com.
+Copyright © 2020, Torch Media All rights reserved.
+Last Updated: April 20, 2020
+==========

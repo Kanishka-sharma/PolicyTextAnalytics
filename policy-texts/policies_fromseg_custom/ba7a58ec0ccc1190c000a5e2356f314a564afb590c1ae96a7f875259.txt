@@ -1,0 +1,10 @@
+About Evidon data collection
+To help our system remember the preferences you set explicitly at Evidon (for example, opt-out selections) and to provide aggregate statistics to our clients about their privacy notices, we collect information about your selections and other interactions with our privacy web applications.
+We may store basic information about your choices in cookies or similar technologies, but this information is never shared with any third party.
+If you request a change to your preferences with a company (for example, an opt-out choice), we will send this request to your specified company for processing.
+The information we provide to clients is always provided in aggregate form, and includes basic reporting metrics like the number of consumers interacting with their privacy notices and the choices consumers, in aggregate, are making through these notices.
+Evidon Opt-Out
+You are welcome to opt-out of Evidon data collection about your interaction with client privacy notices.
+We will continue to store the explicit preferences you set with us (for example, opt-out choices) in a cookie on your browser to ensure that we remember your requests.
+You are currently opted-in, click here to opt out
+==========

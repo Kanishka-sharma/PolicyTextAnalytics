@@ -1,0 +1,156 @@
+DOW JONES COOKIE POLICY
+Last Revised October 26, 2013
+When you visit, access, or use the website, mobile site, application, electronic newsletter or widget that links to this Cookie Policy (collectively "Site") Dow Jones & Company, Inc. and its subsidiaries ("Dow Jones," "us," or "we") use cookies and other tracking technologies to deliver and improve the Site, and to display relevant content, products, services and advertising.
+This Cookie Policy explains these technologies, including cookies, pixels, web beacons, and flash cookies, and how you can control them.
+By using the Site, you agree that we can use these technologies as described in this Cookie Policy.
+We hope that this Cookie Policy helps you understand, and feel more confident about, our use of cookies and other tracking technologies.
+==========
+If you have any further queries or requests, please contact us at privacypolicy@dowjones.com.
+We may change this Cookie Policy at any time.
+Please take a look at the Last Revised date at the top of this page to see when this Cookie Policy was last revised.
+Any changes in this Cookie Policy will become effective when we make the revised Cookie Policy available on or through the Site.
+1.
+WHAT IS A COOKIE?
+Cookies are small text files that are stored on your computer or mobile device.
+==========
+They are widely used in order to make websites work, or work in a better, more efficient way.
+For example, they can recognize you and remember important information that will make your use of a website more convenient (e.g., by remembering your user preferences).
+2.
+==========
+WHAT COOKIES DO WE USE?
+Below we list the different types of cookies we may use on the Site.
+We may also use cookies and similar tools to relate your use of the Site to personal information obtained about you.
+For example, if you have asked us to provide you information about our upcoming products or promotions, cookie and/or clickstream data about your activities on the Site may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences.
+==========
+Strictly Necessary Cookies.These cookies are essential to the Site in order to facilitate our log-in process and enable you to move around it and to use its features.
+Without these cookies, we may not be able to provide certain services or features, and the Site will not perform as smoothly for you as we would like.
+Strictly necessary cookies on this Site may include:
+
+
+Cookie Name
+Further information
+
+
+djcs_session
+Encrypted user session identifier
+
+
+djcs_route
+Device tracking identifier
+
+
+djcs_demo
+Compressed user demographics data
+
+
+djcs_group
+Encrypted group user information
+
+
+GPLogin
+Permanent cookie used to trigger redirects for transparent authentication on multiple Sites
+
+
+GSLogin
+Temporary cookie used to trigger redirects for transparent authentication on multiple Sites
+
+
+LPLogin
+Last log-in identifier
+
+
+LSLogin
+Keeps track of last user log-in
+
+
+
+Functionality Cookies.In some circumstances, we may use functionality cookies.
+Functionality cookies allow us to remember the choices you make while browsing the Site, and to provide enhanced and more personalized content and features, such as customizing a certain webpage, remembering if we have asked you to participate in a promotion and for other services you request, like watching a video or commenting on a blog.
+In order to permit your connection to the Site, our servers receive and record information about your computer, device, and browser, potentially including your IP address, browser type, and other software or hardware information.
+If you access the Site from a mobile or other device, we may collect a unique device identifier assigned to that device ("UDID"), geolocation data, or other transactional information for that device.
+==========
+All of these features help us to improve your visit to the Site.
+Cookie Name
+Further information
+
+
+djcs_auto
+Some Sites use this to store encrypted user credentials used to automatically login a user.
+DJSESSION
+Some sites use this to store session-specific application feature information.
+For example, messages that should appear to the user once in a session are controlled here.
+==========
+Some Sites also use this cookie to determine the approximate geographic location of the device for the session.
+DJCOOKIE
+Some Sites use this to store application feature information across sessions.
+For example, messages that should appear to the user once a week or once a month are stored here.
+login_avc
+Some Sites use this to count number of articles viewed.
+persistent_lang
+Some Sites use this to store interface language setting.
+==========
+Flash Cookies.We may, in certain situations, use Adobe Flash Player to deliver special content, such as video clips or animation.
+To improve your user experience, Local Shared Objects (commonly known as “Flash cookies”) are employed to provide functions such as remembering your settings and preferences.
+Flash cookies are stored on your device, but they are managed through an interface different from the one provided by your web browser.
+This means it is not possible to manage Flash cookies at the browser level, in the same way you would manage cookies.
+==========
+Instead, you can access your Flash management tools from Adobe’s website directly.
+The Adobe website provides comprehensive information on how to delete or disable Flash cookies - see http://www.adobe.com/security/flashplayer for further information.
+Please be aware that if you disable or reject Flash cookies for this Site, you may not be able to access certain features, such as video content or services that require you to sign in.
+Cookie Name
+Further information
+
+
+org.osmf.strobemediaplayback.lso
+Used by video Flash player to store the average download bytes per second
+
+
+So_WSJ_Volume
+Identifies the volume for the video player
+
+
+Ad_freq_key
+Used for video ad frequency
+
+
+
+Analytics Cookies.We and our service providers may use analytics cookies, which are sometimes called performance cookies, to collect information about your use of the Site and enable us to improve the way it works.
+Analytics cookies collect information about how you use the Site, for instance, which pages you go to most.
+==========
+The information allows us to see the overall patterns of usage on the Site, help us record any difficulties you have with the Site and show us whether our advertising is effective or not.
+Analytics cookies on this Site may include:
+
+Advertising Cookies.We and our service providers may use advertising cookies to deliver ads that we believe are more relevant to you and your interests.
+For example, we may use targeting or advertising cookies to customize the advertising and content you receive on our Site, to limit the number of times you see the same ad on our Site and to help measure the effectiveness of our advertising campaigns.
+These cookies remember what you have looked at on the Site and other sites, and may be combined with other information acquired from third parties, and we may share this information with other organizations, such as advertisers.
+For more information about targeting and advertising cookies and how you can opt out, visit:
+Targeting and advertising cookies on this Site may include:
+
+Social Networking Cookies.These Social plug-in tracking cookies can be used to track both members and non-members of social networks for "additional" purposes such as behavioural advertising, analytics, and market research.
+3.
+==========
+HOW DO THIRD PARTIES USE COOKIES ON THE SITE?
+In some circumstances, we may work with third parties to provide services on our Site.
+For example, we use analytics services supported by third party companies who generate analytics cookies on our behalf.
+We may not have access to these cookies, although we may use statistical information arising from the cookies provided by these third parties to customize content and for the other purposes described above.
+These companies may also transfer this information to other parties where required to do so by law, or where such other parties process the information on their behalf.
+==========
+Third-party advertisers and other organizations may also use their own cookies to collect information about your activities on our Site and/or the advertisements you have clicked on.
+This information, which may be combined with other information acquired from third parties, may be used by them to serve advertisements on our Site and third party sites that they believe are most likely to be of interest to you based on content you have viewed.
+Third-party advertisers may also use this information to measure the effectiveness of their advertisements and to track aggregate usage statistics.
+==========
+We may not control these third-party cookies and their use may be governed by the privacy policies of the third parties employing these cookies.
+To learn about these cookies and to disable or reject third-party cookies, please refer to the relevant third party’s website.
+For more information about third-party advertising on the Dow Jones Online Services, see the section on delivering advertising in the Privacy Policy .
+To find out more about third-party online advertising and to opt out of this type of advertising, please see the Advertising Cookies section above.
+You can also learn more about controlling cookies in section 4 below.
+4.
+==========
+HOW CAN YOU CONTROL COOKIES?
+You may refuse to accept cookies from the Site at any time by activating the setting on your browser which allows you to refuse cookies.
+You can refuse to accept Flash cookies from the Site using Adobe’s Flash management tools at http://www.adobe.com/security/flashplayer.
+Further information about the procedure to follow in order to disable cookies can be found on your Internet browser provider’s website via your help screen.
+You may wish to refer to http://www.allaboutcookies.org/manage-cookies/index.html for information on commonly used browsers.
+Please note that by disabling or blocking any or all cookies, some features of the Site may not operate as intended, or you may not have access to features or personalization available through the Site.
+Analytics cookies can also be managed via the following links
+==========

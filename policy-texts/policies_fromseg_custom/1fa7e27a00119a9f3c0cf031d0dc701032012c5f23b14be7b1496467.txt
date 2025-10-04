@@ -1,0 +1,318 @@
+-->
+Respecter la vie privée, notre priorité
+Piximedia considère la protection des données et de la vie privée comme une priorité.
+Piximedia ne revend pas les données récoltées à des sociétés tiers.
+Toutes les données utilisées sont anonymes et sont gérées de la manière la plus sécurisée.
+Piximedia, pour des annonces pertinentes et des contenus de qualité
+Piximedia diffuse des annonces sous forme de publicité en ligne.
+La publicité en ligne permet ainsi de financer la production des contenus et services de qualités par les éditeurs et d’assurer leur gratuité pour tous.
+Piximedia fournit ses services et sa technologie de publicité en ligne aux annonceurs et aux éditeurs de contenu afin d’engager leur audience.
+Notre travail consiste à connecter les personnes avec les contenus des marques les plus pertinents pour eux.
+Nos services se divisent en trois catégories selon le profil de l'utilisateur et son parcours client avec la marque :
+- BRANDING : Faire connaître la marque, son offre de service.
+Nous allons créer des annonces personnalisées avec des fonctionnalités, comme la vidéo, les jeux, VR, formulaire, cartes interactives, modules de rappel téléphonique, etc.
+- CONSIDÉRATION : Publicité de pré-ciblage, pour faire découvrir l’offre de la marque.
+Nous diffusons des annonces en fonction de vos centres d'intérêt pour vous montrer les messages les plus pertinents.
+- CONVERSION : Publicité de reciblage, pour faire interagir avec l’offre de la marque.
+Nous vous montrerons une annonce pour une marque que vous avez visitée récemment et pour lequel vous avez accepté d’être en relation.
+Ce document présente les politiques de Piximedia pour la collecte, l'utilisation et le partage de vos données afin de fournir ces services, ainsi que des détails sur la façon dont vous pouvez contrôler vos données.
+Piximedia provides online advertising services and technology for advertisers to engage their audience.
+Our goal is to connect people with the most relevant offers, while using and managing people data in the most secure way.
+Our services falls into three categories based on the user profile and customer journey :
+- BRANDING : Rich media advertising
+We will create custom ads with features, as video, gaming, VR, form, interactive maps, phone callback modules, etc..
+- CONSIDERATION : Pretargeting advertising
+We will serve ads based on your interests to show you the most relevant messages
+- CONVERSION : Retargeting advertising
+We will show you an ad for a brand you have visited in the recent past
+This document presents Piximedia policies for collecting, using and sharing your data in order to provide these services, and details how you can control your data.
+==========
+Profils d'utilisateurs anonymes
+Toutes les données que nous collectons sont jointes à un profil utilisateur créé de manière anonyme à l'aide de cookies.
+Les cookies sont de petits fichiers gérés par votre navigateur et utilisés pour stocker des données de texte.
+Piximedia utilise les cookies de deux façons :
+1.
+Enregistrement d'un identifiant utilisateur anonyme, généré de manière aléatoire.
+2.
+==========
+Données techniques utilisées localement dans votre navigateur, et non liées à votre profil d'utilisateur.
+Par exemple, Piximedia peut présélectionner une annonce et utiliser des cookies pour transférer cette information au moteur de rendu.
+Votre profil d'utilisateur anonyme peut également contenir votre adresse IP anonymisée, qui identifie votre réseau, ainsi que d'autres données publiques, telles que :
+- Le FAI
+- Le type de connexion (maison/bureau/mobile)
+- Zone géographique (pays, ville, code postal, etc..)
+Données de navigation en ligne
+Pendant que vous parcourez les sites partenaires, Piximedia peut ajouter à votre profil d'utilisateur des informations sur les pages que vous visitez, telles que :
+- Nom de domaine
+- L'URL de la page
+- Type de page (est-ce un article, une page d'accueil, une page de recherche, etc.)
+- Thème général de la page (exemple: voiture, mode, technologie, etc.)
+- Termes de recherche
+Journaux d'événements
+Les journaux d'événements sont des fichiers contenant toutes les données pertinentes pour créer différents rapports de campagne (voir la section suivante).
+Chaque fois qu'un événement se produit, une image transparente est envoyée à Piximedia.
+Il peut s'agir de tout élément lié à une publicité, comme par exemple :
+- Lorsqu'une publicité est affichée ou que vous la voyez
+- Lorsque vous interagissez avec une annonce en cliquant, ou, dans le cas d'une annonce interactive, en lisant la vidéo, en réalisant des actions dans la publicité
+- Lorsque, après avoir cliqué sur une publicité, vous visitez le site de l'annonceur tous les événements sont rassemblés sous forme de fichier texte, puis traités par Piximedia pour créer des rapports.
+Données personnelles
+Dans l'objectif de créer des profils, afficher une publicité, ou analyser des performances de campagne, ou pour tout traitement statistique, Piximedia n'utilise aucune données personnelles identifiables, telles que votre nom, adresse e-mail, numéro de téléphone, adresse postale ou toute autre information pouvant être utilisée pour vous identifier en tant qu'individu.
+En tant qu'exception à cette règle, nous pouvons diffuser une publicité intégrant un formulaire de contact comprenant des coordonnées personnelles en échange d'un service d'un de nos annonceurs, par exemple, votre adresse e-mail afin de vous envoyer un fichier PDF par courrier ou un nom / adresse pour participer à un concours en ligne.
+Ces informations sont collectées sur une base volontaire, ces données sont hébergées séparément des autres et ne sont jamais utilisées de quelque manière que ce soit en lien avec votre profil anonyme.
+==========
+Anonymous user profiles
+All data we collect is attached to a user profile created anonymously using cookies.
+Cookies are small files managed by your browser used to store text data.
+The data Piximedia stores in cookies is twofold :
+1.
+Anonymous user ID, generated randomly.
+2.
+==========
+Technical data used locally within your browser, and not linked to your user profile.
+For instance, Piximedia may preselect an ad, and use cookies to transfer this information to the rendering engine
+Your anonymous user profile can also contain your anonymized IP address, which identifies your network, and other public data, such as :
+- ISP
+- Connection type (home/office/mobile)
+- Geographical area (country, city, postal code, etc..)
+Online navigation data
+While you browse partner sites, Piximedia may add to your user profile information about the pages you visit, such as:
+- Domain name
+- Page URL
+- Type of page (is it an article, an home page, a search page, etc..)
+- General theme of the page (example: car, fashion, technology, etc..)
+==========
+- Search terms
+Event logs
+Event logs are files that contains all the relevant data to create various campaign reports (see next section).
+Every time an event occurs, a 1x1 tracking event is sent to Piximedia.
+Event can be anything related to an ad, such as:
+- View: when an ad is displayed or viewed by you
+- Engagement: when you interact with an ad by clicking, or, in the case of an interactive ad, playing the video, engaging with the ad
+- Post-click: when, after clicking on an advertisement, you visit an advertiser's site All events are gathered in large text file, and then processed by Piximedia to create reports.
+==========
+Personal data
+In order to create profiles, display an advertisement, or to analyse campaign performances, or for any statistical treatment of any kind, Piximedia does not need, request, store or make use of personal identifiable data, such as your name, email address, phone number, street address, or any information that could be used to identify you as a individual.
+As an exception to that rule, we may run advertisement embedding a contact form requesting personal contact information in exchange for a service from one of our advertiser, for instance, your email address in order to send you a PDF file by mail, or a name / address to enter an online contest.
+This information is collected on a voluntary basis, this data is hosted separately from all others, and never used in any way in conjunction with your anonymous profile.
+==========
+Piximedia s'associe à des sociétés tierces avec lesquelles nous établissons des échanges de données et d'informations pour différents objectifs.
+Certaines informations sur les partenaires sont liées à votre profil, d'autres sont utilisées de manière anonyme et ne sont pas liées à votre profil.
+Beeswax
+Beeswax fournit une connectivité à Piximedia afin de se connecter avec certains éditeurs fournissant du trafic de type "RTB".
+Le RTB, ou Real Time Bidding est une technologie permettant de réaliser des enchères publicitaires en temps réel.
+Afin d'améliorer les performances des campagnes, des informations anonymes sont fournies à Beeswax sous la forme de pixels.
+Un pixel est une image transparente 1x1 qui transmet des informations d'un système à un autre.
+Ces informations ne contiennent aucune autre donnée que les listes de segments utilisées pour le ciblage.
+Dans l'autre sens, Beeswax fournit à Piximedia des données standard de l'industrie telles que votre adresse IP anonymisée, l'emplacement approximatif, le navigateur, etc.
+Une liste complète des informations qui peuvent être transférées peut être trouvée ici :
+-> Liste des informations
+Plus d'informations sur la politique de confidentialité de Beeswax peuvent être trouvées ici:
+-> Plus d'information
+Oracle Data Cloud
+Oracle Data Cloud, anciennement connu sous le nom de Bluekai, est un courtier de données, dont la mission est de connecter les fournisseurs de données aux entreprises qui en ont besoin pour le ciblage.
+Piximedia travaille avec Oracle Data Cloud sur certaines campagnes pour identifier les profils anonymes qui peuvent être intéressés par un produit ou un service spécifique, par exemple: les amateurs de chaussures, les passionnés de voitures, les acheteurs de voyages, etc ...
+Plus d'informations sur la politique de confidentialité d'Oracle Data Cloud peuvent être trouvées ici :
+-> Plus d'information
+Integral Ad Science
+Integral Ad Science est une société spécialisée dans les audits de qualité publicitaire.
+Ils mesurent la qualité de l'environnement, la visibilité de la publicité et retournent un score de qualité.
+Piximedia n'utilise aucune donnée d'Integral Ad Science au niveau utilisateur, juste des scores de qualité agrégés.
+Integral Ad Science ne reçoit pas non plus de données de Piximedia au niveau utilisateur.
+Plus d'informations sur la politique de confidentialité Integral Ad Science peuvent être trouvés ici :
+-> Plus d'information information
+Google
+Les technologies Google, en particulier Google Analytics, sont utilisées par Piximedia pour analyser notre site Web public et notre plate-forme client.
+En dehors de cela, aucune technologie Google n'est utilisée pour la diffusion d'annonces (à l'exception du suivi optionnel au niveau annonceur, voir la section suivante).
+Plus d'informations sur la politique de confidentialité de Google peuvent être trouvées ici :
+-> Plus d'information
+Autres partenaires tiers
+Ainsi que toutes les plateformes publicitaires, Piximedia accepte le suivi externe de ses clients.
+Cela permet aux annonceurs et aux agences de suivre les campagnes au sein de leur propre plateforme.
+Bien que notre plate-forme soit ouverte, nous adhérons à une politique stricte consistant à n'accepter des éléments tiers que de fournisseurs bien connus tels que Google, Sizmek, Atlas, Smart Ad Server, etc.
+==========
+Piximedia partners with third party companies, with whom we setup data and information exchange for different goals.
+Some partner information are linked to your profile, some are used anonymously and not linked to your profile.
+Beeswax
+Beeswax provides connectivity to Piximedia in order to connect with some websites providing traffic in open exchanges.
+In order to improve campaign performances, anonymous information is provided to Beeswax under the form of pixels.
+A pixel is a 1x1 transparent image that conveys information from one system to another.
+==========
+This information does not contain any other data than segment lists used for targeting.
+In the other direction, Beeswax provides Piximedia with industry standard data such as your anonymised IP address, approximate location, browser, etc..
+A complete list of information that may be transfered can be found here:
+-> List of information
+More information about Beeswax privacy policy can be found here:
+-> More information
+Oracle Data Cloud
+Oracle Data Cloud, formerly known as Bluekai, is a data broker, whose mission is to connect providers of data with companies that need it for targeting.
+Piximedia works with Oracle Data Cloud on some campaigns to identify anonymous profiles that may be interested in a specific product or service, as for instance: shoe lovers, car enthusiast, travel buyers, etc..
+.
+==========
+More information about Oracle Data Cloud privacy policy can be found here:
+-> More information
+Integral Ad Science
+Integral Ad Science is a company specialized in advertising quality audits.
+They measure the quality of the environment, the viewability of advertisement, and return a quality score.
+Piximedia does not use any data from Integral Ad Science at the user level, we just retrieve aggregated quality scores.
+Integral Ad Science does not receive data from Piximedia at the user level.
+More information about Integral Ad Science privacy policy can be found here:
+-> More information
+Google
+Google technologies are used by Piximedia throughout it's platform and website, especially Google Analytics, which is used to monitor our public website and our client platform.
+==========
+Other than that, no Google technologies are used in relation to ad serving (except optional advertiser tracking, see next section).
+More information about Google privacy policy can be found here:
+-> More information
+Other third parties
+As with all advertising platforms, Piximedia accepts third parties external tracking from its clients.
+This allows advertisers and agencies to track basic metric within their own platform.
+Though our platform is opened, we adhere to a strict policy of only accepting third party element only from well known established vendors such as Google, Sizmek, Atlas, Smart Ad Server, etc..
+==========
+Différence entre "l'ad serving" et la place de marché
+Piximedia propose deux produits distincts :
+- Une place de marché, où nous proposons aux partenaires et aux annonceurs d'acheter et de vendre un inventaire publicitaire
+- L'ad serving, ou diffusion d'annonces, où nous fournissons une plate-forme pour héberger, diffuser et mesurer les performances des publicités, mais sans achat ni vente active de notre part
+Ce document décrit le processus de collecte de données lié à la place de marché.
+En ce qui concerne la diffusion d'annonces, toutes les sections relatives au profilage actif et au ciblage ne sont pas applicables.
+Pour créer des profils
+Les données collectées au niveau individuel (données de profil utilisateur) sont entièrement anonymisées, ce qui rend impossible le retour aux données d'origine, puis agrégées en profils standard, tels que le sexe / l'âge ou les intérêts / loisirs.
+Ces profils sont ensuite utilisés sur toute la plateforme Piximedia.
+Pour l'analyse de performance prédictive
+Nos annonceurs veulent atteindre un public engagé et attiré par leurs produits et services.
+Pour ce faire, la plate-forme Piximedia utilise un processus appelé "ciblage par ressemblance".
+Les profils anonymes collectés dans la section précédente sont utilisés pour détecter lequel répond positivement au message de l'annonceur.
+Une fois les meilleurs profils sélectionnés, ils sont appliqués aux utilisateurs individuels qui partagent les mêmes caractéristiques que le profil générique.
+Cela permet au système de sélectionner les utilisateurs les plus engagés parmi la population générale.
+Veuillez noter que vos données individuelles ne sont jamais directement liées à un profil d'utilisateur.
+Pour re-cibler
+Le re-ciblage est un processus qui permet à une marque d'afficher une publicité si vous avez fait une certaine action sur son site.
+À titre d'exemple, vous pouvez être re-ciblé par une marque de voiture si vous avez visité le site du fabricant et configuré un véhicule.
+Il est également possible d'adapter le contenu du message livré en fonction de l'historique de navigation.
+Si vous avez configuré un SUV, vous obtiendrez une création affichant un véhicule tout terrain, si vous avez configuré un deux roue, la création affichera un scooter, par exemple.
+Les deux méthodes sont basées sur des pixels 1x1: lorsque vous effectuez une certaine action, un pixel Piximedia correspondant est appelé par l'annonceur, et ce pixel indique à la plate-forme Piximedia d'afficher un certain message.
+Pour l'analyse des campagnes et les rapports
+Piximedia fournit des statistiques de campagne standard, telles que les impressions (combien de fois une annonce a été diffusée), les clics, les visites sur le site de l'annonceur, la visibilité, etc.
+Ces statistiques permettent à l'annonceur d'analyser les performances de la campagne en répondant à des questions telles que :
+- Quel site Web fonctionne le mieux
+- Combien de temps les utilisateurs passent sur mon site après un clic
+- Quel message créatif crée le meilleur engagement
+- Quel groupe d'utilisateurs est le plus intéressé par mes produits
+Les données de rapport sont agrégées et ne contiennent pas d'informations au niveau de l'utilisateur.
+==========
+Difference between ad serving and Marketplace
+Piximedia has two separate products:
+- Marketplace, where we propose partners and advertisers buying and selling advertising inventory
+- Ad serving, where we provide a platform to host, broadcast and measure advertisements performances, but with no active buying and selling from our part
+This document describes the data collection process related to the Marketplace.
+As for ad serving, all sections relative to active profiling, look-alike, and retargeting are not applicable.
+For profiling
+The data gathered at an individual level (user profile data) is fully anonymised, in a way that makes it impossible to get back to the original data, and then aggregated into standard profiles, such as gender / age, or interests / hobbies.
+These profiles are then used throughout the Piximedia platform.
+For predictive performance analysis
+Our advertisers want to reach an audience that is engaged and attracted to their product and services.
+To do that, Piximedia's platform uses a process called "look-alike targeting".
+==========
+The anonymous profiles explained in the previous section are used to detect which one responds positively to the advertiser's message.
+Once the best profiles are selected, they are applied back to individual users that share the same traits as the generic profile.
+This allows the system to select the the most engaged users among the general population.
+Please note that your individual data is never directly linked to a user profile.
+==========
+For retargeting and re-messaging
+Retargeting is a process which allows a brand to display advertisement if you have made a certain action on it's site.
+As a example, you may be retargeted by a car brand if you have been to the manufacturer's site and configured a vehicle.
+Re-messaging is almost the same thing, but with creative.
+If you have configured an SUV, then you will get a creative displaying an offroad vehicle, if you have configured a motorcycle, then the creative will switch to a scooter.
+==========
+Both methods are based on 1x1 pixels: when you do a certain action, a corresponding Piximedia pixel is called by the advertiser, and this pixel instructs the Piximedia platform to display a certain message.
+For campaign analysis and reporting
+Piximedia provides industry-standard campaign metrics such as impressions (how many time an ad has been displayed), clicks, visits on the advertiser's site, viewability, etc..
+These metrics let the advertiser analyse the performance of the campaign by answering questions like :
+- Which website performs best
+- How much time users spend on my site after click
+- Which creative message creates the best engagement
+- Which user group is more interested in my products
+Report data is aggregated and does not contain user level information.
+==========
+Stockage et sécurité
+Toutes les données gérées par Piximedia sont stockées dans l'Union européenne (Irlande et France).
+Tous les transferts de données, internes ou externes, sont sécurisés à l'aide de technologies de cryptage de pointe.
+Évidemment, tous les accès aux données sont sécurisés par des login sécurisés, et nous avons défini différents niveaux d'accès:
+- La plateforme Piximedia, utilisée pour accéder aux rapports agrégés (c'est-à-dire au niveau de la campagne), n'est accessible que via une connexion sécurisée.
+- Le back-office est uniquement disponible pour le personnel informatique, soit via des clés SSH à jour, soit via l'authentification à deux facteurs.
+- Les bases de données contenant les journaux d'événements sont uniquement accessibles aux développeurs de rapports.
+- La base de données contenant les profils utilisateur n'est accessible à personne chez Piximedia, y compris l'administrateur principal, si l'identifiant de l'utilisateur n'est pas connu de l'administrateur.
+Comme l'ID utilisateur est une chaîne aléatoire de 128 bits, cela signifie que seul l'utilisateur final peut accéder à ses propres données.
+Cycle de vie des données
+Vos données sont stockées dans nos serveurs et purgées régulièrement.
+La fréquence de la purge dépend des données :
+- Les profils d'utilisateurs anonymes sont supprimés après six mois
+- Les données de navigation sont supprimées simultanément, car elles sont jointes aux profils utilisateur
+- Les journaux d'événements sont supprimés après deux ans
+Storage and security
+All data managed by Piximedia is stored within the European Union (Ireland and France).
+All data transfer, from you to Piximedia, as well as within Piximedia, are secured using state of the art encryption technologies.
+==========
+Obviously all data access is restricted by login, and we have set different level of access :
+- Piximedia platform, used to access aggregated reports (ie.
+campaign level) are only accessible through a secure login.
+- The back-office, is only available to IT staff, either through up to date SSH keys, or two-factor authentication.
+==========
+- The databases containing Event Logs are only accessible to individual report developers.
+- The database containing the user profiles are not accessible by anyone within Piximedia, including the master administrator, if the user id is not known to the admin.
+As the user ID is a random 128 bit string, it means only the end user can access his or her own data.
+==========
+Data life cycle
+Your data is stored within our servers, and purged on a regular basis.
+The frequency of the purge depends on the data:
+- Anonymous user profiles are deleted after six month
+- Navigation data is deleted simultaneously, as they are attached to user profiles
+- Event logs are deleted after two years
+Piximedia stocke vos données en utilisant l'identifiant de l'utilisateur comme une clé et la vie privée de l'utilisateur est intégrée profondément dans notre plate-forme.
+Cela signifie que ce lien ne concerne que votre profil actuel; Si vous avez supprimé vos cookies et que vous recherchez un profil précédent, nous n'avons aucun moyen de récupérer vos informations, car seul votre identifiant est connu.
+Suivant le même principe, nous ne pouvons pas vous donner d'informations par mail, car nous avons besoin de votre identifiant pour récupérer des données, et vous l'avez seulement dans votre navigateur.
+Si vous souhaitez supprimer votre profil, vous pouvez supprimer votre cookie de profil Piximedia en cliquant ici :
+Pour toutes autres demandes, veuillez consulter la section suivante.
+==========
+Piximedia stores your data using the user-id as a key and the user's privacy is built deep into our platform.
+This means this link is for your current profile only ; if you have deleted your cookies, and are looking for a previous profile, we have no way of retrieving your information, as only you know your ID.
+On the same note, we cannot give you information by mail, or any other way, as we need your user-id to retrieve data, and only you have it in your browser.
+==========
+If you wish to delete your profile, you can delete your Piximedia profile cookie by clicking here :
+For all other inquiries, please see the next section.
+Vous pouvez vous désinscrire de toutes les données de profil de Piximedia en cliquant ici :
+Cela va définir un cookie spécial sur votre navigateur qui nous empêchera de collecter des données comportementales.
+Veuillez noter que si vous supprimez ce cookie, utilisez un autre navigateur et / ou appareil (téléphone portable, tablette, etc.), vous devrez répéter cette étape, car les cookies ne sont pas partagés entre les appareils et les navigateurs.
+En outre, les plates-formes à l'échelle de l'industrie vous permettront de vous retirer de toute publicité ciblée à la fois pour un large éventail d'entreprises, y compris les sociétés avec lesquelles Piximedia partage des données.
+Vous pouvez vous désabonner globalement ici :
+- NAI (US)
+- About Ads (US)
+- Your Online Choices (EU)
+You can opt-out from all Piximedia profile data collection by clicking here:
+This will set a special cookie from Piximedia on your browser that will keep you as opted out of behavioral data collection.
+Please note that if you delete this cookie, of use another browser and / or device (mobile phone, tablet, etc..)
+, you will have to repeat this step, as cookies are not shared between devices and browsers.
+Additionally, industry-wide platforms will let you opt-out of all targeted advertising at once for a wide array of companies, including companies Piximedia shares data with.
+==========
+You can unsubscribe globally here:
+- NAI (US)
+- About Ads (US)
+- Your Online Choices (EU)
+Pour toutes questions concernant :
+- La vie privée
+- Les données de Piximedia
+- Ce document
+- Demandes d'informations
+Vous pouvez envoyer un mail à privacy@piximedia.com avec tous les détails nécessaires.
+Notre délégué à la protection des données, M. Christopher Allene, traitera votre demande.
+Si vous avez besoin d'informations plus générales sur la gestion de votre vie privée en ligne, veuillez vous rendre sur le site officiel du régulateur :
+https://www.cnil.fr/
+For all questions about :
+- Privacy
+- Piximedia data
+- This document
+- Information requests
+Please send a mail to privacy@piximedia.com with all the relevant details.
+Our data protection officer, Mr Christopher Allene, will handle your request.
+Should you need more general information about managing your online privacy, please go to the official regulator website:
+https://www.cnil.fr/
+==========

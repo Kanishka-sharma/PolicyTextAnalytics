@@ -1,0 +1,151 @@
+If a valid master agreement exists between you and Qualtrics, those terms take precedence over these Terms.
+See Section 13.1 for further details.
+Qualtrics Terms of Service These Terms may be updated from time to time as explained in Section 13.4.
+We encourage you to refer to these Terms regularly to ensure your compliance.
+They can be found at www.qualtrics.com/terms-of-service.
+1.
+Acceptance of Terms
+Please read these Terms of Service (“Terms”) carefully before using www.qualtrics.com (the “Website”) or the products or services offered by Qualtrics (the “Services”).
+Terms take effect when you click an “I Accept” button or check box presented with these Terms or, if earlier, when you use any of the Services or Website.
+==========
+You represent to us that you are lawfully able to enter into contracts (e.g., you are not a minor).
+If you are agreeing to these Terms for an entity, such as the entity you work for, you represent to us that you have legal authority to bind that entity.
+For purposes of these Terms, “you” means you and the entity you represent and also refers to any person accessing the Services by any method on your behalf.
+2.
+==========
+Description of Qualtrics Services
+2.1Qualtrics, LLC (“we” or “us”) provides two types of Services:
+“Subscription Services”, which are the series of proprietary computer software programs developed by us as delivered to you that facilitate and automate the process of conducting surveys, polls, intercepts, and reports (“Software”), products and related systems, security, updates and improvements thereto and support services accessed by you using a web browser and the Internet under an Application Service Provider (ASP) model.
+Subscription Services are specified in a service order (“Service Order”) and are purchased on an annual or multi-year basis as set forth in a Service Order;
+“Professional Services”, which are Services other than Subscription Services that we perform and/or provide, including the development and/or delivery of certain deliverables (“Deliverables”) specified in a statement of work (“SOW”), which SOW may contain additional terms therein.
+Professional Services are purchased on a project basis.
+==========
+2.2For purposes of these Terms, data includes all survey responses, reports, and any other information input or generated on behalf of you in connection with the Services (“Data”).
+2.3Subject to your compliance with these Terms and your payment of any applicable fees, Qualtrics grants you a non-exclusive, non-transferable, royalty-free, revocable license to use the Services for your own internal business purposes.
+2.4Qualtrics may make modifications to the Services at any time, as it deems appropriate, and in its sole discretion.
+3.
+==========
+Fees
+3.1During the Term, you will pay us those certain fees and charges specified on the applicable Service Order or SOW.
+You are responsible for all applicable taxes on the fees and charges paid by you, including, without limitation, any and all sales, use, and value-added taxes but not any taxes imposed on Qualtrics’ income.
+3.2You are responsible for paying the fees for exceeding the limits on responses or users or otherwise on your account.
+4.
+==========
+Your Data
+4.1You own all right, title and interest in all Data.
+Except as provided in Section 4.2 below, (a) all such Data are deemed Confidential Information (defined below), and (b) will not be utilized by Qualtrics for any purpose other than to perform its obligations under these Terms.
+You represent, warrant, and covenant that you have and you will obtain all consents necessary for using and processing the Data in accordance with these Terms.
+==========
+4.2You hereby grant to Qualtrics a non-exclusive, worldwide, royalty-free, fully paid up, sublicensable (directly and indirectly), transferrable, perpetual and irrevocable license to (a) anonymize and/or aggregate the Data and use such anonymized and/or aggregated data (“Usage Data”) for our business purposes, including but not limited to deriving statistical, usage data, and other data related to the functionality of the Services, improving the Services, developing and making available other products and services, and sharing such data with our affiliates and business partners, and (b) combine or incorporate such Usage Data with or into other data and information available, derived or obtained from other licensees, users, and/or any other sources (when so combined or incorporated, such data referred to as “Combined Data”).
+We shall own all right, title and interest in Usage Data and Combined Data.
+For the avoidance of doubt, Usage Data and Combined Data shall not be considered Confidential Information.
+5.
+==========
+Use of the Services
+5.1The Services are designed to be used by you using a modern web browser, operating system, and an Internet connection.
+5.2You are responsible for controlling access to your account, including creating a strong password, protecting that password, and preventing unauthorized account usage or users.
+5.3You are responsible for creating backups of your Data.
+==========
+5.4If using the Services to email third parties, you are responsible to ensure that the third parties have opted in to, or otherwise validly consented to, receiving communications from you.
+5.5Some of our Services may become subject to additional terms specific to that service as set forth in our Service-Specific Terms, which are incorporated herein.
+6.
+==========
+Unacceptable Usage
+6.1You are solely responsible for all Data, and are liable for your Data and the manner in which you collect or distribute your Data to third parties.
+We reserve the right to remove any Data from our Service that we determine is in violation of these Terms.
+6.2We may suspend your account at any time without notice for conduct that violates these Terms.
+Additionally, if you violate these Terms, you may be subject to legal liability and prosecution.
+6.3The following is a non-exhaustive list of content and use of the Services that are unacceptable and a violation of these Terms:
+Use of the Services that violates applicable law;
+Reverse engineer or tamper with the security of the Services;
+Resell the Services or permit third parties to use the Services without our prior written consent;
+Make unauthorized copies of any content in the Services;
+Except for legal and valid research purposes, upload Data that contains or contains links to nudity, pornography, adult content, sex, profanity, or foul language;
+Collect sensitive personal information;
+Upload, send or store malicious software or Data that condones, promotes, contains, or links to warez, cracks, hacks, their associated utilities, or other piracy related information, whether for educational purposes or not;
+Upload Data that infringes any copyrights, trademarks, patents, trade secrets or other intellectual property;
+Upload Data that is racist or otherwise extremely offensive to others, including content that aggravates, harasses, threatens, defames or abuses others;
+Upload or display Data that exploits images of children under 18 years of age;
+Upload binary files or executable code;
+Perform vulnerability tests, network scans, penetration tests, or other investigative techniques on our software or Services.
+6.4You must comply with all applicable laws, rules, regulations and/ or guidelines including those governing privacy, data protection and spam.
+==========
+Spam includes, without limitation, unsolicited mass e-mail or other messages, promotions, advertising, or solicitations.
+You agree not to send email messages to any person that has opted out or otherwise objected to receiving messages from you or another sender on whose behalf you may be acting.
+In plain words, you agree not to send spam.
+6.5If your use of the Services requires you to comply with specific regulations, you are solely responsible for such compliance, unless we agree otherwise.
+You may not use the Services in a way that would subject us to those specific regulations without our prior written agreement.
+==========
+6.6You may not make the Service available to, or use the Service for the benefit of, anyone other than you or your users.
+User accounts cannot be shared by multiple individuals, and each individual should have their own user account to use the Services.
+User means your employees or other personnel who have been issued an individual password or other secured means of accessing the Services.
+7.
+==========
+Qualtrics Software
+7.1We own all right, title and interest in and to the Services as delivered, all related Software and technology, and all of our content provided in connection with the Services, including all intellectual property rights in the foregoing.
+Nothing contained on this Website should be construed as granting any license or right to use any trademark without our prior written permission.
+7.2We and our licensors exclusively own all right, title, and interest in and to the Services, and any Services-related suggestions, ideas, enhancements, requests, feedback, and recommendations provided by you to us during your use of the Services.
+==========
+7.3We reserve the right to include traffic generated by all websites we host in our overall accounting of page views, unique users, and other usage measures.
+This includes providing web traffic measurement companies with all URLs hosted by us for use in our projection of our overall traffic.
+8.
+==========
+Confidential Information
+“Confidential Information” includes these Terms, SOWs, Service Orders, other agreements between you and us, business and marketing plans and strategies, non-public business and technology information, trade secrets, Data, any written materials marked as confidential and any other information, including visual and oral information, which reasonably should be understood to be confidential.
+Each of you and us will use commercially reasonable efforts, including appropriate technology and industry practices, to ensure the confidentiality, integrity and security of all Confidential Information.
+We maintain a comprehensive privacy policy at www.qualtrics.com/privacy-statement.
+The above confidentiality obligations do not apply to information that you or we, as a recipient of such information from the other party, can document and prove: (i) was rightfully in such recipient’s possession or known to such recipient prior to receipt of such information; (ii) is or has become public knowledge through no fault of the recipient; (iii) is rightfully obtained by the recipient from a third party without breach of any confidentiality obligation; (iv) is independently developed by employees of the recipient who had no access to such information; or (v) is required to be disclosed pursuant to a regulation, law or court order (but only to the minimum extent required to comply with such regulation or order and, if permitted by applicable law, with advance notice to the recipient).
+9.
+==========
+Indemnification
+To the extent allowed by law, you agree to indemnify and hold us, and if applicable, our licensors, subsidiaries, affiliates, officers, directors, and employees harmless against any and all claims and expenses, including reasonable attorneys’ fees, arising from the use of the Services.
+This indemnification expressly includes your responsibility for any and all liability arising from the violation or infringement of copyrights, trademarks or other proprietary rights and from the use of any libelous or unlawful material contained within your Data.
+10.
+==========
+Termination
+10.1We reserve the right to suspend or terminate your use of the Website and the Services at any time, without notice, if you are found in violation of these Terms.
+10.2Following any termination, Qualtrics will discontinue providing Services, and you will cease using Services.
+Within thirty (30) days after the end of the Term or termination of this Agreement you will pay to Qualtrics all outstanding undisputed fees due and owing as of the effective date of termination.
+11.
+==========
+Limitations of Warranties
+WE MAKE NO REPRESENTATION, WARRANTY, OR GUARANTY AS TO THE RELIABILITY, ACCURACY, OR COMPLETENESS OF THE WEBSITE, SOFTWARE OR SERVICES.
+WE DO NOT REPRESENT OR WARRANT THAT: (A) YOUR USE OF THE SERVICES SHALL BE TIMELY, UNINTERRUPTED, OR ERROR-FREE, OR OPERATE IN COMBINATION WITH ANY OTHER HARDWARE, SOFTWARE, SYSTEMS, OR DATA; (B) THE SERVICES WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS; OR (C) ALL NON-CONFORMITIES CAN BE OR WILL BE CORRECTED.
+ALL SERVICES PROVIDED BY US HEREUNDER ARE STRICTLY ON AN “AS IS” BASIS.
+EXCEPT TO THE EXTENT PROHIBITED BY LAW, WE EXPRESSLY DISCLAIM ALL REPRESENTATIONS OR WARRANTIES, CONDITIONS AND REPRESENTATIONS, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, AND MERCHANTABILITY.
+WE DO NOT MAKE ANY WARRANTIES, REPRESENTATIONS OR CONDITIONS WITH RESPECT TO ANY THIRD PARTY CONTENT, EXPRESS OR IMPLIED.
+==========
+12.
+Limitation of Liability
+WE DISCLAIM ANY LIABILITY FOR DAMAGES CAUSED BY OUR SERVICES OR THE CONTENTS OF THIS WEBSITE, UNLESS DUE SOLELY TO OUR INTENTIONAL WRONGDOING.
+OUR AGGREGATE LIABILITY FOR ANY CLAIM OR DAMAGE ARISING OUT OF OR RELATED TO THE SERVICES OR WEBSITE IS LIMITED TO YOUR DIRECT DAMAGES AND SHALL NOT EXCEED THE FEES YOU HAVE PAID US IN THE TWELVE (12) MONTH PERIOD IMMEDIATELY PRECEDING THE EVENT GIVING RISE TO SUCH CLAIM.
+IN NO EVENT SHALL WE BE LIABLE FOR LOST PROFITS, LOST DATA, INTERRUPTIONS OF BUSINESS, OR ANY SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THIS WEBSITE OR THE SERVICES, REGARDLESS OF WHETHER WE HAVE NOTICE OF THE POTENTIAL FOR SUCH LOSS OR DAMAGE.
+13.
+==========
+Other Terms
+13.1Entire Agreement: These Terms and any other relevant terms in an SOW or Service Order constitute the entire agreement and understanding between you and us.
+If there is a conflict or contradiction between the provisions of these Terms and any other agreement, the relevant section of the agreement shall prevail in the following order: (1) SOW, (2) Service Order, and (3) these Terms.
+Any other terms, conditions, or policies from any other agreements, such as purchase orders, written communications, or oral communications, are null and void.
+If you are purchasing a service whose terms are further defined in Service-Specific Terms, those terms, along with these Terms, are controlling.
+13.2 Assignment: You are not permitted to sublicense the Services to third parties without our prior written permission.
+13.3Choice of Law and Forum: These Terms will be governed by the laws of the State of Delaware and the United States without regard to conflicts of laws provisions thereof, and without regard to the United Nations Convention on the International Sale of Goods or the Uniform Computer Information Transactions Act (UCITA).
+The exclusive jurisdiction and venue for actions related to the subject matter hereof shall be the Utah state, and United States federal, courts located in Salt Lake City, Utah, and both parties irrevocably consent to personal jurisdiction of such courts and waive all objections thereto.
+==========
+13.4Modifications to this Agreement: We may modify these Terms at any time by posting a revised version on this website or by sending a message to the email address associated with your account.
+The modified terms will become effective upon posting or, if we notify you by email, as stated in the email message.
+By continuing to use the Services after the effective date of any modifications to this Agreement, you agree to be bound by the modified terms.
+It is your responsibility to check this website regularly for modifications to these Terms.
+We last modified the Terms on the date listed at the end of these Terms.
+==========
+13.5Severability: In the event that any one or more of these provisions should be held invalid, illegal or unenforceable, such provisions will be modified, if possible, to the minimum extent necessary to make them valid and enforceable, or if they cannot be so modified, then severed, and the remaining provisions contained herein will not in any way be affected or impaired.
+13.6Waiver: Our failure to enforce strict performance of any provision of these Terms does not constitute a waiver of the right to subsequently enforce such provision.
+13.7Third Party Beneficiaries: These Terms create no rights for third party beneficiaries.
+13.8Export Regulations: You must comply with all export and re-export restrictions and regulations of the Department of Commerce and other United States agencies and authorities that may apply to the Services.
+==========
+13.9Disputes: You and we agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action.
+You and we each waive any right to a jury trial.
+If you are a United States federal government agency, your use of the Services is subject to this amendment.
+Revised August 21, 2017
+* * * * *
+If you have any question regarding these terms, please click here.
+==========

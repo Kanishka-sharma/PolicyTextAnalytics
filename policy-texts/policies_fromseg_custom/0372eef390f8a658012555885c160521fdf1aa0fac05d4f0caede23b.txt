@@ -1,0 +1,388 @@
+1.
+Overview
+Captify is committed to ensuring that your privacy is protected.
+This Notice sets out how Captify uses and protects personal information that we:
+process through our Search Intelligence engine (the “Core Service”);
+collect about you through your use of Captify websites; and
+collect about current or prospective Captify business partners.
+Any personal information we collect will be used in accordance with all applicable laws and this Notice.
+Captify may change this Notice at any time by updating this page.
+You should check this page from time to time to ensure that you are up to date with any changes.
+2.
+Which parts of this Notice apply specifically to you?
+Captify seeks to comply with all applicable laws governing data privacy and security.
+==========
+We have tried to ensure that this Notice takes into account different rights depending on where individuals are located or reside, as follows:
+If you are located in the EU, the UK, other countries of the European Economic Area
+(“EEA”) or Switzerland, please see Section 10 “Additional Information for Individuals in
+Europe.”
+If you are a California resident, please see Section 11 “Additional Information for California Residents.”
+If you are a Nevada resident, please see Section 12 “Additional Information for Nevada Residents.”
+This Notice is aimed at individuals for whom we serve targeted advertising through our Core Service (i.e. an “End User”).
+If you are not an End User, you may find the following sections of this Notice more relevant to you:
+If you are a website user, please see Section 9 “Information Collected Automatically from Captify Websites.”
+==========
+If you are a current or prospective Captify business partner (e.g. a supplier or potential supplier, or a client or potential client) please see Section 13 “Business Contacts Data.”
+If you are an employee or other staff member working at any Captify group company, then this Notice does not apply to data you provide in that context.
+A different Privacy Notice which sets out what employee and staff data we process, why and how, is available from Captify’s People Team.
+If you are a candidate applying for any type of position with us in the EU/UK, please review the Recruitment Privacy Notice for candidates available here.
+3.
+Who is Captify?
+Captify is the largest independent holder of search data outside of Google, connecting the real-time searches of over 2bn people globally.
+==========
+Our Search Intelligence engine powers programmatic advertising and insights to display adverts that are more relevant to you (this is our Core Service).
+Our aim is to enhance your online advertising experience and serve our advertising clients by showing you adverts for products we think you might like based on your preferences or interests.
+For more information about how we serve these adverts, please see Section 4 “How does Captify’s Core Service work?”
+4.
+How does Captify’s Core Service work?
+==========
+By way of a practical example, you may want to buy a plane ticket for an upcoming trip to New York City.
+As such, you browse a travel website which has partnered with Captify (we call websites like these a “Publisher Partner“).
+Later that day, Captify may serve you an advertisement related to what you have searched for (such as an airline sale, or perhaps even a new suitcase).
+You would have always seen an advert on the website you were visiting, but Captify ensures that the advert you are served is relevant to you.
+Generally, for this to work, Captify either reads a cookie that’s already in your browser or places a cookie in your browser when you visit the travel website (assuming your browser lets this happen).
+==========
+When you visit another website (which may have nothing to do with travel) you may then see the advert for the new suitcase.
+This is because your browser sends Captify your cookie ID and, in turn, we may use that cookie to serve you an advert that could encourage you to buy that new suitcase.
+Though this all sounds very personal (and of course we want it to feel personal) we actually have no way of personally identifying you – all we know is your device’s cookie ID.
+It’s important to note that you will also be one of a much larger selection of people who are likely to see the same advert because they have shown a similar interest in purchasing a plane ticket (we call a group of people like this an “audience“).
+All we know is that your ID (which is based on your device’s cookie) falls within that audience.
+Please note that the example given here is for demonstration purposes only and is a simplified illustration of how our technology works.
+This example does not reflect how adverts are shown to you in every scenario, and in some circumstances, there are additional parties involved in the serving of advertisements.
+==========
+If you have any concerns about this, please do contact us using the information provided at Section 20 below.
+But what are cookies?
+Cookies are small text files stored on a user’s device for record-keeping purposes.
+There are two main types of cookies, persistent cookies and session cookies:
+Persistent cookies are used to run our technology as they enable us to track and target web users’ interests.
+Persistent cookies remain on your device for an extended period of time.
+You can remove cookies by following the directions provided in Section 18.
+Session cookies are used to make it easier for you to navigate our websites, and usually last a much shorter time than persistent cookies.
+Cookies can also be either ‘first-party’ or ‘third-party’.
+A first-party cookie is created and stored by the website you are visiting directly.
+It allows website owners to collect customer analytics data, remember language settings, and carry out other useful functions that help provide a good user experience.
+Third-party cookies are created by domains other than the one you are visiting directly, hence the name third-party.
+They are used for cross-site tracking, measurement, retargeting and ad-serving.
+==========
+Pixels (also known as web beacons) consist of code embedded in a website, video, email, or advertisement that sends information about your use to a server.
+There are various types of pixels, including image pixels (which are small graphic images) and JavaScript pixels (which contains JavaScript code).
+When you access a website, video, email, or advertisement that contains a pixel, the pixel may permit us or another entity to drop or read cookies on your browser.
+Pixels are used in combination with cookies to recognise activity by a particular browser on a particular device.
+We may incorporate pixels from other entities e.g. to assist us with measuring views or conversions.
+==========
+The Publisher Partners that work with us may use our technologies to place cookies on your device (or use similar identification methods).
+This is so that our Core Service platform can recognise that Captify has a personalised advertisement available for your device.
+Advertisers or agencies that work with us may also use pixels and cookies within their advertisements.
+We do not control these advertisements or their content and when interacting with such ads you should check any information provided by the relevant web publisher or advertiser regarding their use of personal information.
+==========
+You can find out more background information about cookies here.
+To manage cookies from Captify, please see Section 18 below.
+Does Captify have to rely on cookies?
+Although the online advertising industry is currently heavily reliant on the use of third-party cookies, this is being phased out in favour of more privacy-centric methods of advertising.
+==========
+As a privacy-first company, we are not only prepared for this change, but we believe that a future without the third-party cookie means that we as an industry will be better placed to deliver solutions that have you (the End User) and your privacy at the centre of our Core Service.
+Although we currently use third-party cookies when we serve the majority of our campaigns, it is possible for us to serve campaigns in a way where we do not use third-party cookies at all.
+This is because Captify has server to server integrations with third parties who collect their data via first-party cookies and/or logged in (authenticated) users.
+If you would like to hear more about our cookieless offering (and how this affects you), please do contact us using the details provided in Section 20.
+5.
+==========
+How does Captify collect personal information?
+In respect of our Core Service, Captify only collects personal information from trusted partners, and not from public sources or direct from users.
+The categories of sources from which we collect information, including in the last 12 months, include:
+Publisher Partners that operate independent websites that utilise Captify technologies and services.
+Data Partners that obtain and commercialise data from different sources.
+==========
+Advertisers and Advertising Agencies that provide advertisements for digital platforms.
+Data Management Platforms that provide information about content classification and user profile information.
+In the past 12 months, we have collected the following categories of personal information:
+Identifiers, including partial IP addresses and online identifiers.
+Demographics, such as your age range or gender.
+==========
+Commercial information, including purchases and engagement with a Publisher Partner’s website.
+Internet activity, including your interactions with a Publisher Partner’s website.
+Geolocation data, including location-enabled services such as Wi-Fi.
+Inferences, including inferred trends, behaviours, preferences, attitudes and sentiment based on collected data.
+==========
+We also offer voice search and navigation to our Publisher Partners, so in certain circumstances we may also collect transcriptions of voice searches made on Publisher Partner websites.
+Note that although our service does collect voice recordings, only the transcription itself is stored in Captify servers.
+In connection with our Core Service, we do not collect or process any personal information that would allow us to personally identify you (such as your name, address, date of birth or email address).
+6.
+How does Captify use personal information?
+We use this information for business and commercial purposes in accordance with this Notice, including in the last 12 months, for the following purposes:
+Displaying ads to you that may be more relevant to your interests or preferences, based on our interpretation of the personal information that we collect.
+==========
+Monitoring and analysing trends, usage, and activities.
+Providing information to our clients and partners about the performance of their advertising campaigns and websites, and improving performance over time.
+Detecting fraud to help alert us to situations which could not have been caused by human behaviour, such as a massive amount of clicking in a limited period of time.
+==========
+Outside of our Core Service, Captify also uses personal information for the general purposes of managing our business including the following:
+Creating and sending marketing and press or PR materials, including advertisements and communications, about ours and third-party products, offers, promotions, and services.
+Managing and improving our marketing efforts, products, services and websites.
+Responding to comments, questions, and requests, and providing client service.
+Sending technical notices, updates, security alerts, information regarding changes to our policies, and support and administrative messages.
+7.
+==========
+Does Captify use sensitive information?
+Captify will never serve you advertisements based on special categories of data (“SCPD”).
+SCPD includes ‘sensitive’ information, such as information relating to your race, religion, health, political opinions or sex life.
+==========
+We run any personal information that we collect from our third-party sources (as described in Section 5) through a ‘GDPR Classifier’.
+This GDPR Classifier removes the whole search made by that user from our servers (which includes both the SCPD, but any other information that was contained within that search).
+As such, the only information that is retained by Captify is a ‘log’ of the number of searches that have been erased in each of our markets.
+==========
+We believe that it is necessary to process SCPD in this way to ensure that we are not carrying out any further processing of or building any profiles based on sensitive information.
+Please note that if you search for terms related to SCPD, then it is possible that this information could be ingested into our Core Service dataset (we call this “Inferred SCPD”).
+To combat this, we ensure that we do not serve any adverts that are based on Inferred SCPD.
+In the USA (to the extent permitted by applicable laws) we may process certain categories of “non-sensitive” health data and political data, as further described in Section 11.
+8.
+==========
+How does Captify share your information?
+The categories of entities to whom we disclose information for business purposes, including in the last 12 months, includes:
+Processors/Service Providers.
+We work with reputable external data processors or service providers, to which we provide certain data which may include personal information, and who provide us with services such as hosting, storage, analytics and audience measurement, content creation, fraud detection etc.
+We also work with other organisations that provide general business services and advice that may require access to personal information, e.g. accounting, legal, insurance or financial services providers.
+Our processors or service providers work under data processing agreements that require them only to carry out the processing on our instructions and for no other purpose.
+==========
+Vendors.
+We also share information with vendors, who may be independent data controllers.
+These vendors may set and/or access cookies or other data collection technologies which collect information about visits to websites, mobile websites and/or mobile applications across your various devices, in order to enable our and their advertising clients to provide content and advertisements about goods and services of interest to you.
+If you would like more information about this practice and your choices with respect to it, please refer to the relevant third parties’ privacy policies and to Section 18 below on How to Manage Cookies and Other Technologies.
+A list of our vendors can be provided on request.
+Merger or Acquisition.
+We would share information in connection with, or during negotiations of, any proposed or actual merger, purchase, sale or any other type of acquisition or business combination of all or any portion of our assets, or transfer of all or a portion of our business to another business.
+==========
+Security and Compelled Disclosure.
+We share information to comply with the law or other legal or regulatory process, and in response to requests by public authorities, including to meet national security or law enforcement requirements.
+We may also share information to protect the rights, property, life, health, security and safety of our staff, websites or services, or others.
+If any court, authority, police force or regulator requests data from us, we normally comply with such request without having to notify you or other users.
+9.
+==========
+Information collected automatically from Captify websites
+We collect information automatically when you use Captify’s websites (e.g. at Captify.co.uk, Captify.us or any other subpages or domains that we may use from time to time).
+For example, we use cookies, pixels, and other tracking technologies to improve our site and services.
+The most recent list of cookies and similar technologies used on our websites are set out in our Cookie Notice.
+The following are the categories of information that we collect and have collected automatically on the Captify websites in the last 12 months:
+Service Use Data, including data about site activities, pages you visit, digital advertisement interaction information, search history, and inferences such as inferred trends, behaviours, preferences, attitudes and sentiment based on collected data.
+Device Data, including data about the type of device or browser you use, device identifiers such as IP address and unique personal or online identifiers such as cookies and pixels.
+==========
+For more information with respect to cookies, pixels, and managing your rights, please refer to Section 4 “How does Captify’s Core Service work?”
+and Section 18 “Managing Cookies and Other Technologies.”
+With respect to the Google audience measurement tools used on Captify’s websites, Google enables you to opt-out of the use of certain information collected by Google Analytics at tools.google.com/dlpage/gaoptout and by Google Analytics for Display Advertising or the Google Display Network at google.com/settings/ads.com.
+10.
+==========
+Additional information for individuals in Europe
+This additional information applies only to individuals located in the European Economic Area, the United Kingdom or Switzerland (or whose personal information was collected while they were there).
+Data Protection Rights
+In accordance with the EU’s GDPR and equivalent UK legislation, you have rights in relation to personal information that we process about you.
+This includes the right to:
+access, correct, update or request deletion of your personal information; and
+object to the processing of your personal information, ask us to restrict processing of your personal information or request portability of your personal information.
+==========
+If you are an End User, please see our dedicated Data Subject Request page.
+If you are a current or former employee or other staff member working at any Captify group company, then please submit your request in writing to privacy@captify.co.uk, or a member of the Captify People Team.
+If you are a current or prospective Captify business partner (e.g. a supplier or a client), then please submit your request in writing to privacy@captify.co.uk, or speak to your regular Captify point of contact.
+==========
+Where we are processing your personal information, the main method of meeting the requirement for erasure is by deleting all personally identifying elements so that the personal information cannot be traced back to you or any other identifiable person (sometimes called “de-identifying”).
+Where we process any personal information based on consent that you have given in the past, you can withdraw your consent at any time (though the processing that took place before withdrawal will still be legal).
+The main ways to do this are (1) to manage online choices as set out in Section 18 below; or (2) by contacting the Publisher Partner sites where you have previously given your consent.
+Please note that for some ways you interact with Captify (for example, when you are an End User), we may only be able to offer you the opportunity to (1) access your personal information; or (2) delete your information.
+This is because Captify does not process contact data such as names or emails and so, while we will always investigate any request thoroughly, we are not able to offer you a platform where you can update, correct, restrict processing or request portability.
+==========
+We are always available through the contacts in Section 20 to help resolve any issues or doubts you may have in relation to processing of your personal information.
+If you believe that your rights have not been respected at any time then you also have a right to complain to a data protection authority about our collection and use of your personal information.
+For more information, please contact the relevant data protection authority.
+(Contact details for data protection authorities in the European Economic Area, Switzerland and certain non-European countries are available here.)
+==========
+Legal Basis
+Our legal basis for collecting and using the personal information described above will depend on the personal information concerned and the specific context in which we collect it.
+However, we will normally collect personal information from you only (i) where we have your consent to do so; (ii) where we need the personal information to perform a contract with you, or (iii) where the processing is in our legitimate interests and not overridden by your rights.
+In some cases, we may also have a legal obligation to collect personal information from you.
+If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will make this clear at the relevant time and advise you whether the provision of your personal information is mandatory or not (as well as of the possible consequences if you do not provide your personal information).
+==========
+We may collect and use your personal information in reliance on our legitimate interests (or those of any third-party), for example we will rely on legitimate interests to respond to queries from our clients, improve our platform, undertake marketing or to detect or prevent illegal activities).
+Core Service
+In respect of our Core Service, we rely on consent to process your personal information.
+You may have given this consent directly to Captify, or you may have given a third-party consent for us to process your personal information on their behalf.
+You can change your preferences at any time as set out in Section 18 “How You Can Manage Cookies and Other Technologies” above.
+In addition, we and our Publisher Partners and advertising clients have a legitimate interest, which does not conflict with your legal rights (in particular as this processing is not intrusive and within the expectations of most web users), in processing personal information for the following business purposes:
+Ensuring security
+Detecting and combating fraud
+Optimizing website and mobile app experiences
+Developing and improving our products
+International Transfers
+We provide personal information to other companies in our corporate group and technical service providers inside and outside the EU/EEA/UK that require access to personal information in order to assist us in providing our services.
+==========
+This means that when we collect your personal information it may be processed in countries that have data protection laws that are different to the laws of your country.
+However, we have taken appropriate safeguards to require that the personal information we process will remain protected in accordance with this Notice when transferred internationally, including when processed internationally by our third-party service providers and partners.
+The safeguards we have taken include implementing the European Commission’s Standard Contractual Clauses for transfers of personal information to our non-EEA offices operating under the Captify brand, which requires our non-EEA office to protect personal information they process from the EEA, Switzerland or UK in ways equivalent to those required under European Union and UK data protection laws.
+Our Standard Contractual Clauses can be provided on request.
+We have implemented similar appropriate safeguards with our third-party service providers and partners and further details can be provided upon request.
+==========
+Captify Commitments
+Captify adheres to the IAB Europe OBA Framework.
+Please see Section 18 which explains how you can make choices and control the collection and use of your personal information for online behavioural advertising.
+In addition, Captify is compliant with IAB’s Transparency and Consent Framework (TCF 2.0) and complies with the framework policies applicable to different areas of Captify’s business.
+11.
+==========
+Additional Information for California Residents
+These additional disclosures for California residents apply only to individuals who reside in California.
+The California Consumer Privacy Act of 2018 (“CCPA”) provides additional rights to know, delete and opt out, and requires businesses collecting or disclosing personal information to provide notices and means to exercise rights.
+Notice of Collection
+In the past 12 months, we have collected the following categories of personal information enumerated in the CCPA:
+Identifiers, including partial IP addresses and online identifiers.
+Demographics, such as your age range or gender.
+This category includes data that may qualify as protected classifications under other California or federal laws.
+==========
+Commercial information, including purchases and engagement with a publisher’s website.
+Internet activity, including your interactions with a publisher’s website.
+Geolocation data, including location enabled services such as Wi-Fi.
+Inferences, including inferred trends, behaviours, preferences, attitudes and sentiment based on collected data.
+==========
+We also offer voice search and navigation to our Publisher Partners, so in certain circumstances we may also collect transcriptions of voice searches made on Publisher Partner websites.
+Note that although our service does collect voice recordings, only the transcription itself is stored in Captify servers.
+For more background on information we collect, including the sources we receive information from and the purposes it is used for, please review Section 5, “How does Captify collect your personal information?”
+Captify does not generally sell information as the term “sell” is traditionally understood.
+However, to the extent “sale” under the CCPA is interpreted to include advertising technology activities such as those disclosed under Cookies and Pixels in Section 4 as a “sale,” we will comply with applicable law as to such activity.
+Captify discloses the following categories of personal information for commercial purposes: identifiers, demographic information, commercial information, internet activity, geolocation data and inferences.
+==========
+We use and partner with different types of entities to assist with our daily operations and manage our service.
+Please review Section 8 “How does Captify share your information?”
+for more detail about the parties we have shared information with or who may be processing on their behalf.
+Right to Know and Delete
+If you are a California resident, and you do not represent a business, you have the right to delete the personal information we have collected from you and the right to know certain information about our data practices in the preceding 12 months.
+In particular, you have the right to request the following from us:
+the categories of personal information we have collected about you;
+the categories of sources from which the personal information was collected;
+the categories of personal information about you we disclosed for a business purpose or sold;
+the categories of third parties to whom the personal information was disclosed for a business purpose or sold;
+the business or commercial purpose for collecting or selling the personal information; and
+the specific pieces of personal information we have collected about you.
+==========
+To exercise any of these rights, please submit a request through our online form available here or contact us using the details in Section 20.
+In the request, please specify which right you are seeking to exercise and the scope of the request.
+We will confirm receipt of your request within 10 days.
+==========
+If personal information about you has been processed by us as a service provider on behalf of a customer and you wish to exercise any rights you have with such personal information, please inquire with our customer directly.
+If you wish to make your request directly to us, please provide the name of our customer on whose behalf we processed your personal information.
+We will refer your request to that customer, and will support them to the extent required by applicable law in responding to your request.
+==========
+As indicated above, Captify does not process contact data such as names or emails and so, while we will always investigate any request thoroughly, often it will be difficult for us to know whether or not we are processing any data relating to you, or we may not technically be able to locate it.
+In such cases, given the safeguards in place that enable you to manage directly your online choices and cookie settings, we believe it would be contrary to the intention of the law and to good data protection practices for us to ask you for (and then to process) additional data about you in order to investigate the request.
+However, in the event you still would like us to investigate the request, we may require specific information from you for the limited purpose to help us verify your identity and process your request.
+If we are unable to verify your identity, we may deny your requests to know or delete.
+Right to Opt-Out
+In addition to the processes provided by Captify as set out above, to the extent one of our publisher partners sells your personal information as the term “sell” is defined under the California Consumer Privacy Act, you have the right to opt-out of the sale of your personal information.
+Please visit the publisher’s website to learn how to opt out of sales by that publisher.
+Authorized Agent
+You can designate an authorized agent to submit requests on your behalf.
+However, we will require written proof of the agent’s permission to do so and verify your identity directly.
+Children’s Data
+We do not knowingly “sell,” as that term is defined under the CCPA, the personal information of minors under 16 years old who are California residents.
+Right to Non-Discrimination
+You have the right not to receive discriminatory treatment by us for the exercise of any your rights.
+==========
+Shine the Light
+Customers who are residents of California may request (i) a list of the categories of personal information disclosed by us to third parties during the immediately preceding calendar year for those third parties’ own direct marketing purposes; and (ii) a list of the categories of third parties to whom we disclosed such information.
+To exercise a request, please write us at the email or postal address set out in “Contact Us” above and specify that you are making a “California Shine the Light Request.”
+We may require additional information from you to allow us to verify your identity and are only required to respond to requests once during any calendar year.
+Right to Alternative Format
+If you have a disability and would like to access this Notice in an alternative format, please contact us using the details given at Section 20.
+12.
+==========
+Additional Information for Nevada Residents
+Nevada law (NRS 603A.340) requires each business to establish a designated request address where Nevada consumers may submit requests directing the business not to sell certain kinds of personal information that the business has collected or will collect about the consumer.
+A sale under Nevada law is the exchange of personal information for monetary consideration by the business to a third-party for the third-party to license or sell the personal information to other third parties.
+If you are a Nevada consumer and wish to submit a request relating to our compliance with Nevada law, please contact us using the details given at Section 20.
+13.
+==========
+Business Contacts Data
+We also need to process your personal information if we have or are considering a business relationship with you.
+This may include personal information relating to your work with the following:
+a Captify client (e.g. an agency or advertiser) in order to manage our contracts and campaigns, issue invoices and collect payments, and keep records;
+a web or mobile publisher or other data provider in order to manage data, make payments, and manage technical issues;
+a supplier, potential supplier and other business contacts in order to collaborate, evaluate and negotiate the purchase of goods and services;
+potential clients, potential data suppliers or publishers, in order to expand Captify’s business and resources;
+general business contacts such as journalists, influencers, policymakers, trade associations or conference organisers.
+Processing this personal information is necessary where we have a contract with your company or for our legitimate interests in managing and growing our business.
+As this personal information always relates to your professional life (work email, work telephone, information about contracts etc.) and/or is obtained from sources where it is voluntarily offered (e.g. websites, trade shows, professional networking) there will be no negative impact on your privacy or rights, and our use is within what a professional data subject would reasonably expect.
+Although applicable laws do not require us to obtain your consent for such data processing, you may still be entitled to exercise your statutory rights in relation to such processing where applicable.
+==========
+As a general matter, information is retained in accordance with Section 15, “Retention Periods”.
+However, with respect to Business contact data, information may be retained for a longer period because of a contractual or legal requirement.
+We regularly review and update the need for retaining such data.
+For ‘business to business’ data (e.g. if you are a current or prospective Captify supplier or client) the data controller or business responsible for your data will be the Captify entity that you deal with, which may be:
+Captify Technologies Inc. (USA)
+Captify Media SARL (France)
+Captify Technologies Ltd (UK)
+Captify Technologies Ply Ltd (Australia)
+Captify Technologies SL (Spain)
+14.
+==========
+Marketing
+We may send periodic promotional emails to you, and where required by law, we will obtain your consent to do so.
+You may opt out of such communications at any time by following the opt-out instructions contained in the email or email us at privacy@captify.co.uk.
+If you opt out of receiving emails about recommendations or other information we think may interest you, we may still send you emails about your account or any services you have requested or received from us.
+15.
+==========
+Retention Periods
+We retain personal information we collect from you where we have an ongoing legitimate business need to do so (for example, to provide you with a service you have requested or to comply with applicable legal, tax or accounting requirements).
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+We delete/de-identify all advertising related data that is more than 13 months old.
+16.
+==========
+Security
+We use appropriate technical and organisational measures to protect the personal information that we collect and process about you.
+The measures we use are designed to provide a level of security appropriate to the risk of processing your personal information.
+If you would like more information about our technical and organisational measures, please contact us using the details set out in Section 20.
+17.
+==========
+Children’s Data
+Captify does not create segments that specifically target people below the age of 16 years.
+It is not our intention even to collect or process data from anyone under these ages.
+If you are a parent or guardian and believe that Captify may be processing data from someone that you have parental responsibility for, then please contact us at the addresses set out in Section 20.
+18.
+==========
+Managing Cookies and Other Technologies
+If you have consented to cookies from Captify through one of our partners but you no longer want to receive Captify personalised ads, you can manage this directly as explained in this Section.
+Manage your choices here:  Your ad choices
+This does not affect email, telephone, direct mail or any other type of marketing, and if you wish to stop receiving those types of materials then you should contact the providers or any official “do not contact” lists separately.
+Please note that managing cookie preferences will not prevent ads from being displayed on the websites you visit; it will simply stop you seeing advertising that has been tailored to your interests.
+Please note that these platforms allow you to choose not to receive interest-based advertising delivered by their members.
+==========
+You may still see personalised ads from other providers and should also contact them as needed.
+PLEASE NOTE: When you manage choices in these ways, a cookie will be set in your browser.
+You must maintain the cookie on your browser in order for advertising providers to recognise you as a visitor that has made this choice.
+You will need to repeat this process if you clear that cookie (or all cookies) from your browser, use a different web browser, or use a new device.
+If you have any questions, please contact us as set out in Section 20.
+==========
+If you decide not to accept cookies from a site, it is possible that in addition to not receiving personalised ads, some other functionalities and content on that site might not work as intended.
+You can configure your web browser to remove cookies by following the directions provided in your browser’s “help” section – however, please be aware that this will also clear cookies that show that you have opted out, and so using the above processes is recommended.
+Mobile:
+You can opt out from receiving targeted advertising based on data collected via applications on mobile devices by following the instructions from the device maker, e.g. (at the time this Notice was published):
+Android: Open the Google Settings app > Ads
+iOS 7 or higher: Choose Settings > Privacy > Advertising
+iOS 6: Choose Settings > General > About > Advertising
+Please note that if you opt out using any of these methods, the opt out will only apply to the specific browser or device from which you opt out and you may wish in addition to repeat the process on your other devices.
+19.
+==========
+Controller / Processor
+In relation to the Core Service, “Captify” refers to Captify Technologies Limited, (registered in England with company number 07620174).
+We are contactable at the addresses given in Section 20.
+Captify is the data controller or business that decides how and why your data is processed.
+In some cases, we only act as a data processor (or service provider).
+An example of this is where an advertising client provides us with access to a database in order for us to perform particular services in accordance with their instructions.
+The types of data we receive, the purposes it is used for, and your rights, will be similar also in this case.
+For business contacts data, the data controller will normally be Captify and/or the Captify entity who you do (or may in future do) business with, as noted in Section 13.
+20.
+Contact Us
+If you have any questions or comments about this Notice, our data practices, or wish to exercise any of your legal rights, please contact us:
+By email: privacy@captify.co.uk
+Or if you are a current or potential business partner, please speak to your regular Captify point of contact.
+In accordance with the GDPR, we have appointed a Data Protection Officer who can be reached at the contact below:
+Jodie Nevin
+Captify Technologies Ltd.
+5 Langley Street
+London WC2H 9JA, UK
+privacy@captify.co.uk
+Last updated on 24 December 2020.
+==========

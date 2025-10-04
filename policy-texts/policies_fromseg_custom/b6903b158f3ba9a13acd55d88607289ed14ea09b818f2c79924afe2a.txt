@@ -1,0 +1,353 @@
+zeotap Products and Services Privacy Policy
+zeotap GmbH (“we,” “our,” or “us”) is a data technology company that delivers innovative, device-centric and privacy-led data analytics and advertising solutions across industries.
+Our partners (“Data Partners”) are mobile network operators, mobile application providers, media and technology platform providers and others that have access to certain customer information (“User Data”) that they wish to monetize by using our services.
+Our services include data analytics and advertising services (“Services”).
+You can learn more about our Services on our website at www.zeotap.com.
+==========
+Our clients (“Clients”) are businesses, including brands and agencies (“Advertisers”), owners of media properties (“Publishers”), and other companies that send targeted advertising to mobile consumers.
+By using our Services, our Clients are able to address a particular audience and tailor advertisements to the likely interests and preferences of such audience.
+==========
+We work to ensure that our Services respect users’ privacy rights.
+To accomplish this goal, we adhere to privacy-by-design and privacy-by-default principles throughout the process of designing, building, and delivering our Services.
+==========
+We do not process information that directly identifies a particular individual such as an unencrypted name, address or government-issued ID number.
+However, whether or not User Data we receive are considered personal or personally-identifiable data depends on, among other factors, the definition that applies in a user’s physical location.
+For example, in some locations a user’s IP address may be deemed to be personal data, while in others it is not.
+==========
+By law, we are required to provide you with information regarding
+-how and on what legal basis we use and disclose your personal data;
+-how we take care for your privacy rights specific to your personal data;
+-how you can reach us in case you have any concerns regarding this privacy policy (“Policy”) or the way we are handling your data.
+The terms of this Policy apply to all User Data to the extent it contains your personal data as defined in the applicable laws and regulations.
+==========
+This Policy does not apply to information collected by our website www.zeotap.com.
+For our website privacy policy, go to the “zeotap.com Privacy Policy” section.
+This Policy also does not apply to information collected by our Data Partners or other third parties who may provide information to us, as their information handling practices are covered by their own privacy policies.
+==========
+This Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes in our processing of your Personal Data.
+If at any time in the future we plan to use Personal Data in a way that differs from this Policy, we will post Policy edits here and place notices on other pages of the Site as applicable, or by other means if required by law.
+You are responsible for ensuring that you are aware of the most recent version this Policy.
+This Policy was last modified on: May 20th, 2020.
+The Policy’s wording can be technical; in case you have any questions, do not hesitate to write to [email protected].
+==========
+Our external Data Protection Officer is Dr. Christoph Bauer, CEO of ePrivacy GmbH:
+ePrivacy GmbH
+represented by Prof. Dr. Christoph Bauer
+Große Bleichen 21
+20354 Hamburg
+Germany
+Data Categories we Receive and Use
+We receive the following categories of User Data from our Data Partners:
+-mobile advertising device IDs such as Apple’s Identifier For Advertisers (IDFA) and Google Advertising ID (“Advertising ID / Ad ID”);
+-cookie IDs;
+-hashed email addresses and hashed telephone numbers;
+-demographic information like age, gender, city/region, income, language and mobile contract data such as prepaid/postpaid (“Demographic Data”);
+-mobile app usage data about apps installed/accessed on a user’s device and app events and browsing data such as browsing URLs (“App Usage and Browsing Data”);
+-purchase data;
+-geolocation data.
+Our Data Partners may collect data directly from users (both online and offline) or receive data from third parties.
+We request that our Data Partners provide users with all required information about the use of their data and provide an opt in / opt out option according to applicable laws and regulations.
+We may also use cookies, pixels and similar tools to collect users’ Advertising IDs or cookies’ identifiers ourselves.
+These tools also automatically collect and send us information such as referral URLs (Uniform Resource Locators), user agent string, and IP addresses.
+This information is a normal part of the log file information that is routinely exchanged as part of communication between operating systems.
+==========
+As part of the existing programmatic technology for the delivery and display of advertisements on mobile devices, we also receive Advertising Bid Requests.
+When we obtain different User Data pertaining to the same device from multiple Data Partners, we aggregate such User Data and store it against the same Advertising ID (“Ad IDs”) or cookie.
+zeotap also maintains a separate ID inventory, which connects the User Data into a common ID (“zeoID”) and is an internal pseudonymous identifier.
+We enhance User Data to create de-identified data segments and aggregate such segments into segment lists or Ad ID / cookie lists based on our Clients’ preferences.
+==========
+We then share such lists with our Clients to enable them to effectively target the relevant users.
+We do not interact directly with users or their devices, unless a user sends us a deletion request along with their Ad ID, as described below under “Choice and Control Rights you Have”.
+Below we describe the User Data categories in more detail.
+Advertising IDs
+Advertising IDs (“Ad IDs”) are user-resettable, unique, anonymized identifiers for advertising.
+Ad IDs identify a specific device and are implemented both on Apple iOS (“Identifier for Advertising” / “IDFA”) and Google Android (“Advertising ID”).
+We obtain Ad IDs associated with de-identified User Data from our Data Partners.
+Ad IDs are then used by our Clients to identify advertising requests and to deliver relevant advertisements.
+==========
+We may also use Ad IDs to establish a relationship between different User Data attributes pertaining to the same user.
+For example, if we obtain User Data that indicates a certain user is between 25 and 30 years old, and later learn from another Data Partner that the user of the same device is interested in a healthy lifestyle, we combine this information against the same Advertising ID (“Ad IDs”) or cookie.
+Cookies
+An HTTP cookie (also called web cookie, Internet cookie, browser cookie or simply a cookie) is a small piece of data sent from a website and is stored in the user’s web browser while the user is browsing.
+==========
+We set third party cookies on behalf of Publishers who provide space for the display of advertising within websites.
+We may use cookies to establish a relationship between devices or data pertaining to the same user.
+If we already have information about a device’s user, we may link the information stored in cookies to the device’s Ad ID.
+==========
+We call this activity of linking information “mapping.”
+We use this information to facilitate the delivery of our Clients’ targeted Ads.
+==========
+Log File Information
+In the course of the mapping activity described in the above paragraph, we receive such information as referral URLs (Uniform Resource Locators), user agent string, and IP addresses.
+When you come to the website where zeotap cookies are set, the log file we automatically receive includes the referral URL, which is the address of the website that you came from.
+==========
+We do not use and discard referral URLs within reasonable time in compliance with our data retention period.
+We use IP addresses to derive information such as country and carrier.
+Afterwards, we discard IP addresses within reasonable time in compliance with our data retention period.
+==========
+We use user agent string information contained in the log file to determine your device operating system and device model.
+Afterwards, we discard user agent string within reasonable time in compliance with our data retention period.
+==========
+Hashed Email Addresses and Hashed Phone Numbers
+Some Data Partners or Clients may provide their offline data such as hashed email addresses and hashed phone numbers.
+We require that such data are hashed using secure hashing algorithms prior to sharing with zeotap.
+==========
+We use hashed emails or hashed phone numbers to establish a relationship between offline and online user profiles pertaining to a certain user.
+For example, our Client would like to run an advertising campaign on mobile devices targeting users whose hashed email addresses and / or hashed phone numbers the Client already has.
+==========
+However, without respective Ad IDs the Client cannot target the desired audience.
+By comparing hashed email addresses and hashed phone numbers provided by the Client with the User Data we have from our Data Partners, we can match hashed email addresses or hashed phone numbers to Ad IDs corresponding to the same user.
+As a result, we have a list of Ad IDs corresponding to the list of users the Client would like to target.
+Demographic Data
+We may obtain demographic User Data from our Data Partners, such as:
+-user demographics (e.g., age or age range and gender);
+-general geographic area of the billing address and zip code;
+-predicted or actual income tier;
+-other demographic information that was received or collected by our Data Partners.
+==========
+zeotap uses this information to create demographic segments about users, for example users who are “males, 30 to 34, living in Brooklyn.”
+We connect segments with Ad IDs so that our Clients can reach their target audiences on mobile devices.
+==========
+App Usage and Browsing Data
+We may obtain App Usage and Browsing Data from our Data Partners, such as:
+-apps installed/accessed on a user’s device;
+-app events such as purchases or sign-ups;
+-browsing data such as Uniform Resource Locators (“URL”s).
+URLs are web addresses, a specific character string that constitutes a reference to a resource.
+Most web browsers display the URL of a web page above the page in an address bar.
+==========
+We transform App Usage and Browsing Data into aggregated segments based on interests or purchase intent (such as Sports Enthusiast, Health & Fitness Buffs) which are of interest for our Clients.
+Purchase Data
+We may obtain purchase data from our Data Partners, such as:
+-items you have bought in stores;
+-items you have bought online;
+-items you have put in a shopping basket online.
+==========
+Geolocation Data
+We may receive data from Data Partners about the physical location of a specific device, including latitude-longitude coordinates obtained through GPS tools, Wi-Fi or cell tower triangulation techniques.
+The location data we receive from Data Partners may be generalized, non-precise location data, or we may render the location data non-precise, in order to provide generalized location data to our Clients.
+==========
+Our Clients may use inferences from this information to send localized Ads or targeted Ads.
+Advertising Bid Requests
+In real-time bidding (“RTB”), Publishers send advertising bid requests (“Bid Requests”) in real-time to Advertisers, indicating that they have an open advertising space (“Impression”) to sell.
+The Impression is auctioned among interested Advertisers and sold to the highest bidder.
+==========
+Bid Requests from mobile apps usually contain an Ad ID alongside information such as the IP address, type of the Impression (banner, audio, video), format, app, publisher, device, etc.
+We collect and use the Bid Request and Ad ID in order to participate in the RTB process on behalf of our Clients.
+We render IP-addresses we receive as part of the Bid Requests imprecise to prevent the identification of a user.
+==========
+However, we may store and process information derived from that IP address (information country and the telecom operator you are using).
+We delete IP addresses after we no longer need them to extract this kind of information.
+Our Clients may then use de-identified IP addresses to localize Ads.
+Legal Basis for Processing Personal Data
+Our Services enable our Clients to tailor advertising you see on your mobile device to your interests and preferences.
+As a result, the number of ads that are not relevant or of interest to you will be reduced.
+==========
+To achieve this goal, we need to process your personal data.
+The legitimate interest of facilitating targeted online marketing in combination with creating customized audience segments based on unified customer profiles is our basis for the processing of your data (art. 6(1)(f) GDPR).
+==========
+Our legitimate interest lies in conducting and managing our business.
+We consider and balance any potential (positive and negative) impact on you and your rights before we process your personal data for our legitimate interests to make sure that our interests are compelling enough.
+We will not use your personal data for activities where our interests will be overridden by the impact on you.
+We conducted and documented an internal legitimate interest assessment that determined: (i) our legitimate interests, (ii) that the processing is necessary for our legitimate interests; and (iii) that your interests and fundamental rights do not override those interests.
+You can obtain further information about how we assess our legitimate interests against any potential impact on you by contacting us at [email protected]
+Our Data Partners or other third parties who provide User Data to us may use another basis; such as consent to process your personal data and share it with us according their respective privacy policies.
+==========
+Any processing of your personal data by zeotap is subject to your rights of choice and control as explained below.
+zeotap is dedicated to the highest standards of privacy and is a member of IAB (Interactive Advertising Bureau).
+==========
+For the purpose of enabling to share User Data with Oracle and its customers and partners to use such data for the purpose of personalization and linkage in order to market products and services to you (please refer to Oracle’s privacy policy available at: https://www.oracle.com/legal/privacy/marketing-cloud-data-cloud-privacy-policy.html, we rely on your consent.
+Your consent is obtained on behalf of Oracle and its customers and partners by our third party data providers.
+With Whom Do We Share User Data
+For information on opt-out options, please check the section ‘Your Rights with Respect to your Personal Data (INCLUDING OPT-OUT OPTIONS)’ below.
+==========
+We share User Data with the following categories of third-parties:
+-brands and agencies (“Advertisers”);
+-owners of media properties (“Publishers”) and other companies that send targeted advertising to mobile consumers;
+-third party data platforms such as Demand Side Platforms (DSPs), Data Management Platforms (DMPs), advertising marketplaces, ad networks etc. (“Data Platform”);
+-ad measurement companies;
+-our hosting provider Amazon Web Services and GCP (Google Cloud Platform).
+Advertisers and Publishers do not receive access to Ad IDs, Cookies, hashed email addresses or hashed phone numbers.
+They may only see the list of segments created on the basis of User Data that serve as targeting criteria.
+Data Platforms only receive access to segment names and respective Ad IDs or Cookies.
+==========
+With regard to the EU Personal Data, they are never granted access to hashed email addresses or hashed phone numbers.
+With regard to the EU Personal Data, we only share hashed email addresses and hashed phone numbers with Advertisers that wish to match their offline users’ data to Ad IDs or Cookies to be able to target their customers on mobile devices.
+Data is not shared on a device-specific level but shared as a list.
+Outside of the EU, we may share broader data sets with Advertisers.
+We also may make Personal Data accessible for Advertisers for data analytics purposes.
+In such case Advertisers are not in a position to see, have direct access or download individual data attributes.
+==========
+Publishers we work with include: MediaMond S.p.A., SPEED ITALY Ltd., Triboo Media S.r.l., Sport Network S.r.l., Tg adv S.r.l, CIAO PEOPLE S.r.l., NetAddiction S.r.l., Edizioni Piemme S.p.A., Teads Italia S.r.l., Viralize S.r.l., AtomikAd S.r.l., AdKaora S.r.l., WebAds S.r.l., Instal S.r.l., Smartclip Italia S.r.l., MovingUp S.r.l., ZETA Gestion de Medios, Publipress Media S.L., Zinet Media Global S.L., Diario de Prensa Digital S.L., Posterscope Iberia S.A.U., YOC Spain SLU, WebAds Interactive SL, Hi Media España Publicidad Online, SL (ADUX), Web Financial Group S.A., VLN Servicios Publicitarios Integrales S.L. (Sunmedia), Prisa Brand Solutions, S.L., Blue Media Comunicacion, S.L., Tappcelerator Media SL, RichAudience International SL, Smartclip Hispania SL, Hola SL, Vidoomy Media, SL, Axel Springer España, Teads S.A., mCanvas Advertising Pvt. Ltd., Quint Ltd., Cricketnmore Game Pvt. Ltd., Monsoon Software Consulting Pvt. Ltd., Profit Guru Pvt. Ltd., Matrix Publicities and Media India Pvt Ltd. (Xaxis), Httpool Digital Pvt Ltd, Jagran Prakashan Limited, Inmobi Ltd., Maiden Marketing PTE Ltd. (d.b.a. POKKT), Saavn Media Pvt. Ltd., Lotame Solutions, Inc., Eterno Infotech Pvt. Ltd.
+Data Platforms we work with include: AppNexus Inc., Inmobi Ltd., Maiden Marketing PTE Ltd. (d.b.a. POKKT), Amobee Inc., Widespace AB, Google Ireland Ltd., The Trade Desk Inc., Adform A/S, Adobe Systems Inc., TAPTAP Networks S.L., Videology Media Technologies B.V., Teads Italia S.r.l., Teads S.A. (global), Smartclip Italia S.r.l., Dentsu Aegis Network Italia SPA, LiveRamp Inc.(https://liveramp.uk/privacy/), TabMo SAS (Hawk), Pocket Math Pte Ltd, Bidstalk Technologies Pte Ltd, Mediasmart Mobile S.L., AppLift GmbH, salesforce.com EMEA Limited, Oath EMEA Limited, Facebook, Inc., Narrative I/O Inc., Adex GmbH, Smart Adserver, Lotame Solutions, Inc., Ventes Avenue Pvt Ltd, Neustar Inc., Group M Media India Pvt. Ltd. (mPlatform), MediaMath, Inc., A.MOB SAS, Oracle.
+Ad measurement companies we work with include Nielsen Company (US) LLC.
+==========
+Furthermore, we may share your User Data with third party vendors that help us extract valuable insights from raw User Data.
+For example, if zeotap receives raw app ID like 123456, this information in itself is not useful.
+Therefore, we use a third-party engine to convert the numerical ID to the actual app name (e.g. “Gardening Advice App”) which can be used for the purposes of targeted advertising.
+==========
+Similar engines are used for making sense out of Browsing Data.
+In all of these processes, only the App Usage and Browsing Data are sent to external vendors who send us back the processed output.
+==========
+No identifiers such as Ad IDs, cookies, hashed email addresses or hashed phone numbers are shared with third-party vendors.
+We store User Data in data centers provided by third parties (such as by AWS and GCP).
+We also share your User Data information with our affiliates in the USA and India that provide technical support and help zeotap operationally perform the services.
+==========
+We will also disclose your User Data in response to valid legal processes, for example, in response to a court order, a subpoena or other legal request for information, and/or to comply with applicable legal and regulatory reporting requirements.
+We also may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or to verify or enforce compliance with the policies governing our products and/or services and with applicable laws, or as otherwise required or permitted by law or consistent with legal requirements.
+We are required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+==========
+In addition, we may transfer your information to an entity or individual that acquires, buys, or merges with us, or our affiliates.
+In these cases, we will require the acquiring company to carry on the material terms of this Policy, including the requests for account deletion.
+==========
+When we Transfer User Data Internationally
+When we share User Data with the recipients described above, such sharing may constitute a transfer outside of your home location.
+By law, we are required to ensure that the level of protection guaranteed for your personal data by the European laws is not undermined by such transfer.
+Some recipients of data may be participants of programs like the Privacy Shield which enables them to ensure the appropriate level of protection.
+In other cases we enter the EU Standard Contractual Clauses with respective User Data recipients.
+==========
+How We Protect Personal Data
+We take appropriate technical and organizational safeguards to protect any personal data we receive from theft, loss, and unauthorized access.
+We follow generally accepted standards to protect personal User Data throughout the entire use cycle starting from the initial transfer until deletion.
+However, no method of transmission over the Internet, or method of electronic storage, is 100% secure.
+==========
+We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
+Your Rights with Respect to your Personal Data (INCLUDING OPT-OUT OPTIONS)
+Your personal data belongs to you.
+You have the following rights with respect to your personal data:
+-right to request confirmation as to whether or not we process any of your data, and, where that is the case, right of access to your data;
+-right to request rectification of inaccurate personal data;
+-right to request erasure of your personal data;
+-right to restrict processing of your personal data if certain conditions are met, e.g., if you believe the personal data we hold about you is not accurate;
+-right to object to us processing your personal data;
+-right to data portability, which only applies, however, if you provided us your personal data directly.
+The options to exercise these rights are described below.
+==========
+Opt-Out Options
+-To opt-out from the processing or exercise your other rights with respect to your personal data, you can directly contact your mobile operator or another Data Partner with whom you shared your personal data (please refer to their respective privacy policy).
+It is the responsibility of the respective Data Partner to ensure that your request is honoured in full.
+==========
+-To find out whether we process any of your personal data stored against a zeotap Cookie ID, access it or make us erase it, you can use our user rights portal accessible via https://privacy.zeotap.com.
+– To find out whether we process any of your personal data stored against your Ad ID, we offer an App for iOS and Android (“Data Protection Rights” App) that allows to check whether we process any of your personal data stored against your Ad ID:
+if you are using an Android device: https://play.google.com/store/apps/details?id=com.zeotap.optout&hl=en
+if you are using an Apple device: https://apps.apple.com/pw/app/data-protection-rights-app/id1383164639
+-To opt-out from targeted advertising, you may select  “Limit Ad Tracking” on iOS or “ “Opt-out of interest-based ads”” on Google Android.
+In this case, we will keep your User Data until you request us to delete it, but we will not use it for targeted advertising purposes, and activity on your mobile device will be effectively invisible to us.
+You may reset the Ad ID by selecting the option “Reset Advertising Identifier” on Apple iOS or “Reset Advertising ID” on Google Android.
+This will delete your current Ad ID from your device and replace it with a new Ad ID.
+==========
+As a result, we will not receive any Bid Requests containing the old Ad ID anymore.
+After a certain amount of time we will delete the old Ad IDs and related User Data.
+However, we may receive access to your new Ad ID and match it with other User Data we might receive from our Data Partners over time.
+==========
+-To opt-out of targeted advertising within your mobile browser, you can clear or block our cookies in the settings of your mobile browser.
+In this case, we will keep your data, but we will not be able to use it to target your device when you are browsing mobile websites.
+However, regardless of the deletion of cookies, your device can still be targeted when you are using apps on the basis of your Ad ID.
+-To opt-out of some – but not all – targeted advertising you may also visit the webpage http://youradchoices.com/appchoices and/or download the mobile AppChoices app.
+For more information about targeted advertising and opt-out options, you may visit for example the webpage of Network Advertising Initiative’s at http://www.networkadvertising.org/choices and/or Your Online Choices at www.youronlinechoices.com/uk.
+==========
+-To make us erase your personal data associated with your Ad ID from our system, you can submit  your Ad ID to our Privacy Team at [email protected] We will delete all User Data associated with the submitted Ad ID.
+This will delete all related data and prevent any future collection and use of data associated with the Ad ID.
+==========
+If we did not have your Ad ID, but had some other data such as cookies, hashed email addresses or hashed phone numbers, we will keep this data unless our Data Partner informs us that these have to be deleted.
+Similarly, if we have your other Ad IDs and/or Cookie IDs, we will keep them together with associated data unless you file an opt-out request including such other Ad IDs and/or Cookie IDs.
+==========
+In order to find your Ad ID, please see here below a list of options:
+– In order to find Ad ID on an Android device, you need to go on your device to ‘Settings’ -> ‘Google’ -> ‘Ads’ -> ‘Your advertising ID’.
+– In order to find your Ad ID on an Apple device, a third-party tool is required.
+==========
+There is a wide selection of apps with the capability on the App Store.
+– To find your Ad ID, you can also use our App, as described above.
+==========
+-To make us rectify your personal data in our system, restrict its processing (including opting out of your data being shared with third parties)or in connection with other requests you might have, please contact our Privacy Team at [email protected].
+Do not forget to submit your Ad ID together with your request so that we can assist you effectively.
+In order to find your Ad ID, please see the list of options above.
+Apart from all the above rights, you can also lodge a complaint with a supervisory authority if you believe we our Data Partners infringed upon your rights.
+Please also note that using the above options does not mean you will block mobile advertising, but it means that the ads you receive will not be personalized for you.
+==========
+Information Retention
+We will only retain your personal data for as long as necessary to fulfill the purposes we collected it for.
+We retain data until the occurrence of the following events:
+-request from a Data Partner to delete certain User Data; or
+-the user submits his Ad ID to us for deletion of associated data; or
+-expiration of the zeotap defined retention period with a deletion of unused profiles after 3 months.
+Children’s Privacy
+We do not knowingly collect, use, or share:
+-Data about users under the age of sixteen (16); and
+-Data about past or current activity on applications directed at children under the age of sixteen (16).
+==========
+YOUR CALIFORNIA PRIVACY RIGHTS
+California Does Not Track Disclosures
+If you are a resident of California, USA resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your PII (as defined by California law) by zeotap or its subsidiaries to a third party for the third party’s direct marketing purposes.
+You may request this information in writing using the information under “Contact Us” below.
+==========
+Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain online activities, over time and across different websites.
+We do not honor “Do Not Track” signals.
+==========
+California Consumer Privacy Act (“CCPA”) Compliance
+The categories of Personal Information (as defined under CCPA) that we have processed (including according to       CCPA definition “selling”) over the past 12 months and the usage purposes are listed above under “Data Categories we Receive and Use”;
+The list of businesses with whom we share Personal Information are listed above under “With Whom Do We Share User Data”;
+The sources of Personal Information are described above under the definition of “Data Partner”.
+Non – discrimination:
+We will not discriminate against you for exercising any of your CCPA rights.
+Unless permitted by the CCPA, we will not:
+Deny you goods or services.
+==========
+Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties.
+provide you a different level or quality of goods or services.
+suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+==========
+Your Rights and Choices:
+The CCPA provides consumers (California residents) with specific rights regarding their Personal Information.
+This section describes your CCPA rights and explains how to exercise those rights.
+Access to Specific Information and Data Portability Rights:
+You have the right to request that zeotap GmbH discloses certain information to you about our collection and use of your Personal Information over the past 12 months.
+Once we receive and confirm your verifiable consumer request (in the ways described below), we will disclose to you:
+the categories of Personal Information we collect about you.
+==========
+the categories of sources for the Personal Information we have collected about you.
+our business or commercial purpose for collecting or selling that Personal Information.
+the categories of third parties with whom we share that Personal Information.
+the specific pieces of Personal Information we collected about you (also called a data portability request).
+if we sold or disclosed your Personal Information for a business purpose, two separate lists disclosing:
+sales, identifying the Personal Information categories that each category of recipient purchased; and
+disclosure for a business purpose, identifying the Personal Information categories that each category of recipient
+Deletion Request Rights:
+You have the right to request that zeotap deletes any of your Personal Information that we processed.
+Once we receive and confirm your verifiable consumer request, we will delete (and direct our service providers and recipients to delete) your Personal Information from our records, unless an exception applies and according to the section “Information Retention” above.
+==========
+How to exercise your rights – Access, Data Portability and Deletion Rights:
+To exercise the access, data portability, and deletion rights described above, please submit a verifiable consumer request to us by either:
+emailing us at [email protected]; you can submit   your Ad ID to our Privacy Team at [email protected] We will delete all Personal Information associated with the submitted Ad ID.
+This will delete all related Personal Information and prevent any future collection and use of Personal Information associated with the Ad ID.
+If we did not have your Ad ID, but had some other Personal Information such as cookies, hashed email addresses or hashed phone numbers, we will keep these Personal Information unless our Data Partner informs us that these have to be deleted.
+Similarly, if we have your other Ad IDs and/or Cookie IDs, we will keep them together with associated data unless you file an opt-out request including such other Ad IDs and/or Cookie IDs
+To find out whether we process any of your Personal Information stored against a Cookie ID, access it or make us erase it, use our user rights portal accessible via https://privacy.zeotap.com.
+To find out whether we process any of your Personal Information stored against your Ad ID, access it or make us erase it, download our app for iOS and Android (“Data Protection Rights” App).
+==========
+Only you, or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your Personal Information.
+You may only make a verifiable consumer request for access or data portability twice within a 12-month period.
+==========
+The verifiable consumer request must:
+provide sufficient information that allows us to reasonably verify you are the person about whom we collected Personal Information or an authorized representative;
+describe your request with sufficient detail that allows us to properly understand, evaluate, and respond to it.
+We cannot respond to your request or provide you with Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information relates to you.
+==========
+Do Not Sell My Personal Information Link:
+California law requires that we maintain a webpage that allows you to opt out of the sale of your Personal Information, which can be accessed as follows:
+For Personal Information stored against our Cookie ID by clicking the following link: Do not sell my personal information.
+For Personal Information stored against our Ad ID by downloading our “Data Protection Rights” App by clicking the following link:
+if you are using an Android device: Do not sell my personal information
+if you are using an Apple device: Do not sell my personal information
+–     For Personal Information stored against your Ad ID you can also write an email to our Privacy Team at [email protected] submitting your Ad ID together with your request so that we can assist you effectively.
+– In order to find Ad ID on an Android device, you need to go on your device to ‘Settings’ -> ‘Google’ -> ‘Ads’ -> ‘Your advertising ID’.
+– In order to find your Ad ID on an Apple device, a third-party tool is required.
+==========
+There is a wide selection of apps with the capability on the App Store.
+– To find your Ad ID, you can also use our App or Portal (https://privacy.zeotap.com), as described above.
+Contact
+If you have any questions or suggestions about this Policy and our privacy practices, please contact us at: [email protected]
+zeotap GmbH
+Daniel Heer, Managing Director
+Mehringdamm 32-34, 10961 Berlin, Germany
+==========

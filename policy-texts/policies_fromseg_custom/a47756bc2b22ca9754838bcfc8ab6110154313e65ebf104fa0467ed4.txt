@@ -1,0 +1,116 @@
+What personal information do we collect?
+What we collect
+If you do not have behavioural advertising turned on, we will not collect any personal information about you except your IP address, which may be temporarily stored in our logs.
+==========
+Your phone creates a number called an Advertising Identifier.
+Your Advertising Identifier only relates to your phone.
+==========
+We can use it to see when you have interacted with the Apps in which we show adverts for our surveys.
+If you do have behavioural advertising turned on, your App publisher will provide us with your Advertising Identifier together with the following information:
+
+Operating system, browser, IP and device type.
+==========
+If you are in the European Economic Area (EEA), your approximate location.
+If you are outside the EEA, on a small number of occasions we will receive your accurate location.
+==========
+Application information.
+Information about your interaction with the adverts for our surveys (clicks and views).
+==========
+If you answer one of our surveys and have behavioural advertising turned on, we will also collect your answers and link them to your Advertising Identifier, but only where you are outside the EEA or you have provided us with consent.
+Otherwise, if you complete a survey we will collect the answer but will not be able to connect them to you.
+==========
+What we do not collect
+It is important to explain what we do not collect.
+We do not collect any information which would identify you in the real world.
+For example, we do not collect:
+
+Your name and address.
+==========
+Phone number.
+Email address.
+==========
+We do not collect any confidential or ‘special category’ personal information.
+If we ask questions relating to special category information, we make sure we always anonymise the answers.
+==========
+In fact, we collect so little personal information, the only way we could identify you is through your Advertising Identifier.
+How do we use your personal information?
+==========
+As we mentioned above, the survey results we share with other organisations are totally anonymous.
+However, it is useful for the background workings of our surveys if we can collect the above information about you.
+We use your personal information to:
+
+Make sure we do not keep showing you the same survey.
+==========
+Show you surveys which are relevant to your general location, previous answers and choice of apps.
+Avoid showing you surveys which are not relevant to you.
+==========
+How we collect your personal information
+We will collect your personal information directly from your phone when we place an advert for our surveys on your phone or when you complete our surveys.
+Legal ground for our collection of your personal information
+If you are in the EEA, the legal grounds for collecting your IP address and, where you have behavioural advertising turned on, personal information from your App publisher is the legitimate interests of running our business.
+If you are in the EEA, the legal grounds for us collecting your survey answers is consent.
+Automated decision making
+We use automated decision making as part of the following:
+
+Probability Targeting: We use the personal information we collect above to target people that look similar to people we need for a survey.
+==========
+For example, if we do not have enough male respondents to get to a 50/50 split (male/female) the advertisement for this survey is more likely to show up for users that have the same usage patterns as people we know are male.
+Rate Limits: To make sure we do not keep showing the same invitations to the same user we store how many times a specific Advertising Identifier was exposed to the same invitation and how they interacted with it.
+==========
+Retargeting: Some of our partners might conduct surveys based on exposure to one of their advertising campaigns.
+Qriously temporarily (for the duration of that campaign) stores previous exposure information in a pseudo-anonymized way.
+Additionally Qriously might retarget users that participated in one of our previous surveys to measure changes in opinions.
+Sharing your personal information
+We only share anonymised survey results with our clients.
+We do not share your answers in a way that you can be identified.
+==========
+The following organisations handle personal information on our behalf as part of the computing services they provide:
+
+Amazon Web Services, Inc.
+OVH LTD
+
+We have agreements in place so that these organisations only handle personal information as we have instructed them to.
+They are not able to make any other use of your personal information (except where required by law).
+==========
+Transferring personal information outside the European Economic Area
+Some of our offices and processors are based outside of the EEA.
+When we send your personal information outside of the EEA to a country or sector not recognised by the European Commission as providing appropriate protections, we put in place appropriate contracts, group agreements or other safeguards to ensure European Union citizens’ rights are protected.
+Your rights and managing your personal information
+Every survey we send you contains information about how to view and manage your personal information.
+==========
+It is important that you are familiar with and easily able to exercise your rights.
+We can only be sure of your identity by confirming your Advertising Identifier, so some of your rights can only be exercised from within our surveys on your phone.
+You have the following rights:
+
+The right to be informed if personal information relating to you is being used or stored (which is what this privacy notice is for).
+The right to access personal information relating to you which we collect.
+You can access your personal information from within one of our surveys on your phone.
+The right to withdraw consent to the collection of your personal information.
+You can withdraw consent for our collection of your personal information by:
+
+Selecting the relevant option from within one of our surveys.
+==========
+Following the ‘opt-out’ information below.
+The right to erasure of information relating to you that we collect.
+You can delete your personal information from within one of our surveys on your phone.
+The right of data portability.
+You can download your personal information by accessing one of our surveys on your phone.
+==========
+The right to have personal information relating to you rectified if it is inaccurate.
+If you think any of your personal information is inaccurate please email privacy@qriously.com.
+The right to have personal information relating to you restricted or blocked from being collected.
+Please be aware that these rights are not always absolute and there may be some situations in which you cannot exercise them or they are not relevant.
+==========
+How to opt-out
+You can opt-out of us collecting any of your personal information from within a survey on your phone.
+You can also change your phone’s settings so that you are automatically opted-out of us collecting any of your personal information.
+On an Apple phone go to: Settings > Privacy > Advertising > Limit Ad Tracking > On
+On an Android phone go to:
+Google Settings > Ads > Opt-out of Interest-based Ads > On
+
+How long we keep your personal information
+Unless you ask us to delete your personal information, we will keep it for 12 months after we last interacted with your Advertising Identifier.
+IAB TCF
+Qriously participates in the IAB Europe Transparency & Consent Framework and complies with its Specifications and Policies.
+Our identification number within the framework is 250.
+==========

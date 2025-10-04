@@ -1,0 +1,72 @@
+For information regarding our website privacy practices, please click here
+Privacy Statement & Opt-Out
+
+adsquare GmbH (“adsquare”) offers a targeting solution that makes advertising more relevant for consumers.
+Our platform was built from day one with user privacy at the core of its design, works completely without cookies and has been awarded with privacy seals for best practice data processing, guaranteeing compliance with both German and European privacy laws.
+Let’s start with you, the user…
+
+If you’re a user of mobile applications, adsquare may use your location, app usage and other device data in an anonymized and privacy-friendly way.
+==========
+What we do not have access to and have no intention of knowing is any personal identifiable information (PII) such as your name or your address.
+Therefore, adsquare may use pseudonymous identifiers associated with your mobile device and utilise hashing, encryption and de-identification techniques to help ensure your privacy is safeguarded.
+We collect this information in order to ensure advertisers can provide you with relevant advertising based on your interests and local context.
+The aim of this is to effectively reduce the amount of ads you see that aren’t beneficial or of interest to you.
+An opt-out from targeting does not reduce the amount of ads, it just makes the ads you receive less tailored.
+==========
+What information do we collect?
+adsquare processes anonymous device and location information without using any tracking cookies or fingerprinting solution.
+At adsquare, we fully respect each citizen’s right of informational self-determination and require our publishers and network partners to inform users about the use of geo-location and provide an opt-out option (for more details please review adsquare’s Terms and Conditions).
+The core of adsquare’s platform uses geo-location transitioned into non-precise location context information as input for services that aim at increasing the delivery precision and effectiveness of ads.
+In addition to this, the adsquare platform receives app usage and device information such as model, network operator, publisher etc. to build probabilistic audience segments.
+==========
+None of the information (technical and all other information) submitted to adsquare is personally identifiable information (PII).
+It is not possible for adsquare to identify individuals via the information collected by the adsquare platform.
+We are a third-party data marketplace that offers consumer information to third parties for the purpose of said third parties using the information to facilitate the selection of and/or execution of consumer marketing solicitations to offer products or services.
+The collection and use of that consumer information is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by adsquare.
+How and why do we collect information?
+Location information and other above described technical information (device model, mobile network operator, etc.) is submitted to the adsquare platform via interfaces such as an application programming interface (“API”).
+The information is collected in order to provide services that allow adsquare’s clients to increase relevancy and effectiveness of delivered ads.
+What information does adsquare share with third parties?
+The adsquare platform delivers probabilistic audience segments and other information describing location context and general statistical information to its customers.
+adsquare does not own, share, rent or sell any personally identifiable information (PII) such as your name or address.
+How is information stored?
+==========
+adsquare enforces generally accepted industry security standards on the adsquare platform to protect the information both during transmission and once it is received.
+adsquare works completely without cookies in compliance with both German and European privacy laws.
+Opt-Out via device settings
+
+Data is only processed in order to show you the most relevant advertising content.
+==========
+If you’re opposed to this, always read the terms and conditions when installing new apps.
+Many websites and mobile applications provide opt-out options and you have the option to limit ad tracking on your smartphone.
+If you wish that your location be private, you can turn the geo-location feature off within the Location settings of your device.
+In addition to this, you can disable ad tracking on your device so that adsquare will no longer include device information in its audience segments.
+The following instructions explain how to turn off ad tracking for Apple and Android devices:
+
+iOS 6:
+Choose Settings > General > About > AdvertisingTurn on Limit Ad Tracking
+iOS 7 or higher:
+Choose Settings > Privacy > AdvertisingTurn on Limit Ad Tracking
+Android:
+Choose Google Settings > AdsCheck Opt out of interest-based ads
+Opt-Out via Advertising ID
+
+To specifically opt-out from our services without changing your device settings, you can use the following form to submit your Advertising ID to our platform.
+To find out your Advertising ID, use the following instruction: 
+
+iOS users have to download an app (e.g.
+The Identifiers) and copy the “Advertising Identifier”Android users choose Google Settings > Ads and copy the “advertising ID”
+Changes to this Privacy Statement
+
+We may change this Privacy Policy at any time by publishing a modified version of the Privacy Policy on the adsquare Website.
+It is your responsibility to review this Privacy Policy (as amended by us from time to time).
+==========
+Questions?
+If you have questions about privacy on the adsquare platform, please email privacy@adsquare.com.
+Alternatively, you may contact us at the address below:
+adsquare GmbH
+Saarbrücker Str.
+36
+10405 Berlin
+Germany
+==========

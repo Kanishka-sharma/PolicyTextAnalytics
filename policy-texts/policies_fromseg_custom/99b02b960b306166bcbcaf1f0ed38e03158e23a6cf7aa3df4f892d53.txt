@@ -1,0 +1,658 @@
+VONAGE TERMS OF SERVICE
+
+These Terms of Service constitute the agreement ("Agreement") between Vonage America Inc. ("we," "us" or "Vonage") and the user ("you," "user" or "Customer") of Vonage's residential and small business 
+communications services and any related products or services ("Service").
+This Agreement governs both the Service and any devices, such as an IP phone, Vonage V-Phone™, Multimedia Terminal Adapter, Analog Telephone 
+Adapter or any other IP connection device ("Device" or "Equipment"), used in conjunction with the Service and it applies to all lines on each Vonage account.
+If you purchased Equipment from a retail store, 
+dealer or other provider other than Vonage, you are a "Retail Customer" for purposes of this Agreement.
+BY ACTIVATING OR USING THE SERVICE, YOU REPRESENT THAT YOU ARE OF LEGAL AGE TO ENTER INTO THIS AGREEMENT AND THAT YOU HAVE READ AND UNDERSTAND FULLY THE TERMS AND CONDITIONS OF THIS AGREEMENT.
+1.
+==========
+EMERGENCY SERVICES - 911 DIALING 
+
+1.1 911 Dialing.
+Vonage 911 Dialing is different than traditional 911 service.
+Most of our customers (other than WiFi, Vonage V-Phone and Softphone customers) have access to either basic 911 or Enhanced 911 (E911) service.
+With E911 service, when you dial 911, your telephone number and registered address 
+is simultaneously sent to the local emergency center assigned to your location, and emergency operators have access to the information they need to send help and call you back if necessary.
+Customers in locations 
+where the emergency center is not equipped to receive your telephone number and address have basic 911.
+With basic 911, the local emergency operator answering the call will not have your call back number or your exact 
+location, so you must be prepared to give them this information.
+Until you give the operator your phone number, he/she may not be able to call you back or dispatch help if the call is not completed or is not forwarded, 
+is dropped or disconnected, or if you are unable to speak.
+==========
+As additional local emergency centers become capable of receiving our customers' information, Vonage will automatically upgrade customers with basic 
+911 to E911 service.
+Vonage will not give you notice of the upgrade.
+Certain customers do not have access to either basic 911 or E911.
+If you don't have access to basic 911 or E911 your 911 call will be sent to the Vonage national emergency call center.
+==========
+A trained agent at 
+the emergency call center will ask for the name, telephone number and location of the customer calling 911, and then contact the local emergency center for such customer in order to send help.
+Examples of situations 
+where 911 calls will be sent to the Vonage national emergency call center include when there is a problem validating a customer's address, the customer is identified with an international location, or the 
+customer is located in an area that is not covered by the landline 911 network.
+In addition, if you use a WiFi, Vonage V-Phone or SoftPhone, due to the portable nature of these Devices, your 911 calls will be routed to the Vonage 
+national emergency call center.
+Emergency personnel do not receive your phone number or physical location when your 911 call is routed to the Vonage national emergency call center.
+You authorize us to disclose your name and address to third-parties involved with providing 911 Dialing to you, including, without limitation, call routers, call centers and local emergency centers.
+==========
+1.2 Notify All Users.
+You should inform any household residents, guests and other third persons who may be present at the physical location where you utilize the Service of the important differences 
+in and limitations of Vonage 911 Dialing as compared with basic 911 or E911.
+The documentation that accompanies each Device that you purchase will include a sticker concerning the potential non-availability of 
+basic 911 or E911 (the "911 Sticker").
+It is your responsibility, in accordance with the instructions that accompany each Device, to place the 911 Sticker on each Device that you use with the Service.
+If you did not 
+receive a 911 Sticker with your Device, or you require additional 911 Stickers, please contact our customer care department at 1-VONAGE-HELP.
+==========
+1.3 Registration of Physical Location Required.
+For each phone number that you use for the Service, you must register with Vonage the physical location where you will be using the Service with that 
+phone number.
+When you move the Device to another location, you must register your new location.
+If you do not register your new location, any call you make using the 911 Dialing feature may be sent to an emergency 
+center near your old address.
+==========
+You will register your initial location of use when you subscribe to the Service.
+Thereafter, you may register a new location by following the instructions from the "911" registration 
+link on your Vonage web account dashboard features page.
+For purposes of the 911 Dialing feature, you may only register one location at a time for each phone line you use with the Service.
+Regardless of what address 
+you register for a WiFi, Vonage V-Phone or SoftPhone, emergency calls you make from these devices will be routed to the Vonage national emergency response center.
+1.4 Confirmation of Activation Required.
+Your 911 Dialing feature will not be activated for any phone line that you are using with the Service, unless and until you receive an email from us confirming 
+that the 911 Dialing feature has been activated for that phone line.
+==========
+1.5	Service Outages.
+(a)	Service Outages Due to Power Failure or Disruption.
+911 Dialing does not function in the event of a power failure or disruption.
+If there is an interruption in the power supply, the Service, 
+including 911 Dialing, will not function until power is restored.
+Following a power failure or disruption, you may need to reset or reconfigure the Device prior to utilizing the Service, including 911 Dialing.
+==========
+(b)	Service Outages Due to Internet Outage or Suspension or Disconnection of Broadband Service or ISP Service.
+Service outages or suspensions or disconnections of service by your broadband provider or 
+ISP will prevent all Service, including 911 Dialing, from functioning.
+(c)	Service Outage Due to Disconnection of Your Vonage Account.
+Service outages due to disconnection of your account will prevent all Service, including 911 Dialing, from functioning.
+(d)	Service Outages Due to ISP or Broadband Provider Blocking of Ports or Other Acts.
+Your ISP or broadband provider or other third party may intentionally or inadvertently block the ports over 
+which the Service is provided or otherwise impede the usage of the Service.
+In that event, provided that you alert us to this situation, we will attempt to work with you to resolve the issue.
+==========
+During the period 
+that the ports are being blocked or your Service is impeded, and unless and until the blocking or impediment is removed or the blocking or impediment is otherwise resolved, your Service, including the 911 
+Dialing feature, may not function.
+You acknowledge that Vonage is not responsible for the blocking of ports by your ISP or broadband provider or any other impediment to your usage of the Service, and any 
+loss of service, including 911 Dialing, which may result.
+In the event you lose service as a result of blocking of ports or any other impediment to your usage of the Service, you will continue to be responsible 
+for payment of the Service charges unless and until you disconnect the Service in accordance with this Agreement.
+==========
+(e)	Other Service Outages.
+If there is a Service outage for any reason, such outage will prevent all Service, including 911 Dialing, from functioning.
+Such outages may occur for a variety of 
+reasons, including, but not limited to, those reasons described elsewhere in this Agreement.
+==========
+1.6	Re-Activation Required if You Change Your Number or Add or Port New Numbers.
+911 Dialing does not function if you change your phone number or if you add or port new phone numbers to 
+your account, unless and until you successfully register your location of use for each changed, newly added or newly ported phone number.
+1.7	Network Congestion; Reduced Speed for Routing or Answering 911 Dialing Calls.
+There may be a greater possibility of network congestion and/or reduced speed in the routing of a 911 Dialing 
+call made utilizing the Service as compared to traditional 911 dialing over traditional public telephone networks.
+==========
+1.8 Disclaimer of Liability and Indemnification.
+We do not have any control over whether, or the manner in which, calls using our 911 Dialing service are answered or addressed by any local emergency 
+response center.
+We disclaim all responsibility for the conduct of local emergency response centers and the national emergency calling center.
+We rely on third parties to assist us in routing 911 Dialing calls 
+to local emergency response centers and to a national emergency calling center.
+We disclaim any and all liability or responsibility in the event such third party data used to route calls is incorrect or yields 
+an erroneous result.
+==========
+Neither Vonage nor its officers or employees may be held liable for any claim, damage, or loss, and you hereby waive any and all such claims or causes of action, arising from or relating to 
+our 911 Dialing service unless such claims or causes of action arose from our gross negligence, recklessness or willful misconduct.
+You shall defend, indemnify, and hold harmless Vonage, its officers, directors, 
+employees, affiliates and agents and any other service provider who furnishes services to you in connection the Service, from any and all claims, losses, damages, fines, penalties, costs and expenses (including, 
+without limitation, attorneys fees) by, or on behalf of, you or any third party relating to the absence, failure or outage of the Service, including 911 Dialing, incorrectly routed 911 Dialing calls, and/or the 
+inability of any user of the Service to be able to use 911 Dialing or access emergency service personnel.
+1.9 Alternate 911 Arrangements.
+If you are not comfortable with the limitations of the 911 Dialing service, you should consider having an alternate means of accessing traditional 911 or E911 
+services or disconnecting the Service.
+2.
+==========
+SERVICE
+
+2.1 (a) Monthly Term.
+Service is offered on a monthly basis for a term that begins on the date that Vonage activates your Service and ends on the day before the same date in the following month.
+Subsequent terms of this Agreement automatically renew on a monthly basis unless you give us written notice of non-renewal at least ten (10) days before the end of the monthly term in which the notice is 
+given.
+You are purchasing the Service for full monthly terms, meaning that if you attempt to disconnect Service prior to the end of a monthly term, you will be responsible for the full month's charges to the end 
+of the then-current term, including, without limitation, unbilled charges, plus a disconnection fee, if applicable, all of which will immediately become due and payable.
+You will also be responsible for the 
+next full month's charges in the event that you do not provide the requisite ten-day notice of disconnection prior to the expiration of the then-current term.
+Expiration of the term or disconnection of 
+Service will not excuse you from paying all accrued and unpaid charges due under this Agreement.
+Notwithstanding the foregoing, if you disconnect Vonage service after the Money Back Guarantee period (see section 3.7),
+but within the first twelve months, Vonage charges a disconnection fee of $39.99 per line.
+==========
+2.1(b) Other Term Commitments.
+If you accept an equipment upgrade or other promotion, such as a free month of service, a rebate or other incentive, there may be a term commitment associated with 
+the benefit you accepted.
+Your term begins the date you activate the new equipment or accept the promotion and ends on the last day of the commitment period.
+The commitment period will be disclosed as part of 
+the promotion.
+==========
+If you disconnect service prior to the end of the commitment period, you agree to pay Vonage a recovery fee for the promotion and/or promotion you accepted.
+Recovery fees are cumulative and in 
+addition to any other charges or fees you may owe Vonage and any fees or charges the Vonage requires upon disconnection of service, such as those described in §3.4.
+Each recovery fee is an amount equal to 
+the difference between the price you paid and the regular price of the good or service at the time you accepted the equipment or promotion.
+==========
+2.2	Residential Use of Service and Device.
+If you subscribe to Vonage's residential services, the Service and the Device are provided to you solely for residential use.
+You shall not resell or 
+transfer the Service or the Device to another party without our prior written consent.
+You are prohibited from using the Service or the Device for auto-dialing, continuous or extensive call forwarding, 
+telemarketing (including, without limitation, charitable or political solicitation or polling), fax or voicemail broadcasting or fax or voicemail blasting.
+We reserve the right to immediately disconnect 
+or modify your Service if we determine, in our sole and absolute discretion, that your use of the Service or the Device is, or at any time was, inconsistent with normal residential usage patterns.
+In addition, 
+you will be required to pay our higher rates for commercial service for all periods in which your use of the Service or the Device was inconsistent with normal residential use.
+==========
+2.3	Small Business and Vonage Office Anywhere™ Use of Service and Device.
+If you subscribe to Vonage's Small Business services or Vonage's Office Anywhere Plan, the Service and Device are provided to you as a small business user or business traveler.
+You shall not resell or 
+transfer the Service or the Device to another party without our prior written consent.
+You are prohibited from using the Service or the Device for auto-dialing, continuous or extensive call forwarding, 
+telemarketing (including, without limitation, charitable or political solicitation or polling), fax or voicemail broadcasting or fax or voicemail blasting.
+We reserve the right to immediately disconnect or modify 
+your Service if we determine, in our sole and absolute discretion, that your use of the Service or the Device is, or at any time was, inconsistent with normal small business or business travel usage patterns, or that you have at any time used the Service or the Device for any of the aforementioned or similar activities.
+==========
+2.4	Business Plus Use of Service.
+If you subscribe to Vonage's Business Plus services, the Service is provided to you as a small business user.
+You shall not resell or transfer the Service to 
+another party without our prior written consent.
+You are responsible for supplying, operating and supporting the standard SIP based Customer Premise Equipment for use with the Service.
+We reserve the right to 
+immediately disconnect or modify your Service if we determine, in our sole and absolute discretion, that you have at any time used the Service for any of the aforementioned or similar activities.
+==========
+2.5	Prohibited Uses.
+(a) Unlawful.
+You shall use the Service and the Device only for lawful purposes.
+We reserve the right to immediately disconnect your Service without notice, if, in our sole and absolute discretion, 
+we determine that you have used the Service or the Device for an unlawful purpose.
+==========
+In the event of such disconnection, you will be responsible for the full month's charges to the end of the current term, including, 
+without limitation, unbilled charges, plus a disconnection fee, if applicable, all of which will become immediately due and payable upon disconnection of your Service.
+If we believe that you have used the Service or 
+the Device for an unlawful purpose, we may forward the relevant communication and other information, including your identity, to the appropriate authorities for investigation and prosecution.
+You hereby consent to 
+our forwarding of any such communications and information to these authorities.
+In addition, Vonage will provide information in response to law enforcement requests, lawful government requests, subpoenas, court 
+orders, to protect it's rights and property and in the case where failure to disclose the information may lead to imminent harm to the customer or others.
+==========
+(b) Inappropriate Conduct.
+You shall not use the Service or the Device in any way that is threatening, abusive, harassing, defamatory, libelous, deceptive, fraudulent, invasive of another's privacy, 
+or any similar behavior.
+We reserve the right to immediately disconnect your Service without notice, if, in our sole and absolute discretion, we determine that you have used the Service or the Device in any of the 
+aforementioned ways.
+In the event of such disconnection, you will be responsible for the full month's charges to the end of the current term, including, without limitation, unbilled charges, plus a disconnection fee, 
+if applicable, all of which will become immediately due and payable upon disconnection of your Service.
+==========
+If we believe that you have used the Service or the Device in any of the aforementioned ways, we may forward 
+the relevant communication and other information, including your identity, to the appropriate authorities for investigation and prosecution.
+You hereby consent to our forwarding of any such communications and 
+information to these authorities.
+In addition, Vonage will provide information in response to law enforcement requests, subpoenas, court orders, to protect it's rights and property and in the case where failure 
+to disclose the information may lead to imminent harm to the customer or others .
+Furthermore, Vonage reserves all of its rights at law and equity to proceed against anyone who uses the Services illegally or improperly.
+==========
+2.6	Use of Service and Device by Customers Outside the United States.
+Although we encourage you to use of the Service to place calls to foreign countries from within the United States and to use the Vonage Service as you travel, we do not presently offer or support the Service in any countries other than the United States, Canada and the United Kingdom.
+Vonage Service is designed to work generally with unencumbered high-speed internet connections.
+However, if the high-speed internet connection you are using is outside the United States, Canada or the UK,  and/or your ISP places restrictions on the usage of VoIP services, Vonage does not represent or warrant that use of the Vonage Service by you is permitted by any other jurisdictions or by any or all the ISPs.
+You will be solely responsible for any violations of local laws and regulations or violations of ISP terms of service resulting from such use.
+We reserve the right to disconnect your Service immediately if we determine, in our sole and absolute discretion, that you have used the Service or the Device in violation of laws of jurisdictions outside the U.S., Canada and the UK.
+==========
+2.7	Copyright; Trademark; Unauthorized Usage of Device; Firmware or Software.
+(a)	Copyright; Trademark.
+The Service and Device and any firmware or software used to provide the Service or provided to you in conjunction with providing the Service, or embedded in the Device, 
+and all Services, information, documents and materials on our websites are protected by trademark, copyright or other intellectual property laws and international treaty provisions.
+All of our websites, corporate 
+names, service marks, trademarks, trade names, logos and domain names (collectively "marks") are and will at all times remain our exclusive property.
+==========
+Nothing in this Agreement grants you the right or license to 
+use any of our marks.
+(b)	Unauthorized Usage of Device; Firmware or Software.
+Other than for Business Plus customers, you have not been granted any license to use the firmware or software used to provide the Service 
+or provided to you in conjunction with providing the Service, or embedded in the Device, other than a nontransferable, revocable license to use such firmware or software in object code form (without making any 
+modification thereto) strictly in accordance with the terms and conditions of this Agreement.
+Other than for Business Plus customers, you expressly agree that the Device is exclusively for use in connection 
+with the Service and that we will not provide any passwords, codes or other information or assistance that would enable you to use the Device for any other purpose.
+==========
+We reserve the right to prohibit the use of 
+any interface device that we have not provided to you.
+You hereby represent and warrant that you possess all required rights, including software and/or firmware licenses, to use any interface device that we have 
+not provided to you.
+In addition, you shall indemnify and hold us harmless against any and all liability arising out of your use of such interface device with the Service.
+You shall not reverse compile, 
+disassemble or reverse engineer or otherwise attempt to derive the source code from the binary code of the firmware or software.
+2.8	Tampering with the Device or Service.
+==========
+You shall not change the electronic serial number or equipment identifier of the Device or to perform a factory reset of the Device without our prior 
+written consent.
+We reserve the right to disconnect your Service if we believe, in our sole and absolute discretion, that you have tampered with the Device.
+In the event of such disconnection, you will remain 
+responsible for the full month's charges to the end of the current term, including, without limitation, unbilled charges, plus a disconnection fee, if applicable, all of which will immediately become due and payable.
+You shall not attempt to hack or otherwise disrupt the Service or make any use of the Service that is inconsistent with its intended purpose.
+==========
+2.9 Theft of Service.
+You shall not use the Service in a manner calculated to avoid Vonage policies and procedures.
+You shall not obtain or use the Services in an improper manner.
+==========
+You shall 
+notify us immediately, in writing or by calling our customer support line, if the Device is stolen or if you become aware at any time that your Service is being stolen, fraudulently used or otherwise being used 
+in an unauthorized manner.
+When you call or write, you must provide your account number and a detailed description of the circumstances of the Device theft, fraudulent use or unauthorized use of Service.
+Failure 
+to do so in a timely manner may result in the disconnection of your Service and additional charges to you.
+Until such time as we receive notice of the theft, fraudulent use or unauthorized use, you will be liable 
+for all use of the Service using a Device stolen from you and any and all stolen, fraudulent or unauthorized use of the Service.
+Vonage reserves all of its rights at law and equity to proceed against anyone who 
+uses the Services illegally or improperly.
+==========
+2.10	Return of Device (Does Not Apply to Business Plus Customers)
+
+
+Retail Customers.
+A Retail Customer may only return the Device to the retail store, dealer or other provider from which the Retail Customer purchased the Device.
+All returns will be subject 
+to the return policy of such retail store,  dealer or other provider.
+We will not accept any Device returned to us from a Retail Customer.
+==========
+Vonage will credit services fees if you call us within the 
+Money Back Guarantee period.
+(b)	Non-Retail Customers.
+Non-Retail Customers may return the Device to us if 1) you cancel services within the Money Back Guarantee period and 2) you return the Device to us with a valid return
+authorization number within fourteen (14) days of the date you disconnected Service.
+Vonage will also waive our $39.99 disconnection fee subject to the following:
+
+
+The Money Back Guarantee period only applies to the initial line ordered on your account, additional lines are excluded;
+Service is disconnected within the first thirty (30) days following the activation of the Service, activation occurs when you place your order for service;
+We receive the Device is in original condition, reasonable wear and tear excluded;
+You return original proof of purchase with the Device, together with the original packaging, all parts, accessories, and documentation;
+Prior to returning the Device to us, you must obtain a valid return authorization number from our customer care department, which can be reached at billing@vonage.com 
+or 1-VONAGE-HELP; and
+You must pay all costs of shipping the Device back to us.
+So long as you disconnect service within the Money Back Guarantee Period and return your equipment with a valid return authorization number to Vonage within fourteen (14) days of disconnection, Vonage will issue 
+ONE disconnection fee credit to your account.
+If you receive cartons or Devices that are visibly damaged, you must note the damage on the carrier's freight bill or receipt and keep a copy.
+In such event, you must keep the original carton, all packing 
+materials and parts intact in the same condition in which they were received from the carrier and contact our customer care department immediately at billing@vonage.com or 1-VONAGE-HELP.
+2.11	Number Transfer on Service Disconnection.
+Upon the disconnection of your Service, we may, in our sole and absolute discretion, release to your new service provider the telephone number that 
+you ported (transferred or moved over) to us from your previous service provider and used in connection with your Service if:
+
+such new service provider is able to accept such number;
+your account has been properly disconnected; 
+your account is completely current, including payment for all charges and applicable disconnection fees; and 
+you request the transfer upon disconnecting your account.
+==========
+2.12 Service Distinctions.
+The Service is not a telecommunications service and we provide it on a best efforts basis.
+Things beyond our control may affect the Service, such as power outages, 
+fluctuations in the internet, your underlying broadband service.
+Other things may affect Service, such as maintenance.
+Vonage will act in good faith to minimize disruptions to your use of and access to Service.
+==========
+Important distinctions exist between telecommunications service and the Service offering that we provide.
+The Service is subject to different regulatory treatment than telecommunications service.
+This treatment 
+may limit or otherwise affect your rights of redress before regulatory agencies.
+2.13	Ownership and Risk of Loss.
+You will own the Device and bear all risk of loss of, theft of, casualty to or damage to the Device, from the time it is shipped to you until the time 
+(if any) when it is returned to us in accordance with this Agreement.
+==========
+2.14	No 0+ or Operator Assisted Calling; May Not Support x11 Calling.
+The Service does not support 0+ or operator assisted calling (including, without limitation, collect calls, third party 
+billing calls, 900 or calling card calls).
+The Service may not support 311, 511 and/or other x11 (other than certain specified dialing such as 911 and 411, which are provided for elsewhere in this Agreement) 
+services in one or more (or all) service areas.
+==========
+2.15	No Directory Listing.
+The phone numbers you obtain from us will not be listed in any telephone directories.
+Phone numbers transferred from your local phone company may, however, be 
+listed.
+As a result, someone with your phone number may not be able to utilize a reverse directory to lookup your address.
+==========
+2.16	Incompatibility With Other Services.
+(a)	Home Security Systems.
+The Service may not be compatible with home security systems.
+You may be required to maintain a telephone connection through your local exchange carrier in order 
+to use any alarm monitoring functions for any security system installed in your home or business.
+You are responsible for contacting the alarm monitoring company to test the compatibility of any alarm 
+monitoring or security system with the Service.
+==========
+(b)	Certain Broadband, Cable Modem, and Other Services.
+You acknowledge that the Service presently is not compatible with AOL cable broadband service, certain versions of TiVO, and there may be other services with which the 
+Service may be determined to be incompatible.
+You further acknowledge that some providers of broadband service may provide modems that prevent the transmission of communications using the Service.
+We do not 
+warrant that the Services will be compatible with all broadband services and expressly disclaim any express or implied warranties regarding the compatibility of the Service with any particular broadband service.
+3.
+==========
+CHARGES; PAYMENTS; TAXES; DISCONNECTION
+
+3.1 Billing.
+When the service is activated, you must provide us with a valid email address and a credit or debit card number from a card issuer that we accept.
+We reserve the right to stop 
+accepting credit or debit cards from one or more issuers.
+If your credit or debit card expires, you close your account, your billing address changes, or your credit or debit card is cancelled and replaced on 
+account of loss or theft, you must advise us at once.
+We will bill all charges, applicable taxes and surcharges monthly in advance (except for usage-based charges, which will be billed monthly in arrears, 
+and any other charges which we decide to bill in arrears) to your credit or debit card, including but not limited to : 
+
+
+	activation fees; monthly Service fees; usage charges; international usage charges; advanced feature charges; premium services/Add-Ons, equipment purchases; regulatory recovery fee; Emergency 
+	911 Cost Recovery; 911 fees; federal, state and/or local taxes; disconnection fees; and shipping and handling charges.
+==========
+The amount of such fees and charges shall be published on our website and may change from time to time.
+Vonage may introduce new products and services at special introductory pricing.
+Introductory pricing may 
+change at Vonage's discretion.
+Notification of monthly invoices will be sent to you via your email address on file with us.
+We reserve 
+the right to bill at more frequent intervals if the amount you owe to us at any time exceeds $50.
+==========
+Vonage bills usage charges in full minute increments that are rounded up to the next full minute unless otherwise 
+set forth in the rate schedules found on our website.
+Vonage bills fractional usage charges in full cents that are rounded up when the value is $.005 or more and down when the value is less than $.005, 
+unless otherwise set forth in the rate schedules found on our website.
+The above fees are defined as follows:
+
+Activation Fee - This fee covers charges for setting up your account and activating you on our system.
+Monthly Service Fee - This is the basic charge associated with your service.
+This fee includes the calling charges defined by your plan, the features associated with your plan and basic account services.
+==========
+Usage Charges - If you exceed the number of calling minutes on your plan, Vonage will bill you for the minutes you use above your allowance.
+Vonage also bills for calls to directory assistance and 
+other information services.
+International Usage Charges - These are the fees associated with calls to locations outside of the US, Canada and Puerto Rico.
+However, if you are on an unlimited calling plan, Vonage will not charge you for calls to France, Ireland, Italy, Spain and the UK that terminate to another Vonage line or a landline telephone.
+==========
+Advanced Features, Add-Ons, Premium Services - Vonage charges additional fees for enhanced features and services such as Virtual Phone Number and SoftPhone.
+Equipment Purchases - In most instances, you will pay for equipment associated with your Vonage service with your credit or debit card.
+However, there may be occasions when Vonage will offer you the 
+option to bill equipment to your account.
+==========
+Regulatory Recovery Fee - A regulatory recovery surcharge of $0.99 applies to each phone number.
+Vonage uses this fee to pay our regulatory-related fees and expenses, including taxes, number 
+portability charges, and related legal fees.
+Emergency 911 Cost Recovery of $0.99 applies to each line of service.
+This fee is used to recover costs directly associated with developing, implementing and maintaining a nationwide E911 in compliance with 
+FCC regulations, Vonage 911 dialing and the Vonage national 911 emergency call center.
+==========
+Taxes - Vonage is required to bill and collect local, state and federal taxes imposed on Vonage customers by the various taxing authorities.
+Vonage passes all taxes it collects on to the appropriate taxing authority.
+911 Fees - State and/or local governments may assess fees on Vonage to pay for emergency services in your community.
+Vonage bills and collects 911 fees from its customers and remits such fees to the 
+appropriate authority.
+Depending on where you live, these fees can vary widely.
+Vonage is committed to supporting public safety services and resources in your State.
+For more information, and to learn more 
+about the fees collected in your community for emergency services, contact your state or local elected official.
+==========
+3.2	Billing Disputes.
+You must notify us in writing within seven days after receiving your credit or debit card statement if you dispute any Vonage charges on that statement or you will be 
+deemed to have waived any right to contest such charges.
+All notices of disputed charges should be sent to:
+
+Customer Care Billing Department
+
+Vonage  
+
+23 Main Street 
+
+Holmdel,  New Jersey 07733 
+
+-or- billing@vonage.com
+
+3.3 	Payment and Collection.
+(a)	Payment.
+==========
+We only accept payment by credit  or debit card.
+Your subscription to the Service authorizes us to charge your credit or debit card.
+This authorization will remain valid until 30 
+days after we receive written notice from you terminating our authority to charge your credit or debit card, whereupon we will charge your credit or debit card for the disconnection fee, if applicable, and any other 
+outstanding charges and disconnect your Service.
+We may disconnect your Service at any time in our sole and absolute discretion if any charge to your credit or debit card is declined or reversed, your credit or debit 
+card expires and you have not provided us with a valid replacement credit or debit card or in case of any other non-payment of account charges.
+==========
+(b)	Collection.
+If your Service is disconnected, you will remain fully liable to us for all charges pursuant to this Agreement and any and all costs we incur to collect such amounts, including, 
+without limitation, collection costs and attorney's fees.
+(c) Notices.
+==========
+You understand that it is difficult for Vonage to distinguish between credit and debit cards.
+You agree to waive your rights under Regulation E to receive ten days advance notice 
+from Vonage regarding the amount that Vonage will debit from your account.
+Vonage may send you messages about your billing from time to time, but Vonage is not obligated to do so.
+Vonage may change or cease 
+its messages at any time without notice to you.
+==========
+3.4	Disconnection; Discontinuance of Service.
+We reserve the right to suspend or discontinue the Service generally, or to disconnect your Service, at any time in our sole and absolute discretion.
+If we discontinue the Service generally, or disconnect your Service without a stated reason, you will only be responsible for charges accrued through the date of disconnection, including a pro-rated portion 
+of the final month's charges.
+If your Service is disconnected on account of your breach of any provision of this Agreement, you will be responsible for the full month's charges to the end of the current term, 
+including, without limitation, unbilled charges, plus the disconnection fee, if applicable, all of which will immediately become due and payable.
+Vonage will pursue collection for unpaid amounts on disconnected accounts and may report to credit bureaus.
+==========
+3.5	Taxes.
+State and local governments may assess taxes, surcharges and/or fees on your use of Vonage service.
+These charges may be a flat fee or a percentage of your Vonage charges and may change from time to time without notice.
+These charges are based on the rates applicable to the address you provided to us.You are responsible for all applicable federal, state, provincial, municipal, local or other 
+governmental sales, use, excise, value-added, personal property, public utility or other taxes, fees or charges now in force or enacted in the future, that arise from or as a result of your subscription or use or 
+payment for the Service or a Device.
+==========
+Such amounts are in addition to payment for the Service or Devices and will be billed to your credit card as set forth in this Agreement.
+If you are exempt from payment of 
+such taxes, you must provide us with an original certificate that satisfies applicable legal requirements attesting to tax-exempt status.
+Tax exemption will only apply from and after the date we receive such certificate.
+==========
+3.6	Disconnection Fee (Does Not Apply to Business Plus Customers).
+You will be charged a disconnection fee of $39.99 per voice line if your Service is disconnected for any reason after the Money 
+Back Guarantee period and within the first year following the activation of your Service.
+3.7 	Money Back Guarantee; Limitations and Conditions.
+(a)	Residential, Vonage Office Anywhere and Small Business Customers.
+We offer a thirty (30) day money back guarantee from the date of activation of your Service (different periods apply for Retail Customers depending 
+on the applicable offer details contained in the advertising or online content of the retail store or dealer that sold the Retail Customer the Equipment).
+The money back guarantee applies only to 
+the first-ordered line per account, not to additional or secondary lines.
+==========
+We will refund the activation fee, the monthly charge for the first month of Service, shipping charges and the disconnection fee provided that: 
+
+you have not exceeded 250 minutes of usage (500 minutes for Retail Customers); 
+you cancel your Service within the applicable period;
+prior to returning the Device to us, you obtain a valid return authorization number from our  customer care department, which can be reached at billing@vonage.com or 1-VONAGE-HELP, and you return the Device to us if purchased at 
+www.vonage.com in original condition, normal wear and tear excluded,  within fourteen (14) days after the date of cancellation of Service; and
+the Device is returned in the original packaging with the UPC or bar code intact and is accompanied by all components, accessories, parts, manuals, registration cards and other documentation.
+Vonage may not be able to refund all federal excise taxes and any other applicable taxes.
+You will be responsible for any charges for international usage, payphone calls to Vonage toll free numbers and directory assistance.
+==========
+We reserve the right to disconnect or revoke this money back guarantee at any time, without prior notice.
+(b)	Business Plus Money Back Guarantee.
+We offer Business Plus subscribers a thirty (30) day money back guarantee from the date of activation of Service.
+The money back guarantee applies only 
+to the first-ordered service package, not to additional or secondary orders.
+We will refund the activation fee and monthly charge for first month of Service provided that:
+
+you have not exceeded 5,000 minutes of usage; and
+you cancel your Service within the thirty (30) day period.
+==========
+Vonage may not be able to refund all federal excise taxes and any other applicable taxes.
+You will remain responsible for any charges for international usage, payphone calls to Vonage toll free numbers and directory 
+assistance.
+We reserve the right to disconnect or revoke this money back guarantee at any time, without prior notice.
+==========
+3.8	Payphone Charges.
+If you use our "Toll Free Plus" feature or any toll free feature that we offer in the future, we will be entitled to recover from you any charges imposed on us either 
+directly or indirectly in connection with toll free calls made to your number.
+We may recover these amounts by means of a per-call charge, rounded up to the next cent, or in such other fashion as we 
+deem appropriate for the recovery of these costs.
+==========
+3.9	Charges for Directory Calls (411).
+We will charge you $0.99 for each call made to Vonage directory assistance.
+4.
+==========
+LIMITATION OF LIABILITY; INDEMNIFICATION; WARRANTIES
+
+4.1	Limitation of Liability.
+We will not be liable for any delay or failure to provide the Service, including 911 Dialing, at any time or from time to time, or any interruption or degradation 
+of voice quality that is caused by any of the following:
+
+an act or omission of an underlying carrier, service provider, vendor or other third party; 
+equipment, network or facility failure; 
+equipment, network or facility upgrade or modification; 
+force majeure events such as (but not limited to) acts of God, acts of nature, strikes, fire, war, riot, acts of terrorism and government actions; 
+equipment, network or facility shortage; 
+equipment or facility relocation; 
+service, equipment, network or facility failure caused by the loss of power to you; 
+outage of, or blocking of ports by, your ISP or broadband service provider or other impediment to usage of the Service caused by any third party;
+any act or omission by you or any person using the Service or Device provided to you; or 
+any other cause that is beyond our control, including, without limitation, a failure of or defect in any Device, the failure of an incoming or outgoing communication, the inability of communications 
+(including, without limitation, 911 Dialing) to be connected or completed, or forwarded.
+Our aggregate liability under this agreement will in no event exceed the Service charges with respect to the affected time period.
+4.2	Disclaimer of Liability for Damages.
+IN NO EVENT WILL VONAGE, ITS OFFICERS, DIRECTORS, EMPLOYEES, AFFILIATES OR AGENTS OR ANY OTHER SERVICE PROVIDER WHO FURNISHES SERVICES TO YOU IN 
+CONNECTION THE SERVICE BE LIABLE FOR ANY DIRECT, INCIDENTAL, INDIRECT, SPECIAL, PUNITIVE, EXEMPLARY, COMPENSATORY, OR CONSEQUENTIAL DAMAGES, OR FOR ANY OTHER DAMAGES, INCLUDING BUT NOT LIMITED TO PERSONAL INJURY, WRONGFUL 
+DEATH, PROPERTY DAMAGE, LOSS OF DATA, LOSS OF REVENUE OR PROFITS, OR DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SERVICE, INCLUDING INABILITY TO ACCESS EMERGENCY SERVICE 
+PERSONNEL THROUGH THE 911 DIALING SERVICE OR TO OBTAIN EMERGENCY HELP.
+THE LIMITATIONS SET FORTH HEREIN APPLY TO CLAIMS FOUNDED IN BREACH OF CONTRACT, BREACH OF WARRANTY, PRODUCT LIABILITY, TORT AND ANY 
+AND ALL OTHER THEORIES OF LIABILITY AND APPLY WHETHER OR NOT WE WERE INFORMED OF THE LIKELIHOOD OF ANY PARTICULAR TYPE OF DAMAGES.
+==========
+4.3	Indemnification and Survival.
+(a)	Indemnification.
+You shall defend, indemnify, and hold harmless Vonage, its officers, directors, employees, affiliates and agents and any other service provider who furnishes services 
+to you in connection with the Service, from any and all claims, losses, damages, fines, penalties, costs and expenses (including, without limitation, attorneys fees) by, or on behalf of, you or any third 
+party or user of the Service, relating to the Services, including, without limitation, 911 Dialing, or the Device.
+(b)	Survival.
+The provisions of this Agreement that by their sense and context are intended to survive the termination or expiration of this Agreement shall survive.
+==========
+4.4	No Warranties on Service.
+WE MAKE NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS OF THE SERVICE OR DEVICE FOR A 
+PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT OR ANY WARRANTY ARISING BY USAGE OF TRADE, COURSE OF DEALING OR COURSE OF PERFORMANCE OR ANY WARRANTY THAT THE SERVICE WILL MEET CUSTOMER'S REQUIREMENTS.
+WITHOUT LIMITING THE FOREGOING, WE DO NOT WARRANT THAT THE SERVICE OR DEVICE WILL BE WITHOUT FAILURE, DELAY, INTERRUPTION, ERROR, DEGRADATION OF VOICE QUALITY OR LOSS OF CONTENT, DATA OR INFORMATION.
+NEITHER 
+VONAGE NOR ITS OFFICERS, DIRECTORS, EMPLOYEES, AFFILIATES OR AGENTS, OR ANY OTHER SERVICE PROVIDER OR VENDOR WHO FURNISHES SERVICES DEVICES, OR PRODUCTS TO CUSTOMER IN CONNECTION WITH THE SERVICE, WILL BE 
+LIABLE FOR UNAUTHORIZED ACCESS TO OUR OR YOUR TRANSMISSION FACILITIES OR PREMISES EQUIPMENT OR FOR UNAUTHORIZED ACCESS TO, OR ALTERATION, THEFT OR DESTRUCTION OF, CUSTOMER'S DATA FILES, PROGRAMS, PROCEDURES 
+OR INFORMATION THROUGH ACCIDENT, FRAUDULENT MEANS OR DEVICES OR ANY OTHER METHOD, REGARDLESS OF WHETHER SUCH DAMAGE OCCURS AS A RESULT OF VONAGE'S OR ITS SERVICE PROVIDER'S OR VENDORS' NEGLIGENCE.
+STATEMENTS 
+AND DESCRIPTIONS CONCERNING THE SERVICE OR DEVICE, IF ANY, BY VONAGE OR VONAGE'S AGENTS OR INSTALLERS ARE INFORMATIONAL AND ARE NOT GIVEN AS A WARRANTY OF ANY KIND.
+==========
+4.5	Device Warranties (Does Not Apply to Business Plus Customers).
+(a)	Limited Warranty.
+Except as set forth herein, if you received a Device from us and the Device included a limited warranty at the time of receipt, you must refer to the separate limited 
+warranty document provided with the Device for information on the limitation and disclaimer of certain warranties.
+Remedies for breach of any such warranties will be limited to those expressly set forth in such documentation.
+(b)	No Warranty.
+IF A LIMITED WARRANTY DID NOT COME WITH YOUR DEVICE, YOU ARE ACCEPTING THE DEVICE "AS IS".
+==========
+YOUR DEVICE IS NOT ELIGIBLE FOR REPLACEMENT, REPAIR OR REFUND AFTER THE MONEY BACK GUARANTEE PERIOD.
+(c)	Retail Customer Limited Warranty.
+For Retail Customers only, we will provide a limited warranty on the Device as to manufacturing defects only for a period of one (1) year from the 
+date of purchase.
+This Retail Customer limited warranty does not apply to any defect or failure other than a manufacturing defect, and, without limiting the generality of the foregoing, does not apply to any 
+defect caused by damage in transit, retailer handling or Retail Customer handling.
+A Retail Customer's sole remedy for any breach of this Retail Customer limited warranty is to obtain a repaired or replacement 
+Device, by following the return procedures set forth in Section 2.10.
+Retail Customer must include with the returned Device a letter stating that the Retail Customer is returning the Device for warranty repair or 
+replacement and stating the nature of the defect.
+The Retail Customer limited warranty will also apply in lieu of the limited warranty included with the Device if such included limited warranty is less favorable 
+to Retail Customer than that contained herein.
+==========
+(d)	Disclaimer.
+OTHER THAN WARRANTIES AS TO THE DEVICE EXPRESSLY SET FORTH IN THE DOCUMENTATION PROVIDED WITH THE DEVICE AND THE RETAIL CUSTOMER LIMITED WARRANTY EXPRESSLY SET FORTH HEREIN, WE 
+MAKE NO WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AND SPECIFICALLY DISCLAIM ANY WARRANTY OF MERCHANTABILITY, FITNESS OF THE DEVICE FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT OR ANY WARRANTY ARISING 
+BY USAGE OF TRADE, COURSE OF DEALING OR COURSE OF PERFORMANCE OR ANY WARRANTY THAT THE DEVICE OR ANY FIRMWARE OR SOFTWARE IS "ERROR FREE" OR WILL MEET CUSTOMER'S REQUIREMENTS.
+THE FOREGOING WILL NOT BE DEEMED TO 
+LIMIT ANY DISCLAIMER OR LIMITATION OF WARRANTY SET FORTH IN THE DOCUMENTATION PROVIDED WITH THE DEVICE.
+DEVICE WARRANTIES DO NOT APPLY TO BUSINESS PLUS CUSTOMERS.
+==========
+4.6	No Third Party Beneficiaries.
+No provision of this Agreement provides any person or entity not a party to this Agreement with any remedy, claim, liability, reimbursement, or cause of action or 
+creates any other third party beneficiary rights.
+4.7	Content.
+You will be liable for any and all liability that may arise out of the content transmitted by you or to any person, whether authorized or unauthorized, using your Service or Device 
+(each such person, a "User").
+You shall assure that your and your User's use of the Service and content comply at all times with all applicable laws, regulations and written and electronic instructions for use.
+==========
+We reserve the right to disconnect or suspend your Services and remove your or your Users' content from the Service, if we determine, in our sole and absolute discretion, that such use or content does not conform 
+with the requirements set forth in this Agreement or interferes with our ability to provide Services to you or others.
+Our action or inaction under this Section will not constitute any review or approval of your 
+or Users' use or content.
+5.
+==========
+MISCELLANEOUS
+
+5.1	Governing Law.
+The Agreement and the relationship between you and us is governed by the laws of the State of New Jersey without regard to its conflict of law provisions.
+To the extent court 
+action is initiated to enforce an arbitration award or for any other reason consistent with Section 5.2, you shall submit to the personal and exclusive jurisdiction of the courts located within the State of New Jersey 
+and waive any objection as to venue or inconvenient forum.
+5.2	Mandatory Arbitration and No Jury Trial.
+Any dispute or claim between you, any member of your household or any guest or employee of you and us arising out of or relating to the Service or Device 
+will be resolved by arbitration before a single arbitrator administered by the American Arbitration Association in accordance with its Commercial Arbitration Rules.
+The arbitration will take place in Somerset, 
+New Jersey.
+==========
+The arbitrator's decision will follow the plain meaning of the relevant documents, and will be final and binding.
+Without limiting the foregoing, the parties agree that no arbitrator has the authority to: 
+(i) award relief in excess of what this Agreement provides; or (ii) award punitive or exemplary damages.
+Judgment on the award rendered by the arbitrators may be entered in any court having jurisdiction thereof.
+==========
+REGARDLESS OF ANY STATUTE OR LAW TO THE CONTRARY, ANY CLAIM OR CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SERVICE MUST BE FILED WITHIN ONE (1) YEAR AFTER SUCH CLAIM OR CAUSE OF ACTION AROSE OR BE FOREVER BARRED.
+All claims shall be arbitrated individually.
+You shall not bring, or join any class action of any kind in court or in arbitration or seek to consolidate or bring previously consolidated claims in arbitration.
+THIS ARBITRATION PROVISION CONSTITUTES A WAIVER OF ANY RIGHT TO A JURY TRIAL AND AN AGREEMENT TO BE SUBJECT TO JURISDICTION IN, AND CONDUCT ARBITRAL PROCEEDINGS IN, NEW JERSEY.
+5.3	No Waiver of Rights.
+Our failure to exercise or enforce any right or provision of this Agreement will not constitute a waiver of such right or provision.
+==========
+5.4	Entire Agreement.
+This Agreement, including any future modifications as may occur within the terms of the Agreement, and the rates for Services found on our website constitute the entire agreement 
+between you and Vonage and govern the use of the Service by you, members of your household, guests and employees.
+This Agreement supersedes any prior agreements between you and Vonage and any and all prior or 
+contemporaneous statements, understandings, writings, commitments, or representations concerning its subject matter.
+==========
+5.5	Severability.
+If any part of this Agreement is legally declared invalid or unenforceable, all other parts of this Agreement will remain valid and enforceable.
+Such invalidity or 
+non-enforceability will not invalidate or render unenforceable any other portion of this Agreement.
+6.
+==========
+FUTURE CHANGES TO THIS AGREEMENT
+
+We may change the terms and conditions of this Agreement from time to time.
+Notices will be considered given and effective on the date posted on www.vonage.com.
+Such changes will become binding on you on the date 
+they are posted to our website and no further notice by us is required upon your continued use of the Service.
+The Agreement as and when posted supersedes all previously agreed to electronic and written terms of 
+service, including, without limitation, any terms included with the packaging of the Device and also supersedes any written terms provided to Retail Customers in connection with retail distribution, including, without 
+limitation, any written terms enclosed within the packaging of the Device.
+7.
+==========
+PRIVACY
+
+Vonage Service utilizes, in whole or in part, the public Internet and third party networks to transmit voice and other communications.
+Vonage is not liable for any lack of privacy which may be experienced with regard 
+to the Service.
+Please refer to our Privacy Policy at www.vonage.com for additional information.
+==========
+Last Updated:  July 24, 2006.
+Copyright 2001 - 2006 Vonage Marketing Inc. used under license.
+Vonage is a registered service mark owned by and used under license from Vonage Marketing Inc. a wholly owned 
+subsidiary of Vonage Holdings Corp.
+==========

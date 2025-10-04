@@ -1,0 +1,409 @@
+1.
+OVERVIEW
+Habu builds software applications for privacy-safe data sharing, real-time analytics, automated segmentation and optimization across all of the major cloud providers.
+==========
+This Privacy Policy explains how Habu, Inc. (“Habu, “we” or “us”) processes personal information through our websites, applications, tools, services, and platform (collectively, the “Services”) and through other interactions you may have with Habu.
+By accessing or using the Services, you are agreeing to this Privacy Policy.
+If you do not agree with this Privacy Policy, please do not access or use the Services.
+You should read our full Privacy Policy to understand what data we collect, how we use it, and the circumstances where we may share it.
+Please note if that you reside in the EU or other regions outside the US, information collected through our Services will be transferred to and processed in the US or elsewhere.
+While Habu participates in the EU-US and Swiss-US Privacy Shield program as described below, these locations may not have the same data protection laws as the country in which you initially used our Services.
+By using our Services, you consent to any transfer and processing in accordance with this Privacy Policy.
+==========
+If you have any questions, please contact us at privacyrequest@habu.com.
+This Privacy Policy may change over time.
+If we make changes to it, we will post the modified Privacy Policy on our website, www.habu.com/privacypolicy.
+We encourage you to visit this page periodically to learn of any updates.
+2.
+==========
+WHAT INFORMATION WE COLLECT
+We collect personal information (or personal data) and non-personal information from our customers and from you when you use our Services or otherwise interact with us.
+As further described in this section, we may receive personal information about you that you submit through the Services or that is provided to us by a third party; we also may receive personal information about you automatically as you use the Services.
+Information from our Customers.
+==========
+Habu’s customers use Habu’s Services for, among other things, privacy-safe data sharing, real-time analytics, automated segmentation and optimization across all of the major cloud providers.
+A customer may provide us, or we may collect on a customer’s behalf, personal information about a customer’s users (“Customer Data”), including information about how its users interact with the customer’s websites, applications and services.
+Customer Data may include, without limitation, information about the identity of Customer users (such as name, postal address, e-mail address, IP address or phone number), as well as information about the pages users visit, the features they use, products they have purchased, or actions they have taken.
+Our use of Customer Data is subject to the written agreement between Habu and such customer; and our customers have their own policies regarding the collection, use and disclosure of your personal information.
+==========
+Information You Choose to Submit.
+We receive personal information about you that you choose to provide to us, including when you send us an email or submit information through our website.
+==========
+Information We Automatically Collect.
+We and our third-party service providers (including any third-party content, advertising, and analytics providers) automatically collect certain information from your device or web browser when you interact with the Services.
+For example, when you interact with the Services, we may log and store your IP address and technical information about your usage like your device ID, browser type, and how you progressed through the Services, where you abandoned it, etc.
+==========
+We can use your IP address to determine your general location.
+Additionally, if you use a mobile application of ours, we may collect analytic information about your device, such as IP address, OS version, and clickstream.
+==========
+In addition, we use tracking technologies, such as cookies, local storage, and pixel tags as described further below.
+Cookies and Local Storage
+Cookies and local storage may be set and accessed on your computer.
+Upon your first visit to the Services, a cookie or local storage will be sent to your computer that uniquely identifies your browser.
+==========
+“Cookies” and local storage are small files containing a string of characters that is sent to your computer’s browser and stored on your device when you visit a website.
+You can reset your browser to refuse all cookies or to indicate when a cookie is being sent; however, if you reject cookies, you may not be able to sign in to the Services or take full advantage of our Services.
+Additionally, if you clear all cookies on your browser at any point after setting your browser to refuse all cookies or indicate when a cookie is being sent, you will have to again reset your browser to refuse all cookies or indicate when a cookie is being sent.
+Our Services use the following types of cookies for the purposes set out below: 
+Type of cookie Purpose
+Analytics and Performance Cookies These cookies are used to collect information about traffic to our Services and how users use our Services.
+==========
+The information gathered does not identify any individual visitor.
+The information is aggregated and therefore anonymous.
+==========
+It includes the number of visitors to our Services, the websites that referred them to our Services, the pages that they visited on our Services, what time of day they visited our Services, whether they have visited our Services before, and other similar information.
+We use this information to help operate our Services more efficiently, to gather broad demographic information and to monitor the level of activity on our Services.
+==========
+We use Google Analytics for this purpose.
+Google Analytics uses its own cookies.
+It is only used to improve how our Services works.
+You can find out more information about Google Analytics cookies here: https://developers.google.com/analytics/resources/concepts/gaConceptsCookies.
+You can find out more about how Google protects your data here: www.google.com/analytics/learn/privacy.html.
+You can prevent the use of Google Analytics relating to your use of our Services by downloading and installing the browser plugin available via this link: http://tools.google.com/dlpage...
+Essential Cookies These cookies are essential to provide you with services available through our Services and to enable you to use its features.
+==========
+For example, they allow you to log in to secure areas of our Services and help the content of the pages you request load quickly.
+Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.
+Functionality Cookies These cookies allow our Services to remember choices you make when you use our Services, such as remembering your language preferences, remembering your login details, remembering which polls you have voted in and in some cases, to show you poll results, and remembering the changes you make to other parts of our Services which you can customize.
+These cookies also enable us to identify you across various screens and devices as you login and use our Services, as well as enable us to work with partners to resolve your digital identities and personalize your experiences across our Services, our partners and customers, and across channels.
+The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-enter your preferences every time you visit our Services.
+Social Media Cookies These cookies are used when you share information using a social media sharing button or “like” button on our Services or you link your account or engage with our content on or through a social networking website such as Facebook, Twitter, LinkedIn, or Pinterest.
+The social network will record that you have done this.
+==========
+Flash
+A Flash cookie is a data file placed on a device via the Adobe Flash plug-in that is built into or downloaded by you onto your device.
+Flash cookies are used for various purposes, including, without limitation, enabling a Flash feature and remembering your preferences.
+==========
+For more information about Flash and the privacy choices Adobe offers, visit http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html.
+If you choose to adjust your Flash privacy settings on your device some features of the Services may not function properly.
+==========
+Pixel Tags
+We also use “pixel tags,” which are small graphic files that allow us and third parties to monitor the use of the Services and collect usage data.
+We may also insert pixel tags on third parties’ website.
+A pixel tag can collect information such as the IP address of the computer that downloaded the page on which the tag appears; the URL of the page on which the pixel tag appears; the time (and length of time) the page containing the pixel tag was viewed; the type of browser that retrieved the pixel tag; and the identification number of any cookie previously placed by that server on your computer.
+==========
+We use pixel tags to collect information about your visit, including the pages you view, the links you click and other actions taken in connection with our sites and Services and use them in combination with our cookies to provide offers and information of interest to you.
+We may also use pixel tags to collect data related to a website visit.
+==========
+Similar functionality may be enabled in a mobile app through the use of an SDK (Software Development Kit).
+Pixel tags also enable ad networks to serve targeted advertisements to you when you visit the Services or other websites.
+Other websites may integrate our widgets on their websites; when you visit a website with our widgets embedded, we may receive certain information, including information you actively submit as well as usage data.
+==========
+In addition, we use a variety of other technologies that collect similar information for security and fraud detection purposes.
+For more information about the use of cookies and similar technology on our Site, please review our Cookies and Tracking Technologies Policy.
+You can also find more information about cookies and how they work, what cookies have been set on your computer or mobile device and how to manage and delete them at http://www.allaboutcookies.org and http://www.youronlinechoices.com/uk.
+==========
+Information We Obtain from Other Sources.
+We may combine personal information we receive from you with personal information we obtain from other sources, such as customers, data providers; affiliates within our corporate group of companies; business partners, such as joint marketing partners and event co-sponsors; and publicly accessible sources.
+3.
+==========
+HOW WE USE YOUR PERSONAL INFORMATION
+We collect, use, process, and store your personal information:
+To provide, develop, improve, and personalize our Services.
+To provide you with information, products, or services that you have requested.
+To receive and process job applications for jobs with us.
+To process data with machine learning algorithms, which helps us build, personalize, and improve the Services.
+With respect to data Customer Data, in accordance with the written agreements with such customers.
+For internal business purposes, such as to detect, investigate and prevent harmful, fraudulent, and illegal activity and security issues and protect the rights and property of Habu and others.
+==========
+To enable communications through the Services.
+To contact you about additional Habu services you might be interested in, unless you opt-out (see “How to Opt-Out of Email Communications”).
+==========
+As required by applicable law, legal process or regulation.
+For purposes as disclosed at the time you provide your information, with your consent, and as further described in this Privacy Policy.
+4.
+==========
+WHEN WE MAY SHARE YOUR PERSONAL INFORMATION
+We will only share your personal information with third parties under the following circumstances:
+With your consent or if you choose to share.
+With affiliated businesses, agents, or vendors that are contractually engaged to provide us with services, such as email management.
+These companies are obligated by contract to safeguard any personal information they receive from us.
+==========
+With advertising partners, to help us advertise our Services.
+With our customers.
+We may share your information with customers so that they may identify trends and personalize their products and services.
+==========
+Please note, messages delivered from a third-party will subject you to the third-party’s privacy policy.
+With respect to Customer Data, in accordance with the written agreements with such customers.
+With any of our affiliated companies, including a parent company, subsidiaries, joint ventures, or other companies under common control with us (in which case we will require such entities to honor this Privacy Policy).
+==========
+If we believe that disclosure is reasonably necessary to comply with a law, regulation, valid legal process (e.g., subpoenas or warrants served on us), or governmental or regulatory request; to protect the security or integrity of the Services; and/or to protect the rights, property, or safety of Habu, its employees, customers, users, or others.
+If we are going to release your data, we will do our best to provide you with notice in advance by email, unless we are prohibited by law from doing so.
+==========
+In the event we go through a business transition (such as a merger, acquisition by another company, bankruptcy, or sale of all or a portion of our assets, including, without limitation, during the course of any due diligence process), your personal information will likely be among the assets transferred.
+By providing your personal information, you agree that we can transfer such information in those circumstances without your further consent.
+Should such a business transition occur, we will make reasonable efforts to request that the new owner or combined entity (as applicable) follow this Privacy Policy with respect to your personal information.
+If your personal information would be used contrary to this privacy policy, we will request that you receive prior notice.
+5.
+WHEN WE USE & SHARE NON-PERSONAL INFORMATION
+We use and share your non-personal, de-identified or aggregated data in a variety of ways, including to improve the Services.
+6.
+==========
+HOW TO OPT-OUT OF EMAIL COMMUNICATIONS
+To stop receiving notifications or promotions, please click the unsubscribe link found at the bottom of each email or update your account preferences.
+For users in the European Economic Area (“EEA”): We only send marketing communications to users located in the EEA with your prior consent.
+Please see the section “GDPR: Information For EEA Users” below.
+7.
+==========
+STORAGE & SECURITY
+We use industry standard technical, administrative and physical controls to protect your data.
+While we take reasonable precautions against possible security breaches, no website or internet transmission is completely secure and we cannot guarantee that unauthorized access, hacking, data loss or other breach will never occur.
+==========
+We will process and store your personal information only for the period necessary to achieve the purpose of the storage, or as permitted by law.
+The criteria used to determine the period of storage of information is the respective statutory retention period.
+After expiration of that period, the corresponding information is routinely deleted, as long as it is no longer necessary for the fulfillment of a contract or the initiation of a contract.
+8.
+==========
+THIRD PARTY LINKS
+The Services may contain links to and from third party websites.
+If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies.
+9.
+==========
+CALIFORNIA PRIVACY RIGHTS
+This section, which supplements the rest of this Privacy Policy, applies to residents of California, containing disclosures required by the California Consumer Privacy Act (“CCPA”).
+This section applies only to “personal information” that is subject to the CCPA.
+==========
+Personal Information We Collect, Disclose for a Business Purpose, and Sell.
+Without limiting the description of the information we collect, we collect the categories of personal information about California consumers identified in the chart below.
+Categories of Personal Information Examples Collected in Prior 12 Months:
+A. Personal and online identifiers.
+A real name, alias, postal address, unique personal identifier, online identifier Internet Protocol address, email address, or other similar identifiers.
+==========
+Yes
+B. Personal information categories listed in the California Customer Records statute (Cal.
+Civ.
+Code § 1798.80(e)).
+==========
+A name, physical characteristics or description, address, telephone number, education, employment, employment history, or any other financial information, medical information, or health insurance information.
+Some personal information included in this category may overlap with other categories.
+Yes
+C. Protected classification characteristics under California or federal law.
+Age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status.
+==========
+Yes
+D. Commercial or transactions information.
+Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+Yes
+E. Biometric information.
+Genetic, physiological, behavioral, and biological characteristics, or activity patterns used to extract a template or other identifier or identifying information, such as, fingerprints, faceprints, and voiceprints, iris or retina scans, keystroke, gait, or other physical patterns, and sleep, health, or exercise data.
+==========
+No
+F. Internet or other similar network activity.
+Browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement.
+==========
+Yes
+G. Geolocation data.
+Physical location or movements.
+Yes
+H. Sensory data.
+Audio, electronic, visual, thermal, olfactory, or similar information.
+No
+I. Professional or employment-related information.
+Current or past job history.
+==========
+Yes
+J. Non-public education information (per the Family Educational Rights and Privacy Act (20 U.S.C. Section 1232g, 34 C.F.R. Part 99)).
+Education records directly related to a student maintained by an educational institution or party acting on its behalf, such as grades, transcripts, class lists, student schedules, student identification codes, student financial information, or student disciplinary records.
+No
+K. Inferences drawn from other personal information.
+Profile reflecting a person’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+==========
+Yes
+Categories of Sources.
+We collect personal information from, without limitation, consumers directly, our customers, our Services’ inferences, service providers, consumer data resellers, and public sources.
+More information regarding the sources from which we collect personal information can be found above in the section titled “What Information We Collect.”
+==========
+Why We Collect, Use, and Share California Information.
+We use and disclose the personal information identified as collected in the chart above for our commercial and business purposes, as further described in this Privacy Policy and in the section titled “How We Use Your Personal Information.”
+These commercial and business purposes include, without limitation:
+Our commercial purposes, which include:
+To provide, develop, improve and personalize our Services.
+To provide you with information, products, or services that you have requested.
+To receive and process job applications for jobs with us.
+==========
+To process data with machine learning algorithms, which helps us build, personalize, and improve the Services.
+With respect to Customer Data, in accordance with the written agreements with such customers.
+For internal business purposes, such as to detect, investigate and prevent harmful, fraudulent, and illegal activity and security issues and protect the rights and property of Habu and others.
+==========
+To enable communications through the Services.
+To contact you about additional Habu services you might be interested in, unless you opt-out (see “How to Opt-Out of Email Communications”).
+==========
+As required by applicable law, legal process or regulation.
+Our business purposes as identified in the CCPA, which include:
+Auditing related to our interactions with you;
+Legal compliance;
+Detecting and protecting against security incidents, fraud, and illegal activity;
+Debugging;
+Performing services (for us or our service provider) such as account servicing, processing orders and payments, and analytics;
+Internal research for technological improvement;
+Internal operations;
+Activities to maintain and improve our services; and
+Other one-time uses.
+==========
+Recipients of California Personal Information.
+Based on our current understanding of the CCPA, we sell, and have sold in the last 12 months, all of the categories of personal information identified as collected in the chart above to the categories of third parties listed below:
+Advertising/marketing companies;
+Advertising networks;
+Internet service providers;
+Apparel & accessory companies;
+Automotive companies;
+Business services/agencies;
+Business to business companies;
+Parenting product companies;
+Communication services companies;
+Consumer packaged goods companies;
+Health and wellness product and service companies;
+Marketing data companies;
+Data analytics providers;
+Operating systems and platforms;
+Social networks;
+Consumer data resellers;
+Educational institutions & companies;
+Electronics companies;
+Energy and utility companies;
+Financial services companies;
+Food & beverage companies;
+Gift product companies;
+Lifestyle & interest product companies;
+Manufacturing companies;
+Not for profit organizations;
+Publishing product companies;
+Technology/computer software companies;
+Telecommunications companies;
+Travel, leisure, & entertainment companies;
+Affiliates not under the Habu brand; and
+Government entities.
+We disclose, and have disclosed in the last 12 months, all of the categories of personal information identified as collected in the chart above to the categories of third parties listed below for business purposes:
+Service providers;
+Customers;
+Affiliates not under the Habu brand;
+Government entities;
+Advertising networks;
+Internet service providers;
+Data analytics providers;
+Operating systems and platforms;
+Social networks; and
+Consumer data resellers.
+==========
+Your Rights Regarding Personal Information.
+California residents have certain rights with respect to the personal information collected by businesses.
+If you are a California resident, you may exercise the following rights regarding your personal information, subject to certain exceptions and limitations:
+The right to know the categories and specific pieces of personal information we collect, use, disclose, and sell about you, the categories of sources from which we collected your personal information, our purposes for collecting or selling your personal information, the categories of your personal information that we have either sold or disclosed for a business purpose, and the categories of third parties with which we have shared personal information;
+The right to request that we delete the personal information we have collected from you or maintain about you.
+==========
+The right to opt out of our sale(s) of your personal information.
+Please note that if you opt out of certain types of sales, we will be unable to provide you with the services that rely on such sales.
+==========
+The right not to receive discriminatory treatment for the exercise of the privacy rights conferred by the CCPA.
+To exercise any of the above rights, please contact us using the following information and submit the required verifying information, as further described below:
+Online by clicking here.
+==========
+By email at privacyrequest@habu.com.
+Verification Process and Required Information.
+==========
+We may need to request additional information from you to verify your identity or understand the scope of your request, although you will not be required to create an account with us to submit a request or have it fulfilled.
+We will then typically attempt to match the identifying information provided by you to the personal information already maintained by us to verify the request.
+If you have a password protected account on the Services, we may verify your identity through the existing authentication practices for your account, in which case we will require you to re-authenticate yourself before we disclose or delete your personal information.
+==========
+Authorized Agent.
+You may designate an authorized agent to make a CCPA request on your behalf by verifying your identity, as described above, and providing written permission for the authorized agent to act on your behalf.
+==========
+Minors’ Right to Opt In.
+Habu does not sell the personal information of minors under 16 years of age.
+Non-Discrimination.
+Habu will not discriminate against a user because the user exercised any of the user’s rights described above or afforded to it under applicable data privacy law.
+By email at privacyrequest@habu.com.
+10.
+==========
+NEVADA PRIVACY RIGHTS
+This section, which supplements the rest of this Privacy Policy, applies to residents of Nevada.
+Under Nevada law, Nevada residents may submit a request directing us not to make certain disclosures of personal information we maintain about them.
+To exercise this right, please contact us:
+Online by clicking here.
+By email at privacyrequest@habu.com.
+11.
+==========
+PRIVACY SHIELD INFORMATION FOR EU, UK AND SWISS INDIVIDUALS
+Habu complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union, the United Kingdom, and Switzerland to the United States pursuant to the Privacy Shield.
+Habu has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+To learn more about the Privacy Shield program, and to view our certification, please visit http://www.privacyshield.gov.
+==========
+In compliance with the Privacy Shield Principles, Habu commits to resolve complaints about our collection or use of your personal data.
+EU, UK, and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Habu at the contact address below:
+Habu, Inc.
+Attn: Privacy
+23 Geary Street, Suite 600
+San Francisco, CA 94108
+or
+privacyrequest@habu.com
+Habu has further committed to refer unresolved Privacy Shield complaints to VeraSafe, an alternative dispute resolution provider located in the United States.
+==========
+If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit terms of the VeraSafe Privacy Shield Dispute Resolution Procedure for more information.
+To file a complaint with VeraSafe under the Privacy Shield Dispute Resolution Procedure, please submit the required information to VeraSafe here.
+The services of VeraSafe are provided at no cost to you.
+==========
+In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles.
+The Federal Trade Commission has jurisdiction over Habu’s compliance with the Privacy Shield.
+The Privacy Shield Principles describe Habu’s accountability for personal data that it subsequently transfers to a third-party agent.
+Under the Privacy Shield Principles, Habu shall remain liable if third party agents process the personal data in a manner inconsistent with the Privacy Shield Principles, unless Habu proves it is not responsible for the event giving rise to the damage.
+Note that Habu may be required to release the personal data of EU, UK and Swiss individuals whose data is pursuant to the Privacy Shield in response to legal requests from public authorities, including to meet national security and law enforcement requirements.
+12.
+==========
+GDPR: INFORMATION FOR EEA USERS
+This section only applies to our European Economic Area (“EEA”) users.
+Individuals located in the EEA have certain rights in respect of your personal data, including:
+The right of access to your personal data;
+The right to correct or rectify any inaccurate personal data;
+The right to restrict or oppose processing of personal data;
+The right to erase your personal data; and
+The right to personal data portability.
+==========
+As a Habu user:
+We rely on your consent as a lawful basis for processing personal data to provide you with marketing or promotional communications.
+We process personal data in order to provide you with services as requested by you, or to perform our contract with you as described in this document, including:
+To enable the Services to function as expected; and
+To communicate with you in response to customer service inquiries and to deliver non-promotional, service-related emails.
+Additionally, we process personal data based on our “legitimate interests” in providing you the Services, including:
+To protect against fraud;
+Network and information security; and
+To offer the Services.
+==========
+In some cases, Habu may process personal data pursuant to a legal obligation or to protect your vital interests or those of another person.
+Habu will offer EEA and Swiss individuals whose personal data has been transferred to us the opportunity to choose whether the personal data we have received may be used or disclosed for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+An individual may opt-out of such uses or disclosures of their personal data by contacting us at privacyrequest@habu.com.
+13.
+==========
+EXERCISING RIGHTS, CONTACT US AND ACCESSING YOUR INFORMATION
+Habu users may exercise their rights regarding their personal information as follows:
+You can contact us at privacyrequest@habu.com.
+You may withdraw your consent to receive cookies or tokens by adjusting your browser settings.
+You may withdraw your consent to receive marketing or promotional communications at any time by clicking the “unsubscribe” link found within our email updates and changing your contact preferences.
+Please note, you will continue to receive essential account-related information, even if you unsubscribe from promotional emails.
+==========
+VeraSafe has been appointed as Habu’s representative in the European Union for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union.
+If you are unable to reach Habu at privacyrequest@habu.com, VeraSafe can be contacted on matters related to the processing of personal data under GDPR.
+==========
+To make such an inquiry, please contact VeraSafe using this contact form or via telephone at +420 228 881 031.
+Alternatively, VeraSafe can be contacted at:
+VeraSafe Netherlands BV
+Keizersgracht 391 A
+1016 EJ Amsterdam
+The Netherlands
+VeraSafe has been appointed as Habu's representative in the United Kingdom for data protection matters, pursuant to Article 27 of the United Kingdom General Data Protection Regulation.
+If you are located within the United Kingdom, VeraSafe can be contacted in addition to or instead of privacyrequest@habu.com only on matters related to the processing of personal data.
+To make such an inquiry, please contact VeraSafe using this contact form[insert link to: https://verasafe.com/public-resources/contact- data-protection-representative] or via telephone at +44 (20) 4532 2003.
+Alternatively, VeraSafe can be contacted at:
+VeraSafe United Kingdom Ltd.
+37 Albert Embankment
+London SE1 7TL
+United Kingdom
+If you have any questions about our privacy practices, or if you wish to make a request, contact us at either:
+Habu, Inc.
+Attn: Privacy
+23 Geary Street, Suite 600
+San Francisco, CA 94108
+or
+privacyrequest@habu.com
+Last updated April 15, 2021
+==========

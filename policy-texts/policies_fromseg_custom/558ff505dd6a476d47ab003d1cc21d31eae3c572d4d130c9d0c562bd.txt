@@ -1,0 +1,611 @@
+Cookie Policy
+Last Update: 23.07.2018
+1.
+What is a Cookie?
+A cookie is a small file that is exchanged between a web browser and a web server.
+Cookies are stored on the (end) device of the user’s website.
+In these small files, for example, elementary information such as user settings is stored.
+==========
+The cookies are then sent back to the original website on each subsequent visit.
+Cookies are useful because they enable the website to recognize the user's browser or device within a certain period of time.
+Most cookies contain a so-called cookie ID.
+This is a string of characters that web pages and servers assign to the browser in which the cookie is stored.
+This allows web pages and servers to distinguish the browser from browsers with other cookies, and each browser can be identified by its unique cookie ID.
+This is used only to uniquely identify a web browser on a particular device and not to identify a person.
+There are three categories of cookies:
+
+cookies that are essential to ensure the basic functionality of the website,
+functional cookies to ensure the performance of the website and
+Targeted cookies to improve the user’s experience.
+2.
+==========
+How are cookies used for Yumpu Services?
+To use the Yumpu service, four types of cookies are used:
+
+Session Cookies: These are only stored temporarily during a browser session and are deleted from your devices as soon as the browser is closed.
+Persistent cookies: These are stored on your computer or device for a predefined period of time, regardless of when the browser is closed.
+==========
+First-party cookies: These are set by the Yumpu website and are read only by this website.
+(For example, if you receive cookies from our website, they can only be recognized by our website).
+Third-party cookies: These are not set by Yumpu, but by another organization, such as an analysis company that sets its own cookies to provide this service.
+Please note that third- party cookies are managed by the respective partners and service providers.
+For more information about how we use the information we collect, please refer to the cookie policies of the relevant third parties.
+3.
+==========
+Which Cookies does Yumpu use?
+The following table lists which cookies we use, as well as their purpose, type and storage period.
+Cookie Supplier
+                
+
+                    Cookie-Name
+                
+
+                    Purpose
+                
+
+                    Expiration
+                
+
+                    Type
+                
+
+
+
+                    Google Analytics
+                    
+
+                        More Information
+                    
+
+
+                    _ga
+                
+
+                    Google Analytics Cookies are used to collect anonymous information about how visitors use and interact with our website.
+We use the information we collect to create reports that help us improve our Yumpu service.
+The anonymous information includes the number of visitors to the website, which pages they visited and where they came from.
+==========
+2 years
+                
+
+                    http
+                
+
+
+
+                    _gat
+                
+
+                    Used to reduce the request quota.
+Session
+                
+
+                    http
+                
+
+
+
+                    _gat_yptrack
+                
+
+                    Unclassified
+                
+
+                    Session
+                
+
+                    http
+                
+
+
+
+                    _gid
+                
+
+                    Used to differentiate between users.
+Session
+                
+
+                    http
+                
+
+
+
+                    _gac
+                
+
+                    Stores Google Analytic campaign information
+                
+
+                    30 days
+                
+
+
+
+
+
+                    collect
+                
+
+                    Unclassified
+                
+
+                    Session
+                
+
+                    Pixel
+                
+
+
+
+                    Google.com
+                
+
+                    ads/ga-audiences
+                
+
+                    Used by Google AdWords to re-enable visitors to a website who are likely to convert to customers.
+==========
+This is based on user behavior across web pages.
+Session
+                
+
+                    Pixel
+                
+
+
+
+                    ads/user-lists/#
+                
+
+                    Unclassified
+                
+
+                    Session
+                
+
+                    Pixel
+                
+
+
+
+                    ads/conversion/#
+                
+
+                    Tracks the conversion of ads to the site.
+Session
+                
+
+                    Pixel
+                
+
+
+
+                    Google DoubleClick
+                
+
+                    IDE
+                
+
+                    Yumpu uses Google DoubleClick to measure the effectiveness of our online advertising.
+This cookie is linked to Google's DoubleClick for Publishers service.
+The purpose is to register and report the actions of users on our website after viewing or clicking on one of the ads.
+==========
+1 year
+                
+
+                    http
+                
+
+
+
+                    pagead/viewthroughconversion/1014851341
+                
+
+                    Unclassified
+                
+
+                    Session
+                
+
+                    Pixel
+                
+
+
+
+                    test_cookie
+                
+
+                    This cookie is used to check whether the user's browser supports cookies.
+Session
+                
+
+                    http
+                
+
+
+
+                    Facebook
+                    
+
+                        More Information
+                    
+
+
+                    fr
+                
+
+                    The "fr" cookie is used by Facebook to display advertisements and contains the encrypted Facebook user ID and browser ID.
+Logged out Facebook users (opt- out) are tracked using social plug-ins.
+3 month
+                
+
+                    http
+                
+
+
+
+                    tr
+                
+
+                    Captures how many users click on our ad and which Facebook ad leads to conversion (Conversion Tracking).
+==========
+Session
+                
+
+                    Pixel
+                
+
+
+
+                    Alexa
+                
+
+                    _asc
+                
+
+                    Page metrics and directly measured page views and visitors of our website.
+Confirms that our page metrics are certified by Alexa.
+Directly measured ranking of where visitors go (subdomains).
+Session
+                
+
+                    http
+                
+
+
+
+                    _auc
+
+                
+
+                    More information about _asc and _auc can be found
+                    
+                        here
+                    
+                    .
+==========
+1 year
+                
+
+                    http
+                
+
+
+
+                    atrk.gif
+                
+
+                    Alexa Certify Code (certify.alexametrics.com)
+                
+
+                    Session
+                
+
+                    Pixel
+                
+
+
+
+                    Intercom
+                    
+
+                        More Information
+                    
+
+
+                    intercom-id-9e7fb24c6e48df26c894b9d2959ebf88dfbc83cd
+                
+
+                    Unclassified
+                
+
+                    20 years
+                
+
+                    http
+                
+
+
+
+                    intercom-state
+                
+
+                    Unclassified
+                
+
+                    Persistent
+                
+
+                    http
+                
+
+
+
+                    intercom-lou-9e7fb24c6e48df26c894b9d2959ebf88dfbc83cd
+                
+
+                    These cookies are used by our Intercom instance, a tool with which we interact with users and analyze user behavior.
+intercom-session-9e7fb24c6e48df26c894b9d2959ebf88dfbc83cd
+                
+
+                    These cookies are used by our Intercom instance, a tool with which we interact with users and analyze user behavior.
+Intercom-visitor-session-9e7fb24c6e48df26c894b9d2959ebf88dfbc83cd
+                
+
+                    These cookies are used by our Intercom instance, a tool with which we interact with users and analyze user behavior.
+==========
+_mkra_ctxt
+                
+
+                    Unclassified
+                
+
+                    Session
+                
+
+                    http
+                
+
+
+
+                    Visual Website Optimizer
+                    
+
+                        More Information
+                    
+
+
+                    v.gif
+                
+
+                    Unclassified
+                
+
+                    Session
+                
+
+                    Pixel
+                
+
+
+
+                    _vwo_uuid_v2
+                
+
+                    Cookie generates a unique ID for each visitor and is used for the report segmentation function in VWO.
+100 days
+                
+
+                    http
+                
+
+
+
+                    _vis_opt_s
+                
+
+                    This cookie detects whether users are new or returning to a particular test.
+100 days
+                
+
+
+
+
+
+                    _vis_opt_test_cookie
+                
+
+                    This is a temporary session cookie that is generated to determine whether or not cookies are enabled in the user's browser.
+Session
+                
+ 
+
+
+
+                    _vis_opt_out
+                
+
+                    The cookie is used to determine whether a user should be excluded.
+==========
+10 years
+                
+ 
+
+
+
+                    Yumpu
+                
+
+                    yp_csrf
+                
+
+                    This cookie is used for the security check of post requests.
+2 hours
+                
+
+                    http
+                
+
+
+
+                    ypsession
+                
+
+                    Session Cookie
+                
+
+                    Session
+                
+
+                    http
+                
+
+
+
+                    yumpu_slc
+                
+
+                    Language Cookie
+                
+
+                    6 days
+                
+http
+
+
+Additionally, 10 Yumpu Cookies are set.
+These are absolutely necessary cookies, which ensure basic functions of the website.
+==========
+These are not explicitly described here.
+Hotjar
+                
+
+                    _hjIncludedInSample
+                
+
+                    This session cookie is set so that Hotjar knows if this visitor belongs in the example used to generate funnels.
+==========
+1 year
+                
+
+                    http
+                
+
+
+AdvertServe
+                    
+
+                        More Information
+                    
+
+AVPUID (Cookie)
+Used to identify the visitor across visits and devices.
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+1 year
+http
+
+
+AdvertServe
+                    
+
+                        More Information
+                    
+
+AVP_UUID
+Used to identify the visitor across visits and devices.
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+==========
+persistent
+html local storage
+
+
+
+
+No longer in Use:
+(These cookies have already been deleted and can still be found until they expire, or you delete them.)
+Cookie Supplier
+                    
+
+                        Cookie-Name
+                    
+
+                        Purpose
+                    
+
+                        Expiration
+                    
+
+                        Type
+                    
+
+
+
+
+Segment
+ajs_anonymous_id
+This cookie is usually used for analysis and helps count how many people visit a particular website if you have previously visited it.
+==========
+1 year
+
+
+
+ajs_group_id
+This cookie records the use and events of visitors to the site.
+1 year
+
+
+
+ajs_user_id
+This cookie is used to track visitor usage, events, and target marketing, and to measure application performance and stability.
+1 year
+
+
+
+Facebook
+impression.php/#
+Used by Facebook to register impressions on pages with the Facebook login button.
+==========
+Session
+Pixel
+
+
+
+
+4.
+Why do we use cookies?
+We use cookies so that we can better understand how you interact with the content on our website.
+==========
+In addition, these small text files may make your visit to our website easier by remembering your preferences as described above.
+We may use cookies to count the number of visitors to a particular page on our website.
+==========
+Another reason for the use of cookies is to be able to offer you targeted content.
+Based on your behavior, we can display targeted advertising on third party websites in order to offer you our products and services there again.
+5.
+==========
+When do we use cookies?
+We use cookies on our website (yumpu.com).
+Every browser that loads yumpu.com receives cookies
+from us.
+You can opt out of using our cookies and external third-party cookies at any time by adjusting your cookie settings accordingly.
+You will find instructions on how to do this below in this policy.
+6.
+==========
+How can you disable and/or delete cookies on your computer?
+Please note that most browsers support or accept cookies by default.
+In any case, you can decide for yourself and manage cookies in your browser.
+You can delete or deactivate cookies that are already on your device at any time.
+The procedure for this is different depending on the browser used.
+==========
+We
+recommend that you search for instructions in a search engine using the search term "Delete Cookies Edge" or "Deactivate Cookies Edge" in the case of an Edge browser or you exchange the word "Edge" for the name of your browser, e.g. Chrome, Firefox, Safari, etc.
+We recommend that you search for instructions in a search engine using the search term "Delete Cookies Edge" or "Deactivate Cookies Edge".
+==========
+The browsers can be set to reject a specific type of cookie or specific cookies.
+The browser can also indicate when a cookie is being sent.
+You can do this by selecting the settings in your web browser according to your cookie preferences, however, then you may have to manually adjust some settings each time you visit a web page.
+==========
+This can cause some services and features to malfunction.
+Detailed descriptions of how to delete or deactivate individual cookies can be found in our privacy policy.
+In the event of contradictions between the English and German versions of the Cookie Policy, only the German version shall be authoritative.
+==========

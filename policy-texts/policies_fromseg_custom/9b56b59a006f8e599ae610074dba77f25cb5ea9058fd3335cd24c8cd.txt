@@ -1,0 +1,276 @@
+We use “cookies” which are files or pieces of information that may be stored on your computer (or other internet enabled devices, such as a smartphone or tablet) when you visit our Sites.
+We use cookies to make our Sites easier to use and to better tailor the Sites and our products to your interests and needs.
+Cookies may also be used to help speed up your future activities and experience on our Sites.
+For example, a Site can recognise that you have provided your personal data and will not request the same information a second time.
+==========
+In addition, we adhere to the Digital Advertising Alliance’s Self-regulatory Principles of Online Behavioral Advertising <http://www.aboutads.info/principles>.
+Companies that engage in Online Behavioral Advertising (“OBA,” or Interest-based Advertising) use information gathered about your visits over time and across different websites or applications in order to predict your preferences and show you ads that are more likely to be of interest to you.
+==========
+Some of our Services enable its customers to use audience data to enhance their targeting of ads.
+We partner with third parties to provide certain services on our website, such as the ability to share content on other platforms.
+Our third-party partners may use cookies or similar technologies in order to analyse your behaviour across websites.
+We may also use cookies to collect information about the device you are using to view the Site or the type of Internet browser or operating system you are using, and link this to your personal data.
+This is to ensure that our Sites present the best web experience for you and are effective information resources.
+==========
+When you click “Accept” on our cookie banner, you agree to the placement of cookies on your device by us and our analytics providers.
+If you do not click accept, we will place an opt-out cookie on your browser instead of our tracking cookie.
+==========
+You may change your preferences or withdraw your consent at any time.
+Most internet browsers are initially set to accept cookies, however it is possible to change the settings to block the cookies in order to opt out of the cookies we use on our Sites or to alert you when cookies are being sent to your device.
+==========
+You can refer to your browser instructions or help screen to learn more about how to adjust or modify your browser settings or follow the instructions as provided below.
+But please remember, if you disable the cookies that we use, or you do not accept our cookies, you may not be able to visit certain areas of our Site or you may not receive personalised information when you visit the Site.
+==========
+If you would like more information about the types of cookies we use and how we use them, please click here.
+What does a cookie look like?
+==========
+A cookie will usually contain the name of the website from which the cookie has come from, the “lifetime” of the cookie (i.e. how long the cookie will remain on your device), and a value, which is usually a randomly generated unique number.
+What types of cookies do we use and how can you opt out?
+==========
+Online Behavioural Advertising
+FreeWheel Media Inc has elected to participate in the DAA’s Consumer Choice Page in order to offer you the ability to elect not to receive such targeted advertising from FreeWheel customers.
+Comcast International France SAS does not collect data, nor set cookies, to build profiles for OBA.
+Some of Comcast International France SAS’ buying partners may do this from their systems.
+You should check http://www.youronlinechoices.com/ to understand which companies use this data and opt out if you wish to.
+==========
+User Tracking – Desktop:
+If you choose to opt-out of our cookie, you will be opted out for all of the Sites and customers that use our Services.
+If you do not want a unique cookie from us, there is a simple procedure to follow.
+Click here to replace your unique FreeWheel Media Inc cookie with an opt-out FreeWheel Media Inc cookie.
+Click here to replace your unique Comcast International France SAS cookie with an opt-out Comcast International France SAS cookie.
+==========
+If you select an opt-out cookie, ads delivered to your browser on behalf of our customers using our ad-serving technology will be targeted based only on the device identifiable information (“DII”) that is automatically transmitted in the Internet environment.
+The non-personally identifiable information that is automatically transmitted includes your browser type, Internet service provider, information about the general content of the Site or page displayed on your browser, and other non-personally identifiable information provided by the Site or customer such as data to confirm that you have opted out of our cookie being dropped on your device.
+==========
+When you receive this cookie, our systems will not attempt to assign other of our companies’ cookies in the future.
+PLEASE NOTE: If you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers), or use a new or different computer, you may need to opt out again.
+==========
+User Tracking – Mobile Devices:
+
+To opt out of certain targeted advertising on your mobile device via your device’s identification number, follow the instructions below:
+
+For Android: (1) Open the Google Settings app on your device; and (2) select Ads.For iOS: devices with iOS 6 and above use Apple’s Advertising Identifier.
+To learn more about limiting ad tracking that uses this identifier, visit the Settings menu on your device.
+==========
+Location Tracking: Standard functionality of FreeWheel’s Monetization Rights Management® Service (“MRM”) enables MRM customers to associate a zip code from the IP address FreeWheel Media Inc collects from you when you view an ad FreeWheel Media Inc has served.
+FreeWheel Media Inc may, on behalf of a customer, use this location information to improve the relevance of ads you see.
+Comcast International France SAS does not collect or utilize such location information.
+The Services also enable FreeWheel to obtain precise information about your location from ads FreeWheel serves to your mobile device.
+==========
+In order to opt out of advertising that is targeted to your mobile device based on your location, follow the instructions below:
+For Android, there are 2 methods:
+
+
+Method 1: (1) Open the Google Settings app on your device; (2) go to Location (before Android 5.0); and (3) turn off the “Location” setting.
+Method 2: (1) Open Notification Center (swipe down from top of device); and (2) Turn off the “Location” setting.
+For iOS:
+
+(1) Go to Settings; (2) go to Privacy; (3) go to Location Services; and (4) turn off the “Location Services” functionality and/or review information about specific Applications and System Services.
+==========
+Use of our Services – SSP
+Through our SSP Services, the following cookies are dropped onto our clients’ customers’ devices:
+
+
+
+Cookie Name
+Cookie Type
+Notes
+
+
+UID
+Persistent.
+This cookie is always set.
+This is a unique, anonymous browser-identifier that allows us to know that the browser has been seen before.
+==========
+The cookie is used in the provision of the Services and to help generate statistics to show how many people may have seen particular advertising.
+The cookie is valid for one month and may be deleted but will be re-issued when another advertisement is requested from the system.
+SessionID
+Session.
+This cookie is always set.
+==========
+SessionID tells the system that the request is part of a single session by a user.
+Advertisers would prefer not to show too many of the same ads to the same user in a single session.
+==========
+This cookie helps prevent that.
+The cookie expires at the end of the session and should be removed by the browser.
+It may be deleted but will be re-issued when another advertisement is requested from the system and deletion may result in repeat showing of otherwise restricted advertisements.
+==========
+OA*CAP and OA*BLOCK cookies
+Persistent.
+These cookies are only set when required.
+==========
+These types of cookies tell the system to limit the number of times a browser may see a particular advertisement.
+The cookies can be valid for different time periods, depending on the limits of individual advertising campaigns, but are generally valid for between 30 days and 1 year.
+==========
+The cookies are removed when the campaigns to which they are attached are completed.
+If the cookies are rejected or deleted then the limitations on seeing individual advertisements may not be applied correctly.
+If the cookies are deleted the limits are re-set and a browser may see more of the advertisements that intended by the advertiser.
+==========
+Uid-bp-
+Persistent.
+These cookies are always set.
+==========
+We connect customers to other advertising systems (buying partners) who buy video advertising space.
+Many of our buying partners need to know their unique identifier for a browser before they place an advertisements.
+Generally, this prevents buyers from showing the same video too many times to a single user across multiple websites.
+==========
+In order to match a buyer’s identifier to our system a synchronization process will set a cookie (beginning uid-bp-) which contains a user/browser identifier from the buying partner.
+This identifier can then be used in the advertising process.
+==========
+The cookies are valid for 1 year.
+These cookies may be deleted but will be re-set when the buyer is encountered again.
+The cookie contains an identifier set by the buyer’s system.
+Details of the cookies from our buying partners can be found on their websites.
+==========
+This data may be used by buying partners to target advertisements.
+We have no access to this data.
+==========
+Dp-
+Persistent.
+This cookie is only set when a marketplace has activated a third-party data service.
+If our publisher partner uses an external provider of data (also known as a Data Management Platform, DMP) they may provide some of the data to our system to help when selling of advertisements.
+Our customers can set their own expiration period for this cookie from 30 days to 1 year.
+==========
+It may be deleted but will be re-issued when a request is made to our system.
+The data contained is controlled by the marketplace & data management platform who will be able to provide more details about the type of data referenced.
+==========
+This data is used to target advertisements.
+Use of our Services – MRM
+Through our MRM Services, the following cookies are dropped onto our clients’ customers’ devices:
+
+
+
+Cookie Name
+Cookie Type
+Notes
+
+
+_uid
+Persistent Cookie
+The user id identifying the unique user, across browser session, across network
+
+
+_sid
+Session Cookie
+Identifies the browser user session
+
+
+_ab_test
+Persistent Cookie
+Used to split traffic for test
+
+
+_stid
+Persistent Cookie
+Describes which FW network and scenario the user comes from
+
+
+_av
+Persistent Cookie
+Used to record user ad views
+
+
+_sav
+Session Cookie
+Used to record user stream ad views
+
+
+_asav
+Persistent Cookie
+Used to record user ad views for frequency capping, pre-assets
+
+
+_ssav
+Persistent Cookie
+Used to record user ad views for frequency capping, per site section for ads
+
+
+_auv
+Persistent Cookie
+Used for ad unit user tracking
+
+
+_cv
+Persistent Cookie
+Used for creative rotation cookie
+
+
+_cvr
+Persistent Cookie
+Used for commercial view ratio
+
+
+_pr
+Persistent Cookie
+Used for page advertisement history tracking
+
+
+_vr
+Persistent Cookie
+Used for video advertisement history tracking
+
+
+_cph
+Persistent Cookie
+Commercial pattern cycling
+
+
+_sc
+Persistent Cookie
+Section content for user experience, for wall clock time
+
+
+_wr
+Persistent Cookie
+Indicator of current active website in user session for User experience capping and Commercial break patterns
+
+
+_ue
+Session Cookie
+User exchange for audience data
+
+
+_ul
+Session Cookie
+Ads used the user attribute stored on cookie for the ad request transaction
+
+
+_ro
+Session Cookie
+Used for testing against tear sheeting
+
+
+_ha
+Session Cookie
+Historical ads tracked
+
+
+_ss
+Session Cookie
+Slots sequencing for ad pod targeting
+
+
+_drh
+Session Cookie
+Display request history for display ads
+
+
+
+ 
+Are any third-party cookies set?
+==========
+There are a number of suppliers that also set cookies, beacons, tags, and scripts on your device on our behalf when you visit our Sites to allow them to deliver the services they are providing (for example if you connect via Twitter, Facebook, or LinkedIn), analyse trends, administer the Sites, track users’ movements around the Site, and gathering demographic information about our user base as a whole.
+This means that when you visit the Sites you receive cookies from third party websites or domains.
+We do not control the placing of these cookies and you should check the relevant third party’s website for more information about these cookies.
+We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
+==========
+Web Analytics Tools
+The Sites uses web analytics tools, specifically Google Analytics to track your interactions with a Site and to store information, such as your IP address, what time you visited, whether you’ve visited before and what Site referred you to our Site.
+Site measurement statistics may be used to personalise your website experience, as well as to evaluate (anonymously and in the aggregate) statistics on website activity.
+We use this information to measure the effectiveness of our web presence and to compile statistical reports.
+==========
+Where we use Google Analytics, we share this information with Google to help Google improve its capabilities for analyzing sites.
+For more information about Google Analytics, go to: http://www.google.com/intl/en/analytics/privacyoverview.html
+When do our cookies expire?
+Except for essential cookies, most of the cookies on our Site expire at the end of your current session on our Site.
+==========

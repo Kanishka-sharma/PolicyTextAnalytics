@@ -1,0 +1,17 @@
+When a company uses Adobe's analytics and on-site personalization services, that company tells Adobe what type of information it would like us to collect.
+Examples of the type of information a company may ask Adobe to collect are:
+•   The URLs of the web pages you visit and the time spent on them
+•   The URL of the page that showed the link you clicked on that brought you to that company's website
+•   The searches you have performed, including searches that led you to that company's website
+•   Information about your browser and device, such as device type, operating system, connection speed, and display settings
+•   Your IP address, which Adobe may use to approximate your general location
+•   Information you may provide on that company's website, including information on registration forms
+•   Whether you clicked on an ad
+•   Items you've either purchased or placed within the shopping cart feature on that company's website
+•   Social network profile information, including photos, fan and like status, user IDs, age, and gender
+Some companies using Adobe services may send us information that allows them to identify you personally.
+==========
+Some companies may also buy additional information about you and then add that additional information to the information collected by Adobe's products on their websites.
+This additional information may include things like email addresses, account information, or Facebook profile information, including photos and usernames.
+When Adobe either is instructed to collect or receives personal information on behalf of companies that use our services, Adobe asks companies to describe within their privacy policies their information collection and use practices and give you the opportunity to opt out.
+==========

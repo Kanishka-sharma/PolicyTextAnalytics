@@ -1,0 +1,230 @@
+Summary
+Collection and Use of Personally Identifiable Information
+Collection and Use of Non-Personally Identifiable Information
+Sharing of Personally Identifiable Information with Third Parties
+Sharing of Non-Personally Identifiable Information with Third Parties
+User Choice and Control
+Information Security
+Information Retention
+Children
+Changes
+Contact
+At zeotap, we care about privacy.
+For our zeoCore analytics and advertising service, we help to handle certain non-personally identifiable information from end users of mobile devices.
+This privacy policy helps you to understand how we collect, use, share, and store such information.
+==========
+Summary
+
+
+zeotap GmbH (“we,” “our,” or “us”) is a data technology company that processes data from mobile network operators (“Operators”) in order to deliver innovative, customer-centric, and privacy-led data analytics and advertising solutions across industries.
+zeotap (“Data Processor”) and Operators (“Data Controllers”) share responsibilities in ensuring high privacy and security standards for end users of mobile devices (“Data Subjects”).
+zeoCore is a global technology platform that enables Operators to offer relevant mobile advertising (“RMA”) to their customers in order to improve their mobile experience.
+==========
+We build our technology based on privacy-by-design principles with advanced de-identification, aggregation, clustering, segmentation, and anonymization techniques
+
+
+
+
+We do not collect, use, or share personally identifiable information (PII)
+
+
+
+
+We collect, use, and may share non-personally identifiable information (non-PII) only with your sufficient consent
+
+
+
+
+We do not track individual internet browsing behavior
+
+
+
+
+Collection and Use of Personally Identifiable Information
+
+
+Personally identifiable information is data that identifies a specific individual.
+We do not collect or share any personally identifiable information (PII).
+Collection and Use of Non-Personally Identifiable Information
+
+
+We collect and use non-personally identifiable information (“non-PII”) to optimize advertisements on mobile devices such as smartphones and tablets.
+Non-PII does not, on its own, directly associate with any specific identified individual.
+IP Addresses
+
+
+We collect and use IP addresses that we receive from mobile app or website providers (“Publishers”).
+IP addresses, which are usually assigned based on real-world locations, may be used by Advertisers in an anonymized format to localize advertisements.
+==========
+Advertising IDs
+
+
+Advertising IDs (“Ad IDs”) are user-resettable, unique, anonymous identifiers for advertising.
+Ad IDs identify a specific device and are implemented both on Apple iOS (“Identifier for Advertising” / “IDFA”) and Google Android (“advertising ID”).
+We collect and use Ad IDs to identify advertising requests coming from Publishers and to deliver relevant ads from Advertisers.
+However, we do not share Ad IDs with Publishers or Advertisers.
+==========
+Cookies
+
+
+An HTTP cookie (also called web cookie, Internet cookie, browser cookie or simply a cookie) is a small piece of data sent from a website and is stored in the user's web browser while the user is browsing.
+We may use cookies in a way similar to that in which we use Advertising IDs.
+Mapping cookies that we send to the user’s device help us recognize whether the advertising request comes from a device whose user we have information about.
+Our cookies are so called “third party cookies” in respect to the relevant Publishers who provide space for the display of advertising within their websites.
+We demand that the Publishers we work with adhere to the legal notice and consent requirements applicable to them.
+==========
+We only use cookies to be able to facilitate the delivery of targeted ads based on the non-PII obtained from Operators.
+We do not use cookies to track users’ browsing behavior.
+If users wish to clear or block our cookies, they can do so by adjusting the settings of their mobile browser.
+==========
+Demographic Data
+
+
+We collect the following account demographic information from Operators (“Demographic Data”):
+
+
+
+
+user demographics (e.g., age and gender);
+
+
+
+
+general geographic area of the billing address; and
+
+
+
+
+whether the user spends below average, average, or above average on mobile phone services;
+
+
+
+
+zeotap does not have a direct relationship with users and it uses the information it receives for the purposes described in this policy.
+However, Operators and third parties may be subject to consent requirements for their collection, use, and sharing of information with zeotap.
+zeotap may aggregate information and further process the non-PII it collects from Operators.
+To help Advertisers to reach their target audiences on mobile devices, zeotap identifies or creates demographic segments for users.
+For example, Advertisers might look for audiences such as “males, 30 to 34, living in Brooklyn”.
+We do not collect Demographic Data directly from individuals through our technology.
+==========
+Advertising Bid Requests
+
+
+In real-time bidding (“RTB”), Publishers send advertising bid requests (“Bid Requests”) in real-time to Advertisers, indicating that they have an open advertising space (“Impression”) to sell.
+The Impression is auctioned among interested Advertisers and sold to the highest bidder.
+Bid Requests from mobile apps usually contain an Ad ID alongside non-PII such as the type of the Impression (banner, audio, video), format, app, publisher, device, etc.
+We collect and use the Bid Request and Ad ID in order to participate in the RTB process on behalf of Advertisers.
+==========
+Sharing of Personally Identifiable Information with Third Parties
+
+
+zeotap does not disclose, transfer, or otherwise make accessible to non-affiliated third parties any PII in connection with its provision of zeoCore services.
+Sharing of Non-Personally Identifiable Information with Third Parties
+
+
+We may share non-PII in order to provide our zeoCore services or as otherwise described in this Privacy Policy.
+zeotap may share non-PII with affiliates, business partners, or others in connection with administrative or legal processes.
+==========
+Data Platforms
+
+
+We may share non-PII such as Ad IDs and Aggregate Demographic Data (“ADS”) with third party data platforms (“Data Platform”).
+Data Platforms in turn may share ADS in combination with anonymous third party identifiers with Publishers and Advertisers.
+Publishers & Supply-side Platforms
+
+
+We do not share non-PII with Publishers or SSPs directly.
+However, the aforementioned Data Platforms may share non-PII with Publishers & Supply-side Platforms.
+==========
+Advertisers & Demand-side Platforms
+
+
+We may share non-PII with Advertisers and Demand-side platforms (“DSPs”) such as “ADS in combination with de-identified Bid Requests and temporary IDs (“Temporary ID”).
+De-identified Bid Requests are stripped of Ad IDs and data that can be used to create fingerprints such as timestamps and other combinations of data points.
+Temporary IDs expire after 48 to 72 hours and used by Advertisers to prevent targeting devices multiple times with the same ad.
+==========
+Other Sharing
+
+
+Though we don’t collect PII, we might be required to share non-PII to comply with a competent authority or court order to facilitate an investigation, court proceeding and prevent harm to public interests or in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+User Choice and Control
+
+
+We believe that users should be in control of their information.
+They may contact us at any time to change their preferences
+
+
+User Opt-out
+
+
+
+
+Users may opt-out directly with their Operator (please refer to your Operator’s privacy policy).
+You may opt-out by selecting the “Limit Ad Tracking” option on Apple iOS or “Opt-out of interest-based ads" on Google Android.
+Users may opt-out by submitting your Ad ID to us.
+==========
+This will delete all associated data and prevent any future collection and use of non-PII data associated with the Ad ID.
+User Control and Deletion
+
+
+Users have options to delete any data associated with their Ad ID:
+
+
+
+
+Users may delete data by resetting the Ad ID by selecting the option “Reset Advertising Identifier” on Apple iOS or “Reset advertising ID" on Google Android.
+This will delete the user’s current Ad ID from their device and replace it with a new Ad ID.
+After a certain amount of time we delete Ad IDs and associated data when we don’t receive any Bid Requests containing the Ad ID anymore.
+Users may delete data associated with their Ad ID by submitting your Ad ID to us.
+==========
+Information Security
+
+
+We take information security very seriously.
+To protect users’ data we have developed and maintain technical and organizational measures such as physical access control, system access control, data access control, transfer control, input control, job control, availability control and purpose control.
+Though absolute security is impossible, our technology design and security measures are designed to reduce the risk of data getting leaked or misused by third parties.
+Information Retention
+
+
+We retain data until one of the following cases occur:
+
+
+
+
+The user opt-outs of relevant mobile advertising (“RMA”) with his Operator;
+
+
+
+
+The user submits his Ad ID to us for opt-out and deletion of associated data; or
+
+
+
+
+The user’s Ad ID is inactive for at least 90 days.
+==========
+Children
+
+
+We do not knowingly collect, use, or share:
+
+
+Changes
+
+
+We may modify this policy at any time.
+Any modifications will be effective immediately upon posting.
+The date when this Privacy Policy was last changed is stated below.
+If you have any questions or suggestions about this privacy policy and our privacy practices, we are happy to get in touch with you under the following email address:
+privacy@zeotap.com
+
+
+zeotap GmbH
+
+
+Poststraße 12.
+10243 Berlin, Germany
+
+
+Last updated August 2016.
+==========

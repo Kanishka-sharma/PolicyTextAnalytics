@@ -1,0 +1,33 @@
+PRIVACYHere at ID5, we take user privacy very seriously.
+This page explains in plain English the type of information we collect on users through our ID synchronisation service, and what we do with it.
+For more legal information, please refer to our privacy policy and our cookie policy pages.
+==========
+What information does ID5 collects about users?
+ID5 is an ID synchronisation platform.
+Our job is to collect anonymous user IDs, usually stored on cookies, and to match them between different advertising technology providers.
+ID5 does not store anything else than these anonymous identification codes.
+Who collects this information?
+ID5 Technology Ltd. is a UK-based technology company.
+==========
+Our offices are in London where most of our staff is based.
+We pay taxes in the UK and are subject to the European General Data Protection Regulation (GDPR).
+How is this information collected?
+ID5 uses small lines of codes embedded in web pages to collect anonymous user IDs.
+These lines of codes are controlled by the website itself, who has subscribed to our services.
+==========
+Why is it being collected?
+ID5 collects user IDs to enable different advertising technology solutions to share information about users.
+Each platform is responsible for its own data collection process (including associated privacy communication with users), ID5 simple enables them to share information by connecting their user IDs with each other.
+How will it be used?
+==========
+ID5 services enable publishers and advertisers (via their technology platforms) to share information about users with one another.
+Who will it be shared with?
+Our ID graph is provided to technology platforms subscribing to the ID5 service.
+==========
+How will users be impacted by this process?
+By using ID5 services, technology platforms will be able to share information they have about users more effectively.
+As a result, they will be able to use this information to target advertising messages based on what they know about users.
+ID5 believes it enables brands and publishers to better engage with consumers, to take better consideration of their needs, and to protect their privacy.
+We welcomes questions and feedbacks about our privacy management procedures or any other privacy-related concerns.
+Please use the form below to contact us on these topics :
+==========

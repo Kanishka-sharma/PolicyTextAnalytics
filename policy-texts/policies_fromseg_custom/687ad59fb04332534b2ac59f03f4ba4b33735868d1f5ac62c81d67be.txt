@@ -1,0 +1,33 @@
+P3P in a nutshell
+The Platform for Privacy Preferences Project (P3P) will result in the specification and
+demonstration of an interoperable way of expressing privacy practices and preferences by
+Web sites and users respectively.
+Sites' practices that fall within the range of a user's
+preference will be accessed "seamlessly," otherwise users will be notified of a
+site's practices and have the opportunity to agree to those terms or other terms and
+continue browsing if they wish.
+P3P can be incorporated into browsers, or "proxy" products that sit between
+your client and the server.
+Why is it useful?
+==========
+Users are informed about and given the opportunity to decide how their data is used.
+When users wish to provide information, that information can be more useful to Web
+operators than information available today.
+It can be easily sent (consequently increasing
+the convenience and quality of the information) in a secure manner.
+==========
+Where does P3P fit in to the Web architecture?
+P3P allows one to make statements about privacy practices and preferences in a flexible
+manner.
+Part of a privacy policy can be the requirement of a digital signature on such
+statements.
+==========
+This will tightly couple to the W3C DSig project.
+Given a match between a user's preferences and a site's practices, data may be
+exchanged in a convenient and secure manner.
+(This is where proposals like OPS fit in.)
+Members can go to the P3P
+member home page
+
+philipd@w3.org, P3P Project Manager 30 Oct 1997
+==========

@@ -1,0 +1,161 @@
+What are cookies?
+How are cookies used on the University of Birmingham website?
+Types of cookies
+Classification of cookies
+Cookies used on the www.birmingham.ac.uk and intranet.birmingham.ac.uk websites
+How to control and delete cookies
+More information
+Contact us
+What are cookies?
+Cookies are text files containing small amounts of information, often including a unique identifier, which are downloaded to your device when you visit a website - if your browser preferences allow it.
+==========
+Cookies are then accessed by the originating website on each subsequent visit.
+Cookies are useful because they allow a website to recognise a user’s device.
+How are cookies used on the University of Birmingham website?
+The cookies we use on the www.birmingham.ac.uk and intranet.birmingham.ac.uk websites are there to allow you to perform the services you require and to assist us in providing a better website for our users.
+We do not use cookies to store information that identifies you as an individual.
+Details on cookies used are provided below.
+We encourage you to accept the cookies we serve.
+==========
+However, if you wish to restrict or block the cookies which are set by our or any other website, you can do this through your browser settings.
+Please see ‘How to control and delete cookies’ for more information.
+Google Analytics
+We use Google Analytics cookies to hold information about your visit to our site.
+This helps us better identify the use and popularity of our services and how successfully the website is functioning.
+If you do not wish us to do this, you can opt out of the Analytics service by installing an add-on for your browser.
+This can be found at http://tools.google.com/dlpage/gaoptout.
+Alternatively you can delete/restrict the cookies as for any other cookie - see ‘How to control and delete cookies’ for more information.
+AppNexus Platform
+We have recently introduced (14/07/2014) a tracking pixel delivered by AppNexus' Platform product to assist the marketing and delivery of our on-line advertising.
+==========
+This now forms part of every page on the www.birmingham.ac.uk site.
+The Platform uses only non Personally Identifiable Information (PII).
+It operates by associating non-PII with browsers and devices, so that the University and its partner digital agencies can then use the information to select appropriate advertising to be delivered to you on behalf of the University.
+See Cookies used on the www.birmingham.ac.uk and intranet.birmingham.ac.uk websites for more information on the Platform cookies.
+For the AppNexus Platform privacy policy - see http://www.appnexus.com/platform-policy
+For AppNexus Platform opt-out - see http://www.appnexus.com/platform-policy#choices 
+Types of cookies
+Session Cookies
+Session cookies are created temporarily when a user visits a website.
+Once the user leaves the site/closes the browser, the session cookie is deleted.
+Persistent Cookies
+A persistent cookie file remains on the user’s device and is re-activated when the user visits the website that created that particular cookie.
+These cookies expire after a certain period (set in the file), or can be removed manually.
+==========
+Classification of cookies
+The cookies on this website have additionally been categorised based on the categories found in the International Chamber of Commerce (ICC) UK Cookie Guide.
+Cookie Classification
+Category Description
+Strictly necessary cookies These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
+Performance cookies These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages.
+These cookies don’t collect information that identify a visitor.
+All information these cookies collect is aggregated and therefore anonymous.
+Functionality cookies These cookies allow the website to remember choices you make [such as your username, language or the region you are in] and provide enhanced, more personal features.
+For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located.
+These cookies can also be used to remember changes you have made to text size, fonts and other parts of web pages you can customise.
+==========
+They may also be used to provide services you have asked for such as watching videos or commenting on a blog.
+The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.
+Targeting/advertising cookies These cookies are used to deliver adverts more relevant to you and your interests.
+They are also used to limit the number of time you see an advertisement as well as help measure the effectiveness of the advertising campaign.
+==========
+A list of the cookies used by this website is set out below.
+Cookies used on the www.birmingham.ac.uk and intranet.birmingham.ac.uk websites
+We use a CMS to manage the content of our site.
+The CMS software vendors have assured us that all cookies they create on the site are currently essential and the website will not function correctly if they are blocked or removed.
+==========
+They have also made a commitment to periodical review their use of cookies and to remove any cookie references that become redundant.
+In addition to these cookies, our site makes use of cookies from Google Analytics and AppNexus platform - details, and opt-out options, are set out below.
+Common Cookies
+Common Cookies
+Cookie Name Cookie Description Cookie Classification Cookie Behaviour
+ASP.NET_SessionId Randomly generated session ID.
+==========
+Our suppliers have deemed this as essential to the operation of the service.
+[Find out more about this cookie from Microsoft Support.]
+Strictly necessary cookie Session cookie - disappears when the user closes the browser.
+_utma Google Analytics.
+Used by Google Analytics to track user count of visits to a site, when a first visit was, and a last visit.
+Performance cookie Persistent cookie, lasts for 2 years
+_utmb Google Analytics.
+Used by Google Analytics to track exactly when a user visits a site.
+Performance cookie Persistent cookie, lasts for 30 minutes
+_utmc Google Analytics.
+Used by Google Analytics to track exactly when a user leaves a site.
+Performance cookie Session cookie - disappears when the user closes the browser.
+_utmz Google Analytics.
+Used by Google Analytics to track how a user got to this site (where from), what link was used, what part of the world.
+Performance cookie Persistent, lasts for 6 months.
+==========
+uuid2 AppNexus Platform.
+This cookie contains a unique randomly-generated value that enables the Platform to distinguish browsers and devices.
+It is matched against information – such as advertising interest segments and histories of ads shown in the browser or device – provided by clients or other third parties and stored on the Platform.
+This information is used by clients to select advertisements for delivery by the Platform, and to measure the performance of, and attribute payment for, those advertisements.
+==========
+In addition, to enable clients to use non  Personally Identifiable Information ( PII) they collect outside the Platform or acquire from other third parties, this cookie is sometimes matched to clients’ or other third parties’ cookies that contain such non PII Targeting/advertising cookies Persistent, lasts up to 90 days
+uuid2 (opt-out) AppNexus Platform
+When a user opts out of having the Platform used to select ads based on online behavior, the unique value in uuid2 is deleted and replaced with the non-unique value “-1”.
+Targeting/advertising cookies Persistent, lasts up to 90 days
+sess AppNexus Platform.
+The sess cookie contains a single non-unique value: “1”.
+It is used by the Platform to test whether a browser is configured to accept cookies from AppNexus.
+Targeting/advertising cookies Persistent, lasts up to 90 days
+icu AppNexus Platform.
+==========
+The icu cookie is used to select ads and limit the number of times a user sees a particular ad.
+It contains information such as the number of times an ad has been shown, how recently an ad has been shown, or how many total ads have been shown Targeting/advertising cookies Persistent, lasts up to 90 days
+anj AppNexus Platform.
+The anj cookie contains advertising interest segments provided by clients and other third parties.
+Clients use those segments to select advertisements for delivery on the Platform.
+==========
+Targeting/advertising cookies Persistent, lasts up to 90 days
+token AppNexus Platform.
+Cookies that start with token are helper cookies used as a security measure with industry opt-out pages.
+They contain a unique value only to verify the origin of opt-out requests.
+Targeting/advertising cookies Persistent, lasts up to 90 days
+acb AppNexus Platform.
+Cookies that begin with acb have a value unique to a particular ad and are used to indicate to the Platform which ad to show and to record the fact that such ad was shown, for purposes such as billing and reporting.
+==========
+Targeting/advertising cookies Persistent, lasts up to 90 days
+Registration/authentication cookies.
+Cookies used when a user logs in to the site.Used in the following areas of the site:
+Registration/authentication for commenting on the www.birmingham.ac.uk site.
+Protected content on the intranet.birmingham.ac.uk site.
+Note.
+Blocking these cookies will prevent registration/authentication to the site and will make some content/functions unavailable.
+==========
+Registration Cookies
+Cookie Name Cookie Description Cookie Classification Cookie Behaviour
+ContensisCMSUsername Stores information to re-authenticate a user when they have selected “Save Password” when logging in Strictly necessary cookie, Functionality cookie Session cookie - disappears when the user closes the browser.
+ContensisDisplayName Stores a user's display name in the format as specified in Contensis global settings Strictly necessary cookie, Functionality cookie Session cookie - disappears when the user closes the browser.
+ContensisLastUserName Stores a user's username, this is set when a user logs in for the first time Strictly necessary cookie, Functionality cookie Persistent, lasts for 25 years
+ContensisAvatar Stores the URL to a user's avatar image, this is set when a user logs in for the first time Strictly necessary cookie, Functionality cookie Persistent, lasts for 25 years
+How to control and delete cookies
+You can manage cookie usage through your browser settings.
+==========
+The help function in your preferred browser should provide you with the correct information.
+Some browsers provide helpful cookie guides:
+Chrome: https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647&p=cpn_cookies
+Firefox: http://support.mozilla.org/en-US/kb/Cookies
+Internet Explorer: http://support.microsoft.com/kb/278835
+Safari 5 for Mac: http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html
+Opera: http://help.opera.com/Linux/10.50/en/cookies.html
+Alternatively, http://www.allaboutcookies.org provides advice on how to do this, and further information on cookies and how to manage them.
+In addition Google Analytics and AppNexus Platform offer provide their own opt-out options:
+http://tools.google.com/dlpage/gaoptout
+http://www.appnexus.com/platform-policy#choices  
+N.B.
+In the case of some mobile devices, it may be necessary to consult the device’s instruction manual to manage cookies effectively.
+More information
+All about cookies
+Cookies and Google Analytics
+ICC UK Cookie Guide (pdf)
+Information Commissioner’s Office (ICO)
+If you have any questions or comments about the University’s cookie policy, please contact us by emailing webservices@lists.bham.ac.uk or by post at the address below:
+Cookie Policy
+University Web Services Team
+IT Services
+Elms Road
+University of Birmingham
+B15 2TT
+==========

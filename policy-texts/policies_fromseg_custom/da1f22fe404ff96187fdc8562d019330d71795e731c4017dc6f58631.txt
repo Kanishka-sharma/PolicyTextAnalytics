@@ -1,0 +1,266 @@
+1.
+Categories of Personal Data and Processing Purposes 
+1.1   Website
+WP Engine, Inc (“WP Engine”)
+The Bannerflow website is hosted on WP Engine.
+WP Engine collects information about the website visitors to provide the service, analyse trends in the aggregate, and administer the site.
+==========
+This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data.
+As a visitor to the Bannerflow website you automatically transfer this information.
+Without this personal information it is impossible for Bannerflow to serve the website in a reliable manner.
+Vimeo, Inc (“Vimeo”)
+Bannerflow is using Vimeo to host and display videos on the Bannerflow website.
+In order to provide the videos and understand the usage of the videos Vimeo collects data on behalf of Bannerflow.
+Without this personal information it is impossible for Bannerflow to serve the videos in a reliable manner.
+This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from Vimeo and the referring website address (i.e. bannerflow.com).
+==========
+1.2  Third-party analytics
+Bannerflow uses third-party analytics services to help understand your usage of our services.
+If you choose not to provide this personal data, Bannerflow will not be able to use these services to improve your website experience in a simple and data driven way.
+Bannerflow is using the following services:
+Google LLC (“Google Analytics”)
+Bannerflow is using Google Analytics in order to gain further understanding of how the Bannerflow website is used.
+Data such as pages viewed and time on site is stored in Google Analytics.
+==========
+You can opt-out of having making your site activity available to Google Analytics by installing the Google Analytics opt-out browser add-on or opting out through www.bannerflow.com/cookies.
+Leadfeeder
+Connected to the Google Analytics tool, Leadfeeder is a tool used by Bannerflow to understand the type of traffic visiting the website.
+Leadfeeder enriches the data from Google Analytics by placing a pixel on the Bannerflow website and enables Bannerflow to tailor the communications we serve to prospects to ensure that we give relevant support and advice about our product and services.
+Data such as company name is stored in Leadfeeder.
+When you consent to Google Analytics, you also consent to Leadfeeder enriching the data.
+You can opt-out of having making your site activity available to Google Analytics by installing the Google Analytics opt-out browser add-on or opting out through here.
+==========
+Platform 161
+Bannerflow uses the technology provided by Platform 161 to build relevant audiences for remarketing purposes via pixel tracking.
+This allows Bannerflow to reach people who previously visited our website, and match the right people with the right message.
+If you have visited bannerflow.com and accepted the cookie from Platform 161, they will let Bannerflow show ads towards you on sites across the Internet.
+You can opt out from Platform 161’s use of cookies by visiting www.bannerflow.com/cookies.
+==========
+Hotjar
+We use Hotjar in order to better understand our users’ needs and to optimize this service and experience.
+Hotjar is a technology service that helps us better understand our users experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback.
+Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices (in particular device’s IP address (captured and stored only in anonymized form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), preferred language used to display our website).
+Hotjar stores this information in a pseudonymized user profile.
+Neither Hotjar nor we will ever use this information to identify individual users or to match it with further data on an individual user.
+For further details, please see Hotjar’s privacy policy by clicking on this link.
+==========
+You can opt-out to the creation of a user profile, Hotjar’s storing of data about your usage of our site and Hotjar’s use of tracking cookies on other websites by following this opt-out link.
+1.3  Third party advertising
+Bannerflow use third-party services to serve ads using retargeting and similar techniques.
+If you choose not to provide personal data Bannerflow will not be able to personalise advertising targeted towards you in the same way.
+Bannerflow is using the following services:
+Facebook, Inc (“Facebook”)
+Bannerflow is using a so-called Facebook pixel to gather information about visitors for marketing purposes.
+Details about the cookies Facebook use and the data collected can be found in the Facebook Cookie Policy.
+It is also possible to opt out of all targeted Facebook advertising here or at www.bannerflow.com/cookies.
+LinkedIn Corporation (“LinkedIn”)
+Bannerflow is using a so-called LinkedIn Insight Tag to gather information about visitors to be used for marketing purposes.
+The LinkedIn Insight Tag creates a unique LinkedIn browser cookie on a visitor’s browser and enables the collection of the following data for that cookie: metadata (such as IP address, timestamp, page events (like page views)), and LinkedIn demographic information if there is an active LinkedIn.com member cookie present.
+You can opt out at www.bannerflow.com/cookies.
+For more information see go here.
+==========
+Google LLC (“Google”, “Google Adwords”)
+Bannerflow is using visitor data in order to serve advertising in the Google network (including AdWords), across the internet.
+The ads are based on visitor data.
+Google utilises cookies in order to be able to serve these ads.
+Visitors can opt out of Google’s use of cookies by visiting Google’s Ads Settings.
+==========
+1.4  Communication tools
+Bannerflow is using certain communications tools in order to communicate with website visitors, potential customers, and customers.
+If you choose not to provide personal data, Bannerflow would not be able to personalise the messaging, give you timely help, see the conversation history between you and Bannerflow representatives, and in some cases not even communicate with you.
+Hubspot, Inc (“Hubspot”)
+Bannerflow is using Hubspot to gather information on what visitors do on the website in order to provide personalised marketing and better responses to questions asked by visitors.
+Information filled out in forms on the Bannerflow website are put into HubSpot.
+==========
+If we send you a targeted email which includes web beacons, cookies, or similar technologies, we will know whether you open, read, or delete the message.
+When you click a link in a marketing e-mail you receive from Bannerflow, we will also use a cookie to log what pages you view, and what content you download from our websites, even if you are not registered to, or signed into, our site (only if you have accepted cookies).
+Please read more about the cookie tracking that Hubspot performs here.
+==========
+Intercom
+We offer the Intercom chat bot functionality to our site visitors through pop-up chat and sometimes via email for longer or continued conversations.
+We use Intercom as a conversational marketing tool to have better interactions with our prospective customers.
+Intercom works with sub-processors to enrich the onsite experience for the user and help suppliers to have more informed conversations with the site users.
+For more information on Intercom and how they use data and comply with GDPR and their sub-processors please visit their privacy policy here: https://www.intercom.com/terms-and-policies#privacy.
+==========
+You can also speak with Intercom directly over any concerns you may have about your data: compliance@intercom.com 
+Sakari
+Sakari SMS is a cloud-based messaging platform built to support businesses, which Bannerflow is using to send customized alerts, reminders, events and notifications to our customers in order to remind them of an event, webinar or similar.
+1.5  Contact form
+If you fill in our contact form, you will be asked to provide the following personal data about you: first name, last name, business email address, your query, and consent to receive marketing materials.
+We process such personal data for purposes of answering your queries or information requests, providing desired products or services, providing you with marketing materials to the extent permitted by applicable law, analysing your interests for marketing purposes, improving our website according to usage patterns, and other purposes to which you have agreed.
+This data is stored in Hubspot.
+If you do not provide this data we are unable to process your query.
+1.6  Resources
+If you request to download a resource such as an e-book, you will be asked to provide the following personal data about you: first name, last name, business email address, company name, how many ad campaigns you produce, and consent to receive marketing materials.
+==========
+We process such personal data for purposes of answering your queries or information requests, providing desired products or services, providing you with marketing materials to the extent permitted by applicable law, analysing your interests for marketing purposes, improving our website according to usage patterns, and other purposes to which you have agreed.
+This data is stored in Hubspot.
+If you do not provide this data we are unable to process your query.
+==========
+1.7  Newsletter/blog subscription/Webinar
+If you request to receive our newsletter, we collect and process the following personal data about you: business email address.
+We process such personal data for purposes of providing the newsletter and other marketing materials to the extent permitted by applicable law, and analysing your interests for marketing purposes.
+This data is stored in Hubspot.
+If you do not provide this data we are unable to send you our newsletter.
+==========
+If you express an interest in obtaining additional information about our services, request customer support, use our “Contact Us” or similar features, register to use our websites, sign up for an event, webinar or contest, or download certain content, we may require that you provide to us your contact information, such as your name, job title, company name, address, phone number, or email address.
+1.8 B2B Sales contacts
+Our Sales team might gather publicly accessible information about you (e.g. from LinkedIn or Google) in order to contact you as an interested party to our platform.
+We also collect information about you from other sources including third parties from whom we purchase Personal Data and from publicly available information.
+We may combine this information with Personal Data provided by you.
+This helps us update, expand, and analyze our records, identify new customers, and create more tailored advertising to provide services that may be of interest to you.
+The Personal Data we collect from other sources includes identifiers, professional or employment-related information, commercial information, visual information, internet activity information, and inferences about preferences and behaviors.
+==========
+In particular, we collect such Personal Data from the following sources:
+Third party providers of business contact information, including mailing addresses, job titles, email addresses, phone numbers, IP addresses, social media profiles, LinkedIn URLs and custom profiles, for purposes of targeted advertising, delivering relevant email content, determining eligibility and verifying contact information; and
+Another individual at your organization who may provide us with your business contact information for the purposes of obtaining services; and
+For this processing, Bannerflow rely on legitimate interest in order to grow our business.
+We only contact and process information about potential customers to Bannerflow.
+If you have been contacted by Bannerflow and would like to remove the information, just contact us at gdpr(at)bannerflow.com.
+==========
+Bannerflow is using Salesforce as a CRM-system, to store contracts and contact details of Clients to Bannerflow.
+Bannerflow also uses Salestrail to log actions in Salesforce, and SalesLoft for traceability on e-mails sent to customers and prospects.
+1.9 Bannerflow platform and Clients
+Some personal information is needed in order to log in to and use the Bannerflow platform.
+If you do not consent to Bannerflow keeping this personal information we cannot provide you with access to our platform.
+Personal information such as name is used to identify the user in the platform.
+For example, displaying what user has made a comment.
+==========
+In order to authenticate that the user has access to the platform, Bannerflow needs access to some personal data when creating an account and logging in.
+In order to keep the platform operational and stable, Bannerflow needs to log activity and process this personal data.
+For external reviewers and commenters, personal information such as name and e-mail may be stored through a cookie, in order to remember a returning external commenter in the future to improve and simplify the process for the eternal reviewer and/or commenter.
+==========
+Bannerflow is using the third-party services Google Analytics, Mixpanel, Hotjar and Gainsight in order to track user activity in the platform, including recording of user interactions (i.e. mouse movements, clicks).
+This data is used to analyse how the platform is being used.
+From the insights the data gives, Bannerflow is equipped to take decisions on how the platform can be improved.
+Bannerflow communicates platform updates, scheduled maintenance, NPS surveys and other relevant information to all users from time to time.
+This is done by email or chat through Mandrill/Mailchimp, Slack, Wootric and Intercom.
+==========
+CDNs (Content Delivery Network) are used to serve banners and content in the platform quickly and reliable to the user.
+The IP-address is by default part of the information shared with the CDNs.
+When using third party platforms to publish, such as Facebook and Adform, the user data for those platforms will pass through the Bannerflow platform to the third-party providers.
+Bannerflow from time to time uses a third party consultant to assist in the production of creatives.
+Bannerflow is using Vimeo to host and display videos in the Bannerflow platform.
+In order to provide the videos and understand the usage of the videos Vimeo collects data on behalf of Bannerflow.
+Without this personal information it is impossible for Bannerflow to serve the videos in a reliable manner.
+This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from Vimeo and the referring website address (i.e. bannerflow.com).
+==========
+1.10 Bannerflow Applications (Recruitment)
+If you apply for a job or get in touch with any of the employers through Team Tailor’s service, your personal data will be registered with and processed by the employer.
+The purpose of the registration and processing is to enable the employer to handle the recruitment process in question and to use the data for future recruitments.
+Only such data necessary for the purpose of the recruitment may be processed, such as contact details and records to evaluate the applicant’s suitability and career opportunities.
+For the purpose of evaluation and testing of the applicant’s suitability, we also use Psycruit to have quality safe way to evaluate and recruit new employees.
+We are using the digital reference taking service RefApp in our recruitment process.
+We are processing name, phone number, e-mail address, IP-address and the personal information that concerns you in the assessment that you are giving as a reference for one of our candidates, with the purpose to have quality safe way to evaluate and recruit new employees.
+This processing of personal data is based on the legal ground “legitimate interest” and our legitimate interest to receive references from you to be able to assess candidates in a recruitment process.
+The Employer is the Controller of Personal Data
+Team Tailor will process the personal data on the employer’s behalf, given that Team Tailor provide them with our recruitment tool.
+==========
+The employer who’s job you apply for, will be responsible as a controller for your personal data and is committed to not disclose it to unauthorized third parties.
+The controller will, however, share your personal data with relevant personal data processors when needed in relation to the purpose for the processing.
+For example, Team Tailor acts as a data processor when Team Tailor helps the employer gather your information via the recruitment tool.
+If you have any questions regarding your personal data and the employer’s processing thereof, please contact the employer in question directly.
+You may also contact gdpr(at)bannerflow.com.
+Bannerflow may not, however, be able to answer your question or comply with your request without the approval of the employer.
+2.
+==========
+Categories of Recipients and International Transfers
+We may transfer your personal data to third parties for the processing purposes described above as follows.
+Within Bannerflow: Bannerflow may receive your personal data as necessary for the processing purposes described above.
+Depending on the categories of personal data and the purposes for which the personal data has been collected, different internal departments within the Bannerflow may receive your personal data.
+For example, our IT department may have access to your account data, and our customer success and sales departments may have access to your account data or data relating to product orders.
+Moreover, other departments within Bannerflow may have access to certain personal data about you on a need to know basis, such as the legal department, the finance department, or internal auditing.
+With data processors: Certain third parties, whether affiliated or unaffiliated, may receive your personal data to process such data under appropriate instructions (“Processors“) as necessary for the processing purposes described above, such as analytics service providers, order fulfilment providers, customer care providers, marketing service providers, IT support service providers, and other service providers who support us in maintaining our commercial relationship with you.
+The Processors will be subject to contractual obligations to implement appropriate technical and organizational security measures to safeguard the personal data, and to process the personal data only as instructed.
+Other recipients: We may transfer – in compliance with applicable data protection law – personal data to law enforcement agencies, governmental authorities, judicial authorities, legal counsel, external consultants, or business partners.
+==========
+In case of a corporate merger or acquisition, personal data may be transferred to the third parties involved in the merger or acquisition.
+We will not disclose your personal data to third parties for advertising or marketing purposes or for any other purposes without permission.
+Any access to your personal data is restricted to those individuals that have a need-to-know in order to fulfil their job responsibilities.
+International transfers: The personal data that we collect or receive about you may be transferred to and processed by recipients that are located inside or outside the European Economic Area (“EEA“).
+==========
+For recipients located outside of the EEA, some are certified under the EU-U.S. Privacy Shield and others are located in countries with adequacy decisions, and, in each case, the transfer is thereby recognised as providing an adequate level of data protection from a European data protection law perspective.
+Other recipients might be located in countries which do not adduce an adequate level of protection from a European data protection law perspective.
+We will take all necessary measures to ensure that transfers out of the EEA are adequately protected as required by applicable data protection law.
+With respect to transfers to countries not providing an adequate level of data protection, we will base the transfer on appropriate safeguards, such as standard data protection clauses adopted by the European Commission or by a supervisory authority, approved codes of conduct together with binding and enforceable commitments of the recipient, or approved certification mechanisms together with binding and enforceable commitments of the recipient.
+You can ask for a copy of such appropriate safeguards by contacting us as set out in Section 6 below.
+3.
+==========
+Retention Periods
+Your personal data will be retained as long as necessary to provide you with the requested services.
+Once our relationship has ended, we will take steps to remove your personal data from our systems and records, anonymise it so that you can no longer be identified from it or otherwise see to that access to the personal data is highly restricted.
+The foregoing does not apply to the extent needed to comply with legal or regulatory obligations to which Bannerflow is subject (e.g. taxation purposes).
+We may retain your contact details and interests in our products or services for a longer period of time if Bannerflow is allowed to send you marketing materials.
+==========
+We may also retain your personal data after the termination of the contractual relationship to the extent necessary to comply with applicable laws or if we need your personal data to establish, exercise or defend a legal claim, on a need to know basis only.
+To the extent possible, we will restrict the processing of your personal data for such limited purposes after the termination of the contractual relationship.
+4.
+==========
+Your Rights
+Right to withdraw your consent: If you have declared your consent regarding certain collecting, processing and use of your personal data (in particular regarding the receipt of direct marketing communication via email), you can withdraw this consent at any time with future effect.
+Such a withdrawal will not affect the lawfulness of the processing prior to the consent withdrawal.
+Please contact us as stated in Section 6 below to withdraw your consent.
+If you would like to withdraw your consent for cookies on this site, please go to here and open the preference center.
+==========
+Additional data privacy rights: Pursuant to applicable data protection law, you may have the right to: (i) request access to your personal data; (ii) request rectification of your personal data; (iii) request erasure of your personal data; (iv) request restriction of processing of your personal data; (v) request data portability; and/or (vi) object to the processing of your personal data (including objection to profiling).
+Please note that these aforementioned rights might be limited under the applicable local data protection law.
+Below please find further information on your rights to the extent that the GDPR applies:
+Right to request access to your personal data: You may have the right to obtain from us confirmation as to whether or not personal data concerning you is being processed, and, where that is the case, to request access to the personal data.
+This access information includes – inter alia – the purposes of the processing, the categories of personal data concerned, and the recipients or categories of recipient to whom the personal data have been or will be disclosed.
+However, this is not an absolute right and the interests of other individuals may restrict your right of access.
+==========
+You may have the right to obtain a copy of the personal data undergoing processing free of charge.
+For further copies requested by you, we may charge a reasonable fee based on administrative costs.
+Right to request rectification: You may have the right to obtain from us the rectification of inaccurate personal data concerning you.
+Depending on the purposes of the processing, you may have the right to have incomplete personal data completed, including by means of providing a supplementary statement.
+Right to request erasure (right to be forgotten): Under certain circumstances, you may have the right to obtain from us the erasure of personal data concerning you and we may be obliged to erase such personal data.
+Right to request restriction of processing: Under certain circumstances, you may have the right to obtain from us restriction of processing your personal data.
+In such case, the respective data will be marked and may only be processed by us for certain purposes.
+==========
+Right to request data portability: Under certain circumstances, you may have the right to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and you may have the right to transmit those data to another entity without hindrance from us.
+Right to object: Under certain circumstances, you may have the right to object, on grounds relating to your particular situation, at any time to the processing of your personal data by us and we can be required to no longer process your personal data.
+Such right to object may especially apply if we collect and process your personal data for profiling purposes in order to better understand your interests in our products and services or for direct marketing.
+If you have a right to object and you exercise this right, your personal data will no longer be processed for such purposes by us.
+You may exercise this right by contacting us as stated in Section 6 below.
+Such a right to object may, in particular, not exist if the processing of your personal data is necessary to take steps prior to entering into a contract or to perform a contract already concluded.
+If you no longer want to receive direct marketing via email, you need to withdraw your consent as explained above.
+To exercise your rights, please contact us as stated under Section 6 below.
+You also have the right to lodge a complaint with the competent data protection supervisory authority.
+5.
+==========
+Cookies and other tracking technologies
+This website uses cookies and other tracking technologies.
+Some of the usage is described above.
+An exhaustive list can be found in our Cookie Policy.
+You can opt out from Bannerflow’s cookie placement here as well.
+6.
+==========
+Questions and Contact Information
+If you have any questions about this Privacy Policy or if you want to exercise your rights as stated above in Section 4, please contact us at: bannerflow[at]externdpo.se
+7.
+Changes to this Privacy Policy
+We may update this Privacy Policy from time to time in response to changing legal, regulatory or operational requirements.
+We will notify you of any such changes, including when they will take effect, by updating the “Last revised” date above or as otherwise required by applicable law.
+Your continued use of our website and service after any such updates take effect will constitute acceptance of those changes.
+If you do not accept updates to this Privacy Policy, you should stop using our website and service.
+8.
+==========
+Communications
+As part of your business relationship with Bannerflow we might send you the following communications:
+Monthly Newsletter
+Product updates
+Information about up and coming events and competitions
+Information about relevant products and services you may also be interested in
+As described above you can unsubscribe at any time.
+The California Consumer Privacy Act requires businesses to disclose whether they sell Personal Data.
+As a business covered by the CCPA, we do not sell Personal Data.
+==========
+We may share Personal Data with third parties or allow them to collect Personal Data from our sites or services if those third parties are authorized service providers or business partners who have agreed to our contractual limitations as to their retention, use, and disclosure of such Personal Data, or if you use Bannerflow sites or Services to interact with third parties or direct us to disclose your Personal Data to third parties.
+California law requires that we detail the categories of Personal Data that we share or disclose for certain “business purposes,” such as disclosures to service providers that assist us with securing our services or marketing our products.
+We disclose the following categories of Personal Data for our business purposes:
+If you are a California resident under the age of 18 and have registered for an account with us, you may ask us to remove content or information that you have posted to our website(s) or services.
+==========
+For information on how to exercise your rights, please refer to Section 4 of this Privacy Policy.
+If you are an authorized agent wishing to exercise rights on behalf of a California resident, please contact us at gdpr[at]bannerflow.com and provide us with a copy of the consumer’s written authorization designating you as their agent.
+We may need to verify your identity and place of residence before completing your rights request.
+==========

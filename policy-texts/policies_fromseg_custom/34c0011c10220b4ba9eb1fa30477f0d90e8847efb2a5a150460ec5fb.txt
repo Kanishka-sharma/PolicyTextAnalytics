@@ -1,0 +1,204 @@
+PRIVACY POLICY
+Effective Date: January 1, 2020
+This privacy policy ("Privacy Policy") explains how LOTaDATA, Inc. ("LOTaDATA," "we", "our" or "us") collects, uses and discloses information and applies to End Users, Customers and Visitors.
+"End Users" mean individuals who use applications from which LOTaDATA receives or collects data, such as applications that are owned and/or operated by Customers.
+"Customers" mean application developers, data management platforms, enterprise companies, and other third parties that provide data to LOTaDATA or otherwise use LOTaDATA's products and services.
+"Visitors" mean any individuals or group of individuals accessing the features and contents offered on lotadata.com (the "Website").
+==========
+This Privacy Policy does not apply to information collected and used by entities that LOTaDATA does not own or control, including LOTaDATA's Customers, and only applies to information collected or otherwise shared with LOTaDATA and used by LOTaDATA.
+SECTIONS
+Device Data Collected by LOTaDATA
+How LOTaDATA Uses Device Data
+Device Data Opt-in and Opt-out
+Information Collected from Customers
+Information Collected from Visitors
+How LOTaDATA Shares Information
+Data Retention and Security
+Rights of End Users, Customers, and Visitors
+Children's Privacy
+Dispute Resolution; Binding Arbitration and Class Action Waiver
+Changes and Updates to this Privacy Policy
+Contact Information
+
+Device Data Collected by LOTaDATA
+In general, LOTaDATA collects information about End Users' devices ("Device Data") from Customers that integrate LOTaDATA's products into their apps either through a software development kit ("SDK") or from Customers that otherwise share Device Data with LOTaDATA.
+Device Data collected by LOTaDATA may include the following:
+
+Location data of End Users' devices, such as latitude-longitude coordinates obtained through GPS tools, WiFi data, Bluetooth beacons, cell tower triangulation or other techniques;
+The associated device identifier of End Users' devices, such as the Identifier for Advertisers or IDFA for iOS devices and Advertiser ID for Android/Google devices;
+Other information about End Users' devices, such as: device type (e.g., tablet, smartphone), hardware model, operation system and version, mobile browser type (e.g., Chrome, Firefox, Safari), mobile network information, and mobile sensor information including speed, bearing, orientation, time zone, timestamp and altitude;
+Usage data about how End Users use LOTaDATA's products and services (through Customers' apps using LOTaDATA's GeoSDK), such as: access time, access location, activity and internet protocol address;
+Predicted or inferred data about End Users, such as census block group, characteristics or interests; and/or
+Any other information End Users voluntarily provide to LOTaDATA or to LOTaDATA's Customers.
+When collecting Device Data, LOTaDATA does not knowingly collect End Users' email address, name, phone number, national identifier, date of birth or home address.
+If LOTaDATA learns that End Users' email address, name, phone number, national identifier, date of birth or home address was collected or received, such information is scrubbed or deleted immediately upon receipt, before the Device Data is stored in LOTaDATA's database.
+==========
+Additionally, LOTaDATA may collect geo-temporal data that is not based on End Users' devices, such as point of interest data (e.g., local businesses, place and/or time of events, performances, historic landmarks, and restaurants), 311 customer service data, building and engineering permits data, and aggregated data from the US Census or surveys (e.g., age range, income range, gender, and education level).
+LOTaDATA may then use the geo-temporal data in association with the Device Data to segment the interests or characteristics of End Users into defined cohorts or groups.
+For example, an End User's interests and behaviors (e.g., apparel shopper, coffee drinker, business traveler) may be inferred based on the venues the End User is inferred to have visited over time.
+==========
+Because these inferred information and cohorts are associated with a specific device, it is treated as Device Data.
+How LOTaDATA Uses Device Data
+Device Data is generally used to operate, maintain and improve LOTaDATA's products and services for Customers.
+LOTaDATA's products and services help developers, and other companies and organizations in the public and private sectors to learn about End Users based on the Device Data.
+==========
+For example, LOTaDATA may enable Customers to:
+measure performances of Customers' physical location, product, content, service;
+perform competitive analysis for Customers' business category or industry vertical;
+identify the census block groups where End Users may be interested in Customers' products, content, or services;
+understand the impact of public sector projects for economic development, urban planning, internet-of-things, mobility and transportation;
+understand how people move through cities, districts and neighborhoods;
+understand how people move across cities and across countries, and;
+understand the impact of natural and human-made disasters;
+The above list is not exhaustive, but it is intended to provide illustrative examples of how LOTaDATA uses the Device Data.
+Device Data Opt-in and Opt-out
+Opt-in
+Before LOTaDATA collects Device Data from an End User's device, the End User must first opt-in to share the device's location data.
+An End User is opted in when the End User downloads an app that includes LOTaDATA's GeoSDK and gives LOTaDATA permission to collect Device Data.
+Apps on Apple devices, like iPhones, and Android/Google devices, like Samsung Galaxy, ask for permission to collect data in different ways.
+Older Android phones running older Android operating systems require an End User to accept any permissions that the app asks for before the End User can install the app.
+Thus, if the app has been downloaded, the End User is opted in.
+Newer Android phones allow End Users to opt-in after downloading the app.
+==========
+Apple apps also allow End Users to download the app without first opting in, however, Device Data is collected only after End Users opt-in.
+Opt-out
+End Users can choose to opt-out of sharing Device Data with LOTaDATA by disabling location sharing or ad tracking on their devices.
+End Users can also disable location sharing with specific apps by reviewing the settings for each app, or by choosing to not share location when prompted after first downloading the app, or by uninstalling the app.
+If an End User opts-out of location sharing or ad tracking, LOTaDATA does not collect Device Data from the End User's device.
+At this time LOTaDATA does not collect data from the web browser on mobile devices and does not honor web browser Do Not Track ("DNT") signals or similar mechanisms.
+==========
+Information Collected from Customers
+LOTaDATA collects information that Customers provide when Customers set up an account, use LOTaDATA's products or services and/or the Website or communicate with LOTaDATA.
+For example, LOTaDATA may request Customer's contact and billing information (e.g., name, postal address, email address and password and telephone number) and applicable business information when Customers register for an account or purchase LOTaDATA's products or services.
+Some of the features of the Website may be accessed by a Customer only after the Customer creates an account with LOTaDATA.
+Information Collected from Visitors
+Contact Information
+LOTaDATA may collect Visitors' contact information.
+Visitors are not required to create an account or provide any contact information in order to browse the Website and learn more about LOTaDATA's products and services.
+However, if a Visitor requests or downloads any documents, blogs, and other information or subscribes to LOTaDATA's newsletter, the Visitor may be required to provide certain contact information such as an email address, name and telephone number.
+LOTaDATA only uses Visitors' contact information to fulfill the request and does not share this contact information with any third party, other than service providers if necessary to fulfill the request, or as otherwise described in this Privacy Policy.
+For example, if a Visitor subscribes to LOTaDATA's newsletter, LOTaDATA may provide the Visitor's contact information to a service provider that manages and delivers the newsletters.
+Use Information
+When a Visitor is using the Website, LOTaDATA may log information related to the Visitor's usage of the Website, such as IP address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages by using standard third-party services like Google Analytics.
+LOTaDATA also may log the Visitor's type of mobile device and the mobile device's IP address, operating system, and the type of mobile browsers.
+==========
+This data is used to manage the Website, including diagnosing problems, tracking usage and improving the Website.
+Tracking Technologies
+LOTaDATA may use "cookies" to measure the effectiveness of the Website and email communication.
+Services of an independent company may be used to measure the effectiveness of how Visitors use the Website.
+==========
+To do this, LOTaDATA may use web beacons, pixels, and cookies provided by third-party marketing companies like Facebook, Hubspot and MailChimp.
+The type of information LOTaDATA may collect include pages visited, videos viewed, etc.
+This information helps LOTaDATA learn things like what pages are most attractive to Visitors.
+==========
+Because cookies are stored on Visitors' computer or device, Visitors can set their browser to decline cookies and can delete them from their computer or device.
+How LOTaDATA Shares Information
+LOTaDATA provides Customers with access to a proprietary web application (the "Platform") that provides the Customers with a visual mapping and tracking tool to analyze Device Data.
+In general, the Platform presents the Device Data in an aggregated and segmented form and does not provide a method for a Customer to identify, track or view End Users' individual devices.
+==========
+For example, the Platform may enable a Customer to view an aggregated list of End Users' devices that visited a particular shopping mall on a particular weekend, or the Platform may provide a local government, as one of LOTaDATA's Customers, with recreation and parks analytics based on a group of End Users' devices.
+LOTaDATA may provide a Customer with tools to track End Users' devices based on privacy-compliant mobile device identifiers (e.g., IDFA or ADID).
+However, these tools are provided only if the Customer already has the ability to track End Users' devices (without LOTaDATA's tools) and has an app that's using LOTaDATA's GeoSDK.
+Overall, the following list explains the ways in which LOTaDATA may disclose Device Data and information collected from Visitors and Customers.
+LOTaDATA may disclose Device Data to Customers for the purposes of learning more about End Users and engaging with End Users based on Device Data;
+LOTaDATA may disclose Visitors' contact information, use information and tracking technologies to service providers who work on behalf of LOTaDATA to maintain, operate and improve the Website or to fulfill Visitors' requests;
+LOTaDATA may disclose Customers' contact and billing information to service providers when necessary to provide LOTaDATA's products or services to the Customers;
+LOTaDATA may disclose any information as required by law, such as to comply with a subpoena or similar legal process;
+LOTaDATA may disclose any information when LOTaDATA believes in good faith that disclosure is necessary to protect LOTaDATA's legal and contractual rights or safety of others, investigate fraud, or respond to a lawful request by public authorities, including to meet national security or law enforcement requirements;
+LOTaDATA may disclose any information if LOTaDATA is involved in a merger, acquisition, or sale of all or a portion of assets;
+LOTaDATA may disclose Device Data associated with an End User if the End User grants LOTaDATA permission; or
+LOTaDATA may disclose information collected from a Visitor or Customer if the Visitor or Customer grants LOTaDATA permission.
+==========
+Data Retention and Security
+LOTaDATA stores the Device Data and information collected from Visitors indefinitely for the purposes of operating, maintaining, improving and providing LOTaDATA's products and services, for the purposes of maintaining, operating and improving the Website and for other business purposes that LOTaDATA considers reasonably necessary.
+LOTaDATA uses reasonable physical, managerial, and technical safeguards to preserve the integrity and security of the Device Data and information collected from Visitors and Customers.
+LOTaDATA minimizes collection of identifiable information, and utilizes industry-standard end-to-end encryption for the transmission of information.
+==========
+Rights of End Users, Customers, and Visitors
+Under certain conditions, an End User, Customer, or Visitor may request and obtain from LOTaDATA twice a year, free of charge, upon the receipt of confirmation of identity, categories of information collected about the End User, Customer, or Visitor; categories of sources from which End User, Customer, or Visitor information is collected; LOTaDATA's purposes for collecting End User, Customer, or Visitor information; categories of third parties with whom LOTaDATA shares information; and specific pieces of End User, Customer, or Visitor information that LOTaDATA has collected about the End User, Customer, or Visitor.
+LOTaDATA does not reidentify or link non-identifiable information.
+Under certain conditions, if the information the End User, Customer, or Visitor provided to LOTaDATA is incorrect, the End User, Customer, or Visitor may request LOTaDATA update it.
+End Users, Customers, or Visitors may obtain from LOTaDATA the rectification of inaccurate information by providing a supplementary statement to the LOTaDATA privacy team.
+Under certain conditions, End Users, Customers, or Visitors may request LOTaDATA delete End User, Customer, or Visitor information unless the information is required to complete a transaction; the information is used to detect and protect against security incidents; the information is used to identify and repair errors that impair LOTaDATA's products or services; the information is used for LOTaDATA's internal uses; or non-deletion is required by law.
+An End User, Customer, or Visitor shall have the right, at any time, to direct LOTaDATA to stop selling the End User's, Customer's, or Visitor's personal information to third parties.
+End Users, Customers, and Visitors can opt out of the sale of personal information by selecting "Do Not Sell My Personal Information" via the "Do not sell my personal information" web page.
+==========
+An End User, Customer, or Visitor may request to see, update and/or remove End User, Customer, or Visitor information by emailing privacy@lotadata.com or via the "Do not sell my personal information" web page.
+With respect to Visitors or Customers, LOTaDATA will first verify the identity of the Visitor or Customer, then provide and/or remove information collected from that Visitor or Customer.
+While, to remove Device Data associated with an End User's device, the End User will need to provide LOTaDATA with the IDFA (iPhone) or ADID (Android phones).
+LOTaDATA does not store email addresses, names, or phone numbers with End Users' Device Data, so LOTaDATA needs the privacy-compliant mobile device identifier to find End Users' device in the database.
+If an End User, Customer, or Visitor is a resident of the European Union, the End User, Customer, or Visitor has a right to lodge a complaint with a local supervisory authority when the End User, Customer, or Visitor has an objection to LOTaDATA's processing.
+However, LOTaDATA appreciates the opportunity to first address End User, Customer, or Visitor concerns by email at privacy@lotadata.com.
+LOTaDATA's Data Protection Officer ("DPO") is responsible for overseeing LOTaDATA's use of Device Data and monitoring compliance with data protection laws.
+For any concerns or questions related to LOTaDATA's use of the Device Data, the DPO can be contacted by email at dpo@lotadata.com.
+==========
+LOTaDATA will never discriminate against an End User, Customer, or Visitor for exercising any rights under this Privacy Policy.
+Children's Privacy
+LOTaDATA does not knowingly collect information from children under 13 years old or from websites or apps directed to children under 13 years old.
+LOTaDATA's products and services are not directed to persons under 13 years of age.
+If LOTaDATA learns that information of persons under 13 years of age has been collected or received, then LOTaDATA will take the appropriate steps to delete this information.
+==========
+Dispute Resolution; Binding Arbitration and Class Action Waiver
+This Section 10 (Dispute Resolution; Binding Arbitration and Class Action Waiver) only applies to End Users and Visitors (together, "Consumers").
+For similar applicable provisions, Customers should refer to LOTaDATA's Terms of Service available at http://lotadata.com/terms_of_service.
+CONSUMERS SHOULD READ THIS SECTION 10 CAREFULLY.
+THIS SECTION 10 MAY SIGNIFICANTLY AFFECT CONSUMERS' LEGAL RIGHTS, INCLUDING RIGHT TO FILE A LAWSUIT IN COURT.
+==========
+10.1 Governing Law.
+Any claims arising out of or relating to this Privacy Policy (including interpretation, claims for breach, and all other claims, including consumer protection, unfair competition and tort claims) will be subject to the laws of the State of California, United States, without reference to conflict of laws principles.
+10.2 Informal Dispute Resolution.
+Consumers should email LOTaDATA at privacy@lotadata.com to address any dispute, controversy or claim arising out of or relating to this Privacy Policy (including its interpretation, formation, performance and breach) or the relationship between Consumers and LOTaDATA (collectively, "Disputes").
+Most Disputes are quickly resolved in this manner to Consumers' satisfaction.
+==========
+The parties will use best efforts to settle any Dispute directly through consultation and good faith negotiations which will be a precondition to either party initiating a lawsuit or arbitration.
+10.3 Formal Dispute Resolution.
+If the parties do not agree upon a resolution in connection with a Dispute within a period of 30 calendar days from the time informal dispute resolution is initiated pursuant to Section 10.2 (Informal Dispute Resolution), Consumers and LOTaDATA expressly agree that the provisions in Section 10.3(a) (Agreement to Arbitrate), Section 10.3(b) (Location), Section 10.3(c) (Class Action Waiver), Section 10.3(d) (Exception – Small Claims Court Claims) and Section 10.3(e) (30 Day Right to Opt Out) apply to Consumers.
+(a) Agreement to Arbitrate.
+If the parties do not agree upon a resolution in connection with a Dispute within a period of 30 calendar days from the time informal dispute resolution is initiated pursuant to Section 10.2 (Informal Dispute Resolution), then either party may initiate binding arbitration as the sole means to formally resolve claims (the "Agreement to Arbitrate"), subject to the terms set forth below.
+Specifically, all Disputes shall be finally settled by binding arbitration administered by the American Arbitration Association (the "AAA").
+The arbitration proceedings shall be governed by AAA's Commercial Arbitration Rules (the "AAA Rules") and, where appropriate, AAA's Supplementary Procedures for Resolution of Consumer-Related Disputes (the "AAA Consumer Rules").
+==========
+This arbitration provision is made pursuant to a transaction involving interstate commerce, and the Federal Arbitration Act shall apply to the interpretation, applicability, enforceability and formation of this Privacy Policy notwithstanding any other choice of law provision contained in this Privacy Policy.
+The arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability or formation of this Privacy Policy, including without limitation any claim that all or any party of this Privacy Policy are void or voidable, or whether a claim is subject to arbitration.
+The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity.
+The arbitrator's award shall be binding on the parties and may be entered as a judgment in any court of competent jurisdiction.
+The arbitration may be conducted in person, through the submission of documents, by phone or online.
+The arbitrator shall make a decision in writing, and shall provide a statement of reasons if requested by either party.
+==========
+The arbitrator must follow applicable law, and any award may be challenged if the arbitrator fails to do so.
+The AAA Rules and the AAA Consumer Rules are both available at the AAA website www.adr.org.
+Consumers' arbitration fees and Consumers' share of arbitrator compensation shall be governed by the AAA Rules and, where appropriate, limited by the AAA Consumer Rules.
+The parties understand that, absent this mandatory provision, they would have the right to sue in court and have a jury trial.
+They further understand that, in some instances, the costs of arbitration could exceed the cost of litigation and the right to discovery may be more limited in arbitration than in court.
+==========
+(b) Location.
+Arbitration shall be initiated in San Francisco County, California, and Consumers and LOTaDATA agree to submit to the personal jurisdiction of any federal or state court in San Francisco County, California, in order to compel arbitration, to stay proceedings pending arbitration or to confirm, modify, vacate or enter judgment on the award entered by the arbitrator.
+(c) Class Action Waiver.
+The parties further agree that any arbitration shall be conducted in their individual capacities only and not as a class action or other representative action, and the parties expressly waive their right to file a class action or seek relief on a class basis.
+CONSUMERS AND LOTADATA AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER ONLY IN CONSUMERS' OR LOTADATA'S INDIVIDUAL CAPACITY, AND NOT AS A PLANITFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING.
+If any court or arbitrator determines that the class action waiver set forth in this subsection is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate Disputes.
+==========
+(d) Exception – Small Claims Court Claims.
+Notwithstanding the parties' decision to resolve all Disputes through arbitration, either party may seek relief in a small claims court for disputes or claims within the scope of that court's jurisdiction.
+For the avoidance of doubt, nothing herein shall prevent a resident of the European Union from lodging a complaint with a local supervisory authority.
+==========
+(e) 30 Day Right to Opt Out.
+Consumers have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth in Subsection 10.3(a) (Agreement to Arbitrate), Subsection 10.3(b) (Location) and Subsection 10.3(c) (Class Action Waiver) above by sending notice of the decision to opt-out to the following email address: privacy@lotadata.com, Attn: Legal.
+The notice must be sent within 30 days of Consumers' first access or use of LOTaDATA's products and services or the Website; otherwise Consumers will be bound to arbitrate Disputes in accordance with the terms of those Subsections.
+If Consumers opt-out of these arbitration provisions, LOTaDATA also will not be bound by such provisions.
+(f) Disputes Not Subject to Arbitration or Class Action Waiver.
+For Disputes not subject to the "Agreement to Arbitrate" set forth in Section 10.3(a) (Agreement to Arbitrate), or if any court or arbitrator determines that the "Class Action Waiver" set forth in Section 10.3(c) (Class Action Waiver) is void or unenforceable for any reason or that an arbitration can proceed on a class basis, exclusive jurisdiction for any claim or action arising out of or relating to LOTaDATA's products and services, the Website or this Privacy Policy shall be in the federal or state courts in San Francisco County, California, and Consumers expressly consent to the exercise of personal jurisdiction of such courts.
+==========
+(g) Changes to Section 10.
+When changes are made to this Section 10, the "Effective Date" of this policy will reflect the date of the change.
+Additionally, LOTaDATA will provide 60-days' notice of any changes to this Section 10 to Visitors (if contact information was provided to LOTaDATA) and End Users (by requesting the appropriate Customers to notify the End Users) and any such change will apply only to any claims arising after the 60th day following such notice.
+Changes and Updates to this Privacy Policy
+This Section 11 (Changes and Updates to this Privacy Policy) applies to the entire Privacy Policy except for Section 10 (Dispute Resolution; Binding Arbitration and Class Action Waiver).
+For changes to Section 10, please refer to Section 10.3(g) (Changes to Section 10).
+==========
+LOTaDATA may amend this Privacy Policy from time to time.
+When the Privacy Policy is amended, the "Effective Date" of this policy will reflect the date of the amendment.
+Additionally, if the amendment materially changes the usage of Device Data or information collected from Visitors or Customers, LOTaDATA will notify the affected Customers and Visitors (if contact information was provided to LOTaDATA) and/or request the appropriate Customers to notify the affected End Users.
+Contact Information
+For more information, or to ask questions about this Privacy Policy or LOTaDATA's practices, please contact us at privacy@lotadata.com.
+==========

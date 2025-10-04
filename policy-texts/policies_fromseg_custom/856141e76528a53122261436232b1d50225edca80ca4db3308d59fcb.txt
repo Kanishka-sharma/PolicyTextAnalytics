@@ -1,0 +1,85 @@
+This statement applies to https://about.ikea.com
+Cookie  Purpose  Type  Placed by Expires 
+ sxa_site Used to identify the visitor's session state across page requests on the server.
+Technical
+ikea.com
+After session ends
+ARRAffinity Used to distribute traffic to the website on several servers in order to optimize response times.
+Technical
+ikea.com After session ends
+CookieConsent Stores the user's cookie consent state for the current domain
+Technical
+ ikea.com After 1 year
+ASP.NET_SessionId Used to identify the users session on the server Technical
+ikea.com After 1 year
+SC_ANALYTICS_GLOBAL_COOKIE Used to identify repeat visits from a single user.
+This cookie can be opted out; we do not store any personally identifyable information (like IP-address) on our servers.
+Analytical 
+ikea.com  After 6 months
+<sitename>#lang Stores the users language preference.
+==========
+This is a future functionality.
+Today only English is available, and the cookie is not performing any function.
+Preference
+ ikea.com After session ends
+  com.adobe.reactor.dataElement
+This cookie helps with migration between Adobe DTM and Launch.
+Cached data element values were stored in cookies in DTM, whereas they are stored in web storage in Launch.This cookie can be opted out; we do not store any personally identifiable information (like IP-address) on our servers.
+Analytical 
+ ikea.com
+Persistent 
+ s_fid
+This cookie is used to identify a unique visitor.
+This cookie can be opted out; we do not store any personally identifiable information (like IP-address) on our servers.
+Analytical
+ ikea.com
+After 2 years
+s_cc
+This cookie is set and read by the JavaScript code to determine if cookies are enabled (simply set to "True")This cookie can be opted out; we do not store any personally identifiable information (like IP-address) on our servers.
+Analytical
+ikea.com
+ After session ends
+ S_vi
+This cookie is used to identify a unique visitor.This cookie can be opted out; we do not store any personally identifiable information (like IP-address) on our servers.
+Analytical
+ ikea.com
+After 2 years
+  Updated 22 December 2020
+In order to offer you the service via our website we use cookies.
+==========
+Below, we explain what cookies are, what they do and what type of cookies we use.
+What are cookies?
+Cookies are small files that are sent to your browser and are stored on your device.
+They can be used to store certain types of information.
+==========
+What cookies are used on these websites?
+On our website we use technical, analytical and preference cookies.
+These are necessary for our site to work properly and to give us information about how our site is used.
+They make navigating on the website easier and optimise your use of the website.
+To the extent we process personal data, we process it on the basis of our legitimate interest.
+==========
+Websites that are linked to our website
+On our website we offer links to other IKEA websites.
+Please note that this cookie statement is only valid for https://about.ikea.com.
+Other IKEA websites have their own cookie statement.
+==========
+Please read it before proceeding.
+Your privacy rights
+You have many rights regarding your personal data.
+You may ask us for access to your data.
+You may also ask rectification and erasure of your data (including the right to be forgotten) and restriction of the processing activities.
+Furthermore you can ask for data portability.
+Finally, you have the right to object to the processing of your information and to lodge a complaint with a supervisory authority.
+Please note that, to the extent that we process your personal data, data is only stored for five minutes after you leave our website.
+Therefore, some of the rights may not be applicable to your situation.
+==========
+Questions?
+If you have questions about our privacy statement or practices, please feel free to get in touch.
+You can contact us at:
+Inter IKEA Systems B.V.
+Olof Palmestraat 1
+2616 LN Delft
+The Netherlands
+Email us at:
+data.privacy@inter.ikea.com
+==========

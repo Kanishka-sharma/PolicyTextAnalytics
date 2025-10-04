@@ -1,0 +1,187 @@
+ST Cookies policy
+This Cookies Policy describes how STMicroelectronics International N.V and its subsidiaries (“ST”) and its partners use cookies and similar technologies such as pixel tags, web beacons, clear GIFs, JavaScript, and local storage (“Cookies”) in connection with the websites (including the extranet myST and mobile websites and apps) owned and controlled by ST (the “ST Sites”).
+By using an ST Site, you agree to the terms of this Cookies Policy and consent to the use of Cookies by ST in accordance with the terms of this Cookies Policy.
+Cookies may be used to collect information that is personally identifiable, or that can become personally identifiable if ST combines it with other information.
+In such cases, the ST Website Privacy Policy will apply in addition to this Cookies Policy.
+==========
+About Cookies
+Cookies are small files – usually made of letters and numbers – downloaded on to a device (computer, tablet, phone, or similar device) when you visit a website.
+Cookies allow a website to recognize a user’s device and are used by website owners to operate their websites more efficiently.
+Cookies are used to understand how the site or service is being used, to help you navigate between pages efficiently, to help remember your preferences, and generally to improve your browsing experience.
+Cookies may also be used to ensure marketing information you see online is more relevant to you and your interests and to deliver advertisements and communications relevant to your interests, provided you have subscribed to these advertisements and communications.
+==========
+ST and its service providers use different types of Cookies on ST Sites:
+(i)     Strictly necessary Cookies.
+These Cookies are essential for the operation of ST Sites (for example, to enable you to log into secure areas of our website or use a shopping cart).
+These Cookies enable you to access the ST Sites and use their features.
+Disabling these Cookies will encumber the ST Sites’ performance and may make the features and service unavailable.
+(ii)     Analytics Cookies.
+These Cookies collect information about how you use the ST Sites for the purposes of improving and optimizing the way ST Sites work and to ensure that visitors can easily find the information they are looking for on ST Sites.
+For example, Analytics Cookies measure performance indicators such as which pages visitors go to most often and whether they get error messages from web pages.
+==========
+(iii)     Functionality Cookies.
+These Cookies are used to recognize you when you return to ST Sites.
+This enables ST to personalize content for you, and remember your preferences (for example, your choice of language or region).
+(iv)      Advertising and Targeting Cookies.
+These Cookies record your online activities and retain user preferences, allowing those preferences to be used in future browsing sessions, in order to make the content displayed on ST Sites more relevant to you and your interests.
+ST and its third-party partners may also use these types of Cookies to deliver advertisements and communications relevant to your interests and to measure the effectiveness of advertising campaigns.
+These Cookies can remember that your device has visited a site or service, and may also be able to track your device’s browsing activity on other sites or services other than ST Sites.
+This information may be shared with organizations outside ST, such as advertisers and/or advertising networks to deliver the advertising, and to help measure the effectiveness of an advertising campaign.
+==========
+Session and Persistent Cookies
+Cookies may be either “persistent” or “session”.
+A persistent Cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date.
+ST may use persistent Cookies for storing your preferences so that they are available for the next visit, keep tracking how often you visit ST Sites, how your use the ST Sites, and the effectiveness of advertising efforts; while a session cookie will expire at the end of the user session, when the web browser is closed.
+First and third-parties Cookies
+Whether a Cookie is ‘first’ or ‘third’ party refers to the website placing the Cookie.
+First party Cookies are cookies set by the ST Site visited by the user.
+Third party cookies are Cookies that are set by a website or a domain other than the ST Site.
+If a user visits a website and a separate company sets a Cookie through that website this would be a third party Cookie.
+Purpose of use
+ST and its service providers use Cookies for various purposes, including to:
+help ST and third parties obtain information about your visits to ST Sites;
+process your orders;
+analyze your visiting patterns to improve ST Sites;
+understand how you interact with e-mails, advertisements, or other content;
+enhance your experience and understand traffic patterns;
+deliver advertising, communications, and content from us and third parties, specific to your interests;
+perform analytics and help ST to optimize ST Sites, and to help serve you advertising based on your interests;
+aggregate statistics about how ST Sites are used;
+remember your language and other preferences;
+help you obtain information you are looking for;
+provide a safe and secure service for online transactions; and
+measure how many people use ST Sites, and how they use them, keep ST Sites running efficiently and better understand ST Sites’ audiences.
+==========
+Specific cookies used by ST and third parties
+You can find out more about the specific cookies used by ST and third parties in the table below:
+Cookie
+ST or third-party Cookie
+Purpose of Use
+Session or Persistent
+Downloadable Software: email
+ST
+Functionality
+Persistent, but will delete automatically after twelve (12) months if you no longer visit the ST Sites
+Downloadable Software: light_approvals
+ST
+Functionality
+Persistent, but will delete automatically after twelve (12) months if you no longer visit the ST Sites
+Downloadable Software: init_lmu_[user-id]
+ST
+Functionality
+Persistent, but will delete automatically after twelve (12) months if you no longer visit the ST Sites
+Login: login-token
+ST
+Strictly necessary
+Session
+Login: TAG_USER
+ST
+Strictly necessary
+Session
+Login: TAG_USER_COMP
+ST
+Strictly necessary
+Session
+Login: uniqueID
+ST
+Functionality
+Persistent, but will delete automatically after twelve (12) months if you no longer visit the ST Sites
+Light Registration Form: STuniqueID
+ST
+Functionality
+Persistent, but will delete automatically after twelve (12) months if you no longer visit the ST Sites
+Search: searchHistory
+ST
+Functionality
+Session
+Adobe Marketing Cloud: demdex
+third-party
+Analytical and performance
+Advertising and targeting
+Persistent, but will delete automatically after twelve (12) months if you no longer visit the ST Sites
+Adobe Marketing Cloud: AMCV_
+ST
+Analytical and performance
+Advertising and targeting
+Persistent, but will delete automatically after twelve (12) months if you no longer visit the ST Sites
+Adobe Analytics: c_m
+ST
+Analytical and performance
+Session
+Adobe Analytics: gpv_pn
+ST
+Analytical and performance
+Persistent, but will delete automatically after twelve (12) months if you no longer visit the ST Sites.
+Adobe Target: mbox
+ST
+Analytical and performance
+Advertising and targeting
+Persistent, but will delete automatically after twelve (12) months if you no longer visit the ST Sites.
+Adobe Analytics: s_cc
+ST
+Analytical and performance
+Session
+Adobe Analytics: s_dl
+ST
+Analytical and performance
+Persistent but will delete automatically after twelve (12) months if you no longer visit the ST Sites
+Adobe Analytics: s_nr
+ST
+Analytical and performance
+Persistent but will delete automatically after twelve (12) months if you no longer visit the ST Sites
+Adobe Analytics: st_chan
+ST
+Analytical and performance
+Persistent, but will delete automatically after twelve (12) months if you no longer visit the ST Sites
+Adobe Analytics: AdbKie
+ST
+Analytical and performance
+Session
+Adobe Analytics: s_fid
+ST
+Analytical and performance
+Advertising and targeting
+Persistent, but will delete automatically after twelve (12) months if you no longer visit the ST Sites
+Adobe Analytics: AdbUie
+ST
+Analytical and performance
+Session
+Alexa: _sm_au_c
+third-party
+Analytical and performance
+Session
+Blocking, deleting and opting out Cookies
+If you do not want ST to recognize your device, you can also delete Cookies from your browser, block all Cookies, or configure your browser to warn you before a Cookie is stored by adjusting your browser settings.
+==========
+If you do not accept the strictly necessary and functionality Cookies, the use of some services or parts of ST Sites will not be available to you.
+Generally, Cookies allow ST to determine who you are and thus provide you with better and more personalized services.
+The following websites provide information on how to adjust the Cookies settings on some popular browsers:
+a)       Apple Safari
+b)       Google Chrome
+c)       Microsoft Internet Explorer
+d)       Mozilla Firefox
+In order to opt out of Adobe and Google  Analytics Cookies across ST web sites, visit:
+Adobe Analytics:  http://www.adobe.com/privacy/opt-out.html#customeruse 
+Google Analytics:  https://www.google.com/policies/technologies/ads/
+To find out more about interest-based advertising and your choices, visit these sites: Digital Advertising Alliance, the Network Advertising Initiative, and the Interactive Advertising Bureau (IAB) Europe.
+You can opt out of the use of Cookies to tailor content or advertising to you by visiting the following links.
+==========
+Note that if you choose to opt out, you won’t necessarily see fewer ads.
+However, the ads you see may be less relevant to your interests.
+http://www.networkadvertising.org/managing/opt_out.asp
+http://www.aboutads.info/choices
+Should you wish to find out more about cookies, including how to see which ones have been set, how to manage them and/or how to delete them, visit www.allaboutcookies.org or www.aboutcookies.org.
+==========
+Links to other websites
+ST Sites may contain links to websites of other providers to which this Cookies Policy does not apply.
+Please see the respective privacy policies of those providers.
+ST assumes no responsibility for the content of these websites.
+Privacy at ST
+For more information about ST’s approach to privacy see ST Website Privacy Policy, ST Terms of Use and the ST Code of Conduct.
+You can contact ST regarding this Cookies Policy at support.policies@st.com .
+Please provide ST with your contact details, the name of the ST Site or service in question, and a detailed description of your request.
+==========
+This Cookies Policy may be modified at any time.
+Any change to this Cookies Policy will become effective when ST makes the revised Cookies Policy available on the ST Sites.
+Cookies Policy: Last updated on October 3rd 2017
+==========

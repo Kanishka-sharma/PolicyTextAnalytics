@@ -1,0 +1,171 @@
+Website Privacy Notice
+This Privacy Notice describes how Ozone processes your data when you use the ozoneproject.com website.
+For information about how Ozone processes your data within the Ozone Platform, when you visit a Publisher or Advertiser website, please view our Platform Privacy Notice.
+The Ozone Project Limited (Ozone or we) value your privacy and care about the way in which your personal information is treated.
+We want you to understand:
+what personal information we collect about you;
+how we obtain your personal information;
+how we use your personal information;
+on what basis we use your personal information;
+how long we keep your personal information;
+with whom we share your personal information;
+managing your cookie preferences on this site;
+the countries to which we transfer your personal information;
+how we protect your personal information; and
+your rights regarding your personal information.
+Who we are, and how to contact us
+The Ozone Project provides a digital marketplace, which enables (a) advertisers to buy advertising space on websites owned or controlled by publishers; and (b) advertisers to provide targeted advertising, at scale.
+We work with publishers such as: News UK & Ireland Limited, Guardian News & Media Limited, Telegraph Media Group Limited, and Reach Plc (together, the Publishers).
+Ozone is a member of IAB UK and complies with the IAB Europe Transparency & Consent Framework Policies.
+==========
+Ozone, located at 1 London Bridge Street, London, United Kingdom, SE1 9GF, is a data controller of the personal information about you that we process.
+This means that we decide how and why we use your personal information.
+If you have any questions, feel free to get in touch at the email address privacy@ozoneproject.com.
+What personal information do we collect about you?
+==========
+Personal information that we process about you includes:
+Technical information, such as:
+information about the device you use to interact with the Publishers we work with – including
+the unique device identifier;
+hardware model;
+operating system and version;
+mobile network information; and
+the type of browser and operating system you use
+information from your visits to websites of the Publishers – including
+access times;
+pages viewed;
+URLs clicked on;
+your IP address; and
+the page(s) you visited before navigating to Publisher websites,
+Geo-location information – including from
+your IP address; and
+Internet service providers,
+Information about how you behave on websites, such as
+the way in which you may scroll or navigate through the website;
+how much time you spend on the website; and
+the areas of the website that you focus on.
+How do we obtain your personal information?
+When you browse websites owned or controlled by the Publishers, we collect your personal information directly from your browser or device, e.g. through cookies and other similar technologies.
+We may also obtain information about you from Publishers themselves, or from advertisers who place adverts on Publisher websites.
+In addition, we receive information about you from third party sources, such as data aggregators, match partners, and providers of data management platform services, who help us (and Publishers) to learn about your likes and dislikes so that you can be provided with adverts that are tailored to you.
+==========
+You can see the types of third parties we use for this, in the section How do we use your personal information.
+How do we use your personal information?
+We use your personal information for the following purposes:
+Enable advertisers to make online adverts relevant to you, and enable Publishers to sell advertising space on their sites.
+==========
+We do this by:
+Matching and combining data, and gaining audience insights – This involves giving you a unique ID on our database, and comparing our database of unique IDs with those of our trusted partners (such as the Publishers, advertisers and third party suppliers that we work with).
+We use match partners such as LiveRamp to enable us to carry out this activity.
+If your information is matched with to information on the database of any of our trusted partners, we may combine this with the information that we have about you.
+This helps to create a more rounded view of your lifestyle, demographic, likes and dislikes.
+Associating your unique ID with one or more segments of the market – To do this, we would make assumptions about your interests based on the way you interact with websites and the information we obtain about you, and adding you to groups that have indicated similar interests and preferences.
+Providers of data management platform services (e.g. Lotame) help us to carry out these activities.
+==========
+Operate our business.
+This includes for internal purposes such as auditing, data analysis and research to help us deliver and improve our technologies, processes and services.
+It also includes processing to detect fraud and illegitimate activity.
+Comply with applicable laws and regulations.
+For example, in relation to fraud detection.
+==========
+On what basis do we use your personal information?
+We use your personal information on the following legal basis:
+Because you have given your consent.
+At times we may ask for your consent to allow us to use your personal information for one or more purposes set out above.
+We may request your consent either directly (e.g. when you interact with us via our website), or via one or more of our trusted partners.
+See the Your rights section for information about the rights that you have if we process your information on the basis of your consent.
+For legitimate business purposes.
+Using your personal information is necessary for us to operate and improve our business, as it promotes an understanding of when and how individuals engage with us and/or our trusted partners, and enables the provision of relevant content and advertising for your benefit.
+==========
+To comply with legal and regulatory obligations.
+In some cases, we may have a legal obligation to use or keep your personal information.
+How long will we keep your personal information?
+We will always keep your personal information:
+for the period required by law;
+where we need to do so in connection with legal action or an investigation involving Ozone; and
+where you have contacted us with a question or request, for as long as necessary to allow us to respond your question or request.
+Otherwise, we keep your personal information for no longer than 13 months.
+==========
+If we no longer need your personal information, we will delete it or make it anonymous by removing all details that identify you.
+With whom do we share your personal information?
+We share certain of your personal information with:
+the following trusted third parties:
+Publishers;
+advertisers; and
+third party suppliers, such as LiveRamp and Lotame,
+our professional advisors and auditors; and
+regulators, governments and law enforcement authorities.
+See the Protecting your personal information section for information on how we keep your personal information secure when sharing it with others.
+==========
+Managing your cookie preferences on this site
+This website uses technology called "cookies" which allow this website to recognise and respond to you as an individual.
+We may also use cookies on third party websites (e.g. websites owned or controlled by Publishers).
+A cookie is a unique numeric code that is transferred to your computer’s browser to track your interests and preferences and to recognize you as a return visitor.
+Information may be collected automatically by cookies and other technologies.
+To learn how to prevent information from being collected automatically, please see the “Manage your cookie preferences” section below.
+We use cookies for different purposes:
+COOKIE NAME DOMAIN PURPOSE FOR USING THIS COOKIE DURATION
+crumb ozoneproject.com Prevents cross-site request forgery (CSRF).
+CSRF is an attack vector that tricks a browser into taking unwanted action in an application when someone’s logged in.
+==========
+session
+ss_cid ozoneproject.com Identifies unique visitors and tracks a visitor’s sessions on the site 2 years
+ss_cpvisit ozoneproject.com Identifies unique visitors and tracks a visitor’s sessions on the site 2 years
+ss_cvisit ozoneproject.com Identifies unique visitors and tracks a visitor’s sessions on the site 30 minutes
+ss_cvr ozoneproject.com Identifies unique visitors and tracks a visitor’s sessions on the site 2 years
+ss_cvt ozoneproject.com Identifies unique visitors and tracks a visitor’s sessions on the site 30 minutes
+Strictly Necessary Operations
+These cookies are strictly necessary to allow us to operate the Ozone website.
+If you do prevent them through your browser settings, we cannot guarantee how our website will perform for you.
+Functional
+We use cookies and other technologies to honour choices you have made on how you would like the website to function when you access it.
+For example, we use functional cookies to remember personal information when you visit our website to make your experience more convenient and personal.
+These cookies are not strictly necessary, but can enhance your experience.
+Performance/Analytics
+We use cookies to: 
+analyse the performance of a website; and
+maintain, operate, and continually improve a website.
+The information collected by these cookies is anonymous and cannot be used to identify you.
+==========
+Manage your cookie preferences
+You can choose to accept or decline cookies, e.g. by visiting www.youronlinechoices.com or clicking on the AdChoices logo that you will see in the corner of advertisements that carry behavioural targeting cookies.
+You can also manage your browser cookie preferences (depending on the browser you are using) at:
+Chrome
+Firefox
+Windows
+Safari
+If you do choose to decline cookies, please note that not all elements of this website may function as intended, so your website experience may be affected.
+Opt-out of Ozone Platform Cookies
+You also have the right to withdraw your consent for Ozone Platform cookies and data processing at any time but it’s important to note that this does not affect the lawfulness of the processing before the date that you withdrew your consent.
+I would like to opt-out of receiving Ozone Platform cookies.
+==========
+Transfers of your personal information outside of your home country
+Your personal information may be processed by Ozone, its affiliated companies and Ozone’s trusted third party suppliers anywhere in the world, including in countries where data privacy laws may not be equivalent to, or as protective as, the laws in your home country.
+These countries include: United States, United Kingdom and The Netherlands.
+We will implement appropriate measures to ensure that your personal information remains protected and secure when it is transferred outside of your home country, in accordance with applicable data protection and privacy laws.
+These measures include data transfer agreements implementing standard data protection clauses.
+==========
+You can find more information about data transfer agreements here.
+Protecting your personal information
+We use a variety of security measures and technologies to help protect your personal information from unauthorised access, use, disclosure, alteration or destruction consistent with applicable data protection and privacy laws.
+Although we will do our best to protect your personal information once with us, we cannot guarantee the security of any personal information sent to our site while still in transit and so you provide it at your own risk.
+Your Rights
+You have the right to opt-out from processing of your personal information for direct marketing purposes.
+==========
+You may also be entitled to:
+ask about the processing of your personal information, including to be provided with a copy of your personal information;
+request the correction and/or deletion of your personal information;
+request the restriction of the processing of your personal information, or object to that processing;
+withdraw your consent to the processing of your personal information (where your personal information is being processed based on your consent) by emailing privacy@ozoneproject.com;
+withdraw your consent to the use of cookies by following the instructions in Manage your cookie preferences section of this privacy policy;
+request receipt or transmission to another organisation, in a machine-readable form, of the personal information that you have provided to Ozone; and
+complain to your local supervisory authority if your privacy rights are violated, or if you have suffered as a result of unlawful processing of your personal information.
+Where you are given the option to share your personal information with us, you can always choose not to do so.
+If you object to the processing of your personal information, or if you have provided your consent to processing and you later choose to withdraw it, we will respect that choice in accordance with our legal obligations.
+This could mean that we are unable to perform the actions necessary to achieve the purposes of processing described (see How do we use your personal information?)
+or that you are unable to make use of the services and products offered by us.
+After you have chosen to withdraw your consent Ozone may be able to continue to process your personal information to the extent required or otherwise permitted by law.
+If you would like to exercise your rights, please let us know by getting in touch at privacy@ozoneproject.com (if you would like to exercise any other rights that you may have).
+Contact Us
+If you have questions or requests about the processing of your personal information (including any exercise of your rights), or need additional information, you can contact us at privacy@ozoneproject.com.
+==========

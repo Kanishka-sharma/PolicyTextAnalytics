@@ -1,0 +1,41 @@
+With the introduction of the General Data Protection Regulation (GDRP), the registration data for all applicable Hover domains will be redacted from public lookups and replaced with our general contact information.
+While this is great for those who would like to keep their information private, some domain owners may want to publish their registration details.
+==========
+What does WHOIS Privacy do?
+Domain registration requires up-to-date contact information for the individual registering the domain.
+==========
+This contact information is stored in a publicly accessible WHOIS database, enabling WHOIS Privacy will redact the registration details from the WHOIS database.
+When someone does a WHOIS lookup for a domain with WHOIS Privacy enabled, the results will look something like this:
+
+
+
+Contact Privacy Inc.
+Customer 0123456789Contact Privacy Inc.
+==========
+Customer 012345678996 Mowat AveToronto, ON M6k 3M1CA+1.4165385457yourhoverdomain.com@contactprivacy.com
+Contacting the redacted email address will respond with an automated email that links to an online form to submit a request.
+This request will be sent to the registrant's email address.
+This way, spammers are filtered out, and only a real person can contact the domain registrant.
+==========
+You can visit the Tucows lookup tool to view results for your domain.
+Note: WHOIS Privacy is available for most TLDs, but there are some exceptions.
+Please check with your domains Registry for their rules.
+==========
+What does disabling WHOIS Privacy do?
+Disabling WHOIS Privacy will not reveal the registrant's data to the general public.
+==========
+However, it will make these details available to authorized parties through Tiered Access.
+Parties with a legitimate interest will need to undergo a rigorous authentication process with Tucows to view details in the Tiered Access directory.
+This type of access is generally for law enforcement authorities, commercial litigators, and security community members.
+==========
+Publicizing the registration details for a Hover domain is possible through the WHOIS Visibility service, which will need to be requested directly through our support team.
+Managing WHOIS Privacy settings
+
+Hover automatically includes WHOIS Privacy with every applicable domain; in most cases, WHOIS Privacy is enabled by default.
+You can manage the WHOIS Privacy settings from within your Hover account.
+Sign in to your Hover Control Panel.Note: If you have multiple domains, you will need to select the domain name from the list of your domains on the control panel.
+==========
+Inside the details box, click on the switch beside WHOIS Privacy to enable or disable privacy settings.
+Press Turn off WHOIS Privacy inside the confirmation prompt.
+Back to top
+==========

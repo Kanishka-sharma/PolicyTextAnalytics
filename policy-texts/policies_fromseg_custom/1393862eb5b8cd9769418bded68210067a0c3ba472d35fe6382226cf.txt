@@ -1,0 +1,264 @@
+Last updated: 01 April 2019
+ 
+Optomaton Privacy Notice
+Optomaton is a company registered in Germany under company number HRB 16736 and has its registered office at Optomaton UG (haftungsbeschränkt) Amselstraße 70, 41363 Jüchen,
+Germany
+Data Protection Officer details: Privacy@ve.com Tel: +44(0) 020 3137 5730
+What does Optomaton do?
+Optomaton UG (“Optomaton”) is a provider of data driven marketing software, and it is the proprietary owner of a DSP (Demand Side Platform) which (on behalf of retailers) purchases advertising space on publishers' websites (a publisher website could be, for example, a newspaper website) ("Publisher").
+For example, if you visit a newspaper website, and you see an advertisement for a retailer, Optomaton's technologies may be used to display that advert on behalf of the retailer (the "Advertiser").
+This is an online version of a practice that might be compared to placing an advertisement in a paper, magazine or newspaper.
+==========
+Optomaton is part of the group of companies owned by Ve Global Limited, as defined in section 1159 of the UK Companies Act 2006, constitute the "Optomaton Group".
+Click here to see the group of companies: https://www.ve.com/ve-subsidiary-list 
+Working on behalf of Advertisers, Optomaton place bids in real time for advertising space that is available on Publisher websites.
+During this process, Optomaton negotiates with Publishers through intermediaries.
+The intermediaries that Optomaton uses are known as Real Time Bidding Platforms, and SSP's (Supply Side Platforms).
+==========
+These intermediaries help Optomaton to find available advertising space.
+Optomaton's DSP works on behalf of an Advertiser to find advertising space, whereas an SSP works on behalf of a Publisher to sell advertising space.
+Optomaton uses your analysed personal data to display adverts that it considers would be of interest to you.
+This analysis is based on your browsing history.
+For example, an advert displaying a particular brand of shoes (if we know from our analytical information that you may be looking for a new pair of shoes).
+Describing the process of targeted personalised advertising.
+1.
+When you visit a Publisher website, such as an online newspaper, that Publisher will allocate a space on the website in which an advert can be displayed, and will then offer that advertising space for sale.
+2.
+==========
+The Publisher contracts with an SSP (supply side platform) asking it to sell the advertising space for the best price.
+Some personal data is passed on from the Publisher to the SSP, such as cookie ID's, which can help with identifying you.
+3.
+==========
+The SSP, then offers the advertising space for sale, via a real time bidding platform, to many organisations known as a DSP's, (demand side platforms), passing on personal data, including a unique identifier and an IP address, which allows you to be identified as a user.
+However, not all unique identifiers are used in advertising, and they may be regarded as contextual, where the advert corresponds with the content of the website, rather than the profile of the user.
+4.
+If the DSP wishes, the DSP will then bid on the advertising space on behalf of its Advertiser clients (for example, clothing retailers) who wish to advertise their products.
+5.
+==========
+The advertising space then gets sold to the highest bidding DSP.
+The DSP can, but not always uses analysed personal data (profiles) of users to help with the targeting of the adverts they believe you may be interested in.
+Sometimes a DSP will display the same advert to everyone, and does not therefore use profiles of users.
+6.
+The DSP that wins the bid for the advertising space (e.g. Optomaton) asks the SSP to place the advert on the Publishers website, passing back some personal data, including a unique identifier.
+7.
+==========
+If you click on the advert on the Publisher site, some of your personal data (including your IP address) is transferred to the referring website, that is the Advertiser whose merchandise was being displayed.
+Optomaton (DSP) will also keep track of the fact that you have clicked on the advert and been diverted to the Advertiser website, tracking any purchases that you may have made, in order to get paid for displaying the advert.
+8.
+During this process, Cookie ID's (or any other unique online ID) are matched together (via a process called cookie syncing) by the parties so that relevant targeted adverts can be displayed to you, and also so that the commissions earned by the individual parties for selling and buying the advertising space (as well as any commission earned on sales generated) is apportioned correctly.
+==========
+This Privacy Notice ("Privacy Notice") explains how we use and protect personal information that we receive or collect, as set out further in this Privacy Notice.
+Where we collect your data from
+Optomaton collects personal data in the following ways: a) by data being shared with Optomaton to allow it to provide its services, and b) by collecting data by cookies or similar technologies.
+Optomaton receives data from data sharing parties (indirectly from you):
+1.
+The parent company Ve Global UK Limited shares profiles of users with Optomaton.
+2.
+==========
+SSP's (supplier side platforms), from which Optomaton receives limited cookie information, that will allow Optomaton to identify you, and to understand if it should place a bid for an advertisement on a publisher website that you are visiting.
+The data shared from an SSP to Optomaton is usually limited to:
+·      
+Publisher site (to which advert will be placed)
+·      
+Unique ID, such as Cookie Sync ID, Advertising ID
+·      
+Bid Price
+·      
+Date and time of bid
+·      
+Location / Geo data (including longitude and latitude)
+·      
+IP Address
+3.
+Selected third parties who have permission to share data with us.
+Via cookies and similar technologies (directly from you):
+Optomaton collects information, which can be regarded as observed, that is data collected by Cookies or similar technologies, which we capture as part of you visiting a website, or by syncing our cookies with other third-party cookies.
+Sometimes this data captured does not relate directly to you, but to other people, who may be using your device, for example: where multiple members of a family are using the same laptop.
+==========
+These cookies include the name of volvelle.tech.
+You can see more details about the cookies that Optomaton uses here: https://www.optomaton.com/cookies-policy
+When you contact us by email, letter, phone, or any form of communication
+If you contact us by any method, we will process your data in line with the GDPR principles, including retaining your data only for the period necessary for the reasons you have contacted us.
+For example, if you contact us about a complaint, or if we have your contact details because of pursuing a business relationship with you, we may need to retain your data until the complaint has been dealt with, or as part of the contractual period governing the business transaction.
+==========
+These details will be evaluated on a case-by-case basis, as the purposes may not be known in advance.
+The Purposes & Retention
+
+
+Lawful_Basis
+
+Purpose        
+
+Category of Data
+
+Retention
+
+
+
+Legitimate Interest
+
+Contextual Adverts - Data processed to evaluate if a bid will be placed for an advertising space (for a non-personalised advert) but where after assessment, the parameters make it not viable to place a bid.
+Cookie Data
+
+21 days (to allow for trouble shooting)
+
+
+
+Legitimate Interest
+
+Contextual Adverts - Data processed where an actual bid is placed for an advertising space, for a non-personalised advert, and where the bid was unsuccessful or successful.
+Cookie Data
+
+100 days (except for data that is kept for invoicing purposes in relation to successful bids)
+
+
+
+Consent
+
+Programmatic personalised behavioural adverts, based on your browsing history across websites, including profiles.
+This is sometimes referred to as Prospecting and Retargeting (advertising based on profiles, or on a visit to a particular website, or looking at a specific product).
+Cookie Data
+
+
+Segmented Profile Data        
+
+100 days for Cookie Data (except for data that is kept for invoicing)
+
+100 days for Segmented Profiled data
+
+
+
+Legal Obligation
+
+Invoicing, tax, accounting and auditing
+
+Invoice Data
+
+10 years
+
+
+
+Legitimate Interest
+
+a)        to enforce our legal rights;
+
+b)        to protect the rights of third parties; and
+
+c)        in connection with a business transaction such as a merger, acquisition by another company, or sale of all or a portion of our assets.
+==========
+d)        Any other reasons in which you may contact us, for example by letter or email.
+Any data which you choose to provide to Optomaton, based on your reason of contact, for example, name, address, email address.
+Retention period determined by the reason that causes the processing, at the time the processing occurs.
+Legitimate Interests
+Where Optomaton is relying on Legitimate Interests to process your personal data, you have the right to object to the processing under this lawful basis.
+==========
+If you wish to do this, you may contact us at privacy@ve.com.
+Consent
+Where you have given your Consent to process your data, you have a real choice about how long we retain your data, and how long Consent lasts.
+Optomaton has a Consent period of 13 months, and then we will request to refresh your Consent to check if you still consent to Optomaton processing your data.
+Your Consent can be withdrawn at any time.
+You can do this by emailing privacy@ve.com
+Categories of personal data
+Cookie Data
+
+A unique identifier, location, a timestamp (of the last time a user visited the website, an SSP name, and the last time the SSP and DSP matched your cookies together (i.e. cookie syncing)), pages viewed, bid context and pixel ID of the advert displayed but not clicked on, and bid context and pixel ID of an advert you have clicked on, URL of the advertiser and an advert category id, geo location data, and IP address, key words relating to the content of a site.
+Invoice Data
+
+Order ID, Pixel ID, time of sale, client ID/URL, value of transaction
+Segmented Profiled Data
+
+Cookie id, advertising id, or unique identifier, and, categories of inferences (based on purchase and search history) and specific profile data (age, location, marital status, household size), that may indicate your interests.
+==========
+An example of this would be cruise holidays for over 50's, men living in the South East of England who are interested in sportswear, or, families that like to shop at a particular supermarket.
+Who we share your data with
+Optomaton shares your data with the following recipients or categories of recipients to enable it to provide the services to its clients.
+Where these parties are Controllers (and so governed by their own Privacy Policies), please check their own Privacy Polices to understand how the data is processed once it is shared with them.
+==========
+·    
+SSP’s (Supply Side Platforms), an intermediary that passes Optomaton’s bids and advertisement to the publisher website for display.
+The data we share is limited to:
+·    
+Publisher site (to which advert will be placed)
+·    
+Unique ID, such as Cookie Sync ID, Advertising ID and time of cookie sync
+·    
+Bid Price
+·    
+Date and time of bid
+·    
+The advertisement (image and content)
+·    
+Advert category ID and advertiser URL
+·    
+Optomaton’s Group of companies: https://www.ve.com/ve-subsidiary-list .
+The data that Optomaton shares with group members is the data listed under ‘Categories of Data’.
+The data analysed in segments was originally collected via Optomaton Group companies, and therefore the extent of data sharing is that it is data shared in a different format.
+·    
+Clients and suppliers, to fulfil invoicing obligations
+·    
+Advertisers, where you click on an advert, Optomaton facilities the collection and transfer of data to that advertiser site.
+For example, your IP address, and other details that you allow the Advertiser to capture via their own cookie technologies.
+An Advertiser may also be able to infer that if you have clicked on an advert for pink shoes, and then visit their site, that you are a user that likes pink shoes.
+==========
+·    
+Law enforcement or regulatory authorities, courts, or public authorities, if we are required to share by law.
+Optomaton also uses services providers who process your data on our behalf.
+These providers of services only process your data upon instructions from Optomaton.
+==========
+·    
+Amazon Web Services – for providing hosting and storage services.
+·    
+Google cloud services for hosting.
+·    
+Iponweb / Bidswitch – for providing programmatic and advertising technology infrastructure - https://www.iponweb.com.
+==========
+Where is your data processed
+Optomaton processes your data both inside and outside of the EEA.
+Optomaton has clients situated all around the world, and therefore, as part of providing services to clients outside of EEA, data sharing with these clients takes place in the location of these clients.
+Where there is processing of data outside the EEA, Optomaton uses transfer mechanisms as permitted within the GDPR.
+Most commonly this will be the EU Model Clauses, or EU-US and Swiss Privacy Shield.
+==========
+Optomton uses Amazon Web Services (AWS) for hosting and storing, and stores data in centres located in: The US.
+AWS has been certified for the information management security system standard, which can be seen here - https://d1.awsstatic.com/certifications/iso_27001_global_certification.pdf	 .
+Additionally, Optomaton uses Google Cloud services who have data centres in Asia, Japan and Europe (Belgium) and whom are ISO27001 certified - https://cloud.google.com/security/compliance/iso-27001/		
+Iponweb infrastructure services provided on behalf of Optomaton are processed in Russia, under the transfer measure of Standard Contractual Clauses.
+Iponweb are certified for the information security management system ISO27001.
+==========
+Using and analysing your data
+The analysis we do, can, for example, help inform us about products and services you are most interested in, and generally make conclusions about your preferences and behaviour.
+This is to help our Clients to market, and a) facilitate the sale of their products and services more effectively and/or efficiently, and b) to provide a more personalised online experience for you.
+This includes making decisions on which products and services, promotions and offers to sending you marketing information about.
+==========
+In the privacy law, the term used to describe this is called Profiling.
+Special Category Data
+Optomaton does not intentionally process special category sensitive data, such as health, political or religious beliefs, and we do not knowingly attempt to identify, predict, evaluate or in any way process data that would indicate any of the above.
+Children's Data
+Optomaton does not intentionally process children's data.
+==========
+Security of your data
+We are committed to keeping secure the personal information that you provide to us and we will take reasonable precautions to protect your personal information from loss, misuse or alteration.
+We have implemented information security policies, rules and technical measures to protect the personal information that we have under our control from:
+·    
+unauthorised access;
+·    
+improper use or disclosure;
+·    
+unauthorised modification; and
+·    
+unlawful destruction or accidental loss.
+All of our employees and data processors (i.e. those who process your personal information on our behalf, for the purposes listed above), who have access to, and are associated with the processing of personal information, are obliged to respect the confidentiality of the personal information of all persons who use our Services.
+How to access your information and rights
+Every individual has rights in relation to the processing of their personal data; these are:
+·    
+Request to access their data
+·    
+Request to have their data restricted
+·    
+Request to have their data deleted
+·    
+Request to have their data ported
+·    
+Right to object to processing involving profiling and automatic decision making
+You can see further information regarding these rights, on our parent company website here: https://www.ve.com/privacy-policy.
+To contact Optomaton regarding any of your rights, please email privacy@ve.com.
+==========

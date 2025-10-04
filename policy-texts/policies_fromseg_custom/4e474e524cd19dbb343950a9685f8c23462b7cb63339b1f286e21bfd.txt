@@ -1,0 +1,66 @@
+Reppublika is an online analytics and advertising toolbox launched by MindTake Research GmbH.
+Its intuitive, user-friendly dashboard features an expanding range of automated research apps.
+The Reppublika dashboard toolbox currently offers access to two apps: the user-centric reach and audience measurement module “Ratings+” and the module for real-time ad efficiency testing and campaign insights “Campaign Control”.
+In the future, more apps will be added continuously fulfilling different research purposes.
+==========
+Reppublika Ratings+ calculates website and apps reach and usage and provides user structure statistics (ranked by population reach, total visits or average use time, optionally filtered by demographic attributes) in an anonymized way.
+Furthermore, Reppublika Ratings+ provides media agencies, planning tools and rating services with data on national reach and user structure across the complete spectrum of digital services.
+==========
+Reppublika Campaign Control measures, in real-time, ad impressions and target group accuracy of a campaign, based on panel profiling data of exposed respondents.
+Furthermore, it measures the effectiveness of ads of a campaign for purposes of monitoring and optimizing, through automated viewer surveys based on Key Performance Indicators such as Recall, Recognition, Appeal and Purchase Probability.
+==========
+How is personal data being collected
+Companies (website owners or publishers) who wish to participate, can include a proprietary code, specifically a MindTake pixel tag on their website.
+The code counts the number of “page impressions” of website visitors and provides Reppublika with statistical analysis and reports with aggregated results based on device type (Mobile, desktop, app), browser type (Firefox, Chrome, Safari, Internet Explorer, Edge etc) as well the sections of a website (Events/News/Lifestyle etc).
+Furthermore, through the cooperation with publishers and a third party partner online panel provider who tracks its panel members only upon their explicit prior consent through cookies or equivalent tracking software, Reppublika receives pseudonymous (data on an individual level, associated with a cookie or a device identifier but in a way that it is not reasonably possible for the individuals to be identified) and/or aggregated data (data about a group or a segment of individuals again in a way at Reppublika cannot identify each specific individual inside such a group or segment).
+Members of the participating online research panel get identified each time they visit a client’s website in order to provide statistics and aggregated reports regarding the reach and demographic composition and audience profile of a website or an app.
+Moreover, for the purpose of the Reppublika Campaign Control module, either through a cookie which is placed by the third-party online research panel provider on its members upon their prior explicit consent, or  through ID matching, the content that was viewed (which product, which ad campaign), on which website it was viewed and general information about the device on which the content was viewed (e.g. mobile, desktop, app) is being tracked in order to develop audience insights in connection with marketing campaigns.
+Members of the third-party partner online panel provider who have seen, clicked on or otherwise interacted with an online ad or promotion are invited randomly to relevant voluntary surveys related to this experience for the purpose of assessing the effectiveness of promotion and ad campaigns.
+==========
+Such surveys do not ask or collect any directly identifiable personal information.
+What type of personal data is being collected and how is it being used
+Reppublika does not identify, or attempt to identify, the individuals about whom it receives pseudonymous and aggregated measurement, reach and exposure data from the third-party online research panel provider.
+Reppublika receives from the panel provider information such as the number of website visits, page impressions and visit duration as well as information regarding users’ browsing device such as device type (mobile, desktop, mobile app) operating system (Windows, MacOS, Android, ), IP address in order to determine the country from which the site is accessed, as well as information about the content that was viewed (e.g., which ad campaign), where the content was viewed (e.g., on which website or in which app).
+It uses such data in order to calculate the traffic and reach of a service, the unique users, the visits and the page impressions.
+==========
+Reppublika only receives information in form of aggregated or pseudonymous audience statistics and not in a way that allows any individuals to be reasonably identified.
+Reppublika Ratings+ uses the aforementioned information to provide audience measurement reports regarding the aggregated demographic composition of a website.
+==========
+Campaign Control use the aforementioned information in order to create a variety of insights and analyses about the effectiveness of an advertising campaign.
+Reppublika only includes non-identifiable or aggregated data in its published insights, reports and analyses and presents all measurement data as part of a pool of general users.
+==========
+Sharing of personal data
+Personal data that has been collected for the above purposes might be shared:
+-with other companies, contractors or partners in connection with services that these individuals or entities perform for, or with MindTake.
+These Service providers are not permitted to retain the shared data for their own or independent use and they may not retain the shared data for any longer than required to perform the agreed services.
+Further they must process any personal data in accordance with this Privacy Statement and as permitted by applicable data protection laws.
+==========
+-when MindTake has a good-faith belief that such action is necessary to comply with a judicial proceeding or a court order or if it believe it is necessary in order to preserve its legal rights, to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of its terms or as otherwise required by law.
+- It may be transferred as a business asset in connection with a change of ownership including without limitation a merger or an acquisition or a sale of any or all of MindTake’s business assets or as part of its business or as part of a corporate reorganization or other changes in corporate control, provided that the Party receiving or acquiring any personal data has agreed to comply and maintain the security, integrity and confidentiality of personal data in accordance with the present Privacy Statement;
+Retention of personal data
+MindTake will retain any personal information that might be collected for as long as it is necessary in connection with its research and analysis purposes, any legal obligations and any contractual obligations with third-parties.
+Security
+MindTake has put in place reasonable organizational, physical, electronic, and administrative procedures to safeguard the security and confidentiality of the information under its control.
+==========
+Access to all personal information is restricted and limited to few authorized personnel on a need-to-know basis.
+MindTake has also established a management system to prevent incidents such as unauthorized access to or loss, erasure, alteration or leakage of personal information as well as to ensure the best possible support in the rare case that such an incident occurs.
+However, no transmission via the Internet is 100% secure.
+==========
+Choices
+Participation in Reppublika’s insights and online measurement research is voluntary and members of the third-party online research panel provider have given their consent in being tracked for the various research purposes as described herein.
+Panel members who no longer wish to take part or contribute to Reppublika’s research and insights have the option to opt-out of any specific tracking technology or software through their membership in the online research Panel or they can also manage their cookie preferences by changing the cookie settings on their browsers or their mobile device at any time.
+==========
+Most browsers explain how users can disable the acceptance of new cookies, how to be notified when a new cookie is being dropped and how to delete the existing cookies.
+Further information on how to manage the cookie settings for the browser that is being used, can be found on the following list (the links are active at the time of the publication of present Privacy Policy, their content however might be modified in the future):
+- Internet Explorer 9- Firefox- Chrome- OSX/Mac OS
+- iOS
+Changes to This Privacy Statement
+MindTake reserves the right, at its discretion, to modify its privacy practices and update and make changes to this Privacy Statement at any time.
+==========
+If material changes are made to this Statement, notification will be provided by means of a notice on this website.
+Contact Us
+If you have any comments or questions regarding this Privacy Statement or if you would like to receive more information about our privacy practices, please contact us at reppublika@mindtake.com.
+==========
+MindTake takes any privacy matter very seriously and is compliant with all the requirements for the protection of personal data under the General Data Protection Regulation (GDPR), and especially its obligations regarding transparency and information towards data subjects, satisfaction of any data subjects’ rights requests, requirements of obtaining all the appropriate security technical and organizational measures and obligations to promptly inform the interested parties in case of a data breach incident.
+MindTake strives to cooperate only with partners including the third- party online research panel provider that ensure and guarantee compliance with any applicable data protection legislation and it   will be liable and shall reimburse and hold any Reppublika client or user harmless of any administrative fines and/or damage claims from data subjects, data protection authorities or third-party partners, as long as such fines or damage claims are caused due to MindTake’s infringement of any GDPR clauses and obligations.
+==========

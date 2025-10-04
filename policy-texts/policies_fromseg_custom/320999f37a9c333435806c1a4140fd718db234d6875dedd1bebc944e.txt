@@ -1,0 +1,54 @@
+Security & Privacy - Constant Contact
+You consent to the use of cookies in accordance with our cookie policy by continuing on the Constant Contact website.
+Constant Contact® Security Policy
+Updated: July 2015
+At Constant Contact the safety, privacy, and security of the data our customers entrust to us is very important to us.
+We realize you might have a few questions around our security practices and have included some of the ones you might find important.
+If you have further questions not listed below, please feel free to reach out to us directly at security@constantcontact.comsecurity@constantcontact.com or via Twitter @CTCTsecurity
+Who owns the data I load into your service?
+Your personal data belongs to you.
+We do not sell or rent your contact lists without your authorization.
+More details can be found in our privacy statement.
+==========
+What do you do to keep my data secure?
+We use in-transit (TLS) and at-rest (AES) encryption, access controls (including two-factor), and data security policies to protect your passwords, credit card numbers and email lists.
+We have a defense-in-depth approach to security, with layered next-generation firewalls, network-based intrusion prevention/detection, DDOS mitigation, vulnerability assessments (internal and 3rd party) and state-of-the-art data centers covered by 24X7 guards and biometrics.
+In other words, we take securing your data seriously.
+==========
+What about security in your applications?
+Our goal is to design, build, and maintain secure applications.
+We believe security should be built in and not bolted on.
+We regularly review our code as well as any third party code included in our products using static and dynamic analysis tools along with manual code reviews in critical areas.
+We train our engineers in secure coding and architectural design patterns like the ones outlined in the OWASP Top 10, SANS critical security controls, and the NIST frameworks
+If you find an issue with our products, head over to the vulnerability reporting page and let us know.
+==========
+What do you do to protect my data from loss?
+We have a documented and tested business resiliency plan that includes replicating your data between our 2 facilities located on the east and west coasts of the US.
+Additionally, we have a comprehensive insurance program to protect your data and our company from a variety of losses.
+==========
+Does Constant Contact have any certifications?
+We annually attest to PCI-DSS compliance and are audited by an independent Qualified Security Assessor [QSA] to handle your credit cards.
+As a publically traded company on the NASDAQ exchange, we adhere to Sarbanes-Oxley regulations as they relate to our financial reporting.
+==========
+For customers that are regulated under HIPAA/HITECH, we can sign a Business Associates Agreement.
+If you need further information on how we demonstrate the effectiveness of our security practices, drop us a note at the email listed above and we will be happy to share the information with you.
+Who are the people accessing my data?
+All employees that have access to your data undergo a background investigation and must sign confidentiality agreements prior to being granted access.
+==========
+Each employee receives annual refresher training on security practices and threats.
+Does Constant Contact have a security team?
+Constant Contact employs a dedicated team of security professionals that monitor the environment 24 hours a day, 7 days a week, 52 weeks a year.
+We are watching.
+==========
+Are they any good?
+Every one of the folks on the team is certified in at least one discipline of security and has many years of experience.
+Where can you find out more about them?
+==========
+The team frequently contributes back to the security community (locally and nationally) so if you are at one of many security conferences and see us, please feel free to come up and say hello.
+I am a Law Enforcement officer and I need to contact the security team?
+For non-emergency: please contact us at security@constantcontact.com.
+For emergencies: please call the emergency number 781-482-8522 (available 24x7x365).
+Note: This is for Law Enforcement emergencies only.
+All other calls will be disregarded.
+For more information:
+==========

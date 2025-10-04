@@ -1,0 +1,32 @@
+Submitted by Zero Hedge on 10/24/2012 23:58 -0400
+The Zero Hedge site utilizes two distinct forms of cookies: 
+1.
+The cookies our Content Management System ("CMS") issues track information to operate the site, which includes allowing users to login and comment.
+2.
+==========
+Third party cookies issued by third party vendors or for statistics purposes.
+Among the latter, Zero Hedge utilizes various services around the web, such as (but not limited to), Google Ads and StatCounter, both of which issue cookies.
+Because we don't work at any of those 3rd party companies, we're not sure what they're doing, or which cookies they're issuing at any given point.
+==========
+However, Google may use cookies to track website traffic.
+Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our site, and/or other sites on the internet.
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the ads preference manager.
+(Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting aboutads.info.)
+==========
+As to the former, the Zero Hedge CMS issues cookies to verify login and user ID across pages.
+As a part of the session ID, we keep a copy of your IP address; this is standard behavior for our CMS.
+==========
+That said, it's entirely possible 3rd party cookies are keepings tabs of your time on the site (see above).
+Fret not, however; if you don't want cookies to be used on Zero Hedge, read ahead.
+==========
+How To Disable Cookies:
+Be forwarned: disabling cookies will render you unable to login to Zero Hedge, and as such, you'll not be able to comment, chat, or generally interact with other users.
+To disable cookies on your browser, the good people at All About Cookies have put together the following information: 
+http://www.allaboutcookies.org/manage-cookies/
+Other Alternatives: 
+Many modern browsers offer "plugins", "add-ons", or "extensions" that will alert you to cookies, and let you choose which sites you wish to allow cookies from.
+While we don't recommend any browser or plugin over another, you can find a list of popular ones here, by browser: 
+https://chrome.google.com/webstore/search/cookies?hl=en
+https://addons.mozilla.org/en-US/firefox/search/?q=cookies
+http://extensions.apple.com/  (then click security).
+==========

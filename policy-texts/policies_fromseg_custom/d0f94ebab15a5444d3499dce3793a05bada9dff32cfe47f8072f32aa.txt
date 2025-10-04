@@ -1,0 +1,272 @@
+Online Subscription Agreement: TERMS OF SERVICE
+Updated on June 28, 2010
+IMPORTANT – READ CAREFULLY:
+BY COMPLETING THE ELECTRONIC ACCEPTANCE PROCESS AND CLICKING THE ACCEPTANCE BUTTON, YOU WARRANT THAT YOU: (i) ARE 18 YEARS OF AGE OR OLDER; (ii) HAVE THE AUTHORITY TO, OR ARE AUTHORIZED TO SIGN FOR AND BIND, THE CONTRACTING PARTY DEFINED BELOW AS "CUSTOMER" TO THE TERMS OF SERVICE OF THIS ONLINE SUBSCRIPTION AGREEMENT ("AGREEMENT"); AND (iii) HAVE READ, UNDERSTAND AND AGREE ON BEHALF OF CUSTOMER TO BE BOUND BY THIS AGREEMENT.
+IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THIS AGREEMENT, YOU MUST NOT CLICK THE ACCEPTANCE BUTTON; YOUR REGISTRATION PROCESS WILL BE DISCONTINUED AND YOU MAY NOT USE THE SERVICES.
+This Agreement is a legal and binding instrument entered into as of the Effective Date by and between Citrix Online and Customer.
+Citrix Online reserves the right to amend this Agreement from time to time on notice to Customer.
+The most current version of this Agreement can be reviewed by clicking the "Terms of Service" hypertext link located on the Citrix Online Web site and shall be in all instances the controlling version of the Agreement.
+Customer/technical support is available via the product support Web sites and email, as set forth below:
+Product Support Web Sites:
+GoToAssist Service / GoToAssist Pro
+www.gototassist.com/help
+GoToManage Service
+www.gotomanage.com/help
+GoToMeeting Service, GoToWebinar Service and GoToTraining Service
+http://support.gotomeeting.com
+GoToMyPC
+http://support.gotmypc.com
+Email: support@citrixonline.com
+1.
+Definitions.
+As used in this Agreement, the following defined terms shall apply:
+1.1 Agreement means these Terms of Service as may be amended from time to time and any other documents incorporated by reference.
+==========
+1.2 Citrix Online means the Citrix Online entity set forth in Section 10 of this Agreement.
+1.3 Confidential Information means any non-public information and/or materials provided by a party under this Agreement to the other party and reasonably understood to be confidential.
+1.4 Customer means the legal entity or individual that enters into this Agreement.
+1.5 Devices and Servers means the following for purposes of the GoToManage Service: (i) device is a physical or virtual machine including, but not limited to, computers, servers, printers, switches, IP phones and routers connected to a network; and (ii) server is a physical or virtual machine that shares resources (e.g., access to data files, programs and other peripheral devices) with other devices on a network.
+==========
+1.6 Effective Date means the date of electronic acceptance of this Agreement by Customer.
+1.7 My Account means Customer's specific page within the Citrix Online Web site where Customer subscribes to the Services and provides Customer account information such as Registration Data and Payment Information.
+Customer may access its My Account page at any time and update certain account information.
+==========
+1.8 Named Authorized User(s) means (i) for the GoToAssist Express, GoToAssist Pro, GoToMeeting, GoToWebinar, GoToTraining and GoView Services, Customer-designated individuals who may access the Services in accordance with this Agreement (each Named Authorized User user name must be specific to a unique Customer-designated individual and may not be generic (e.g. john.doe@company.com is unique; whereas support@company.com, user1@company.com, trainer@company.com, etc., are generic and not unique)), and (ii) for the GoToMyPC Service, Customer-designated host PCs which may be accessed by authorized individuals in accordance with this Agreement.
+Customer-designated individuals may include, by way of example, employees, contractors, consultants and agents or third parties with which Customer transacts business as determined by Customer.
+1.9 Payment Information means limited Customer information related to billing and payment matters collected by Citrix Online during the online registration process.
+Such Payment Information will include a valid debit card or credit card number with available credit sufficient to pay the applicable Subscription Fees, an election of a preferred billing frequency, and other information as required by Citrix Online.
+==========
+1.10 Privacy Policy means the Citrix Online Privacy Policy which can be viewed at by clicking on the "Privacy Policy" hypertext link located at the Citrix Online Web site.
+1.11 Registration Data means limited Customer information collected by Citrix Online during the online registration process.
+1.12 Services means Citrix Online's remote access and Web collaboration products consisting of the services set forth in Section 2 of this Agreement and as subscribed to by Customer.
+1.13 Subscription Fee means the fee for Customer's use of and access to the Services as subscribed to by Customer.
+1.14 Term means the term of this Agreement commencing on the Effective Date and continuing until the expiration of all subscription period(s), including any renewal subscription period(s), for Services as stated on Customer's My Account page.
+2.
+==========
+Description of Services.
+Citrix Online's remote access and Web collaboration products include GoToAssist® Express™, GoToAssist® Corporate™, GoToAssist® Pro, GoToManage®, GoToMeeting®, GoToWebinar®, GoToTraining™, GoToMyPC® and GoView™ services (individually and collectively referred to as the "Services"), as more fully described in subsections 2.1 through 2.9 immediately below.
+The selection(s) made and submitted by Customer during the online registration process will identify the specific Service(s) subscribed to by Customer hereunder and the number of Named Authorized Users for each Service, all of which shall be listed on Customer's My Account page within the Citrix Online Web site.
+The following describes the Services currently offered by Citrix Online:
+2.1 GoToAssist Express.
+By subscribing to the GoToAssist Express Service, Customer may access and use the GoToAssist Express screen-sharing application for the sole purpose of enabling a Named Authorized User to provide remote assistance to its internal and external customers.
+2.2 GoToAssist Corporate.
+By subscribing to the GoToAssist Corporate Service, Customer may access and use the GoToAssist screen-sharing application for the sole purpose of enabling Named Authorized Users to provide remote assistance to their internal and external customers.
+2.3 GoToAssist Pro.
+By subscribing to the GoToAssist Pro Services, Customer may access and use the GoToAssist Pro screen-sharing application for the purpose of enabling Named Authorized Users to provide live remote assistance to its internal and external customers, remote support for unattended computers and servers, and the basic offering of GoToManage.
+2.4 GoToManage.
+By subscribing to the GoToManage Service, Customer may access and use the GoToManage application for the purpose of monitoring information technology networks, Devices and Servers, maintaining inventory management of such Devices and Servers and performing associated analysis and reporting.
+==========
+2.5 GoToMeeting.
+By subscribing to the GoToMeeting Service, Customer may access and use the GoToMeeting online meeting application for the purpose of enabling Named Authorized Users to conduct online meetings with their respective invited attendees.
+2.6 GoToWebinar.
+By subscribing to the GoToWebinar Service, Customer may access and use the GoToWebinar Web conferencing application for the purpose of enabling Named Authorized Users to conduct Webinars with their respective invited attendees.
+==========
+2.7 GoToTraining.
+By subscribing to the GoToTraining Service, Customer may access and use the GoToTraining online training application for the purpose of enabling Named Authorized Users to conduct online training sessions with their respective invited attendees.
+Use of the service allows synchronous online training sessions, distribution of course materials, testing and assessments, publishing upcoming courses to a catalog, and maintaining a reusable content library.
+==========
+2.8 GoToMyPC.
+By subscribing to the GoToMyPC Service, Customer may access and use the GoToMyPC remote-access screen-sharing application for the sole purpose of enabling authorized individuals to remotely access and control Named Authorized Users.
+2.9 GoView Beta.
+By subscribing to the GoView Beta Service, Customer may enable Named Authorized Users to access and use the GoView screen recording, editing, and hosting service to easily create and share recorded content online.
+3.
+==========
+Online Registration.
+To subscribe to Services via the various Citrix Online product Web sites, Customer must complete the online registration process, including Customer's electronic acceptance of this Agreement, and Citrix Online must then accept such online registration.
+Citrix Online may reject an online registration by a potential Customer in its sole discretion and is not obligated to provide a reason for its rejection.
+In the event a potential Customer's online registration is rejected by Citrix Online, such potential Customer may submit a new online registration for re-evaluation by Citrix Online.
+3.1 Registration Data.
+==========
+All Registration Data provided by or on behalf of Customer must be current, complete and accurate, and Customer is solely responsible for updating such Registration Data as necessary.
+Citrix Online reserves the right to terminate this Agreement immediately in the event any Registration Data is found to be inaccurate, incomplete and/or not current at any time.
+Customer is hereby informed that Registration Data is subject to automatic processing by Citrix for the management of Customer's account.
+Customer will have access to Registration Data and may update or correct as necessary.
+==========
+3.2 Account Password/Security.
+As part of the online registration process, Customer will choose a password and a user name.
+Customer is entirely responsible for maintaining the confidentiality of its password and account, and Customer is solely responsible for any and all activities that occur under its account.
+==========
+Customer agrees to notify Citrix Online immediately of any unauthorized use of its account or any other breach of security.
+Citrix Online shall not be liable for any loss that Customer may incur as a result of a third party using its password or account, either with or without its knowledge.
+Customer may be held liable for losses incurred by Citrix Online and/or another party due to a third party using Customer's account or password.
+==========
+3.3 Payment Information.
+All Payment Information provided by or on behalf of Customer must be current, complete and accurate, and Customer is solely responsible for updating such Payment Information as necessary.
+Customer hereby authorizes Citrix Online, from time to time, to take steps to determine whether the debit card or credit card number provided is valid.
+Citrix Online reserves the right to terminate this Agreement immediately in the event any Payment Information is found to be inaccurate, incomplete and/or not current at any time.
+Citrix Online shall not be responsible for any overdraft charge or other fees that may be incurred by Citrix Online's use of Customer's debit card or credit card for payment hereunder.
+==========
+3.4 Trial and Promotional Offers.
+From time to time, Citrix Online may offer certain trial and/or promotional offers.
+Citrix Online reserves the right to discontinue or modify coupons, credits, trials and promotional offers at its discretion and without notice.
+Any such trial or promotional offers may not be combined with other coupons, credits, trials, promotions or any other discounts, and are limited to one (1) per Customer.
+The details of any trial or promotional offers applicable to Customer shall be listed on Customer's My Account page.
+==========
+3.5 Privacy.
+Citrix Online's use of any information provided by Customer, including without limitation, Registration Data and Payment Information, is set forth in Citrix Online's current Privacy Policy.
+4.
+==========
+Customer Rights and Restrictions.
+4.1 Customer Access and Use.
+During the Term of this Agreement, and upon payment of all applicable Fees, Customer may access and use the Services pursuant to and in accordance with the provisions of this Agreement.
+Citrix Online will enable Customer and its Named Authorized Users to access and utilize the Services as contemplated by the Agreement.
+Thereafter, Customer shall be solely responsible for selecting and managing its users and providing each of them with the information necessary for access to and use of the Services.
+Customer may reassign Named Authorized Users, Devices and/or Servers without incurring additional fees providing if the number of same does not increase.
+Customer may inform its users, customers and employees that the Services are powered by Citrix Online.
+Customer understands that the Services do not allow calls to the emergency services numbers (e.g. in the United States 911, or in the United Kingdom 999 and 112).
+If Customer's broadband connection fails, the Services and some related voice service will also fail.
+The Services may cease to function if there is a power cut or failure.
+These failures may be caused by reasons outside of the control of Citrix Online.
+4.2 Reverse Engineering.
+Except to the extent permitted by law, Customer may not modify, distribute, prepare derivative works of, reverse engineer, reverse assemble, disassemble, decompile or otherwise attempt to decipher any code in connection with the Services and/or any other aspect of Citrix Online's technology.
+==========
+4.3 Abuse.
+Customer shall not access and/or engage in any use of the Services in a manner that abuses or materially disrupts the networks, security systems, Services and/or Web sites of Citrix Online.
+4.4 Illegal Purposes.
+Customer shall not use the Services for fraudulent or illegal purposes.
+Furthermore Customer shall not use the Services to record phone communications without notification of recording to concerned persons and participants.
+4.5 No Representation by Customer.
+Neither Customer nor any of its Named Authorized Users, customers, employees or representatives shall make any representations with respect to Citrix Online (including, without limitation, that Citrix Online is a warrantor or co-seller of any of Customer's products and/or services), the Services or this Agreement.
+==========
+4.6 Limited Grant of Rights.
+No other rights are granted hereunder to Customer except as expressly set forth in this Agreement.
+5.
+==========
+Termination.
+5.1 Termination for Cause.
+Citrix Online reserves the right to terminate this Agreement immediately if Customer breaches any of its material obligations (e.g., breach of Section 4, 6 and/or 7) under this Agreement.
+5.2 Effect of Termination.
+==========
+Upon termination of this Agreement, Customer will immediately discontinue all access to and use of the Services and cease to represent in any form that it is a user of the Services.
+Citrix Online will immediately disable Customer's account upon termination.
+Neither party shall be liable for any damages resulting from a termination of this Agreement in accordance with this Section 5.2; provided, however, the termination of this Agreement shall not affect any claim arising prior to such termination.
+6.
+Subscription Fees.
+Customer is responsible for all Subscription Fees, and hereby authorizes Citrix Online to obtain payment of all such Subscription Fees in accordance with the Payment Information, as stated on Customer's My Account page.
+==========
+Customer shall also be responsible for all applicable taxes (withholding tax, sales tax, services tax, value-added tax (VAT), goods and services tax (GST), etc.) or duties imposed by any government entity or collecting agency EXCEPT those taxes based on Citrix Online's or Citrix Systems, Inc.'s net income.
+In the event Customer fails to satisfy its tax and/or duty obligations herein, Customer shall reimburse Citrix Online upon demand for any taxes and/or duties paid on behalf of Customer and shall indemnify and hold Citrix Online harmless against any claim and/or liability (including penalties) resulting from Customer's failure to pay such taxes and/or duties.
+7.
+==========
+Confidential Information.
+Unless expressly authorized in writing by the other party, neither party shall disclose to any third party any Confidential Information, and/or use such Confidential Information in any manner other than to perform its obligations under this Agreement.
+The foregoing restrictions do not apply to any information that (i) is in or becomes available through the public domain, (ii) is already lawfully in the receiving party's possession and not subject to a confidentiality obligation to the disclosing party, (iii) becomes known to the receiving party from a third party having an apparent bona fide right to disclose the information, or (iv) Confidential Information that the receiving party is obligated to produce pursuant to an order of a court of competent jurisdiction or a valid administrative subpoena, provided receiving party supplies disclosing party with timely notice of such court order or subpoena.
+Furthermore, Customer will keep in confidence all passwords and other access information to the Services.
+8.
+==========
+DISCLAIMER OF WARRANTIES.
+Each party hereby warrants to the other party that it has all necessary authority to enter into and perform its obligations under this Agreement without the consent of any third party or breach of any contract or agreement with any third party.
+CUSTOMER HEREBY ACKNOWLEDGES AND AGREES THAT THE SERVICES ARE PROVIDED BY CITRIX ONLINE ON AN "AS IS" BASIS, AND CUSTOMER'S ACCESS TO AND/OR USE OF THE CITRIX ONLINE WEB SITES, LINKED SITES AND/OR OF THE SERVICES IS AT ITS SOLE RISK.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, CITRIX ONLINE EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THOSE OF MERCHANTABILITY, SATISFACTORY QUALITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+CITRIX ONLINE MAKES NO WARRANTY THAT ANY OF THE SERVICES WILL MEET THE REQUIREMENTS OF CUSTOMER OR THAT THE SERVICES WILL BE UNINTERRUPTED, TIMELY OR ERROR-FREE, NOR DOES CITRIX ONLINE MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES OR THE ACCURACY OF ANY OTHER INFORMATION OBTAINED THROUGH THE SERVICES OR THAT ANY DEFECTS IN THE PLUG-IN WILL BE CORRECTED.
+CUSTOMER UNDERSTANDS AND AGREES THAT ANY MATERIAL AND/OR DATA DOWNLOADED OR OTHERWISE OBTAINED (INCLUDING PLUG-INS) THROUGH THE USE OF ANY OF THE SERVICES IS DONE AT THE SOLE RISK OF CUSTOMER AND THAT CUSTOMER WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO ITS COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF SUCH MATERIAL AND/OR DATA.
+NO INFORMATION OR ADVICE, WHETHER ORAL OR WRITTEN, OBTAINED BY CUSTOMER FROM CITRIX ONLINE OR THROUGH THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES AND CONDITIONS, SO SOME OF THE ABOVE EXCLUSIONS MAY NOT APPLY TO CUSTOMER.
+9.
+==========
+LIMITATION ON LIABILITY.
+IN NO EVENT SHALL CITRIX ONLINE BE LIABLE FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL LOSS, EXEMPLARY OR OTHER DAMAGES RELATED TO THIS AGREEMENT, INCLUDING, WITHOUT LIMITATION AND WHETHER DIRECT OR INDIRECT, (i) LOSS OF DATA, (ii) LOSS OF INCOME, (iii) LOSS OF OPPORTUNITY, (iv) LOST PROFITS, AND (v) COSTS OF RECOVERY OR ANY OTHER DAMAGES, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT FOR BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STATUTE, OR OTHERWISE, AND WHETHER OR NOT CITRIX ONLINE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, CITRIX ONLINE'S LIABILITY HEREUNDER IS LIMITED TO $50.00.
+SOME JURISDICTIONS DO NOT ALLOW LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO CUSTOMER.
+10.
+==========
+Contracting Party, Choice of Law and Location for Resolving Disputes.
+The Citrix Online contracting entity under this Agreement, the applicable notice address, governing law and jurisdiction to resolve disputes will depend on where Customer is domiciled.
+Please refer to the chart below to identify the Citrix Online contracting entity:
+
+If Customer is domiciled in: Customer is contracting with: Notices should be addressed to: The governing law is: The courts having exclusive jurisdiction are:
+A Country in North, South or Central America or the Caribbean Citrix Online LLC
+6500 Hollister Avenue,
+Goleta, CA 93117, U.S.A. Attn: Global Customer Support
+6500 Hollister Avenue, Goleta, CA 93117, U.S.A.
+With a copy to:
+Legal Department
+6500 Hollister Avenue, Goleta, CA 93117, U.S.A.
+California and controlling United States federal law Santa Clara County, California, U.S.A.
+A Country in Europe, the Middle East or Africa* Citrix Online UK Limited registered in England and Wales under registration number: 646972
+Registered address:
+Chalfont Park House,
+Chalfont Park, Gerrards
+Cross, Bucks SL9 0DZ
+VAT number: GB928999931 Attn: Global Customer Support
+Chalfont Park House, Chalfont Park, Gerrards Cross, Bucks SL9 0DZ
+With a copy to:
+Legal Department
+6500 Hollister Avenue, Goleta, CA 93117, U.S.A.
+England and Wales England and Wales
+A Country in Asia or the Pacific region Citrix Online Aus Pty Ltd
+Level 3, 1 Julius Avenue, North Ryde, NSW 2113
+ABN# 47 130 063 642 Attn: Global Customer Support
+Level 3, 1 Julius Avenue, North Ryde, NSW 2113
+With a copy to:
+Legal Department
+6500 Hollister Avenue, Goleta, CA 93117, U.S.A.
+New South Wales New South Wales
+
+* For customers from the United Kingdom, if Citrix Online UK Limited is unable to resolve a complaint satisfactorily, Customer may be able to make a complaint through the Office of the Telecommunications Ombudsman (Otelo, www.otelo.org.uk), an independent alternative dispute resolution scheme of which Citrix Online UK Limited is a registered member.
+==========
+In such circumstances Otelo will conduct a detailed case review and make an independent third-party decision or recommendation.
+* For customers from France, all requested Customer information is compulsory and necessary for processing Customer's file.
+Customer is hereby informed that its personal data is subject to automatic processing by Citrix Online UK Limited for the management of Customer's file.
+Customer may ask for access to and rectification of Customer's personal data.
+* For customers from Germany, Customer agrees that it shall utilize the Services only for business or professional use and shall enter into a legal transaction with Citrix Online UK Limited only in such capacity.
+If Customer wants to initiate out-of-court dispute resolution mechanisms according to the provisions of the Telecommunications Act and its executive regulations Customer may submit an application to the German Federal Network Agency, Bonn, Germany.
+11.
+==========
+Additional Terms.
+11.1 Relationship of the Parties.
+Customer and Citrix Online are independent contractors.
+This Agreement does not create a partnership, franchise, joint venture, agency, fiduciary or employment relationship between the parties.
+==========
+11.2 Assignment.
+Customer may not assign its rights or delegate its duties under this Agreement either in whole or in part, and any such attempted assignment or delegation shall be void.
+11.3 Force Majeure.
+Neither party will be responsible for any delay, interruption or other failure to perform under this Agreement due to acts beyond the control of the responsible party, but only for so long as such conditions persist.
+Force majeure events include, but are not limited to: natural disasters (e.g., lightning, earthquakes, hurricanes, floods); wars, riots, terrorist activities, and civil commotions; activities of local exchange carriers, telephone carriers, Internet service providers, and other third parties; explosions and fires; embargoes, strikes, and labor disputes; governmental decrees; and any other cause beyond the reasonable control of a party.
+11.4 Notice.
+Citrix Online may provide Customer with notice via email, regular mail and/or postings on the Citrix Online Web site.
+11.5 High-Risk Use.
+Customer hereby acknowledges that the Services are not designed or intended for access and/or use in or during high-risk activities including, but not limited to: medical procedures; online control of aircraft, air traffic, aircraft navigation or aircraft communications; or the design, construction, operation or maintenance of any nuclear facility.
+==========
+Citrix Online hereby expressly disclaims any express or implied warranty of fitness for such purposes.
+11.6 Compliance with Laws.
+Both parties agree to comply with all applicable local, state, national and foreign laws, rules, and regulations, including, but not limited to, all applicable import and export laws and regulations, in connection with their performance under this Agreement.
+Notwithstanding Citrix Online does not guarantee that the Services shall be appropriate and/or available for use in any particular location and Customer is responsible for compliance with local laws to the extent applicable.
+Citrix Online reserves the right to modify the Services for any reason, without notice and without liability to Customer or any end user.
+Customer undertakes to comply with all legal duties applicable to the Customer including obligations as data controller by virtue of Customer's role as meeting organizer and/or Named Authorized User.
+Specifically, Customer must provide concerned persons and/or participants with all information Customer is required by law to provide and, if necessary, must obtain the consent of these persons and/or participants.
+==========
+11.7 No Waiver.
+The failure of either Customer or Citrix Online in any one or more instance(s) to insist upon strict performance of any of the terms of this Agreement will not be construed as a waiver or relinquishment of the right to assert or rely upon any such term(s) on any future occasion(s).
+11.8 Severability.
+==========
+If any provision of this Agreement is declared by a court of competent jurisdiction to be invalid, illegal, or unenforceable, such provision shall be severed from this Agreement and the other provisions shall remain in full force and effect.
+To the extent a provision is deemed invalid, illegal, or unenforceable, the parties agree to comply with the remaining terms of this Agreement in a manner consistent with the original intent of the Agreement.
+11.9 No Third Party Beneficiaries.
+No person or entity not a party to this Agreement will be deemed to be a third party beneficiary of this Agreement or any provision hereof.
+==========
+11.10 Entire Agreement.
+This Agreement sets forth the entire agreement and understanding of the parties relating to the subject matter hereof and supersedes all prior and contemporaneous oral and written agreements and understandings with respect to the same.
+No waiver or amendment of any term or condition of this Agreement shall be valid or binding on either party unless agreed to in writing by both parties.
+11.11 Captions and Headings.
+Captions and headings are used herein for convenience only, are not a part of this Agreement, and shall not be used in interpreting or construing this Agreement.
+==========
+11.12 Controlling Language.
+The English language version of this Agreement shall be the controlling version and is incorporated by reference into any translation of this Agreement.
+Any translation or other language version of this Agreement shall be provided for informational purposes only.
+Only the most current English version of this Agreement is binding.
+In the event of inconsistency or discrepancy between the English version and any translation or other language version of this Agreement, the English-language version shall prevail.
+11.13 References.
+Pronouns contained in this Agreement shall apply equally to the feminine, neuter and masculine genders.
+The singular shall include the plural, and the plural shall include the singular.
+==========
+11.14 Beta version.
+The terms of this subsection 11.14 shall only apply to Customer with respect to any "Beta" version of any of the Services (the "Beta Services") made available to Customer for purposes of evaluation and feedback.
+Customer acknowledges that the Beta Service(s) Customer is evaluating may contain bugs, errors and other problems and is provided to Customer "as-is."
+Therefore, to the extent permitted by applicable law, Citrix Online disclaims any warranty, condition and/or liability obligations to Customer of any kind with respect to the Beta Services.
+Customer further acknowledges the importance of communication between Citrix Online and Customer during Customer's use of the Beta Services and participation in Citrix Online's Beta program and hereby agrees to receive related correspondence and updates from Citrix Online.
+In the event Customer requests to opt-out from such communications, Customer's participation in the Citrix Online Beta program will be canceled.
+Customer also hereby acknowledges that Citrix Online has not made any representations, promises or guarantees that the Beta Services will ever be announced or made available to anyone in the future and that Citrix Online has no express or implied obligation to Customer to announce or introduce the Beta Services.
+During the Citrix Online Beta program, Customer will be asked to provide feedback regarding Customer's use of the Beta Service(s) and Customer hereby grants to Citrix Online a perpetual, royalty-free worldwide license to use and/or incorporate such feedback into any Citrix Online product or service (including the Beta Services) at any time at the sole discretion of Citrix Online.
+With respect to the Beta Services, this subsection shall supersede any other terms and conditions contained herein, but only to the extent necessary to resolve conflict.
+==========

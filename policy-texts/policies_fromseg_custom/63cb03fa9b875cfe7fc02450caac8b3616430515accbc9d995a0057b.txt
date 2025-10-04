@@ -1,0 +1,59 @@
+Internet privacy is a complex issue, complicated by inaccuracies and half-truths; it is not the black-and-white issue it is often made out to be.
+People appear to want a greater level of privacy while surfing the Internet than they enjoy in their everyday lives.
+Beginning with this premise allows us to better explore the pitfalls waiting for the average Internet user online.
+==========
+E-mail
+E-mail is one of the greatest communication technologies to be placed into the hands of ordinary people.
+It brings people together at no additional cost, no matter what distances the e-mail travels.
+This extraordinary feat is largely taken for granted today.
+==========
+But it also inundates many of us with spam (unsolicited commercial e-mail), which is often sent as an HTML document (a type of document that is usually displayed within a Web browser).
+Since most modern e-mail programs can display HTML documents seamlessly, this feature brings up additional privacy concerns.
+For instance, unbeknownst to most people, such documents can include a tiny, invisible graphic that allows the sender to silently track the e-mail, right down to when it was read and the computer used to read it.
+==========
+This tracking requires no direct action on the part of the user, other than to preview or open e-mail containing the so-called "Web bug."
+(See the FAQ on Web Bugs for additional information.)
+Most e-therapy and e-counseling is conducted through ordinary e-mail, an inherently insecure medium (see Seeking Security in an Insecure Virtual World for more about the drawbacks of ordinary e-mail).
+When a home computer is shared among two or more people, one's privacy is further reduced.
+Why?
+==========
+Most people are running operating systems and software that don't support strong security in a multi-user or networked environment.
+This can be somewhat alleviated by upgrading to a business-class operating system that supports multi-users and networking, and ensuring the security settings on software used require user authentication before giving access to sensitive documents.
+==========
+Web Browsing
+Everybody's heard of cookies on the Web, but it's not clear that everybody understands them.
+Cookies are small text files that are created on your computer's hard drive by a Web site you visit.
+The information within the file identifies your computer to the site, recording your preferences for that site.
+When you return to the site, the site knows who you are.
+==========
+Cookies can also be used for longer-term data collection.
+Third-party cookies are placed by ad networks and Internet marketing companies, not the site you are visiting.
+Most sites that have advertising on them use third-party cookies to help the advertiser gauge the reach and effectiveness of a given banner ad.
+One consequence of accepting third-party cookies, however, is that your movement on the Internet can theoretically be tracked, saved, and marketed to other companies, without your knowledge or agreement.
+In practice, advertising networks claim they do not do this at personally-identifiable levels, only in aggregate.
+This means that your single point of data is combined with thousands of other individual points of data and that data, as a whole, is then analyzed for patterns of use.
+==========
+Why might this matter to you?
+If you're sharing sensitive, personal information with a Web site (such as a site that offers e-counseling), you'd like to be assured that the site isn't intentionally or unintentionally violating your privacy.
+==========
+Sites that host third-party advertisers run through an advertising network may do so.
+Sites that use their own software to serve banner advertising are safer and more secure.
+Third-party Sites
+In addition to advertising, many sites use outside companies to offer additional features to their users.
+==========
+One such popular service is PayPal, a company that was set up to facilitate credit card transactions between two online users (originally for online auctions, but now for virtually any transaction).
+The downside to using such a third-party is that the originating site cannot make any guarantees about their user's data or privacy once that third-party site is used for part of the transaction.
+In an e-counseling situation, not only would the consumer be interacting with a professional of their choosing, perhaps through a site like HelpHorizons.com, but also this additional, third-party company to pay for that service.
+The more third-party companies of this nature that are introduced into the therapeutic relationship, the greater the possibility of unintended privacy or confidentiality violations.
+An individual therapist or e-counseling company may have a solid privacy policy, but the third-party site may not.
+They could sell or market an individual's information to other companies if they are not obligated to follow the same policies set by the therapist or e-counseling company.
+Since most people don't bother reading every Web site's privacy policy, this important difference could be lost.
+If third-party companies are used, they should be close strategic partners of the original site.
+The partner site should sign and adhere to the same types of confidentiality and non-disclosure agreements the original site's employees sign, and be held accountable to the same privacy policies and other terms the e-counseling site has drawn-up.
+==========
+The Choice is Yours
+Potential pitfalls exist throughout the online world that may endanger a user's privacy or confidentiality.
+The more Internet users learn about the issues affecting their privacy online, the better prepared they are to make informed decisions about the sites they visit and the services they use.
+A note on HelpHorizons.com's policies: HelpHorizons.com accepts no advertising on its site at present.
+We refuse to offer additional features or services that rely on sharing (or having our users share) additional identifying information about themselves with a third-party that is not bound by our privacy policy or that does not have a close, long-term, strategic relationship with us.
+==========

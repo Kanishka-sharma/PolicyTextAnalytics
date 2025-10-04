@@ -1,0 +1,132 @@
+Effective Date: August 1st, 2012
+This Terms of Service (the "Agreement") is a contract between you (the "Customer") and us ("Apptentive").
+It describes the services we will provide to you, how we will work together, and other aspects of our business relationship.
+By signing up for Apptentive, you are agreeing to these terms.
+1.
+==========
+Access
+Subject to the terms and conditions of this Agreement, the Service is solely for Customer's use in connection with its customer communication activities.
+Apptentive may change, suspend or discontinue the Services at any time, including the availability of any feature, database, or content.
+Apptentive may also impose limits on certain features and services or restrict Customer's access to parts or all of the Services without notice or liability.
+Customer shall be responsible for obtaining and maintaining any equipment or ancillary services needed to connect to, access the Service.
+Customer shall be responsible for ensuring that such equipment or ancillary services are compatible with the Service.
+2.
+==========
+Registration & Security
+As a condition to using certain products and services of the Service, Customer is required to register with Apptentive and select a password and Customer ID.
+Customer shall provide Apptentive with accurate, complete, and updated registration information.
+Failure to do so shall constitute a breach of this Agreement, which may result in immediate termination of Customer's account.
+Apptentive reserves the right to refuse registration of, or cancel an Apptentive Customer account at its discretion.
+Customer shall be responsible for maintaining the confidentiality of Customer's Apptentive password and other account information.
+3.
+==========
+Grant of License
+The Apptentive SDK is an open-source segment of software code.
+Apptentive grants to Customer a limited, non-exclusive, non-transferable, royalty-free license to use, incorporate, modify and distribute the Apptentive SDK within the Customer Application(s), in accordance with the terms in 'SDK Product and Maintenance'
+Apptentive will assign to Customer a unique API-Key to enter into Apptentive's SDK with the Customer's Application.
+Apptentive grants to Customer a limited, exclusive, non-transferable, royalty-free license to use such assigned API-Key.
+4.
+==========
+Payment Term & Fees
+Customer shall pay Fees to Apptentive as follows.
+If signed up for a paid plan (See Plans), the Subscription Fee is due on the 30th day after registration.
+There is a three (3) business day grace period ("Grace Period").
+Thereafter, Customer may be restricted at any time from the Service, with or without notice, at Apptentive's sole discretion.
+After the Grace Period, a 10% late fee will be imposed for the current month of Service.
+==========
+If, after thirty (30) days of non-payment, Apptentive may terminate Agreement in accordance with Section 8 (Termination).
+Notwithstanding any terms above, if Apptentive terminates for non-payment, that does not relieve Customer from paying all fees (including back fees and late payments) agreed to herein.
+If Customer paid any of the fees herein and that payment cannot be credited to Apptentive for any reason (including but not limited to NSF), (i) Apptentive may turn-off or restrict Service, (ii) Apptentive may immediately terminate Agreement, in accordance with Section 8 of this Agreement, and/or (iii) Customer shall immediately pay such fee plus any and all penalty fees imposed to Apptentive by third party financial institutions.
+==========
+An automatic invoice for processing payments will be delivered to after the initial payment.
+Invoice requirements will not excuse Customer from the timely payment terms herein.
+5.
+==========
+SDK Product and Maintenance
+Apptentive provides the Apptentive SDK in an "as is" state and is also available to download as freeware online at GitHub.
+The Apptentive SDK, and any updates, is deemed accepted by Customer.
+No warranties are made to the SDK (see Representation, Warranties and Indemnifications).
+==========
+Apptentive is not obligated to provide maintenance, technical support or updates to Customer for the SDK.
+Any maintenance or updates provided by Apptentive shall be covered by this Agreement.
+Customer shall bear all costs of integrating the Apptentive SDK into the Customer Application, including but not limited to, software design, software development, application debugging, application testing and network connectivity.
+Customer shall ensure the Apptentive copyright notice and EULA is not removed from the Apptentive SDK and that both are included in each module that the Apptentive SDK resides.
+Redistribution and use of the Apptentive SDK in source and binary forms, with or without modification, are permitted provided that the following conditions are met: (i) Redistributions of source code must retain the copyright notice and the following disclaimer; this software is provided by the copyright holders and contributors "as is" and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed.
+In no event shall Apptentive, Inc.
+==========
+Be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage.
+(ii) Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution; and (iii) Neither Apptentive, Inc. nor the names of its contributors may be used to endorse or promote products derived from this SDK without specific prior written permission.
+6.
+==========
+Representations, Warranties and Indemnifications
+(a) Disclaimer of warranties.
+To the maximum extent permitted by applicable law, Apptentive provides the SDK and any support services related to the SDK ("support services") as is and with all faults, and hereby disclaim all warranties and conditions, either expressed, implied or statutory, including, but not limited to, any implied warranties or conditions of merchantability, of fitness for a particular purpose, of lack of viruses, of accuracy or completeness of responses, of results, and of lack of negligence or lack of workmanlike effort, all with regard to the SDK, and the provision of or failure to provide support services.
+Also, there is no warranty or condition of title, quiet enjoyment, quiet possession, correspondence to description or non-infringement, with regard to the SDK.
+The entire risk as to the quality of or arising out of use or performance of the SDK and support services, if any, remains with customer.
+==========
+(b) Exclusion of incidental, consequential and certain other damages.
+To the maximum extent permitted by applicable law, in no event shall Apptentive be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits or confidential or other information, for business interruption, for personal injury, for loss of privacy, for failure to meet any duty including of good faith or of reasonable care, for negligence, and for any other pecuniary or other loss whatsoever) arising out of or in any way related to the use of or inability to use the SDK, the provision of or failure to provide support services, or otherwise under or in connection with any provision of this agreement, even in the event of the fault, tort (including negligence), strict liability, breach of contract or breach of warranty of Apptentive, and even if Apptentive has been advised of the possibility of such damages.
+7.
+==========
+Limitation Of Liability
+Limitation of liability and remedies.
+Notwithstanding any damages that customer might incur for any reason whatsoever (including, without limitation, all damages referenced above and all direct or general damages), the entire liability of Apptentive under any provision of this agreement and customer's exclusive remedy for all of the foregoing shall be limited to actual damages incurred by customer based on reasonable reliance up to the greater of the amount actually paid by customer for the SDK or US $5.00.
+The foregoing limitations, exclusions and disclaimers shall apply to the maximum extent permitted by applicable law, even if any remedy fails its essential purpose.
+8.
+==========
+Termination
+(a) Either Party may terminate a Customer's Subscription if: (i) the other materially breaches any term under Terms of Service and fails to cure such breach within thirty (30) days after receipt of written notice; (ii) the other ceases to conduct business; or (iii) the other files for bankruptcy, reorganization or insolvency, or if a similar proceeding for the benefit of its creditors is commenced.
+(b) Following the expiration, cancellation or termination of this Agreement, for any reason, the rights and license granted herein to Customer shall immediately and automatically terminate and Customer shall no longer have the right to use or distribute the Apptentive SDK in any manner, plus, network access to the Service will be stopped and the API-Key will be revoked.
+Customer shall not distribute any Customer Applications that contain the Apptentive SDK thereafter, but Apptentive agrees the Customer Applications containing the Apptentive SDK already distributed to end-users shall not be affected.
+(c) Notwithstanding anything to the contrary above, any termination by Customer under the terms herein shall not relieve Customer of its obligation to pay any and all back, current and future fees that are due under the terms of this Agreement.
+9.
+==========
+Privacy
+Apptentive's current privacy policy is available at the Site (the "Privacy Policy"), which is incorporated by this reference.
+Apptentive strongly recommends that you review the Privacy Policy closely.
+10.
+==========
+Copyright
+All content included by Apptentive on the Site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of Apptentive or its content suppliers and protected by United States and international copyright laws.
+The compilation of all content on the Site is the exclusive property of Apptentive and protected by U.S. and international copyright laws.
+All software used on (or provided through) the Site is the property of Apptentive or its software suppliers and protected by United States and international copyright laws.
+11.
+==========
+Miscellaneous
+(a) Independent Contractor.
+Apptentive operates an independent business apart from Customer.
+Nothing in this Agreement creates a partnership, employer-employee relationship, franchisee-franchisor, or a joint venture between the Parties.
+Each Party is solely responsible for the control and management of its business operations, for obtaining and maintaining all applicable business licenses and insurance, and for the timely payment of all income, payroll, and employment-related taxes, including without limitation all unemployment, workers compensation, income tax withholding, and any other taxes of any nature whatsoever related to its business, unless otherwise specified in Section 4 ("Payments").
+(b) Public Announcements.
+Customer acknowledges that the Apptentive can make public announcements regarding the status of the business relationship and include logos within presentations, the Apptentive's website or in meetings and interviews regarding the Apptentive's business.
+==========
+(c) Assignment.
+Each Party's obligations hereunder may not be assigned, delegated, sublicensed or otherwise transferred without the other Party's prior written consent, unless its to any affiliate or to any surviving party as part of a corporate reorganization, consolidation, merger, or sale.
+In the event of such assignment or attempted assignment by either party, the assigning party shall notify the other party prior to the effective date of assignment, and the other party shall have the right to terminate this Agreement immediately for a period of thirty (30) days after its receipt of notice.
+Subject to the limitations herein, this Agreement will inure to the benefit of and be binding upon the parties, their successors, administrators, heirs, and permitted assigns.
+==========
+(d) Choice of Law.
+The laws of the United States and the State of Delaware shall exclusively govern the interpretation and enforcement of this Agreement, without recourse to its conflicts of laws principles.
+The parties hereby consent to the exclusive jurisdiction of the state and federal courts located in the State of Washington in the United States of America for the adjudication of any and all disputes concerning the interpretation or enforcement of this Agreement.
+(e) Force Majeure.
+If either Party's performance of any of its obligations hereunder is delayed by labor dispute, war, governmental action, flood, fire, explosion or other act of nature or any other matter not within such Party's reasonable control, then the date for performance shall be extended by the time of such delay; provided, however, that the Party subjected thereto shall pursue with reasonable diligence the avoidance or removal of such delay if reasonably feasible.
+==========
+(f) Gender and Number.
+Wherever the context requires, the gender of all words used in this Agreement shall include the masculine, feminine, and neuter, and the number of all words shall include the singular and the plural.
+(g) Costs and Expenses.
+Except as otherwise provided for in this Agreement, each Party shall be responsible for and will bear all costs and expenses incurred by it in connection with the performance of its obligations under this Agreement.
+==========
+(h) Currency.
+All currencies specified herein are in US dollars.
+When any fees to Apptentive are calculated based on a currency other than U.S. currency, the payment to Apptentive must be equal to that of the US dollar amount of the fees listed in the Service Agreement, and Customer shall bear all currency conversion fees, wire transfer fees or any other fees involved with payment.
+For back fees due to Apptentive, payment will be calculated using the exchange rate quoted by Citibank, N.A. for the first business day of the calendar month, which that fee was due.
+==========
+(i) Interpretation.
+The headings and numbering shall not be considered or given effect in construing this Agreement.
+This Agreement shall be construed without regard to the party responsible for the preparation of the same, and shall be deemed to have been prepared jointly by the Parties.
+Any ambiguity or uncertainty existing herein shall not be interpreted against either Party, but according to the application of other rules of contract interpretation.
+(j) Severability.
+In the event that any provision of this Agreement shall for any reason be held to be invalid, illegal or unenforceable in any respect, the remaining provisions shall remain in full force and effect and the affected provision shall be modified in a manner which comes closest to the intention of the parties at the time the original provision was agreed upon.
+(k) Survival.
+The following sections shall survive termination or expiration of this Agreement: 4, 6, 8 and 9 in addition to any other provisions which by their terms or sense are intended to survive.
+==========

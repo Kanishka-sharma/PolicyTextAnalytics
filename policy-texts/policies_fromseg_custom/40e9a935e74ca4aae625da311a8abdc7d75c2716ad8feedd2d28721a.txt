@@ -1,0 +1,226 @@
+These OpenDNS Terms of Service ("Terms of Service") govern your access to and use of the website http://www.opendns.com/ website (the "Site"), the OpenDNS Domain Name System ("DNS") services, any information or data (including, information or data generated or otherwise provided by OpenDNS or its partners through the Service or related services, or otherwise available through the Site that are not Submissions (as defined below), text, software, scripts, graphics, photos, documents and interactive features (the "Content"), and the OpenDNS software and other services associated with the DNS, (taken together, the "Service").
+BY ACCESSING OR USING ANY OF THE SITE OR THE SERVICE YOU (AS THE "CUSTOMER") AGREE THAT CUSTOMER HAS READ, UNDERSTANDS, AND AGREES TO BE BOUND BY THIS TERMS OF SERVICE.
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE ACCESSING THE SITE OR OTHERWISE USING THE SERVICE.
+OPENDNS' ACCEPTANCE IS EXPRESSLY CONDITIONED UPON CUSTOMER'S ASSENT TO ALL OF THE TERMS AND CONDITIONS OF THESE TERMS OF SERVICE, TO THE EXCLUSION OF ALL OTHER TERMS; IF THESE TERMS OF SERVICE ARE CONSIDERED AN OFFER BY OPENDNS, CUSTOMER'S ACCEPTANCE IS EXPRESSLY LIMITED TO THESE TERMS.
+These Terms of Service are effective as of the date Customer first uses the Site or the Service or date Customer clicks the "I Accept" button (whichever is earliest) (the "Effective Date").
+If you are an individual accepting on behalf of an entity Customer, you represent and warrant that: (i) you have full legal authority to bind your employer, or the applicable entity, to these terms and conditions; (ii) you have read and understand these Terms of Service; and (iii) you agree, on behalf of the party that you represent, to these Terms of Service.
+If you do not have the legal authority to bind Customer, please do not use the Site or the Service and do not click the "I Accept" button (if any).
+If you have entered into a separate Master Services Agreement with OpenDNS, and there is any inconsistency between the terms of the Master Services Agreement and the terms of these Terms of Service, to the extent of a conflict, the conflicting terms in such Master Services Agreement will control.
+Currently OpenDNS offers free accounts ("Free Account"), paid deluxe accounts ("Deluxe Account") and paid enterprise accounts ("Enterprise Account").
+==========
+More information on the types of accounts is available at http://www.opendns.com/start/.
+The Site and the Service is available only to individuals who are at least 13 years old or possess legal parental or guardian consent.
+If Customer does not so qualify, do not attempt to use the Service or the Site.
+OpenDNS may refuse to offer the Site or the Service to any person or entity at any time and may change its eligibility criteria, at any time, in its sole discretion.
+==========
+If Customer purchased a paid Deluxe Account or Enterprise Account, OpenDNS will provide the Service to Customer for the term of their subscription.
+OpenDNS will provide Customer with a password and an account to use for administering relevant features of the Service, if applicable.
+OpenDNS reserves the right, at its sole discretion, to modify or replace any of these Terms of Service at any time.
+OpenDNS will notify Customer of material changes to the Terms of Service by taking at least one of the following actions (1) sending an email to the Technical or Administrative Contact that is registered on the Customer account, (2) making notice on the Site (3) through the OpenDNS blog (http://blog.opendns.com/) or (4) alerting the Customer via the account dashboard.
+==========
+Customer's continued use of the Service following the posting of any changes to the Terms of Service constitutes acceptance of those changes.
+OpenDNS may, in the future, offer new services and/or features through the Service (including the release of new tools and resources).
+Such new features and/or services shall be subject to these Terms of Service.
+Customer's continued use of the Service after the introduction of new features and/or services constitutes Customer's acceptance of the Terms of Service.
+The Site and the Service and any Content made available on or through the Service is provided only for Customer's own personal use or Customer's internal business use except as otherwise expressly provided in this paragraph.
+If Customer desires to make any other commercial use of the Site or the Service, including but not limited to customizing, selling or distributing the Service (whether as a stand-alone service or bundled with Customer's services) for consideration of any kind or for no consideration, Customer must first obtain OpenDNS' specific written approval in advance and/or enter into a written agreement with OpenDNS.
+The Service is intended for use described above only and may not be used in connection with any other commercial endeavors except those that are specifically endorsed or approved by OpenDNS in writing.
+Except for distributions for the use described above to Customer's employees or independent contractors for Customer's internal business use and in compliance with these Terms of Service, Customer may not distribute or otherwise commercially exploit or make available to any third party the Service, or any part thereof, in any way.
+If Customer is a person, entity or service provider that manages or administers the OpenDNS account of a third party for the third party's internal business or personal use only, Customer (i) may use the Service in the support of the third party that uses the Service for their own personal or internal business use, all in compliance with all applicable laws, rules and regulations (ii) shall not use, administer or manage the Service in violation of these Terms of Service, (iii) acknowledges and agrees that the OpenDNS Service and account is for the benefit of the OpenDNS customer only and upon any termination of Customer's relationship with the third party, the third party will be free to use, manage and administer the Service on its own, (iv) agrees not to charge for the Service and to ensure that the third party understands that any fees that Customer charges are solely for Customer's services and not for the Service, (v) shall not frame this Site, the Service or its content in any manner, and (vi) shall not, and shall not attempt to, block or remove any advertisements contained in or offered through the Service.
+==========
+Any unauthorized use of the Service is expressly prohibited.
+Unless OpenDNS' specifically agrees in writing, Customer will not, and will use commercially reasonable efforts to make sure a third party does not (a) make any commercial use of the Site, Content or the Service, including but not limited to customizing, selling, reselling, distributing or the functional equivalent, the Service (whether as a stand-alone service or bundled with Customer's services) for consideration of any kind or for no consideration; (b) distribute or otherwise commercially exploit or make available to any third party the Service, or any part thereof, in any way; (c) directly or indirectly, modify, translate, decompile, disassemble, or reverse engineer any part of the Service or any Content available through the Site (except to the limited extent applicable laws specifically prohibit such restriction); (d) copy, rent, lease, distribute, or otherwise transfer any or the rights that Customer receives hereunder; (e) remove any proprietary notices or labels; (f) use any robot, spider, scraper or other automated means to access the Site or the Service for any purpose without OpenDNS' express written permission; (g) interfere or attempt to interfere with the proper working of the Site or the Service or any activities conducted on the Site or the Service; (h) bypass any measures OpenDNS may use to prevent or restrict access to the Site or the Service.
+Any unauthorized use of the Site or the Service is expressly prohibited.
+Customer will not use the Site or the Service for any purpose that is unlawful or prohibited by these Terms of Service and agrees to abide by all applicable local, state, national and international laws and regulations.
+Customer promises not to use the Site or the Service for any purpose that is unlawful or prohibited by these Terms of Service.
+Customer agrees to abide by all applicable local, state, national and international laws and regulations.
+==========
+By way of example, and not as a limitation, Customer agrees not to (or permit others to) :(a) take any action or (b) upload, download, post, submit or otherwise distribute or facilitate distribution of any Customer submissions ("Submissions") such as, without limitation, postings to the OpenDNS Community, comments, text, communications, software, images, sounds, data or other materials or information) using any communications service or other service available on or through the Service, that:
+infringes any patent, trademark, trade secret, copyright, right of publicity or other right of any other person or entity;
+is unlawful, threatening, abusive, harassing, defamatory, libelous, deceptive, fraudulent, invasive of another's privacy, tortuous, obscene, offensive, profane or which otherwise violates the Terms of Service;
+constitutes unauthorized or unsolicited advertising, junk or bulk e-mail ("spamming");
+imposes an unreasonable or disproportionately (in the sole judgment of OpenDNS) large load on OpenDNS' computing, storage or communications infrastructure, or attempts to gain unauthorized access to the Service, other accounts, computer systems or networks connected to the Service, through password mining or otherwise;
+contains software viruses or any other computer codes, files, or programs that are designed or intended to disrupt, damage, limit or interfere with the proper function of any software, hardware, or telecommunications equipment or to damage or obtain unauthorized access to any system, data or other information of OpenDNS or any third party; or
+impersonates any person or entity, including, without limitation, any employee or representative of OpenDNS.
+Customer will not use any robot, spider, scraper or other automated means to access the Service for any purpose without OpenDNS' express written permission.
+Additionally, Customer will not: (i) interfere or attempt to interfere with the proper working of the Service or any activities conducted on the Service; or (ii) bypass any measures OpenDNS may use to prevent or restrict access to the Service.
+Customer shall not (and Customer shall not permit others to), directly or indirectly, modify, translate, decompile, disassemble, or reverse engineer any part of the Service or any Content available through the Site (except to the limited extent applicable laws specifically prohibit such restriction); or copy, rent, lease, distribute, or otherwise transfer any or the rights that Customer receives hereunder.
+In addition, Customer shall not remove any proprietary notices or labels.
+==========
+Customer may not harvest or collect information, including, without limitation, screen names, about other members or users of the Service.
+The use of any information learned through the Service or while in the Site is limited to the express purposes set forth in these Terms of Service; all other uses, including, without limitation, sending unsolicited bulk e-mail, are strictly prohibited.
+OpenDNS may remove any Content and Submissions at any time for any reason (including, but not limited to, upon receipt of claims or allegations from third parties or authorities relating to such Content or Submissions).
+Customer may not harvest or collect information, including, without limitation, screen names, about other members or users of the Site or the Service.
+The use of any information learned through the Service or while in the Site is limited to the express purposes set forth in these Terms of Service; all other uses, including, without limitation, sending unsolicited bulk e-mail, are strictly prohibited.
+OpenDNS may, at its sole discretion, immediately terminate Customer's access to the Site and/or the Service should Customer's conduct fail to conform strictly and terms or conditions of these Terms of Service, including, without limitation, with any provision of this section.
+==========
+I. Content and Submissions.
+a. OpenDNS Content Generally.
+Customer agrees that the Site and Service contains Content specifically provided by OpenDNS or its partners and that such Content is protected by copyrights, trademarks, service marks, patents, trade secrets or other proprietary rights and laws.
+Except as expressly authorized by OpenDNS in writing, Customer agrees not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from such Content.
+==========
+OpenDNS has no obligation to monitor the Site, Service, or Content.
+Use of the Content for any purpose not expressly permitted in these Terms of Service is prohibited.
+Any rights not expressly granted herein are reserved.
+==========
+b. Submissions Posted by User(s).
+OpenDNS provides features through the Service which allow users to upload, submit, disclose, distribute or otherwise post Submissions at or on the Site or otherwise through the Service (such as through the OpenDNS Community).
+If OpenDNS provides such features, Customer:
+grants to OpenDNS, its affiliates and their assignees the perpetual, irrevocable, non-exclusive, royalty-free right to use, reproduce, display, perform, adapt, modify, distribute, make derivative works of and otherwise exploit such Submissions in any form and for any purpose, including without limitation, any concepts, ideas or know-how embodied therein;
+represents and warrants to OpenDNS that Customer owns or otherwise controls all rights to such Submissions and that disclosure and use of such Submissions by OpenDNS (including without limitation, publishing content at the Site) will not infringe or violate the rights of any third party; and
+acknowledges that such Submissions may not be treated confidentially.
+Customer agrees not to provide OpenDNS with any information that Customer desires or is required to keep secret.
+If Customer is enabled to post Submissions as contemplated by this subsection (b) Customer is solely responsible for the Submissions Customer posts on or through the Service.
+OpenDNS does not endorse and has no control over the Submissions posted or otherwise provided by users.
+OpenDNS reserves the right to, immediately and without notice, delete or otherwise remove any user Submissions that, in OpenDNS' sole discretion it determines, violates these Terms of Service or which may be offensive, illegal or violate the rights, harm, or threaten the safety of any person.
+==========
+A. Third Party Sites.
+The Service or the Site may permit Customer to link to other websites or resources on the Internet, and other websites or resources may contain links to the Site.
+These other websites are not under OpenDNS' control, and Customer acknowledges that OpenDNS is not responsible or liable for the content, functions, accuracy, legality, appropriateness or any other aspect of such websites or resources.
+The inclusion of any such link does not imply endorsement by OpenDNS or any association with its operators.
+Customer further acknowledges and agrees that OpenDNS shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such website or resource.
+==========
+B. Registration.
+As a condition to using the Service, Customer will be required to register with OpenDNS by providing information to be specified during the registration process and additionally providing an email address and selecting a password to be used to access the service.
+Customer shall provide OpenDNS with accurate, complete, and updated registration information.
+Failure to do so shall constitute a breach of the Terms of Service, which may result in immediate termination of Customer's OpenDNS account.
+In addition, Customer agrees to maintain and update Customer's registration information to ensure that it is accurate and complete at all times.
+==========
+If Customer creates a username or display name ("OpenDNS ID"), Customer may not (i) select or use as an OpenDNS ID a name of another person with the intent to impersonate that person; (ii) use as an OpenDNS ID a name subject to any rights of a person other than Customer without appropriate authorization; or (iii) use as an OpenDNS ID a name that is otherwise offensive, vulgar or obscene.
+OpenDNS reserves the right to refuse registration of, or cancel an OpenDNS ID in its sole discretion.
+Customer is solely responsible for activity that occurs on Customer's account and shall be responsible for maintaining the confidentiality of Customer's OpenDNS password.
+==========
+Customer may never use another user's account without such other user's express permission.
+Customer will immediately notify OpenDNS in writing of any unauthorized use of Customer's account, or other account related security breach of which Customer is aware.
+C. Electronic Communications
+By using the Site, Customer consents to receiving electronic communications from OpenDNS.
+These electronic communications may include notices about applicable fees and charges, transactional information and other information concerning or related to our Site and Service.
+These electronic communications are part of Customer's relationship with OpenDNS and Customer receives them as part of Customer's subscription to the Site and/or Service.
+Customer agrees that any notices, agreements, disclosures or other communications that we send Customer electronically will satisfy any legal communication requirements, including that such communications be in writing.
+D. Payment Terms
+a. Deluxe Account Holders
+If Customer has purchased a paid Deluxe subscription to the Site and Service from OpenDNS, Customer is expressly agreeing that OpenDNS is permitted to bill Customer the applicable fees, any applicable tax and any other charges Customer may incur with OpenDNS in connection with Customer's use of the Site and/or Service and that the fees will be billed to the credit card or Customer's PayPal account Customer provides in accordance with the billing terms in effect at the time a fee or charge is due and payable.
+If payment is not received or cannot be charged to Customer's credit card or PayPal account for any reason in advance of the applicable subscription period, OpenDNS reserves the right to either suspend or terminate Customer's access to the Site and/or any Service and terminate these Terms of Service.
+Subscription fees are payable in U.S. Dollars and based on Service purchased and not on actual usage.
+All fees are non-refundable.
+==========
+In addition, Customer's subscription will automatically renew for additional, successive subscription periods equal in duration to the initial subscription period that Customer initially purchased unless Customer terminates Customer's subscription prior to the next renewal period.
+Customer acknowledges and agrees that OpenDNS will automatically charge Customer's credit card or PayPal account on record with OpenDNS for the then-current subscription period upon the commencement of any renewal period.
+Customer will provide OpenDNS with valid and updated credit card or PayPal information and Customer authorizes OpenDNS to charge such credit card or PayPal account for all purchased subscriptions and renewals.
+==========
+Customer may terminate Customer's subscription to the Site and Service at any time and Customer will not be obligated to pay any additional fees for upcoming subscription renewal periods but any subscription fees Customer has paid in advance will not be refunded.
+b. Enterprise Account Holders
+If Customer has purchased a paid Enterprise subscription to the Site and Service from OpenDNS, Customer is expressly agreeing that OpenDNS is permitted to bill Customer the applicable fees, any applicable tax and any other charges Customer may incur with OpenDNS in connection with Customer's use of the Site and/or Service.
+All fees shall be due and payable upon the commencement of the Subscription Term and on the first day of each renewal Term.
+==========
+Delinquent payments shall bear interest at the rate of one-and-one-half percent (1.5%) per month (or the highest rate permitted by law, if less) from the payment due date until paid in full.
+Customer will be responsible for all reasonable expenses (including attorneys' fees and costs) incurred by OpenDNS in collecting unpaid or delinquent amounts.
+OpenDNS reserves the right to suspend the Service (of which it shall provide advance notice, which may be by email) until Customer pays all past due amounts.
+All fees are non-refundable.
+==========
+E. Term and Termination.
+a. Free Account Holders
+If Customer has not purchased a paid subscription to the Site and Service, OpenDNS may terminate Customer's access to all or any part of the Service at any time, with or without cause, with or without notice, effective immediately.
+If Customer wishes to terminate these Terms of Service or Customer's OpenDNS account (if Customer has one), Customer may simply discontinue using the Service.
+b. Deluxe and Enterprise Account Holders
+OpenDNS may suspend or terminate access to all or any part of the Service to any Customer at any time and terminate these Terms of Service, if: (i) Customer materially violates these Terms of Service; (ii) OpenDNS provides Customer with commercially reasonable notice of this violation (which may be by email to the Notification Email Address); (iii) OpenDNS uses commercially reasonable efforts to discuss and resolve the violation with Customer; and (iv) despite the foregoing, the violation is not resolved to OpenDNS' reasonable satisfaction, then OpenDNS reserves the right to suspend administrative access to the Service, or to particular components of the Service.
+If, after all of the foregoing, Customer still has not cured a violation within thirty days of the commencement of a suspension under this Section, then OpenDNS may immediately terminate the Service for cause.
+If Customer wishes to terminate these Terms of Service or Customer's OpenDNS account (if Customer has one), Customer may simply discontinue using the Service.
+All provisions of the Terms of Service which by their nature should survive termination shall survive any termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+==========
+F. No Warranties.
+EXCEPT AS EXPRESSLY PROVIDED ABOVE, THE SERVICE, SITE AND ALL CONTENT, SUBMISSIONS, PRODUCTS AND SERVICES INCLUDED IN OR AVAILABLE THROUGH THE SITE, ARE PROVIDED "AS IS" AND "AS AVAILABLE."
+THE SERVICE, SITE AND CONTENT, SUBMISSIONS, PRODUCTS AND SERVICES ARE PROVIDED WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED.
+==========
+OPENDNS, AND ITS AGENTS, PARTNERS, SUPPLIERS AND CONTENT PROVIDERS DO NOT WARRANT THAT: (A) ANY CONTENT OR SUBMISSIONS, INCLUDING, WITHOUT LIMITATION, ANY RESULTS, DATA, OR INFORMATION OBTAINED THROUGH THE SERVICE WILL BE ACCURATE, RELIABLE, OR COMPLETE; (B) THE SERVICE WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; (C) ANY DEFECTS OR ERRORS WILL BE CORRECTED; (D) THE CONTENT OR SUBMISSIONS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (E) THE RESULTS OF USING THE SERVICE, OR OBTAINING PRODUCTS THROUGH THE SERVICE, WILL MEET CUSTOMER'S REQUIREMENTS.
+CUSTOMER'S USE OF THE SERVICE IS SOLELY AT CUSTOMER'S OWN RISK.
+NEITHER OPENDNS NOR ITS AGENTS, PARTNERS, SUPPLIERS OR CONTENT PROVIDERS MAKES ANY WARRANTIES OF ANY KIND IN REGARD TO ANY CONTENT, SUBMISSIONS, OPINIONS, ADVICE AND ALL OTHER INFORMATION EXPRESSED OR POSTED BY USERS OF THIS SITE.
+==========
+G. Limitation of Liability.
+IN NO EVENT SHALL OPENDNS, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, OR SUPPLIERS BE LIABLE UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL THEORY WITH RESPECT TO THE SITE, THE SERVICES OR ANY CONTENT OR PRODUCTS ACCESSIBLE THROUGH THE SITE AND SERVICE (I) FOR ANY LOST PROFITS OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER, SUBSTITUTE GOODS OR SERVICES (HOWEVER ARISING), (II) FOR ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE (REGARDLESS OF THE SOURCE OF ORIGINATION), (III) FOR ANY ERRORS, OMISSIONS, OR INACCURACIES IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF CUSTOMER'S USE OF ANY CONTENT OR SUBMISSIONS POSTED, EMAILED, TRANSMITTED OR OTHERWISE MADE AVAILABLE AT OR THROUGH THE SITE AND SERVICE.
+IN NO EVENT SHALL OPENDNS' AGGREGATE LIABILITY TO CUSTOMER OR ANY THIRD PARTY ARISING OUT OF THESE TERMS OF SERVICE, THE SITE OR THE SERVICE EXCEED THE GREATER OF THE AMOUNT CUSTOMER PAID OPENDNS IN THE PRECEDING TWELVE (12) MONTHS AND THE AMOUNT OF FIFTY DOLLARS ($50.00).
+SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS AND EXCLUSIONS MAY NOT APPLY TO CUSTOMER.
+CUSTOMER SPECIFICALLY ACKNOWLEDGES THAT OPENDNS SHALL NOT BE LIABLE FOR ANY SUBMISSIONS OR USER CONDUCT.
+==========
+H. Indemnification.
+a. Free Account Holders, Deluxe Account Holders and Enterprise Account Holders
+Customer, at its expense, shall indemnify, defend and hold harmless OpenDNS, its affiliates and their employees, contractors, officers, directors and representatives from all liabilities, claims, and expenses, including reasonable attorneys' fees, that arise from Customer's (i) use or misuse of the Service that is in violation of the Terms of Service or violates applicable law; (ii) access to the Site, use of the Service, Submissions, in violation of the Terms of Service; or, (iii) the infringement by Customer, or any third party using Customer's account, of any intellectual property or other right of any person or entity.
+OpenDNS reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by Customer, in which event Customer will assist and cooperate with OpenDNS in asserting any available defenses.
+b. Enterprise Account Holders
+If Customer has purchased a paid Enterprise subscription to the Site and Service from OpenDNS, OpenDNS, at its expense, shall indemnify, defend and hold harmless Customer against any losses, costs and damages arising from a claim by a third party against Customer that the Service infringe any United States patent issued as of the Effective Date or misappropriates any protected trade secret; provided that Customer will provide OpenDNS with (i) prompt written notice of the claim, (ii) sole control over the defense or settlement (provided, however, that any such settlement shall not result in financial liability on Customer or require its admission of any fault without its prior written consent), and (iii) reasonable support and cooperation with regard to the defense.
+==========
+In the event that OpenDNS' right to provide the Service is enjoined or in OpenDNS' reasonable opinion is likely to be enjoined, OpenDNS may, at its expense, obtain the right to continue providing the Service, replace or modify the Service so that they become non-infringing but remain functionally equivalent, or if such remedies are not reasonably available, terminate this Contract without liability to Customer.
+OpenDNS shall have no indemnification liability under this Indemnification Section or otherwise to the extent a claim or suit is based upon (a) use of the Service in combination with software or hardware not provided by OpenDNS if infringement would have been avoided in the absence of such combination, (b) modifications to the Service not made by OpenDNS, if infringement would have been avoided by the absence of such modifications, (c) use of any version other than a current release of the Service, if infringement would have been avoided by use of a current release.
+I. International/Non-California Use.
+OpenDNS makes no representation that the Content or Submissions are appropriate or available for use in locations outside of California, and accessing the Service is prohibited from territories where such Content or Submissions are illegal.
+If Customer accesses the Service from other locations, Customer does so at Customer's own initiative and is responsible for compliance with local laws.
+==========
+J. Dispute Resolution.
+A printed version of these Terms of Service and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to these Terms of Service to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form.
+Customer and OpenDNS agree that any cause of action arising out of or related to the Service must commence within one (1) year after the cause of action arose; otherwise, such cause of action is permanently barred.
+These Terms of Service shall be governed by and construed in accordance with the laws of the State of California, excluding its conflicts of law rules, and the United States of America.
+Customer expressly agrees that the exclusive jurisdiction for any claim or action arising out of or relating to these Terms of Service or Customer's use of this Site or Service shall be filed only in the state or federal courts located in San Francisco County, California and Customer further agrees and submits to the exercise of personal jurisdiction of such courts for the purpose of litigating any such claim or action.
+==========
+Use of the Service is not authorized in any jurisdiction that does not give effect to all provisions of these Terms of Service, including without limitation, this section.
+K. Integration and Severability
+These Terms of Service are the entire agreement between the Customer and OpenDNS with respect to the Service and use of this Site, and supersede all prior or contemporaneous communications and proposals (whether oral, written or electronic) between Customer and OpenDNS with respect to this Site (but excluding the use of any software which may be subject to a separate end-user license agreement).
+If any provision of the Terms of Service is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that the Terms of Service will otherwise remain in full force and effect and enforceable.
+==========
+L. Miscellaneous.
+These Terms of Service and the Customer's use of the Site and Service contemplated hereunder are personal to Customer, and are not assignable, transferable or sublicensable by Customer except with OpenDNS' prior written consent.
+OpenDNS may assign, transfer or delegate any of its rights and obligations hereunder without consent.
+==========
+All waivers and modifications must be in a writing signed by both parties, except as otherwise provided herein.
+No agency, partnership, joint venture, or employment relationship is created as a result of these Terms of Service and neither party has any authority of any kind to bind the other in any respect.
+In any action or proceeding to enforce rights under these Terms of Service, the prevailing party will be entitled to recover costs and attorneys' fees.
+All notices under these Terms of Service will be in writing and will be deemed to have been duly given when received, if personally delivered or sent by certified or registered mail, return receipt requested; when receipt is electronically confirmed, if transmitted by facsimile or e-mail; or the day after it is sent, if sent for next day delivery by recognized overnight delivery service.
+==========
+M. Copyright and Trademark Notices.
+Unless otherwise indicated, all Content provided by OpenDNS is copyright ©2006-2010 OpenDNS Incorporated.
+All rights reserved.
+OpenDNS and PhishTank are either trademarks or registered trademarks of OpenDNS Incorporated.
+The names of actual companies and products mentioned at the Site may be the trademarks of their respective owners.
+N. Digital Millennium Copyright Act Notice.
+OpenDNS has adopted the following policy toward copyright infringement in accordance with the Digital Millennium Copyright Act (http://lcweb.loc.gov/copyright/legislation/dmca.pdf).
+==========
+The address of OpenDNS' Designated Agent to Receive Notification of Claimed Infringement ('Designated Agent') is listed at the end of this policy.
+It is OpenDNS' policy to (1) block access to or remove Submissions and content posted by users that it believes in good faith to be copyrighted material that has been illegally copied and distributed by any of our advertisers, affiliates, content providers, members or users; and (2) remove and discontinue providing the Service to repeat offenders.
+a. Procedure for Reporting Copyright Infringements:
+If Customer believes that Submissions or content residing on or accessible through the Site or Service infringes a copyright, please send a notice of copyright infringement containing the following information to the Designated Agent listed below:
+A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed;
+Identification of works or materials being infringed;
+Identification of the Submissions or content that is claimed to be infringing including information regarding the location of the Submissions or content that the copyright owner seeks to have removed, with sufficient detail so that OpenDNS is capable of finding and verifying its existence;
+Contact information about the notifier including address, telephone number and, if available, e-mail address;
+A statement that the notifier has a good faith belief that the Submissions or content is not authorized by the copyright owner, its agent, or the law; and
+A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner.
+b.
+==========
+Once Proper Bona Fide Infringement Notification is Received by the Designated Agent:
+It is OpenDNS' policy:
+to remove or disable access to the infringing Submissions or content;
+to notify the Submissions or content provider, member or user that it has removed or disabled access to the Submissions or content; and
+that repeat offenders will have the infringing Submissions or content removed from the system and that OpenDNS will terminate such content provider's, member's or user's access to the Service.
+c. Procedure to Supply a Counter-Notice to the Designated Agent:
+If the Submissions or content provider, member or user believes that the Submissions or content that was removed or to which access was disabled is either not infringing, or the Submissions or content provider, member or user believes that it has the right to post and use such Submissions or content from the copyright owner, the copyright owner's agent, or pursuant to the law, the content provider, member or user must send a counter-notice containing the following information to the Designated Agent listed below:
+A physical or electronic signature of the Submissions or content provider, member or user;
+Identification of the Submissions or content that has been removed or to which access has been disabled and the location at which the Submissions or content appeared before it was removed or disabled;
+A statement that the Submissions or content provider, member or user has a good faith belief that the Submissions or content was removed or disabled as a result of mistake or a misidentification of the Submissions or content; and
+Submissions or content provider's, member's or user's name, address, telephone number, and, if available, e-mail address and a statement that such person or entity consents to the jurisdiction of the Federal Court for the judicial district in which the content provider's, member's or user's address is located, or if the Submissions or content provider's, member's or user's address is located outside the United States, for any judicial district in which OpenDNS is located, and that such person or entity will accept service of process from the person who provided notification of the alleged infringement.
+If a counter-notice is received by the Designated Agent, OpenDNS' may send a copy of the counter-notice to the original complaining party informing that person that it may replace the removed Submissions or content or cease disabling it in 10 business days.
+Unless the copyright owner files an action seeking a court order against the Submissions or content provider, member or user, the removed Submissions or content may be replaced, or access to it restored, in 10 to 14 business days or more after receipt of the counter-notice, at OpenDNS' discretion.
+Please contact OpenDNS' Designated Agent to Receive Notification of Claimed Infringement at the following address:
+Designated Agent
+OpenDNS
+410 Townsend Street, Suite 250
+San Francisco, CA 94107
+United States of America
+Phone: 415-344-3118
+Fax: 415-344-3252
+Email: terms-of-use@opendns.com
+Creative Commons.
+==========
+This work (the Terms of Service) is licensed under a Creative Commons Attribution-ShareAlike 2.5 License.
+We would appreciate a link to our home page http://www.opendns.com/ if Customer does use the work, though the link is not required.
+Contact.
+OpenDNS' full contact information, including location, may be found on our Contact page at http://www.opendns.com/about/contact/.
+==========

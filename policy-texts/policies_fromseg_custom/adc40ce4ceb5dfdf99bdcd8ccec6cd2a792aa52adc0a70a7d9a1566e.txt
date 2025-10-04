@@ -1,0 +1,1193 @@
+Overview
+Policies
+Process
+Searchable Online Documentation
+Our online documentation system includes installation guides and manuals, is easily searchable, and allows you to quickly find information.
+View Documentation
+Peer-to-Peer Support
+Search for answers, ask questions, and network with your peers in the Meraki Community.
+Visit the Community
+Meraki Support Includes
+Enterprise support at no additional cost
+Cisco Meraki’s simple, all-inclusive pricing includes enterprise-class phone support.
+==========
+We will help you deploy your first network or troubleshoot global network issues and other unforeseen emergencies at no additional cost.
+Deep expertise and fanatical service
+Our support engineers have deep expertise in enterprise networking and wireless design.
+The Cisco Meraki support team sits alongside the engineers who build Cisco Meraki products, providing a wealth of expertise.
+Real time cloud-based support tools
+Cisco Meraki support engineers use real time web-based tools to securely and quickly diagnose and troubleshoot your network, providing the speed and service of an on-site visit without the hassle.
+The best support call is the one you don't have to make
+Cisco Meraki self-provisioning hardware, automatic firmware updates, automatic network optimization, intuitive user interface and built-in contextual help dramatically reduce support incidents, providing reliable and hassle free enterprise networking.
+==========
+Case-based support viewable in dashboard
+Firmware and software upgrades and updates
+24×7 telephone support based out of San Francisco, London, and Sydney technical assistance centers
+Contact Support
+Telephone support
+US / North America
+Finland
+France
+Germany
+Netherlands
+Poland
+Saudi (KSA)
+Spain
+Sweden
+Switzerland
+Turkey
+United Kingdom
+UAE
+Australia / Asia-Pacific
+China
+Hong Kong
+India
+Indonesia
+Japan
+Korea
+Malaysia
+New Zealand
+Philippines
+Singapore
+Taiwan
+Thailand
+Vietnam
+Costa Rica
+Dominican Republic
+Mexico
+Panama
+Puerto Rico
+Argentina
+Brazil
+Chile
+Colombia
+Peru
+Note
+You will need your Cisco Meraki account number in order to access telephone support.
+This number is available on the help tab of the Meraki dashboard.
+Process
+Introduction and General Philosophy
+This page outlines the process by which Meraki coordinates and delivers its technical support responses to its customers.
+All processes outlined throughout this page apply to all Cisco Meraki products.
+Cisco Meraki's general philosophy is to:
+Provide the highest quality and fastest possible support directly to Cisco Meraki customers.
+Deliver customer satisfaction; internally, the Cisco Meraki support team is evaluated on their customer satisfaction metrics and are responsible for delivering consistent measured customer satisfaction.
+Ensure Cisco Meraki authorized resellers are properly supported during field installations and troubleshooting activities, assuming the support request is in regards to a currently licensed Meraki product.
+Effectively track and coordinate customer interactions and support activities.
+==========
+Meraki Support Paradigm
+All customers have an explicit support owner at all times.
+Normally this is a Cisco Meraki support team member; however, during pre-sales product it could be a Cisco Meraki Systems Engineer, VAR, or other field sales resource.
+All legitimate support requests are the responsibility of Cisco Meraki Support until closure, unless there is explicit agreement between Meraki Support and the customer to transfer management of the case to another party.
+Unless discussed and agreed to by Cisco Meraki Support, all customer support communication flows through the Cisco Meraki Support Team.
+This ensures:
+Proper case management and recording
+Proper follow up is achieved throughout case lifecycle
+Customer satisfaction is the responsibility of the Cisco Meraki Support Team.
+If a case is reassigned to another Meraki resource, or a Cisco Meraki authorized reseller, Cisco Meraki reserves the right to expect timely response from that party or Meraki Support may intervene to ensure customer satisfaction.
+Privacy
+The Cisco Meraki cloud management platform provides Support engineers with rich visibility into customer networks, resulting in faster diagnosis and resolution of cases.
+==========
+Our policies, outlined below, ensure that customer information is only accessed with prior consent, for the purposes of resolving a support case.
+Support will not view customers' network configuration without prior consent
+Support will not modify customers' network without prior consent
+On rare occasions, support may view network status without prior notice to identify and diagnose system-wide issues.
+In these cases, network configuration information, including security settings and policies, will not be accessed.
+==========
+Customers may remove Support's access to a network entirely by selecting "Prevent Meraki support from viewing this organization" in the Dashboard.
+Once checked, Support will not be able to access any aspect of the network.
+Customers will need to uncheck this box if technical assistance is required.
+==========
+Hours and SLAs
+Meraki support operates 24x7 support out of five support centers based in San Francisco, Chicago, London, Shanghai, and Sydney.
+Meraki has no support-specific licensing.
+Customers may open an unlimited number of support cases with the purchase of any device license, and can contact Meraki by phone or email.
+Service providers and resellers who offer fully managed network services using Meraki devices likewise may open an unlimited number of support cases and interact directly with Meraki support centers.
+End customers (i.e. guests at a hotel) accessing networks supported or provided by service providers will contact the help desk for that Meraki Partner.
+==========
+Cloud Infrastructure
+Cisco Meraki’s cloud infrastructure is covered under a 99.99% SLA and the Cisco Meraki Infrastructure team manages it 24×7×365 to ensure high availability.
+In the extremely unlikely event of a cloud infrastructure interruption, user traffic and data continues to flow, and Meraki Support provides an emergency support SLA of 15 minutes.
+Hours of Operation and SLA
+Online / email support
+Non-emergency support cases opened via email will be answered within one business day; usually within 2 hours.
+Emergency support is offered exclusively via telephone to ensure that Meraki engineers can conduct appropriate troubleshooting and technical response.
+Phone support
+Phones at Meraki technical support centers are staffed 24×7×365 to ensure that one-on-one, phone-based technical support is always available from Meraki’s technical support engineers.
+RMA Shipping
+Meraki Support will ship new devices overnight from global distribution centers to a customer-specified location within 1 business day of any support case requiring the Advanced Replacement RMA of any device.
+Delivery times to certain countries or remote destinations can vary.
+Pro Networks
+For Hours/SLA information on legacy Meraki “Pro” networks, please contact Meraki Support.
+Case Escalations
+In the event that any case cannot be immediately resolved, Meraki Support will escalate that case to appropriate engineering personnel within Support, Product and Sales Engineering according to the following schedule and priorities.
+Generally, escalations are major issues that require notification and/or intervention by key portions of the company in order to ensure timely issue resolution.
+==========
+Priority Levels
+Priority 1 — Major Impact: The network is inoperable or the performance of the network is so severely reduced that Licensee cannot reasonably continue to operate the network because of the Error and the Error cannot be circumvented with a Workaround.
+Priority 2 — Moderate Impact: The network’s performance is significantly degraded such that Licensee’s Use of the network as permitted is materially impaired, but the Error can be circumvented with a Workaround.
+Priority 3 — Minor Impact: Licensee is experiencing a performance, operational, or functional Error that can be circumvented with a Workaround and the Error causes only minimal impact to the Licensee’s ability to Use the network as authorized.
+Priority 4 — General Questions: There is no issue with network performance or operation.
+These include standard questions on network configuration or functionality, network enhancement requests, or documentation clarification.
+==========
+Cisco Meraki will trigger case escalations as necessary by priority level to ensure timely resolution of all cases.
+Service Levels
+Priority
+Cisco Meraki Acknowledgment
+Cisco Meraki Case Escalation
+Priority 1
+One (1) hour*
+Four (4) hours
+Priority 2
+Four (4) hours
+Eight (8) hours (next business day)
+Priority 3
+Four (4) hours
+Five (5) days
+Priority 4
+Eight (8) hours
+Five (5) days
+Escalation Triggers
+A case may be escalated based on any of the following criteria:
+Recommendation by Cisco Meraki personnel including
+Technical Support Engineer
+Systems Engineer
+Cisco Meraki Management
+Response time: failure to provide response or resolution within the timeframes described in the service level section above may generate an escalation.
+Issue severity: system outage automatically generates an escalation.
+Other severe product issues may generate an escalation at the discretion of Cisco Meraki personnel listed above.
+Customer satisfaction related matters: failure to fully satisfy the customer may generate a case escalation
+Notification list and notification methodology
+In the event that a case is escalated, the following persons will be notified and kept apprised of the issue until de-escalation:
+Tier 1
+The Customer
+Customer’s Account Representative
+Customer’s Systems Engineer
+Techical Support Engineer owning the case
+Tier 2
+Director of Services
+Engineer owning any associated bug/feature
+Tier 3
+V.P. of Sales
+V.P. of Engineering
+V.P. of Product Management
+Escalation Actions
+The team above is notified of the escalation in order of severity.
+If fully escalated, Director of Services takes ownership of issue until resolution.
+Assemble appropriate team from persons listed above to assess the issue and develop a resolution plan, and communicate plan to the customer:
+Specific actions to be taken in order to resolve the issue
+Issue owners
+Due date/time for each action
+Explicit agreement from engineering management for resources to perform engineering tasks
+Decision on whether or not to dispatch on site service
+Decision on the next escalation meeting
+Decision to de-escalate
+Plan is agreed upon and executed
+Case is resolved and customer is informed
+Warranty Returns (RMA)
+To comply with best practices, all RMA requests should only be processed after a technical support case has been opened and proper troubleshooting has taken place.
+==========
+Products covered by the Cisco Meraki lifetime warranty are eligible for advance replacement.
+Advance replacement orders will ship within 1 business day.
+All Cisco Meraki hardware products come with either a one-year or lifetime warranty, as specified on the relevant Cisco Meraki data sheet.
+In the event a customer RMA request is approved, Cisco Meraki will email an RMA number and a return shipping label free of charge.
+Any replacement unit will ship within five business days of receiving defective units as stock allows.
+If no defect is found, the RMA request will be rejected and the customer will be notified.
+==========
+Policies
+Product End-of-Life (EOL) Policy
+Return Policy and Requesting a RMA
+Privacy Policy
+Website Terms of Use
+Shipping Policy
+End Customer Agreement
+Licensing
+Open Source/Licenses
+Third Party Licenses
+SM Free 100 Terms and Conditions
+Product End-of-Life (EOL) Policy
+Cisco Meraki may find it necessary to discontinue products for a number of reasons, including product line enhancements, market demands, technology innovation, or the products simply mature over time and are replaced by functionally richer products.
+We have set our end-of-life (EOL) policy to help customers better manage their product end-of-life transition.
+When a product reaches EOL, Meraki is committed to communicating important milestones throughout the EOL period.
+These notifications will include the initial EOL notification, the End of Sale (EOS) announcement, and the End of Support (EOST) dates, as well as other key information pertaining to Cisco Meraki products.
+Any products being discontinued will be announced as End of Sale and identified on the Cisco Meraki website up to six months prior to the discontinuation and EOS date (also known as the last order date).
+On the end of sale date, discontinued hardware products and related device-specific licenses are removed from the price list and are no longer available for purchase.
+Cisco Meraki typically provides support for a given product for a period of seven (7) years after the EOS date.
+If the discontinued product is not available for replacement or repair of an in-warranty return, Cisco Meraki may replace the discontinued product with functionally equivalent hardware and transfer the remaining license term from the replaced product to the replacement hardware.
+Although legacy Cisco Meraki products typically can connect to our cloud-based management software for the entire useful life of the product, following the EOST Date, some things may change, including the following:
+Cisco Meraki cannot guarantee that legacy hardware products will be able to connect to the management software indefinitely following the EOST Date;
+Cisco Meraki Technical Support may no longer troubleshoot the legacy hardware products;
+Cisco Meraki may no longer issue firmware updates or patches for the legacy products; and
+New software features available for the management software may not be compatible with the legacy hardware functionality or with the firmware running on the legacy hardware.
+If either of the first two situations above occurs, then we will use our best efforts to provide the customer with a workable solution for upgrading from the legacy hardware and, failing that, will credit the value of any remaining license time attributable to the legacy hardware to the customer’s Dashboard organization on a prorated basis.
+==========
+Summary
+End-of-Sale Announcement: Date of official end-of-sales notice, typically six months prior to the last order date.
+End-of-Sale (EOS) Date: The last date to order the product through Cisco Meraki point-of-sale outlets.
+After this date, the product is no longer for sale via any channel.
+End-of-Support (EOST) Date: The last date a product will be affirmatively supported by Cisco Meraki, typically seven years following the EOS Date.
+End-of-Life Products
+Product Announcement End-of-Sale Date End-of-Support Date
+Solar Sep 3, 2010 Dec 31, 2010 Dec 31, 2015
+Wall Plug Sep 3, 2010 Dec 31, 2010 Dec 31, 2015
+Mini Sep 3, 2010 Dec 31, 2010 Sep 25, 2017
+Indoor Mar 3, 2011 Jun 30, 2011 Jun 30, 2016
+MX50 Jul 15, 2011 Sep 1, 2011 Sep 1, 2016
+MX70 Jan 18, 2012 Mar 31, 2012 Mar 31, 2017
+MR11 May 29, 2012 Aug 30, 2012 Aug 30, 2017
+MR14 May 29, 2012 Aug 30, 2012 Aug 30, 2017
+OD2 Jul 26, 2012 Oct 30, 2012 Oct 30, 2017
+MR58 Jul 26, 2012 Oct 30, 2012 Oct 30, 2017
+MX90 Nov 5, 2013 Apr 26, 2014 Apr 26, 2021
+MS22 Nov 5, 2013 Apr 26, 2014 Apr 26, 2021
+MS22P Nov 5, 2013 Apr 26, 2014 Apr 26, 2021
+MS42 Nov 5, 2013 Apr 26, 2014 Apr 26, 2021
+MS42P Nov 5, 2013 Apr 26, 2014 Apr 26, 2021
+SFP/SFP+ Accessories Nov 5, 2013 Apr 26, 2014 Apr 26, 2021
+MS22/P and MS42/P Licenses Jan 6, 2014 Jan 25, 2014 N/A
+MR16 Feb 27, 2014 May 31, 2014 May 31, 2021
+MR24 Feb 27, 2014 May 31, 2014 May 31, 2021
+802.3af PoE Injector Feb 27, 2014 May 31, 2014 May 31, 2021
+Systems Manager Enterprise Support License Sep 22, 2014 Sep 22, 2014 End of customer’s license
+ANT-11 Jan 12, 2015 Apr 24, 2015 Apr 24, 2022
+ANT-13 Jan 12, 2015 Apr 24, 2015 Apr 24, 2022
+MX60 Jul 10, 2015 Oct 24, 2015 Oct 24, 2022
+MX60W Jul 10, 2015 Oct 24, 2015 Oct 24, 2022
+MR12 Jul 27, 2015 Oct 24, 2015 Oct 24, 2022
+MS320 & MS420 power supplies and fans Nov 16, 2015 Nov 16, 2015 Nov 16, 2022
+MX80 Jan 26, 2016 Aug 30, 2016 Aug 30, 2023
+MR26 Feb 9, 2016 May 9, 2016 May 9, 2023
+AC-MR-1-XX Feb 9, 2016 May 9, 2016 May 9, 2023
+MR34 Aug 1, 2016 Oct 31, 2016 Oct 31, 2023
+MS420 Aug 1, 2016 Oct 31, 2016 Oct 31, 2023
+MR18 Dec 8, 2016 Feb 13, 2017 Mar 31, 2024
+MS320 Series Dec 8, 2016 Mar 31, 2017 Mar 31, 2024
+MR32 Jan 18, 2017 Apr 30, 2017 Jul 31, 2024
+MR72 Mar 7, 2017 Apr 30, 2017 Apr 30, 2024
+MS220 Series Mar 16, 2017 Jul 29, 2017 Jul 29, 2024
+MR66 Jun 7, 2017 Jun 9, 2017 Jun 9, 2024
+MR62 Aug 15, 2017 Nov 15, 2017 Nov 15, 2024
+ANT-10 Sep 6, 2017 Sep 11, 2017 Sep 11, 2024
+MS220-8 Jan 9, 2018 Jul 28, 2018 Jul 28, 2025
+MX400 Feb 28, 2018 May 20, 2018 May 20, 2025
+MX600 Feb 28, 2018 May 20, 2018 May 20, 2025
+Z1 Apr 27, 2018 Oct 26, 2018 Oct 26, 2025
+MC74 Sep 27, 2018 Oct 1, 2018 Apr 1, 2019
+MX65 Nov 20, 2018 May 28, 2019 May 28, 2026
+MV21 and MV71 Mar 19, 2019 Jun 19, 2019 Jun 19, 2026
+In some limited cases, Cisco Meraki may also find it necessary to discontinue certain features.
+==========
+For more information, see the WAN Optimization feature retirement notice.
+Return Policy and Requesting a RMA
+Warranty Returns
+Cisco Meraki stands behind its products.
+Cisco Meraki hardware products come with the following warranty periods:
+MR Indoor Products
+Lifetime**
+MR Outdoor Products
+1 year
+*Original and replacement modular power supply units and fans for MS and MX Products included in lifetime warranty.
+==========
+**Product lifetime ends concurrently with product End-of-Support (EOST) Date as described in Cisco Meraki's End of Life (EOL) Policy.
+If you are experiencing hardware issues, for any product under warranty (as described above), please contact Cisco Meraki support by logging in to dashboard (Help > Get help) or by calling us.
+To request a return materials authorization (RMA), please complete the RMA request form in the Meraki dashboard.
+If your RMA request is approved, Cisco Meraki will email you an RMA number and a return shipping label free of charge.
+We will ship replacement units within five business days of receiving your defective units.
+If no trouble is found, we will contact you before taking further action.
+==========
+If you require advance replacement, please call Cisco Meraki technical support.
+Advance replacement orders will ship within 1 business day.
+Additional information about Cisco Meraki’s hardware warranty can be found in Cisco Meraki’s End Customer Agreement.
+Meraki Now
+If you require replacement of Meraki products covered by Meraki Now services, please call Meraki technical support and request Meraki Now advance replacement.
+Please include the Meraki Now service tier and affected device serial number (SN) with your request.
+==========
+Product Trial Returns
+If you would like to return units from a product trial, please go to your product trial webpage (using the link your rep provided you with) and go to the returns tab to fill out the RMA request form.
+If your trial hardware was shipped to the US, Canada, or an EU member country you will also be able to print out a return shipping label and ship the product back to Cisco Meraki at no charge to you.
+Refund Requests
+If you are dissatisfied with your Cisco Meraki purchase for any reason, you may return your order for a full refund.
+All returns must meet the following criteria:
+You purchased the product through an authorized Cisco Meraki reseller or direct from Cisco Meraki
+You are the original purchaser of the product
+You submit your refund request within 30 days of purchase
+The product is in new condition, including all accessories in the original packaging
+To request a refund, please complete our RMA request form.
+If your refund request is approved, Cisco Meraki will email you an RMA number.
+In order for the refund to be accepted and processed, Meraki must receive the hardware you are returning no later than 30 days following the date the RMA number is issued.
+Once we have received and inspected the units, we will process your return.
+If you purchased through a Cisco Meraki reseller, your refund will be issued by that reseller.
+If you purchased directly from Cisco Meraki, we will issue a refund, typically within 15 days of receiving the return.
+(If you paid by credit card we will credit the original credit card.
+If you paid by any other method, we will send you a check.)
+==========
+From time to time Cisco Meraki offers special refund terms.
+If your return is covered by special terms, please reference those terms on your RMA request.
+Please contact Cisco Meraki directly for all returns, including product purchased through distributors or resellers.
+Read this policy in:
+Japanese
+Shipment Preparation
+Please return units in their entirety.
+==========
+That is, include all power supplies, antennas, and other components along with the original product box.
+Please use the original shipping carton and packaging material.
+If this is not possible, use another shipping carton with padding to protect the units from damage during shipping.
+DO NOT ship a product without a carton.
+The customer will be charged for product that is damaged due to insufficient packaging.
+==========
+Once you have received your RMA number from Cisco Meraki via email, write this RMA number in large letters on the exterior of the shipping carton.
+Shipments to Cisco Meraki without an RMA approval will not be processed.
+If Cisco Meraki approves your RMA request, you will receive a confirmation email containing an RMA number within two business days.
+The address to which the product should be sent will also be included in that email.
+==========
+Cisco Meraki will provide a pre-paid return shipping label for warranty replacement return shipments.
+Cisco Meraki will also provide a pre-paid return shipping label for free trial return shipments from US (including Puerto Rico), any EU member country, Australia, Canada, Chile, Colombia, Costa Rica, Ecuador, Indonesia, Japan, Mexico, New Zealand, Panama, Peru, the Philippines, Singapore, South Korea, Thailand, the United Arab Emirates, and the United Kingdom.
+For all other returns it is your responsibility to coordinate and pay for return shipping back to Cisco Meraki using the carrier of your choice.
+Cisco Meraki recommends that the return package has a tracking number and is insured for the proper value of its contents.
+Cisco Meraki is not responsible for packages lost by carriers.
+==========
+Privacy Policy
+Last Updated: January 26, 2017
+Meraki is adopting the Cisco Online Privacy Statement, effective January 26, 2017.
+For existing customers, this will be effective on February 9, 2017.
+Please click here to see the Cisco Online Privacy Statement.
+==========
+Please review the FAQs below about this transition.
+Q. Why is Meraki making this change?
+A.
+This change from the Meraki Privacy Policy to the Cisco Online Privacy Statement is part of the continued integration of the Meraki business into Cisco and certification under the EU-US Privacy Shield.
+Q.
+==========
+When will the change to Cisco Online Privacy Statement become effective?
+A. For existing Meraki Customers, the change will become effective on February 9, 2017.
+For new customers, the change is effective immediately.
+==========
+Q. Is my personal information less protected by this change to the Cisco Online Privacy Statement than it was under the Meraki Privacy Policy?
+A. No, your personal information will continue to be treated and protected in a manner consistent with the treatment described in the Meraki Privacy Policy.
+No additional sharing or use of your personal data will occur because of this change.
+Q.
+How can I get more information about the Cisco Online Privacy Statement?
+A.
+You can contact Meraki by sending an email to [email protected] or writing to:
+Meraki, LLC
+500 Terry François Blvd
+San Francisco, CA 94158
+Attn: Legal
+You can contact Cisco by writing to:
+[email protected]
+or
+Cisco Systems, Inc.
+170 West Tasman Drive
+San Jose, CA 95134
+Attn: Chief Privacy Officer
+Q.
+How do I object to my personal information being processed under the Cisco Online Privacy Statement?
+A.
+You can contact Meraki by sending an email to [email protected] or writing to:
+Meraki, LLC
+500 Terry François Blvd
+San Francisco, CA 94158
+Attn: Legal
+You can contact Cisco by writing to:
+[email protected]
+or
+Cisco Systems, Inc.
+170 West Tasman Drive
+San Jose, CA 95134
+Attn: Chief Privacy Officer
+Q. Will I now receive marketing from Cisco not related to Meraki Products and Services?
+A.
+==========
+This update does not change your marketing or communication preferences.
+You will receive marketing based on the preferences you have previously stated.
+You can unsubscribe from marketing messages from Cisco or Meraki at any time either by following the instructions contained within the email or emailing us a [email protected] (for messages from Cisco) or [email protected] for messaged from Meraki.
+Previous Privacy Policy
+This privacy policy (this "Policy") describes the collection of personal information and certain other information by Meraki, LLC, a Delaware limited liability company and a wholly owned subsidiary of Cisco Systems, Inc. ("Meraki," "we," or "us") from users of our Web site at meraki.cisco.com (the "Website"), as well as all applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Website, our "Services").
+==========
+This Policy also describes our use and disclosure of such information.
+By using our Services, you consent to the collection, use, and disclosure of information in accordance with this Policy.
+This Policy is incorporated by reference into the Meraki Terms of Use and the Meraki End Customer Agreement and is subject to the provisions of the Meraki Terms of Use and the Meraki End Customer Agreement.
+The terms "you," "your," and "user" refer to the user visiting the Website or accessing or using the Services.
+Other capitalized terms used but not defined in this Privacy Policy have the meanings given to them in the Terms of Use.
+==========
+Meraki has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe here.
+Please click here for fax and postal mail information.
+==========
+TRUSTe's Dispute Resolution process is only available in English.
+The TRUSTe certification covers our collection, use and disclosure of information we collect through our Services.
+The use of information collected through our Services shall be limited to the purpose of providing the service for which the customer has engaged Meraki.
+Meraki complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.
+Meraki has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+==========
+To learn more about the Safe Harbor program, and to view Meraki’s certification included under Cisco Systems Inc.’s company certification, please visit http://www.export.gov/safeharbor
+Personal Information
+"Personal Information," as used in this Policy, is information that specifically identifies an individual, such as an individual's name, address, telephone number, or e-mail address.
+Personal Information also includes information, such as demographic information (e.g., date of birth, gender, geographic area, and preferences), when any of this information is linked to Personal Information that identifies that individual.
+Personal Information does not include "aggregate" or other non-personally identifiable information.
+==========
+Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed.
+We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes at our sole discretion and without notice or liability to you.
+Collection of Information
+Collection of Voluntarily-Provided Information
+We collect Personal Information that our users provide to us in a variety of ways on our Services.
+==========
+These include the following:
+E-mail Newsletters.
+We may offer e-mail newsletters from time to time on our Services.
+If you sign up to receive a newsletter from us, we collect your e-mail address.
+==========
+User Accounts and Profiles.
+Our Services may give you the ability to register for an account or to create and update a user profile.
+If we offer user account or profile functionality on the Services, we will collect the Personal Information that you provide to us in the course of registering for an account or creating or updating a user account or profile.
+This information may include, for example, name, postal address, telephone number, e-mail address, and related demographic information about you.
+We may indicate that some Personal Information is required for you to register for the account or to create the profile, while some is optional.
+==========
+Logging into Networks.
+Certain networks using our Services may require users to establish or use login credentials.
+In connection with supporting this log-on functionality, we may collect information such as email addresses, telephone numbers, or user or administrator-created usernames, along with user-created or administrator-created passwords, to facilitate such log-on functionality and otherwise to provide our Services.
+Correspondence.
+If you contact us by e-mail, using a contact form on the Services, or by other means, we collect the Personal Information contained within, and associated with, your correspondence.
+==========
+Contests and Sweepstakes.
+We and other business partners may conduct or sponsor special contests, sweepstakes, and other promotions that users may enter or otherwise participate in on our Services or otherwise.
+Certain of these promotions may be co-branded with one of our advertisers or other business partners.
+In these instances, the collection of your Personal Information may occur directly by the third-party partner on its website or other online service and may be shared with us.
+The promotion will state the privacy policy or policies governing the collection of such personal information.
+==========
+Testimonials.
+We display testimonials of satisfied customers on our site in addition to other endorsements.
+With your consent we may post your testimonial along with your name.
+==========
+Information Related to Data Collected for our Customers.
+Meraki collects information under the direction of its customers, and has no direct relationship with the individuals whose personal data it processes.
+If you are an individual who makes use of services offered by one of our customers and would no longer like to be contacted by that customer, please contact the customer that you interact with directly.
+We may transfer personal information to companies that help us provide our Services.
+Transfers to subsequent third parties are covered by the service agreements with our customers.
+Passive Information Collection
+When you use or visit our Services, some information is collected automatically.
+For example, when you access our Services, we automatically collect your browser’s Internet Protocol (IP) address, your browser type, the nature of the device from which you are visiting the Services (e.g., a personal computer or a mobile device), identifiers for any handheld or mobile device that you may be using, the Web site that you visited immediately prior to accessing any Web-based Services, the actions you take on our Services, and the content, features, and activities that you access and engage with on our Services.
+We also may collect information regarding your interaction with e-mail messages from Meraki, such as whether you opened, clicked on, or forwarded a message.
+We may collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as “Web beacons”).
+We use passively-collected information to administer, operate, maintain and improve our Services and our other services and systems and to provide content that is tailored to you.
+If we link or associate any information gathered through passive means with Personal Information, or if applicable laws require us to treat any information gathered through passive means as Personal Information, we treat the combined information as Personal Information under this Policy.
+==========
+Otherwise, we use and disclose information collected by passive means in aggregate form or otherwise in a non-personally identifiable form.
+Please be aware that in the course of your use of the Services, websites or other services provided by third parties ("Third-Party Services"), including marketing or website optimization vendors, may set cookies on your hard drive or use other means of passively collecting information about your use of their Third-Party Services or other services or content.
+To do this, they may use first-party cookies (which are set by the same domain your browser is receiving data from) or third-party cookies (which are set by a different domain).
+Meraki also may make non-personally identifiable information available to Third-Party Services, and these Third-Party Services may collect such information, to assist such parties in understanding our users’ activities and usage patterns on the Services.
+If desired, you may use the Google Analytics Opt-out Browser Add-on to opt-out of having information collected by Google Analytics.
+We do not have access to, or control over, the actions of Third-Party Services.
+Each provider of Third-Party Services uses information that it collects in accordance with its own privacy and security policies.
+Additionally, please be aware that Google and other third-party vendors may place or recognize one or more unique cookies on your computer when you use the Services, and may record information to these cookies based upon your activities on our Services and on third-party websites and other Third-Party Services.
+Google and these other third-party vendors may use information about those activities to inform, optimize, and serve advertisements.
+In particular, we may use Google and other third-party vendors to engage in “remarketing,” in which advertisements you see on third-party websites and services may be based on your prior visits to our Services.
+To learn more about these practices, and to opt-out from Google’s and other vendors’ use of information collected on the Services through cookies for advertising purposes, you may visit Google’s Ads Preferences Manager, TRUSTe's Preference Manager, or the Network Advertising Initiative opt-out page.
+Please note that opting-out will not prevent advertisements from being served to you on the Internet; it will only result in advertisements that utilize cookies to serve advertisements on the specified advertising networks from which you opt-out no longer being targeted.
+We are not responsible for the activities of other parties that may not comply with your opt-out requests.
+We also use Google Conversion Tracking, which tracks whether users engage in certain activities (e.g., filling out a form to receive more information about our products or services) after they view one of our advertisements on a Third-Party Service.
+Google uses cookies to track conversions and to report that information to us.
+==========
+Finally, please also be aware that we use the Google Maps API as a source of maps, geographic data, and geolocation information for purposes of providing location-based information regarding terminal devices connected to networks managed by our Services and for providing related reporting and analysis.
+Google may collect information, including personal information, from those who view content provided through the Google Maps API, and Google handles such information in accordance with the Google Privacy Policy.
+Network Usage Information Collected by Our Services
+Some of our Services collect information from terminal devices connected to networks that are managed by those Services.
+Those Services also collect information regarding the performance of, and certain other information regarding, such networks.
+This information includes, for example, MAC address, device type, operating system, geolocation information, and network traffic information (e.g., hostnames, protocols, port numbers, and IP addresses).
+This information is made available to administrators of networks managed by our Services through an online interface that we call the “dashboard”.
+Additionally, if a Meraki customer elects to use our device management tool currently known as Systems Manager ("Systems Manager") and installs its software on, or configures the profile of, a mobile device or other device (e.g., a laptop computer) managed by Systems Manager, the customer or Meraki may undertake certain actions on the device, such as the following: (i) list, access, copy, move, and delete files; (ii) track and record device location over time; (iii) take and record screenshots; (iv) manage the device through remote desktop functionality; (v) set and enforce policies; and (vi) install/remove apps.
+Finally, for devices with Systems Manager installed or devices that utilize Global Positioning System (GPS) technology, we transmit certain geolocation information about those devices and the network(s) on which they are running to Google, which provides us with related geolocation information that we store and make available to network administrators through our dashboard as described above in this paragraph.
+==========
+Google handles the information that we provide to it in accordance with the Google Privacy Policy.
+Information from Other Sources
+We may receive information about you, including Personal Information, from affiliated and unaffiliated third parties, and may combine this information with other Personal Information we maintain about you in order to ensure we have accurate information.
+If we do so, this Policy governs any combined information that we maintain in personally identifiable format.
+Use of Information
+We use Personal Information and other information we collect to do any of the following: provide services to our customers; provide information and otherwise respond to your requests, including sales inquiries, email requests, and shipping requests; enhance, improve, operate, maintain, and debug the Website, our other Services, and our other programs, services, Web sites, and systems; improve the effectiveness of our Website as a marketing tool and optimize the performance of the Website and our other Services; prevent fraudulent use of our Services and other systems; to prevent or take action against activities that are, or may be, in violation of the Meraki End Customer Agreement, the Meraki Terms of Use, or applicable law; to tailor content and other aspects of your experience on and in connection with the Services; maintain a record of our dealings with you; for other administrative purposes; and for any other purposes that we may disclose to you at the point at which we request your Personal Information, and pursuant to your consent.
+We may also use Personal Information you provide to contact you regarding products, services, and offers, both from ourselves and third parties, that we believe you may find of interest.
+We allow you to opt-out from receiving marketing communications from us as described in the “Choice” section below.
+==========
+Disclosure of Information
+Except as described in this Policy, we will not disclose your Personal Information that we collect on the Services to third parties without your consent.
+We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
+Service Providers
+We may disclose Personal Information to third-party service providers (e.g., payment processing and data storage and processing facilities) that assist us in our work.
+We limit the Personal Information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such Personal Information.
+Business Transfers
+Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, successor, or assignee as part of any merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
+==========
+To Affiliated Companies
+We may disclose Personal Information and other information to our parent company and to other corporate affiliates of ours.
+These affiliated third-party companies may use and disclose Personal Information and other information that we disclose to them in accordance with their privacy policies and procedures.
+To Channel Partners
+We may disclose Personal Information and other information to channel partners, such as resellers, of ours.
+These third parties may use such Personal Information and other information that we disclose to them for purposes such as marketing our products and services to you.
+To Protect our Interests
+We also may disclose Personal Information and other information if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements) or the rights or property of others, or otherwise to help protect the safety or security of our Services or other users of the Services.
+==========
+Choices Regarding Promotional Communications
+If you receive commercial e-mail from us, you may unsubscribe at any time by following the instructions contained within the e-mail.
+You may also opt-out from receiving commercial e-mail from us, and any other promotional communications that we may send to you from time to time (e.g., by postal mail) by sending your request to us by e-mail at [email protected] or by writing to us at the address given at the end of this policy.
+Additionally, if we offer user account functionality on the Services, we may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us.
+==========
+Please be aware that if you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request, and you may receive commercial e-mail from us during that period.
+Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding our Services.
+Your California Privacy Rights
+You may choose to opt-out of the sharing of your personal information with third parties for their direct marketing purposes at any time by e-mailing us at [email protected].
+Once we receive your opt-out request, we will no longer disclose your Personal Information to third-parties for their direct marketing purposes.
+Please be aware that this opt-out does not prohibit disclosures of Personal Information or other information made for non-direct marketing purposes.
+==========
+Access
+If we offer the ability to create user accounts or profiles on our Services, you may have the ability to access and update certain categories of Personal Information that you provide to us by logging in to your account and accessing your account settings.
+If you wish to access, amend, or delete any other Personal Information we hold about you, you may contact us at [email protected].
+If you request access to your account including deletion requests on any of our Services (via a user settings page, by e-mail, or otherwise) including requests to remove testimonials that contain Personal Information, we will respond to your access requests within 30 days.
+Please note that we may need to retain some of your Personal Information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so.
+==========
+Please note that Meraki has no direct relationship with the individuals whose personal data we process on behalf of our customers.
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his or her query to our customer (the data controller).
+If the customer requests Meraki to remove the data, we will respond to their request within 30 days.
+We will retain personal data we process on behalf of our customers for as long as needed to provide services to our customer.
+Meraki will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+==========
+Links
+The Services may contain links to other Web sites or other Third-Party Services that we do not own or operate.
+If you choose to visit or use any Third-Party Services or products or services available on or through such Third-Party Services, please be aware that this Policy will not apply to your activities or any information you disclose while using those Third-Party Services or any products or services available on or through such Third-Party Services.
+We are not responsible for the privacy practices of these Third-Party Services or any products or services on or through them.
+Additionally, the Services may contain links to Web sites and services that we operate but that are governed by different privacy policies.
+We encourage you to carefully review the privacy policies applicable to any Web site or service you visit other than the Services before providing any Personal Information on them.
+==========
+Children
+Children’s safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children.
+Our Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent.
+If we learn that we have collected Personal Information from a child under the age of 13 on our Services, we will delete that information as quickly as possible.
+If you believe that we may have collected any such Personal Information on our Services, please notify us at [email protected].
+==========
+International Visitors
+Many of our servers and data centers are located in the United States.
+If you choose to use the Services from outside the U.S., then you should know that you may be transferring your Personal Information outside of your region and into the U.S. for storage and processing.
+By providing your Personal Information to us through your use of the Service, you agree to that transfer, storage, and processing in the U.S. Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Services.
+You should know that each region can have its own privacy and data security laws, some of which may be less stringent as compared to those of your own region.
+==========
+Security
+We use certain security measures in an effort to protect Personal Information from accidental loss, disclosure, misuse, and destruction.
+The security of your Personal Information and our customers’ information is important to us.
+When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL).
+==========
+Please be aware, however, that no data security measures can be guaranteed to be completely effective.
+Consequently, we cannot ensure or warrant the security of any information that you provide to us.
+You transmit information to us at your own risk.
+==========
+If Meraki learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps.
+Meraki may post a notice through the Services if a security breach occurs.
+Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+To receive a free written notice of a security breach, you should notify us at [email protected].
+==========
+Updates to this Policy
+We may occasionally update this Policy.
+When we do, we will post the updated Policy and revise the “last updated” date at the beginning of the Policy.
+If we change this Policy in a manner that materially alters your rights or obligations under this Policy, we will use reasonable efforts to notify you of the change.
+==========
+For example, we may send a message to your email address, if we have one on file, or generate a pop-up or similar notification when you access the Service for the first time after such material changes are made.
+We encourage you to periodically review this Policy to stay informed about how we collect, use, and disclose Personal Information.
+Your continued use of the Services after the revised Policy has become effective indicates that you have read, understood and agreed to the current version of this Policy.
+==========
+Contacting Us
+If you have any questions or comments about this Policy, please contact us using the following contact information:
+Meraki, LLC
+500 Terry François Blvd
+San Francisco, CA 94158
+[email protected]
+Read this policy in:
+French
+German
+Japanese
+Spanish
+Website Terms of Use
+Last Updated: March 29, 2013
+Welcome to www.meraki.com (the "Site"), owned and operated by Meraki, LLC ("Meraki") a wholly-owned subsidiary of Cisco Systems, Inc. ("Cisco").
+By using the Site in any way, including any service made available at the Site, you are agreeing to comply with and to be bound by these Terms of Use and all rules, policies and disclaimers posted on the Site or about which you are notified (collectively, "Terms").
+Please review these Terms carefully before using the Site.
+By using the Site, you agree to be bound by these Terms.
+If you do not agree with all of the Terms, do not use the Site.
+The terms "you," "your," and "yours" refer to you, the user of the Site.
+The terms "Meraki," "we," "us," and "our" refer to Meraki, LLC.
+==========
+Changes to the Terms
+We may periodically make changes to these Terms, in our sole discretion.
+When we do, we will update the "Last Updated" date above.
+It is your responsibility to review the most recent version of these Terms and remain informed of any changes.
+You agree that your continued use of the Site after the effective date of any changes will constitute your acceptance of the changed Terms for your continued use.
+==========
+Access to the Site; Account Registration
+We do not provide you with the equipment to access the Site.
+You are responsible for all fees charged by third parties to access the Site (e.g., charges by internet service providers).
+You must register for an account to use certain Meraki services.
+Your registration for and use of an account will be governed by the Meraki End Customer Agreement, available at http://www.meraki.com/support/#policies:eca, and any other applicable agreement related to your use of particular Meraki software and products.
+Changes to the Site
+We reserve the right to modify or discontinue, temporarily or permanently, all or a part of the Site without notice.
+We will not be liable to you or to any third party for any modification, suspension, or discontinuance of the Site.
+==========
+Limited License
+Subject to these Terms, Meraki grants you a limited, revocable license to access and use the Site solely to support your use of Meraki products and services within your organization as intended by Meraki.
+No other use of the Site is authorized.
+Software License
+Your use of any software you download from the Site is governed by the separate license terms accompanying or referenced in that software or download.
+==========
+Restrictions
+You must comply with all applicable laws when using the Site.
+Except as may be expressly permitted by applicable law or expressly permitted by us in writing, you will not, and will not permit anyone else to: (a) store, copy, modify, distribute, or resell any information or material available on the Site ("Site Content") or compile or collect any Site Content as part of a database or other work; (b) use any automated tool (e.g., robots, spiders) to use the Site or store, copy, modify, distribute, or resell any Site Content; (c) rent, lease, or sublicense your access to the Site; (d) use the Site or Site Content for any purpose except for your own personal use; (e) circumvent or disable any digital rights management, usage rules, or other security features of the Site; (f) reproduce, modify, translate, enhance, decompile, disassemble, reverse engineer, or create derivative works of the Site or Site Content; (g) use the Site in a manner that threatens the integrity, performance, or availability of the Site; or (h) remove, alter, or obscure any proprietary notices (including copyright notices) on any portion of the Site or Site Content.
+Ownership
+We or our affiliates or licensors, or applicable third parties, retain all right, title, and interest in and to the Site and Site Content and any trademarks, logos, or service marks displayed on the Site or in Site Content ("Marks").
+The Site, Site Content, and Marks are protected by applicable intellectual property laws and international treaties.
+==========
+You are not permitted to use any Marks without the prior written consent of Meraki or such third party which may own the Mark.
+Meraki, the Meraki Logo, Meraki Dashboard, Stumbler, and Mapper are among the trademarks of Meraki or its affiliates.
+Disclosure; Forward-Looking Statements
+Some of the information on this Site may contain projections or other forward-looking statements regarding future events or the future financial performance of Meraki and/or Cisco.
+We wish to caution you that these statements are only predictions and that actual events or results may differ materially.
+We refer you to the documents Cisco files from time to time with the Securities and Exchange Commission, specifically, CiscoÕs most recent Form 10-K, Form 10-Q, and Form 10-Q/A.
+These documents contain and identify important factors that could cause the actual results to differ materially from those contained in our projections or forward-looking statements, including, among others, potential fluctuations in quarterly results, dependence on new product development; rapid technological and market change, acquisition strategy, manufacturing risks, risks associated with Internet infrastructure, volatility of stock price, financial risk management, and future growth subject to risks.
+==========
+Privacy Policy
+Our Privacy Policy (available at http://www.meraki.com/support/#policies:privacy) is hereby incorporated into these Terms by reference.Please read the Privacy Policy carefully for information relating to our collection, use, storage and disclosure of personal information, including registration and other information about you that we collect through the Site.
+Links and Third Party Content
+The Site may contain links to third party products, services, and websites.
+We exercise no control over any third party products, services, and websites and we are not responsible for their performance, do not endorse them, and are not responsible or liable for any content, advertising, or other materials available through the third party products, services, and websites.
+We are not responsible or liable, directly or indirectly, for any damage or loss caused to you by your use of or reliance on any goods or services available through the third party products, services, and websites.
+Additionally, if you follow a link or otherwise navigate away from the Site, please be aware that these Terms, including the Privacy Policy, will no longer govern.
+You should review the applicable terms and policies, including privacy and data gathering practices, of any third party websites to which you navigate to from the Site.
+==========
+Promotions
+From time to time, we may offer promotions to Site visitors or registered Site users.
+To be eligible for a promotion, you must, for the duration of the promotion, reside in a jurisdiction in which the promotion is lawful.
+If you take part in any promotion, you agree to be bound by the specific promotion rules and by the decisions of Meraki and our designees, which are final in all matters relating to any promotion.
+==========
+Any awards provided by us or our sponsors or partners are at our sole discretion.
+We and our designees reserve the right to disqualify any entrant or winner in our absolute discretion without notice.
+Any applicable taxes on any award are the sole responsibility of each winner.
+==========
+Feedback
+Meraki may provide you with a mechanism to provide feedback, suggestions, and ideas about the Site or us ("Feedback").
+You agree that we may, in our sole discretion, use the Feedback you provide in any way, including in future modifications to the Site, our products, or services.
+You hereby grant us a perpetual, worldwide, fully transferable, irrevocable, royalty-free license to use, reproduce, modify, create derivative works from, distribute, and display the Feedback in any manner for any purpose.
+==========
+Disclaimer of Warranties
+YOUR USE OF THE SITE AND SITE CONTENT, INCLUDING YOUR SUBMISSION OF FEEDBACK, IS AT YOUR SOLE RISK.
+THE SITE AND SITE CONTENT ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS.
+MERAKI EXPRESSLY DISCLAIMS ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, AND ANY WARRANTIES ARISING FROM A COURSE OF DEALING, USAGE, OR TRADE PRACTICE.
+WE DO NOT GUARANTEE THE ACCURACY, COMPLETENESS, OR USEFULNESS OF THE SITE OR SITE CONTENT, AND YOU RELY ON THE SITE AND SITE CONTENT AT YOUR OWN RISK.
+ANY MATERIAL YOU RECEIVE THROUGH THE SITE IS OBTAINED AT YOUR OWN DISCRETION AND RISK AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY MATERIAL THROUGH THE SITE.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM MERAKI OR THROUGH OR FROM THE SITE WILL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THESE TERMS.
+SOME STATES MAY PROHIBIT A DISCLAIMER OF WARRANTIES AND YOU MAY HAVE OTHER RIGHTS THAT VARY FROM STATE TO STATE.
+==========
+Limitation of Liability
+MERAKI WILL NOT BE LIABLE TO YOU OR TO ANY THIRD PARTY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE LOSSES (EVEN IF MERAKI HAS BEEN ADVISED OF THE POSSIBILITY OF THESE DAMAGES), RESULTING FROM YOUR USE OF THE SITE AND SITE CONTENT.
+UNDER NO CIRCUMSTANCES WILL MERAKIÕS TOTAL LIABILITY OF ALL KINDS ARISING OUT OF OR RELATED TO YOUR USE OF THE SITE OR SITE CONTENT (INCLUDING BUT NOT LIMITED TO WARRANTY CLAIMS), REGARDLESS OF THE FORUM AND REGARDLESS OF WHETHER ANY ACTION OR CLAIM IS BASED ON CONTRACT, TORT, OR OTHERWISE, EXCEED $50.
+BECAUSE SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU, IN WHICH CASE MERAKIÕS LIABILITY WILL BE LIMITED TO THE MAXIMUM EXTENT ALLOWED BY APPLICABLE LAW.
+Indemnity
+You will indemnify and hold Meraki, and its subsidiaries, affiliates, officers, agents, and employees, harmless from any costs, damages, expenses, and liability caused by your use of the Site or Site Content, your submission of Feedback, your violation of these Terms, or your violation of any rights of a third party through use of the Site or Site Content.
+==========
+Legal Notices
+These Terms will be governed by and construed in accordance with the laws of the State of California without regard to principles of conflicts of law.
+You submit to the jurisdiction of the federal or state courts of or located in Santa Clara County, California, with respect to any action or proceeding arising out of or in any way related to these Terms, and you hereby waive any venue or other objection which you may have to any such action or proceeding being brought in the federal or state courts of in Santa Clara County, California.
+No failure or delay by us in exercising any right under these Terms will constitute a waiver of that right.
+If any portion of these Terms is held invalid by a court of competent jurisdiction, then such portion will be deemed to be of no force or effect, and these Terms will be construed as if such portion had not been included.
+The headings used in these Terms are for convenience of reference only and do not affect the meaning or construction of these Terms.
+==========
+Contacting Meraki
+If you have any questions or concerns about the Site or these Terms, please send us a thorough description by email to [email protected], or write to us at:
+Meraki, LLC
+Attention: Legal Department
+500 Terry François Blvd
+San Francisco, CA 94158
+Cisco Meraki Shipping Policy
+Order Number
+You will receive an email from [email protected] to the email listed in the purchase order once the order is accepted.
+This contains your order number, so look for this email and retain your order number for your records.
+Order Status
+Once your order ships you will receive an email notification to the email listed in your Purchase Order from Cisco Meraki with tracking number for the shipment.
+You may want to double check in your bulk email folder in case you do not receive this email within 48 hours of the time you placed the order.
+Order Processing Time
+All orders will generally be processed the same day and shipped within 2 business days.
+Delays may occur if there are special shipping requests or missing information.
+If you have not received notification of shipment within 3 business days, please check for an email from [email protected] as there is likely a problem with your order.
+Shipment is dependent on available stock.
+While stock outs are rare, they can happen.
+If you have a time sensitive order you can check availability with your sales representative.
+Canceling or Modifying an Order:
+Once your order has been accepted and submitted for fulfillment there are limited modifications that you can make to your order.
+Please contact [email protected] as soon as possible if you require some adjustment.
+You may be responsible for any applicable adjustment, handling and/or shipping fees if applicable.
+==========
+International Power Adapters:
+Cisco Meraki offers 4 different plug types for the power adapters that ship with the routers.
+All power adapters accept power input 100-240 V 50/60 Hz AC.
+There are 4 variations of input plug types as follows.
+==========
+Cisco Meraki designation Description
+US Type A; 2 pin;
+EU Type C; Europlug, CEE 7/16; 2 pin
+UK Type G; British 3 pin, ungrounded
+AU Type I; Australian/New Zealand 2 pin
+
+International Certifications
+As Cisco Meraki grows, so too will the list of countries in which Cisco Meraki product is certified.
+Cisco Meraki currently has product certified in over 45 countries worldwide.
+If you have specific questions regarding Cisco Meraki certifications, please contact your sales representative.
+Tax/VAT information
+In accordance with applicable law, Cisco Meraki collects tax/VAT in regions where Cisco Meraki has a presence.
+==========
+Sales tax or VAT will be applied to the total amount of the order and is based on the shipment's destination state and local sales tax or VAT rates.
+Placing a Sales Tax-Exempt Order for Delivery in the United States
+Qualified groups and individuals may place a sales tax-exempt order once we have your tax-exempt certificate on file.
+Fax or email a copy of your state- or federal government-issued certificate to 415-632-5899.
+Tax-exempt orders have to be made by contacting [email protected].
+==========
+North America Delivery Times and Shipping Information
+US Shipping Methods
+Cisco Meraki will ship using UPS if product is shipped on Cisco Meraki’s account.
+The most common methods used are UPS Ground, UPS 3 Day, UPS 2 Day, UPS Overnight, UPS Overnight Early AM and UPS Overnight Saturday Delivery.
+Cisco Meraki is capable of shipping using most carriers and methods if the customer is shipping on a customer’s account.
+US Delivery Times
+Below is the UPS Ground map.
+==========
+NOTE: Business Days are Monday through Friday, excluding holidays observed by UPS.
+Expedited shipments within the US using an expedited method will generally arrive in 1-3 business days.
+Canada Shipping Methods
+Cisco Meraki will ship to Canada using either UPS Ground or Expedited services.
+Cisco Meraki will ship any UPS or FedEx shipment to Canada using a paperless process.
+The commercial invoice is therefore electronic and will not be included in the shipment.
+Cisco Meraki has the ability to ship using most carriers if shipping on the customer’s account.
+If Cisco Meraki has any concerns or issues with the carrier you selected you will be contacted.
+==========
+Canada Delivery Times
+Ground service to Canada will generally arrive in 2-7 business days.
+* Cisco Meraki ships to Canada from California, so generally the further east a shipment has to travel, the longer the transit time.
+Expedited shipments to Canada using an expedited method will generally arrive in 1-3 business days.
+*
+Cisco Meraki will only send shipments to Canada using EXW (Ex Works) incoterms.
+That means the customer will be the importer of record and will be responsible of all duties, taxes/VAT, and brokerage fees.
+==========
+Contact your local customs office for details.
+*Excludes any issues that could arise with customs.
+It is very rare that Cisco Meraki experiences any issues with Canadian customs.
+Mexico Shipping Methods
+Cisco Meraki can ship to Mexico using expedited services.
+Cisco Meraki will ship any UPS or FedEx shipment to Mexico using a paperless process.
+The commercial invoice is therefore electronic and will not be included in the shipment.
+Cisco Meraki has the ability to ship using most carriers if shipping on the customer’s account.
+If Cisco Meraki has any concerns or issues with the carrier you selected you will be contacted.
+==========
+Mexico Delivery Times
+Expedited shipments to Mexico using an expedited method will generally arrive in 2-5 business days.
+Excludes any issues that could arise with customs.
+It is very rare that Cisco Meraki experiences any issues with Mexican customs.
+Cisco Meraki will only send shipments to Mexico using EXW (Ex Works) incoterms.
+That means the customer will be the importer of record and will be responsible of all duties, taxes/VAT, and brokerage fees.
+Contact your local customs office for details.
+==========
+P.O. Boxes
+Cisco Meraki cannot deliver to a P.O. Box in the United States, Mexico, or Canada.
+Customers that place an order with a P.O. Box delivery address will be contacted for an alternative address.
+Other questions about shipping, please contact [email protected].
+Europe Delivery Times and Shipping Information
+European Shipping Methods
+Cisco Meraki will ship using UPS if product is shipped on Cisco Meraki’s account.
+==========
+The most common methods used are UPS Standard and UPS Expedited.
+Cisco Meraki is capable of shipping using most carriers and methods if the customer is shipping on a customer’s account.
+European Delivery Times
+Expedited shipments will generally arrive at their destination in 1-3 business days.
+==========
+P.O. Boxes
+For most addresses, PO Boxes are not acceptable delivery addresses.
+If your shipping address must include a PO Box Cisco Meraki cannot guarantee delivery.
+Shipping Options
+Cisco Meraki will only send Europe shipments using EXW (Ex Works) incoterms.
+That means the customer will be the importer of record and will be responsible of all duties, taxes/VAT and brokerage fees.
+Contact your local customs office for details.
+==========
+As a rule Cisco Meraki will ship any UPS or FedEx shipment to a non-EU country using a paperless process.
+The commercial invoice is therefore electronic and will not be included in the shipment.
+Cisco Meraki has the ability to ship using most carriers if shipping on a customer’s account.
+If Cisco Meraki has any concerns or issues with the carrier you selected you will be contacted.
+Other questions about shipping, please contact [email protected].
+==========
+Australia and New Zealand Delivery Times and Shipping Information
+Shipments to Australia and New Zealand will ship from California, US and will arrive in 2-5 days.
+UPS offers different international shipping options:
+UPS Worldwide Saver: 2-3 days transit, the more expensive option, not offered to all countries (e.g., Australia)
+UPS Worldwide Expedited: 2-5 days transit, the cheaper option
+P.O. Boxes
+For most addresses, P.O. Boxes are not acceptable delivery addresses.
+If your shipping address must include a P.O. Box Cisco Meraki cannot guarantee delivery.
+Shipping Options
+Cisco Meraki will only ship international shipments using EXW (Ex Works) incoterms.
+==========
+That means the customer will be the importer of record and will be responsible of all duties, taxes/VAT and brokerage fees.
+Contact your local customs office for details.
+As a rule Cisco Meraki will ship any UPS or FedEx shipment using a paperless process.
+The commercial invoice is therefore electronic and will not be included in the shipment.
+==========
+Cisco Meraki has the ability to ship using most carriers if shipping on a customer’s account.
+If Cisco Meraki has any concerns or issues with the carrier you selected you will be contacted.
+Other questions about shipping, please contact [email protected].
+==========
+Other International Locations Delivery Times and Shipping Information
+International shipments not going to North America or Europe will arrive in 2-5 days.
+UPS offers different international shipping options:
+UPS Worldwide Saver: 2-3 days transit, the more expensive option, not offered to all countries (e.g., Australia)
+UPS Worldwide Expedited: 2-5 days transit, the cheaper option
+P.O. Boxes
+For most addresses, P.O. Boxes are not acceptable delivery addresses.
+If your shipping address must include a P.O. Box Cisco Meraki cannot guarantee delivery.
+Shipping Options
+Cisco Meraki will only ship international shipments using EXW (Ex Works) incoterms.
+==========
+That means the customer will be the importer of record and will be responsible of all duties, taxes/VAT and brokerage fees.
+Contact your local customs office for details.
+As a rule Cisco Meraki will ship any UPS or FedEx shipment using a paperless process.
+The commercial invoice is therefore electronic and will not be included in the shipment.
+==========
+Cisco Meraki has the ability to ship using most carriers if shipping on a customer’s account.
+If Cisco Meraki has any concerns or issues with the carrier you selected you will be contacted.
+Other questions about shipping, please contact [email protected].
+==========
+END CUSTOMER AGREEMENT
+Last Updated: March 31, 2017
+Here at Meraki, we aim to keep our legal terms simple, transparent, and to the point.
+This End Customer Agreement (this “Agreement”) is the main agreement between us (Meraki LLC, a Delaware limited liability company (“Meraki”)) and you, the end customer and purchaser of our products (“Customer”).
+It forms a binding agreement between us and you, and it governs your purchase and use of our products.
+You and Meraki may each be referred to as a “Party” and collectively as the “Parties.”
+==========
+Please keep in mind that your use of the Products after changes to this Agreement are published at https://meraki.cisco.com/support/#policies:eca will constitute your acceptance of the changes.
+Any material changes are considered effective upon the earlier of (i) your continued use of the Products once you know about the changes, and (ii) 30 days after they are published.
+Okay, with all that in mind, let’s dive in.
+==========
+Heads-up: there’s a glossary of defined terms at the end.
+Article 1    Licenses and Restrictions.
+1.1.
+==========
+Paid Licenses.
+Subject to the terms and conditions of this Agreement, all the paperwork related to your purchasing being in order, and you actually paying for the Products, Meraki grants you non-sublicensable, non-exclusive, non-transferable licenses (i) to use the Firmware on the Hardware (the “Firmware Licenses”), and (ii) to use the Hosted Software via the Internet (the “Hosted Software Licenses”), in each case until the Co-Termination Date or the earlier termination of this Agreement.
+The Support Services we provide to you are included in the cost of the Hosted Software Licenses.
+The Firmware License for each item of Hardware you purchase is contingent upon you purchasing and maintaining a valid Hosted Software License, without which the Hardware will not function.
+1.2.
+Third-Party Licenses.
+==========
+If any of the Products include software provided by a third party, the terms under which that software is provided to you may be found at https://meraki.cisco.com/support/#policies:thirdparty.
+Don’t worry, we’ve made sure you have the right to use any such software as part of the Products at no additional cost to you.
+1.3.
+Restrictions.
+==========
+Let’s play nice together.
+Don’t (and don’t permit anyone who obtains access to your Network (a “Network User”) to) directly or indirectly, reverse engineer the Products or otherwise attempt to discover the source code or algorithms of Meraki software or hardware.
+1.4.
+==========
+Customer Responsibilities.
+Similarly, please use the Hardware only in accordance with the specifications (the “Specifications”) available on our website, and keep in mind that you (not Meraki) are solely responsible for maintaining administrative control over your Hosted Software account.
+And, of course, it is your responsibility to comply with all applicable laws in your use of the Products, including export laws and regulations of the United States or any other country.
+To that end you will ensure that none of the Products are directly or indirectly exported, re-exported, or used to provide services in violation of such export laws and regulations.
+If Meraki detects any Products operating in violation of such laws they will be removed from your account, following written notice to you (in the form of an email).
+Article 2 Ownership; Customer Data.
+2.1.
+==========
+Meraki Rights.
+As between you and Meraki, Meraki owns and reserves all rights with respect to the Software and all intellectual property rights with respect to the Hardware.
+In addition, you hereby assign to Meraki all of your interest in any feedback you convey to us related to the Products.
+Meraki may incorporate modifications into the Hosted Software, the Firmware and the Documentation at any time.
+2.2.
+==========
+Customer Data.
+By using the Hardware, you understand and agree that you are collecting data regarding the devices that connect to your Network and how your network is being used, including the types of data described below.
+By means of the Hardware, you are then transferring that data to Meraki for processing and storage, including data that may contain personally identifiable information of your Network Users (collectively, “Customer Data”).
+==========
+That said, the Products include functionality that limits or restricts the types of information collected, and you may certainly make use of that functionality.
+We process and store Customer Data exclusively for the purpose of providing the Products to you, except to the extent necessary to protect our rights in any dispute with you or as required by law.
+It is your responsibility to provide notice to, and obtain any necessary consents from, your Network Users regarding collection, processing, and storage of Customer Data.
+2.2.1.
+==========
+Traffic Information.
+“Traffic Information” means information about devices that connect to your Network, such as MAC address, device name, device type, operating system, geolocation information, and information transmitted by devices when attempting to access or download data or content (e.g., hostnames, protocols, port numbers, and IP addresses) via the Network.
+We process and store Traffic Information on your behalf so you can monitor the use and performance of your Network and exercise control (such as network traffic shaping) over the traffic on your Network.
+2.2.2.
+Location Analytics.
+By enabling and using Location Analytics, you collect the MAC address and relative signal strength of WiFi-enabled devices that are within range of your wireless Network.
+==========
+Meraki does not store these MAC addresses on its servers, except in a de-identified form, and they are not stored on your Hardware.
+Meraki has no responsibility for whether and how you configure the API to transfer this data to non-Meraki servers or what happens to this data following such a transfer.
+2.2.3.
+==========
+Systems Manager.
+If you choose to use Systems Manager, certain agent software must be installed on the mobile devices, laptops or other devices you choose to enroll.
+You will then, depending on the type of device, be able to perform remotely actions such as accessing and deleting files, tracking location, enforcing policies, and installing and removing apps.
+2.3.
+==========
+Publicity.
+We won’t use each other’s name or trademarks without written consent, but we may use your company name and logo in customer lists on our website and collateral.
+Article 3 Term and Termination.
+3.1.
+==========
+Term.
+This Agreement will be effective until the expiration of the Term (the “Co-Termination Date”), unless earlier terminated per Section 3.2, below.
+If you subsequently purchase additional Hosted Software Licenses, the Co‑Termination Date will be adjusted so that all of your Hosted Software Licenses (including the new ones) terminate on the same date.
+This adjusted Co-Termination Date is calculated by (i) determining the aggregate amount of time that your new Hosted Software Licenses extend past your existing Co-Termination Date, and (ii) distributing that amount of time among all your Hosted Software Licenses (including both new and existing ones) pro rata based on the one-year list price for each type of Hosted Software License.
+Further information is at http://meraki.cisco.com/support#policies:licensing.
+3.2.
+==========
+Termination.
+You may terminate this Agreement for any reason effective upon 30 days prior written notice to Meraki.
+Meraki may suspend your use of the Products at any time if Meraki reasonably believes that you have breached the terms of Sections 1.3 and 2.2; if such breach remains uncured for 10 days following receipt of notice from Meraki, then Meraki may terminate this Agreement immediately.
+You may terminate this Agreement for cause if we breach any material obligation of ours under this Agreement and fail to cure such breach within 10 days following receipt of written notice from you.
+If you terminate this Agreement for cause, you will receive a refund equal to the value of the remaining time on your Hosted Software Licenses.
+3.3.
+==========
+Effect of Termination.
+Upon any termination of this Agreement, the Hosted Software Licenses and Firmware Licenses will automatically terminate.
+Sections 2.1 and 4.3, Article 5 and Article 6 will survive any termination of this Agreement.
+Article 4 Warranties; Limitation of Liability.
+4.1.
+Service Level Agreement.
+==========
+Meraki uses its best efforts to keep the Hosted Software up and running 24/7, but no one is perfect.
+The Service Level Agreement available at https://meraki.cisco.com/trust#sla is your exclusive remedy with respect to any interruptions in the availability of the Hosted Software.
+4.2.
+==========
+Hardware Warranties.
+We represent to you, the original purchaser of the Hardware, that, during the Warranty Period, the Hardware will be free from material defects in materials and workmanship.
+Hardware not meeting the warranty above will be, at our option, (a) repaired, (b) replaced, or (c) we will refund the depreciated amount of the price you paid for such Hardware, calculated on a straight-line, five-year basis.
+All Hardware repaired or replaced under warranty will be warranted for the remainder of the Warranty Period.
+For any return permitted under Meraki’s then-current return policy (available at http://meraki.cisco.com/support/#policies:return), you will request a Return Materials Authorization (“RMA”) number in writing with the reasons for the return request.
+The warranties in this Section are subject to our Product End of Life Policy, available at https://meraki.cisco.com/support/#policies:eol.
+==========
+“Warranty Period” means the greater of one year or the warranty period set forth in the applicable Specification, commencing, in either case, on the date Hardware is shipped to the original customer.
+This Section 4.2 is our sole liability and your sole remedy for any breach of warranty by Meraki.
+4.3.
+==========
+Disclaimer of Warranties.
+Except as set forth in Sections 4.1 and 4.2, Meraki disclaims all warranties, express, implied, statutory, or otherwise, including any implied warranty of merchantability, fitness for a particular purpose, non-infringement, or title.
+Meraki assumes no responsibility for any damages to Customer’s hardware, software, or other materials.
+Article 5 Indemnity.
+Customer will indemnify Meraki, its affiliates, and their employees, officers, directors, successors, assigns, agents for all losses (including reasonable attorneys’ fees) relating to any claims brought by a third party to the extent based upon: (i) grossly negligent or intentionally wrongful acts of Customer or Customer’s assistants, employees, agents, or Network Users; (ii) Customer’s unauthorized modification of the Products; (iii) Customer’s combination of the Products with other products, software, or services not supplied or specified by Meraki; or (iv) Customer’s failure to implement software modifications or patches provided by Meraki within a reasonable timeframe.
+Article 6 Limitation of Liability.
+Neither party will be liable for: indirect, incidental, exemplary, special, or consequential, damages; loss or corruption of data; or loss of revenues, profits, goodwill, or anticipated sales or savings.
+In no event will Meraki’s total cumulative liability to Customer and anyone who uses the Products through Customer’s account exceed the aggregate amount Customer has paid to Meraki or its resellers to purchase the Products during the prior 12-month period.
+==========
+Article 7 Confidentiality.
+Business or technical information (collectively, “Confidential Information”) provided by one of us (the “Discloser”) to the other (the “Recipient”) will be kept confidential by the Recipient and may not be used or disclosed except to perform this Agreement.
+Confidential Information does not include information that (a) is or was lawfully received by the Recipient from another party without confidentiality obligations, (b) becomes available in the public domain through no action or inaction of the Recipient, or (c) is developed independently by the Recipient without reference to the Discloser’s Confidential Information.
+If legally permissible, Recipient will provide Discloser prompt written notice if legally compelled to disclose Discloser’s Confidential Information.
+Article 8 Miscellaneous.
+==========
+This Agreement is the entire agreement between you and us and supersedes all prior agreements and understandings about all this stuff.
+Failure to exercise any right under this Agreement will not constitute a waiver.
+There are no third-party beneficiaries to this Agreement.
+This Agreement is governed by the laws of California without reference to conflicts of law rules.
+For any dispute relating to this Agreement, the Parties consent to personal jurisdiction and the exclusive venue of the courts in Santa Clara County, California.
+==========
+Communications we send to you electronically will be deemed to be in writing.
+Any notice you provide to us under this Agreement will be in writing and sent by overnight courier or certified mail (receipt requested) to the address above.
+If any provision of this Agreement is found unenforceable, this Agreement will be construed as if it had not been included.
+Meraki may assign this Agreement without the consent of Customer to Cisco Systems, Inc. or its affiliates.
+Article 9 Certain Definitions.
+The following terms not defined elsewhere in this Agreement have the respective meanings set forth below.
+==========
+“Location Analytics” means the location analytics features of the Hosted Software.
+“Documentation” means any user instructions, manuals, Specifications, or other documentation provided by Meraki at https://meraki.cisco.com/support/#documentation that relate to the Products, including any Modifications.
+“Firmware” means software embedded in or otherwise running on the Hardware.
+“Hardware” means Meraki hardware products you have purchased, received in a product trial, promotion, or beta test, or otherwise running on your Network.
+“Hosted Software” means our proprietary, web-based software platform, including the interface known as the “Dashboard,” Systems Manager and any API provided by Meraki.
+==========
+“Network” means your local area network, created in whole or in part by use of the Products.
+“Products” means the Hardware, the Hosted Software, the Firmware, the Documentation, and the Support Services.
+“Support Services” means the customer support services described at https://meraki.cisco.com/support.
+“Systems Manager” means Meraki’s web-based mobile device management software.
+“Term” means the term of the Hosted Software Licenses you have purchased or received in a product trial, as modified each time you purchase additional Hosted Software Licenses so that all your Hosted Software Licenses expires at the same time in accordance with the provisions of Section 3.1.
+==========
+Read this policy in:
+日本語
+简体中文
+License Co-Termination Summary
+Following a customer’s initial license purchase, if the customer purchases a new license in connection with a new hardware unit or purchases a new license for an existing hardware unit, then the term of each license (new and existing) in the customer’s organization will be automatically adjusted so that all of the customer’s licenses terminate on the same date.
+This concept is referred to as “co-termination” and is described in more detail below.
+The following is a conceptual example.
+==========
+Assume the original purchase included ten APs, each with a 1-year license.
+Also assume four months into the license term there are six additional APs added, each with a 1-year license.
+Extra credit is applied with value of 4 additional months * 6 additional APs = 24 additional 'AP-months'.
+This gives an additional 24 months / 16 total AP's in the organization = an additional 1.5 months to the license term for the whole organization.
+==========
+Detailed explanation of licensing co-termination
+This section describes in detail each step of the co-termination algorithm which is reflected mathematically in the next section.
+The dollar value of each license, for purposes of the co-termination calculation, is the one-year list price of the applicable license purchased (the “Base Price” of such license — see table of base prices below).
+The co-termination date is then computed by, first, determining the amount of time remaining on the existing licenses in a customer’s organization by subtracting the license expiration date (available in the customer’s Dashboard account) from the current date (such difference, the “Remaining Days”).
+The amount of additional time allocable to the new licenses purchased is determined by multiplying a one-year period of 365 days by the term (of years) of the new licenses purchased (the “New Time Purchased”) and subtracting from the New Time Purchased the number of days of Remaining Days (such difference, the “Incremental Days,” expressed in days).
+The Incremental Days is then converted to a dollar-value unit of time by adding together, for each type of new license purchased, the product of (i) Incremental Time, (ii) the Base Price of the such new license-type purchased, and (iii) the number of such new license-type purchased (the sum of all such products, the “Incremental Dollar Days”).
+==========
+In order to determine how many additional days the new purchase adds to the license term of a customer’s organization, the daily usage rate of these dollar-value units of time must be calculated.
+This is determined by adding together, for each type of license in the organization, the product of (i) the Base Price of each license type and (ii) the number of licenses of such type (the sum of all such products is your Network’s “Daily License Usage Rate”).
+The actual number of incremental days to be added to the organization’s licenses as a result of the new purchase is calculated by dividing the Incremental Dollar Days by the Daily License Usage Rate (such quotient, the “Incremental TIme Purchased”).
+The new co-termination date is finally calculated by adding the Incremental Time Purchased to the Remaining Days.
+License Base Price Table (does not include all licenses)
+Products Edition Base_Price
+Wireless Enterprise $150.00
+Wireless Advanced Security $150.00
+MX50 Enterprise $500.00
+MX50 Advanced Security $1000.00
+MX60 Enterprise $250.00
+MX60 Advanced Security $500.00
+MX60W Enterprise $275.00
+MX60W Advanced Security $550.00
+MX70 Enterprise $1000.00
+MX70 Advanced Security $2000.00
+MX80 Enterprise $2000.00
+MX80 Advanced Security $4000.00
+MX100 Enterprise $2500.00
+MX100 Advanced Security $5000.00
+MX400 Enterprise $8000.00
+MX400 Advanced Security $16000.00
+MX600 Enterprise $16000.00
+MX600 Advanced Security $32000.00
+Z1 Enterprise $25.00
+MS320-24P Enterprise $325.00
+SM — $40.00
+Mathematical Expression
+This section expresses in mathematical terms the detailed explanation of the co-termination algorithm described in the previous section.
+==========
+Definitions:
+Remaining_Time = Time remaining on life of original purchase, expressed in seconds
+New_Time_Purchased = Life of new licenses purchased (i.e., 1-year, 3-year, 5-year, 7-year, or 10-year)1
+To calculate the new termination date of your network at the time of purchase of additional devices for your network:
+Determine the amount of time remaining on your current network, before the new purchase, or 0, whichever is greater
+Calculate Incremental_Network_Time purchased on new devices only
+Convert Incremental_Network_Time into Incremental_Dollars_Days, for new devices only
+Calculate the Daily License Usage Rate of your entire network, including all your existing and new devices
+Convert Incremental_Dollars_Days into Incremental_Time_Purchased
+Add Incremental_Time_Purchased to Remaining_Time to calculate Remaining_Time2 of your new network
+Note 1: In the Meraki dashboard a unit of time is one second.
+Examples
+Co-Termination Example Problem A:
+On January 1, 2013, you purchased and activated five Wireless MR16s with 1 year licenses for your network.
+Today is May 8, 2013 (127 days later).
+==========
+You purchase and activate two MX80s with 3-year Advanced Security licenses to be added to your network.
+Calculate in days the remaining time you have on your network.
+Solution
+Remaining_Time_1 = January 1,2014 - May 8,2013 = 238 days
+Incremental_Network_Time = 1,095 days - 238 days = 857 days
+Incremental_Dollars_Days = 857 days × $2,000 × 2 = 3,428,000 dollar days
+Daily License Usage Rate = (5 MR16s × $150) + (2 MX80s × $2,000) = $4,750
+Incremental_Time_Purchased = (3,428,000 dollars days) / $4,750 = 722 days
+Remaining_Time_2 = 722 days + 238 days = 960 days remaining on new network
+Co-Termination Example Problem B:
+On January 1, 2013, you purchased and activated twenty wireless MR24s with 3-year licenses and one MX400 with a 3-year Advanced Security license for your network.
+Today is May 8, 2013 (127 days later).
+You purchase and activate an additional twenty-five wireless MR16s with 3-year licenses to be added to your network.
+Calculate in days the remaining time you have on your network.
+Solution
+Calculate Co-Term of January 1, 2013 Purchase (adding MX400 to MR24s on same day)
+Remaining_Time_1 = January 1,2016 - January 1,2013 = 1,095 days
+Incremental_Network_Time = 1,095 days - 1,095 days = 0 days
+Incremental_Dollars_Days = 0 days × $16,000 × 1 = 0 dollar days
+Daily License Usage Rate = (20 MR24s × $150) + (1 MX400 × $16,000) = $19,000
+Incremental_Time_Purchased = (0 dollars days) / $19,000 = 0 days
+Remaining_Time_2 = 1,095 days + 0 days = 1,095 days remaining on new network
+
+Calculate Co-Term of May 8, 2013 Purchase (adding twenty-five MR16s to existing network)
+Remaining_Time_1 = January 1,2016 - May 8,2013 = 968 days
+Incremental_Network_Time = 1,095 days - 968 days = 127 days
+Incremental_Dollars_Days = 127 days × $150 × 25 = 476,250 dollar days
+Daily License Usage Rate = (20 MR24s × $150) + (1 MX400 × $16,000) + (25 MR16s × $150) = $22,750
+Incremental_Time_Purchased = (476,250 dollars days) / $22,750 = 21 days
+Remaining_Time_2 = 968 days + 21 days = 989 days remaining on new network
+Co-Termination Example Problem C:
+On January 1, 2013, you purchased and activated fifteen Wireless MR16s with 5-year licenses.
+On June 30, 2013, you purchased and activated one MX80 with a 3-year Advanced Security license.
+Today is March 31, 2015 and you purchase and activate two MS42P Switch with a 1-year license.
+Calculate in days the remaining time you have on your network.
+Solution
+Calculate Co-Term of June 30, 2013 Purchase (adding MX80 to MR16s)
+Remaining_Time_1 = December 31,2017 - June 30,2013 = 1,645 days
+Incremental_Network_Time = 1,095 days - 1,645 days = -550 days
+Incremental_Dollars_Days = -550 days × $2,000 × 1 = -1,100,000 dollar days
+Daily License Usage Rate = (15 MR16s × $150) + (1 MX80 × $2,000) = $4,250
+Incremental_Time_Purchased = (-1,100,000 dollars days) / $4,250 = -259 days
+Remaining_Time_2 = -259 days + 1,645 days = 1,386 days remaining on new network
+Co-termination Date = June 30, 2013 + 1,386 days = April 16, 2017
+
+Calculate Co-Term of March 31, 2015 Purchase (adding two MS42Ps to existing network)
+Remaining_Time_1 = April 16,2017 - March 31,2015 = 747 days
+Incremental_Network_Time = 365 days - 747 days = -382 days
+Incremental_Dollars_Days= -382 days × $200 × 2 = -152,871 dollar days
+Daily License Usage Rate = (15 MR16s × $150) + (1 MX80 × $2,000) + (2 MS42Ps × $200) = $4,650
+Incremental_Time_Purchased = (-152,871 dollars days) / $4,650 = -33 days
+Remaining_Time_2 = -33 days + 747 days = 714 days remaining on new network
+Co-termination Date = March 31, 2015 + 714 days = March 14, 2017
+Frequently Asked Questions
+What is the exact unit of time that is used for the licensing calculations?
+==========
+Seconds.
+“Incremental Dollar Days” are actually computed in terms of incremental seconds in order to ensure precision in calculating the term of the licenses purchased.
+Once the exact expiration time is computed, actual license expiration is rounded to the nearest day and enforced at 9am Pacific Time on that day.
+==========
+What happens if I purchase a new order with multiple different license lengths (e.g., 1 MR24 with a 1-year license, 1 MS42P with a 1-year license, and 3 MX100s with 3-year licenses)?
+Each iteration of the co-term formula is only run with respect to licenses of the same term.
+So when new licenses are purchased on the same order with different terms, the co-term calculation is run multiple times.
+The calculations are run in the order of license addition.
+In the above example, the co-term calculation would first be run on the MR24 and MS42P, with the first co-term date calculated; a new co-term date would then be calculated using the first co-term date and the MX100 license for 3-years.
+==========
+What is the difference between license renewals and adding licenses/devices?
+The co-termination calculation for renewals only (no new devices being added) is slightly different because the total license time in the customer’s organization is not being ‘spread’ across any additional devices in the case of a renewal.
+Accordingly, when renewing the licenses for existing devices, the Incremental Dollar Days are calculated as a function of the entire term of the license (i.e., license term in years multiplied by a year of 365 days).
+In contrast, when purchasing a license for a new devices, the Incremental Dollar Days is calculated as a function of the “Remaining Time,” that is, the difference between the term of the new license and the amount of time remaining under the customer’s existing licenses.
+==========
+Expressed mathematically, the difference in the two formulas is as follows:
+Renewal Incremental_Dollar_Days = New_Time_Purchased * Count of Device * Device Base Price
+New Device Incremental_Dollar_Days = (New_Time_Purchased - Remaining_Time) * Count of Device * Device Base Price
+What happens when upgrading from enterprise to advanced security licenses?
+When purchasing MX products, a customer must either choose Enterprise licenses for those products or Advanced Security licenses — but not both.
+If a customer wants, for instance, to upgrade to the Advanced Security functionality on its MX devices and purchases new MX licenses, the co-termination calculation is re-run because the Advanced Security licenses are more expensive.
+This means that both the Incremental Dollar Days and the Daily License Usage Rate will be adjusted since each is calculated as a function of the Base Price of the licenses.
+Is there a place I can easily run a sample co-termination calculation myself?
+==========
+Yes.
+The Meraki Dashboard includes a manual co-termination calculator.
+To access it, first create a dashboard account for free by clicking here.
+Then click here to be taken to the co-termination calculator.
+==========
+Open Source/Licenses
+This page contains versions of the RedBoot bootloader, Linux kernel and OpenWRT distribution modified to run on the Meraki hardware, along with associated licenses.
+Please note that custom firmware images are not supported by Meraki and may put your device in a non-working state.
+Devices with custom firmware images are not covered under the limited warranty.
+==========
+Enjoy!
+Third Party Licenses
+The following products are subject to the VRT Certified Rules License Agreement:
+MX64
+MX64W
+MX65
+MX65W
+MX84
+MX100
+MX400
+MX600
+View the latest version of the VRT Certified Rules License Agreement.
+Systems Manager Free 100 Terms and Conditions
+Last Updated: April 2017
+Note: Sign-ups for the Meraki SM free 100 program have been discontinued and replaced with instant free trials as of the end of January 2017.
+For more information, view the blog post here or contact your Meraki sales rep.
+Potential customers can manage 100 devices in order to try Meraki Systems Manager (the “SM Free 100”) at no cost.
+To be eligible for the SM Free 100, participants must:
+Provide valid information on the signup form, including your company email address
+Be directly employed by your company
+
+SM Free 100 is only for internal use by your company.
+==========
+It is not for resale, distribution or service bureau use.
+Limit one SM Free 100 per organization and per individual.
+Your use of Systems Manager is governed by our End Customer Agreement.
+By accepting the SM Free 100 you represent that you are authorized by your employer to accept the SM Free 100 and that you will disclose receipt of the SM Free 100 to your employer as and if required.
+Notwithstanding the End Customer Agreement, Cisco Meraki may terminate the Free 100 program at any time, including managing up to 100 devices at no cost – but if we do that, we’ll give you plenty of notice.
+The recipient is responsible for taxes and duties, if any.
+Please contact your Cisco Meraki rep if you have any questions.
+==========

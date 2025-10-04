@@ -1,0 +1,47 @@
+This page explains what cookies are and the types of cookies used by the Rappler website
+Rappler, like many websites, uses small pieces of data called “cookies” to customize your experience and serve you better.
+This page explains what cookies are and the types of cookies used by the Rappler website.
+This page also contains information on how to remove cookies from your browser, and other useful information.
+What is a cookie?
+A cookie is a small piece of data stored in a browser by a website.
+The data inside the cookie allows websites (like Rappler) to remember preferences, and customize your experience.
+Examples are remembering language preference or the mood meter polls you’ve voted on.
+==========
+How does Rappler use cookies?
+Your visit to the Rappler website may yield 4 types of cookies – preference cookies, analytics cookies, registration cookies, and advertising cookies.
+Preference cookies
+Every time you set preferences on Rappler – language settings, country settings – we save a preference cookie.
+We do this so you don’t have to set these preferences every time you visit the site.
+==========
+Analytics cookies
+Every time you visit Rappler.com, a service we use provided by another company saves an analytics cookie.
+This analytics cookie tells us if you’ve been on the site before, how often you visit, how long you stay, etc.
+There is no personally identifiable data stored in the analytics cookie, and we cannot use these cookies to identify you, or other users of the website.
+Registration cookies
+Each time you sign in or log in to Rappler.com, we generate a registration cookie to let us know if you’re logged in.
+We use that cookie to map your data to the account you’re logged in with.
+We also use the registration cookie to figure out which services you have access to across the Rappler platforms.
+Every time you sign out, the registration cookie is cleared.
+==========
+While there is information in the registration cookie such as your email, it is obfuscated and decodable only by Rappler services.
+We will also sometimes use the registration cookie with the analytics cookie to figure out what pages you’ve read on the site so we can recommend stories that you might like to read.
+==========
+Advertising cookies
+The advertisements you see on Rappler.com are provided by another company.
+These companies use their own cookies to track the performance of their advertisements.
+They may also use advertising cookies to anonymously present ads to you even on other websites, based on your browsing history.
+These companies have their own cookie policies and Rappler cannot modify or alter their cookies in any way.
+Removing cookies
+All modern browsers support removing all cookies, or cookies from a particular website.
+Unfortunately, we will lose the ability to recognize you as a logged-in user, or the ability to remember your preferences if you remove the Rappler cookies.
+Should you wish to remove your cookies, however, check out the links below for your browser:
+Internet Explorer cookie settings
+Firefox cookie settings
+Chrome cookie settings
+Safari web cookie settings and iOS.
+More information
+Here are some useful links if you want to find out more:
+Euro GDRP and cookies
+Philippine Data Privacy Act of 2012
+– Rappler.com
+==========

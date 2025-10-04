@@ -1,0 +1,113 @@
+Last Updated: April 22, 2014
+Sift Science, Inc. (“Sift Science”, “we” or “us”) helps online businesses (our “Clients”) detect and address fraud and other malicious behavior on their digital properties.
+In doing so, we collect information about how Internet users (“Users”) interact with our Clients’ digital properties such as their websites and mobile applications (their “Sites”).
+Our fraud and risk analytics services (the "Service") were developed using a privacy by design approach to help ensure that we adhere to applicable privacy law and standards.
+The following Sift Science Service Privacy Notice (“Service Privacy Notice”) outlines what information we collect via our Service, how we use and disclose it, and who to contact if you have questions.
+If you’d like more information about the privacy practices related to our Website, please visit our Website Privacy Notice by clicking here.
+We may revise this Service Privacy Notice from time to time.
+==========
+If we do so, we will update the "Last Updated" date above.
+Users should revisit this page to stay aware of any changes.
+==========
+Safe Harbor Privacy Principles
+We comply with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+We have certified that Sift Science adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/
+We self-certify compliance with:
+Data collected via the Service
+The information collected via the Service Includes:
+1.
+==========
+Client-Provided Information: Most of our Clients share information with us via an Application Programming Interface (“API”).
+While our Clients control the information they provide to our Service, and each Client shares different pieces of information with us, the types of information they share generally includes information collected from the computers and similar devices operated by their Users visiting their Sites.
+For example, Clients may provide us with:
+Personally identifiable information such as email addresses, postal addresses, user login name or other unique customer identifiers and telephone numbers.
+Site usage information such as the IP addresses of the device utilized by our Clients’ Users to visit their Sites, the pages viewed by their Users, the items viewed, items bid on, items placed in a shopping cart, and items purchased by those Users as well as other Site-specific metadata.
+==========
+Site transaction information such as the price paid, billing method, the credit card BIN number, the last four digits of a credit card number, and whether a chargeback was issued or an order was canceled.
+Site communication information such as certain User feedback provided on Sites, including comments their Users submit through such Sites (including the contents of private messages and information pertaining to the recipient of such messages).
+We generally don’t place limits on the types of information that our Clients may provide to us, but do ask our Clients to refrain from providing us with sensitive information such as information they knowingly collect from persons under 13, complete credit and debit card numbers, social security numbers and other government identifiers.
+2.
+==========
+Automatically Collected Information: Our Clients place JavaScript code onto their Sites that enables the Service to collect information from their Users automatically.
+Our Clients have control over the JavaScript tag and may remove or disable it at any time.
+==========
+The information collected automatically via the Service includes information about their Users’ computers and other devices, such as: the types and number fonts installed, the types and number of fonts, the types and number of plugins installed, MIME types supported, version strings for Windows Media Player, Flash, PDF, VLC, SVG, Real Player, Shockwave, Silverlight, Java and QuickTime.
+The Service also automatically collects information about the device’s screen width, height and color depth, the operating system in place on the device, the user agent, the local time zone, and DST time zone.
+3.
+==========
+Cookies and Web beacons: We use cookies and web beacons in connection with the Service.
+Cookies are small text files containing a string of alphanumeric characters.
+==========
+When a User accesses one of the Sites operated by our Clients, we may send one or more cookies to the User’s computer.
+By sending cookies with values that are unique to them, we may be able to uniquely identify a User’s computer or device in order to recognize the device when that User accesses any of the Sites utilizing our Service.
+We may use both "session" and "persistent" cookies to collect, store, and otherwise keep track of various types of information pursuant to providing the Service.
+4.
+==========
+Identification Technology and Cookies: We may employ different types of technology, including standard log files, cookies, web beacons, and other similar technologies to automatically log certain information about the configuration of Users’ computers, mobile devices and web browsers, inform us of referring URLs and otherwise inform us about Users’ visits to Sites.
+Much of the information we obtain via the Service, both from our Clients and directly from their Users, when combined, may enable us to uniquely identify those Users’ computers, devices and/or browsers when they access any Sites across the Internet.
+This means that even if a User were to disable cookies, we may still be able to identify that User’s web browser, computer or mobile device on the Internet when that User accesses any of their Sites that use our Service.
+Use of Data Collected by the Service
+Our Service collects and stores the raw data pertaining to Users as described above, including any individual identifiers and personally identifiable information (the “Raw Data”).
+==========
+We then use our proprietary analytics algorithms to analyze and process the Raw Data.
+Based on this analysis, we provide our Clients with an assessment of the relative risk that a particular User transaction or other User activity may be unauthorized or fraudulent ("Risk Assessment").
+Pursuant to providing the Service, we combine and analyze data related to a User from multiple sources, including the data obtained across all or most of our Clients in order to compute a more comprehensive Risk Assessment.
+==========
+Except as provided in this Privacy Notice, we do not sell or disclose to third parties any of the Raw Data, or claim ownership of the Raw Data.
+We may allow our agents and contractors to assist us in storing, analyzing or processing information and ensure that their privacy and security practices are at least as stringent as ours.
+We use Raw Data for our internal business purposes in operating, developing, enhancing, maintaining, supporting, and providing the Service and our other products and services, including to other Clients.
+All analytical results and Risk Assessments that we generate through or in connection with the Service using Raw Data, whether alone or in combination with data from other sources, are and will remain our property and may be used and disclosed by us in our discretion.
+Disclosure and Onward Transfer of Data
+Except as otherwise described in this Service Privacy Notice, we do not sell, distribute, or otherwise disclose any Raw Data to any third party, except to our agents and contractors that provide services to help us manage and provide the Service.
+==========
+Sift Science may disclose any information in our systems if we believe that doing so is legally required or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others, or otherwise to help protect the safety or security of other persons, entities, facilities, equipment or the Service.
+Sift Science may transfer information to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
+If we are involved in a merger, acquisition, or sale of all or a portion of its assets, we will provide a prominent notice on our Website of any change in ownership or uses of information, as well as any choices we may offer regarding the information in our systems.
+==========
+Security, Data Integrity
+Sift Science has implemented reasonable physical, technical, and managerial safeguards in an effort to protect information from unauthorized access, disclosure, alteration, and destruction.
+These include firewalls and encryption, internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems.
+We restrict access to information to employees, contractors and agents who need to know that information in order to operate, develop or improve our Service.
+==========
+These individuals are bound by confidentiality obligations and may be subject to discipline, including termination, if they fail to meet these obligations.
+Despite our efforts, however, we cannot and do not guarantee the security of the information we collect from either our Clients or Users; nor can we guarantee that such information will not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+==========
+We process information in a way that is compatible with and relevant for the purpose for which it was collected.
+To the extent necessary for those purposes, we take reasonable steps to ensure that any information in our care is accurate, complete, current and reliable for its intended use.
+Choice Mechanism
+You may send requests to understand what personally identifiable information we have on you by emailing us at privay@siftscience.com.
+==========
+Policies of our Clients
+Our Clients are responsible for ensuring and maintaining their compliance with their privacy policies and other applicable terms or policies, third party contracts, rights of privacy, and any other applicable laws or regulations in connection with their use of the Service.
+We encourage our Clients to describe their use of the Service and other technologies that collect user information in their respective privacy notices.
+We also encourage everyone to view the privacy notice of any website they visit.
+Sift Science is not responsible for the privacy practices of our Clients or any site we do not own or control.
+International Users
+We may store, analyze, and use information in the United States or any other country in which we or any of our third party service providers operate.
+==========
+We comply with the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+To the extent that Users encounter our Service from other regions of the world with privacy laws that differ from laws of the United States or other applicable jurisdictions, then those Users should understand that they are transferring their information outside of those jurisdictions to the United States or other jurisdictions for the uses identified above in accordance with this Privacy Notice.
+Contact Information
+Please contact Sift Science with any questions or comments about this Privacy Notice or our collection, use, or disclosure of information by email at privay@siftscience.com.
+==========
+We will make every effort to resolve your concerns.
+Alternatively, you may contact us at the address below:
+Sift Science Inc.
+==========
+Attn: Privacy Officer
+123 Mission Street, 15th Floor
+San Francisco, CA 94105
+Enforcement
+We encourage interested persons to raise any concerns using the contact information provided below and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of information.
+Privacy Complaints by European Union and Swiss Citizens
+In compliance with the U.S.–EU and U.S-Swiss Safe Harbor Principles, Sift Science commits to resolve complaints about privacy and our collection and use of information.
+European Union and Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Sift Science at privacy@siftscience.com.
+Sift Science has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus.
+If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Privacy Officer at Sift Science, please visit the BBB EU SAFE HARBOR website at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint:
+Council of Better Business Bureaus, Inc.
+BBB EU Safe Harbor
+3033 Wilson Boulevard, Suite 600
+Arlington, VA 22201
+U.S.A.
+==========

@@ -1,0 +1,33 @@
+Privacy overview
+Privacy is important to Blackboard and the teachers, learners and educational institutions that we serve.
+Blackboard is committed to following both legal obligations and best practices with regard to the collection, protection, use and storage of private information.
+We also support the privacy policies of your educational institution.
+Privacy: Your institution, Blackboard & you
+Blackboard provides certain products run by educational institutions at non-Blackboard sites.
+For such products, Blackboard recommends that you consult with your educational institution's privacy policies.
+Blackboard provides a number of configuration options to allow such institutions to implement their privacy guidelines within our products.
+Blackboard products, websites, and other services may also connect with or be run as managed services or software-as-a-service offerings from within Blackboard or third-party datacenters located around the world.
+==========
+Use of such products, websites, and services may result in collection of private information by Blackboard.
+Please see our privacy policy located here to learn more about the information we collect, store, use and share.
+By using such products, websites, and services, you consent to the practices disclosed in the privacy policy.
+==========
+Support for SSL encryption
+Any institution may choose to run its Blackboard Learn solution under SSL.
+SSL is a browser technology that encrypts the data transmitted between your computer and the Blackboard server.
+SSL websites have an address that begins with https:// instead of http:// (note the additional “s”).
+==========
+Blackboard strongly encourages all schools to run under SSL to ensure data privacy of transmitted data and to secure the transmission of login and password information.
+Blackboard Social
+The Blackboard Social functionality includes the ability of its users to determine appropriate privacy settings for users' data, subject to limitations imposed by the users' applicable institutions.
+All users of the social media functionality are solely responsible for monitoring and updating their privacy settings on a regular basis, in order to help protect the privacy of the users' data in accordance with the users' preferences.
+Privacy contacts
+If you have specific questions or concerns regarding these policies please contact:
+General Counsel
+Blackboard Inc.
+1111 19th Street, N.W.
+Washington DC 20006
+P: +1 202.303.9372
+Efax: +1 623.476.1481
+privacy@blackboard.com
+==========

@@ -1,0 +1,134 @@
+Privacy at Avocet  Avocet is committed to protecting consumer privacy and to clearly informing users about the collection and use of data when using our services or visiting our website.
+The following pages describe Avocet's policies on privacy and use of data and enable you to control any data that Avocet holds on you.
+(1) Avocet Privacy ExplainerWhat is Avocet and The Economy of the Internet?
+Avocet is a software platform used by brands and agencies to buy advertising on the open internet (i.e. everything that isn't Google and Facebook) as effectively as possible.
+That's an important job because - for better or worse - it's how we pay for content on the web.
+No advertising means no New York Times, no Guardian, no wild and wonderful internet.
+The more precise and persuasive the advertising the higher the revenue generated for content creators.
+==========
+Questions about Privacy  Privacy on the internet is complex and at times difficult to explain to the average user.
+Internet companies have been hiding behind that complexity for years with lengthy and unreadable privacy agreements which make it close to impossible for users to take control of their data.
+We've tried to offer straightforward explanations below, but if you find something confusing or want more depth send us a message on privacy@avocet.io.
+==========
+We'll use your feedback to provide better educational content.
+Privacy Principles  We collect various types of user data (described below), but as we do that we follow a simple set of principles:  Only store data for purposes that an average user would expect.
+If data is sensitive then it's too sensitive to be used for advertising purposes, so don't store it.
+(e.g. racial origin, health data, sexual orientation…etc.)  Minimize the amount of data stored to what is strictly needed to advertise effectively.
+Maximize anonymity and encryption for all data stored.
+For what purposes does Avocet collect data?
+==========
+Ad fraud prevention.
+Analyzing and reporting advertising performance.
+Controlling which and how many ads are displayed to a user.
+Our clients collect data via Avocet technology for their own purposes (subject to an Avocet audit of the validity of those purposes and the sensitivity of the data collected).
+Analyzing and reporting on traffic to our corporate site ("avocet.io").
+==========
+What data is stored?
+Mappings between your Avocet ID and other IDs which allow clients and partners to use their own data within the Avocet platform.
+Segmentations of your Avocet ID; in other words, putting your ID into a group based web-behavior.
+This is data is processed by Avocet, but owned by our clients.
+We continuously audit the way our clients are using this functionality to make sure it's consistent with your rights and follows privacy best-practices.
+==========
+Third Party Data Segmentations; data integrated into the Avocet Platform by a third-party.
+Again, this isn't Avocet's data, but as a processor of the data we subject it to an audit to validate the purposes and sensitivity of the segmentation.
+What data isn't ever stored?
+Any segmentations or data points that individually or in combination could allow you to be identified in the "real world".
+==========
+E.g. full name, email address, physical address, etc.
+Any sensitive segmentations - e.g. racial origin, health data, sexual orientation, etc.
+Precise location.
+Full IP-Address.
+==========
+How is it collected?Avocet uses cookies and tags to collect data directly.
+Additionally, we receive data from mobile SDKs and third-party data providers via platform integrations.How is it shared?It's not.
+Ever.
+==========
+Avocet's cookie IDs are never stored anywhere, except on your browser.
+Only anonymized and/or aggregated data is shared to our clients and partners.How is stored?The Avocet ID is never stored in any log-file or database.
+We store a 'hash' of the ID which allows the data to be stored anonymously.
+Only when we receive a request from your computer are we able to connect the Avocet ID to the data we've stored.
+Think of your Avocet ID as a private key only accessible to you.
+==========
+When you go on a website that ID is handed to us by your browser and it allows us to access and update the data we've stored.
+When we aren't in contact with your browser - the data goes back to being anonymous.
+What can I do?Download your data (show first party data memberships and names).
+Inspect your data.Opt-In or Out of various purposes.Delete your data (line by line).
+==========
+(2) Avocet Privacy Policy Avocet is committed to protecting consumer privacy and to clearly informing users about the collection and use of information.
+We have put together this Privacy Policy to explain how we collect and use personal data.
+This Privacy Policy applies to Avocet's advertising products and services (our "Service"), as well as our company website located at https://web.archive.org/web/20190606001156/https://avocet.io (our "Website").
+Website Data Collection Avocet is the sole owner of the information collected on our Website.
+The information consists of an Avocet cookie id, which allow us to target you with advertising and track what pages on our site you visit, and, if you choose to share it, your email address and other personal information, and is collected in order to conduct business with current and prospective business clients.
+==========
+We do not sell or rent data collected via our Websites to other parties.
+Avocet uses this data to provide requested information to prospective clients, to establish self-service advertiser and publisher accounts, and otherwise as necessary to conduct our business.
+If you would like to review or request changes to information that you have submitted through our Website, or would like to request that we delete your information, please contact us using the information below.
+==========
+Data Collected On Our Platform and from Partners Avocet collects data whenever the Avocet Service is used by our clients to advertise or track users.
+Put simply, if our Service is used to show you an advertisement, or if you're visiting a website or app we work with we may collect some data about those interactions.
+This data, may (and usually does) include anonymous identifiers such as cookies, does not identify you personally (as a person-in-the-real-world), but it does allow us to identify you on the internet if we see you again.
+For example, if we show you a car ad on a news website, then show you a furniture ad on an auction site, we'll know it's the same person.
+We use a variety of technologies to collect this data, like cookies, which are small text files that can be stored on your browser.
+We may also collect and use information collected by data partners and shared with us, and data from third party business partners.
+For example, we might be told by a data partner that you are “in-market for a mid-sized car” or "interested in football".
+We don't control this data, so we rely on contracts in place with our partners which require them to only send us data which you've consented to sharing.
+We also make it easy to remove yourself from not only our databases, but our partners databases as well, using Avocet's Privacy Controls We use this information along with our technology to perform a variety of tasks, such as improving the relevance of the ads, limiting the number of times a specific advertisement is presented to the same device or browser (frequency capping), providing an advertisement to only certain types of devices or browsers, or providing a report to a client on the number of its advertisements that were clicked.
+We share this data with clients, vendors, and other companies with whom we conduct business, and as otherwise described in this policy.
+We also use some of this data to provide interest-based advertising, as discussed more fully below.
+Interest-Based Advertising Avocet works with its clients to provide ads that are likely to be more interesting and more relevant to their users.
+==========
+One way we do this is by using our technology, along with personal data related to your browser or device that is gathered across different sources.
+Examples of this data, which does not identify you personally, may include things like websites you have visited or apps that you use, information collected by our partners and other third parties and shared with us.
+We may link your identifier to additional data from other partners to provide us with some information about users' likely interests (for example, that a user seems to be interested in purchasing a new car).
+==========
+When we have such information, the ads that we display to that user can be more relevant to his or her interests.
+Links to Third-Party Websites and Third-Party Content Our Website may contain links to other websites, such as sites providing news coverage of the company, to partner sites for case studies, and to industry association sites of which Avocet is a member.
+Avocet is not responsible for the privacy notices or practices of these third-party websites.
+We may also provide ads that link to third-party sites, third-party apps, or other third-party content ("Third-Party Content").
+This Privacy Policy does not extend to Third-Party Content, or any services offered on Third-Party Content.
+==========
+Data Collection On Behalf Of Third Parties We may, on behalf of our clients and partners, collect information from end users.
+This may occur, for example, if someone submits information in response to an ad that we provide on behalf of an advertising client.
+Such information may consist of personal data.
+In such situations, we collect the information and provide it to our client, and it will be subject to that client's privacy practices.
+Your Rights The GDPR ("General Data Protection Regulation") is the EU's attempt to safeguard the rights of an individual to control their data.
+It's a huge step forward for the advertising industry.
+==========
+This regulation grants users a set of powerful rights with which to protect their data.
+The right to be informed Anytime your personal data is collected you have the right to know about it.
+The right of access You have the right to access the data stored about you for free on 30 days notice.
+The right to rectification You have the right to edit/correct the data stored about you (in most circumstance).
+The right to erasure You have the right to erase the data stored about you.
+The right to restrict processing In some cases you can restrict the processing uses your data is put to.
+The right to data portability You have the right to take your data in a form which makes it easy to port into another system.
+The right to object You have a right to object to any processing of your personal data, and this right is absolute when it comes to direct marketing.
+==========
+Rights in relation to automated decision making and profiling.
+In cases where you've been subject to “automated decision making” which has a significant effect on you, you can demand that the decision is reviewed by a real person.Legal Bases When Avocet collects personal data or data that could be deanonymized and turned into personal data it does so on one of two legal basis.
+Consent If the data is going to be used for positive targeting (serving an ad because of the data) we do so only on the basis of the user's consent.
+==========
+Currently, the only case in which we do this is when targeting users that have visited our site (“avocet.io”).
+Legitimate Interest For the data we collect to track advertisements delivered via our service we rely on a set of legitimate interests.
+(1) Uncovering ad fraud (e.g. a bot pretending to be a human), (2) to track the performance of our advertising (how many ads delivered, how many users delivered to, how many ads per user, which users clicks, which users went on to purchase...etc.), and (3) to restrict delivery of advertising (e.g. don't show any users the same ad more the 3 times per week...etc.).
+Cookie Syncing In the background behind all the advertising you see there's a system of communication between the buyers (Avocet), the sellers (Ad Exchanges and Supply Side Platforms), and the data management platforms to share user ids.
+==========
+No other data is shared, just "my user 1 is your user 2".
+This sharing makes the data that a website collects available to be used in multiple systems.
+For example, if a news site is selling advertising via Google, but wants to switch to Index, they don't have to worry that they'll lose all the data that they've gathered.
+This mapping is maintained via cookie syncing.
+And the sharing happens constantly.
+==========
+Each time a buyer serves an ad, each time a seller sells an ad, each time a brand uses their data management platform to record which products you’re looking at on their site.
+So when you see an Avocet ad, or visit a brand which works with us, you’ll see a whole lot of these little callouts that sync our id with other ids.
+It’s important to know that no data about you is being shared, and we’re just maintaining a critical bit of advertising infrastructure that allows us to communicate with our partners.
+Here are the partners we currently sync with:  Supply-Side Platforms:  Data Management Platforms: Children's Privacy If you believe your child has provided Avocet with personal information, such as by registering at one of Avocet’s websites, and you would like to have the data removed, please contact us using the contact information below.
+Security Avocet takes steps to protect the security of information that we collect.
+To that end, we have designed and deployed hardware, software, and networking solutions in an effort to reasonably secure and protect access to our systems and data.
+Legal Disclaimer We may need to disclose information, including PII, when in our good-faith judgment we are required to do so by law, or when such action is necessary to comply with a current judicial proceeding, a court order or legal process.
+==========
+We may also transfer all or some of the data discussed in this policy, in connection with a corporate merger, acquisition, sale of assets, bankruptcy, or other corporate change.
+Changes to Privacy Policy Avocet is committed to continually examining and reviewing its privacy practices, and may make changes to its Privacy Policy.
+In the event that any changes that we believe are material are made to the company’s privacy practices, we will post a revised Privacy Policy on this website.
+Contact If you have any questions or concerns about our privacy practices, you may contact us at privacy@avocet.ioInternet-Based Advertising Opt-Out If you would like to opt out of the use of data for interest-based advertising by Avocet, please click here.This Privacy Policy was last updated on June 27th, 2018.
+(3) User Privacy ControlsUser Privacy Controls
+==========

@@ -1,0 +1,61 @@
+Definitions
+"Company(ies)" is the entity classified as a third party data collector which collects data through Domains it does not own.
+"Domain(s)" is a subdivision of the internet by which a specific web property or computer can be identified.
+==========
+"Individual" means the discrete person to whom the collected information pertains.
+"First Party" is the entity that owns and controls the Domain
+"Personally Identifiable Information [PII]" means any information or combination of information that can be used to identify, contact, or locate a discrete Individual.
+==========
+"Third Party" is an entity(ies) other than the First Party or the Individual which is not directly affiliated with the First Party; and, if affiliated with the First Party, where such affiliation is not reasonably known to the Individual
+Scope:
+Third Party Data Collection Certification is a program for Companies that collect either PII or non-personally identifiable data about Individuals, usually without the Individual's knowledge, over a period time through a Domain or network of Domains not owned by that Company.
+The Company uses a Domain to collect the information that is different from the Domain(s) upon where the data is being collected.
+The data is collected using technologies such as HTTP cookies, web beacons, tracking JavaScripts, or Flash LSOs.
+This differs from First Party collection of data where typically the collection of data is restricted to a Domain that is owned by the First Party
+There are different types of Third Party Data Collectors not all of which collect data for the purposes of targeting.
+==========
+The focus of these principles are on Third Party Data Collectors such as Advertisers, Ad Exchanges, Ad Networks, Ad Platforms, Data Aggregators/Exchanges, Market Research companies, and the like.
+TRUSTe recognizes not all Third Party Data Collectors collect data for the purposes of targeting but rather provide a fundamental service for the functioning of websites.
+Some of these types of Third Party Data Collectors include Publishers, Service Providers, Web Analytics Providers, and Widget Providers.
+These Principles do not apply to these types of Third Party Data Collectors and will simply be placed on the IGNORE List.
+However, Companies that provide these types of services and also provide ad-based targeting services will need to comply with these Principles.
+Below are the core principles of this program providing the foundation for developing detailed requirements Companies will need to comply with in order to be certified and added to TRUSTe's Tracking Protection ALLOW List.
+==========
+ALLOW List Criteria:
+Collection
+The Company when collecting data on Third Party Domains may not;
+Collect any PII as part of its data collection on Third Party Domains; or
+Link its collected behavioral data to any data that can personally identify a discrete Individual unless Choice has been first provided to the Individual.
+Notice and Choice
+The Company must have a privacy policy clearly explaining its data collection and use practices for the data obtained through technologies it sets on a Third Party Domain(s).
+The privacy policy must clearly state:
+The scope of the privacy policy covers collection and use practices for data obtained through technologies it sets on a Third Party Domain(s);
+What the Company's data collection practices are (e.g. what type of data is being collected, how used);
+Whether the Company uses targeting techniques for collecting and using information about an Individual's behavior and Web usage activity, and all the uses of the collected data including whether that data is used for targeted advertising;
+Whether the collected data is shared with Third Parties and what types of Third Parties the data is shared with;
+How Individuals can opt-out of such use and obtain access to the opt-out mechanism; and
+How long collected data is retained.
+The Company must utilize the DAA approved notice and choice framework: http://www.aboutads.info/.
+The Company must provide a clear, conspicuous, and easy-to-use opt-out mechanism for cookies and all other technologies it employs on Domains where it collects data.
+==========
+The mechanism should be a one-click-one-step process.
+The Individual shall not be required to provide PII or any other information to use the opt-out mechanism.
+The opt-out mechanism must be tested regularly to ensure it is operating properly.
+==========
+Practices
+The Company should use a unique Domain Name per technology (e.g. HTTP cookies, Web beacons,, JavaScripts, and Flash LSOs) to separate any online behavioral advertising practices from those that are not online behavioral advertising.
+The Company must limit its retention of the data to no longer than commercially useful to carry out its business purpose, or legally required.
+The Company must have a plan in place for accepting DNT headers from Firefox and other browsers using similar technologies.
+==========
+All data sources that the Company uses must contain appropriate terms of use showing that all data received was obtained under legitimate means and that there are no limitations around the onward transfer of the data.
+Criteria for Adding a Third Party Data Collector to the TRUSTe Tracking Protection BLOCK List
+As a courtesy, TRUSTe will generally notify Companies prior to adding them to the BLOCK list.
+These Companies will be provided with an opportunity to dispute TRUSTe’s findings or implement an approved solution.
+However, in certain cases where Companies do not comply with certain core fundamental principles such as having a privacy policy describing its tracking practices on Third Party Domains, TRUSTe will add that Company directly to the BLOCK List.
+The Company will be added to TRUSTe’s Tracker Protection BLOCK List if any one of the following criteria is met:
+
+The Company does not have a privacy policy describing its collection and use practices for data obtained through technologies it sets on a Third Party Domain(s);
+The Company does not offer an opt-out mechanism whereby consumers can opt-out of having collected data used for targeting purposes;
+The Company has not utilized a DAA approved notice and choice solution and has not sufficiently demonstrated they have implemented a solution or has no third party industry oversight mechanism such as TRUSTe 3rd Party Data Collection or other similar program; or
+Is linking collected data to PII without first providing the Individual notice and obtaining the Individual’s express consent.
+==========

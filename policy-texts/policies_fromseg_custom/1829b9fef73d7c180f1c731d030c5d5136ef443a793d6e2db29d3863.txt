@@ -1,0 +1,104 @@
+Current as of 5 December, 2012
+Consumer privacy is central to TruEffect.
+Our relationship with our customers and their audiences depends on trust in our demonstrated ability to manage information responsibly, securely and with integrity.
+This trust is built on three principles:
+Disclosure: We reveal all information we manage and the ways in which it is collected and stored
+Consent: We do not engage in sensitive targeting or data practices without express permission
+Control: Users govern their information and the ways in which it is used
+TruEffect systems and practices are built around these principles from the ground up, reflecting our commitment to practices that provide customers and consumers with the value and confidence necessary to build long-term relationships.
+==========
+Internet “Cookies”
+Cookies are small amounts of data that a website offers to your browser in order to remember your preferences, identification, shopping cart entries, etc. from one request to the next.
+These may be persistent cookies that your browser stores for days or weeks, or temporary, session, cookies that a site uses to store “shopping cart” and other governing visitors' use of the site.
+Cookies may be delivered by the web page, via a visible image or content frame on a page, or using small strings of invisible code placed into the web page for this purpose, and known as web beacons, clear GIFs, or pixel tags.
+Your browser is built to only return cookie information to the same website (domain) that issued it.
+==========
+Transparency: TruEffect Advertising Technology
+TruEffect serves primarily as the technology behind high-volume interactive advertising.
+Our customers use our platform to serve numerous “banner” ad campaigns across many online properties each day.
+Our platform collects or gives advertisers reporting and targeting access to the following types of data:
+Geographic Segments: Country, State, ZIP Code, etc. (inferred using IP address)
+Technographic Segments: Operating System, Browser Version, Domain, etc.
+Circumstantial Segments: Time of Day, Web Page, Keyword Search Terms, etc.
+==========
+Details within a cookie that has been previously issued by an advertiser may also reveal an existing relationship between the visitor and the advertiser, which the advertiser may use to reengage the consumer with appropriate messaging rather than random ads.
+Cookies and Online Ad Serving
+We use the data that we collect using cookies for the following purposes:
+To better understand overall web surfing behavior and trends
+To anonymously assess the numbers of unique visitors encountered
+To prevent excessive display of the same ads to any single visitor
+To refine ad targeting and drive more relevant advertising when appropriate
+For reporting purposes
+Sensitive Data and Personally-Identifiable and Information
+Except for the specific business-to-business marketing activities indicated under Privacy and This Website, we do not gather or manage personally-identifiable information, collect or process inbound leads or store other personally-identifiable information.
+Children's data, financial account numbers, Social Security numbers and data related to visitor health-related conditions or medical records are all inappropriate for ad targeting and not used by TruEffect.
+==========
+We rigorously educate our customers on these principles and require their compliance as well.
+Data Accountability
+TruEffect implements reasonable security measures to protect both personal and non-personal information from loss, misuse and unauthorized access, disclosure, alteration or destruction.
+Our employees are made aware of and are accountable for compliance with these procedures.
+==========
+Data Security: Processing and Retention
+TruEffect performs long-term trending and analysis for our customers, and may retain ad transaction data for this purpose, including anonymous identifiers and IP address information, for up to eighteen months.
+This archival data is not used for online behavioral advertising or ad targeting, and is programmatically deleted within 31 days of concluding its eighteen-month lifespan.
+==========
+Consumer Control: Cookies and Opt-Out
+Each TruEffect client has a standard set of opt-out controls that can prevent interest-based targeting of ads:
+Single domains use a mechanism like TruEffect's AdLegend.com domain opt-out
+TruEffect clients who use our platform to power network advertising (use of a common domain to support advertising on multiple sites) participate in the Network Advertising Initiative (NAI) opt-out, available here
+Activating either of these mechanisms will set a persistent cookie on your browser that instructs systems not to gather data or to influence ads that you see.
+This opt-out cookie must remain in place to identify your preference, and targeted advertising may resume if it is deleted (such by clearing all cookies, etc.).
+==========
+Do-Not-Track Compliance
+Though it remains an emerging capability, TruEffect has been a pioneer in support of Do-Not-Track technology, and was among the very earliest ad serving systems to support it.
+All TruEffect ad systems will respond properly when compliant browsers present requests accompanied by the ‘DNT=1′ header:
+Any existing visitor ID is deleted
+No new identifier is issued
+The request is otherwise treated as if our standard ‘opt-out’ cookie is present
+This behavior is fundamental to our platform and cannot be overridden by us or our clients.
+==========
+We continue to work closely with industry organizations to give consumers choice and individual control.
+This website (TruEffect.com) serves primarily as our interface with our market and customers, and we use it to showcase best practices in privacy and data security:
+Collection and Use of Personal Information
+Unlike our advertising platform, site visitors may voluntarily provide personal information in certain areas on this website as well as at industry events, trade shows or other forums.
+==========
+The personal information we collect is used only for the purpose for which it is requested:
+Information Requests: Potential clients or business partners provide information so that we can contact them with requested information about our products and services.
+This information may be stored on our servers in the United States, and can be amended or deleted upon request.
+Please contact info@trueffect.com to update or remove this information.
+Support Requests: Name, address, telephone number, or email address information submitted by existing customers with support questions or other feedback is used only for that purpose, and may be stored on our servers in the United States.
+Please contact clientsupport@trueffect.com to update or remove this information.
+==========
+Information Sharing or Disclosure
+We do not sell or share your information.
+We may use the services of external technology vendors to collect or fulfill requests for information or other services on our behalf, in which event personal information may come to reside on servers belonging to our authorized partners, but these third parties are required to implement similar security measures and to process your information only as authorized by TruEffect to fulfill the service(s) that they have been contracted to provide.
+Only via a judicial or other government subpoena, warrant or order, can we be compelled to disclose volunteered information.
+==========
+Collection and Use of Non-personal Information
+If you arrived at our website by clicking a banner ad, a search link, or an email campaign for our products or services, a cookie or web beacon may be used to identify the advertisement you viewed and judge the effectiveness of our advertising campaigns.
+The TruEffect website may also use cookie information to better understand how the website is used, resolve technical issues, or to enhance your site experience.
+Persistent cookies may be used to anonymously identify your interest in our products and services on subsequent visits to our site or in network advertising where appropriate.
+Session cookies may also be issued while navigating different pages of our site.
+==========
+Some of our advertising customers choose to host advertising on ad.adlegend.com, which TruEffect owns and maintains for this purpose.
+They follow the same privacy rules and practices as any other TruEffect customer.
+==========
+Please visit http://ad.adlegend.com/TE_optout.html for more information or to opt out of all data collection and targeting across the entire AdLegend.com domain.
+The majority of our customers deploy our technology within their own domain, allowing them serve ads within the terms and conditions of their existing privacy policies and practices.
+Unlike other technologies, TruEffect's patented first-party ad serving allows them to do this without revealing either personal or non-personal data to any third party.
+Our customers use their own cookies for this purpose, and must adhere to TruEffect privacy policies and industry best practices.
+==========
+Because of the inherent privacy and security of first-party ad serving, it can only be managed by the advertiser with whom you have a relationship.
+All of our first-party ad serving clients maintain their own privacy policies and govern the necessary opt-out mechanisms for their own secure, closed advertising networks.
+While this privacy policy will always be clearly posted, up-to-date, and compliant with current best practices, we may amend it from time to time as standards and practices within the industry evolve, or as we add new products and services, or update our product offerings.
+Consumers are notified before any changes to PII management or opt-in programs are implemented.
+If all or part of the company is sold, merged or otherwise transferred to another entity, previously volunteered customer and prospect information may be transferred as well, along with the conditions and requirements under which it was originally collected and managed.
+For more information about TruEffect's commitment to consumer privacy, please contact Privacy@TruEffect.com or:
+TruEffect, Inc.
+7403 Church Ranch Boulevard
+Suite 110
+Westminster, Colorado 80021
+Tel: 303.438.9597
+Toll Free: 877.878.2383
+Fax: 303.469.9510
+==========

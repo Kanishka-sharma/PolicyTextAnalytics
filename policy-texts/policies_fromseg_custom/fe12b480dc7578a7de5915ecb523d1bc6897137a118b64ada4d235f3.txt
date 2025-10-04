@@ -1,0 +1,73 @@
+About AntVoice Services
+AntVoice specializes in creating personalized recommendations and advertisements.
+We work with online partners to build a personnalized experience and advertisements for users who visit their website or mobile applications and with publishers to display personalized advertisements.
+Our aim is to deliver recommendations or advertisements by displaying products and/or personalized banners that you might be interested in, based on your recent browsing behavior.
+For example, if you visit and browse on Website/mobile application A, you will get personalized recommendation during your browsing session based on the products or contents of your browsing session.
+Morover, on a subsequent online visit to Website/mobile application B, you may see ads personalized by your browsing history on Website/mobile application A. With our service, you should receive personalized recommendations and ads that are more relevant for you than the standard advertising you would receive without AntVoice.
+==========
+Our Technology
+We collect information via technical cookies placed on your browser.
+Thanks to this technology, AntVoice “tags” visitors to its partners’ websites and mobile applications.
+Users tagged by AntVoice are given a technical identifier.
+At no point does AntVoice collect identifying personal data such as your name or address.
+AntVoice only analyses the products or content viewed by the visitor.
+Our partners’ advertisements are displayed on many websites, also known as “publishers.”
+These publishers may also place cookies on your browser.
+These cookies are there so that the publishers recognize that AntVoice has a personalized advertisement available for your browser.
+Their use are governed by the specific privacy policies of the publishers which can be accessed directly from their websites.
+We may also receive ID-syncing information from trusted partners using diverse linking methods for the same purpose and with the same level of guarantees in terms of Privacy and Data Protection.
+We may also store anonymous identifiers inside your browser “local storage” when our technology is used as a recommendation engine provided to media and retailing websites.
+==========
+See “data collection and use” paragraph to learn more.
+Data collection and usage
+We do not know who you are.
+We only collect and use technical data relating to your browsing navigation to display personalized advertisements.
+To serve relevant ads and recommendations, we have to be able to single out patterns but we never willingly store data that would allow identification of a person (such as name, surname, phone number, address, etc.).
+We collect data related to your browsing activity through cookies, local storages or advertising IDs that record:
+events related to your activity on our partner’s website (such as the number of pages viewed, the products or contents you viewed on that website, your searches made on the partner’s website)
+events related to the AntVoice activity such as the number of recommendations or ads displayed to you.
+==========
+information related to your device (device type, operating system, version)
+non-precise information related to your geography and derived from the truncated IP address of your connection.
+We do not use or store full IP address for targeting purposes.
+These data will be collected to generate Interest-Based Recommendations or advertising.
+We also collect technical user identifiers from our partners for the purpose of linking the different browsers and mobile apps you use and serve you relevant recommendations and ads based on your behaviour across environments (“ID syncing”).
+For that purpose we process and store
+Technical IDs of our partners, or a hashed version of your email address ensuring the non-reversibility of your information.
+Mobile advertising IDs (such as Apple IDFA or Google AAID) which are specific technical data created by mobile manufacturers to allow personalization and customer analytics in a secure and non-identifying way for users
+If you do not want to receive ads displayed by AntVoice on your current browser and browsers, you can disable the display of AntVoice ads clicking on the button bellow :
+Opting-out from AntVoice services will trigger the deletion of your linking information and will prevent the future linking of the opted-out browser using a new cookie on your browser.
+==========
+We have to maintain this cookie on your browser in order to recognize you as having opted out from our service.
+You must opt out again if you clear that cookie from a browser, use another browser, or use a new device to access the internet.
+You can also opt out of AntVoice’s service directly from the privacy statements of our partners.
+Please note that if you are using an ad-blocker you may have to pause blocking or whitelist our website to be able to opt out effectively.
+Web browser environment and in-app environment are separate.
+If you do not want to receive AntVoice on mobile app environments, please refer to your operating system settings, or follow instructions below:
+Android Users, follow the instructions provided by Google Support
+iOS users, follow the instructions provided by Apple Support Center
+Please note that this is a device setting and will disable interest-based ads from all providers, and not just for AntVoice
+We do not collect any identifying information
+We do not know who you are.
+==========
+We do not know your address, your place of work, your date of birth, your email address, your phone number.
+We do not use or store full IP address.
+We do not collect hardware-based identifiers such as UDID, Mac Address and do not use fingerprinting methods.
+We do not collect sensitive information (such as religion, political opinion, health…).
+==========
+We do not create segments to specifically target children.
+We do not process any information which could be used by AntVoice or any of its partners, directly or indirectly, to determine the personal identity of users.
+We may share aggregated data
+We may share non identifying data such as aggregated data and technical identifiers with our partners, i.e. data that does not permit you to be directly identified.
+We only share aggregated data upon approval of our partners and in compliance with our commercial agreements.
+We partner with Ad exchanges platforms to buy ad placements through auctions.
+Before the auction we link our ID with the ad exchange platform and then participate to the auction by sending the bid price and the banner code to display.
+==========
+Data security and retention
+We retain the technical data that we collect for up to 13 months from the date of collection.
+Our cookies expire 13 months after they are last updated.
+Please note that we may update or change this privacy policy.
+If we revise our privacy policy, we will post those changes to this privacy statement, and to other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any we disclose it.
+If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective.
+Last updated: April 17, 2018
+==========

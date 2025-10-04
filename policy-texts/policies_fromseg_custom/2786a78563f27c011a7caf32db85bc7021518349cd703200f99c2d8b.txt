@@ -1,0 +1,180 @@
+Revised at: August 25, 2019
+CONTENTS
+INTRODUCTION 1
+WHAT ARE COOKIES?
+1
+WHY USE TRACKING TECHNOLOGIES?
+2
+STORING TRACKING TECHNOLOGIES 2
+WHAT TYPES OF TRACKING TECHNOLOGIES DO WE USE?
+==========
+3
+HOW TO MANAGE YOUR COOKIE SETTINGS 7
+INTRODUCTION
+When you visit or access mentalfloss.com and any associated sub domain to which this policy applies, or when you interact or engage with our representatives (together, the “Service”), we will use (and authorize third parties to use) web beacons, cookies, pixel tags, scripts, tags, API and other technologies ("Tracking Technologies").
+This is explained in this policy (“Cookie Policy”) which is a part of our Privacy Policy.
+Tracking Technologies allow us to automatically collect information about you and your online behavior in order to enhance your navigation on our Service, improve our Service performance and customize your experience on it.
+We also use this information to collect statistics about the usage of our Service, perform analytics and to administer services to our users, customers and partners.
+==========
+WHAT ARE COOKIES?
+Cookies are a commonly used tracking technology, comprised of small text files (composed only of letters and numbers) that a web server places on your computer or mobile device when you visit a webpage.
+When used, the cookie can help make our Services more user‑friendly, for example by remembering your language preferences and settings.
+You can find more information about cookies at www.allaboutcookies.org.
+Cookies are widely used in order to make websites work in an efficient way.
+The use of cookies allows you to navigate between pages efficiently.
+Cookies remember your preferences, and make the interaction between you and the Services smoother and more efficient.
+==========
+WHY USE TRACKING TECHNOLOGIES?
+There are five main purposes for using Tracking Technologies:
+Strictly necessary Tracking Technologies
+These Tracking Technologies are essential to enable you to login, navigate around and use the features of our Services, or to provide a service requested by you (such as your username).
+We do not need to obtain your consent in order to use these Tracking Technologies.
+==========
+These Tracking Technologies can be used for security and integrity reasons ‑ for example to detect violation of our policies and for support or security features.
+Functionality Tracking Technologies
+These Tracking Technologies allow our Services to remember choices you make (such as your language) and provide enhanced and personalized features.
+For example, these Tracking Technologies are used for authentication (to remember when you are logged‑in) and support other features of our Services.
+Performance Tracking Technologies
+These Tracking Technologies collect information about your online activity (for example the duration of your visit on our Services), including behavioral data and content engagement metrics.
+==========
+These Tracking Technologies are used for analytics, research and to perform statistics (based on aggregated information).
+Marketing or Advertising Tracking Technologies
+These Tracking Technologies are used to deliver tailored offers and advertisements to you, based on your derived interests, as well as to perform email marketing campaigns.
+They can also be used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign.
+They are usually placed by our advertisers (for example advertising networks) and provide them insights about the people who see and interact with their ads, visit their websites or use their app.
+Social media Tracking Technologie
+These Tracking Technologies include social media features, such as the Facebook "Like" or "Share" buttons, or third party log‑in services.
+==========
+These features are either hosted by a third party or hosted directly on our Services.
+Your interactions with these features are governed by the privacy statement of the company providing these features.
+STORING TRACKING TECHNOLOGIES
+We store Tracking Technologies when you visit or access our Services (typically, when you are visiting our websites).
+These are called "First Party Tracking Technologies".
+In addition, Tracking Technologies are stored by other third parties (for example our analytics service providers, business partners and advertisers) – these are called "Third Party Tracking Technologies".
+==========
+Both types of Tracking Technologies may be stored either for the duration of your visit on our Services or for repeat visits.
+WHAT TYPES OF TRACKING TECHNOLOGIES DO WE USE?
+Category Tracking Technology Partner Type Purpose
+Essential Functional Cookies First and Third party Tracking Technology Strictly necessary Tracking Technologies
+These unlisted Tracking Technologies might be in use on internal sections of the Services, in order to customize and simplify the user experience on the site by remembering choices you made and your log in credentials.
+Essential Analytics Cookies First and Third party Tracking Technology Functionality Tracking Technologies; Performance Tracking Technologies
+These unlisted Tracking Technologies are used to collect information regarding how you interact with the content on our Services, attribution purposes (for example, the referral URL), etc.
+==========
+We use the information to compile reports, calculate the revenues due to us and, help us improve the Services and to offer personalized products and content.
+Essential Google Tag Manager Third party Tracking Technology Performance Tracking Technologies
+This cookie is associated with Google Tag Manager which we use to load scripts into our website pages.
+More information can be found on Google's Privacy Policy
+Essential Typekit by Adobe Third party Tracking Technology Performance Tracking Technologies
+Adobe uses the information received from third party websites using Typekit fonts to provision the Typekit service and diagnose delivery or download problems.
+More information can be found on Typekit's privacy policy.
+Site Analytics Google Analytics Third party Tracking Technology Performance Tracking Technologies
+This cookie is used to collect information about how visitors use our Platform.
+We use the information to compile reports and to help us improve the Platform.
+The cookies collect information in an anonymous form, including the number of visitors to the Platform, where visitors have come to the Platform from and the pages they visited.
+==========
+You can read more on Google's Privacy Policy
+Site Analytics Crazy Egg Third party Tracking Technology Crazy Egg allows websites to analyze how visitors to their sites use, interact with, and engage their sites.
+More information can be found in their Privacy Policy.
+Site Analytics Chartbeat Third party Tracking Technology Performance Tracking Technologies
+Chartbeat empowers media companies to build loyal audiences with real‑time and historical editorial analytics across desktop, social, and mobile platforms.
+Chartbeat helps digital publishing organizations understand what, within their content, is keeping people engaged.
+You can read more on Chartbeat's Privacy Policy.
+==========
+Site Analytics ScoreCard Research (by Full Circle) Third party Tracking Technology Performance Tracking Technologies
+Full Circle Studies provides Internet market research services.
+Companies across a wide variety of industries turn to Full Circle Studies to conduct research to better understand the likes and dislikes of consumers.
+The reports that are compiled from these projects help these companies to improve their products and services.
+Companies employ Full Circle Studies to conduct market research at a census level.
+==========
+As part of this research, web content providers and distributors add a web beacon and cookie to their sites allowing Full Circle Studies to collect anonymous information about general visitation patterns to those sites.
+You can read more on Full Circle's Privacy Policy.
+Site Analytics Quantcount Third party Tracking Technology Performance Tracking Technologies
+Quantcount (by Quantcast) provides analytics and statistical data to site owners on their audience's site usage.
+To learn more please visit Queantcast's Privacy Policy.
+Site Analytics Moat (by Oracle) Third party Tracking Technology Performance Tracking Technologies
+Moat's services enables website publishers to measure various parameters regarding their site, ads and to maintain quality benchmarks as set by the The Media Ratings Council.
+More information can be found here.
+Social Media Facebook Connect, Twitter, Instagram, Linkedin Third party Tracking Technology Social Media Tracking Technologies
+Our website includes sharing buttons on social networks.
+All these platforms use their own cookies to recognize you if you are browsing after being connected to your accounts.
+For more information, please visit Facebook's Privacy Policy, Google's Privacy Policy, Tweeter's Privacy Policy, Linkedin's Privacy Policy, and Instagram's Privacy Policy.
+Site Analytics Pinterest Third party Tracking Technology This cookie allows websites to analyze how Pinterest visitors interact and engage with their site.
+More information can be found in Pinterest's privacy policy.
+==========
+Advertising Quantcast Third party Tracking Technology Marketing or Advertising Tracking Technologies
+Quantcast allows businesses to deliver relevant online advertising to individual consumers.
+For consumers, Quantcast provides ads that are the most useful and relevant to their interests, and for websites, to make online advertising more efficient and pleasant.
+In order to do all this, Quantcast collects and analyzes information about individual consumer interests.
+==========
+To learn more please visit Queantcast's Privacy Policy.
+Advertising DoubleClick (by Google) Third party Tracking Technology Marketing or Advertising Tracking Technologies
+DoubleClick uses cookies to improve advertising.
+Some common applications are to target advertising based on what’s relevant to a user, to improve reporting on campaign performance, and to avoid showing ads the user has already seen.
+You can read more on Google’s Privacy Policy and Google’s Cookie Policy.
+==========
+Advertising Google Adsense Third party Tracking Technology Marketing or Advertising Tracking Technologies
+AdSense is the Google Display Network, a collection of millions of websites and mobile applications that are powered by display advertising, including many Google services.
+To learn more about how Google collects and uses information for online advertising, please visit Google's Privacy Policy.
+Advertising Google Audiences Third party Tracking Technology Marketing or Advertising Tracking Technologies
+Google Audiences uses insights and data collected with Google Analytics, in order to personalize and improve the relevancy of advertisements.
+More information can be found in the Google Audiences page and on Google's Privacy Policy.
+Advertising Amazon Associates Third party Tracking Technology Marketing or Advertising Tracking Technologies
+Amazon's advertising API provides this site with programmatic access to Amazon’s product selection and discovery functionality so that it can advertise Amazon products.
+More information can be found on Amazon's Privacy Notice.
+Advertising Dotomi (by Conversant) Third party Tracking Technology Marketing or Advertising Tracking Technologies
+Dotomi (by Conversant) uses cookies to improve advertising.
+==========
+Some common applications are to target advertising based on what’s relevant to a user, to improve reporting on campaign performance, and to avoid showing ads the user has already seen.
+You can read more on Conversant's Privacy Policy.
+Advertising Appnexus Third party Tracking Technology Marketing or Advertising Tracking Technologies
+AppNexus is a technology company whose cloud‑based software platform powers and optimizes the programmatic sale and purchase of digital advertising.
+You can read more on AppNexus's Privacy Policy.
+Advertising BlueKai (by Oracle) Third party Tracking Technology Marketing or Advertising Tracking Technologies
+BlueKai is a cloud‑based data platform that enables companies this site to personalize online, offline, and mobile marketing campaigns.
+For more information please visit BlueKai's Privacy Policy.
+Advertising Advertising.com (by AOL) Third party Tracking Technology Marketing or Advertising Tracking Technologies
+Aol owns an operates an extensive network of brands and platforms in order to help publishers and advertisers deliver relevant, targeted advertising to individuals, but not at the expense of individual privacy.
+You can read more here.
+Advertising Criteo Third party Tracking Technology Marketing or Advertising Tracking Technologies
+Criteo provides a performance marketing engine.
+Compiling actual sales data and an unmatched network of global publishers, to make sense of digital user behavior across any device to deliver relevant, personalized ads that drive incremental sales.
+You can read more on their Privacy Policy.
+Advertising Index Exchange Third party Tracking Technology Marketing or Advertising Tracking Technologies
+Index Exchange provides technology to create a neutral, transparent exchange that enables digital publishers and suppliers to sell their ad impressions programmatically and in real‑time.
+You can read more on their Privacy Policy.
+Advertising SkimLinks Third party Tracking Technology Marketing or Advertising Tracking Technologies
+Skimlinks creates native monetization solutions for publishers, by automatically turning product links and references into trackable affiliate links.
+You can read more on their Privacy Policy.
+Advertising AdSlot Third party Tracking Technology Marketing or Advertising Tracking Technologies
+This Tracking Technology is used to collect traffic flow and demographics data for the display of relevant advertisements and content on our properties.
+This data is normally aggregated by AdSlot and cannot be used to identify you.
+For more information please read AdSlot's Privacy Policy.
+Customer Interaction SaleCycle Third party Tracking Technology Performance Tracking Technologies
+SaleCycle helps us re‑engage with returning potential customers in order to complete their transaction.
+You can read more on their Privacy Policy.
+Customer Interaction Zergnet Third party Tracking Technology Performance Tracking Technologies
+Zergnet operates a cross website network which sites uses to promote their content and grow their audiences.
+You can read more on their Privacy Policy.
+==========
+HOW TO MANAGE YOUR COOKIE SETTINGS
+There are various ways in which you can manage and control your cookie settings.
+Please remember that, by deleting or blocking cookies, some of the features of the Services may not work properly or as effectively.
+Review Consent Preferences
+Turning off cookies via your web browser
+Most web browsers will provide you with some general information about cookies, enable you to see what cookies are stored on your device, allow you to delete them all or on an individual basis, and enable you to block or allow cookies for all websites or individually selected websites.
+You can also normally turn off third party cookies separately.
+Please note that the settings offered by a browser or device often only apply to that particular browser or device.
+Information about cookies is usually found in the "Help" section of the web browser.
+Below are some links to some commonly used web browsers:
+Google Chrome
+Internet Explorer
+Mozilla Firefox
+Safari (Desktop)
+Safari (Mobile)
+Android Browser
+Opera
+Opera Mobile
+For other browsers, please consult the documentation that your browser manufacturer provides.
+Turning off third party cookies
+You can turn off certain third party targeting and advertising cookies by visiting the following link: Network Advertising Initiative.
+==========

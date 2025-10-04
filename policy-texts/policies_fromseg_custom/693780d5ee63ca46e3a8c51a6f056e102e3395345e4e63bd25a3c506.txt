@@ -1,0 +1,179 @@
+Privacy
+File/Preferences/Privacy
+
+
+
+
+
+
+
+
+
+
+Enable referrer logging
+It is common practice for Web sites to refer to each other, and indeed many Web sites behave
+differently according to which page you were referred from.
+Disabling this option will prevent this
+kind of logging.
+Enable automatic redirection
+Ever so often, a Web page will redirect you to another Web page when
+you go to it.
+This may take more time than you're willing to commit, so Opera allows you to turn this feature off.
+==========
+Use cookies to trace password protected documents
+Opera will remove all refererences to secure pages (HTTPS://) and forms that have been used to transport passwords 
+during your Opera session upon exit (e.g. cookies).
+If this option is checked, cookies that are manipulated by other 
+cookies that are set by secure pages and forms that fall into the above category, are tagged as, and treaded in the 
+same manner as the cookies that are removed upon exit and subsequently removed, in order to provide you with the highest 
+possible level of security.
+One thing that seems to be very much in the eyes of the specialist media as well as on the mind 
+of many users is the "security" hole of cookies.
+==========
+Actually, cookies are small text files that store 
+information you have given about yourself to identify you on the Internet, or to store your settings for 
+a site, set by servers for servers to reclaim, and are nowhere near as dangerous as they are sometimes 
+portrayed.
+However, they can used to collect information about your Internet usage 
+pattern, and can therefore be a grave invasion of privacy if used in this way, particularly in the way 
+they are set by servers.
+Opera has a built-in cookie filtering facility, the settings of which are changed in this part of
+the menu.
+The first drop down menu will let you select one of the following options:
+Automatically accept all cookies: Accepts cookies regardless of who sets them and
+where they are referred.
+Accept only cookies from selected servers: 
+Use this to accept cookies from the servers you select.
+Display received cookies: If this is selected, each and every cookie that is sent to
+Opera will display in an accept/reject dialog box.
+Don't accept cookies: All cookies received will be discarded.
+==========
+The second drop-down menu applies to all the settings except for "Do not accept cookies".
+It sets the
+handling of cookies to:
+Only accept cookies for the server: Which will accept all cookies set by the active
+server for the active server or by other servers for themselves, inside of the domain.
+Don't accept third party cookies: Does not accept cookies that are set by third parties
+to apply to the active server or other servers in the domain.
+==========
+Display third party cookies: This option will accept all cookies that are set by the server 
+for the server or by the domain for the domain in the manner which is selected in the box above, but will 
+prompt you for action when Opera receives a cookie from a third party.
+Accept from any servers: 
+Accept all cookies from all servers.
+Cookie server filters
+Cookies received are automatically filtered unless you have them set Opera to automatically accept
+all cookies or disable all cookies.
+These are the cookie filters:
+Accept from server: The servers that are listed here are servers you will accept cookies
+from.
+==========
+Type the complete server name, for example www.opera.com in the box to the far bottom
+and press the "Add" button to add them to the list.
+If you change your mind, you can press the
+"Remove" button to remove the cookie.
+Note the "Refuse" button on the left hand side of the list.
+This
+button is used to selectively remove the highlighted entry on this list and place it in the list for
+"Refuse from server", detailed below.
+==========
+Accept from domains: It is possible to accept cookies from domains also.
+The domain name
+should be written akin to .
+com or .
+==========
+opera.com in the box to the far bottom.
+The "Add"
+button will place the domain in the list field.
+Domains can be removed from this box by highlighting
+them and pressing the "Remove" button.
+Note the "Refuse" button on the left hand side of the list.
+This
+button is used to selectively remove the highlighted entry on this list and place it in the list for
+"Refuse from domain", detailed below.
+==========
+Accept third party from server: Trusted third party servers may be defined in this box so that your Opera copy will always accept cookies 
+set to other servers from the server(s) defined here.
+Type the complete server name, for example 
+www.goodserver.com in the box to the far bottom and press the "Add" button to add them to the list.
+If you change your mind, you can press the "Remove" button to remove the cookie.
+Accept third party from domains: Likewise, trusted third party servers may be defined in this box so that your Opera copy will always accept 
+cookies set to other domains from the domains defined here.
+==========
+The domain name should be written akin to .
+com 
+or .
+gooddomain.com in the box to the far bottom.
+The "Add" button will place the domain in the list field.
+Domains can be removed from this box by highlighting them and pressing the "Remove" button.
+==========
+Refuse from server: 
+Conversely, it is possible to selectively refuse cookies from certain
+servers.
+Enter the name of the server, e.g. www.microsoft.com or www.netscape.com
+into the box to the far bottom of the menu and press the "Add" button to add the server to the list.
+Again, servers on this list can be removed by highlighting them and clicking the "Remove" button.
+Note
+the "Accept" button on the left hand side of the list.
+This button is used to selectively remove the
+highlighted entry on this list and place it in the list for "Accept from server", detailed above.
+Refuse from domains: As above, it is possible to selectively refuse cookies set for specific
+domains.
+This is done by entering the domains into the box to the far bottom like this: .
+==========
+com and
+adding them to the list by pressing the "Add" button.
+Note the "Accept" button on the left hand side of
+the list.
+This button is used to selectively remove the highlighted entry on this list and place it in
+the list for "Accept from domain", detailed above.
+==========
+Refuse third party from server: Distrusted third party servers may be defined in this box so that your Opera copy will never accept cookies 
+set to other servers from the server(s) defined here.
+Type the complete server name, for example 
+www.badserver.com in the box to the far bottom and press the "Add" button to add them to the list.
+If you change your mind, you can press the "Remove" button to remove the cookie.
+Refuse third party from domains: 
+Likewise, mistrusted third party servers may be defined in this box so that your Opera copy will always accept 
+cookies set to other domains from the domains defined here.
+==========
+The domain name should be written akin to .
+com 
+or .
+baddomain.com in the box to the far bottom.
+The "Add" button will place the domain in the list field.
+Domains can be removed from this box by highlighting them and pressing the "Remove" button.
+==========
+Allow illegal paths: 
+Cookies that are set with illegal paths may be considered an invasion of privacy, or at least they 
+may not work as intended.
+This option will allow illegal pathed cookies regardless.
+Refuse illegal paths: 
+The previous option would allow cookies with paths illegal path statements, but it you want the 
+exact opposite, Opera will let you refuse cookies with illegal paths.
+==========
+This is what you should select 
+then.
+The three remaining options in this part of the "Network" menu are:
+Throw away new cookies on exit: There are times when you may have to accept cookies from
+servers that you do not particularly want to accept cookies from.
+In order to avoid having to keep
+these cookies longer than needed, enable this option is to discard of the cookies when you exit
+Opera.
+Display warning for illegal domains: 
+If checked, Opera will display a warning dialog if a server wishes to set a cookie to your 
+system for a top level domain, such as .
+==========
+com, .
+org or .
+org, which 
+is not a "legal" way of setting cookies.
+==========
+Display warning for illegal: 
+If checked, Opera will display a warning dialog if a server wishes to set a cookie to your 
+system that has a wrong path statement on where it is set to be allowed.
+Selecting 'OK'  tells the browser to continue with appropriate action; that you are satisfied that your choice is the one you intend.
+Selecting 'Cancel'  tells the browser that you have decided against the initial action.
+Selecting Apply will cause your preference changes to be applied immediately.
+Selecting 'Help'  brings up a context menu wi
+==========

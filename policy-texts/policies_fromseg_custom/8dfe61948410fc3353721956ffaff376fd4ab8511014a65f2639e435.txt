@@ -1,0 +1,227 @@
+What are cookies?
+A cookie is a small amount of information that’s downloaded to your computer or device when you visit certain websites.
+We use a number of different cookies on the Shopify website, including strictly necessary, performance, advertising, and social media or content cookies.
+Cookies make your browsing experience better by allowing the website to remember your actions and preferences (such as login and region selection).
+==========
+This means you don’t have to re-enter this information each time you return to the site or browse from one page to another.
+Cookies also provide information on how people use the website, for instance whether it’s their first time visiting or if they are a frequent visitor.
+Read more about cookies (and other similar tracking technologies) and how we use the data collected through these technologies, in our Privacy Policy.
+What cookies do we use and why?
+Some cookies are necessary to allow you to browse our website, use its features, and access secure areas.
+The use of these cookies is essential for the website to work.
+For example, we use user-input cookies for the duration of a session to keep track of a user’s input when filling in forms that span several pages.
+We also use functional cookies to remember choices you’ve made or information you’ve provided, such as your username, language, or the region you are in.
+This allows us to tailor your website experience specifically to your preferences.
+==========
+For example, authentication cookies are functional cookies that are used for the duration of a session (or persistent, if you agree to the “remember me” function) to allow users to authenticate themselves on subsequent visits or to gain access to authorized content across pages.
+The functional cookies we use include:
+User-centric security cookies to detect authentication abuses for a limited persistent duration, like repeated failed login attempts.
+These cookies are set for the specific task of increasing thesecurity of the service.
+==========
+Multimedia content player session cookies (flash cookies) are used for the duration of a session to store technical data needed to play back video or audio content (e.g. image quality, network link speed, and buffering parameters).
+Load balancing session cookies are used for the duration of the session to identify the same server in the pool in order for the load balancer to redirect user requests appropriately.
+User interface customization persistent cookies are used to store a user’s preference regarding a service across web pages.
+==========
+Shopify is dedicated to user experience and we use many tools to help us improve our website and our commerce platform.
+To this end, we use reporting and analytics cookies to collect information about how you use our website or our merchants’ storefronts, and how often.
+These cookies only gather information for statistical purposes and only use pseudonymous cookie identifiers that do not directly identify you.
+The performance cookies we use include:
+First party analytics cookies - We use these cookies to estimate the number of unique visitors, to improve our websites and our merchants’ websites, and to detect the most searched for words in search engines that lead to a webpage.
+==========
+These cookies are not used to target you with online marketing.
+We use these cookies to learn how our websites and our merchants’ websites are performing and make relevant improvements to improve your browsing experience.
+Third party analytics cookies - We also use Google Analytics and other third-party analytics providers listed below to help measure how users interact with our website content.
+These cookies “remember” what our users have done on previous pages and how they’ve interacted with the website.
+For more information on Google Analytics, visit Google’s information page.
+For instructions on how to opt out of Google Analytics, see below.
+==========
+Advertising cookies are used on our website to tailor marketing to you and your interests and provide you with a more personalized service in the future.
+These cookies remember that you visited our website and we may share this information with third-parties, such as advertisers.
+Although these cookies can track your device’s visits to our website and other sites, they typically cannot personally identify you.
+Without these cookies, the advertisements that you see may be less relevant and interesting to you.
+Read more about how companies use cookies to conduct targeted or retargeted advertising here.
+We do not set advertising cookies through our merchants’ storefronts ourselves, though merchants may choose to do so independently.
+Finally, Social and Content cookies are placed by many social media plugins (for example the Facebook ’like’ button), and other tools meant to provide or improve the content on a website (for example services that allow the playing of video files, or that create comments sections).
+We integrate these modules into our platform to improve the experience of browsing and interacting with our websites.
+Please note that some of these third party services place cookies that are also used for things like behavioural advertising, analytics, and/or market research.
+==========
+Merchant storefronts
+When merchants use our platform to power their online stores, we place the following cookies for visitors of their stores:
+Cookies Necessary for the Functioning of the Store:
+Name Function Duration
+_ab Used in connection with access to admin.
+2y
+_secure_session_id Used in connection with navigation through a storefront.
+24h
+_shopify_country Used in connection with checkout.
+==========
+session
+_shopify_m Used for managing customer privacy settings.
+1y
+_shopify_tm Used for managing customer privacy settings.
+30min
+_shopify_tw Used for managing customer privacy settings.
+2w
+_storefront_u Used to facilitate updating customer account information.
+1min
+_tracking_consent Tracking preferences.
+==========
+1y
+c Used in connection with checkout.
+1y
+cart Used in connection with shopping cart.
+==========
+2w
+cart_currency Used in connection with shopping cart.
+2w
+cart_sig Used in connection with checkout.
+2w
+cart_ts Used in connection with checkout.
+2w
+cart_ver Used in connection with shopping cart.
+==========
+2w
+checkout Used in connection with checkout.
+4w
+checkout_token Used in connection with checkout.
+1y
+dynamic_checkout_shown_on_cart Used in connection with checkout.
+30min
+hide_shopify_pay_for_checkout Used in connection with checkout.
+==========
+session
+keep_alive Used in connection with buyer localization.
+2w
+master_device_id Used in connection with merchant login.
+2y
+previous_step Used in connection with checkout.
+1y
+remember_me Used in connection with checkout.
+1y
+secure_customer_sig Used in connection with customer login.
+==========
+20y
+shopify_pay Used in connection with checkout.
+1y
+shopify_pay_redirect Used in connection with checkout.
+==========
+30 minutes, 3w or 1y depending on value
+storefront_digest Used in connection with customer login.
+2y
+tracked_start_checkout Used in connection with checkout.
+1y
+checkout_one_experiment Used in connection with checkout.
+==========
+session
+Reporting and Analytics
+Name Function Duration
+_landing_page Track landing pages.
+2w
+_orig_referrer Track landing pages.
+2w
+_s Shopify analytics.
+30min
+_shopify_d Shopify analytics.
+session
+_shopify_fs Shopify analytics.
+30min
+_shopify_s Shopify analytics.
+30min
+_shopify_sa_p Shopify analytics relating to marketing & referrals.
+30min
+_shopify_sa_t Shopify analytics relating to marketing & referrals.
+==========
+30min
+_shopify_y Shopify analytics.
+1y
+_y Shopify analytics.
+1y
+_shopify_evids Shopify analytics.
+session
+_shopify_ga Shopify and Google Analytics.
+session
+Shopify’s websites
+When visitors load Shopify’s websites, we generally place the following Shopify cookies:
+Cookies Necessary for the Functioning of the Sites
+Name Function Duration
+_Brochure_session Used in connection with browsing through site.
+==========
+-
+checkout Used in connection with Pay checkout on shop.app.
+3w
+signed_in Used in connection with Shop login.
+1y
+user Used in connection with Shop login.
+1y
+Reporting and Analytics
+Name Function
+_landing_page Tracks landing pages.
+==========
+_orig_referrer Tracks landing pages.
+_s Shopify analytics.
+_session_id Shopify analytics
+_shopify_s Shopify analytics.
+==========
+_shopify_sa_t Shopify analytics relating to marketing & referrals.
+_shopify_uniq Shopify analytics.
+_shopify_y Shopify analytics.
+_y Shopify analytics.
+*_assignment Shopify analytics
+ab_test_* Shopify analytics.
+==========
+cart_sig Shopify analytics.
+ki_r Shopify analytics.
+ki_t Shopify analytics.
+==========
+Additionally, we use pixels and tags from the following third parties, which may in turn place cookies:
+Cookies Necessary for the Functioning of the Sites
+Reporting & Analytics
+Advertising
+Social Media & Content
+Oberlo websites
+When visitors load Oberlo’s websites, we generally place the following Oberlo cookies:
+Cookies Necessary for the Functioning of the Sites
+Name Function
+oberlo_session Used in connection with navigation through an app.
+shippingCountry Used in connection with navigation through an app.
+==========
+For product exploration, calculating shipping price.
+user_locale Used in connection with customer login.
+==========
+For storing language chosen in log-in page.
+hideFufilmentBanner Used in connection with navigation through an app.
+hideBulkOrderingFeatureBanner Used in connection with navigation through an app.
+hideChangePlanBannerBulkFulfillment Used in connection with navigation through an app.
+hideBanner101 Used in connection with navigation through an app.
+alert_setup_notifications_1 Used in connection with navigation through an app.
+==========
+Reporting and Analytics
+Name Function
+conversion Oberlo analytics.
+conversion_leave Oberlo analytics.
+trackExtensionCheck Oberlo analytics.
+==========
+shopify_ref Analytics relating to marketing & referrals.
+Referrals tracking.
+==========
+Additionally, we use pixels and tags from the following third parties, which may in turn place cookies:
+Reporting & Analytics:
+Advertising:
+Social Media & Content:
+How long will cookies remain on my computer or mobile device?
+The length of time that a cookie remains on your computer or mobile device depends on whether it is a “persistent” or “session” cookie.
+Session cookies last until you stop browsing and persistent cookies last until they expire or are deleted.
+==========
+Most of the cookies we use are persistent and will expire between 30 minutes and two years from the date they are downloaded to your device.
+See the section below on how to control cookies for more information on removing them before they expire.
+How to control cookies?
+You can control and manage cookies in various ways.
+Please keep in mind that removing or blocking cookies can negatively impact your user experience and parts of our website may no longer be fully accessible.
+==========
+Most browsers automatically accept cookies, but you can choose whether or not to accept cookies through your browser controls, often found in your browser’s “Tools” or “Preferences” menu.
+For more information on how to modify your browser settings or how to block, manage or filter cookies can be found in your browser’s help file or through such sites as: www.allaboutcookies.org.
+==========
+Many of the third party advertising and other tracking services listed above offer you the opportunity to opt out of their tracking systems.
+You can read more about the information they collect and how to opt out through the privacy policy links listed above.
+Last updated: April 20, 2021
+==========

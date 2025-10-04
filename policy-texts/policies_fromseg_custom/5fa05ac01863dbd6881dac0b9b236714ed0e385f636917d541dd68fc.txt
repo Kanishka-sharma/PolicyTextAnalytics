@@ -1,0 +1,135 @@
+Last Updated:  10/27/2017
+ Overview
+Bombora, Inc., its subsidiaries and affiliates (collectively, “Bombora”, “we”, “us”, or “our”) value the privacy of the persons (“you” or “your”) whose information we collect or receive.
+This Privacy Policy (the “Privacy Policy”) describes the information we may collect through registration forms, advertising units, widgets, web sites and web pages (whether accessed via computer, mobile or tablet device, or other technologies), and information we receive from third parties.
+(We refer to all of this information below as “Service Information.”)
+This Privacy Policy also describes how this information may be used and/or shared with others (including our customers), and your choices in controlling its use in connection with our marketing activities.
+We also collect information through our corporate website(s), including the site on which this Privacy Policy resides.
+If you’d like to understand more about that information, please go to Section 6 of this Privacy Policy.
+The Information That We Collect and Receive
+We primarily collect, use and share information to provide our clients, and ad and data platforms that service them (collectively “Clients”) with services (the “Services”), such as notifications about business services, offers and promotions, or other relevant content delivered through targeted advertising.
+==========
+We do this by employing (and working with other companies that employ) a variety of technologies, including web-based “cookies” (described further in Section 4).
+We also receive information from other web-based and mobile networks, exchanges and websites (collectively “Partners”) that collect information when you visit websites, mobile applications and web services, or request or download information.
+The information that we may collect or receive about you (directly or indirectly) through the Services (collectively the “Service Information”), such as when you visit a website that we work with, includes the following:
+
+IP address, from which we may infer your geographic location,
+browser type, configuration and operating system,
+mobile identifiers, such as the Apple IDFA and the Android Ad ID,
+information about clicks on or responses to advertisements delivered by us, date and time,
+referring URLs and other information normally transmitted in HTTP requests, including pages and times visited,
+information regarding your visits to or activities on websites, such as when you express interest in a white paper or other content, an event, service or company
+email addresses (which, if used for our Services, are generally stored in “hashed” form),
+unique identifiers (“UIDs”) that we, a Client or a Partner may associate with a particular browser or device through technologies such as browser “cookies” or similar locally stored objects or code.
+(Please see Section 4, titled “Cookies and Pixel Tags,” to learn more about cookies and similar technologies.)
+Information about how and when you interact with web sites and advertisers that we work with, such as time spent on a web page, and whether you scroll or click on an ad or a web page.
+==========
+The above Service Information may be combined, and may be associated with business profile information that we infer about you, that you provide to us, or that we receive from Partners about (for instance) your industry, employer and company size, and job title or department.
+Similarly, we may use this Service Information to build various inferenced data segments (“Data Segments”) related to, for instance, the industry you are in or the type of content you appear to be interested in.
+We use these Data Segments to help our Clients, for instance, to help Clients understand their own customers, evaluate customer and market trends, and create reports and scoring regarding consumer behavior.
+==========
+These Data Segments also may be associated with UIDs, cookies and/or mobile device advertising IDs.
+Similarly, we sometimes use or work with Clients and Partners that use UIDs or other information derived from information such as email hashes.
+This information in turn may be associated with cookies (including by using hashed identifiers derived from personal information such as email addresses) and may be used to target ads to you that are based on “offline” interest-based segments — such as your interests, transactions or demographic information, or used by Clients that target and analyze such ads.
+==========
+How We Use the Service Information We Collect
+Generally, we use the Service Information to provide the Services to our Clients.
+A number of the Services that we provide are described on this website, but generally we use the Service Information to help Clients to better understand their customers and prospective customers, as well as market trends, and help Clients better target and customize marketing, websites and content, and measure and optimize the performance of marketing.
+Sometimes, we (or Partners and Clients we work with) may use the Service Information — for instance, IP addresses and UIDs — to try to locate the same unique users across multiple browsers or devices (such as smartphones, tablets, or other viewing devices), or work with providers that do this, in order to better target ad campaigns to common sets of users.
+For instance, a brand may wish to target customers that it usually recognizes on web browsers through mobile apps.
+Similarly, we may use the Service Information, in particular various UIDs, to sync cookies and identifiers with other Partners and Clients, in order to help them (or help our Clients) do any of the above, including to enhance their own data and data segments, or their ability to obtain or provide to other marketers customer insights.
+We may also share Service Information with third parties:
+
+To evaluate, operate or improve the Services,
+If the disclosure is provided to: (a) comply in good faith with applicable laws, rules, regulations, governmental requests, court orders, or subpoenas; (b) enforce our terms and conditions or other agreements; or (c) protect our, or any other person’s or entity’s, interests, rights, property, or safety, or in connection with an investigation of suspected or actual unlawful activity,
+For a range of business and operational purposes, where the information is aggregated or de-identified, and
+As part of a business purchase, sale, merger, consolidation, investment, change in control, transfer of all or substantially all of our assets, reorganization or liquidation, bankruptcy, or in connection with steps taken in anticipation of such an event (e.g. due diligence).
+==========
+Cookies and Pixel Tags
+We, our Partners and our Clients use various UIDs and technologies to tailor ads to Users across various media channels and devices.
+Among the most common of these technologies are cookies, pixel tags and mobile SDKs, and we’ve described each of those below.
+Cookies are small data files that contain a string of coded characters, and that are stored on your computer or other device as a way to uniquely identify your browser.
+Cookies may be “session” or “persistent” cookies.
+Persistent cookies, unlike session cookies, remain after you close your browser, and may “remember” your browser on subsequent visits to a website or subsequent interactions with an ad or data platform, such as Bombora or our Partners.
+For instance, if you visit our own website(s), we may work with a retargeting ad platform to send you ads about our services and events when you visit other sites.
+This technology may also provide us (or any Partner or Client that has placed a cookie on your browser) with information regarding your IP address, browser type, the web pages or sites that you visit just before or after you visit a given website, what pages you view on a site, and the dates and times of your visits.
+==========
+We may sometimes deploy or read other, similar local stored objects on browsers that (on most browsers) act like cookies.
+A pixel tag (also commonly known as a web beacon or clear GIF) is an invisible 1 x 1 pixel that is placed on certain web pages.
+When you access a web page with a pixel tag, the pixel tag may generate a generic notice of the visit, and permit us, or our Clients or Partners, to set or read cookies.
+Pixel tags are used in combination with cookies to track the activity on a website by a particular browser on a particular device.
+If you disable cookies, pixel tags simply detect a given website visit.
+We, alone or with our Clients and Partners, may use cookies and pixel tags to “remember” you, track trends, and collect information about how you use our Clients’ or Partners’ websites or interact with advertising.
+We, and our Clients and Partners, use cookies to provide relevant content to you and replace non-relevant ads with ads that are more likely to better match your interests.
+If you want to opt out of this type of “interest-based” advertising, please see Section 7 below, titled “Your Consumer Choices:  How to Opt Out.”
+==========
+Why and With Whom We Share the Service Information
+Generally, we share the Service Information with Clients and Partners in order to provide our data and advertising services.
+We also share the Service Information with a variety of service providers to help us to improve our platforms and our Services, develop new services, and provide, secure, monitor, operate and evaluate the Services.
+For instance (simply by way of example), we may share the Service Information with service providers to (a) help us connect Service Information, or integrate the Services, with other platforms and other data, (b) maintain, evaluate and enhance the Service Information, and (d) anonymize and aggregate the Service Information, or provide privacy-related protections.
+We may share the Service Information with Clients and Partners to help marketers provide and synchronize targeted content and advertising to consumers (often business consumers) on various devices and platforms (e.g., websites, apps, devices) and to help measure the effectiveness of marketing or analyze consumers’ likely interests or demographics.
+We may also share the Service Information with certain Partners to help advertisers identify common users across different mobile devices and/or mobile browsers.
+These processes often involve cookies and similar technologies, which may be associated with interest about consumers’ interests, demographics, or transactions.
+This is often known as “interest-based advertising.”
+If you are interested in learning about this type of advertising to go to Section 7 below, or to the DAA’s website at http://www.aboutads.info.
+==========
+We may also share Service Information with third parties:
+
+Who are service providers, and assist us in carrying out our business activities, such as to assist with technical, operational, or hosting support, software and security services, or to enable other services that we offer,
+Pursuant to a request or authorization by a Client or other authorized person,
+If the disclosure is provided to: (a) comply in good faith with applicable laws, rules, regulations, governmental requests, court orders, or subpoenas,; (b) enforce our terms and conditions or other agreements; or (c) protect our, or any other person’s or entity’s, interests, rights, property, or safety, or in connection with an investigation of suspected or actual unlawful activity,
+For a range of purposes, where the information is aggregated or de-identified, or
+As part of a business purchase, sale, merger, consolidation, investment, change in control, transfer of all or substantially all of our assets, reorganization or liquidation, bankruptcy, or in connection with steps taken in anticipation of such an event (e.g. due diligence).
+Information We Collect on Our Website(s)
+Bombora.com and any other website this Policy is on (the “Website(s)”) is primarily directed to our business Partners, Clients, and those interested in working for or with us.
+On the Bombora Website we collect personal information such as name, email address and phone number, when it is provided to us.
+We use this information for our own commercial purposes.
+==========
+For example, if a potential Client asks for information about our Services through an email or form request, we may contact that company or person through a phone call or email.
+Likewise, if you submit personal information through our Website, such as your name or email address, we may provide your information to companies that provide services to us in support of our business activities, such as customer relations management (CRM), marketing, customer and technical support, software services, to track interactions with customers and potential customers, and recruitment software services, to process job application data.
+Additionally, we and third party service providers of ours use cookies, pixels and other means to collect, detect and read UIDs regarding visitors to our website(s) for a variety of reasons including to administer the website, better understand how visitors use our Website, improve Website usability, analyze the effectiveness of our marketing campaigns, and target our advertisements to visitors to our Website when they visit or use other websites, apps or devices.
+==========
+Your Consumer Choices: How to Opt Out 
+We understand that some consumers do not wish to receive targeting advertising and offers.
+If you wish to opt out of our Services, please go to our opt-out page here.
+When you opt out of the Services in this way, we will place a Bombora cookie on (or otherwise identify) your browser in a way that informs our systems not to record information related to your business research activities.
+If you browse the web from multiple devices or browsers, you will need to opt out from each device or browser to ensure that we prevent personalization tracking on all of them.
+For the same reason, if you use a new device, change browsers or delete the Bombora opt out cookie (or clear all cookies), you will need to perform this opt-out task again.
+==========
+In addition, Bombora is a member of the DAA and EDAA, industry associations whose self-regulatory principles address interest-based advertising in the U.S. and Europe, respectively.
+You may opt out of interest-based advertising from numerous companies that enable such advertising on those associations’ websites:  the DAA’s opt out portal is here, and the EDAA”s opt-out portal is here.
+.
+You may also opt out of some of the interest-based advertising Partners that we work with by going to the Network Advertising Initiative (NAI) consumer choice page here.
+You may opt out of ad targeting that is based on your activities across mobile applications and over time, through your device “settings.”
+==========
+Data Security Precautions & Retention
+Bombora takes precautions to protect data and information under its control from misuse, loss or alteration.
+Bombora’s security measures include technology and equipment to help protect our information, and Bombora maintains security measures regarding who may and may not access to our information.
+Of course, no system or network can ensure or guarantee complete security, and Bombora disclaims any liability resulting from use of the Service or from third party hacking events or intrusions.
+==========
+Children
+Our Service is not intended for children under 13 years old.
+If you are aware of personal information we have collected from a child under 13, we ask that you contact us at the below contact information.
+Other Web Sites
+The Service or the Website may contain links to, or integrations with other sites that Bombora does not own or operate.
+(For instance, we might sponsor an event, or provide services in conjunction with, other companies.)
+==========
+This includes links from Clients and Partners that may use the Bombora logo in a co-branding agreement, or websites and web services that we work with in order to provide the Services.
+Bombora does not control, nor is Bombora responsible for these parties’ sites or services, or their content, products, services, privacy policies or practices.
+Likewise, if you permit Service Information to be collected and used through  a website using the Services, you are choosing to disclose information to both Bombora and the third party with whose brand the website is associated.
+This Privacy Policy only governs Bombora’s use of your Service Information, not the use of any information by any other party.
+Consent to Processing and Transfer of Information
+The Services and the servers and facilities that maintain the Service Information and information we collect on our Website are operated in the United States.
+==========
+Given that we are an international business, our use of your information necessarily involves the transmission of data on an international basis.
+If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect may be transferred to and processed in the United States.
+By using the Services, or providing us with, or permitting us to collect, any information, you consent to the collection, processing, maintenance and transfer of such information in and to the United States and other applicable territories in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside and/or are a citizen.
+==========
+Changes to our Privacy Policy
+We may revise this Privacy Policy from time to time without prior notice to you, and any changes will be effective immediately upon the posting of the revised Privacy Policy.
+If you are interested in the ways in which we use and share Service Information, we encourage you to review this Privacy Policy periodically to see if it has been updated.
+We will always show the date of the latest modification date of the Privacy Policy at the top of the page so you can tell when it has last been revised.
+Contact Us
+We regularly review our compliance with this Privacy Policy.
+Questions, comments, and requests regarding this Privacy Policy are welcomed and should be addressed to: privacy@bombora.com or by mail to 1 E. Liberty St., Suite 404, Reno, NV 89501.
+==========

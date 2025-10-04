@@ -1,0 +1,223 @@
+Privacy Policy
+The protection of the personal data and privacy of its users is of great importance to Chandago SAS ("Chandago", "we", "us", "our" or "our").
+This includes protecting your privacy by ensuring that you have the necessary access and control to decide how your data is used.
+To this end, Chandago undertakes to process personal data in compliance with the applicable data protection laws and regulations in the countries from which its users access and use the AppConsent Xchange solution ("Solution"), in particular the European General Data Protection Regulation ("GDPR").
+This privacy policy clarifies how we collect and treat your personal data in the context of your use:
+
+of the AppConsent.io website
+of the AppConsent Premium product
+of the AppConsent Xchange product 
+of the Pipeline sellers and buyers product
+
+Please read it carefully, as it applies whenever you use them.
+1.
+==========
+What is personal data?
+Personal data refers to any information relating to an identified or identifiable natural person (the "data subject").
+In the context of your use of our solution, you are considered as concerned persons.
+The personal data covered by this Privacy Policy is therefore all information about you or your users, to the extent that you or your users are identified or identifiable, for example by reference to the IP and/or IMEI address of the device or account identifiers.
+The processing of personal data is subject to specific legal and regulatory provisions, in particular the GDPR.
+2.
+==========
+Why do we collect your personal data?
+We only collect personal data that is necessary for purposes such as ensuring that you have the best possible experience with the solution, communicating with you easily, and within the scope of the solutions and on the basis of your consent and that of the users of your websites or application, sharing your users' personal data with partners you have chosen through the validation of the contracts that will be proposed to you.
+3.
+==========
+Under what conditions and what personal data are collected.
+We collect your personal data and that of your users in the following situations and for the purposes detailed below.
+For each case, we detail the information that is stored by our services.
+Our solutions have been built with Privacy by Design and Privacy by Default in mind, which guarantees you the highest possible level of data protection.
+Therefore very little information is stored by our services, no nominative information and are all encrypted and anonymized.
+3.1.
+When connecting to the website as a simple visitor
+When connecting to the website, we will automatically collect the following personal data for technical purposes so that the website you are using is suitable and offers you the best possible user experience:
+
+The truncated IP address of your device,  
+The URL of the site you are visiting, 
+The user agent, 
+The timestamp, 
+Technical session cookies, 
+Re-targeting cookies, 
+Cookies for audience measurement,
+
+The data are kept for 12 months.
+3.2.
+==========
+When registering and using your account on the website.
+When you register/use your account on the website, we will collect, through the registration form, the following data:
+
+Your complete IP address
+Your login: Hash email 
+The secure version of your password
+
+We also keep your account information in the interest of the contract that unites us so that you can use our products:
+
+Name of the company, 
+Siret.
+number, 
+Share capital, 
+Address of the registered office, 
+Name of the legal representative,
+Function of the legal representative, 
+Names of account managers and functions,
+URLs of websites and applications.
+This data will be collected and processed for the purpose of managing your user account and providing you with the services of the solutions.
+==========
+This processing is based on its necessity for the execution of a contract to which you are a party, namely the Conditions of Use of the Products.
+This data is kept for the duration of the contract plus the 5-years commercial prescription.
+3.3 When using solutions.
+3.3.1.
+==========
+AppConsent Premium
+AppConsent Premium is a consent management platform (CMP), a solution for collecting consents from users of our customers' websites or applications.
+The following data are kept for the purpose of product operation and transmission of proof:
+
+The user IDs of the users of your websites or applications, 
+Transaction history, i.e. date, time, version of the consent collection notice, consent status, source and Global Vendor List (GVL) 
+Positive or negative consents.
+This data is kept for the duration of the contract plus the 5-years commercial prescription.
+3.3.2.
+==========
+AppConsent Xchange
+AppConsent® Xchange is a next-generation CMP that allows publishers, retailers and e-merchants to distribute their data with confidence.
+This product allows sellers to share the data they hold with buyers and provide traceability and ensure that the user's choice is respected on the use of their data.
+No data is shared without its attached legal basis.
+The following data are kept for the purpose of product operation and transmission of proof: 
+
+The user IDs of the users of your websites or applications, 
+Transaction history, i.e. date, time, version of the consent collection notice, consent status, source and Global Vendor List (GVL) 
+Positive or negative consents, 
+The references of the saddlers, 
+Purchasers' references, 
+The contracts,
+The types of data shared.
+The data pass through our platform between the seller and the buyer, we only store them temporarily between 6 hours and 1 month, until they are used by the buyer.
+This data is kept for the duration of the contract plus the 5-years commercial prescription.
+3.3.2.1.
+==========
+Internet user/mobile user data collected as part of the Xchange service
+The Xchange offer has been designed so that it cannot deliver data to advertisers, brands or other customer players on our platform, only if we have a positive prior consent signal.
+Under no circumstances can your data be delivered without this consent.
+The legal basis for providing this data is consent.
+To be delivered, the purposes of processing this data must correspond.
+For example, if a brand pursues the processing purposes of the Personalization and Measurement type and you have opposed both via the Consent Management Platform (CMP) notice, then the data will not be delivered.
+If you object to the Measurement processing, the data will be delivered but our platform will indicate that you have objected to this purpose via the IAB consentString, or specific meta-data for processing not covered by the IAB such as geolocation or specific purposes.
+Here is the list of the data concerned, this list may be updated regularly :
+Type of dataExampleMAID (Mobile Advertiser ID)22F02CE6-12DB-4E69-B0A3-95CE2B1E4BA3maidTypeIDFA(Apple) ou AAID(Android)AppConsentID (cookie)524f957-8126-4bbb-9cb6-f4d59341a50btimestampCollect1572006875deviceManufacturerXiaomideviceModelMi A2deviceCarrierOrangeIP (Truncated)90.50.183.XXappNameBundlecom.chandago.appconsenttest.xchangedeviceOSANDROIDdeviceOSVersion28consentStringBOpdxkUOpdxkUACABAFRCo-AAAAq57__f__3_8_v3_9_NuzvOv_j_ef93VW8fvYvcEvzhY9d_u_Uzxc4m_0vRc9ycgx85eprGsoxQ7KSsG-VOgd_7t__3ziX9ohP6wkcprxz3bEw-jo2o8JgextraConsentSignal{
+    "GEOLOC_AD" = {
+        id = 359fFyR;
+        state = 1;
+        vendors = {
+            124 = 1;
+            368 = 1;
+            435 = 1;
+            Ironsource = 1;
+        };
+    };
+    "GEOLOC_MARKET" = {
+        id = JU7iLdm;
+        state = 1;
+        vendors = {
+            124 = 1;
+            368 = 1;
+            435 = 1;
+            Ironsource = 1;
+        };
+    };
+}
+Purpose xO7AjTTJ
+(
+    {
+        xO7AjTTJ = 1;
+    },
+    {
+        124 = 1;
+    },
+    {
+        368 = 1;
+    },
+    {
+        435 = 1;
+    },
+    {
+        Ironsource = 1;
+    }
+)
+deviceCountryCodeFRexternalIdABCDA24321signalStrenght99networkTypeUNKNOWNURL (Web)https://www.awebsite.comContentText of the page or applicationID Sync(web)True/False
+In some cases, data of the PII type (Personally identifiable information) may be collected: it may be your email or telephone number.
+In this case, the data are subject to the opt-in regime.
+They are never circulated in clear but are encrypted using algorithms standardized by ANSSI.
+You have the right to object, which you will find in your applications equipped with our solution, generally via the "Manage my personal data" menu or equivalent.
+3.4.
+==========
+When using the contact form.
+By using the contact form on the website, we will collect, through this form, the following data:
+
+Subject of your message;
+The e-mail address
+The message you write in the "Description" field;
+Any screenshot you can attach to your message;
+Account data and technical data related to the context of use to help us understand the problem you may encounter.
+This data will be collected and processed in order to receive and process your message, to be able to reply to it and to resolve any problems you may encounter described in your message.
+This processing is based on your consent, expressed by clicking on the "Send" button of the "Contact Us" form.
+==========
+In the event that your message contains personal data classified as "sensitive data" under applicable data protection laws and regulations, for example data relating to your state of health, you explicitly consent to Chandago, by clicking on the send button of the contact form, to receive and process such data in order to respond to your message.
+It is understood that Chandago does not require or encourage its users to provide sensitive data through the "Contact Us" form.
+This information is destroyed after the processing of your request made in this contact form.
+We do not keep a history of these exchanges.
+4.
+==========
+How is your personal data protected?
+We apply the necessary internal and technological security measures to ensure that your data is not lost, misused, accessed or disclosed to third parties except: 
+
+In the context of contracts and product uses, 
+At the request of a judicial authority, police or any other authority authorised by law.
+Your information is encrypted on servers based in Belgium.
+==========
+Access to your user account is protected by your user password.
+You are responsible for the confidentiality of the password you chose when registering on our platform, and you agree not to share it with anyone.
+If you request the deletion of your account, its deletion will take effect immediately, unless your account has been suspended or blocked.
+==========
+We then keep your data for a period of 2 years in order to avoid any circumvention by you of the rules in force on our platform.
+The deletion of your account does not constitute the deletion of the data stored and listed in Article 3.
+To delete your information, you must complete the procedure in order to exercise your rights to delete it as indicated in Article 7.
+5.
+==========
+Who is the data controller and can I contact him?
+The controller is Chandago, who provides the solutions.
+If you have any questions or concerns about this privacy policy, Chandago's handling of personal data on solutions or more generally Chandago's data protection and privacy commitments, you may contact the administrator of the privacy policy by sending an e-mail via dataprotection@chandago.com or by writing to Chandago SAS, Attention: Privacy Policy Administrator, 15 Place Canteloup, 33800 Bordeaux.
+6.
+==========
+With whom is my personal data shared?
+Data will only be shared with third parties/partners as part of the contracts you have validated in the solutions.
+These partners may use subcontractors under the GDPR for the use of these personal data.
+In this case, the controller will always remain the third party/partner with whom you have validated the contract and with whom you can exercise your rights (see Article 7).
+Otherwise, personal data collected and processed in accordance with Article 3 above will be shared with Chandago's people and services, in particular our staff dedicated to technical issues and user experience studies.
+In specific cases only, your personal data may be shared to respond to requests from competent authorities and in legal proceedings if necessary.
+7.
+==========
+What are your rights with regard to your personal data?
+In accordance with applicable data protection laws and regulations, you have the following rights regarding the processing of your personal data: right of access, right of data portability, right of rectification, right of deletion, right of opposition to processing and right to limit processing.
+Access rights: you can access your data to modify them, or request a copy of your personal information.
+Right of rectification: you may request Chandago to correct inaccurate information on its database.
+Deletion right: you can request the deletion of your Personal Data.
+Right of opposition: you may object at any time to the processing of your personal data on AppConsent Xchange by clicking on this link.
+Right to limit processing: you can request the suspension of processing for the duration of a verification.
+Right to portability: you can obtain the personal data you have provided are transmitted, in a structured format, commonly used and readable by the computer, to us or to another controller, where technically possible.
+==========
+You may exercise these rights by contacting the Privacy Policy Administrator at dataprotection@chandago.com or by writing to Chandago.com SAS, Attention: Privacy Policy Administrator, 15 Place Canteloup 33800 Bordeaux, France.
+As these rights are purely personal, they can only be exercised by the person concerned.
+==========
+As a result, you may be asked to provide a copy of a valid piece of identification; we will only keep this copy for as long as it takes to verify your identity.
+In this case, Chandago will stop processing the personal data concerned and keep them for the appropriate period of time.
+For those processing activities described in Articles 2 and 3 above based on your consent, you have the right to withdraw your consent at any time, without justification.
+Finally, you have the right to file a complaint regarding the processing of your personal data by Chandago with the competent supervisory authority in your country.
+8.
+==========
+Modification of this privacy policy
+This privacy policy was last updated on November 6, 2019.
+Please note that we may revise it from time to time and reserve the right to update or modify it.
+==========
+We will post the revised privacy policy on the application, so that users can always know what personal data we collect and how we collect it.
+In addition, if you have registered under the registration form, you will also receive an email informing you of any changes or updates to the Privacy Policy on the email address associated with your user account.
+==========

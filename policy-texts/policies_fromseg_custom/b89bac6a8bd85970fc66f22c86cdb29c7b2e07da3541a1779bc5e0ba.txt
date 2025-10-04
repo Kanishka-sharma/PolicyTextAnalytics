@@ -1,0 +1,123 @@
+EFFECTIVE DATE: JULY 15, 2016
+This privacy policy outlines what information we collect, how we secure it, and how we use it in relation to the service Acuity Ads provides to its customers.
+WHO WE ARE
+Acuity Ads has developed a proprietary technology platform that enables marketers and agencies to effectively target consumers with digital advertising.
+Most of the internet is offered to users free of charge.
+Web publishers are able to offer valuable content for free because they are supported by advertising.
+Acuity aims to create a better browsing experience for web users by allowing advertisers to present relevant advertising content, rather than advertising that is unrelated to users’ interests.
+Advertisers also benefit because targeted advertising is more effective and better received.
+We take your privacy seriously.
+We are members of the Network Advertising Initiative (NAI) and adhere to its Code of Conduct, as well as the Digital Advertising Alliance (DAA) and the Digital Advertising Alliance of Canada’s (DAAC) Self-Regulatory Principles for Online Behavioral Advertising.
+We continuously improve our privacy safeguards in order to help protect information about your browsing activities.
+==========
+OUR TECHNOLOGY
+We obtain information using one of the following techniques, which are all widely used across the Internet:
+COOKIES
+A cookie is a small data file stored on your device containing a symbol that is assigned to your browser the first time it is seen by our service.
+On subsequent interactions with our service, we use this symbol to, among other things, know what advertisements you have interacted with previously.
+Cookies cannot be used to install malware, viruses or any other harmful software and they cannot access any personal or confidential data on your computer.
+PIXELS (ALSO KNOWN AS WEB BEACONS)
+Pixels are tiny images embedded in a web page that allow us to know that you’ve seen the page.
+They also allow us to create, update and read our own cookies.
+==========
+ADVERTISING IDS
+An Advertising ID (device identification) is a distinctive number associated with a smartphone or similar handheld device.
+Advertising IDs are accessible by Publishers and can be passed to Acuity with an ad request.
+These Advertising IDs do not enable Acuity to identify individuals, but rather can be used for certain advertising purposes.
+It can be used to limit the number of times a specific advertisement is presented to the same device, track a device to show that the device interacted with an ad (i.e. “clicked” on it, watched a video ad, or downloaded an application as a result of an advertisement).
+Acuity may also partner with third parties that have their own methods of identifying a device.
+These can be used as described above, or in some cases can be used for the purposes of supporting 3rd party targeted advertising solutions.
+Where these solutions are employed, Acuity will work with our Exchanges or otherwise endeavour to provide end-users with the ability to opt-out of these solutions.
+==========
+THE INFORMATION WE COLLECT
+Using the technologies described above, we collect information that does not identify you personally (“Non-PII”) but allows us to serve users more relevant ads and to understand how users interact with ads.
+This information is collected when you visit the website or mobile application (“app”) of entities for which we serve advertisements, or the websites or apps where we display advertisements.
+For example, we collect information about your browser type, information about your operating system, device, and the unique identifier assigned to your device.
+In addition, we collect information about your web browsing and app usage, such as the date and time you visited one of our partner’s websites or apps, pages of such websites or apps that you visit, the names or types of mobile app that you visit, and other data such as page visits, ads shown, ads clicked and conversions (“Log Data”).
+THE INFORMATION WE DO NOT COLLECT
+Our data collection process is transparent so that you can make informed decisions about how your information is used.
+==========
+We do not collect information such as your name, address, phone number, or social security number.
+The data we collect is primarily used to understand your online activity and consequentially provide you with relevant advertisements based on non- personal identifiers.
+The information we collect is used to deliver personalized advertisements and to measure the effectiveness of the ads.
+Using this data we can infer such things as:
+
+Browser type (e.g., Chrome or Internet Explorer)
+Operating system (e.g., Mac OS or Windows)
+Browser language (e.g., English or Spanish)
+Internet Protocol (IP) address
+Internet Service Provider (e.g., Comcast or Verizon)
+Mobile advertising identifier, for mobile devices such as smartphones and tablets
+
+Acuity may also collect data that can be used by our clients and partners.
+This data may include whether or not you have visited our client’s website and/or mobile app, or if you have used a website and/or app that our client advertises on.
+==========
+The data collected is used to build a consumer profile.
+We use the data in our algorithm to better understand your interactions online and to pair the right advertisements with the right consumers.
+With this information we can deliver you more personalized advertisements.
+==========
+INFORMATION PERTAINING TO CHILDREN
+Acuity does not intentionally or knowingly collect information from children under 13 years of age, and does not tailor any segments to children under 13 years of age.We do not collect any information regarding specific health conditions.
+For a full list of Acuity’s proprietary health-related segments, click here.
+Acuity may also utilize health-related targeting data segments provided by third party data companies such as eXelate.
+Please review the following link for more information on eXelate’s op out policy.
+DATA STORAGE AND SECURITY
+Acuity retains the web log data for a maximum of 3 months.
+After 3 months, we aggregate the log data so that it does not identify any individual device and retain the aggregate data for up to three years.
+==========
+Our cookies are set to expire before three years; this expiration date updates every time you encounter our server.Acuity takes reasonable measures to help protect the information we collect from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+DATA COLLECTION AND RETENTION ON OUR WEBSITE
+When you are navigating our corporate website we do not collect any personal information.
+The only time personal information is collected on our website is when you fill out one of our forms and provide it to us.
+We do collect some non-personal information such as how you found us, what your interests are in relation to our service, and how to improve our site/service for your benefit.
+OPTING OUT
+Why you should not opt out:
+There are many benefits to receiving interest based advertisements.
+==========
+Our algorithm reads your online data and aims to deliver you the most relevant advertising content available.
+This results in you only seeing ads that match your consumer profile.
+Without interest based advertising marketers do not know your consumer preferences and will likely deliver you ads that you are uninterested in.
+It is also important to consider that the websites you use receive substantial payments from marketers to present interest based ads.
+These increased revenues can improve website content and pass on a reciprocal benefit to you, as the user.
+Without this revenue websites are more likely to deliver lesser value content.
+==========
+Opt Out:
+If you prefer not to receive interest-based advertising from Acuity, you can opt out by clicking here, by visiting the NAI website here, by going to the DAA website here or the DAAC website here.
+If you do opt out, Acuity will set a cookie on your browser that tells Acuity not to tailor ads to your interests.Opting out does not mean you will not be served an ad by Acuity, but the ads we serve will be less relevant to your interests.
+Please note that the opt-out cookie only applies to the computer and browser where it is set.
+Also, if you delete the opt-out cookie (such as by clearing all cookies on your browser), you will need to renew your opt out choice.
+To better understand the process of behavioral advertising, please visit:
+Network Advertising Initiative (“NAI”) – www.networkadvertising.org
+Digital Advertising Alliance (“DAA”) – www.aboutads.info
+Digital Advertising Alliance of Canada (“DAAC”) – www.youradchoices.ca
+
+MOBILE PRIVACY POLICY
+Acuity adheres to the NAI 2015 Mobile Application Code which regulates mobile advertising.
+==========
+Opting out on a mobile device:
+If you are using a mobile device and would like to opt out of interest-based advertising then please follow this link for instructions on how to opt out.
+Please note that the opt out process is different for each mobile operating system.
+Alternatively, you can opt out on your mobile device by downloading and using the “AppChoices”.
+You can download this application on the Digital Advertising Alliance App Choices page here.
+Please note that both the IOS and Android versions are available for download.
+==========
+DISCLOSURE
+We may share Non-PII that has been aggregated across many users.
+Acuity may also share visitor data with advertising clients, but we will only share data related to the advertiser’s own campaigns.
+Our data may be visible to third-party service providers such as networking and storage providers to allow them to carry out their services for us.Please take note of the following exceptional situations: Acuity may release user-level data in order to legally protect Acuity, its employees or associates, the safety of users on its website or when required to do so by law enforcement agencies.
+In the event that Acuity sells, merges or transfers all or part of its business, we may transfer visitor information to a third party as part of that transaction.
+==========
+REVISIONS
+Acuity reserves the right to revise its policies and practices periodically.
+If you would like to keep up to date, please visit this page to find out about any changes.
+We will post any updates as well as their effective dates on this webpage.
+CONTACTING US
+If you have any questions about our privacy policy, please contact us:
+ACUITYADS INC.
+www.acuityads.com
+181 Bay Street, Suite 320
+Brookfield Place, Bay Wellington Tower
+Toronto, ON, M5J 2T3, Canada
+(416) 218-9888
+privacy@acuityads.com
+==========

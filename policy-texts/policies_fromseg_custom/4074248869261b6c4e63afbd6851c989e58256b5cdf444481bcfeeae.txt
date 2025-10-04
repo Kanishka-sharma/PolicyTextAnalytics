@@ -1,0 +1,238 @@
+COOKIES AND TRACKING TECHNOLOGIES POLICY
+Updated on 22 May 2018
+BBC Studios Group (“BBCS”), our service providers and advertising partners use cookies and tracking technologies on our websites and mobile app (“Apps”).
+We do this to enable us to analyse use of our online services, to improve and personalise your experience of our services and to serve advertising which, on some services, may be tailored to you based on your browsing behaviour and other data held about you.
+The information in this policy relate to the use of cookies and tracking technologies by the companies in the BBC Studios group, (herein referred to as “BBCS”, “we”, “our” or “us”).
+As stated in our Privacy Policy, BBCS is the data controller of any personal data processed within the BBC Studios Group, including in relation to this website.
+BBCS respects your right to privacy and we aim to be transparent at all times about when, how and why we may use data about you and your browsing behaviours in connection with our services.
+We are committed to using cookies and tracking technologies fairly and in accordance with your privacy rights.
+This policy describes:
+What cookies and online tracking technologies are;
+How we use cookies;
+Analytics on our services;
+Advertising on our services;
+Your choices (managing cookies and opting out); 
+How to contact us.
+To find out more about BBCS and our approach to privacy please read our Privacy Policy.
+WHAT ARE COOKIES AND ONLINE TRACKING TECHNOLOGIES?
+Web Browser Cookies
+A cookie is a small text file that is sent by a website to your computer or mobile device where it is stored by your web browser.
+A cookie contains limited non-personal data, usually a unique identifier and the name of the site.
+This enables a website to recognise you as you move around the site and/or each time you revisit.
+==========
+We use cookies to:
+remember information about you, so you don’t have to give it to us again
+keep you signed in, even on different devices;
+help us understand how people are using our services, so we can make them better;
+help us personalise your experience by remembering your preferences and settings;
+deliver advertising where you provided your consent; and
+to find out if our emails have been read and if you find them useful.
+You can change your BBCS cookie settings at any time, and you can find out how to stop your browser tracking your info here.
+Different types of cookies
+Cookies may be served to you by the website you are visiting (a “first party cookie”) or by another organisation providing services to that website, such as an analytics company or advertising network (a “third party cookie”).
+They will either be stored for the duration of your visit (a “session cookie”) or they will remain on your device for a fixed period, which could be months or even years, to remember you across multiple browsing sessions (a “persistent cookie”).
+==========
+Other types of local storage, such as Flash Cookies and HTML5 Storage
+Many websites use Adobe Flash Player to deliver video and game content to their users.
+Adobe utilise their own cookies which are used by the Flash Player to store data such as your preferences, and your viewing and browsing history.
+HTML5 Storage is similar in concept to browser cookies in that the data is stored in your browser’s files, and it is used for similar purposes; however as this storage enables website publishers to store greater amounts of data, they will often use it to store usage data and preferences (alongside the unique ID usually stored in a cookie) instead of on their own systems.
+==========
+Tracking technologies: web beacons/GIFs, page tags, script
+Web pages, emails and Apps may contain a small transparent image file or line of code to record how you interact with them.
+They are often used in conjunction with web browser cookies (or the unique identifier of your mobile device) and they are used to help website and app publishers to better analyse and improve their services and to target advertising based on your browsing behaviour and interests.
+For example, by knowing which web pages you visit or which elements of a page you viewed, when and for how long, whether you viewed and/or clicked on an advert on the site or whether you opened or clicked on marketing emails sent to you.
+Tracking via Apps
+When you use our Apps, we may record unique identifiers associated with your device (such as the device ID, IP address, MAC address or IMEI number), your activity within the App and your network location.
+==========
+This information may be used to analyse and improve our services and, for Apps supported by advertising, to serve advertising to you.
+HOW WE USE COOKIES ON OUR ONLINE SERVICES
+We use cookies and tracking technologies for a variety of reasons, such as to enable us to recognise when you have logged in, to improve your experience of the services and to deliver advertising.
+In particular, we use these technologies for:
+‘Strictly Necessary’ Purposes: to let you use all the difference parts of the BBCS website or Apps, when you sign in or to keep you logged in, remembering things you’ve already done, to facilitate a purchase, to improve the security of our services and for system administration, such as preventing fraudulent or disruptive activity; 
+Functionality Purposes: to remember your preferences and settings and other functionality you have requested, such as remembering your username and password so that you do not need to login each time you visit;
+Analytics and Performance-Related Purposes: to help BBCS to understand how people use our website and Apps, so we can make them better, to record what you like and don’t like on the website and the popularity of various elements of the website so that we can ensure that it works properly at points of high usage.
+We also use analytics companies to gather information regarding users of our services on our behalf using cookies, log file data and code, which is embedded on our website.
+==========
+Advertising Purposes: some of our websites contain advertising, all of which is clearly marked with the word “Advertisement”.
+Cookies and tracking technologies may sometimes be used to deliver advertising and marketing messages relevant to you - a common practice across the internet and known as online behavioural advertising.
+More information about analytics and advertising is detailed below.
+Analytics on our services
+On our websites we use Google Analytics, and other similar services, to collect statistical information about how our websites are used.
+They use information such as your IP address, browser type and unique identifiers stored in (first party) cookies on your device to record how you interact with our website.
+On some services, we also use Google Demographics and Interests data gathered via the Google DoubleClick cookie.
+We only use this data in aggregate form and we do not merge it with any other data we hold, however it is important to note that these reports are derived from Google’s (third party) DoubleClick cookie and device identifiers, which are also used for advertising.
+These analytical services help us to know how many users we have, which parts of our sites are most popular, what browsers are used (so we can maximise compatibility), the country or region where our users are located, and the demographics and interests of our users.
+This enables us to understand better who is using our site and to ensure we are reaching our target demographic, and to improve and tailor our services accordingly.
+==========
+Cookie name
+
+
+What it’s for
+
+
+S1
+ns_session
+NO-SA
+ckpf_sylphid
+ckpf_mvt
+ckpf_sa_labels_persist
+ckps_iplayer_nations_1
+
+
+Analytics cookies set by the BBC (“iStats”)
+The BBC’s analytics system uses cookies, log file data and embedded code to gather information regarding visitor activity on the BBC’s websites and other BBC online services.
+The data gathered is sent to ComScore, the BBC’s analytics partner, for analysis and reporting.
+The BBC uses this information to help improve the services it provides to its users.
+You can opt in or out of this reporting in cookie settings.
+==========
+Scorecard Research by comScore
+
+
+Comscore provide the BBC with analytical information about our visitors.
+ComScore collect data on the traffic and engagement for the site to provide the BBC with a competitive context of their performance versus the market.
+This data is then used for sales pitches, editorial, strategy, business development and product development.
+For more information about what how comScore use this data, please visit the ScorecardResearch Privacy Policy.
+Opt-out of ScoreCard Research cookies
+
+
+Nielsen/NetRatings
+Quantcast
+
+
+These independent measurement and research companies, based in the US, gather data regarding the visitors to BBC sites on our behalf using cookies, log file data and code embedded in our sites.
+==========
+The BBC uses this information to help improve the services it provides to its users.
+To opt-out of receiving these cookies from these companies, click the links below:
+Out-out of Nielsen/NetRatings cookies
+Opt-out of Quantcast cookies (set for international users only)
+
+
+Google DoubleClick
+
+
+The BBC uses Google DoubleClick to measure the effectiveness of its online marketing campaigns.
+Opt-out of DoubleClick cookies
+
+
+Google Analytics
+
+
+From time to time some BBC online services, including mobile apps, use Google Analytics.
+==========
+This is a web analytics service provided by Google, Inc.
+Google Analytics sets a cookie in order to evaluate use of those services and compile a report for us.
+Opt-out of Google Analytics cookies
+
+
+Adobe SiteCatalyst (2o7.
+==========
+net)
+
+
+Adobe uses cookies, log file data and embedded code to gather data on behalf of the BBC World Service about visits to the BBC World Service sites including the foreign language news sites, a full list of which can be found on the BBC Languages site.
+The BBC World Service uses this information to track volume of usage on the World Service sites and to help improve the services it provides to users.
+Opt-out of SiteAnalyst cookies
+
+
+Effective Measure
+
+
+Effective Measure provide BBC Studios with analytical information about visitors based in the Middle East and Africa.
+Effective Measure collect data on the traffic and engagement for the site to provide BBCS with a competitive context of their performance versus the market.
+==========
+This data is then used for sales pitches, editorial, strategy, business development and product development.
+Opt-out of Effective Measure cookies
+
+
+i00
+Kantar for BARB
+
+
+Along with other broadcasters, we share anonymous data about use of online and mobile media players with the Broadcasters’ Audience Research Board (BARB), to understand how many people watch online, and how much they watch.
+Kantar Media collect this data for BARB using cookies.
+The anonymous data collected by Kantar’s cookies is only used for this purpose.
+Opt-out of Kantar cookies
+
+
+Optimizely
+
+
+The BBC uses Optimizely cookies, to test and analyse how audiences interact with BBC websites.
+We do this to make informed decisions about how to provide a better experience for visitors to BBC websites.
+To opt-out of the Optimizely cookies please visit our How can I change my BBC cookie settings?
+page and turn off performance cookies.
+==========
+Advertising on our services
+Some of our services carry targeted or behavioural advertising, as well as non-targeted advertising, which helps us to pay for the delivery of these services to you.
+Our advertising partners use cookies accompanying the adverts to enable them and their advertisers to monitor the effectiveness of their ads (e.g. by using statistical analysis cookies).
+We may also use cookies and your IP address to discover general information about which pages on our sites you visit and the country, city or region in which you are located.
+==========
+We sometimes combine this with information provided to us by third parties, together this information enables us to group you with other people with similar interests and places you in a market segment, such as “travel” or “autos”.
+We may then display advertisements which we believe you and other people in your market segment will find relevant.
+We believe this makes the advertising we serve you more interesting and useful to you, and also helps us increase the value we get out of the site from our advertisers, and therefore ultimately gives us a greater ability to invest in great content for the benefit of all users.
+We may also allow advertisers to use their own marketing data to target advertising campaigns on this website and as a result, you may see advertising based upon website content you have been viewing on another website.
+For example, a retailer might use information about the products you browsed on their website in order to tailor their advert to you on this website.
+This information is not shared with us and we do not share information with the advertiser about your browsing of our website.
+Our Key Advertising Partners
+Our key advertising partners are listed below.
+These companies are under contract to the BBC but the data they collect will also be subject to their privacy policies and they may allow other companies to use cookies and tracking technologies to collect information about your website usage and your interaction with their adverts.
+==========
+Click on their name to find out more and to opt-out from your data being used by them for OBA purposes.
+Ad trading, ad serving and targeting
+Google DoubleClick, AdSense and AdWordsIndex ExchangeJuice MobileOpenXRubicon ProjectTripleLiftVideology
+Telaria
+Data management & cross-device tracking
+Lotame
+Ad measurement and data partner
+DataXu
+In-email advert targeting
+LiveIntent
+Content recommendations (behaviour-based)
+Outbrain
+ 
+It is important to note that at no time do we or our service providers attempt to identify you individually nor do we create a profile of you for the purposes of delivering advertising.
+We are committed to following best practice in our use of online behavioural targeting technology and we at all times seek to comply with applicable regulatory frameworks, such as that of the European Digital Advertising Alliance.
+For more information about OBA please visit youronlinechoices.com
+YOUR CHOICES: MANAGING COOKIES AND “OPTING OUT”Opting out of Analytics CookiesTo find out more about the analytics services used on our websites and to opt-out please visit:
+ Opting out of Advertising Cookies
+The table below shows the three main associations that represent the advertising networks allowed on our sites.
+You can visit their websites to opt out of all cookies served by their members and they will explain what happens as a result of opting out.
+Typically, they will scan your device for a few seconds to see what cookies are currently set and then provide you with the facility to opt out on an individual basis or completely from all cookies.
+In opting out, a cookie will be set to let advertisers know not to use your data for targeted advertising purposes; you will still see adverts they just won’t be tailored to your interests.
+If you clear your cookies via your browser you will need to go through the opt-out process again.
+==========
+Managing cookies and local storage on your device
+Web browser cookies: You can choose how web browser cookies are handled by your device via your browser settings including to refuse or delete all cookies.
+If you choose not to receive cookies at any time, the website may not function properly and certain services will not be provided.
+Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences or follow the instructions provided at: www.allaboutcookies.org/manage-cookies/, which provides information for the most common browsers.
+Local Storage (Flash and HTML5): The most common browsers clear your locally stored data when you choose to delete/clear your cookies and web browsing data; consult the Help function of your browser for more details.
+Alternatively, you can manage which websites can store information (and how much) in Flash cookies by visiting the settings panel on the Adobe website.
+==========
+The ‘Do Not Track’ (DNT) function on your web browser
+DNT is a feature offered by some browsers which, when enabled, sends a signal to websites to request that your browsing is not tracked, such as by third party ad networks, social networks and analytic companies.
+This website does not currently respond to DNT requests, however, you may opt-out of tracking for analytics and advertising purposes using the links provided above.
+A uniform standard has not yet been adopted to determine how DNT requests should be interpreted and what actions should be taken by websites and third parties.
+We will continue to review DNT and other new technologies and may adopt a DNT standard once available.
+==========
+Ad choices for mobile applications
+If you are accessing BBC services though the web browser on your mobile device, you should follow the instructions above.
+However, mobile applications use different technologies to recognise your device.
+To opt out of your app usage data being used to target advertising within apps you should follow the instructions below.
+Apple iOS1.
+==========
+Go to Settings > Privacy > Advertising.2.
+Turn on Limit Ad Tracking.Visit the Apple support page for more information.
+Google Android1.
+Go to Settings.2.
+==========
+Select Google in the Accounts section.3.
+Select Ads in the Privacy section.4.
+Tick Opt out of interest based ads.Visit the Google support page for more information.
+Microsoft Windows1.
+Go to Settings.2.
+==========
+Tap on Privacy.3.
+Tap on Advertising ID, and turn off Let apps use my advertising ID for experiences across appsVisit the Microsoft support page for more information.
+CONTACT US
+If you have any questions or concerns about BBCS’s use of cookies and other tracking technologies, or if you believe there has been a breach of this policy, please email us at: dataprotection@bbc.com.
+==========

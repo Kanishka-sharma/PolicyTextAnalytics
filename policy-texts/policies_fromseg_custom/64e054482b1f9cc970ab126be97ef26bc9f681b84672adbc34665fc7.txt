@@ -1,0 +1,285 @@
+As a security-first company, data and privacy protection are our # 1 priority.
+SOC 3
+A SOC 3 report is a general use report of the SOC 2 reports which covers how a company safeguards customer data and how well those controls are operating.
+Companies that use cloud service providers use SOC 2 reports to assess and address the risks associated with third party technology services.
+These reports are issued by independent third party auditors covering the principles of Security, Availability, Confidentiality, and Privacy.
+==========
+What’s the primary purpose of this initiative?
+Provides an independent assessment of OneLogin’s security and privacy control environment.
+The assessment is designed to meet the needs of users who require assurance about the controls at a service organization.
+==========
+What’s the scope?
+The OneLogin’s SOC 3 scope is the same as our SOC 2 Type which covers the AICPA’s Trust Services Principles and Criteria for Security, Availability, Confidentiality, and Privacy.
+How often are you evaluated/audited?
+Audits are performed annually along with the SOC 2 Report and a report covering January through December is issued in February.
+==========
+Who is the primary audience?
+Customers and relevant third parties with a business need.
+==========
+SOC 2 Type 2
+A SOC 2 Type 2 report is an internal controls report capturing how a company safeguards customer data and how well those controls are operating.
+Companies that use cloud service providers use SOC 2 reports to assess and address the risks associated with third party technology services.
+These reports are issued by independent third party auditors covering the principles of Security, Availability, Confidentiality, and Privacy.
+==========
+What’s the primary purpose of this initiative?
+Provides an independent assessment of OneLogin’s security and privacy control environment.
+The assessment includes a description of the controls, the tests performed to assess them, the results of these tests, and an overall opinion on the design and operational effectiveness of the same.
+==========
+What’s the scope?
+OneLogin’s SOC 2 Type 2 Report covers the AICPA’s Trust Services Principles and Criteria for Security, Availability, Confidentiality, and Privacy.
+The report also includes a mapping of the controls tested to ISO/IEC 27001:2013 Annex A / ISO/IEC 27002:2013, ISO/IEC 27017:2015, ISO/IEC 27018:2014, HIPAA security requirements, and FFIEC’s examination guidelines for GLBA Information Security.
+How often are you evaluated/audited?
+Audits are performed annually and a report covering January through December is issued in February.
+==========
+Who is the primary audience?
+Customers and relevant third parties with a business need.
+==========
+SOC 1 Type 2
+A SOC 1 Type 2 report is an internal controls report specifically intended to meet the needs of the OneLogin customers’ management and their auditors, as they evaluate the effect of the OneLogin controls on their own internal controls for financial reporting.
+The OneLogin SOC 1 report examination was performed in accordance with the Statement on Standards for Attestation Engagements (SSAE) No. 16 and the International Standard on Assurance Engagements (ISAE) No. 3402, therefore it can be used by our customers and their auditors both the US and abroad.
+These reports are issued by independent third party auditors periodically.
+==========
+What’s the primary purpose of this initiative?
+Provide an independent assessment of OneLogin internal controls that are relevant to customers’ internal controls over financial reporting.
+The assessment includes a description of the controls, the tests performed to assess them, the results of these tests, and an overall opinion on the design and operational effectiveness of the same.
+==========
+What’s the scope?
+OneLogin’s SOC 1 Type 2 Report covers internal controls in the areas of risk management, logical access, change management, data security, and data availability.
+How often are you evaluated/audited?
+Audits are performed annually and a report covering January through December is issued in February.
+==========
+Who is the primary audience?
+Customers and their auditors.
+==========
+Is there an ISAE 3402 Report?
+The SOC 1 report follows both SSAE 16 and ISAE 3402 standards, so there is no need to issue a separate report.
+==========
+ISO 27018:2019
+The ISO 27018:2019 standard provides guidance to cloud service providers acting as data processors in the form of objectives, controls, and guidelines.
+OneLogin aligned its existing privacy controls to be compliant to this standard in order to augment its privacy program.
+These controls are tested as part of the periodic SOC 2 Type 2 report and an independent body has audited our compliance with this standard as part of our ISO 27001:2013 certificate annual audits.
+==========
+What’s the primary purpose of this initiative?
+The ISO 27018:2019 standard provides guidance to cloud service providers acting as data processors in the form of objectives, controls, and guidelines.
+Alignment with this standard provides additional assurance of the adequacy of OneLogin’s Privacy Program.
+==========
+What’s the scope?
+OneLogin’s Privacy Program and its alignment with recommended objectives, control, and guidelines.
+How often are you evaluated/audited?
+The ISO 27018:2019 controls are tested as part of the periodic SOC 2 Type 2 Report Audits and our ISO 27001:2013 Certification audits.
+==========
+Who is the primary audience?
+Customers and relevant third parties with a business need.
+==========
+ISO 27017:2015
+The ISO 27017:2015 standard provides guidance to both cloud service providers and consumers of these services in the form of objectives, controls, and guidelines.
+OneLogin aligned its existing security controls to be compliant to this standard in order to augment its security program.
+These controls are tested as part of the periodic SOC 2 Type 2 report and an independent body has audited our compliance with this standard as part of our ISO 27001:2013 certificate annual audits.
+==========
+What’s the primary purpose of this initiative?
+The ISO 27017:2015 standard provides guidance to both cloud service providers and consumers of these services in the form of objectives, controls, and guidelines.
+Alignment with this standard provides additional assurance of the adequacy of OneLogin’s Security Program.
+What’s the scope?
+OneLogin’s Security Program and its alignment with recommended objectives, control, and guidelines.
+How often are you evaluated/audited?
+The ISO 27017:2015 controls are tested as part of the periodic SOC 2 Type 2 Report Audits and our ISO 27001:2013 Certification audits.
+Who is the primary audience?
+==========
+Customers and relevant third parties with a business need.
+ISO 27001:2013
+The ISO 27001:2013 standard helps organizations keep information assets secure.
+Using this family of standards helps OneLogin manage the security of assets such as financial information, intellectual property, employee details, and information entrusted to us by third parties.
+An independent body has audited our compliance with this standard and issued our ISO 27001:2013 certificate, which required annual audits to maintain.
+==========
+What’s the primary purpose of this initiative?
+Provides an independent assessment and certification of OneLogin’s Information Security Management System (ISMS).
+The ISMS includes all aspects of security and privacy that impact both OneLogin and its customers.
+==========
+What’s the scope?
+The scope of the ISO 27001:2013 certification is the ISMS supporting the management of the infrastructure and services used to support OneLogin’s Enterprise Identity and Access Management solution.
+How often are you evaluated/audited?
+==========
+A comprehensive certification audit is performed every three years and surveillance audits are performed 12 and 24 months after each comprehensive audit.
+In addition, OneLogin performs an annual internal audit using an independent third party as part of the ISO 27001:2013 requirements.
+==========
+Who is the primary audience?
+Customers and relevant third parties with a business need.
+==========
+Skyhigh Enterprise-Ready
+Skyhigh Networks performs objective and thorough evaluations of the enterprise-readiness of cloud services based on a detailed set of criteria developed in conjunction with the Cloud Security Alliance (CSA).
+Services designated as Skyhigh Enterprise-Ready are the services receiving the highest CloudTrust™ Ratings, which fully satisfy the most stringent requirements for data protection, identity verification, service security, business practices, and legal protection.
+==========
+What’s the primary purpose of this initiative?
+Provide an objective evaluation of OneLogin’s security capabilities based on criteria developed in conjunction with the Cloud Security Alliance.
+What’s the scope?
+OneLogin’s security controls evaluated against a specific set of criteria developed by Skyhigh Networks in conjunction with the Cloud Security Alliance.
+How often are you evaluated/audited?
+An evaluation is performed periodically at Skyhigh Network’s discretion and when changes are submitted by OneLogin.
+Who is the primary audience?
+==========
+Customers and relevant third parties with a business need.
+CSA STAR
+OneLogin has been proactive in working with the Cloud Security Alliance whose mission is to promote best practice in the provision of security assurance within Cloud Computing.
+The CSA Security, Trust & Assurance Registry (CSA STAR) is a free, publicly accessible registry documenting security controls published by various cloud service providers, thereby helping users assess the security of Cloud services they currently use or are considering contracting with.
+What’s the primary purpose of this initiative?
+The CSA STAR program consists of three levels of assurance, which currently cover four unique offerings all based upon a succinct yet comprehensive list of cloud-centric control objectives in the CSA’s Cloud Controls Matrix (CCM).
+==========
+CCM is the only meta-framework of cloud-specific security controls, mapped to leading standards, best practices and regulations.
+CCM provides organizations with the needed structure, detail and clarity relating to information security tailored to cloud computing.
+What’s the scope?
+CSA STAR Level One is a self-assessment that documents the security controls provided by various cloud computing offerings, thereby helping users assess the security of cloud providers they currently use or are considering using.
+==========
+OneLogin provides a completed Consensus Assessments Initiative Questionnaire (CAIQ).
+The CAIQ is organized using 16 governing & operating domains divided into “control areas” within CSA’s Controls Matrix structure, including:
+Application & Interface Security,
+Audit Assurance & Compliance,
+Business Continuity Management & Operational Resilience,
+Change Control & Configuration Management,
+Data Security & Information Lifecycle Management,
+Datacenter Security,
+Encryption & Key Management,
+Governance and Risk Management,
+Human Resources,
+Identity & Access Management,
+Infrastructure & Virtualization Security,
+Interoperability & Portability,
+Mobile Security,
+Security Incident Management, E-Discovery & Cloud Forensics,
+Supply Chain Management, Transparency and Accountability,
+Threat and Vulnerability Management.
+How often are you evaluated/audited?
+==========
+Self-assessments are performed annually or when significant changes to the control environment occur.
+Who is the primary audience?
+==========
+Customers and relevant third parties with a business need.
+EU Model Contract Clauses
+The EU Model Contract Clauses are designed to facilitate transfers of personal data from the European Economic Area (EEA) to other countries, while providing appropriate safeguards for the protection of personal data.
+These clauses are part of our Data Processing Addendum and offer an alternative means of fulfilling adequacy requirements, and therefore are an alternative to the US Privacy Shield Framework or Binding Corporate Rules.
+What’s the primary purpose of this initiative?
+Provide a mechanism for customers in the EEA, who are considered the data controllers, to work with OneLogin, the data processor, and mutually agreeing to the transfer personal data outside of the EEA only under the proper safeguards and in compliance with EU data protection law.
+What’s the scope?
+The model contract clauses are standard for all data processing providers and document the provider’s commitment to abide by the EU data protection law.
+How often are you evaluated/audited?
+==========
+EU model contract clauses are executed on an as needed basis
+Who is the primary audience?
+Customers who are going to be transferring EEA personal data to OneLogin.
+==========
+Penetration Tests
+Application penetration tests are performed by independent third parties on a quarterly basis.
+The objective of these tests is to help ensure we discover potential security vulnerabilities in our app and are steering clear of the OWASP Top 10 and the SANS Top 25.
+Testers are granted access to their own OneLogin account and the underlying source code and we alternate the vendors that we use.
+We perform ad hoc pen tests, as needed, when rolling out significant features or functionality that might not be covered by the periodic tests.
+==========
+What’s the primary purpose of this initiative?
+Penetration tests help OneLogin identify potential security vulnerabilities in our app, including those in the OWASP Top 10 and the SANS Top 25.
+What’s the scope?
+The core app is covered during every assessment and additional services including mobile apps and browser extensions are focus areas on a rotational basis.
+How often are you evaluated/audited?
+Third party penetration tests are performed on a quarterly basis.
+Who is the primary audience?
+==========
+OneLogin - internal use only
+Network Scans
+Network vulnerability scans are performed using a PCI ASV (Approved Scanning Vendor) solution on a quarterly basis.
+These scans are performed internally and externally as part of PCI requirements.
+Monitoring tools are also used to verify whether OneLogin systems are susceptible to emerging vulnerabilities by scanning the software packages installed on each system.
+==========
+What’s the primary purpose of this initiative?
+Network vulnerability scans help OneLogin identify vulnerabilities and misconfigurations of websites, applications, and information technology infrastructures.
+What’s the scope?
+Internal and external scans of the network environment.
+How often are you evaluated/audited?
+Network scans are performed on a quarterly basis and monitoring tools report ad hoc on emerging vulnerabilities.
+Who is the primary audience?
+==========
+OneLogin - internal use only
+Bug Bounty Program
+Bug bounty programs provide another vehicle for organizations to discover vulnerabilities in their systems by tapping into a large network of global security researchers that are incentivized to responsibly disclose security bugs via a reward system.
+Operationally, the end results are very similar to a vendor-performed penetration test, but the number of researchers searching for bugs is much higher and not timeboxed, unlike a typical penetration test exercise.
+What’s the primary purpose of this initiative?
+Similar to our scheduled penetration tests, the bug bounty program helps OneLogin identify potential security vulnerabilities in our app, including those in the OWASP Top 10 and the SANS Top 25.
+How often are you evaluated/audited?
+Ongoing program.
+Who is the primary audience?
+==========
+OneLogin - internal use only
+FFIEC / GLBA
+The Gramm-Leach-Bliley Act (GLBA) of 1999 first established a requirement to protect consumer financial information.
+Financial services regulations on information security, initiated by the GLBA, require financial institutions in the United States to create an information security program to protect the security, confidentiality, and integrity of such information.
+==========
+The Federal Financial institutions Examination Council (FFIEC) supports this mission by providing extensive, evolving guidelines for compliance.
+OneLogin does not store consumer financial information, but has mapped its controls framework to FFIEC guidelines to validate that we are able to comply with GLBA if the need arose.
+This control framework is tested as part of the SOC 2 Type 2 reports.
+==========
+What’s the primary purpose of this initiative?
+Validate that OneLogin would be able to comply with FFIEC guidelines designed per GLBA requirements to protect consumer financial information.
+What’s the scope?
+OneLogin’s security controls evaluated against the FFIEC guidelines for testing compliance with GLBA.
+How often are you evaluated/audited?
+The security controls aligned with FFIEC guidelines for the testing GLBA requirements are tested as part of the periodic SOC 2 Type 2 Report Audits.
+Who is the primary audience?
+==========
+Customers and relevant third parties with a business need.
+NIST Cybersecurity Framework
+The National Institute of Standards and Technology (NIST) developed the Framework for Improving Critical Infrastructure Cybersecurity (NIST Cybersecurity Framework) in response to Executive Order 13636.
+The framework, created through collaboration between government and the private sector, uses a common language to address and manage cybersecurity risk in a cost-effective way based on business needs without placing additional regulatory requirements on businesses.
+OneLogin aligned its existing security controls to be compliant with this framework in order to augment its security program.
+These controls are tested as part of the periodic SOC 2 Type 2 report.
+==========
+What’s the primary purpose of this initiative?
+Provide an additional reference point for developing and maintaining OneLogin’s Security Program.
+What’s the scope?
+==========
+The Framework consists of three parts: the Framework Core, the Framework Profile, and the Framework Implementation Tiers.
+The Framework Core is a set of cybersecurity activities, outcomes, and informative references that are common across critical infrastructure sectors, providing the detailed guidance for developing individual organizational Profiles.
+Through use of the Profiles, the Framework will help the organization align its cybersecurity activities with its business requirements, risk tolerances, and resources.
+The Tiers provide a mechanism for organizations to view and understand the characteristics of their approach to managing cybersecurity risk.
+How often are you evaluated/audited?
+The security controls aligned with the NIST Cybersecurity Framework’s Framework Core are tested as part of the periodic SOC 2 Type 2 Report Audits.
+==========
+Who is the primary audience?
+Customers and relevant third parties with a business need.
+==========
+G-Cloud
+UK public sector organizations and arm’s length bodies can use the Digital Marketplace to buy cloud-based services.
+In order to do so, suppliers must agree to and abide by the G-Cloud framework and OneLogin participates in this program.
+==========
+What’s the primary purpose of this initiative?
+Provide OneLogin service data to UK public sector organizations and arm’s length bodies according to G-Cloud framework requirements.
+What’s the scope?
+==========
+The G-Cloud framework requires a supplier declaration which contains standard data elements that enable organizations to evaluate suppliers based on the same criteria.
+Data elements include information on the support of open standards, onboarding and offboaring, provisioning, data storage, asset protection and resilience, vulnerability management, and incident management, among others.
+How often are you evaluated/audited?
+Each G-Cloud framework iteration typically lasts for 12 month periods, at which point a new iteration is created and suppliers must submit a new declaration based on that iteration’s requirements.
+Who is the primary audience?
+==========
+UK public sector organizations and arm’s length bodies.
+PCI DSS
+The Payment Card Industry Data Security Standard (PCI DSS) is a proprietary information security standard for organizations that handle branded credit cards.
+==========
+What’s the primary purpose of this initiative?
+The PCI Data Security Standards help protect the safety of that data.
+They set the operational and technical requirements for organizations accepting or processing payment transactions, and for software developers and manufacturers of applications and devices used in those transactions.
+What’s the scope?
+==========
+OneLogin is a PCI Level 4 Merchant and has completed the Payment Card Industry Data Security Standard’s SAQ-A.
+We use a third party to process credit card information securely.
+How often are you evaluated/audited?
+Audit is performed annually by a QSA.
+You can request for the PCI documentation here.
+==========
+Who is the primary audience?
+Customers and relevant third parties with a business need.
+==========
+Responsible Disclosures
+We take security seriously at OneLogin.
+As part of our ongoing commitment to provide a best-in-class cloud service, we leverage independent third parties to help us strengthen our security.
+If you think you have discovered a security vulnerability, we appreciate your help in disclosing it to us in a responsible manner.
+Report a vulnerability or view our Security Hall of Fame
+Are you a Security Researcher?
+We are always looking for talented individuals with security experience.
+See Career Opportunities
+==========

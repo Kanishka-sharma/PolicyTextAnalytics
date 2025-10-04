@@ -1,0 +1,57 @@
+Copyright and
+trademark
+information This web site may contain other proprietary notices and copyright information, the terms of which must be observed and followed.
+Information on this web site may contain technical inaccuracies or typographical errors.
+==========
+Information may be changed or updated without notice.
+IBM may also make improvements and/or changes in the products and/or the programs described in this information at any time without notice.
+==========
+IBM does not want to receive confidential or proprietary information from you through our web site.
+Please note that any information or material sent to IBM will be deemed NOT to be confidential.
+By sending IBM any information or material, you grant IBM an unrestricted, irrevocable license to use, reproduce, display, perform, modify, transmit and distribute those materials or information, and you also agree that IBM is free to use any ideas, concepts, know-how or techniques that you send us for any purpose.
+However, we will not release your name or otherwise publicize the fact that you submitted materials or other information to us unless: (a) we obtain your permission to use your name; or (b) we first notify you that the materials or other information you submit to a particular part of this site will be published or otherwise used with your name on it; or (c) we are required to do so by law.
+==========
+You can learn more about IBM privacy practices on the web.
+Information IBM publishes on the World Wide Web may contain references or cross references to IBM products, programs and services that are not announced or available in your country.
+Such references do not imply that IBM intends to announce such products, programs or services in your country.
+Consult your local IBM business contact for information regarding the products, programs and services which may be available to you.
+==========
+IBM makes no representations whatsoever about any other web site which you may access through this one.
+When you access a non-IBM web site, please understand that it is independent from IBM, and that IBM has no control over the content on that web site.
+In addition, a link to a non-IBM web site does not mean that IBM endorses or accepts any responsibility for the content, or the use, of such web site.
+It is up to you to take precautions to ensure that whatever you select for your use is free of such items as viruses, worms, trojan horses and other items of a destructive nature.
+IN NO EVENT WILL IBM BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, SPECIAL OR OTHER CONSEQUENTIAL DAMAGES FOR ANY USE OF THIS WEB SITE, OR ON ANY OTHER HYPER LINKED WEB SITE, INCLUDING, WITHOUT LIMITATION, ANY LOST PROFITS, BUSINESS INTERRUPTION, LOSS OF PROGRAMS OR OTHER DATA ON YOUR INFORMATION HANDLING SYSTEM OR OTHERWISE, EVEN IF WE ARE EXPRESSLY ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+==========
+Other Important Information:
+When an IBM web site provides statements or information regarding the Year 2000 , including, but not limited to, the year 2000 readiness of IBM Products and Services, the following information applies as well.
+IBM is providing the information on this web site to assist you in understanding and addressing your Year 2000 challenge.
+By providing this data, IBM is not performing a Year 2000 assessment or conversion.
+You are solely responsible for the implementation of your Year 2000 project and IBM does not guarantee your results.
+Any reference to an IBM product is not intended to imply that only that IBM product may be used.
+==========
+To ensure you have current and accurate information about your products, you should periodically refer to a list of products (available off our main web page at http://wwwyr2k.raleigh.ibm.com) that may have changed from ready to not ready, and from not ready to ready.
+You are solely responsible for the installation and implementation of any Product Temporary Fix, Customer Service Diskette(s) or other related Year 2000 modification required for an IBM product to be considered Year 2000 Ready.
+==========
+IBM shall not in any way be responsible for your failure to apply such correction.
+Information referring to the Year 2000 ready status of IBM hardware products refers to hardware only and not to software that may be pre-installed or to software and hardware otherwise provided by IBM with the purchase of IBM hardware.
+Information on the Year 2000 ready status of IBM software applies to IBM products only.
+==========
+It does not apply to any "as is" or non-IBM software that may be provided along with IBM software products.
+For non-IBM products, whether or not obtained from IBM, please consult directly with the third party product developer or manufacturer for information about whether the products are Year 2000 ready.
+THE DATA PROVIDED ON THIS WEB SITE AND RELATED COMMUNICATIONS ARE PROVIDED ON AN "AS IS" BASIS FOR INFORMATION PURPOSES ONLY.
+==========
+IN ADDITION, ALL WARRANTIES ARE HEREBY DISCLAIMED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSION MAY NOT APPLY TO YOU.
+==========
+IBM's obligations and responsibilities regarding IBM products are governed solely by the agreements under which they are sold or licensed.
+Always check your software license agreements to make sure that you do not infringe the intellectual property rights of others.
+You must have the consent of the licensor or owner of the software before accessing or modifying it.
+==========
+Year 2000 Information and Readiness Disclosure Act of 1998:
+Information contained on IBM's past and present Year 2000 Internet web site pages regarding products and services offered by IBM and its subsidiaries are "Year 2000 Readiness Disclosures" under the Year 2000 Information and Readiness Disclosure Act of 1998, a U.S statute enacted on October 19, 1998.
+This designation also applies to information delivered through or derived from IBM's past and present Year 2000 web site pages, such as electronic and hardcopy Product Readiness Reports, all editions of The Year 2000 and 2-Digit Dates: A Guide to Planning and Implementation, and other materials.
+Information on our Year 2000 Internet web site pages regarding non-IBM products and services are "Republications" under the Act based on information supplied by other companies about the products and services they offer.
+==========
+IBM has not independently verified the contents of these Republications and takes no responsibility for the accuracy or completeness of information contained in such Republications.
+IBM's Year 2000 Internet web site pages have been and will continue to be our primary mechanism for communicating year 2000 information.
+==========

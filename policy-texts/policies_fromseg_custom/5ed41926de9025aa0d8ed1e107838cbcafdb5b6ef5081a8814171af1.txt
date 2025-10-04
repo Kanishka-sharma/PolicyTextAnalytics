@@ -1,0 +1,17 @@
+This policy covers Drupal.org sites, including subdomains of Drupal.org, like groups.drupal.org and api.drupal.org.
+Individual sites, like conference sites, may have additional policies.
+==========
+We value your privacy and will take all reasonable steps to protect your personal information.
+We do not share, or distribute your personal information (including email address), but it may be accessible to those volunteers and staff who administer the site and infrastructure.
+We may be required to share stored personal information by law.
+==========
+All information that you disclose in your public profile, in forum posts, comments, issue queues, or other public portions of the Drupal.org sites becomes public information.
+See the Licensing FAQ for information on legal uses of Drupal.org content.
+==========
+IP addresses, URLs visited, and related information is recorded for all site visitors for the purpose of site traffic analytics and captured as part of normal operation in our server logs.
+Cookies are used to track logins, sessions, and collect anonymous traffic data.
+We use 3rd-party services like Google Analytics and DoubleClick for Publishers, who provide their own privacy policies and cookie opt-out.
+==========
+This policy may change, the most current version is available at http://drupal.org/privacy.
+If you have any questions or feel we are violating this policy, please file an issue in webmasters.
+==========

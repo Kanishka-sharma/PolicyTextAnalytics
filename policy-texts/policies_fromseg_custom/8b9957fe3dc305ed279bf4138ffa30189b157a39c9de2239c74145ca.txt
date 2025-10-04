@@ -1,0 +1,54 @@
+Esri values the privacy of our customers, distributors, and business partners, as it is a principal component of establishing trust.
+Esri has created a general company Privacy Statement and a supplementary Products & Services Privacy Statement to ensure our customers receive the level of privacy they deserve and expect.
+The privacy statements describe how Esri collects data and uses information you provide to us, and are independently validated.
+Esri works diligently to ensure we provide a trustworthy environment for our customers; therefore, we are continuously making new privacy and security advancements to ensure we meet evolving requirements around the world.
+The most recent examples of this are the expansion of the supplemental ArcGIS Online privacy statements to cover a broader base across Esri Products & Services while also updating privacy statements to be in line with Privacy Shield.
+Esri is committed to compliance with the European privacy law, the General Data Protection Regulation (GDPR) which went into enforcement May 2018.
+The GDPR imposes new rules on companies, government agencies, non-profits, and other organizations outside the European Union that process personal data related to the offering of goods and services to people in the European Union (EU), or that monitor the behavior of EU citizens within the European Union.
+==========
+Esri is also committed to compliance with the California Consumer Privacy Act (CCPA), which went into effect January 1, 2020.
+To help our customer use our products in a manner that supports them meeting their GDPR and CCPA obligations, Esri has released the ArcGIS Location Tracking Privacy Best Practices whitepaper.
+We have posted to the Trust Center an Esri signed Data Processing Addendum (DPA) that our customers can sign.
+==========
+Esri Privacy Statement
+Esri complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States.
+Esri has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+If there is any conflict between the terms in our statements here or privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+Esri's participation in the Privacy Shield applies to all personal data that is subject to the Esri Privacy Statement and is received from the European Union and the rest of the European Economic Area.
+Esri will comply with the Privacy Shield Principles in respect of such personal data.
+==========
+To learn more about the Privacy Shield program, and to view our certification, please visit www.privacyshield.gov.
+The Esri Privacy Statement is also viewable on the Esri website.
+Esri also maintains an affirmative commitment to the U.S.-Swiss Safe Harbor Framework and its principles, which will not be affected by our participation in the Privacy Shield.
+==========
+The U.S.-Swiss Safe Harbor applies to personal data that transferred from Switzerland to the U.S.
+Esri Products & Services Privacy Statement Supplement
+The Products & Services Privacy Statement Supplement applies to the Esri Products, Services and related offerings that display or link to the "Products & Services" notice.
+Esri established the Products & Services Privacy Statement Supplement in order to clarify that the use of information to which it may be provided access in order to deliver Product & Services, is more limited than the use of information covered by the general Esri Privacy Statement.
+Key offerings that fall within the scope of Products & Services include ArcGIS Online, Esri Managed Cloud Services, Customer Support, and Professional Service engagements.
+==========
+Customers who utilize organization (cost based) accounts, of Products & Services such as ArcGIS Online, expect a higher level of privacy assurance which is reflected in the Products & Services Privacy Statement Supplement, whereas consumers of public accounts are provided the privacy assurance level of the Esri Privacy Statement.
+Esri's marketing sites and other public websites are governed by the general Esri Privacy Statement.
+The Products & Services Privacy Statement Supplement provides clarity concerning:
+The importance of the privacy of our Customer Data to be treated as confidential
+The collection and handling of Support Data when engaging with Esri for support
+Not storing payment instrument number information within Esri systems from credit cards
+The requirement of cookies for many products when non-anonymous access is required
+Ability to configure on-premises products to not collect or transmit data to Esri
+Constraints in place for limiting disclosure of data
+In the event of a conflict between the general Esri Privacy Statement and the more restrictive terms of the Products & Services Privacy Statement Supplement, with regard to data provided to Esri in connection with use of the "Products & Services" the Products & Services Privacy Statement Supplement will control
+ArcGIS Online Privacy Assurance
+ArcGIS Online privacy assurance is boosted by the Products & Services Privacy Statement Supplement as well as the following additional items:
+Our cloud infrastructure providers are ISO 27018 (Cloud Privacy) compliant and Esri has executed EU Model Clause addendums with them
+Security and privacy assurance of FedRAMP third-party validation and mapping to ISO27k
+Customers maintain full ownership of their customer content
+Customer may choose not to store personal information in ArcGIS Online
+Customers can choose to limit storage of personal information to their own infrastructure with a hybrid deployment model
+Esri collects minimal personal information in order for customers to use ArcGIS Online
+ArcGIS Online utilizes the cloud infrastructure of Microsoft Azure and Amazon Web Services (AWS); therefore, customer data may flow through these systems or be stored within them.
+Applicable privacy policies are provided below for your ease of reference:
+Esri Products & Services Privacy Supplement
+MS Azure privacy statement
+AWS privacy policy
+Feedback on this topic?
+==========

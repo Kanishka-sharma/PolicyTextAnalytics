@@ -1,0 +1,87 @@
+Cavai Privacy Policy 
+Last revised June 1st 2019.
+At Cavai, we take great consideration in securing your personal data.
+That’s why our advertising  products are designed with data privacy in mind from the very beginning, to minimize the amount of personal data collected.
+This Privacy Policy has been designed to let you know how Cavai AS (Norway) and Cavai UK Limited (jointly referred to as “Cavai”) process personal data when providing our services, as well as within the scope of our regular business processes.
+If you have any questions or comments to this Privacy Policy, please let us know at hello@cav.ai.
+==========
+When do we process personal data?
+Cavai will process personal data for the following two purposes:
+Purpose 1 For our regular business processes, such as B2B customer contact, contract conclusions, billing, support and marketing efforts, we will process personal data of the individuals employed or otherwise engaged by our business partners, vendors, consultants, suppliers and business customers.
+Purpose 2 In order to provide the Cavai Studio Reporting Interface for our business customers, we will process personal data to facilitate each users access and use of the service.
+We act as processor for such processing and concludes data processing agreements with our business customers.
+==========
+We will not process personal data collected as processor for any other purposes than to provide the Cavai Studio Reporting Interface.
+Further details regarding processing for this purpose is provided in the Cavai Data Processing Agreement.
+==========
+This Privacy Policy describes our processing of personal data as necessary for purpose 1 above.
+When do we not process personal data?
+We will not collect or process any personal data through the Cavai Chatbot Interface.
+Each of our business customers will themselves determine what personal data to collect (if any) through the Cavai Chatbot Interface.
+We will assist them in designing and implementing the Cavai Chatbot Interface, but will not store or otherwise have access to any personal data when the Cavai Chatbot Interface has been implemented and taken into use by our business customers.
+When you submit personal data to a customer branded Cavai Chatbot Interface, your information and personal data will first be temporarily stored in your terminal equipment (e.g., laptop or mobile phone).
+When you choose to submit the information and personal data (e.g., by pressing “send” or similar), the information and personal data will be sent directly to a database controlled by our business customers.
+We de not have any control over or access to that information or personal data.
+We will only collect anonymous statistical and aggregated data, which does not directly or indirectly identify any individuals.
+How we use the collected personal data
+The personal data we collect are processed for the following purposes: 
+Personal Data processed for our regular business processes
+
+To inform you of updates to our products or services, or changes to this Privacy Policy or other relevant agreements.
+==========
+To allow us to provide you with details regarding pricing, functionality or other features, as well as terms for our products and services.
+To administrate and provide you with our products and services, such as assisting you in implementing our products or services.
+==========
+In order to perform billing, as well as contract negotiations and conclusions.
+To troubleshoot and provide support to your use of our products.
+==========
+Personal Data processed for direct marketing and promotional campaigns
+If you have consented to receiving direct marketing and promotional campaigns, we may use your name and contact information in order to keep you updated on any product launches, software updates or similar marketing related communications related to our products and services.
+You may opt out of any marketing communications by clicking the link in the marketing email.
+==========
+Information we collect, legal basis and retention
+For our regular business processes, we may collect and process the following personal data:
+
+
+Name
+Telephone number
+E-mail address 
+Company affiliation and role at company
+Any potential written correspondence between us
+Information contained within support requests
+
+
+The legal basis for our processing of such personal data is our legitimate interest to perform our regular business procedures, which we have determined does not override your fundamental rights and freedoms in accordance with article 6 (1) f) of the General Data Protection Regulation (“GDPR”).
+We will only retain your personal data until it is no longer necessary in order to achieve the processing purposes set out below, or as long as we are required to under statutory legislation.
+==========
+Cavai uses a session cookie to ensure correct product delivery and function.
+This cookie does not act to identify a user and is not stored for any longer than 24 hours.
+Cookie Name: connect.sid
+Cookie Value: session ID
+Set Expiration: 24 hours
+Cookie Source: Server-side library
+Purpose: Since our server may be responding to multiple impressions at once, we require a session ID to allow our server to know that the request is part of a specific conversation.
+This ensures the conversation flows sequentially instead of loading the starting chat bubble repeatedly.
+This is not used to track or identify users and is expired within 24 hours for reuse.
+==========
+See below section “Your rights” for more information.
+Who we share your information with
+We will not share the personal data of any individuals, unless such disclosure is required by statutory legislation which Cavai is subject to.
+We will disclose personal data to the other entities within our company group as necessary to carry out the purposes set out in paragraph 3 above.
+Such disclosure is based on a an intra-company data processing agreement all company group entities have entered into.
+==========
+Your rights
+Any cookies associated with Cavai may be deleted from your browser at any time by clearing your cache.
+Please see the support instructions for Chrome, Firefox, Safari, or your browser of choice for guidance.
+You may configure your browser to block any cookies from a specific domain or domains.
+The domain of our cookie should be listed on your blacklist as “cavai.studio” or “studio.cav.ai”.
+==========
+When providing us with personal data, you may request access to your personal data, as well as additional information on how we process your personal data.
+You may also request rectification, erasure and restriction of the processing, as well as to have your personal data exported in a structured, commonly used and machine-readable format (data portability).
+To the extent our processing of personal data is based on your consent, you may withdraw your consent at any time.
+Withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal.
+Requests pursuant to the above rights may submitted to [email/other instruction for exercising data subject rights]
+You may file a complaint to your applicable data protection authority if you are of the opinion that we have failed to comply with your rights as a data subject.
+Changes to this Privacy policy
+We do reserve the right to adjust or change this Privacy Policy as necessary from time to time.
+==========

@@ -1,0 +1,111 @@
+Skype websites and software use "cookies", which are small text files stored on your device, to help operate the websites and software and help collect information about activity.
+The text in a cookie often consists of a string of numbers and letters that uniquely identifies your computer, but it may contain other information as well.
+Here is an example of a unique ID number stored in a cookie that we might place on your device when you visit one of our websites: E3732CA7E319442F97EA48A170C99801.
+==========
+Our websites also contain web beacons or other similar technologies.
+We use cookies and similar technologies for a variety of purposes, as described in more detail below.
+==========
+Our Use of Cookies We use cookies for several purposes, including: Storing your Preferences and Settings and Personalization.
+We store information about the version of the Skype software you are using, your choice of language for our website or your choice of currency for our prices in a cookie on your device so that you will see the relevant information when you return.
+==========
+This can save you time by eliminating the need to repeatedly enter the same information every time you visit our websites or use the software.
+We also use cookies to understand how you arrived at our website or software so we can make sure that we provide you with relevant customer content and information.
+==========
+Sign-in and Authentication.
+When you sign in to a site or service using your Microsoft or Skype account, we store a unique ID number, and the time you signed in, in an encrypted cookie on your device.
+This allows you to move from page to page at the site or within the service without having to sign in again on each page.
+==========
+Targeted Advertising.
+When we display online advertisements to you, we will place one or more cookies on your device in order to recognize it each time we display an ad to you.
+Because we serve advertisements on the websites of our advertising and publisher partners, as well as our own, we are able to compile information over time about the types of pages, content and ads you, or others who are using your computer, visited or viewed.
+==========
+This information helps us select the ads we show you.
+For example, it helps us try to ensure that you do not see the same advertisements repeatedly.
+It also helps us select and display targeted advertisements that we believe may be of interest to you.
+You can find more information about this use of cookies, including how to opt out of receiving targeted advertising from Microsoft, in the Microsoft Advertising Privacy Statement.
+==========
+Site Analytics.
+We use cookies to count the number of unique visitors to a web page or service or to develop other aggregate statistics about the operations of our websites, software and products.
+These analytics help us operate and improve the performance of these websites, software, products and our marketing communications.
+==========
+Some of the cookies we commonly use are listed in the following chart.
+This list is not exhaustive, but it is intended to illustrate the main reasons we set cookies.
+==========
+Cookie name Description MUID Identifies unique browsers visiting Microsoft websites.
+It is used for advertising, site analytics and other operational purposes.ANON Contains the ANID, a unique identifier used to help identify which ads a customer may like.
+It is also used to preserve your choice to opt out of behaviorally targeted ads from Microsoft, if you have chosen to associate the opt-out with your Microsoft account.
+==========
+CC Contains a country code as determined by reverse IP address lookup.Microsoft account authentication Authentication cookies (e.g., RPSTAuth, MSNRPSAuth, KievRPSAuth) used when you sign in with your Microsoft account.
+NAP Contains an encrypted version of your country, ZIP code, age, gender, language and occupation, if known, based on your Microsoft account profile.
+==========
+MH Appears on co-branded websites where Microsoft is partnering with an advertiser.
+This cookie identifies the advertiser so the right ad is selected.
+TOptOut Records your decision not to receive behaviorally targeted ads delivered by Microsoft.
+==========
+In addition to the cookies set when you visit our websites or use Skype software, third parties may also set cookies when you visit Microsoft websites.
+In some cases, that is because we have hired the third party to provide services on our behalf, such as site analytics.
+==========
+In other cases, it is because our web pages or software contain content or ads delivered by other ad networks.
+Because your browser connects to those third parties’ web servers to retrieve that content, those third parties are able to set or read their own cookies on your device and may collect information about your online activities across websites or online services.
+Our Use of Web Beacons Our web pages may contain electronic images known as web beacons - sometimes called single-pixel gifs - that are used to help deliver cookies on our websites, count users who have visited those pages and deliver co-branded services.
+Sometimes we include web beacons in our promotional email messages or newsletters to determine whether messages have been opened and acted upon and to enable us to recognize you and understand your activity on our websites as a result of these actions.
+This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns and to improve our communications and your online experience.We sometimes work with other companies that advertise on Skype or other Microsoft websites to place web beacons on their websites or in their advertisements to let us develop statistics on how often clicking on an advertisement on a site results in a purchase or other action on the advertiser's website.
+==========
+Through Skype’s affiliate program qualified third-party websites (“affiliates”) can receive payment for referring users to Skype.com that complete certain actions, such as the purchase of Skype Credit.
+If you arrive on Skype.com from an affiliate website, the affiliate will set a cookie on your computer which is used to qualify them for compensation.
+Should you then complete an action on Skype.com that could result in a payment to an affiliate, Skype will communicate to our affiliate program network partner through a tracking tag, or pixel that the event was successfully completed.
+==========
+The tracking tag (or pixel) will include information that identifies the affiliate website that referred you to Skype.com, which is available from the cookie set by the affiliate.Cookies set by affiliates are not within Skype’s control and for more information please visit our affiliate program network partner Commission Junction’s site at: http://www.cj.com/privacy.Finally, our websites may contain web beacons from third parties to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other website operations.
+These web beacons may allow the third parties to set or read a cookie on your computer.
+==========
+These companies may collect information about your online activities across websites or online services, however, we prohibit third parties from using web beacons on our websites to collect or access information that directly identifies you (such as your name or email address).
+You may be able to opt out from data collection or use by these third-party analytics companies as described under Third-Party Analytics Controls.Other Similar TechnologiesIn addition to standard cookies and web beacons, our websites and software can use other technologies to store and read data files on your computer.
+This may be done to maintain your preferences or to improve speed and performance by storing certain files locally.
+==========
+But, like standard cookies, these technologies can also be used to store a unique identifier for your computer, which can then be used to track online activity.
+These technologies include Local Shared Objects (or "Flash cookies"), HTML5 Local Storage and Silverlight Application Storage.
+Silverlight Application Storage.
+Websites or applications that use Microsoft Silverlight technology can store data on your device using Silverlight Application Storage.
+To learn how to manage or block such storage, visit Silverlight.
+==========
+How to Control Cookies and Similar TechnologiesMicrosoft provides browser controls to help you manage cookies.
+You can also accept cookies but opt out of their use to behaviorally target advertisements.
+For instance, Microsoft’s advertising preference and opt-out controls are available at http://choice.live.com/advertisementchoice/.
+==========
+- Browser Controls to Block Cookies.Most web browsers automatically accept cookies but allow you to modify your browser setting to block cookies.
+For example, in Internet Explorer 11, you can block cookies by taking the following steps: Click "Tools" and then select "Internet Options" Click the "Privacy" tab at the top of the window Move the slider up or down to indicate the rules you want to apply for blocking cookies Look to the privacy statement or other documentation to learn how to block cookies in other browsers.
+Please be aware that if you choose to block cookies, you may not be able to sign in or use features of Skype websites, software and products that depend on cookies, and any advertising preferences that are dependent on cookies may be lost.
+==========
+- Browser Controls to Delete Cookies.
+If you accept cookies, you can delete them later.
+For example, in Internet Explorer 11, you can delete cookies by taking the following steps: Click "Tools" and then select "Internet Options" On the "General" tab, under "Browsing History," click the "Delete" button On the pop-up, select the box next to “Cookies” Click the "Delete" button Look to the privacy statement or other documentation to learn how to delete cookies in other browsers.
+Please be aware that if you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and will need to be recreated.
+- Skype Software Controls to Block Skype Cookies In the Skype for Windows desktop software, Skype software browser cookies can be disabled by accessing the File menu from your Skype software toolbar, choosing the Privacy option and un-checking the ‘Accept Skype browser cookies’ box.
+==========
+- Browser Controls for “Do Not Track” and Tracking Protection.Some newer browsers have incorporated “Do Not Track” features.
+Most of these features, when turned on, send a signal or preference to the websites you visit indicating that you do not wish to be tracked.
+==========
+Those websites (or the third-party content on those websites) may continue to engage in activities you might view as tracking even though you have expressed this preference, depending on the websites’ privacy practices.
+Because there is not yet a common understanding of how to interpret the DNT signal, Microsoft does not currently respond to the browser DNT signals on its own websites or online services, or on third-party websites or online services where Microsoft provides advertisements, content or is otherwise able to collect information.
+We continue to work with the online industry to define a common understanding of how to treat DNT signals.
+==========
+In the meantime, users may continue to opt out of targeted ads from Microsoft as set forth below.Internet Explorer (versions 9 and up) have a feature called Tracking Protection that helps prevent the websites you go to from automatically sending details about your visit to third-party content providers.
+When you add a Tracking Protection List, Internet Explorer will block third-party content, including cookies, from any site that is listed as a site to be blocked.
+By limiting calls to these websites, Internet Explorer will limit the information these third-party websites can collect about you.
+For more information about Tracking Protection Lists and Do Not Track, please see the Internet Explorer Privacy Statement or Internet Explorer Help.
+==========
+- Advertising Opt-Out Controls.Because cookies can be used for many purposes, users who do not want to receive behaviorally targeted advertising can choose to accept cookies but opt out from that particular use.
+Companies in the online advertising industry have developed guidelines and programs to help protect users’ privacy, and these industry programs include web pages you can visit to opt out from receiving behaviorally targeted advertisements from all participating companies (including Microsoft).
+These pages include: In the US:    In Europe:    In Canada:    Additionally, in some versions of the Skype software that offer targeted ads, you may opt-out of Microsoft targeted ads displayed in the software by visiting the privacy options in the software or account settings menu.
+If you opt-out, you will still receive advertisements based on your country of residence, language preference, and IP address location, but other targeting information will not be used.
+In some instances, Microsoft Advertising may facilitate the placement of advertisements in Skype software by other online advertising networks.
+==========
+In some cases, these third parties may also place cookies on your device and may collect information about your online activities across websites or online services.
+If you have opted-out of targeted ads in the Skype software as outlined above, Skype will not pass any of your profile information to such advertising providers with the ad request.
+However, because third parties may place cookies on your computer that facilitate their own targeting, the Skype opt-out mechanism described above may not prevent ad targeting by these third parties.
+These third parties may offer you a way to opt out of ad targeting based on their cookies.
+Learn more about these third parties and how to manage your preferences with them in the Microsoft Advertising Privacy Statement.
+Many of them are also members of the Network Advertising Initiativeor the Digital Advertising Alliance, which each provide a simple way to opt out of ad targeting from participating companies.
+- Third-Party Analytics ControlsAs described in more detail above, Skype and many websites and online services from other companies use third-party analytic services, which use cookies and web beacons to compile aggregated statistics regarding the effectiveness of promotional campaigns or other website operations.
+You can opt out of data collection or use by some of these analytics providers by clicking the following links:
+==========

@@ -1,0 +1,85 @@
+Dear User,
+Crowdynews takes your privacy very seriously and treats all your personal information with great care.
+This document sets out the Privacy Policy, that applies to each and every use you make of this website and of the Crowdynews products as far as within Crowdynews’ control (see under 3).
+It is recommended that you read this Privacy Policy carefully.
+WHAT IS CROWDYNEWS?
+==========
+Crowdynews offers a social content curation platform.
+Crowdynews enriches stories for publishers’ websites, from news to special interest, through widgets that can be placed on publishers’ websites.
+Within the widget, advertisements of third parties might be shown.
+The Crowdynews social content curation platform, is offered by Crowdy News Ltd, a private limited liability company incorporated and registered under the laws of the England, having its registered office at The Leeming Building, Vicar Lane, Leeds, LS2 7JF, UK and active on the website www.crowdynews.com (“Crowdynews”).
+==========
+WHAT INFORMATION DOES CROWDYNEWS COLLECT AND PROCESS AND FOR WHAT PURPOSE?
+Crowdynews, in principle, does not collect and/or processes personal data, except as discussed below.
+Partners of Crowdynews can be processing personal data and/or use cookies in the context of their business (see under 3) in the course of their use of the Crowdynews widgets.
+==========
+Cookies are small text files that are saved on your computer to enable the party that places the cookie to recognize your browser automatically if you revisit a certain website.
+Cookies are used to assist in collecting information associated with the use of a website, such as which web pages are visited and the duration of a user session.
+==========
+To the above described rule that Crowdynews does not processes personal data, three exceptions exist, which are discussed below.
+Use of cookies
+Crowdynews uses cookies solely for the purpose of allowing the Website to operate as requested (functional) and for the purpose of optimizing our website and services (analytical and tracking).
+The functional cookies are necessary to allow us to operate the Website as you have requested and let us operate certain functions of the Website in line with the choices you make.The analytical cookies are used with the help of Google Analytics.
+==========
+Google Analytics makes sure data is presented to us in an analyzed way, so we can use that information to optimize our Website.
+This analytical cookie monitors your behavior on our Website, such as the duration of your visit and which pages you visit.
+Crowdynews has entered into agreement with Google on the standard contractual clauses as a means of meeting the adequacy and security requirements of the European Union data protection framework.Crowdynews also uses tracking cookies for the sole purpose of analyzing the behavior on the website in combination with the Crowdynews newsletters.
+The cookies to monitor this behavior are used with the help of Hubspot.
+Crowdynews has entered into agreement with Hubspot on the standard contractual clauses as a means of meeting the adequacy and security requirements of the European Union data protection framework.Most web browsers allow you to manage your cookie preferences.
+==========
+You can set your browser to refuse cookies, or delete certain cookies.
+Generally you should also be able to manage similar technologies in the same way that you manage cookies – using your browser preferences.
+Please note that if you choose to block cookies, this may impair or prevent due functioning of the Website.
+==========
+Use of cookies for improvement widget
+When you use a website of a publisher that offers a Crowdynews widget, analytical cookies are used with the help of Google Analytics.
+The Google Analytics cookie sends limited information back to Crowdynews, which we use for the sole purpose of optimizing the widget for that specific publisher.
+The data Crowdynews receives in this regard is data on an aggregate level which Crowdynews will not use for commercial purposes other than improvement of the widgets for the publisher on which website the widget is placed.
+==========
+Newsletter
+If you would like to be informed about the activities and developments of our company, you can register for our newsletter.
+The newsletter functionality is used with the help of Hubspot (see also above, under 1).
+Please note that you can unsubscribe at any time by clicking on the “unsubscribe” link located on the bottom of our newsletter.
+==========
+HOW DOES CROWDYNEWS PROCESS PERSONAL DATA?
+In relation to the widgets, several partners of Crowdynews may process personal data.
+CrowdyNews only works with the most highly reputable advertising demand sources who are all adhering to the data rights practices of GDPR and CCPR and are passing user consent messages as IAB TC string.
+Firstly, the publisher (the website on which widgets are placed) may process personal data.
+To review the use of personal data by publishers, Crowdynews refers you to the website of the particular publisher.
+Secondly, the advertiser of which advertisements are placed within the widget or the ad network that sells the advertising space within the widget, may process personal data.
+Publishers might collaborate with several advertisers and ad networks.
+==========
+They might use these cookies to monitor which pages you visit and to create a profile of your online behavior.
+To review the use of personal data by advertising parties, Crowdynews refers you to the website of the publisher where the widget is used.
+==========
+Crowdynews process personal data within Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (General Data Protection Regulation) on the protection of natural persons with regard to the processing of Personal Data and on the free movement of such data, for the sole purpose and solely to the extent necessary for delivery of the services.
+Crowdynews will implement appropriate technical and organizational measures to secure personal data against loss or any kind of unlawful processing and implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk to the rights and freedoms of natural persons.
+Crowdynews as “Processor” will assist the “Controller” by appropriate technical and organisational measures, insofar as this is possible, for the fulfilment of the Company’s obligation as “Controller” to respond to requests for exercising the data subject’s rights laid down in Chapter III of Regulation (EU) 2016/679.
+Crowdynews as “Processor” will assist the “Controller” in ensuring compliance with the obligations pursuant to Articles 32 to 36 of Regulation (EU) 2016/679, relating to security of Processing, Personal Data Breaches and data protection impact assessments.
+In the case of a known personal data breach, the Processor will inform the Controller promptly and where feasible within 24 (twenty four) hours after detection by the “Processor” of the personal data breach.
+Crowdynews as “Processor” will make available to the “Controller” all information necessary to demonstrate compliance with the obligations laid down in Article 28 of the GDPR and allow for and contribute to audits, including inspections, conducted by the Controller or another auditor mandated by the “Controller”.
+==========
+HOW DO WE PROTECT YOUR PERSONAL DATA?
+We take appropriate technical and organizational measures to protect your (personal) information against loss or any form of unlawful use.
+==========
+CAN THIS PRIVACY POLICY BE AMENDED?
+Crowdynews reserves the right to amend this Privacy Policy.
+==========
+These amendments will be published on this page of our Website.
+You should check this page occasionally to review any changes.
+If you keep using the Website after you have been informed about the amendments, you agree to the content of the amended Privacy Policy.
+==========
+QUESTIONS?
+You can contact us to question us about the use of (your) cookies at info@crowdynews.com.
+==========
+If you want your data corrected, supplemented, deleted or blocked, you can send us an e-mail at: hello@crowdynews.com.
+Third-Party Data
+
+We curate data from various third parties using their APIs and SDKs.
+Third parties include YouTube, Twitter etc.
+By using CrowdyNews services, users are agreeing to be bound by the terms of YouTube, Twitter and etc.
+Please refer to the third party privacy policies and terms of service for details about their data usage.
+https://developers.google.com/youtube/terms/api-services-terms-of-service
+https://policies.google.com/privacy?hl=en-US
+https://twitter.com/en/privacy
+==========

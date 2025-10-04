@@ -1,0 +1,52 @@
+Print as PDF
+Cookies, Web Beacons, and Similar Technology
+A cookie is a small file of letters and numbers stored on to your browser when you access certain websites, including Oath Services.
+Cookies allow a website to recognise a user's preferences as previously chosen by the user when they return to a site.
+A cookie itself does not contain or collect information.
+However, when it is read by a server in conjunction with a web browser it can help a website deliver a more user-friendly service for example, remembering previous purchases or account details.
+Cookies are filed in the memory of your browser and each one typically contains:
+
+The name of the server the cookie was sent from
+The lifetime of the cookie
+A value – usually a randomly generated unique number
+
+The website server which sends the cookie uses this number to recognise you when you return to a site or browse from page to page.
+Only the server that sent a cookie can read, and therefore use, that cookie.
+Cookies are central to the customisation of the internet and online behavioural advertising usually works using cookies.
+There are two types of cookies: session and persistent.
+Session cookies exist only during a user's online session and they disappear from the user's browser when the user closes his/her browser.
+Persistent cookies stay on your browser after the browser has been closed.
+==========
+The cookies used on the Oath Services do not identify you personally.
+They merely recognise your browser, unless you choose to identify yourself voluntarily.
+You may choose to identify yourself for any one of the following reasons: by asking the browser to remember your username and password (for example, when you register for an AOL user name), by responding to a promotional offer or by personalising a webpage.
+Web beacons are small pieces of code placed on Web pages that can be used, among other things, to count the users who visit that Web page, or to deliver a cookie to the browser of a user viewing that page.
+Many websites may also use Flash cookies that operate similarly to browser cookies.
+We use browser cookies to help recognize you as an Oath Services user.
+We may use cookies, web beacons, or similar technologies in combination with your Oath information to enhance and personalise your experience on Oath Services, including:
+
+to help authenticate you when you use Oath Services;
+to remember your preferences and registration information;
+to enable a shopping cart;
+to present and help measure and research the effectiveness of Oath Services offerings, advertisements, and e-mail communications (by determining which Oath e-mails you open and act upon);
+and to customize the content and advertisements provided to you through the Oath Services.
+==========
+You can control browser cookies through your browser's settings.
+You can control Flash cookies via the Macromedia Flash application on your device, or by going to the Adobe Flash Player website, which allows you to view, modify, and delete Flash cookies.
+Please note that if you reject all browser or Flash cookies you will not be able to take advantage of many Oath Services.
+==========
+The use of cookies, web beacons, or similar technologies by ONE by AOL advertising services and other content and ad network providers is subject to their own privacy policies.
+To review a list of the cookies used on Oath Services, please visit the Oath Cookie List.
+How to Opt Out
+
+To opt out of interest based advertising delivered by ONE by AOL advertising services:
+Step 1 – visit http://www.youronlinechoices.com/uk/your-ad-choices 
+Step 2 - switch off AOL cookies
+Scroll down the list of companies and select "Off" next to AOL
+Please note, even if you opt out, you will still receive advertising, but ONE by AOL will no longer show you advertising based on your interests.
+==========
+If you delete your cookies in the future you will need to opt out again.
+Also if you use another web browser or device you will need to opt out again.
+You can also manage cookies using browser controls.
+For further information about how you can delete and control the cookies that are stored on your device please see http://www.allaboutcookies.org/manage-cookies/index.html
+==========

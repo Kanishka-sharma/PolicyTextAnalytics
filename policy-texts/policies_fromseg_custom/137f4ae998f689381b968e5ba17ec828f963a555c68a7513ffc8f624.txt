@@ -1,0 +1,332 @@
+TeamViewer Privacy PolicyIntroductionWe, the TeamViewer GmbH, take protection of your personal data very seriously.
+The following policy provides an overview of how we ensure this protection and what kind of data is processed for what purpose.
+Personal data means any information relating to an identified or identifiable natural person, such as your name, address, email addresses, IP address or user behavior.
+Further to this Privacy Policy, please refer to our product privacy policies for detailed information concerning your use of the various products.A.
+==========
+Controller B. Data protection officer C. Categories of data D. Purpose and Legal Basis for Processing E. Web analytics and remarketing applications F. Recipients G. Retention periods for personal data H. Social media plugins I. Integrated third-party service tools J. Statutory/contractual requirement K. Your rightsA.
+ControllerTeamViewer GmbH (“TeamViewer”), Jahnstr.
+30, 73037 Göppingen, privacy@teamviewer.com, is controller of your personal data pursuant to Art. 4 para.
+7 General Data Protection Regulation (“GDPR”).
+B. Data Protection OfficerTeamViewer appointed Mrs. Weberruß as external data protection officer, who can be reached at privacy@teamviewer.com, at  KWeberruss@intersoft-consulting.de or at intersoft consulting services AG, DSB TeamViewer, Dürer Str.
+189, 50931 Cologne.C.
+==========
+Categories of DataTeamViewer collects and processes different categories of personal data depending on your use of our services.
+The following sections outline the categories of data processed by category or used service.I.
+Use of TeamViewer’s website1.
+Protocol dataWhen you visit the TeamViewer website we collect the following personal data transmitted by your server:IP addressDate and time of the requestTime zone difference from Greenwich Mean Time (GMT)Content of the request (specific site)Access status / HTTP status codeVolume of data transmitted each timeWebsite from which the request comesBrowser software, including language and versionOperating system and its interfaceThe country of origin for the visitor2.
+CookiesFurthermore, when you visit our website, cookies are stored on your computer.
+Cookies are small text files that are stored on your hard disk in association with the browser you are using and through which specific information flows to TeamViewer.
+Cookies cannot initiate programs nor deliver viruses to your computer.
+They serve to make our service more user-friendly and effective.
+This website uses the different kinds of cookies set out in our Cookies Policy3.
+==========
+Web analytics, (re-)marketing tools, social media plugins, and third-party integrated servicesTeamViewer uses web analytic applications and (re-)marketing tools (please refer to section E. below for further information), social media plugins (please refer to H. for further information), and third party integrated services (please refer to I. for further information).
+By and through these applications and tools, personal data as set out in this Privacy Policy are collected and may be combined with other personal data we collect from you (please refer to section C.VI.3.
+below for further information on such combinations).
+II.
+==========
+Contacting TeamViewerWhen you contact TeamViewer (e.g. through an online contact form, chat functionality on our website or via phone), TeamViewer will collect any personal information you submit, such as your first name, last name, email-address, country, job title, phone number, company information (including company size), subject, and description of your query.
+The collection of this data may be facilitated by third-party providers, which e.g. help us to provide particular landing pages and particular web forms (see below, section F.).
+We will use the collected information for contacting you and serving your request.As a global company, we may receive messages that require translation of the content of some inquiries.
+In such case, our employees use third-party translation tools in order to process your inquiry.
+==========
+Thus, you might want to avoid entering personal information into the subject line and description field of your inquiry.Please refer to the sections below for data collected and processed in specific cases of contacting TeamViewer, e.g. by submitting a ticket and requesting a quote.III.
+Submitting a ticketIf you submit a ticket for your TeamViewer product, TeamViewer will process your email-address, license key and any additional information you submit in connection with the ticket.
+This may include your name, phone number, country, reason for submitting the ticket, log files compiling connection history, IP addresses, and information on your use of the TeamViewer product collected through the SupportCollector tool, but we will inform you separately in each case about the data that is required to resolve your request.IV.
+Use of quote request featureIf you request a quote for one of our products, TeamViewer will collect and process any information you submit, such as your salutation, first name, last name, address, email-address, company, phone number, country, and product inquiry.
+==========
+We may also store some or all of that information in our customer relationship management system, which is facilitated by a third-party service provider (see below, section F.).
+V. Purchase of a fee-based licenseIf you purchase a fee-based license (e.g. through the “Buy Now” feature on our website), we will collect and process any information you submit, such as salutation, your first name, last name, address, email-address, company, phone number, country, and your chosen payment method.
+We will also process information to support payment processing, including a payment token, which is provided by our payment service provider as a record of the transaction.
+When issuing our invoice, corresponding data such as an invoice ID, price paid, currency, invoice date, and tax code (e.g. VAT ID), will be collected and processed.Once you have purchased a license, TeamViewer will create a corresponding license key and add it, together with information on your license’s start and expiry dates to your TeamViewer account, which you will be asked to create (please see our Product Privacy Policy, section C.III., for any data collected and processed when creating a TeamViewer account).
+Where you have purchased a license through one of our partners (resellers or distributors), they will transfer personal data they have collected in the context of your purchase to TeamViewer.
+We will use this data to process your purchase and for continuously providing our services to you.Data collected in the course of any purchase will be stored and further processed in our customer relationship management system, which is facilitated by a third-party service provider (see below, section F.).
+==========
+We will use your email-address to provide you with our newsletter, which will inform you about products and services similar to the one you have purchased (see below, section VI.)
+VI.
+TeamViewer contacting and informing you (including marketing efforts, newsletter subscription, and profiling)1.
+Newsletter and newsletter interaction trackingIf you sign up for our newsletter or purchase a license, TeamViewer will collect and process your email-address for the purpose of sending out our newsletter.In our newsletters, we want to provide you with information which is most relevant and interesting for you.
+For this reason, we (facilitated by our data processor Inxmail GmbH) may track reactions to and interactions with emails we send you (e.g. whether you open the newsletter, click on the text and image links or display the images contained in the emails).2.
+Other communications, including contacting you by email or phone and targeted advertisingWe may use the contact information you provide in the course of activities described in C.II.-V.
+in order to get in touch with you.
+In this context, we maycontact you by email, beyond sending our regular newsletter (e.g. to send out promotional materials to you as our customer or to invite you to participate in customer satisfaction and other surveys as described below in section IX.)
+==========
+, using the email-address you submitted, or by phone using the phone number you submitted (e.g. during, or in due course after expiry of a product trial you requested or to follow up on feedback or inquiries you have placed with us); orconduct targeted advertising to inform you about changes to or improvements of our products, entirely new products, or to provide you with tips on how to best use our products as well as other useful information (e.g. on discounts, freebies or give-aways); we may do so on our websites, within our products and apps, or on third-party websites and apps.3.
+Analyses on personal data gathered from different sources, profilingWe may combinethe information you submit to us (e.g. when contacting our sales and support teams, requesting a quote or providing feedback) and, more generally, your interactions with our communication channels (e.g. metadata of phone calls, such as which personalized number you have called at what time, or email correspondence with our sales and support teams or your history of submitting tickets and how they have been handled);information on your interactions with our products (such as product usage data as described in section 1.C.
+III.
+of our Product Privacy Policy, and data on the types and frequency of connections you make);certain customer information, such as account information and purchase history; and/orinformation on your online usage behavior gathered through Google Analytics as explained further below in section E. (please note that you may configure your browser settings to prevent cookie placements in order to avoid that your online usage behavior data is processed and combined with other personal data we collect and process),and conduct various analyses on this data.
+Please refer to section D.VI.3.
+below to find out more about these analyses and why we perform them.VII.
+==========
+CommunityIf you click on the community link, you will be forwarded to the TeamViewer community website.
+If you want to join TeamViewer’s community, you have to sign in and/or sign up with your TeamViewer credentials, such as your email address, your name, and a password.
+For providing TeamViewer’s community website, we cooperate with Lithium Technology, LLC (“Lithium”), which means that your personal data as described in C.I. will be processed by Lithium as data processor on TeamViewer’s behalf.
+For further information on how Lithium processes personal data, please refer to their privacy policy under https://www.lithium.com/privacy. In TeamViewer’s community, you may comment on different subjects concerning TeamViewer’s activities and products.
+If you post a comment in TeamViewer’s community, we will store your name/user name (depending on your choice), email-address, IP address, and any additional information you submit.
+Further, we collect and process additional information on your comments, e.g. how many comments you post, how other members react to your comments or how valuable your comments are, including to give certain rewards to TeamViewer community members.Your comment will be published in the relevant topic section by showing your user name as the author.
+==========
+Please note that your comments are publicly accessible and will appear in search engines.
+Therefore, please consider carefully what you post prior to posting your comment.
+Further, you may want to use an assumed name instead of your real name.VIII.
+==========
+BlogTeamViewer will process your email-address if you subscribe to our blog.If you post a comment in our blog on different subjects concerning TeamViewer’s activities and products in TeamViewer’s blog, TeamViewer will process your name/user name (depending on your choice), email-address and any additional information you submit.
+Your comment will be published in the relevant topic section by showing your user name as the author.
+Please note that your comments are publicly accessible and will appear in search engines.
+Therefore, please consider carefully what you post prior to posting, particularly if your comment contains personal data.
+==========
+Further, you may want to use an assumed name instead of your real name.IX.
+TeamViewer surveysIf you participate in a survey performed by or on behalf of TeamViewer, we collect and process your name, email-address, and user experience as well as any other personal information you submit to us in the survey.
+In each survey, we may inform you separately about additional personal data collected and processed.D.
+Purpose and legal basis for processingI.
+Use of TeamViewer’s websiteWe want to ensure that when you visit any part of TeamViewer’s website, your journey will be user-friendly and particularly that you do not encounter technical problems and malfunctions.
+==========
+Also, we would like to make sure we provide you with the most relevant content on our website, which may require that we consider certain personal data such as your browser’s language settings or the country from where you visit our services.
+Legal basis for processing personal data described in C.I.1.
+is our legitimate interest, i.e. Art. 6 para.
+1 lit.
+f) GDPR.Regarding data collected and processed in the context of web analytics and (re-)marketing activities, please refer to relevant sections below (VI.
+and E.).
+II.
+Contacting TeamViewerIf you contact TeamViewer, we need to process your personal data in order to serve your inquiry.
+==========
+Legal basis for processing your personal data is your request prior to entering into a contract or our existing contractual relationship with you, i.e. Art. 6 para 1 lit.
+b) GDPR, or our legitimate interest, i.e. Art. 6 para.
+1 lit.
+f) GDPR.III.
+==========
+Submitting a ticket If you submit a ticket that concerns one of our products, we will process your personal data to answer your inquiry.
+We use this feature to fulfil our business purpose to authenticate our product users and provide service resolution for our customers.
+Legal basis for such processing is our contractual relationship with you, i.e. Art. 6 para.
+1 lit.
+==========
+b) GDPR.IV.
+Use of quote request featureIf you request a quote for our product, TeamViewer needs to process your personal data in order for us to properly respond to your request.
+Legal basis for processing your personal data is your request prior to entering into a contract, i.e. Art. 6 para.
+1 lit.
+b) GDPR.V.
+Purchase of a fee-based licenseIf you use our website or any other means to purchase a fee-based license, TeamViewer needs to process your personal data for the performance of this transaction.
+Legal basis is therefore Art. 6 para.
+1 lit.
+b) GDPR.VI.
+==========
+TeamViewer contacting and informing you (including marketing efforts, newsletter subscription, and profiling)1.
+Newsletter and newsletter interaction trackingIf you sign up for our newsletter, TeamViewer processes your personal data in order to send you the newsletter.
+If you have thus given us your consent, the legal basis for sending the newsletter to your email-address is Art. 6 para.
+1 lit.
+a) GDPR.
+==========
+You may withdraw such consent at any time with effect for the future.
+Please use the unsubscribe link provided in each of the newsletter emails or contact privacy@teamviewer.com.If you have purchased a license, we will subscribe you to our newsletter, which covers information about similar products to the one you purchased, on the basis of § 7 para.
+3 of the German Unfair Competition Act (UWG) or other statutes implementing Art. 13 para.
+2 of the E-Privacy Directive 2002/58/EC.
+In this case, you may object to receiving the newsletter at any time, and at no additional cost (beyond the basic cost of the means you use to communicate your objection) by using the unsubscribe link provided in each of the newsletter emails or contacting privacy@teamviewer.com.Tracking your and others’ reactions to and interactions with our newsletters helps us to deliver the content most useful for you, and to analyze and evaluate the effectiveness of our marketing efforts.
+We conduct such processing to fulfill our corresponding legitimate business interest pursuant to Art. 6 para.
+==========
+1 lit f) GDPR.2.
+Other communications, including contacting you by email or phone and targeted advertisingAll processing of personal data we use for contacting you and advertising towards you is based on either your explicit consent according to Art. 6 para.
+1 lit.
+a) GDPR or our legitimate business interest according to Art. 6 para.
+1 lit.
+==========
+f) GDPR.When we contact you by email to convey marketing messages, we may also rely on § 7 para.
+3 German Unfair Competition Act (UWG) or other statutes implementing Art. 13 para.
+2 of the E-Privacy Directive 2002/58/EC as legal basis if you have previously purchased a license.
+==========
+You may opt-out of receiving such messages at any time, and at no additional cost (beyond the basic cost of the means you use to communicate your objection) by using the unsubscribe link provided in each of our emails.3.
+Analyses on personal data from different sources, profilingWe strive to continuously improve the experience of using our website and our products and to inform you in the most relevant way possible.
+In order to do so, we aim to better understand and categorize the needs of our prospects, users, and customers.
+Through combining non-personal and personal data from different sources as described in section C.VI.3.
+==========
+above, by analyzing this data, and through corresponding profiling measures, we aim to determine the most suitable product offerings for certain groups of persons or for you individually, and thus ultimately to best serve any requests you have or may have with regard to TeamViewer or its products.We conduct these analyses to help us decide on whether, when, and how to inform or get in touch with you.
+In this context, it is our aim to convey relevant information about our products also in the most suitable manner, which may include in-product messages (if you use any of our products; please refer to sections C.VII.
+and D.VII.
+==========
+of our Product Privacy Policy for further information), email communications or contact by phone.Also, the analyses will assist us in predicting as well as retrospectively evaluating the effectiveness of our marketing and sales efforts.To every extent possible, the described analyses and profiling measures will be based on pseudonymous data (e.g. we may consider the Google Analytics Client ID and other non-personalized cookie data, or data we have connected to your TeamViewer Device ID, rather than using immediately identifying personal data such as your name or email-address).
+The legal bases for processing personal data for analysis and profiling purposes are performance of or processing prior to entering into a contract (e.g. when you contact our sales team and ask for a demo), i.e. Art. 6 para.
+1 lit.
+b) GDPR, and/or our legitimate interest (e.g. when we try to find out what information about our products you might be most interested in and whether and how to best get in touch with you), i.e. Art. 6 para.
+1 lit.
+==========
+f) GDPR.Please get in touch with us at privacy@teamviewer.com, in particular should you have any questions or if you would like to raise an objection against the described processing activities.VII.
+CommunityTeamViewer’s community helps us to satisfy our business purpose to assist product users with an open platform, on which issues, experiences and improvements can be shared and resolved.
+Your personal data is being processed so we understand what topics are most relevant to our users and for us to design our website user-friendly and interesting.
+TeamViewer also processes your personal data so that we are able to raise a defense in the event that a third party complains about your community comment’s content.
+In such case, TeamViewer needs to be able to contact you.
+Any comments you post may also be analyzed by TeamViewer against the community terms of use, including for the purpose of rewarding certain actions of community users.
+Legal basis for such processing is a user agreement concerning the use of our community and our legitimate interest of incentivizing positive contributions to the community as well as possible legal defense, i.e. Art. 6 para.
+==========
+1 lit.
+b) in connection with Art. 6 para.
+1 lit.
+f) GDPR.VIII.
+==========
+BlogTeamViewer’s blog helps us to satisfy our business purpose to assist product users with an open platform where issues, experiences and improvements can be shared and resolved.
+TeamViewer also processes your personal data so that we are able to raise a defense in the event that a third party complains about your blog comment’s content.
+In such case, TeamViewer needs to be able to contact you.
+Legal basis for such processing is our legitimate interest in possible legal defense, i.e. Art. 6 para.
+1 lit.
+f) GDPR.IX.
+TeamViewer surveysIf you participate in TeamViewer surveys, we will process your personal data to analyze user experience and improve our knowledge.
+==========
+Legal basis is your consent, i.e. Art. 6 para.
+1 lit a) GDPR, which you may withdraw at any time with effect for the future.X.
+OtherWhere it is necessary for compliance with a legal or regulatory obligation that we are subject to, we process your personal data according to Art. 6 para.
+1 lit.
+c) GDPR.E.
+==========
+Web analytics and (re-)marketing applicationsI.
+Tools to collect and process web analytics data, in particular use of Google Analytics1.
+Google Analytics and other analysis tools provided by GoogleTeamViewer uses Google Analytics, a web analytics service provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, Google Ireland Ltd., Gordon House, 4 Barrow Street, Dublin, Ireland, or any other Affiliate of Google LLC (“Google“).
+==========
+Google Analytics uses “cookies”, i.e. text files that are stored on your computer and enable analysis of your use of our website.
+When you visit our website for the first time, you will be assigned a cookie with a unique user identification, i.e. a Google Analytics Client ID.
+We may replace this Google Analytics Client ID with your TeamViewer Device ID if you use one of our products (please refer to our Product Privacy Policy for details and to section C.VI.3 on the combination of data from various sources).
+We will add the respective data point to the data available in the Google Analytics tools, and this way we use Google Analytics also for cross-device analyses of user streams.TeamViewer uses Google Analytics with the extension “_anonymizeIp()”.
+==========
+Thereby, IP addresses are processed in a shortened form.
+The information generated by cookies about your use of this website is usually transmitted to and stored on a Google server in the USA.
+Only in exceptional circumstances will the full IP address be transmitted to a Google server in the USA and shortened there.
+==========
+The IP address transmitted by your browser as part of the Google Analytics data collection will not be merged with other data from Google.Other tools we use in this context that are also provided by Google includeGoogle Tag Manager (a tag management system that allows TeamViewer to quickly and easily update tracking codes and related code fragments collectively known as “tags” on our website or mobile app);Google Big Query (an enterprise data warehouse that enables SQL queries using the processing power of Google’s infrastructure; TeamViewer uses Big Query to store and query data sets which are collected by Google services such as Google Analytics, and the Big Query data is used to build flexible reports for evaluating our website performance);Google Display Network (used to measure the impact of unclicked Google Display Network ad impressions on the website, behavior of users, and conversions; please refer to https://support.google.com/analytics/answer/3105620 for further information); andGoogle Optimize (for A/B testing, offering to analyze user behavior by showing slightly varied website contents to different user groups, depending on profile matching; thereby, TeamViewer analyzes its online services, improves its web offerings, and can create an interesting user journey).
+TeamViewer uses data gathered through your Google Analytics Client ID as well as other data generated from Google’s web analytics applications in order to perform analyses of your interactions with our products, services, and websites.
+With the help of Google’s Analytics Demographics and Interest Reporting, we will receive analyses on our users’ age, gender, and interest categories (please refer to https://support.google.com/analytics/answer/2799357?hl=en for further information).
+==========
+We strive to offer you tailored products and services that are best suited for your individual circumstances.
+To that end, Google provides us with insights and statistics that help us to make our online presence, our communications to you, and ultimately our products more interesting and relevant for you.
+Legal basis to conduct and use the results of these analyses is Art. 6 para.
+1 lit.
+==========
+f) GDPR.As further explained in our Cookies Policy, you may block cookies from being stored on your device, and consequently prevent the described analyses from being conducted, by adjusting the settings in your browser software; however, in such case, you may not be able to use all of the features and functionalities of our website.
+You can also block the collection of the data generated by the cookie and the data related to your use of the website (incl.
+your IP address) as well as the processing of this data by Google, by downloading and installing a browser plugin available from the following link: http://tools.google.com/dlpage/gaoptout?hl=en.Please visit the website https://support.google.com/analytics/answer/6004245?hl=en for an overview on Google’s approach on data protection for Google Analytics as well as their privacy policy: https://policies.google.com/privacy?hl=en.2.
+==========
+HotjarTeamViewer uses Hotjar heatmaps, recordings, funnels, forms and polls, services provided by Hotjar Ltd. (“Hotjar”), St. Julian’s Business Center, Elia Zammit Street, St. Julians 1000, Malta.
+Hotjar provides an all-in-one analysis and feedback tool that reveals the online behaviors and feedback of a website’s visitors.
+It helps to improve websites’ user experience and performance.
+Its analysis tools allow TeamViewer to measure and observe user behavior on our website, while the feedback tool allows TeamViewer to obtain feedback.Site visitors are assigned a unique user identifier, so that Hotjar can keep track of returning visitors.
+==========
+This way, no information by which individual persons could be directly identified is collected.
+When collecting data with recordings, Hotjar also has automated suppression features in place and data is suppressed client-side, in the visitor’s browser, meaning that corresponding personally identifiable information never reaches Hotjar servers.Data collected using Hotjar is stored in Ireland, using Amazon Web Services infrastructure.
+The applicable data retention period is a maximum of 365 days.We use Hotjar’s functionalities because they serve to fulfil our legitimate business interest in providing our website and improving upon it, the legal basis for processing your personal data is thus Art. 6 para.
+==========
+1 lit.
+f) GDPR.
+To prevent us and Hotjar from collecting and processing your personal data, you may opt-out by following the instructions provided on Hotjar’s website https://www.hotjar.com/legal/compliance/opt-out.II.
+(Re-)Marketing/retargeting applications1.
+==========
+Google AdWords Conversion and Google RemarketingTeamViewer’s website uses Google AdWords in order to generate attention for our products and services by conducting targeted advertising campaigns on third-party websites and apps.
+Data generated by such campaigns helps us to determine the success rate of individual campaigns.
+TeamViewer aims at providing you with advertisement that is of interest to you, to make its website more interesting, and calculate advertising expenses accurately.
+Legal basis for such processing of personal data is Art. 6 para.
+1 lit.
+==========
+f) GDPR.Such means of advertisement are delivered by Google through a so-called Ad Server.
+Along with this, TeamViewer uses Ad Server Cookies, which scale certain parameters, such as display of ads or clicks by users.
+When you click on an ad delivered by Google that redirects you to our website, a cookie is stored on your computer by Google AdWords.
+==========
+These cookies usually expire within 30 days and are not supposed to be used to personally identify a user.
+In addition to these cookies, analytic values like a unique cookie ID, quantity of Ad impressions per storing, last impression and opt-out information (markings that the user does not want to be addressed any further) are usually stored.
+These cookies enable Google to recognize your internet browser.If you visit certain pages on our website and provided the cookie stored on your computer has not yet expired, TeamViewer and Google are able to recognize that you clicked on an ad and were redirected to the TeamViewer website.
+Every Google AdWords customer receives a different cookie.
+Therefore, cookies cannot be tracked across different sites by TeamViewer, as is the case for all other AdWords customers.
+TeamViewer merely receives statistical evaluations from Google.
+By and through these statistical evaluations, we can evaluate which advertisement campaign was particularly effective.
+==========
+Any additional data generated by the particular advertisement is not forwarded to TeamViewer; particularly, we cannot personally identify users through this information.Through this (re-)marketing tool, your browser automatically connects to Google’s servers.
+Please note that scope and further use of the data processed by Google are subject to Google’s privacy policy and beyond TeamViewer’s control.
+We thus inform you based on our own knowledge: By integrating AdWords, Google receives information that you visited a particular TeamViewer website or part thereof, and/or that you clicked on one of our advertisements.
+If you are registered with one of Google’s services, Google is able to match your visit to your Google account.
+Google may receive your IP address and/or may store it even if you are not registered with one of Google’s services and/or if you have not been logged in.
+You may avoid tracking in various ways, e.g. througha setting of your browser software, particularly, by suppressing third party cookie installation in order to prevent receiving third-party ads;deactivating AdWords Cookies, by setting your browser so that cookies from www.googleadservices.com are being blocked; this can be done at https://adssettings.google.com/anonymous, however, such settings are deleted if you delete cookies; orpermanently deactivating cookies in your browser under https://support.google.com/ads/answer/7395996.Further information on Google’s approach to data privacy can be found under https://policies.google.com/privacy?hl=en.
+Alternatively, you can disable the use of cookies for interest-based advertising via the advertising network initiative, by following the instructions at http://optout.networkadvertising.org/?c=1#!/.In addition to Google AdWords, TeamViewer uses the tool “Google Remarketing”.
+==========
+This is an application that allows us to address you again, even when you have left our website.
+After visiting our website and while you are surfing the internet, our advertisement can be displayed to you by and through this application.
+This is enabled by cookies stored on your device, which track and analyze user behavior on different websites for Google.
+Google can track your previous visits to our website.According to its own statement, Google does not combine data gathered through Remarketing with any personal data Google may have stored about you.
+Furthermore, the data processed for these purposes is generally limited to pseudonymous information.
+If you do not want to be exposed to data processing through the Google Remarketing feature, you can disable it by changing the appropriate settings at https://adssettings.google.com/anonymous.2.
+==========
+Social media tracking tools, including “tracking pixels”We also use other tools on our website allowing us to offer you a more personalized and engaged web experience by offering you advertisements on your social media channels that are more relevant to you.
+To that end, we use cookie-based (please refer again to our Cookies Policy) tools offered by the following third-party social media providers:Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA; for further information on the implemented tool, please refer to https://developers.facebook.com/docs/facebook-pixel/implementation#base-code; additional information on data collection: https://www.facebook.com/help/186325668085084LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, USA; for further information on the implemented tool and how to opt out of corresponding tracking, please refer to https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out; for further information on LinkedIn’s approach to privacy refer to: https://www.linkedin.com/legal/privacy-policy?trk=uno-reg-guest-home-privacy-policyTwitter Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA; for further information on the implemented tool and how to opt out of corresponding tracking, please refer tohttps://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads; for further information on Twitter’s approach to privacy refer to: https://twitter.com/en/privacy.In each case, we integrate snippets of code provided by these social media operators that load a small library of functions (sometimes referred to as “tracking pixels”, i.e. transparent, pixel-sized images embedded in websites with a tracking functionality).
+These functions enable us to track your activities on our website, such as URLs visited, domains visited, device(s) used, and, in particular advertising conversions (i.e. actions counted when you interact with one of our ads, such as clicking it and purchasing our product afterwards).
+==========
+They rely on cookies placed by the mentioned third-party providers, which may also enable us to match our website visitors to respective user accounts on the respective social media platforms.We may also use the “Custom Audience” service provided by Facebook Inc., for delivering targeted advertising to you.
+In this context, we would check whether you hold an account with Facebook for which you use the same email-address that you have provided to us and include you in a corresponding “custom audience” group.
+This works by us providing your email-address to Facebook Inc. in a hashed format, and this way making sure that Facebook will only process, as a data processor on our behalf, actual email-addresses of users that have already subscribed to their service (please refer to https://www.facebook.com/business/help/112061095610075?helpref=faq_content for further information on this process).
+You may opt-out of receiving targeted ads because you are part of a custom audience created by TeamViewer through clicking a corresponding link when you select the “Why am I seeing this?”
+feature on the Facebook platform (see https://www.facebook.com/business/help/1415256572060999).
+As with other marketing activities, the use of the described tracking and remarketing mechanisms fulfil our legitimate business interest pursuant to Art. 6 para.
+1 lit.
+f) GDPR.
+==========
+Please take note of your options to opt-out of such tracking and remarketing mentioned above.3.
+Other (re-)marketing tools used in certain regionsWhile we rely on services provided by Google for most regions targeted by our advertising campaigns, in certain regions we may additionally use other providers to fulfil essentially similar functions as described above for Google AdWords and Google Remarketing.
+These includeMetrica web analytics, a tool provided by Yandex Oy Limited Company, Moreenikatu 6, 04600 Mantsala, Finland, for situations where (i) it appears that your location is within the Russian Federation, (ii) you are visiting our Russian website, (iii) you were referred to our website by a search engine provided by Yandex; and (iv) you have not opted out of being tracked by Yandex.Metrica by installing a corresponding browser add-on (please refer to https://yandex.com/support/metrica/general/opt-out.html for further information);Baidu, provided by Baidu, Inc., No. 58 North-West 4th Ring Road, 100080 Beijing, People’s republic of China, for situations where (i) it appears that your location is within the People’s Republic of China, (ii) you are visiting our Chinese website, and (iii) you were referred to our website by a search engine provided by Baidu;Naver, 6 Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Korea, for situations where (i) it appears that your location is within South Korea, (ii) you are visiting our Korean website, and (iii) you were referred to our website by a search engine provided by Naver;Yahoo Japan, 1-3 Kioicho, Chiyoda-ku, Tokyo 102-8282, Japan, for situations where (i) it appears that your location is within Japan, (ii) you are visiting our Japanese website or service, and (iii) you were referred to our website by a search engine provided by Yahoo Japan.Please note that you may opt-out of being tracking and thus prevent us from collecting corresponding data and providing you with personalized advertising by following the instructions given on the websites of the providers mentioned above, including onor generally by adjusting your browser settings.F.
+==========
+RecipientsTeamViewer employees, who administer, maintain and further develop TeamViewer’s website, products and services will receive access to your personal data.
+To that end, TeamViewer has strong technical and organizational security measures to protect personal data against unauthorized disclosure to third parties and to ensure that only relevant individuals, who act within their job description and have a need-to-know interest in accessing any of your personal data, will have access to the data for which they have sufficient clearance.If you use our product, contact us through the contact, support, and feedback features, and/or if you request a quote, TeamViewer employees that are responsible for the respective service will receive access to your personal data.
+Aside from TeamViewer employees, your personal data may be processed by employees of third-party services providers, who assist us in handling your requests, e.g. if you use our chat functionality (e.g. Userlike UG), speak to us on the phone (e.g. we instruct call center agents from Competence Call Center Leipzig GmbH), or contact us through forms on certain website landing pages (e.g. employees of Unbounce Marketing Solutions Inc.).
+If you post a comment in TeamViewer’s community or blog, your comment content and name/user name will be publicly available and may appear in search engines.
+Aside from TeamViewer employees, employees of Lithium may receive access to your personal data as described in C.VII.If you purchase a TeamViewer product, TeamViewer employees concerned with processing such transactions will receive access to your data.
+We also use the services of third-party payment token providers.TeamViewer may transfer your personal data to third parties if we offer participation in campaigns, contests, reservations, or contract agreements in conjunction with a third party.
+In this case, you will be specifically informed about the transmission to the third parties.Also, many of our activities of providing you with information and marketing messages as well as analyzing (as described in section C.VI.)
+your reactions and interactions with TeamViewer and its products and communication channels are conducted by dedicated departments within TeamViewer, by using pseudonymous data (such as your TeamViewer Account ID, TeamViewer Device ID, hashed / abbreviated email-address or license key) to every extent possible.
+==========
+However, some data processing in this regard will be handled by third-party providers on our behalf.
+This includes MaTelSo GmbH for phone call (metadata) tracking and Inxmail GmbH for email communications, and Competence Call Center Leipzig GmbH for contacting you by phone.For web analytics and (re-)marketing activities, we rely on a number of third-party providers, which will process personal data on our behalf as explained in more detail in section E.Finally, TeamViewer uses external third-party service providers to help operate its business, such as providers of IT operation and maintenance services, (cloud) storage service providers and providers of (cloud) collaboration tools.
+Examples include Amazon Web Services, Box.com, and Microsoft (Dynamics 365, Azure).
+==========
+All mentioned third-party providers and employees of such providers may receive access to personal data through the service they provide.TeamViewer chooses all third-party service providers with due care, obligates them to confidentiality, and concludes data processing agreements with them in accordance with the standards of the GDPR.
+Should you have any questions about third parties we use, please contact us at privacy@teamviewer.com.In addition, for the purpose of integrating the services described under -H. and I. into our website, employees of the providers of social plugins and integrated services, as described below, may receive access to your personal data.
+Please note that such data processing conducted by social plugin providers and integrated service providers is subject to those providers’ privacy policies and generally beyond TeamViewer’s control.TeamViewer will generally not transfer your personal data outside the EU and/or EEA.
+However, there are some exceptions to this rule, which include data transfers (i) mentioned in section E., -(ii) to the USA, and (iii) for group internal IT services provided from outside the EU, including Australia, USA and Armenia.
+==========
+TeamViewer will otherwise transfer your personal data only when required to do so by law or in case of orders from a competent authority.Whenever TeamViewer transfers your personal data out of the EU or the EEA to countries that do not have an adequate level of data protection recognized by the EU, we will apply safeguards to adequately protect your personal data.
+In particular, we will conclude model contracts with corresponding entities and rely on the EU-U.S. Privacy Shield Framework for certain transfers into the USA.
+Please refer to https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en to obtain further information on the Standard Contractual Clauses for the transfer of personal data to processors established outside the EU or EEA, or to https://www.privacyshield.gov/EU-US-Framework to obtain further information on the EU-U.S. Privacy Shield Framework.We will not share your personal data with local authorities or courts except where we are required to do so by applicable law, a court order or a legally binding injunction.G.
+==========
+Retention periods for personal dataYour personal data will be deleted once you withdraw consent, or, more generally, once the purpose for processing has ceased to exist.
+In some cases, TeamViewer is legally obligated to retain data for a certain period.
+Once this period has lapsed, TeamViewer will delete the data in accordance with data protection obligations.We may also use and embed in our website certain social media plugins (“plugins”) from third-party providers such as Facebook, LinkedIn, and Twitter (“plugin provider”).
+Facebook’s plugins are identifiable by the Facebook logo and/or the “thumbs up” – symbol.
+Furthermore, TeamViewer may use the ”in” button from LinkedIn, which can be identified by a blue button.
+Additionally, TeamViewer may use the short messaging service Twitter, which can be identified by a button that contains a bird.
+==========
+You can find more information on these social media providers above at section E.II.2.
+By using plugins, TeamViewer provides an opportunity to interact with social media and other social media users on its website.
+Plugins are provided to increase TeamViewer’s internet presence and make it more interesting to you.
+Legal basis for use of the plugins is Art. 6 para.
+1 lit.
+==========
+f) GDPR.Every time you visit our website and any part thereof that contains a plugin, the plugin causes your browser to directly connect with the plugin provider’s server.By activating (clicking on the button) the plugin, personal data may be transmitted to and stored by the plugin provider, likely on a server in the USA.
+As personal data is collected by and through cookies, you may avoid corresponding data processing by adjusting your browser cookie settings.
+Please note that data collection and processing are subject to the plugin providers’ privacy policies and generally beyond TeamViewer’s control, and we have neither been informed of the entire scope of data collection, purpose of the processing, nor any data retention periods.
+We have also not been informed if and when data is being deleted.Plugin providers store data collected about you as user profiles and use such data for advertisement purposes, market research and/or need based design of their websites.
+Evaluation of such data (even of users not logged in) is particularly used for need-based advertisements and to notify other users of the same social network of your activities on our website.You have a right of objection concerning such user profiles, however, you have to address such objection to the respective plugin provider.
+==========
+In order to properly address your demand, we provide you with the relevant addresses:Facebook Inc., 1601 S California Ave, Palo Alto, California 94304, USA; https://www.facebook.com/policy.php; additional information on data collection: https://www.facebook.com/help/186325668085084LinkedIn Corporation, 2029 Stierlin Court, Mountain View, California 94043, USA; for further information on LinkedIn’s privacy refer to: https://www.linkedin.com/legal/privacy-policy?trk=uno-reg-guest-home-privacy-policy.Twitter Inc., 1355 Market St, Suite 900, San Francisco, California 94103, USA; for further information on Twitter’s privacy refer to: https://twitter.com/en/privacy.Your data is being transmitted to the plugin provider, regardless of whether you maintain a profile with the plugin provider and/or if you are currently logged in.
+If you are currently logged into your social media profile, data collected on your visit of our website is directly matched to your social media profile.
+If you activate the plugin, e.g. by liking or retweeting our website, such information is stored in your social media profile and will be publicly shared with your contacts.I.
+YouTube VideosTeamViewer may integrate videos in its website, which are stored on https://www.youtube.com/.
+==========
+The YouTube platform is provided by YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA, an affiliate of Google.
+These videos can be played on our website.When you visit a page on our website with embedded YouTube videos, YouTube receives information on what particular website you visit.
+Your personal data as described under C. is transmitted to YouTube.
+Such transmission takes place, regardless if you are logged into your Google account, or if you do not maintain such an account.
+If you are logged into your Google account, your personal data will be matched with your Google profile.
+If you do not wish that your personal data is being matched with your profile, you should log out of your YouTube account prior to activating a YouTube video.
+YouTube and Google will use your personal data for advertisement, market research, and/or need-based design of its website.Please note that it is beyond TeamViewers control how long and in what way YouTube and Google will retain your data.
+For further information concerning purpose and scope of data collection and processing, please visit https://policies.google.com/privacy?hl=en.You have a right to object to such processing of your personal data, but you will have to address such objection to YouTube or Google.II.
+==========
+reCAPTCHATeamViewer uses reCAPTCHA to protect our website from spam and abuse.
+reCAPTCHA is a service provided by Google that uses an advanced risk analysis engine and adaptive CAPTCHAs to keep automated software from engaging in abusive activities on our site.reCAPTCHA allows TeamViewer to verify if an interaction is legitimate without any user interaction.
+It is a purely JavaScript API that returns a score giving us the ability to take action in the context of our website: for instance, requiring additional factors of authentication, sending a post to moderation, or throttling bots that may be scraping content.Please note that scope and further use of the data processed by Google are subject to Google’s privacy policy and beyond TeamViewer’s control.J.
+==========
+Statutory/contractual requirementYou may choose not to provide your personal data or provide incomplete personal data.
+However, you should be aware that you may not be able to use all of the functionalities of our website; where we ask for consent and you choose not to provide it, or you block, disable or delete cookies, we may not be able to provide you with the information or service requested.K.
+Your rightsYou may contact us, e.g. under privacy@teamviewer.com, in order to exercise the following rights to the extent you are entitled to so under applicable law:You may access your personal data to check and review such data;You may request a copy of your personal data;You may demand that we supplement, correct or delete your personal data; or cease or restrict the collection, processing, use or disclosure of your personal data; the right of rectification also comprises the right to have incomplete personal data completed, including by means of providing a supplementary statement;You may object to the processing of your personal data;You may request to receive your personal data in a structured, commonly used and machine-readable format and – subject to your acquisition of the respective copyrights or other required rights – have it transmitted to another controller, provided that the processing is based on your respective consent or to execute a contractual relationship or a relationship prior to entering into a contract with you.You have the right to lodge a complaint with a supervisory authority in relation to the processing of your personal data.
+In order to file a complaint, please contact the supervisory authority competent for your place of residency or alternatively, you may contact “Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit, Königstraße 10a, 70173 Stuttgart, Germany“.
+Should you have any questions, please contact privacy@teamviewer.com.This Privacy Policy contains links to sites and information that are not under TeamViewer’s direct control.
+These links are therefore subject to change and TeamViewer will review and update this Privacy Policy periodically to reflect such changes.
+==========

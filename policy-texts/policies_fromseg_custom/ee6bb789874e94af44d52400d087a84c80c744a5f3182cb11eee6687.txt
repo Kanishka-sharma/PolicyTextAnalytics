@@ -1,0 +1,534 @@
+PRIVACY AT MiQ
+At MiQ, privacy is a top priority and we provide the below Privacy Policies to outline our practices and procedures to enable you to make an informed decision about sharing information with us.
+We have 2 separate policies, depending on your country of residence:
+ 
+ 
+EU PRIVACY NOTICE FOR VISITORS TO OUR WEBSITE, USERS OF THIRD-PARTY WEBSITES, OUR BUSINESS CONTACTS AND VISITORS TO OUR PREMISES
+Effective Date: 25 May 2018
+
+Who is responsible for processing your data?
+Contacting our Data Protection Officer
+Categories and Sources of Personal Data and Purposes and Lawful Basis for Processing
+Sharing of Your Information
+Transfers of Personal Data outside the EEA
+Your Rights
+Annex 1 – MiQ Affiliates
+
+ 
+MiQ Digital Limited (“MiQ” or “we” or “us” or “our”) is committed to protecting the personal data of individuals whose personal data we process.
+Please take the time to read this privacy notice, since it contains important information about how we collect, use, disclose and otherwise process personal data concerning the following types of data subjects:  individuals who use this website; visitors to other publishers’ websites whose browsing activities we analyse as part of digital advertising campaigns; business and marketing contacts; and visitors to our physical premises.
+1.
+==========
+Who is responsible for processing your data?
+For the purpose of the General Data Protection Regulation 2016/679 and any implementing legislation (the “GDPR”), MiQ Digital Limited is the data controller responsible for any personal data we process, 6th Floor Charlotte Building, 17 Gresse Street, London, United Kingdom, W1T 1QL, UK, registration number (07321732).
+MiQ is part of the MiQ group of companies with offices in India, US, Germany, UK, and Canada (please see the list of affiliates in Annex 1).
+2.
+Data Protection Officer
+MiQ has appointed a Data Protection Officer (“DPO”), who may be contacted as follows:
+via post: ePrivacy GmbH, represented by Prof. Dr. Christoph Bauer, Grosse Bleichen 21, 20354 Hamburg, DE
+via email: privacy@miqdigital.com (which will reach representatives from our DPO)
+Questions, comments and other communications regarding this privacy notice, or our privacy practices in general, should be directed to our DPO.
+3.
+==========
+Categories and Sources of Personal Data and Purposes and Lawful Basis for Processing
+MiQ is a technology company operating in the digital advertising ecosystem.
+We use data analytics to help our clients (advertisers, media agencies, brands) to advertise their ads on various websites that allow third party advertising, so called ‘publishers’.
+We develop insights into the browsing behaviour of website users for our clients or for publishers in order to develop targeted digital advertising campaigns for our clients that create a better user experience.
+==========
+We participate in various industry schemes that are designed to ensure that any user-level personal data we process for these purposes is collected and processed on the basis of the user’s consent.
+We also collect and process personal data about visitors to our own website (//localhost/), as well as business contact data relating to the account representatives of our customers and vendors, and visitors to our physical premises.
+We may source, use and otherwise process personal data in different ways in regard to each of these data subject categories, as explained in the following sections.
+Section 3.1           Visitors to publishers’ websites
+Section 3.2           Visitors to this MiQ website
+Section 3.3           Representatives of our existing and prospective customers and vendors and marketing contacts
+Section 3.4           Visitors to our premises
+3.1  Visitors to publishers’ websites
+A – Sources of personal data
+B – Personal data that we collect and process
+C – Why do we collect your personal data and what are our lawful bases for it?
+==========
+D – How long do we keep your personal data?
+MiQ analyses web browsing usage in order to provide our clients (advertisers and media agencies) with the ability to improve returns on their digital advertising spend by enabling them to serve ads that are relevant to website visitors.We use cookies and similar applications to develop marketing insights about user preferences, sometime in combination with other data sets, in order to better match ad content with user interests.
+A – Sources of personal data
+The websites that users visit may allow third parties, such as MiQ, to set cookies or similar applications on user devices or browsers when they visit the websites.
+We collect and analyse the data obtained via these applications.
+==========
+We may combine this data with aggregate data obtained from social media companies and market research firms, and user-level data from other advertising technology companies that support our services in various ways, such as fraud prevention through the detection of “bots.”
+B – Personal data that we collect and process
+MiQ collects various categories of personal data at the user level, including the following:
+
+
+
+
+IP address, which helps us to understand the broad location of a user
+Device ID (when users access websites on mobile devices), such as IDFA, AAID, SHA1
+User ID stored in a cookie placed on a user’s browser
+
+
+Latitude-longitude location data
+Timestamp on accessing the website and the website URL
+Enrichment data collected about you from third parties, such as Nielsen & Eyeota.
+Tweets & Twitter handles, made publicly available via the Twitter platform
+User interactions with the ad placed, i.e. we will know if a user clicks on it or the user’s browser & operating system type.
+==========
+Sometimes advertisers may provide us with information on what users have previously purchases from them and when, in order to make our predictions more accurate.
+Cookie technology is placed on devices to assist with the ad delivery process.
+This includes:
+
+(1)  A user ID cookie to support ad personalisation, which lasts for 90 days
+(2)  An opt-out cookie to store your opt-out and consent preferences, which lasts for 90 days
+(3)  A session cookie to see if a browser supports cookies, which lasts for 1 browsing session
+(4)  A cookie which limits the number of ads which a given user sees, which lasts for 90 days
+(5)  A cookie which denotes whether a user ID is synced with other partners in the ad-serving chain
+(6)  A cookie which supports billing and reporting.
+==========
+Although we do not collect information that directly identifies individual users by name or physical address, we collect your IP address and other information about you which may make this information personal data.
+For example, based on a user’s historic browsing behaviour, we may map an IP address to a city or a geographical region and other information such as weather in that region, in order to predict users’ future buying decisions.
+However, we never make decisions or predictions based on the characteristics of one individual.
+Instead we usually only target population segments or groups of individuals.
+These segments involve aggregated user data of no less than 1,500 users, but more typically hundreds of thousands of users who may share common characteristics, such as demographics and specific interests, such as preferences for particular types of cars.
+==========
+C – Why do we collect your personal data and what are our lawful bases for it?
+We collect user-level personal data so that users can see ads displayed on the websites they visit which we think are most relevant to them based on their browsing behaviour and interests.
+This enhances the user experience while at the same time making our clients’ advertising campaigns more efficient and effective.
+We use data analytics to predict user interests based on machine-learning techniques involving the use of algorithms.
+Our data scientists regularly review the algorithms that we use in order to ensure they are properly adjusted and error-free.
+==========
+MiQ has approved an “Pixel Implementation” policy which provides, among other things, that we will not target children or vulnerable adults or collect any special categories of personal data about users.
+MiQ’s “Creative Guidelines” prohibit any discriminatory messages and place restrictions on advertising related to gambling, health & politics.
+Consent
+MiQ has joined a number of industry schemes including the IAB Transparency & Consent Framework (http://advertisingconsent.eu/) and Your Online Ad Choices (http://www.youronlinechoices.com) that have been developed to ensure that users are in a position to decide whether and how they want their web browser data used for digital advertising purposes.
+MiQ’s Vendor Identification number within the transparency and consent framework is 101.
+==========
+As a result, MiQ will not process personal data unless it can be evidenced that their publisher & advertiser partners have first obtained the users’ permission to do so.
+This is usually done by means of a pop-up window that enables users to manage their preferences in regard to cookie application and related data processing.
+When a user visits a website with which MiQ is associated, they will see a message asking them if they agree to allow the website publisher’s and third-party cookies to be set on their device and collect information from it when they first visit it.
+If the user agrees to the application of cookies, they will then be asked whether they consent to the processing of the information collected for each of the following purposes:
+
+a) Ad personalisation
+
+The personal data We collect is used to personalise ads that you see over time on other sites.
+We will use the personal data We collect to infer your interests and place ads that we believe may of interest to you.
+b) Ad selection, reporting and delivery
+
+We collect information about what ads were shown, how often and when and where they were shown, whether the user clicked on them and made a purchase.
+This information is used to measure the effectiveness of the ads presented.
+c) Content delivery, selection and reporting
+
+We collect and analyse information about the user’s interests and what content was shown, how often, when and where, and whether the user clicked on what was shown.
+This is done to adjust the content displayed to the user to be most relevant.
+d) Measurement
+
+We collect information on web visitors’ use of content in combination with previously collected information.
+==========
+We use this data to understand and report on their use of content to our advertising clients or for MiQ’s internal quality assurance purposes.
+In the process of using data for the above purposes, MiQ also employs the following technical features: i) matching data to offline sources, ii) linking devices and iii) precise geographic location data.
+When a user agrees to the placement of cookies by Us and one or more of the identified processing activities, we will receive a message from the website where the visitor’s selection has been made, notifying Us that We have permission to set a cookie, collect information on the user’s device and use it for the agreed purposes.
+A user may withdraw consent at any time on the websites visited or by changing their preferences on
+www.youronlinechoices.eu.
+They can do this by finding the reference to MiQ and withdrawing their consent.
+==========
+MiQ’s legitimate interest in preventing fraudulent website traffic
+We also process personal data in order to detect the use of internet “bots” or similar functionality intended to distort the popularity of websites and digital ads by simulating human browsing activity.
+If a user agrees to the placement of a cookie and accepts the processing of their personal data for one or more of the purposes described above, our ability to detect this type of fraudulent behaviour is important to ensure that the data we rely on to cater to user preferences is not distorted by false inputs.
+We therefore use a third-party vendor to assess whether the IP addresses that we are processing are associated with fraudulent activity.
+==========
+MiQ’s legitimate interest in analysing social trends
+We also process personal data in order to analyse trends in social media activity.
+This involves analysing common keywords that appear in public posts made available on the Twitter platform and producing aggregated insights from these to inform our advertisers about current social trends.
+We may use Twitter handles to identify trends relating to companies and popular personalities.
+==========
+Should a user wish to object to our processing of their personal data for these purposes, they may do so by contacting our DPO as indicated in Section 2 above.
+D – How long do we keep your personal data?
+MiQ minimises the personal data it collects about users and retains the data for only limited periods.
+Raw data that MiQ collects about user online activities is kept for no longer than 180 days from the date collected and is stored in a secure environment.
+The user-level data is either anonymised or aggregated after 180 days, which means the information is expressed only in a summary form about user behaviour representing large groups of individuals.
+Anonymous data may be kept at MiQ for 2 years and aggregated information relating to financial performance stored for up to 7 years for accounting and audit purposes.
+During the initial 180-day period, the information about user online behaviour is used to better target the ad campaigns and adjust the audience to ensure the ad is displayed to user groups that may be most interested in the product or service advertised.
+The data collected as part of the ad campaign may be used to develop insight reports for MiQ clients concerning advertising trends and campaign results.
+==========
+These reports are based on data that is provided in an aggregated form and does not allow for the identification of individuals.
+3.2 Visitors to this MiQ Website
+A – Sources of personal data
+B – Personal data that We collect and process
+C – Why do We collect your personal data?
+D – How long do we keep your personal data?
+==========
+A- Sources of personal data
+We may obtain your personal data from the following sources:
+
+from you directly (for example, through subscribing to any services offered on our website (//localhost/), including but not limited to email mailing lists, interactive services, posting material or requesting services);
+from your device or browser; and/or
+if you contact us, we may keep a record of that correspondence.
+B- Personal data that We collect and process
+
+name;
+username;
+email address
+operating system;
+browser type;
+cookie data (for more information please see the Cookie Notice ; and/or
+IP address.
+C – Why do We collect your personal data?
+We process your personal data for the following purposes:
+
+To allow you to participate in interactive features of Our service when you choose to do so;
+to ensure that content from Our website is presented in the most effective manner for you and for your device;
+to allow Us to share information in order to provide any product or service you have requested;
+for the provision of support services;
+for the management of Our customer records;
+for system administration purposes;
+for monitoring statistical data about Our users’ browsing actions and patterns, the number of visitors to Our website, the pages visited and how long they stayed; and/or
+to exchange personal data with MiQ group of companies for the purpose of reporting, global management, carrying out monitoring, analysing business, and any other purposes that is incidental to or connected with the foregoing purposes.
+==========
+It is in Our legitimate interests to promote Our services via Our website and to process your information for the purposes listed above.
+Please do not submit your information to via Our website, if you would not like Us to process your personal data for the above purpose.
+If you would prefer Us not to process your personal data for the purposes above, please contact our DPO using the details set out in section 2 above.
+D – How long do we keep your personal data?
+We will keep and process your personal data only for as long as is necessary for the purposes for which it was collected in connection with your use of our website, unless there is a legal requirement for us to keep it for longer or the data is necessary for the establishment, exercise or defence of legal claims.
+==========
+3.3 Representatives of our existing or prospective customers and vendors and marketing contacts
+We may collect personal data related to employees, directors, authorised signatories and other representatives of MiQ’s existing and prospective customers or vendors as well as other marketing contacts.
+Our existing or prospective customers are typically media agencies or advertisers that engage MiQ to help them improve the performance of their advertising campaigns.
+Our vendors include service providers that supply us with services that we use to deliver or enhance our ad personalisation and placement services.
+==========
+A – Sources of personal data
+B – Personal data that we collect and process
+C – Why do we collect your personal data and what are our lawful bases for it?
+D – How long do we keep your personal data?
+A – Sources of personal data
+We may obtain these types of personal data from the following sources:
+
+from the individual directly,
+from a company that employs the individual if they are an employee of an existing or prospective MiQ customer or vendor,
+from MiQ’s affiliates (please see  Annex 1 for a list of our affiliates);
+during networking events that we have either hosted, sponsored or attended; and/or
+from publicly available sources (for example, your company website or social media sites)
+
+B – Personal data that we collect and process
+We may collect the following categories of personal data relating to our existing or prospective customers’ or vendors’ employees, officers, authorised signatories, and other associated individuals:
+
+name;
+business address;
+business email address;
+business telephone number; and/or
+job title.
+==========
+C – Why do we collect your personal data and what are our lawful bases for it?
+The purposes for which we collect and process the above-referenced categories of personal data about our business contacts, and the lawful basis for doing so, are set out in the table below.
+Representatives of our Existing or Prospective Customers and Vendors
+
+
+We may use personal data to:
+Our lawful basis for doing so is: 
+Our business purpose for doing so are:
+
+
+Provide our services to clients or receive products or services from vendors
+Legitimate Interest of MiQ or our Clients
+Efficiently fulfil our contractual and legal obligationsManagement Reporting (including at an
+intra-group level)
+
+
+Establish and manage our relationship
+Efficiently fulfil our contractual and legal obligationsAccount ManagementUnderstand the market
+in which we operateManagement Reporting (including at an intra-group level)Exercise or defend legal claims
+
+
+Learn about how our products and services are or may be used
+Understand the market in which we operateManagement Reporting (including at an intra-group
+level)
+
+
+Security
+Managing security, risk and fraud preventionManagement Reporting (including at an intra-group
+level)
+
+
+Let clients and potential clients know about our products, services and events that may be of
+interest to you by letter, telephone, email or other forms of electronic communication
+Promote our goods and servicesManagement Reporting (including at an intra-group level)
+
+
+
+If you object to our using your personal data for these purposes, including direct marketing, please contact our DPO as indicated in Section 2 above.
+Where we use your email to communicate marketing information to you we will seek your prior consent where required to do so by law.
+==========
+D – How long do we keep the personal data of our business contacts?
+We will keep and process your personal data only for as long as is necessary for the purposes for which it was collected.
+We will keep your personal data for the duration of our business relationship and once it ends, we will delete it securely unless there is a legal requirement for us to keep it for longer or the data is necessary for the establishment, exercise or defence of legal claims.
+==========
+3.4 Visitors to Our Premises
+A – Sources of personal data
+B – Personal data that we collect and process
+C – Why do we collect your personal data and what are our lawful bases for it?
+D – How long do we keep your personal data?
+A – Sources of personal data
+We may obtain your personal data from you directly via registration and CCTV placed at our offices.
+==========
+B – Personal data that we collect and process
+
+name;
+business contact details;
+organisation;
+image, from CCTV cameras at our premises.
+C – Why do we collect your personal data and what are our lawful bases for it?
+Visitors to our Premises
+
+
+We may use your personal data to:
+Our lawful basis for doing so is:  
+Our business purpose in doing so are:
+
+
+Security
+Legitimate Interest of MiQ
+Managing security, risk and crime prevention 
+
+
+Maintain records of visitors to our premises
+Management Reporting
+
+
+
+If you object to us using your personal data for these purposes, please contact our DPO as indicated in Section 2 above.
+D – How long do we keep the personal data of visitors to our premises?
+We keep our visitors’ personal data for as long as necessary to ensure security of our office visitors and as soon as it is no longer necessary.
+CCTV footage is stored in back-up for 30 days, unless there is a legal requirement for us to keep it for longer or the data is necessary for the establishment, exercise or defence of legal claims.
+4.
+==========
+WHO DO WE SHARE YOUR PERSONAL DATA WITH
+We do not sell your personal data to third parties.
+MiQ’s Affiliates
+We may share your personal data with MiQ’s affiliates (see the list in Annex 1).
+Our Partner Organisations and Service Providers
+We may disclose information about you to organisations that provide a service to us, on the understanding that they will keep the information confidential and will comply with the GDPR and other relevant data protection laws.
+We may share your information with the following types of service providers:
+
+technical support providers such as Appnexus & Google who assist with placement of cookies, collection of data from them and IT infrastructure;
+providers that help us generate an ad image and content and collate information on viewing the ad on the web such as Sizmek, Jivox & Appnexus;
+ad verification partners, in particular Integral Ad Science (IAS), that help us to verify that users are genuine and not fraudulent ‘bots’ through analysis of browsing information they have on your IP address, which ensures that the data we rely on to cater to user preferences is not distorted by false inputs;
+professional advisers such as solicitors, accountants, tax advisors, auditors and insurance brokers; and/or
+third party software providers, including ‘software as a service’ solution providers, where the provider hosts the relevant personal data on our behalf;
+providers that help us store, collate and organise information effectively and securely, both electronically and in hard copy format, and for marketing purposes.
+Company Mergers and Takeovers
+We may transfer your personal data to potential purchasers and their advisors, subject to appropriate confidentiality obligations, in the event we decide to dispose of all or parts of our business.
+5.
+Transfers of personal data outside the EU/European Economic Area
+If and when transferring your personal data outside the EEA, we will only do so using one of the following safeguards:
+
+the transfer is to a non-EEA country which has an adequacy decision by the EU Commission;
+the transfer is covered by a contractual agreement, which covers the GDPR requirements relating to transfers to countries outside the EEA;
+the transfer is to an organisation which has Binding Corporate Rules approved by an EU data protection authority; or
+the transfer is to an organisation in the US that is EU-US Privacy Shield certified.
+International transfers between MiQ affiliates are governed by EU Commission-approved Standard Contractual Clauses for Controllers and, where relevant, for Processors.
+==========
+We may also transfer your data to third-party vendors outside the EU, such as our customer relationship management systems providers and partner organisations.
+Where we do so, the Standard Contractual Clauses or other safeguards approved by the European Commission are in place to safeguard that personal data.
+You may request a copy of these agreements by contacting our DPO as indicated in Section 2 above.
+6.
+==========
+Your Rights
+The GDPR provides you with certain rights in relation to the processing of your personal data, including to:
+
+Request access to personal data about you (commonly known as a “data subject access
+request”).
+This enables you to receive a copy of the personal data we hold about you, and to check
+that we are lawfully processing it.
+Request rectification, correction, or updating to any of the personal data that we hold about
+you.
+This enables you to have any inaccurate information we hold about you corrected.
+==========
+Request personal data provided by you to be transferred in machine-readable format (“data
+portability”).
+Request erasure of personal data.
+This enables you to ask us to delete or remove personal data
+where there is no good reason for us continuing to process it.
+You also have the right to ask us to delete or
+remove personal data where you have exercised your right to object to processing (see below).
+Request the restriction of processing of your personal data.
+==========
+This enables you to ask us to
+suspend the processing of personal data about you (e.g. if you want us to establish its accuracy or the reason
+for processing it).
+Object to the processing of your personal data in certain circumstances.
+This right may apply
+where the processing of your personal data is based on the legitimate interests of MiQ or our clients, as
+explained in Section 3 ‘Categories and Sources of Personal Data and Purposes and
+Lawful Basis for Processing’ above, or where decisions about you are based solely on automated
+processing, including profiling.
+These rights are not absolute and are subject to various conditions under applicable data protection and privacy legislation and other relevant legislation.
+If at any time you decide that you would like to exercise any of your rights as set out above, please contact our DPO as indicated in Section 2 above.
+==========
+Annex 1 – MiQ Affiliates
+
+MiQ Digital USA inc.
+MiQ Digital Canada inc.
+MiQ Digital Singapore PTE Ltd
+MiQ Digital Australia PTY Ltd
+Media iQ Digital India Pvt Limited
+
+PRIVACY NOTICE RELATING TO ONLINE USERS OUTSIDE OF THE EU
+Effective Date: 25 May 2018
+
+Summary
+Information we collect
+How we use your information
+Our choices
+Retention
+Confidentiality & security
+Miscellaneous
+Changes
+Memberships
+
+Summary
+
+
+
+Below is a summary of key terms applicable to user privacy:
+
+
+Information NOT Collected – PII
+We do not collect personally identifiable information (data collected with an intention to
+identify and contact a person such as name, address, telephone number or e-mail address) (hereinafter
+“PII”).
+==========
+Information Collected – Non-PII
+The non-personally identifiable information we collect may include as an example, IP address,
+browser types, operating systems, domain names, access dates and times, referring website addresses, online
+transactions and browsing and search activity.
+How Used
+We may use your Non-PII (“Information”) for the following general purposes: improved targeting
+and optimisation to deliver more relevant advertisements.
+Sharing Your Information
+We may share your Non-PII Information with third party service providers we have contracted
+with.
+Security
+We use reasonable and appropriate security measures to protect your Non-PII data.
+Changes
+We may change the Privacy Policy at any time by posting the revised Privacy Policy on the
+Website and if such changes are material, a notice of the changes will also be posted along with the revised
+Privacy Policy.
+Retention
+For non-EU users, most of our Non-PII data is aggregated after 30 days, with some of it being
+held for a maximum of 2 years.
+==========
+Contact Us
+If you have any questions relating to the MiQ Digital privacy policy please email us at
+privacy@miqdigital.com.
+Information we collect
+Non-Personally Identifiable Information
+As part of our on-going efforts to deliver the most applicably targeted advertisements to our clients, MiQ Digital may collect and use log files, web beacons, cookies, device information, location information, and information available through other technologies, each as further defined below, to collect data from browsers and devices, advertiser sites, third party sites (“Sites”), and mobile applications.
+The Information collected is used to inform our propensity models, which are then used primarily for ad targeting purposes, and as otherwise noted below in the section titled “How We Use Your Information.”
+Such information enables us to determine which advertisements perform well, allows us to more effectively match advertisements and website content to your interests, assists us in improving the operation of our services, helps us to maintain the quality of our services, enhances our services to our business partners and clients and enables us to provide general statistics to our business partners and clients regarding use of MiQ Digital’s services.
+==========
+“Cookies” are files (e.g. HTTP cookies) that are stored on your Internet enabled device, which may include, for example, your computer, tablet, smartphone or other PDA.
+We may use Cookies for purposes that include estimating the total reach of an advertising campaign, as well as frequency of display.
+Cookies allow advertisers to determine with greater accuracy the composition of the audience they reach.
+==========
+Cookies are also used to improve the user experience online.
+They may be used to control the delivery of a series of advertisements to a web browser, to limit the number of times a web browser receives any one advertisement, and to provide users with more relevant advertising.
+There are two classes of Cookies based on how long they remain on your system: (i) “Session Cookies” are used only during your visit to the Sites and are erased once you close your browser, and (ii) “Persistent Cookies” can remain on your browser for up to 2 years from your last visit to the Sites (but more commonly 90 days) and enable us to remember you on subsequent visits to the Sites and provide more relevant content to you on such Sites.
+A useful resource on understanding Cookies may be found at http://www.allaboutcookies.org.
+==========
+“Device Information” is information we automatically collect and store related to the device used when you visit Sites and mobile applications, including the type of device you are using (e.g., an iPhone), certain device identifiers that are unique to the device you are using, and your internet service provider.
+“Location Information” is information acquired from your device’s global position system (GPS) signal, WiFi networks proximately accessible to your device, nearby cell towers, and other available location data.
+When you use location enabled services on a Site or mobile application with location-enabled services, this type of information may be made available to us.
+==========
+“Other Technologies Information” relates to information that is now or may in the future become available through new technologies and the non-PII related information you share or otherwise make available.
+How we use your information
+Information Used and Shared by MiQ Digital
+MiQ Digital will only use the Information we collect about you for the limited purposes provided for in this Privacy Policy.
+This includes using and sharing Information (1) to deliver or assist our clients in delivering targeted ads to potential customers or other individuals; (2) to enable third party service providers to assist or facilitate in the services we provide to our clients; (3) to comply with applicable laws and regulations or to respond to a subpoena, search warrant or other lawful request for information received by us, whether or not a response is required by applicable law; (4) to enforce our terms of use or to protect our rights ; (5) to protect the safety of members of the public and users of the service; (6) with other MiQ Digital entities, affiliates, and third party marketing partners (including advertisers and publishers) for marketing purposes; (7) with vendors, administrative service providers, technology providers, and carefully selected partners for data validation, enhancement, information verification and suppression services; and/or (8) for any other purpose for which you provide consent.
+We also may share Information with advertisers, publishers and other third parties for marketing purposes, but such Information does not include PII.
+When targeting advertising campaigns on behalf of our clients, we may or may not choose to target users based on their Non-PII.
+This includes, but is not limited to, IP host address, the date and time of activity online, the pages viewed, browser type, referring URL, Internet Service Provider and operating system.
+We do not collect PII such as name, address, phone number, email address, credit card information, financial account information, or anything else that can personally identify individuals on behalf of our clients.
+==========
+Our use of Non-PII when targeting advertising campaigns is to ensure that MiQ delivers the most appropriate and tailored ads to audiences online.
+Advertising campaigns delivered on behalf of our clients may include “interest-based” ads, which utilize Non-PII we have collected or received about your activities and interests across your linked devices or in connection with a single online action, such as visiting a particular website.
+This type of interest-based advertising is sometime referred to as “retargeting.”
+In connection with this type of interest-based advertising, we may use propensity models to predict users that may be interested in certain categories or “segments.”
+==========
+For instance, if you have recently visited a real estate website and a mortgage website, you may be placed in a “prospective homebuyer” segment, which may result in advertisers interested in this segment, such as a real estate broker, to show you, along with others in that segment, ads related to their offerings.
+In some cases, we may use Non-PII, non-sensitive, health-related topics, such as data related to visiting websites about acne or dry eyes, to create segments which our advertisers may use to retarget the users in that segment.
+We create propensity models and use said models for targeting or retargeting.
+These segments are created using algorithms to identify the set of consumer (non-health) variables most highly correlated with the profile of individuals with the specific health condition.
+No health data is ever used in the application of the models, making the approach HIPAA-compliant and privacy-safe.
+Clic here for a full list of the standard interest segments for interest-based advertising that are based on health-related information or interests used by MiQ Digital in performing its services.
+==========
+Information Collected by Third Party Sites
+Please be aware that the websites and mobile applications of our advertiser clients, as well as the websites and mobile applications on which we place advertisements either on our own behalf or on behalf of our clients, or any third party websites or mobile applications linked to one of our Sites or with which have agreed to place a cookie on their site on our behalf or on behalf of our advertiser, may collect Non-PII information from you.
+Such information may include non-personally identifiable information through the use of Cookies and other technology (as described above), and with respect to third party sites and mobile applications, any personally identifiable information you may choose to give in registering and transacting with such website.
+This data, excluding PII, may be combined with data collected by MiQ Digital and used for ad targeting purposes.
+YOUR CHOICES
+Web Browser Opt-Out
+MiQ serves cookies, and works with partners to serve cookies, in order to provide relevant advertising.
+View the chart below for opt-out options for MiQ targeting.
+==========
+Please note that opting out does not block ads, rather it stops tracking.
+Alternatively, visit youradchoices.com
+If you have multiple internet browsers or users on the same computer or device, you will need to perform the optout operation for each browser, device and/or user.
+If you or your privacy software deletes the opt-out Cookie from your computer, browser or device, you will need to repeat the process.
+Mobile Application Opt-Out
+Mobile devices allow users to opt-out of the collection of usage information within their mobile apps.
+To opt out of personalised interest-based advertising on your mobile device(s), please take the following steps:
+On Android devices, go to Settings, and then select the option Google.
+On the resulting screen select Ads, and you will see the option to opt out of ads personalisation.
+On Apple devices, go to Settings, and then select the option Privacy.
+On the resulting screen select Advertising, and you will see the option to turn on limited ad tracking.
+==========
+Location Opt-Out
+By updating the location preferences on your device, or by updating the settings for individual apps, you can block the collection of location data.
+Multiple Device & Browser Opt-Out
+We may use cross-device mapping services in order to link devices that belong to the same user or household.
+Users can opt-out of the collection of information for each device and browser by taking the steps mentioned above (i.e. opt-outs are not effective across multiple devices, even if said devices are linked for advertising purposes).
+However, opting out of the collection of information for one device or browser will not result in you being opted-out of the collection of information for other devices or browsers.
+==========
+As such, you may need to opt-out of multiples devices and browsers.
+Please note that use of the opt-out Cookie will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement.
+Please report any problems related to the opt-out process, or any complaints with regards to online behavioural advertising data and its use, to privacy@miqdigital.com.
+RETENTION
+We retain Non-PII for use to more effectively match advertisements and website content to your interests.
+Most of this data is aggregated or deleted after 30 days; some data may be retained for up to 2 years in a less accessible infrastructure, not used for targeting purposes.
+==========
+CONFIDENTIALITY AND SECURITY
+We maintain physical, electronic and procedural safeguards that comply with applicable law to guard your information.
+While we take precautions against possible breaches in our service and customer databases, no website or Internet transmission is completely secure.
+Accordingly, we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur.
+==========
+Your use of our service and our Sites and mobile applications is at your own risk.
+Your Representations
+YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND APPLICABLE SITE TERMS AND CONDITIONS.
+You also agree that you have provided notice to, and obtained consent from, any third party individuals whose Information you supply to us with regard to: (a) the purposes for which such third party’s Information has been collected; (b) the intended recipients or categories of recipients of the third party’s Information; (c) which of the third party’s data are obligatory and which data, if any, are voluntary; and (d) how the third party can access and, if necessary, rectify the data held about them.
+==========
+MISCELLANEOUS
+Children’s Privacy
+MiQ Digital is very sensitive to the issue of the privacy rights for children.
+We comply with the Children’s Online Privacy Protection Act (COPPA).
+For more information about COPPA and children’s privacy, please click here.
+When we use the term “parent” below, we mean to include legal guardians.
+MiQ Digital Sites, mobile applications and services generally are neither developed for, nor directed at, children.
+MiQ Digital does not knowingly collect, use or disclose personal information or PII from children under the age of 13 without prior parental consent or in accordance with applicable law.
+==========
+Contacting MiQ
+If you should have any questions about this privacy policy or our information collection, retention, use and sharing practices, please contact us at privacy@miqdigital.com.
+CHANGES
+As the standards governing Internet privacy continue to evolve, MiQ may find it appropriate or necessary to update this Privacy Policy from time to time.
+As a result, we reserve the right to change this privacy policy at any time and shall post such changes on the Website.
+Our Website will state the date the Privacy Policy was last updated.
+We encourage you to review the Privacy Policy whenever you use this Website to make sure you understand how your information will be used.
+If we materially change how we use your Information, we will notify via a prominent notice on the Website prior to implementing the change.
+==========
+MEMBERSHIPS
+EDAA
+MiQ adheres to the EDAA principles.
+NAI
+The Network Advertising Initiative (“NAI”) is an association of online advertising companies committed to responsible business and data management practices.
+MiQ Digital USA Inc is a member of the organization, which means our services and products adhere to the NAI Self-Regulatory Code of Conduct, which includes standards restricting the use of sensitive data, as defined therein.
+In accordance with the NAI Self-Regulatory Code of Conduct, we do not use sensitive health data, such as sexually-related areas, cancer, and mental-health related conditions, to target ads to users.
+Additionally, we do not use or permit others to use sensitive data for purposes of determining eligibility for employment, credit, health care eligibility, or insurance, including with respect to underwriting and pricing.
+To go directly to NAI’s opt-out tool, click here.
+TAG
+TAG is a cross-industry accountability program to create transparency in the business relationships and transactions that underpin the digital ad industry.
+==========

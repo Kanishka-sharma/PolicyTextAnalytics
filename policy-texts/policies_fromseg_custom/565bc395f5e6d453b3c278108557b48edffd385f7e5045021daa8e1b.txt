@@ -1,0 +1,137 @@
+With this Privacy Policy, Semasio GmbH presents information about the processing of personal data for the website www.semasio.com as well as for the Semasio advertising targeting technology, the Semantic Targeting Platform (STP).
+The General Data Protection Regulation (GDPR) and the Californian Consumer Privacy Act (CCPA) set standards for data protection in Europe, in the US and in other locations.
+These laws specify precisely how personal data may be collected, saved, processed, transferred, or otherwise used.
+==========
+Semasio’s business model is in compliance with these rules.
+To ensure continuous compliance, Semasio closely follows the development of data protection regulation in Germany, in Europe, in the US and in the rest of the world and immediately reacts to any changes.
+Semasio runs the Semantic Targeting Platform (STP) which is a technology that turns website content and contacts with digital media users into data points.
+These contacts may be with Semasio’s own STP, or the data may be sourced from third parties.
+From these data points information is derived and stored using a cookie set in the user's browser for user identification.
+==========
+Semasio works with partners to deliver advertising based on this data.
+Semasio synchronizes and shares online identifiers ("Cookie IDs") with partners in order to communicate with audiences.
+Semasio only works with partner companies on a contractual basis and where the use of data is secure as described below.
+1.
+Who is responsible for the Semasio Semantic Targeting Platform and the Semasio.com website?
+==========
+Semasio GmbH
+CEO: Kasper Skou
+Hohe Bleichen 15
+20354 Hamburg
+Germany
+‍info@semasio.com
+‍
+Semasio has appointed an external data protection officer (DPO):
+Prof. Dr. Christoph Bauer
+ePrivacy GmbH
+Große Bleichen 21
+20354 Hamburg
+Germany
+‍
+For all requests concerning the security of your data, please contact our privacy team and data protection officer at privacy@semasio.com.
+If you have a particularly sensitive request, please contact our data protection officer by postal mail.
+2.
+==========
+What data do we collect and how do we use it?
+Semasio collects and stores so-called online identifiers relating to internet users (“Cookie IDs” or the mobile advertising identifiers "IDFA" or "Google AdID") and the URL addresses of websites connected to one of our data providers if an internet user visits that page or uses an application.
+We do not store any personally identifiable information (“PII”) like names, mail addresses, email addresses, or telephone numbers (though some of the information we collect may be considered “personal information” under applicable law in some jurisdictions).
+In particular, we only extract country-level information and do not store any IP addresses of devices used by internet users to access the Internet.
+==========
+We cannot combine information to gather PII beyond the cookie ID.
+Semasio uses this information to enable our customers to perform targeted online marketing campaigns via real-time bidding platforms.
+Lists of cookie IDs are sent via our data centers to real-time bidding platforms to deliver advertising campaigns to relevant users.
+We do not use the data for automated decision-making or profiling activities.
+In some cases, we transfer information to partners that are located outside of the European Union.
+For this, we have special contractual measures in place to ensure an adequate level of protection for your data.
+==========
+Semasio may identify the devices that are likely to be associated with you so that ads can be targeted, capped and sequenced across those devices.
+For example, cross-device matching helps us NOT show you ads for the shoes you were looking at on your phone but that you already purchased on your tablet.
+Instead we’ll try to show you ads for an upcoming triathlon where you can put those shoes to work.
+==========
+It also helps us match devices so we can honor your opt-out choices across all devices we know are connected to the opted-out cookie.
+However, potentially not all devices or browsers associated with you can be matched by Semasio.
+Therefore your opt-out choice might have to be performed per device or browser.
+==========
+In addition, we process contact data as well as the correspondence with and billing details of our existing and prospective customers.
+This data is collected via email and through the contact form on our website.
+Our website uses the Google Analytics service to obtain visitor statistics for the semasio.com website.
+This service is operated by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States and uses your IP address as well as cookies to provide us with information about how you use our website.
+Please refer to this link for more information and to this link to opt-out from being tracked by this service.
+==========
+Other third party services incorporated into the Website, such as social media widgets (e.g. the Twitter Share button), content hosting services or contact forms, may collect Personal Data about your visits to our Website for other purposes, including interest-based advertising.
+The Personal Data collected by third party services incorporated into the Website may include IP address, pages visited, times and dates of visits, browser or operating system configuration and other usage data, which may also be combined with Personal Data collected from other sites.
+Social media widgets are hosted by a third party.
+Your interactions with these applications are governed by the privacy statement of the company providing the application and/or service, and not by this Privacy Policy.
+More information:
+For Google Analytics, please visit: https://www.google.com/analytics
+For Hotjar, please visit: https://www.hotjar.com/legal/policies/privacy/
+For Hubspot, please visit: https://legal.hubspot.com/privacy-policy
+For LinkedIn, please visit: https://www.linkedin.com/legal/privacy-policy
+For Twitter, please visit: https://support.twitter.com/articles/20171365
+‍
+‍
+3.
+==========
+How do we secure your data and when is it deleted?
+Semasio protects the data of Internet users against any unauthorized access, use or disclosure.
+Semasio ensures that data will be stored in a controlled and safe environment, protected from unauthorized access and disclosure.
+Furthermore, Semasio has implemented technical and organizational measures to assure that all saved data is secured.
+Your data is being deleted automatically after 90 to 180 days, unless a longer retention period is required by applicable law.
+Customer data is deleted once both the contractual relationship and any applicable statutory storage periods have ended.
+4.
+==========
+How can you inform yourself about the data we have stored on you, and what other rights do you have?
+At any time and without having to give any reason, every internet user can request information about the personal data stored by Semasio at no cost, including the categories of third parties to which Semasio has sold, any data about you and the reasons Semasio has collected data about you.
+The request for information can be accessed via the following page:
+‍
+Right for Information
+‍
+In addition, and subject to certain conditions in some cases, you have the right to request access to and rectification or erasure of your personal data, to restrict or object its processing as well as the right to data portability, to withdraw consent at any time with regard to the future, and to lodge a complaint with a supervisory authority.
+The provision of your personal data is voluntary, except where otherwise noted.
+==========
+Metrics on opt out and information requests under CCPA can be accessed via the following page: CCPA Metrics
+‍
+‍
+5.
+How can you opt out of advertising tracking?
+If any Internet user does not want surfing behavior to be collected by the Semantic Targeting Platform (STP), we offer an “Opt-Out” option, following which Semasio will cease collecting and/or selling such data, all such data will be deleted, and the Internet user will no longer be exposed to personalized advertising connected to Semasio technology.
+If an Internet user has already opted out, the decision can be reversed on this website at any time by selecting the “opt-in” option.
+The opt-out can be accessed via the following page:
+‍
+‍Opt-Out
+‍
+If you are a user from the United States of America you can also call our number 833 3 OPTOUT (833 367-8688) to be directed to opting out from Semasio services.
+Metrics on opt out and information requests under CCPA can be accessed via the following page: CCPA Metrics
+‍
+‍
+6.
+==========
+What are cookies?
+“Cookies” are small files that enable Semasio to store information related to an internet user, on a personal computer or another device from visits to websites from Semasio’s partners.
+For example, cookies help to ascertain the frequency of use and the number of a website’s visitors in order to design offers and services as comfortable, efficient and interesting as possible for visitors.
+==========
+The cookie does not do any damage to the computer of the internet user and does not spy on personal information.
+In the browser settings, an internet user can deactivate or restrict the storage of cookies from defined websites.
+Furthermore, the browser can be set to inform the internet user as soon as a cookie is placed.
+==========
+An internet user can also delete cookies from the hard drive at any time.
+However, the use of certain services may not be possible if the browser does not allow session cookies.
+7.
+==========
+What is the legal basis for processing your information and under which terms do we cooperate with our partners?
+The Semasio Semantic Targeting Platform (STP) operates on the basis of user consent to store and process personal information, art. 6(1)(a) GDPR.
+Some of Semasio's partners might collect data in some jurisdictions under the basis of legitimate interest of providing services relating to online advertising under observance of all applicable laws.
+As a responsible company, Semasio also informs partners of relevant data protection regulation, and has detailed contractual agreements with partners.
+Specific business terms assure that data protection regulations are understood, openly communicated and followed.
+However, partners are themselves responsible for adhering to the applicable data protection requirements and usually have their own privacy policies.
+Semasio therefore does not take any responsibility and/or liability for this.
+For customer data, the legal basis is entering into and carrying out a contract with our customers, art. 6(1)(b) GDPR.
+The use of Google Analytics is based on the legitimate interest of obtaining visitor statistics for our website.
+8.
+==========
+Does Semasio support personalized advertising on sensitive health areas?
+Semasio does not support personalized advertising on sensitive health areas as defined by the NAI code of conduct (accessible via http://www.networkadvertising.org/) and regularly reviews segments created on the STP for compliance with the NAI code of conduct.
+Semasio does allow the creation of standard health segments (e.g. on non sensitive topics such as "Anti-Aging Products", "Cold and Flu", "Digestive Wellness", "Eye Care", "Hairloss", "Healthy Living", "Oral Care", "Personal Care", "Skincare", "Sleep Aid", "Stress Management", or "Vitamin Supplements").
+Semasio will change or update this Privacy Policy at any time in accordance with any new applicable data protection regulations or new relevant information achieved.
+Last update on June 26, 2020
+==========

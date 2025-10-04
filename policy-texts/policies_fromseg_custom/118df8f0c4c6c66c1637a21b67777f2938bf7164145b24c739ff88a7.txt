@@ -1,0 +1,768 @@
+PRIVACY POLICY
+Effective Date: February 13, 2020
+
+ABOUT US
+
+ruby Life Inc., a company located in Toronto, Canada, doing business as Ashley Madison in Canada and
+    the United States of America (US) (“ruby NA”) and Praecellens Limited, a company located in
+    Cyprus, doing business as Ashley Madison in all other jurisdictions (“Praecellens” and
+    collectively with ruby NA, “ruby”, "we", "our" or "us") is firmly committed to your privacy.
+Where you are a Canadian or US resident, ruby NA will be the organization collecting your personal data.
+Where you are a resident of any other jurisdiction, Praecellens will be the "controller" (or the equivalent thereof in your jurisdiction of residence) of your data.
+We are committed to the protection of your personal data and the transparency of our privacy
+    practices.
+This Privacy Policy sets out our practices related to the collection, use and sharing of your personal
+    data when you visit our websites or use our mobile applications (collectively, the "Platform"),
+    make use of the services available on the Platform (the "Services"), or otherwise
+    communicate or interact with us.
+To help us meet our commitment to you, we have appointed a Data Protection Officer in Europe (known as our Privacy Officer for the remainder of our global operations) to oversee our privacy practices and our compliance with this notice.
+If you have any questions or concerns regarding our policies and practices related to your information please use our Contact
+        Form, or you can contact our Data Protection Officer/Privacy Officer at dpo@ashleymadison.com or privacyofficer@rubylife.com, or by writing to: 
+
+● Where you are a Canadian or US resident, ruby Life Inc., PO Box 67027, Toronto, Ontario Canada M4P 1E4
+
+
+
+
+● Where you are a resident of any other jurisdiction, Praecellence Limited, 9 Karpenesiou Street, 2021 Nicosia, Cyprus.
+==========
+By accessing the Platform or using any of our Services, you accept this Privacy Policy and agree to
+    the terms, conditions and notices contained or referenced herein.
+Your use of our Platform or Services, and any
+    dispute over privacy, is subject to this Privacy Policy and our Terms and Conditions (https://www.ashleymadison.com/app/public/tandc.p).
+Please note that this Privacy Policy only addresses the use and sharing of information that we collect from you, or that is collected from you on our behalf.
+This Privacy Policy does not apply to any Personal Data (as defined below) that you may disclose to other parties through your use of the Platform, our Services or on other sites throughout the internet, including to or through third party sites that are hyperlinked from our sites.
+Except as we may otherwise indicate, any Personal Data that you disclose on a third party site will be subject to the privacy policy of that site.
+This Privacy Policy is current as of the Effective Date set forth above.
+==========
+In the event we intend to materially change any of our practices set out in this Privacy Policy, including if we intend to use your Personal Data for any purpose not expressly contemplated herein, we will provide you a minimum of thirty (30) days prior email notice of such change and obtain your consent to the extent required under applicable law.
+For users for whom we do not have a functioning email address, we will also post such changes to our sites 30 days before changes take effect; accordingly, such users should check for such changes periodically.
+Back to the top of this notice.
+OVERVIEW
+
+The following is a high-level summary of this Privacy Policy.
+==========
+Please read this Privacy Policy
+    carefully in its entirety before accessing the Platform or using the Services.
+⮚ Controller: Where you are a Canadian or US resident, ruby Life Inc., doing business as Ashley Madison, will be the organization collecting your personal data.
+Where you are a resident of any other jurisdiction, Praecellens Limited doing business as Ashley Madison will be the "controller" (or the equivalent thereof in your jurisdiction of residence) of your data.
+⮚ Information processed: We process different types of data from you in connection with your access to the Platform and use of the Services.
+==========
+In particular, we collect data when you register for the Services which can be attributed to you individually (for example, your email address, your location and demographic data).
+We also collect data automatically from your use of the Platform for example cookies and your IP addresses.
+For more information about the types of personal data we collect or process, click here.
+⮚ Usage: We use the data we collect from you for a number of different purposes which are described, click here.
+The main purpose is to facilitate your use of the Services.
+==========
+⮚ Disclosure: We disclose the data we collect from you in a number of different circumstances, including to our service providers to perform certain functions on our behalf in connection with our provision of the Services.
+Some of the recipients who we disclose your data to may be located in jurisdictions outside your location.
+For more information about who we disclose information to, click here.
+⮚ Security: We take the protection of your personal data seriously.
+For more information about how we protect your data, click here.
+⮚ Your Rights: Depending on where you are located, you will have various rights in relation to your data.
+For more information about your rights, click here.
+==========
+Back to the top of this notice.
+WHAT TYPES OF INFORMATION DO WE COLLECT?
+When you use the Platform and/or our Services, we collect and receive two types of data: 
+
+● data that, alone or in combination with other data, can be used to identify you ("Personal Data").
+For clarity, “Personal Data” includes any personal information, personal data or personally identifiable information as defined by the privacy or data protection laws in your jurisdiction; and 
+
+
+
+
+● non-personal data that cannot be used to identify you (for example, aggregated statistical data about the use of our website, or data about a particular user that does not include any identifying data) ("Non-Personal data").
+==========
+For clarity, Non-Personal data does not constitute Personal Data and any collection or processing of Non-Personal data is not subject to collection, use or disclosure practices contemplated by this Privacy Policy.
+Any disclosures regarding Non-Personal data made in this Privacy Policy are provided for informational purposes only.
+We collect and receive the following Personal Data and Non-Personal Data directly from you and
+    automatically through your use of our Services:
+
+● Data we will ask you for.
+⮚ When you create a profile on our Platform, you will be required to provide the following data.
+==========
+Without this data, we will be unable to create an account for you or provide the Services:
+
+
+
+create a username (a unique name of your choice) and a password,  
+contact information (for example, your email address), 
+
+your relationship status including what you are looking for from the Services (for example, if you are an attached male seeking females); and
+
+demographic information (your city of residence, zip/postal code and date of birth for the purpose of determining your age).
+⮚ When you make a purchase off our Platform you are contractually required to provide billing information including your name, address and details of your chosen payment method in order for us to be able to process your transaction.
+Failure to provide this information means we will be unable to provide the requested Service/feature.
+==========
+⮚ At your option, you may choose to activate 2-factor authentication for your account through Nexmo, a third party provider of a user authentication service.
+Nexmo’s service is based on providing you with a verification code, which you enter when logging into your Service in order to confirm your identity.
+Nexmo sends verification codes by text message to a telephone number that you provide.
+In order to facilitate your use of the Nexmo service, we will be required to share with Nexmo your telephone number in order to link it to your account with us, and will therefore ask for your phone number for this purpose.
+Note that the Nexmo service is not part of the Service, and is subject to separate terms and conditions, including different policies with respect to the collection, use and disclosure of your Personal Data.
+We do not have control over Nexmo.
+==========
+You will need to make your own independent judgment regarding your interaction with them.
+Please note that if you decide to delete your Ashley Madison account, we will delete your phone number from our records, but this will not effect Nexmo with respect to the phone number we provided to Nexmo on your behalf.
+You will need to contact Nexmo directly with respect to management of your Nexmo account, including any deletion requests.
+==========
+● Data that is generated when you use the Platform.
+⮚ You may send messages on the Platform which may include or reveal Personal Data about you.
+Generally, we do not moderate or actively review the data which you include in messages sent between users but this data is available to us and may be monitored for fraud, or where we suspect users of being under the age of 18, or of using our service for the purpose of solicitation or any other violation of our Terms and Conditions or this notice.
+You should only include sensitive Personal Data (e.g. about the health / sexual preferences) where you are comfortable to voluntarily make this data public and consent to us collecting/processing such data in accordance with this Privacy Policy.
+==========
+● Data you may choose to provide to us.
+⮚ While creating your profile, you may choose how much data you share with us.
+You will be offered the chance to upload/provide: 
+
+
+
+a photograph (we provide tools to allow you to blur or add masks to any photographs); 
+
+personal characteristics such as your height, weight, body type and gender (although you may choose to select "rather not say");
+
+if you reside outside the European Union, your ethnicity (although you may choose to select "rather not say"); and 
+
+a personal description.
+==========
+⮚ Once you create an account on the Platform, you may include additional details about yourself through the Manage Profile page such as: 
+
+
+
+details of any languages spoken; and
+details of smoking habits (although you may choose to select "not specified").
+⮚ You are encouraged to create a pseudonymous profile and are not required to include data in your profile that would allow you to be directly identified.
+If you want to remain anonymous to the general public, please be careful about what you choose to share, especially if you upload photographs or choose a username which could allow you to be easily identified.
+==========
+● Data that will be collected automatically from your device.
+⮚ Where you have enabled the setting on your mobile device, with your permission, we will also collect your location data to help you identify other Platform members in your area who also have this feature switched on.
+You may turn off this feature through the location settings on your mobile device.
+We also collect your IP address which may reveal your general geographic location from your browser access to help us quickly and efficiently respond to inquiries and requests and help us protect against fraud.
+==========
+⮚ We also collect Personal Data through use of cookies and other tracking devices.
+For more information about how we use cookies and other tracking devices, click  here.
+● Data collected from third parties.
+⮚ Occasionally, we may receive Personal Data about you from third parties, such as from a credit card company or issuer with respect to a disputed charge, or from another user of the Services respecting a complaint about your activities while using the Services; however, we do not seek or purchase Personal Data about you from third parties.
+==========
+Back to the top of this notice.
+HOW DO WE USE YOUR INFORMATION?
+We use the Personal Data and Non-Personal Data that we collect for the following
+    purposes:
+
+
+to provide you with the Services, including:
+
+
+⮚ to provide you with access to a forum focused on open-minded and discreet relationships, where members can search for and connect with other like-minded individuals;
+
+⮚ to allow users to find other users’ profiles based on preferences or user location and to allow you to create a profile which will appear on your chosen website(s) and to promote that profile to other users of the Services;
+
+
+
+to maintain and improve our Platform
+        including improving the content and functionality of our Platform or customize the layout of our pages for each
+        individual member;
+    
+to tailor the content and information that we may
+        send or display to you, to offer location customization and personalized help and instructions, and to otherwise
+        personalize your experiences while using the Platform;
+    
+to conduct surveys and market research in order to
+        improve the Services;
+    
+with your consent or as permitted by law, to
+            communicate with you in connection with the Services including, for the purposes of informing you of
+        changes or additions to the Service, or of any our products and services we believe may be of interest to you; 
+    
+to detect and combat fraud, and better understand
+        how to protect your information;
+    
+to process your payments and to help resolve
+        payment disputes;
+    
+to deliver targeted advertising and promotional
+        offers to you from external companies that are of the highest relevance to your demographic profile; 
+    
+to manage your account and provide you with customer support;
+    
+to protect our own rights and interests, such as
+        to resolve any disputes, enforce our Terms and Conditions, or to respond to legal process;
+    
+to protect the rights and interests of users of
+        the site from other users that violate the law or our Terms and Conditions, such as in cases of harassment or
+        threats;
+    
+to comply with applicable law;
+to save your data, such as your user account,
+        registration, profile data and other data so you do not have to re-enter it each time you visit or use the
+        Services;
+    
+to offer more secure access to your account;
+to track your return visits to, and use of, the
+        Services in order to create aggregated usage statistics to help us better understand and optimize web usage;
+    
+to offer potential match recommendations to you,
+        based on your viewing history and search criteria; and
+    
+in connection with a potential sale of our business or assets and/or to
+        manage legal claims against us each of which are described in more detail below.
+Our users communicate with each other through on-site mail messaging and instant messaging.
+While we
+    do not, as a rule, moderate or monitor users' private exchanges, we reserve the right to do so if we suspect users
+    of being under the age of 18 or of using our service for the purpose of solicitation or any other violation of our
+    Terms and Conditions or Privacy Policy.
+As set out in further detail in our Terms and Conditions, submissions that
+    appear on the public area of the Platform may be moderated and, if necessary, we reserve the right to edit, delete,
+    remove or not use any communication on a public area of the Platform.
+We also use Non-Personal Data.
+For example, we may collect and analyze aggregated and/or
+    de-identified information to produce statistical data to help us improve our provision of the Services and manage
+    user activity across the Platform.
+==========
+The following only applies to users residing in the EU.
+We collect your data as a Data Controller when we have a legal basis to do so.
+The following legal
+    bases pertain to our collection of data: 
+
+● Our use of your Personal Data is necessary to perform a contract or take steps to enter into a contract with you.
+This applies to our processing activities described at 4A, 4G, 4N and 4P above.
+Where the information processed is a “special category of personal data” (known as sensitive data – in particular health information or information about your sexual preferences or ethnicity), we require an additional lawful basis which will be your consent.
+● Our use of your Personal Data is in our legitimate interest as a commercial organization to make improvements to our products and services and to expand our business.
+This applies to our processing activities described at 4B, 4C, 4D, 4H, 4M, 4Q (save where we need consent by local law) and for certain purposes in 4F and 4I.
+● Our use of your Personal Data is necessary to comply with a relevant legal or regulatory obligation that we have in particular, where we are required to disclose Personal Data to a court, tax authority or regulatory body in the event of an investigation.
+This applies to some purposes involved our processing activities described at 4E, 4F, 4J, and 4L.
+● Our use of your Personal Data is in accordance with your consent.
+This applies to our processing activities described at 4E, 4H, 4K, 4M, 4N and 4O (in each case where required by local law).
+==========
+Back to the top of this notice.
+HOW WILL WE SHARE YOUR INFORMATION?
+We may provide Personal Data to third parties in the following limited circumstances:
+
+● To trusted third parties to assist us in the provision of the Service and the operation of our business.
+⮚ We will share your Personal Data with third party service providers that we have engaged to perform services on our behalf, based on our instructions, such as to our parent, subsidiary or sister companies, or to advertising agencies, marketing agents, credit card payment processors, data processing and storage companies or organizations which provide administrative and support services to us.
+⮚ We limit our disclosure of your Personal Data to such third parties to that which is reasonably necessary for the purpose or service for which the third-party service provider is engaged.
+⮚ We also use contractual and other means to provide a comparable level of protection while the data is being processed by such third parties, including limiting such providers to using your Personal Data solely to provide us with the specific service for which those providers were engaged, and for no other purpose.
+You can obtain more information about our policies and practices with respect to the use of Personal Data by third party service providers by contacting privacy@ashleymadison.com.
+● To courts, regulators and law enforcement as required or permitted by law, including:
+
+
+
+⮚ to government bodies and law enforcement agencies, pursuant to warrant, order, subpoena or statutory requirement;
+
+
+
+
+⮚ in connection with any legal proceedings or prospective legal proceedings involving ruby; and
+
+
+
+
+⮚ to otherwise establish, exercise or defend our legal rights and protect against misuse of our Platform (including providing information to third parties for the purposes of fraud prevention and reducing credit risk), or to protect the personal safety and property or our users or the public as permitted by law.
+This means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions.
+● In the event of a sale or merger, including:
+
+
+
+⮚ as required, in connection with the sale, assignment, bankruptcy proceeding or other transfer of the business or a portion of the business of our Platform, including a corporate merger, consolidation, restructuring, sale of assets or other corporate change of our direct or indirect parent companies that affects us, as well as the insurance or securitization of our assets.
+==========
+In any such case, the recipient parties will be contractually required to keep the information confidential and use it only for the purposes of the transaction, or proposed transaction, in question.
+⮚ In the event a business transaction is completed, assignees or successors of our business or assets may use and disclose your Personal data, as obtained from ruby only for the purposes set out in this Privacy Policy, unless your further consent is obtained.
+We do not otherwise share, give, rent or sell your Personal Data to any third parties, unless you
+    give us additional consent to do so.
+You should be aware that some of your Personal Data will be provided to, or otherwise visible to, other users of the Service as part of the normal operation of the Service (as set out in the terms or description of the service).
+For example, your username, profile information and any information that you post to the Platform will be available to, and searchable by, other users of the Platform and Services.
+In the European Union, the lawful basis for this disclosure is voluntarily making the data public.
+If you are not comfortable making this data public, you can subscribe to our Hide Profile feature, which allows your profile to remain private and un-searchable.
+==========
+Other users of the Services, who may be located in any country in the world where our Services are
+    offered, may also receive notifications (on the Services, via email, or through device notifications) that promote
+    your profile, including your nickname and your profile photo.
+Please note that we cannot prevent the content you
+    post or share on our Platform or Services from being used by other users in a manner that may violate this Privacy
+    Policy, the law, or your personal privacy, or from being shared or disclosed by other users.
+We may disclose Non-Personal Data in a number of circumstances including to third party
+    advertisers.
+Back to the top of this notice.
+DATA TRANSFERS
+
+As we have a global business operation, your Personal Data will be transferred to recipients located
+    in jurisdictions outside your jurisdiction of residence, and that your profile will be accessible by users all over
+    the world.
+If you are concerned about this, you can stop using our Services at any time.
+These recipients include ruby Corp. (which is established in Canada) and many of our service
+    providers who are based in other countries.
+As a result, your Personal Data will be used, stored and/or accessed in
+    countries outside your jurisdiction of residence, including without limitation Canada and Cyprus.
+==========
+Some of these
+    jurisdictions do not have an equivalent level of data protection laws as those in your country however we will take
+    steps to ensure that the information receives the same level of protection as if it remained within your home
+    country.
+In particular, if you are a resident of the European Union, whenever we transfer your data outside of
+    Europe we will either: (a) ensure that the recipient is certified with the Privacy Shield Framework or that the
+    country is deemed adequate by the European Commission; (b) put in place Standard Contractual Clauses or (c) implement appropriate safeguards approved by the
+    European Commission to ensure an adequate level of protection in compliance with applicable data protection laws.
+You have a right to request details about the appropriate safeguard where this is documented (but it may be redacted
+    to ensure confidentiality).
+Back to the top of this notice.
+==========
+SECURITY
+
+We take the protection of your Personal Data seriously.
+We implement appropriate measures and take
+    steps to protect Personal Data against loss and theft as well as unauthorized access, disclosure, copying, use, and
+    modification using security safeguards, including physical, organizational and technological measures, commensurate
+    with the sensitivity of your Personal Data.
+Employees who have access to your Personal Data are made aware of the
+    importance of keeping it confidential.
+Where we use service providers who might have access to your Personal Data, we require them to have
+    privacy and security standards that are comparable to ours.
+We use contracts and other measures with our service
+    providers to maintain the confidentiality and security of your Personal data and to prevent it from being used for
+    any other purpose.
+Please be aware that no data security measures can guarantee complete security.
+You should also take
+    steps to protect against unauthorized access to your password, phone, and computer by, among other things, signing
+    off after using a shared computer, choosing a robust password that nobody else knows or can easily guess, relying on
+    two-factor authentication and keeping your log-in and password private.
+==========
+Back to the top of this notice.
+HOW LONG DO WE KEEP THE PERSONAL DATA WE
+            COLLECT?
+We keep your Personal Data for only as long as it is required for the purposes for which it was
+    collected, or as otherwise permitted by applicable law, after which we delete or de-identify your Personal data,
+    rendering it Non-Personal Data.
+==========
+In general, we retain your Personal Data for a period of time corresponding to a statute of limitation setting out the period during which legal claims may be filed in court.
+For example, we’ll retain your Personal Data during the statute of limitation period, to maintain an accurate record of your dealings with us and, as applicable, assert or defend against a legal claim.
+We automatically delete data where an account has been inactive (e.g. no messages sent etc.) for 18 months.
+As a general rule, we will hold purchase information for 6 months past account deletion to ensure that we can deal with any chargeback/payment penalties.
+However, in some circumstances we may retain Personal Data for other periods of time, for instance where we are required to do so in accordance with legal, tax and accounting requirements, or if required to do so by a legal process, legal authority, or other governmental entity having authority to make the request, for so long as required.
+==========
+Back to the top of this notice.
+CHILDREN
+
+The Platform and Services are not for use by children under the age of 18 years.
+Accordingly, we do
+    not knowingly collect, store, share or use the Personal Data of children under 18 years.
+If you are under the age of
+    18 years, please do not use this Service or provide any Personal Data, even if prompted by the website to do
+    so.
+Back to the top of this notice.
+==========
+YOUR RIGHTS 
+
+You have the ability to exercise the following rights:
+
+● Right to withdraw consent.
+⮚  You have the right to withdraw your consent at any time, subject to legal and contractual restrictions.
+For example, if you wish to opt-out of receiving electronic marketing communications, you can change your settings in your account on the website, use the 'unsubscribe' link provided in our emails, or otherwise contact us directly and we will stop sending you communications.
+Note that your withdrawal of such consent may limit your ability to fully use the Services.
+● Right of access, rectification and erasure.
+⮚ You have the right to request access to and obtain a copy of any of your Personal Data that we may hold, to request correction of any inaccurate data relating to you and to request the deletion of your Personal Data under certain circumstances.
+Please note that you can hide certain information visible to public users of the Platform at any time by going to the 'Manage Profile' or 'Account Settings' sections in your account.
+⮚ Where the Personal Data is processed by automatic means, you have the right to receive all such Personal Data which you have provided us in a structured, commonly used and machine-readable format, and also to require us to transmit it to another controller where this is technically feasible.
+● Right to restriction of processing.
+⮚ it, unless we have your consent or as otherwise required by law) where:You have the right to restrict our processing of your Personal Data (meaning we could only store 
+
+
+
+you contest the accuracy of the Personal Data, until we have taken sufficient steps to correct
+        or verify its accuracy;
+    
+where we no longer need your Personal Data for the purposes of the processing, but you require
+        such Personal Data for the purposes of a dispute, compliant or proceeding.
+==========
+● Right to object to direct marketing (including profiling).
+⮚ You have the right to object to our use of your Personal Data (including profiling) for direct marketing purposes, such as when we use your Personal Data to inform you of our promotions.
+⮚ You also have the right to lodge a complaint with the privacy commissioner with jurisdiction over your place of residence if you consider that the processing of your Personal Data infringes applicable law (although we ask you to try resolve any complaints with us first).
+If you would like to exercise any of these rights, please contact us using the contact information provided here.
+Back to the top of this notice.
+==========
+COOKIES AND OTHER TRACKING
+
+Where we have necessary permissions and consents in accordance with local laws, we use cookies, clear
+    GIFs, third-party analytics and other tracking mechanisms to track your use of our Platform and the Services.
+As you
+    use our sites or apps, these tracking mechanisms may automatically collect information such as: your IP address,
+    browser type and operating system; web pages you view; links you click; how you move through the Services and the
+    length of time you use the Services, or particular features or pages of the Services; and the referring URL, or the
+    webpage that led you to our Platform.
+We may combine this information with other Personal Data we collect about you
+    for statistical purposes, for measuring effectiveness of advertising, for fraud detection and in order to assist our
+    customer service representatives in responding to your inquiries.
+Provided we have obtained necessary permissions and consents in accordance with local laws, we use
+    these tools only to provide you with a more personalized user experience, to better understand your needs and
+    preferences, to provide you with content (including advertising) that is most relevant to you and to monitor trends
+    respecting the usage of our site and apps.
+==========
+Do-Not-Track.
+Currently, our systems do not recognize browser
+    “do-not-track” requests.
+You may, however, disable certain tracking as discussed in this section (e.g., by disabling
+    cookies or opting out of ad networks as described further in this section).
+Cookies.
+Cookies are small text files that are placed on your computer’s
+    hard drive, through your web browser, for record-keeping purposes.
+We might use cookies to uniquely identify your
+    browser/device/IP address, in order to help us to process your transactions and requests, to track aggregate and
+    statistical information about user activity, and to display advertising both on our Platform and on third-party
+    sites.
+==========
+The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting
+    new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+If you disable cookies some features of our Platform may not function.
+Further information may be found at www.allaboutcookies.org.
+==========
+Clear GIFs.
+Clear GIFs (a.k.a. web beacons, web bugs or pixel tags) are tiny graphics with a unique identifier, similar in function to cookies.
+In contrast to cookies, though, clear GIFs are embedded invisibly on web pages, not stored on your hard drive.
+==========
+These “images” are automatically loaded to your browser/device when you visit our website or open an html format email message from us, thereby letting us know if a certain page was visited or an email message was opened.
+Clear GIFs allow us to record simple user actions related to our websites and to email communications received from us, to help us determine the usage and effectiveness of our site and communications.
+We might use clear GIFs to track the activities of our visitors and app users, help us manage content, and compile statistics about usage.
+We and our third party service providers also might use clear GIFs in HTML e-mails to our customers, to help us track e-mail response rates, identify when our e-mails are viewed, and track whether our e-mails are forwarded.
+These can be blocked either by using a third party application such as Ghostery (https://www.ghostery.com), or, in the case of
+    emails, by changing your settings to prevent images from being downloaded (where your email client supports this
+    functionality).
+==========
+Third-Party Analytics.
+We also use automated devices and applications,
+    such as Google Analytics
+        (https://support.google.com/analytics/answer/6004245) (to opt out, go here
+        (https://tools.google.com/dlpage/gaoptout) ), and AppsFlyer (to opt out, go here
+        (https://www.appsflyer.com/privacy-policy/) to evaluate usage of our Platform and the Services we
+    provide.
+We use these tools to obtain aggregated statistical information about the use of our Services to help
+    us improve our services, performance and user experiences.
+These analytics providers may use cookies and other
+    technologies to perform their services, and may combine the information that they collect about you on our Platform
+    with other information that they have collected about you from your use of other sites.
+This Privacy Policy
+    does not cover the collection, use and disclosure of the tracking data collected by third party analytics providers:
+    for further information please see the relevant party's privacy policy.
+For a list of additional third party
+    analytics providers we may be using from time to time, please go here
+        (http://www.rubylife.com/analytics_providers).
+==========
+Third-Party Ad Networks.
+We may use third parties such as network advertisers to serve advertisements on our Platform and on third-party websites or other media, and to evaluate the success of our advertising campaigns.
+This enables us and these third parties to target your browser with advertisements for products and services in which you might be interested, based on inferences made from browser activity.
+Third-party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), and other tracking technologies to measure the effectiveness of their ads and to personalize advertising content to you.
+These third-party cookies and other technologies are governed by each third party’s specific privacy policy, not this one.
+In some situations, we may provide these third-party advertisers with limited information about users (e.g., IP address and basic demographic information solely for the purpose of reconciling payments for third party advertising), but we do not disclose details such as your name or contact information.
+You may be able to avoid targeted ads by certain ad networks by blocking cookies (see your browser’s “Help” menu for information on how to do this); however, our Platform may not work if you block or disable cookies.
+For a list of networks advertisers we may use, please go here
+        (http://www.rubylife.com/network_partners).
+For participating ad networks and providers of interest-based advertising, you may opt-out of receiving online behavioural advertising by click ingon the AdChoices icon located in the top righthand corner of any of our websites or in the ads placed on our sites, 
+reCAPTCHA.
+==========
+We use the reCAPTCHA service provided by Google Inc. (Google) to protect your submissions via internet submission forms on this site.
+This plugin checks if you are a person in order to prevent certain website functions from being abused by spam bots.
+This plugin query includes the sending of the IP address and possibly other data required by Google for the Google reCAPTCHA service.
+For this purpose, your input will be communicated to and used by Google.
+==========
+However, your IP address is previously truncated by Google within member states of the EU or in other states which are party to the agreement on the European Economic Area and is, as such, anonymized.
+Only in exceptional cases is a full IP address transmitted to a Google server in the USA and truncated there.
+On behalf of the operator of this website, Google will use this information to evaluate your use of this service.
+The IP address provided by reCAPTCHA from your browser shall not be merged with any other data from Google.
+This data collection is subject to the data protection regulations of Google.
+For more information about Google’s privacy policy, please visit https:www.google.com/intl/en/policies/privacy/.
+By using the reCAPTCHA service, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+==========
+Third-Party Links.
+Our Services may contain links to third-party websites.
+When you leave our websites and use the third-party website, that third-party website may collect your IP address
+    and other Personal Data, in accordance with its own privacy policy.
+Any access to and use of such linked websites,
+    and any Personal Data collected in connection therewith, is not governed by this Privacy Policy, but rather by the
+    privacy policies of those third-party websites.
+We are not responsible for the information practices of such
+    third-party websites.
+Back to the top of this notice.
+==========
+DIRECT MARKETING
+
+Where we have necessary permissions and consents in accordance with local laws, (a) we will send you
+    marketing information about our Platform and our Services, and about other products and services we offer where we
+    legitimately believe this may be of interest to you, and (b) this content will be personalized.
+Where you have
+    specifically requested marketing information from the partners that we work with or have expressly indicated that
+    you would like to receive details from other ruby Corp. group entities we will also send promotional offers.
+Depending on your marketing preferences, marketing may be carried out by email, push notifications or other electronic channels (see our Cookie Notice at Annex A for further details).
+If you change your mind, you can always choose to unsubscribe from receiving these marketing communications.
+You can do this by clicking the "unsubscribe" link on any of our emails, via the "Manage Profile" feature of the Platform or by contacting us.
+Back to the top of this notice.
+PROFILING  
+
+We use Personal Data that you provide in your user profile combined with certain algorithms and
+    machine based learning to improve our Platform search function and to present profiles to you which are more likely
+    to be of interest – in particular based on the demographic data of individuals with whom you interact in order
+    to present more profiles of other similar users that you appear to be interested in.
+==========
+You can elect to change your
+    preferences at any time on your profiling.
+This does not amount to "automated decision making" which would have any
+    significant impact on you.
+Back to the top of this notice.
+==========
+ACCESS AND UPDATES
+
+You have the opportunity to (i) opt-out of certain communications, (ii) modify/update Personal Data
+    you have provided to us, and (iii) hide certain information visible to public users of the Platform at any time by
+    going to the 'Manage Profile' or ‘Account Settings’ sections on your profile.
+Please be aware that it may take several hours for any custom changes you make to take effect on the
+    public areas of the system.
+Please also note that changing or deleting your information through the 'Manage Profile'
+    or ‘Account Settings' section of the system, or opting-out of email notifications from us, will only change or
+    delete the data in our database for the purpose of future activities and communications.
+==========
+Back to the top of this notice.
+CONTACT US
+
+If you have any questions or concerns regarding our policies and practices related to your
+    information, please use our Contact Form or contact our Data Protection Officer/Privacy Officer at dpo@ashleymadison.com  or privacyofficer@rubylife.com, or by writing to: 
+
+● Where you are a Canadian or US resident, ruby Life Inc., PO Box 67027, Toronto, Ontario Canada M4P 1E4
+
+
+
+
+● Where you are a resident of any other jurisdiction, Praecellens Limited, 9 Karpenesiou Street, 2021 Nicosia, Cyprus.
+As noted  above, subject
+    to certain restrictions required or permitted by law, you have the right to access Personal Data we hold about you
+    and to have any concerns you may have over our policies and practices addressed.
+In addition, you have the right to
+    obtain information regarding our policies and practices as they relate to the collection, use and disclosure of
+    Personal Data, including with respect to the transfer and storage of your information outside your home
+    jurisdiction, and to request updates to, or correction of, your Personal data.
+For any such requests, or any questions related to our privacy practices or any of the terms or
+    conditions of this Privacy Policy, or if you wish complain to us in writing about how we have handled your Personal
+    Data, you may contact us at privacyofficer@rubylife.com.
+All other inquiries, which do not relate to privacy issues or concerns, should be sent using our Contact Us
+        (https://www.ashleymadison.com/app/public/contactform.p) section.
+==========
+We aim to resolve all complaints promptly.
+For residents of the European Union, if you are not
+    satisfied with any resolutions proposed, or if you have concerns with processing of data, you may contact your local
+    data protection authority, a list of which is found here.
+https://edpb.europa.eu/about-edpb/board/members_en.
+==========
+Back to the top of this notice.
+IMPORTANT ADDITIONAL INFORMATION FOR
+            CALIFORNIA RESIDENTS 
+
+This section provides information for California residents.
+Pursuant to California privacy laws, including the California Consumer Privacy Act (“CCPA”),  we provide California residents information about how we collect and process your Personal Information.
+Categories of Personal Information that We Collect, Disclose, and Sell 
+At ruby, we only collect and process the same Personal Data of California residents, as we collect from our users throughout the world for the purposes of allowing you to use our Services.
+This information is set forth at Sections 2-5 of this Privacy Policy.
+For a California specific explanation of the categories of Personal Data we collect and how we use that Personal Data, please refer below to find the categories Personal Data.
+Personal Information of California Residents Categories Collected, Processed, Shared with Third
+    Parties
+
+
+
+
+Categories of personal information 
+
+Do we collect?
+==========
+Do we disclose for business purposes?
+Do we sell?
+Sold or Disclosed for a business or commercial purpose in the prior 12
+                    months?
+==========
+NAME, CONTACT INFORMATION AND IDENTIFIERS:
+                    Identifiers such as name, nickname, postal address, unique personal identifier, online identifier,
+                    Internet Protocol (IP) address, email address, account name, user name, passwords.
+YES
+YES
+NO
+We may disclose this information to our payment processors for the
+                    following business purposes: 
+
+
+● To prevent credit card fraud
+
+● To respond to chargeback claims
+
+●  To process customer refund inquires
+
+
+
+We may use one’s IP address for fraud detection and data security
+
+
+CUSTOMER RECORDS: Paper and electronic customer
+                    records containing personal information, such as name, physical characteristics or description, address,
+                    telephone number, bank account number, credit card number.
+YES
+YES
+NO
+We may disclose this information to our payment processors for the
+                    following business purposes: 
+
+
+● To prevent credit card fraud
+
+● To respond to chargeback claims
+
+●  To process customer refund inquires
+
+
+
+
+
+PROTECTED CLASSIFICATIONS: Characteristics of
+                    protected classifications under California or federal law such as Race, sex, age.
+==========
+YES
+YES
+NO
+
+
+● We may disclose age groups/range segment conversion data to certain performance marketing campaigns to confirm payment-qualifying transactions.
+● Users must identify their gender in order to use the service and for the purpose of being presented with profiles of other users 
+
+
+
+
+● Users may choose to provide other information such as their race to better describe themselves to other users of the service.
+PURCHASE HISTORY AND TENDENCIES:  Commercial information, including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+NO
+YES
+NO
+We may disclose this information to our payment processors for the
+                    following business purposes: 
+
+
+● To prevent credit card fraud
+
+● To respond to chargeback claims
+
+●  To process customer refund inquires
+
+
+
+
+
+BIOMETRIC INFORMATION: 
+NO
+NO
+NO
+NO
+
+
+USAGE DATA: Internet or other electronic network
+                    activity information such as usage of services, and information regarding a resident’s interaction with
+                    an internet website, application, or advertisement.
+YES
+YES
+NO
+We may disclose this information to our payment processors for the
+                    following business purposes: 
+
+
+● To prevent credit card fraud
+
+● To respond to chargeback claims
+
+●  To process customer refund inquires
+
+
+
+
+
+GEOLOCATION DATA: City of residence.
+==========
+YES
+NO
+NO
+NO
+
+
+AUDIO/VISUAL: Audio, electronic, visual, thermal,
+                    olfactory, or similar information.
+NO
+NO
+NO
+NO
+
+
+EMPLOYMENT HISTORY: Professional or
+                    employment-related information.
+NO
+NO
+NO
+NO
+
+
+EDUCATION INFORMATION: Not collected.
+NO
+NO
+NO
+NO
+
+
+PROFILES AND INFERENCES: Inferences drawn from any
+                    of the information identified above to create a profile about a resident reflecting the resident’s
+                    preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence,
+                    abilities, and aptitudes.
+YES
+NO
+NO
+No, but information you include in your profile will be visible ot other users of the applicable site (as contemplated in this Privacy Policy).
+==========
+If you would like to exercise any of these rights, please contact us using the contact information
+    provided in Section 15.
+California Residents’ Rights
+California law grants California residents certain rights and imposes restrictions on particular
+    business practices as set forth below.
+Do-Not-Sell.
+==========
+We do not sell your Personal Data.
+Verifiable Requests for Copy, Deletion and Right to Know.
+Subject to
+    certain exceptions, California residents have the right to make the following requests, at no charge, up to twice
+    every 12 months:
+Right of Deletion: California residents have the right to request
+    deletion of their Personal Data that we have collected about them, subject to certain exemptions, and to have such
+    Personal Data deleted, except where necessary for specific purposes exempt under the law.
+Right to a Copy: California residents have the right to request a copy of the specific pieces of Personal Data that we have collected about them in the prior 12 months and to have this delivered, free of charge, either (a) by mail or (b) electronically in a portable and, to the extent technically feasible, readily useable format that allows the individual to transmit this information to another entity without hindrance.
+Right to Know: California residents have the right to request that we
+    provide them certain information about how we have handled their personal information in the prior 12 months,
+    including the: 
+
+• categories of Personal Data collected;
+
+• categories of sources of Personal Data;
+
+• business and/or commercial purposes for collecting and selling their Personal Data;
+
+• categories of third parties/with whom we have disclosed or shared their Personal Data;
+
+• categories of Personal Data that we have disclosed or shared with a third party for a business purpose;
+
+• categories of Personal Data collected; and
+
+• categories of third parties to whom the residents’ Personal Data has been sold and the specific categories of Personal Data sold to each category of third party.
+==========
+Submitting Requests.
+Requests to exercise the right of deletion, right to a copy, and / or the right to know may be submitted by contacting Customer
+        Service.
+We will respond to verifiable requests received from California consumers as required by law.
+==========
+Incentives and Discrimination.
+The CCPA prohibits discrimination against California residents for exercising their rights under the CCPA and imposes requirements on any financial incentives offered to California residents related to their personal information.
+Discrimination: We respect your privacy rights.
+==========
+We do not discriminate against residents who exercise their rights under CCPA.
+California Privacy Rights under California’s Shine-the-Light Law
+Under California’s “Shine the Light” law (Cal.
+Civ.
+==========
+Code § 1798.83), California residents who provide us certain Personal Data are entitled to request and obtain from us, free of charge, information about the Personal Data (if any) we have shared with third parties for their own direct marketing use.
+Such requests may be made once per calendar year for information about any relevant third party sharing in the prior calendar year.
+California residents who would like to make such a request may submit a request in writing (see Section 15 “Contact Us” for ways to reach us).
+==========

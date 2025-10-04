@@ -1,0 +1,9 @@
+Use of Data
+When you use an EA Service, EA may collect and store data from your computer or device, including information about your computer or device and operating system (such as IP Address and device ID), information about your EA Service usage, gameplay and usage statistics, system interactions and peripheral hardware (for example, to protect your game stats, EA may place a randomly generated identification number in the keychain storage of your device.
+That identifier will be removed when you reset your device).
+If you play an EA Service offline, this data will be stored on your device and transmitted to EA when your device connects to the Internet.
+==========
+EA uses this information to operate its business, improve its products and services, provide services to and communicate with you (including for marketing purposes), provide software updates, dynamically served content and software support, and trouble-shoot bugs or otherwise enhance your experience.
+If you participate in online services, EA also may collect, use, store, transmit and publicly display statistical data regarding game play (including scores, rankings and achievements), or identify content that is created and shared by you with other players.
+Your data is collected, used, stored and transmitted by EA Inc. in the United States, in accordance with EA's Privacy and Cookie Policy at privacy.ea.com.
+==========

@@ -1,0 +1,27 @@
+AddToAny doesn't sell personal data.
+We do our best to preserve privacy by limiting what we collect.
+What kind of data is collected?
+==========
+Typical server log information, including:
+URL requested on our domain
+Referring URL
+IP address (anonymized)
+Browser, language, and operating system used
+Browser cookies on our domain
+Time and date
+Typical browser information, such as URL, title, and related metadata.
+We anonymize a user IP address by zeroing the last octet (IPv4) or 80 bits (IPv6) before any logging.
+We use HTTP cookies on our domain only.
+==========
+We do not use unique user identifiers on sites across the web.
+We do not use personally identifiable information (PII) unless you provide it to us.
+For example, when you contact us, you can optionally provide your name and email address.
+==========
+How long is end user data retained?
+We retain server log data for 30 days or less, and keep only aggregate usage data.
+==========
+We do not retain server log data on static assets provided for use on sites across the web.
+What kind of data is shared?
+Non-PII may be shared with service providers and partners.
+For example, official buttons such as Facebook Like are served by Facebook under their privacy policy.
+==========

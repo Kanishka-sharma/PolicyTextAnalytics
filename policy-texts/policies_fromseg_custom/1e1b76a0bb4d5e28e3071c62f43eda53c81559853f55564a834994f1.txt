@@ -1,0 +1,91 @@
+We only set cookies if you tell us you are happy to allow them.
+This functionality is provided by the Optanon consent bar that appears at the top of the page when you first visit our site.
+About Cookies
+Cookies are small pieces of data are sent to and retrieved from your browser by a website.
+These cookies can be used to store and retrieve information about you or your device (computer, tablet or mobile) which are then mostly used to present you with a more personalised web experience, both on this site and others you visit.
+Almost all modern websites use cookies, and European privacy regulations require that your consent is obtained for the use of all cookies except those that are necessary for the site to provide you with information and services you request.
+==========
+Below is a detailed list of the cookies that may be used by our site if you choose to allow cookies.
+Compliance Cookie
+This cookie is placed if you click the Allow button in this message.
+It tells us you have given your consent to the use of cookies on our site and stops this message from displaying.
+Cookie IDs:
+CookieLawCompliance
+Essential Cookies
+These cookies are necessary for the website to function and cannot be switched off in our systems.
+==========
+They are usually only set in response to actions made by you which amount to a request for services, such as logging in or filling in forms.
+You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+These cookies do not store any personally identifiable information.
+==========
+Cookie IDs:
+ASP.NET_SessionId
+yourAuthCookie
+Performance Cookies
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+They help us to know which pages are the most and least popular and see how visitors move around the site.
+All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+==========
+We use the Google Analytics service for this purpose.
+Cookie IDs:
+__utma
+__utmb
+__utmc
+__utmz
+Social Sharing Cookies
+These cookies are set the social media services that we have added to the site to enable you to share our content with your friends and networks.
+These cookies are capable of tracking your browser across other sites and build up a profile of your interests.
+This may impact the content and messages you see on other websites you visit.
+However if you do not use these other services, then these cookies will not be set by our site.
+If you do not allow these cookies you may not be able to use or see these sharing tools.
+==========
+Cookie IDs
+Description
+__utma
+__utmb
+__utmc
+__utmv
+__utmz
+_twitter_sess
+auth_token
+auth_token_session
+external_referer
+guest_id
+js
+k
+lang
+original_referer
+secure_session
+twid
+twll
+Twitter Cookies
+These are cookies set by Twitter through our 'Cookie Tweets' feed and the 'Follow' button in the page footer.
+act
+c_user
+datr
+fr
+lu
+presence
+s
+xs
+Facebook Cookies
+These are Facebook Cookies that may be set if you use the Like or Message Send buttons in our page footer.
+__utma
+APISID
+BEAT
+HSID
+NID
+PREF
+S
+SAPISID
+SID
+SS
+SSID
+ULS
+Google Cookies
+These are Google cookies that may be set via the Google+1 button in our page footer
+If you have previously given your consent to cookies by clicking an 'Allow' button on the site, but would like to change your mind then you can do this by deleting the CookieLawCompliance cookie that we set to indicate consent.
+Deleting this cookie will prevent further cookies from being set on your device by our site.
+Different browsers provide different controls for deleting cookies, but if you want to find out how to do this on the most popular browsers, you can learn how to do this on Cookiepedia.
+==========

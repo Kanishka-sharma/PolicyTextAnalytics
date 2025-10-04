@@ -1,0 +1,198 @@
+Rockerbox, Inc. ("we", "our", and "us") offers a technology platform that helps marketers understand the value of various offline and online channels.
+For digital ads we do this by tracking media exposure (the users who saw an ad), media response (i.e., the users who clicked an ad) and conversion (i.e., the action a Client hopes a user will take - an online purchase, a registration, or similar).
+Rockerbox is committed to protecting your privacy.
+==========
+This Privacy Policy ("Policy") explains our privacy practices regarding the information that we collect, use, share, and secure from visitors to https://www.rockerbox.com, (our "Website"), our technology platform (the "Platform"), our services ("Services") and any information collected from those who use our Platform and Services (our "Clients").
+We collect information, including Personal Information, in various ways when you use our Website, and Services and when Clients leverage the Platform via their respective websites.
+As used in this Policy, "Personal Information" means any information which, either alone or in combination with other information, identifies you as an individual, such as your name, mailing address, and email address.
+INFORMATION COLLECTED VIA OUR WEBSITE AND FROM CLIENTS
+Information Collected Automatically When You Use Our Website and Services: Through the use of cookie technology, Web beacons or other technologies (as described below), we may track and collect information about your computer and software when you visit our Website.
+This information can include your IP address, domain server, type of computer, type of web browser, access times; and referring websites addresses.
+This information does not personally identify you.
+Among other things, this information assists us to design and arrange our web pages in the user-friendliest manner and to continually improve our Website and services to better meet the needs of our Clients and prospective Clients.
+==========
+Information You Volunteer: In order for you to access certain services and information that we offer via the Website or otherwise, we may require you to provide us with information that personally identifies you, such as your name, mailing address, email address and home and business telephone numbers ("Personal Information").
+If you communicate with us by email, or otherwise complete online forms, surveys, or the like, any information provided in such communication may be collected as Personal Information.
+Information We Collect When You Contact Us: When you contact our support team or communicate with us in any other way, we'll collect whatever information, files, materials, or data that you volunteer at that time.
+Information We Collect From Clients and Prospective Clients: When you become a Client, we will collect an email address and ask you to select a password so that you may login to our Platform.
+We may also ask you for your phone number, title, company address and similar information.
+==========
+We will also collect billing information.
+We will also collect information for current and prospective Clients to help us market our services to them and will provide options to opt-out of such communications within those communications as required by law.
+Before we use your Personal Information for a purpose that is materially different than the purpose we collected it for or that you later authorized, we will provide you with the opportunity to opt out of such use.
+For more information you may contact us at privacy@rockerbox.com.
+==========
+Cookies and other Tracking Technologies: Rockerbox employs cookies in order for its server to recognize a return visitor as a unique user.
+Cookies are small text files placed in the 'Cookies' folder on a visitor's hard disk and allow Rockerbox to remember the visitor.
+The cookies placed by Rockerbox's server are readable only to Rockerbox, and cookies cannot access, read or modify any other data on a computer.
+All web-browsers offer the option to refuse any cookie.
+If a visitor refuses the Rockerbox cookie, Rockerbox does not gather any information on that visitor, but doing so may require you to re-enter certain information at each visit, or prevent us from customizing the Website's features according to your preferences.
+You may also delete a cookie manually from your hard drive.
+For more information about cookies, please visit http://www.allaboutcookies.org/cookies/.
+How We Use Information Collected via the Website and from Clients
+Rockerbox may use your Personal Information to register you to use Rockerbox's services and/or products, contact you to deliver certain services, materials or information you may have requested (e.g., a request for information by clicking on our (i) "Contact Us" tab, or (ii) "Request a Demo" tab on the Website), verify your authority to enter into certain areas of the Website, improve the content and general administration of the Website and our services, provide you with notices regarding our services, and, with your permission, administer Client accounts as described above and provide you with updates and information about Rockerbox and its services.
+Generally, you will be given the opportunity to "opt-in" to receive Rockerbox newsletters, white papers or specific marketing material.
+==========
+We may also use information collected to monitor and analyze trends and track usage and user movement on the Website, develop, improve, and refine products, services, and functionality and gather broad demographic information for aggregate use (see below for more details).
+As with other sites and services, we may also use this information to prevent fraud or other unauthorized or illegal activity as well as to promote safety and security.
+In short, we reserve the right to use this information in order to carry out any other purpose for which the information was collected.
+==========
+INFORMATION COLLECTED VIA OUR TECHNOLOGY PLATFORM
+Overview of Data Collection via the Platform
+Rockerbox's Services include data collection, user mapping, and user path analysis - the results of which are delivered solely to our Clients in aggregated form.
+Data collection is a process that centralizes, cleans and normalizes data from each of the Client's marketing vendors and each source where a consumer engages in a desired behavior (for example: a purchase which occurs on a Client’s website).
+Our Clients, who are generally businesses seeking to market a product or service, use this information in order to help them optimize marketing programs.
+In order to provide the Services, Rockerbox works with Marketers, Marketing Vendors and Third Party Data Providers.
+Marketers: Rockerbox offers its services to digital marketers that advertise to consumers and may work with them directly or indirectly through an Advertising Agency they employ.
+Marketing Vendors: The companies that provide marketing services to Marketers.
+This may include digital marketing such as Search Engine Marketing, Email Marketing, Display Advertising or others.
+==========
+It may also include vendors that provide offline marketing such as for television, radio or mail.
+Third Party Data Providers: Rockerbox works with companies that assist in stitching user data together from disparate sources.
+For example, companies that provide offline purchase data for Marketers.
+What data does Rockerbox collect via the Platform?
+Our Platform receives data each time a Client's ad is viewed or clicked, including the following:
+A Unique ID - Our systems collect a pseudonymous unique identifier relevant to the source of data.
+For browsers this will be from a unique user id created by Rockerbox and placed into a cookie.
+On mobile devices, we use the mobile advertiser ID provided by the mobile O/S (i.e., the - Apple ID for Advertising (IDFA) or the Android Advertising ID (AAID).
+On a Connected TVs, we use the subscriber ID provided by the connected TV manufacturer.
+None of these IDs may be used by Rockerbox to identify an actual person, but they allow our Platform to unique identify a browser, computer, TV or mobile device over time.
+Ad serving and log file data - Our systems also obtain information about the ad that was served including ad campaign meta-data provided by the Client, the date/time the ad was served, the user agent and IP address (which helps us infer city, region or country), the referrer and the landing page URL of an ad clicked on.
+==========
+This information is only stored temporarily for testing purposes.
+Client provided data - In addition to the above information our Clients may provide us additional identifiable information about you including a unique user identifier created by each Client, your email, your address, the total amount spent on a purchase, whether or not you are a returning customer or other relevant dimensional data (e.g. a segment you belong to or relevant to an event completed on their site).
+How does Rockerbox use the data collected via the Platform?
+Rockerbox primarily uses the data collected about your browser or device to provide our Services, which include:
+User-path management - Our platform collects data about your browser or device over time to create what we call a "user path".
+A user path helps our Clients better understand whether their ads are engaging and driving users to visit their sites and/or purchase their products and services, among other things.
+User segmentation - Our Platform will collect "meta-data" over time which enables our Clients to place their users into profile segments such as "new customer" and "existing customer" which helps them better understand the effectiveness of their marketing programs.
+==========
+What Tracking Technologies does Rockerbox use on the Platform?
+Rockerbox collects data in various ways.
+Some Clients allow us to place tracking pixels and JavaScript tags onto their websites.
+In these cases, we use cookies to uniquely identify users over time as ads are viewed, clicked on and other actions performed on a Client's website.
+Other Clients simply pass data to us directly, or via their market vendor or third-party partner such as their ad server.
+==========
+We also engage in cookie syncing and other forms of ID synchronization.
+ID Synchronization occurs when Rockerbox provides known user identifiers to a 3rd party data provider who then identifies the user within their dataset and map their unique identifier to the identifier provided by Rockerbox.
+Rockerbox engages in ID synchronization with 3rd party data providers in order to identify users that Rockerbox thinks as separate users which that provider may know is the same user and to augment user path data; that is to add knowledge of non-digital media stimulation, media response and conversions to user paths.
+On a mobile device we will use cookies within a browser app or we will collect data through server-to-server (postback) integrations with individual application owners and the mobile analytics companies that they have integrated with.
+==========
+HOW WE SHARE INFORMATION WE COLLECT
+We do not share your personal information with third parties without your consent other than:
+Third Party Service Providers - With third party agents and service providers (e.g., email marketing providers, database vendors and survey vendors) who work on our behalf and use data only as directed by us, provided that such third parties subscribe to the Principles or provide at least the same level of privacy protection as required by the Principles;
+Marketing Analytics and Optimization - Rockerbox shares aggregated data collected via the Platform with Clients and their marketing partners in order to inform Client media plans and strategy.
+Lawful Requests - To comply with laws or to respond to lawful requests and legal process (provided that Rockerbox will endeavor to notify you if Rockerbox has received a lawful request for your information).
+Protection of Rights and Property - To protect the rights and property of Rockerbox, our agents, customers and others including to enforce our agreements, policies and our terms of service.
+==========
+Emergency - In an emergency, including to protect the personal safety of any person; and
+Corporate Restructuring - For the purposes of a business deal (or negotiation of a business deal) involving sale or transfer of all or a part of our business or assets (business deals may include, for example, any merger, financing, acquisition, divestiture or dissolution transaction or proceeding).
+In the event of an insolvency, bankruptcy, or receivership, Personal Information may also be transferred as a business asset.
+If another company acquires our company, business or assets, that company will possess the Personal Information collected by us and will assume the rights and obligations regarding your Personal Information as described in this Policy.
+We may transfer Personal Information to companies that help us provide our Services.
+Rockerbox is potentially liable for the onward transfer to third parties of Personal Information of EU and Swiss individuals pursuant to the EU-US and Swiss-US Privacy Shield programs, respectively.
+==========
+OUR SECURITY MEASURES
+Rockerbox maintains commercially reasonable administrative, technical, and physical safeguards to help protect the information we process in an effort to prevent loss, misuse, and unauthorized access, disclosure, alteration and destruction.
+We utilize encryption/security software to safeguard the confidentiality of Personal Information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.
+Once we receive your transmission, we make reasonable efforts to ensure security on our systems.
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure.
+As a result, while we strive to protect your Personal Information, we cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk.
+==========
+CHILDREN
+We do not intentionally gather Personal Information from visitors who are under the age of 13.
+If you are under the age of 13, you are not permitted to submit any Personal Information to us.
+If we learn that a child under 13 submits Personal Information to Rockerbox we will attempt to delete the information as soon as possible.
+If you believe that we might have any Personal Information from a child under 13, please contact us at privacy@rockerbox.com.
+==========
+THIRD PARTY WEBSITES, AD CHOICES AND CHOICES ABOUT THE PLATFORM
+Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you.
+Other websites accessible through our Website have their own privacy policies and data collection, use and disclosure practices.
+Please consult each website's privacy policy.
+We are not responsible for the policies or practices of third parties.
+We may allow third-party advertisers to serve ads and/or collect data from our Website.
+Some of those companies will use information about your visits to this Website and other websites in order to tailor advertising messages to you on this and other websites.
+This practice is sometimes called online behavioral advertising.
+For more information about this practice and to better understand the choices available to you, please visit http://www.aboutads.info/.
+==========
+A number of industry groups are attempting to develop a Do Not Track (DNT) standard.
+Currently, the standards regarding the DNT signals and appropriate responses are not defined.
+Accordingly, we do not assign a meaning to DNT signals.
+==========
+If you don't want the Rockerbox Platform to track you then you can opt-out by blocking our domain (or please click here if you'd like to opt-out from having Rockerbox collect your information in connection with our technology).
+Rockerbox stores cookies on the following domains: "getrockerbox.com" and "www.rockerbox.com" although we try not to place cookies collected via our Platform on browsers operated by EU data subjects.
+If you'd like your browser to restrict the cookies being set by our Platform, please click on the instructions below.
+==========
+- Chrome
+- Internet Explorer - v7 and v8, v9, v10 and v11
+- Safari - v8 (Yosemite) and v9 (El Capitan)
+- Firefox
+ACCESS RIGHTS, DATA RETENTION
+If you would like to access, change, suppress or otherwise limit our use and disclosure of your Personal Information that has been previously provided to us, you may contact us by sending an email containing your request to privacy@rockerbox.com.
+Retention Period.
+Except for the information collected via the Platform and Services, which is governed by the privacy policies of our Clients, we will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+You may request that we change or delete your Personal Information by following the instructions above.
+==========
+For EU Individuals: Your Rights under the General Data Protection Regulation
+Individuals located in the European Economic Area (“EEA”) are granted additional privacy rights under the General Data Privacy Regulation (“GDPR”).
+For example, an EU individual who seeks access, or who seeks to correct, amend, port over and/or delete inaccurate data, or who wishes to limit the use and disclosure of their Personal Information, should visit our Terms of use page.
+With respect to EU data subjects, Personal Information includes pseudonymous data such as an IP address, a mobile advertising ID or a cookie ID.
+Rockerbox operates the Platform and provides the Services as a “data processor” under the GDPR.
+That means Rockerbox only processes data via the Platform and Services as directed by our Clients and for no other purpose.
+We process certain Personal Information provided by Clients and partners under contractual necessity.
+For example, we require the billing details of our Clients located in the EU to process payment for the Services.
+==========
+We collect contact details from EU data subjects via our Website with consent and ask for consent for our Website to place cookies onto EU desktops.
+Although we try not to place cookies collected via our Platform on browsers operated by EU data subjects, you may visit our Terms of use page to see information about the cookies placed via the Website.
+Our sales and marketing team may obtain additional contact details for current and prospective Clients via our legitimate interest so long as they are not overridden by your data protection interests or fundamental rights and freedoms.
+==========
+You may also have the right to make a GDPR complaint to the relevant Supervisory Authority.
+A list of Supervisory Authorities is available here:  http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
+If you need further assistance regarding your rights, please contact us using the contact information provided below and we will consider your request in accordance with applicable law.
+In some cases our ability to uphold these rights for you may depend upon our obligations to process personal information for security, safety, fraud prevention reasons, compliance with regulatory or legal requirements, or because processing is necessary to deliver the services you have requested.
+Where this is the case, we will inform you of specific details in response to your request.
+==========
+Rockerbox’s data protection officer and EU representative is Ron Jacobson, CEO at Rockerbox and he may be contacted at privacy@rockerbox.com.
+For EU and Swiss Individuals: Privacy Shield Notice for Personal Data Transfers to the United States
+Rockerbox complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland transferred to the United States pursuant to Privacy Shield.
+Rockerbox has certified that it adheres to the Privacy Shield Principles with respect to such data.
+If there is any conflict between the policies in this privacy policy and data subject rights under the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+To learn more about the Privacy Shield program and to view our certification page once it is available, please visit https://www.privacyshield.gov.
+==========
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Rockerbox is subject to the regulatory and enforcement powers of the U.S. Federal Trade Commission.
+Rockerbox acknowledges that EU and Swiss individuals have the right to access the Personal Information that we maintain about them.
+An EU or Swiss individual who seeks access, or who seeks to correct, amend, port over and/or delete inaccurate data, or who wishes to limit the use and disclosure of their Personal Information, may send a request to .
+We will also provide an individual located within the EU or Switzerland with choice before we share their Personal Information with third parties other than our agents, or before we use it for a purpose other than which it was originally collected or subsequently authorized.
+In each event, you must clearly indicate the information that you wish to have changed or suppressed or clearly indicate the limitations you wish to put on our use of your Personal Information.
+We will endeavor to comply with your request as soon as reasonably practicable.
+We may need to retain certain information for record keeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed therefrom.
+==========
+In the context of an onward transfer, a Privacy Shield organization has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf.
+The Privacy Shield organization shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
+Note that we may be required to provide Personal Information in response to lawful requests from public authorities including to meet national security or law enforcement requirements.
+==========
+In compliance with the Privacy Shield Principles, Rockerbox commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield.
+European Union and Swiss individuals with Privacy Shield inquiries or complaints should first contact Rockerbox by email at privacy@rockerbox.com or via post at:
+Rockerbox, Inc
+138 Mulberry Street
+#6A3
+New York
+NY 10013 - 0645
+Rockerbox has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus.
+If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/EU-privacy-shield/for-eu-consumers  for more information and to file a complaint.
+This service is provided free of charge to you.
+If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.
+==========
+See Privacy Shield Annex 1 at https://www.privacyshield.gov/article?id=ANNEX-I-introduction
+CHANGES TO THIS POLICY
+Rockerbox may change this Policy from time to time.
+If we make any changes to this Policy, we will change the "Last Updated" date above.
+You agree that your continued use of our Website, Platform or Services after such changes have been published to our Policy will constitute your acceptance of such revised Policy.
+CONTACT Rockerbox WITH QUESTIONS OR COMPLAINTS
+If you have any questions about this Privacy Policy, the practices of our Website, Platform, or Services, or your dealings with our Website, Platform or Services, please contact us at privacy@rockerbox.com, or send mail to:
+Rockerbox, Inc
+138 Mulberry Street
+#6A3
+New York
+NY 10013 - 0645
+==========

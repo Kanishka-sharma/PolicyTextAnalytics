@@ -1,0 +1,284 @@
+What is this privacy notice all about?
+This privacy notice explains to you what we do with your personal information, e.g. when you visit our website, contact us or use one of our partner apps.
+We also explain:
+why and how we collect and use your personal information
+where we get the information from
+how we protect and aggregate individual information to turn them into statistical insights
+which insights and information we share and with whom
+what you can do to prevent any kind of data collection from us
+How can I quickly find the answer to my question?
+To make it easier for you find the right answer to your question, we have divided this privacy notice into 3 layers:
+(1) Overview of all topics:
+Take a look at the left side of your window.
+==========
+Clicking on the topic you are interested in will automatically lead you to this topic.
+(2) Basic information:
+Each topic contains questions that you might have and our answers to them.
+To help you understand the answer, we provide a short and basic answer that can be identified by its bold font.
+(3) More detailed information:
+The sentences following the basic answer then provide additional details.
+==========
+Can you explain in simple words what placense does?
+placense is a company that wants to understand the behavior and preferences of people in certain locations without risking individual privacy.
+1.
+==========
+placense, through its app partners, asks app users if they are willing to share certain information with us for a specific purpose.
+People can refuse or consent to sharing all or only certain information.
+2.
+==========
+We only collect the information you have consented to.
+We aggregate the information provided by several people and apply advanced privacy methodologies so that individual information cannot be traced back.
+3.
+==========
+The result is a statistic showing the preferences of people in a certain location.
+Companies can see those statistics and a recommended spot to build e.g. a mall, supermarket or some other store that relies on physical foot traffic.
+==========
+How do you make money?
+Businesses like supermarket or hotel chains pay us to get access to a placense dashboard which shows them statistical information about the behavior and preferences of people in certain locations.
+As we provide statistical insights, no individual information is shown on our dashboard thereby protecting the privacy of each individual.
+The business can then use this information to build new supermarkets, optimize city infrastructure or to avoid traffic jams.
+Why does placense collect personal data?
+We use them to understand the behavior and preferences of people in certain locations without risking individual privacy.
+==========
+Companies can use our service to get this statistical information and recommendations on where to build e.g. a mall, supermarket or some other store that relies on physical foot traffic.
+We believe in using anonymized insights based on aggregated information about people to help businesses serve their customers, but unlike many other companies, we have no interest in sharing individual information, e.g. to target individuals with intrusive personalized advertisements.
+==========
+From whom does placense collect information?
+We collect personal information about app users via partner apps and third-party businesses.
+When you use third-party mobile apps containing our integrated software development kits (SDKs), we may collect information about your device, location, Bluetooth and other installed apps.
+How does placense collect information?
+In addition to the information we get from third-parties, we collect multiple mobile device "sensor information" by integrating our technology in various apps, e.g. weather, navigation, dating, etc.
+By doing so, we are able to
+1.
+==========
+help app developers to offer their apps for free; instead of app users spending their own money, we pay the apps and collect only the data that app users have agreed to share with us
+2.
+help app developers to keep their apps free from intrusive advertisements
+3.
+improve the services offered to app users Our on-device machine learning algorithms decide when to collect, analyze and send fully aggregated & encrypted data points to our servers, which is just one of many measures in avoiding both privacy risk and excessive battery drainage.
+==========
+"sensor information":
+When you use apps on your mobile phone or another device, there is a high chance that these apps might access certain sensors that are built in your device.
+For example, for a navigation app to guide you to your destination, it has to ask you if it is allowed to collect sensor information on your current location (GPS sensor), how fast and in which direction you are going (accelerometer, gyroscope, compass, etc).
+==========
+With your consent, we collect this sensor information.
+What types of personal information do you collect?
+We do not collect personal information without your explicit consent.
+Consent means that you affirmatively allow placense to collect, analyze and send fully encrypted information about you to our servers.
+A) Information we may collect from partner apps include the following:
+1.
+Location, orientation, velocity and acceleration
+Depending on your consent, we regularly collect sensor activity and send information on your physical location and its contextual features.
+With your consent, we may also collect information from other mobile sensors, e.g. to determine the mode of transport, velocity, acceleration, direction or height.
+2.
+==========
+Operating system, web browser history, Wifi signals and IP address
+We may collect your device’s IP address, operating system and version, web browser type and history as well as Wifi signals which it receives.
+This information is then aggregated, anonymized and turned into statistics about the preferences of groups of people in a certain location.
+3.
+==========
+Installed apps on your device
+We may collect information on the mobile apps installed on your phone.
+This information is then aggregated, anonymized and turned into statistics to understand the preferences of groups of people in a certain location.
+4.
+==========
+Device identifiers
+We may collect your iOS and Android Advertising IDs, if one of those operating systems is installed on your device.
+However, the ID as well as other information that we collect are never used to identify you as a person, nor to show you any kind of advertisement.
+==========
+B) Information we get from third-party businesses include the following:
+placense may also collect your personal information i.e. location, Bluetooth signals, device identifiers and Interests, from third-party businesses, if you provide your explicit consent to these third-parties and their practice of sharing the data with us.
+We then use iOS and Android Advertising IDs to combine the information we receive with other information we collect about you.
+This approach is necessary for some group-related metrics (e.g. the number of people in a certain location) to be accurate, even though we only provide aggregated and fully-anonymized statistics to business clients.
+==========
+If you do not want us to combine information on you, you can withdraw the consents which you have either provided to third-parties or to us.
+You can withdraw your consent at any time if you do not want us to collect your information anymore.
+Please note that this does not automatically stop the processing of data that was collected from you when your consent was still valid.
+For information on privacy rights and withdrawing consent, please take a look at the privacy rights section.
+==========
+C) Information we get when you contact us include the following:
+contact information
+First and last name
+Company
+Job title
+E-mail addresses
+Phone number
+Any information you provide to us
+Business contact information is used for the sole purpose of mutual business development.
+We do not sell the data to anyone and only provide them to third-parties if
+(a) we believe that this data could be of benefit to our business contact or
+(b) when we use CRM services/platforms, etc.
+==========
+What information do you collect when I visit the placense website?
+placense automatically collects and stores certain information about its visitors in log files.
+==========
+Information we collect might include:
+Browser type
+Operating system and version
+Internet protocols
+Region or location from where you access the internet via your computer/smartphone/some other device
+History of pages you visit and information on how you use our website
+We use the information to:
+improve the design and overall user experience
+create relevant content
+better address user needs by analyzing trends as well as demographics and preferences of website visitors
+optimize website maintenance and prevent system errors
+We and our third-party service providers use so-called (web) cookies as well as similar technologies to automatically collect the information mentioned above.
+A web cookie is a small piece of data which is sent from our website and stored on your computer by your web browser.
+You can learn more about the cookies we use in our cookie policy.
+==========
+Do you collect personal information of children?
+We do not knowingly collect, use or process data of children.Our safety measures aim at preventing any kind of data collection from children under the age of 16.
+==========
+According to the General Data Protection Regulation (“GDPR”), the age at which a child is considered old enough to provide their own consent varies from 13 to 16 depending on the country you live in, which is why we apply the strictest interpretation of national law.
+If you have learned that a child under the age of 16 may have provided us a consent, please do not hesitate to contact us via [email protected] We will then delete any information of this individual.
+==========
+How do you use the information you collect?
+We use the information to create aggregated & anonymized statistical information to:
+1.
+==========
+assess the attractiveness and development of locations, e.g. to recommend a location to build a mall, supermarket or hotel
+2.
+understand the most popular activities in a certain area and the reasons for visiting them
+3.
+==========
+help businesses localize potential customer groups that match the characteristics of already existing customer groups
+4.
+improve the marketing effectiveness of our business clients
+5.
+improve our services, statistical insights or technology
+6.
+improve the security and privacy of information
+If you contact us or visit our website, we may use the contact information to communicate with you and address the matter of concern.
+==========
+placense does NOT use the information to personalize advertisements which then pop up on your smartphone or any other device.
+Does placense use automated decision making or profiling?
+Placense does not use automated-decision making.
+==========
+Which privacy requirements do your (app) partners have to comply with?
+Our partners have to comply with the European privacy law (GDPR) just like we do.
+In most cases, we as placense are in control of your data (i.e. the data “controller”) and therefore are primarily responsible for the privacy and protection of your personal information.
+Therefore, we have very strict contracts with our partners that clearly define why, how and what they are allowed to collect and process for us.
+In addition, we require our partners to:
+1.
+==========
+Ask for explicit consents before any data is collected and shared with us
+2.
+Inform app users which information is shared with us, if they consent (notification either directly within the app or the app’s privacy notice)
+3.
+Make consenting to share data just as easy as withdrawing this consent later
+How does placense protect my data?
+==========
+We apply a combination of cybersecurity, physical and organizational measures to protect your data against unlawful access.
+Nowadays, anonymization of personal information is not enough to protect individual privacy, which is why we use a technique called differential privacy.
+==========
+Differential privacy allows us to get accurate statistical insights about a large number of people without being able to identify an individual’s characteristics.
+For more information on differential privacy, we recommend watching the following video explaining the technique in simple words.
+==========
+Although we apply many additional privacy measures, we want to highlight the following:
+On-device processing which greatly reduces the amount and frequency of data being sent to our servers
+Before sending any data, they are encrypted and pseudonymized
+95% of successful security attacks result from human errors, which is why we conduct regular security checks and training, information risk assessments and a strict information security policy to train our employees to identify and avoid potential threats
+Need-to-know principle so that employees only have access to information that they need to accomplish their tasks, improve privacy and service offers
+Where is my data stored?
+Your data is maintained, processed and stored on secure servers located in Europe, which are hosted by third-party cloud service providers.
+==========
+We choose this approach as Europe is known for its very strict implementation of data privacy obligations.
+While the data protection laws in Europe may be different than the laws applicable in your residence or location, please know that we, our affiliates and our service providers that store or process your data on our behalf are each committed to keeping it protected and secured, pursuant to this Privacy Notice and industry standards, regardless of any lesser legal requirements that may apply in a specific jurisdiction.
+==========
+Since most of placense employees are located in Israel, transferring data between Israel and the EU is inevitable to do our job and even to comply with European data privacy law (GDPR).
+However, the European commission has recognized Israel as providing adequate protection, meaning that data transfers between Israel and the EU are treated just like data transfers from one European country to other European countries.
+==========
+How long do you store my data?
+We do not keep data longer than absolutely necessary, which can range from several days to several years depending on the sensitivity of the data as well as the purpose for which we collect and use the information.
+==========
+However, we do keep group insights for several years to offer businesses the possibility to better assess the long-term attractiveness of certain locations.
+This approach is necessary as most businesses plan theirinvestments several years in advance and thus have to be able to understand the development of a location in terms of attractiveness and consumer preferences.
+Again, we do not provide any kind of information about individuals– just aggregated, statistical information about people in a certain location.
+==========
+We may otherwise retain the data we collect as long as is needed in order to provide our services, resolve disputes, enforce our policies and to comply with applicable laws and regulations.
+For more information, e.g. on your rights to erasure or data portability, please contact [email protected]
+In which cases and how may placense share information with others, e.g. third-parties?
+1.
+==========
+Information we may collect about you is stored on secure servers in the EU hosted by third-parties.
+These third parties are only allowed to access your personal information for the purpose of storing our collected information and retrieving them, if necessary.
+2.
+We may also share aggregated and anonymized insights of groups of people in a certain location with business clients of placense, although they are never able to see, use or access an individual’s personal information.
+3.
+Information concerning placense in general, its business practices, partnerships and client contacts are also stored on secure third-party servers.
+4.
+We may also use third-party service providers to improve security, manage consent or process information on our behalf, which might also include access to portions of personal data depending on their particular roles and purposes in facilitating and enhancing our services.
+5.
+==========
+We may also share information about you with law enforcement and/or governmental or regulatory bodies if we believe disclosure is in accordance with, or otherwise required by, any applicable law, regulation or legal process.
+What is the lawful basis for the collection and processing of my personal data?
+We will only process your personal data if we have one of the following lawful justifications:
+1.
+Where we have obtained your explicit, affirmative and informed consent to the collection of personal data.
+2.
+Where we have a legitimate interest in processing your personal data, for example in order to communicate with you or to otherwise provide, maintain or improve our services.
+3.
+==========
+Where we are obliged to comply with legal or regulatory obligations that apply to us.
+What are my rights and options if I want to control the processing and usage of my data at placense?
+==========
+Without your consent, we and our app partners do not collect any information about you.
+strong>On your iPhone, you can easily manage app permissions and consents outside your apps.
+==========
+Just go to Settings and scroll down to the app.
+By tapping on the app within the settings menu, an overview should open up displaying all of consents, permissions and options for change or withdrawal with regard to this app.
+==========
+Follow the link to get more information.
+On your Android device, go to settings, tap on apps & notifications.
+After scrolling down, you should see all apps.
+Select one to see what kind of permissions that specific app has and withdraw the permissions according to your preferences.
+==========
+You also have the right to request:
+access to the information we collect about you
+rectification of collected data which you suspect to be inaccurate or incomplete
+erasure of all data we hold about you
+restrictions on processing your data
+transferring your data to another system
+a total stop of processing your data
+human intervention regarding automated-decision-making as well as the right to challenge decisions
+If you have questions or if you want to enforce one or several of these rights, please contact us via mail: [email protected]
+Am I obligated to allow placense to process my personal information?
+You are not obligated by law to provide us with any personal information whatsoever.
+You do, however, hereby acknowledge and agree that if you do choose to share, you are providing us with personal information at your own free will, for the purposes described in this privacy notice, and that we may retain such personal information in accordance with this privacy notice and any applicable laws and regulations.
+==========
+How can I get a confirmation that placense is collecting my data?
+How can I access data placense might have about me?
+==========
+In both cases, you can send your request to [email protected]
+How can I make a complaint, suggestion or provide feedback?
+The easiest and fastest way to contact us is via mail: [email protected]
+Who is your data protection officer, where is he located and how can I contact him?
+placense is fully aware of its responsibility that goes along with processing large amounts of personal data as well as automated-decision making, which is why our Data Protection Officer (“DPO”) was the first employee that we hired.
+If you have any questions,  concerns, feedback or if you want to make a complaint, the easiest and fastest way to contact us is via mail:[email protected]
+Our DPO’s contact information is as follows:
+Max Lenzen
+c/o placense
+3 Aluf Kalman Magen
+Tel Aviv, Israel
+[email protected]
+My question was not answered / I did not understand the answer.
+What can I do?
+==========
+Even though we try to address all of your questions and potential concerns in our privacy notice, it may be that you did not find or understand the answer to one of your questions.
+In that case, feel free to contact us by sending a mail to [email protected]
+How do I know that you changed something in the way you handle my data?
+==========
+When we change something that might affect your privacy, we also update the privacy notice.
+Therefore, you can always look up the current status in our privacy notice.
+We may also provide you with additional notice, such as providing in-app notifications or notice on our website.
+In case of major changes with a bigger impact on privacy, we also inform everyone affected by these changes and ask for your consent, which you can either accept or deny.
+I read something in your privacy notice.
+Why was this part changed?
+We take your questions and concerns very seriously.
+==========
+To meet your expectations and our responsibility to protect the privacy of your information, we adopt new practices and implement changes from time to time.
+To further comply with changes in privacy laws, industry standards and regulations, we regularly review and update our processes.
+All these changes are reflected in updates of our privacy notice.
+In case of major changes with a bigger impact on privacy, we also inform everyone affected by these changes and ask for your consent, which you can either accept or deny.
+==========

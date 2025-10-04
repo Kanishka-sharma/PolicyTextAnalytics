@@ -1,0 +1,277 @@
+This privacy statement covers the site [ArticlesBase.com].
+Because [ArticlesBase.com] wants to demonstrate its commitment to its users’ privacy, it has agreed to disclose its information practices.
+If users have questions or concerns regarding this statement, they should first contact the editor – support(@)articlesbase.com
+Information Collection and Use
+Information Collection
+[ ArticlesBase.com ] is the sole owner of the information collected on [ ArticlesBase.com ].
+[ ArticlesBase.com ] collects information from its users at several different points on this website.
+Registration
+In order to advertise on this website, a user must first create a free account.
+During registration, a user is required to provide contact information (such as name and email address).
+We use this information to send requested email notifications to our customers for important announcements or to fix account-related problems, such as payment issues.
+==========
+Order
+All payments and refunds are processed by an outsourced credit card processing service, that is, Stripe.
+Transactions are processed on their website, and absolutely no credit card information is stored on our end.
+Information Use
+Profile
+We store information that we collect through cookies and dynamic pages to create a user’s profile.
+A profile is stored information that we keep on individual users that detail their viewing preferences.
+Consequently, collected information is tied to the users’ personal identification information to provide offers and improve the content of the site for the user.
+==========
+This profile is used to tailor a user’s visit to our website.
+We do not share user profile informations with third parties.
+Cookies
+A cookie is a piece of data stored on the user’s computer containing information about the user.
+We use cookies to remember your username and password.
+Passwords are encrypted with the “md5” cryptographic algorithm.
+We do not share your cookies with third parties.
+==========
+Log Files
+Like most standard website servers, we use log files.
+These record internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user movements and gather broad demographic information for aggregate use.
+IP addresses are not linked to personnal indentification information.
+We use a tracking utility called Google Analytics to analyze user movement.
+==========
+Password Encryption
+Passwords are encrypted with the “md5” cryptographic algorithm.
+Thus, passwords are case sensitive and are visible neither by us nor by your account administrators.
+This puts the security of your data at a very high level.
+Should you forget your password, you will have to use the “Forgot Password?”
+==========
+link to enter a new one, since it cannot be retrieved.
+Communication from the Site
+We do not share user email adresses with third parties and we do not spam.
+Special Offers and Updates
+We send all new members a welcome message to verify their email adress.
+Established members will occasionally receive information on products, services, special deals, and a newsletter.
+Out of respect for the privacy of our users, it is possible to opt out these types of communications.
+==========
+Service Announcements
+On rare occasions it may be necessary to send out a strictly service-related announcement.
+For instance, if our service is temporarily suspended for maintenance, we might send users an email or put an alert on the login page.
+Although users may not opt out of these communications, they can deactivate their account.
+Customer Service
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account.
+We reply via email or phone, in accordance with the user’s wishes.
+Email Notification
+Users may decide to receive email notifications on the following occasions: when they get outbid and when their account balance reaches a user-defined threshold or reaches zero.
+You may also receive weekly ad performance statistics, upon request.
+==========
+Sharing
+Legal Disclaimer
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
+Below are the instances in which we will share user personal information.
+Business Transitions
+In the event that [ ArticlesBase.com ] goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, user’ personal information would, in most instances, be part of the assets transferred.
+In such circumstances, users would be notified via email, a prominent notice would be placed on our website for 30 days, prior to the change of ownership or control of their personal information.
+If, as a result of the business transition, a user’s personal identification information is to be used in a manner different from that stated at the time of collection, the user will have the prerogative to accept or refuse these changes, as per the Notification of Changes section below.
+==========
+Links
+This website contains links to other sites.
+Please be aware that we, [ ArticlesBase.com ], are not responsible for the privacy practices of these sites.
+We advise our users to be aware of departure from our site and to read the privacy statements of each and every website that collects personal identification information.
+This privacy statement applies solely to information collected by this website.
+==========
+Security
+This website takes every precaution to protect our users’ information.
+When users submit sensitive information via the website, their information is protected both online and offline.
+When Stripe’s registration/order form requires a user to enter sensitive information (such as credit card number), that information is encrypted and protected with the best encryption technology in the industry, SSL.
+While on a secure page, such as the Stripe order form, the lock icon located at the bottom of web browsers such as Microsoft Internet Explorer or Mozilla Firefox, will appear locked, as opposed to unlocked when users are just ‘surfing’.
+==========
+Correcting/Updating/Deleting/Deactivating Personal Information
+If a user’s personal identification information (such as zip code, phone, email or postal address) changes, or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate user personal identification information.
+This can usually be done from the “Account Login” page or by emailing editor (@) articlesbase.com
+Notification of Changes
+If we decide to change our privacy policy, we will post these changes to this privacy statement in places we deem appropriate.
+We will use information in accordance with the privacy policy under which the information was collected.
+If, however, we are going to use personnal identification information in a manner different from that stated at the time of collection, we will notify users via email.
+Users will be able to choose whether or not we can use their information in this different manner.
+Users who have opted out of all communication with the site, or deleted/deactivated their account will not be contacted, nor will their personal information be used in this new manner.
+==========
+Security Policy: Protecting your Information
+[ ArticlesBase.com ] takes data protection very seriously.
+In order to safeguard your data and confidential information, we have established the following policy in regards to hardware, software, networking and general business practices.
+General Security
+We take all necessary measures to ensure our website is secure and reliable for both ourselves and our customers.
+Security audits are performed periodically and should issues of any kind are addressed, we will fix them in a timely manner.
+==========
+Physical Security
+ArticlesBase.com is hosted on a dedicated server within the Amazon cloud (North Eastern region).
+ArticlesBase.com ’s servers is behind a strong firewall that safeguards against hacker attacks.
+Network Security
+We use Amazon web hosting service located in North Eastern United States.
+==========
+They use a scalable, redundant “bandwidth-on-demand” solution.
+Software Security
+ArticlesBase.com’s server runs on Windows Server.
+All security patches have been applied on our server.
+==========
+Our administrator is in charge of keeping up-to-date on current vulnerabilities that may affect our environment.
+Our policy is to apply new patches as soon as possible.
+Critical updates are applied within 24 hours.
+==========
+ArticleBase.com’s server is also equipped with a powerful antivirus software suite.
+The software’s virus definitions are updated every day, and the server is scanned for virus every night.
+All files uploaded to the server, for example screenshots, are automatically scanned for viruses.
+Whenever a virus is found, it is removed immediately.
+Our firewall is a physical gateway that stands between the Internet connection and the server.
+Data Security
+Backups are performed nightly.
+==========
+Everyday, all clients data is backed-up to an external medium.
+ArticlesBase.com has an SSL certificate from InstantSSL.com.
+This means ArticlesBase.com clients can use a secure SSL 128-bit encrypted connection to login to ArticlesBase.com
+In case of a security breach
+As soon as we become aware of a security breach and that data has been accessed without authorization, ArticlesBase.com will contact the affected persons and/or businesses without delay.
+Furthermore, ArticlesBase.com will do everything in its power to remedy the situation and prevent its further occurrence.
+This could provoke a short downtime on the servers in order to protect client data while we implement corrective action on the breach.
+We have never been hacked.
+Confidentiality
+[ ArticlesBase.com ] makes every effort to preserve the privacy of the information its servers contain.
+We will never sell, share or publish our clients’ data.
+==========
+All documents are located in a secure zone.
+Any other ArticlesBase.com user or unauthorized visitor cannot access these files.
+When a client closes his/her ArticlesBase.com account, the account data is deleted permanently from the server.
+==========
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
+Terms of Service
+By your action of using ArticlesBase.com, you are agreeing to comply with all terms contained in this Document.
+This is a legal agreement between you (“Client”) and ArticlesBase.com (“Developer”).
+If you do not agree to these terms, you may not use the website in any way.
+ArticlesBase.com “software as a service”, as well as its documentation, as updated or modified from time to time at our discretion (“Service”), is owned and operated by ArticlesBase.com (“us” or “we”), a Canadian incorporated company, and is provided to you pursuant to the terms and conditions of these Terms of Service, including our Privacy Policy, our Security Policy and our payment policy, available at https://articlesbase.com.
+1.
+==========
+REGISTRATION
+To use the Service, you must create a free account through the “Submit your Web App” form.
+Then, if more privileges are needed, your free account can be upgraded.
+We have the right to reject any application to use the Service for any reason.
+2.
+CONSIDERATION
+2.1 Free Listing
+Any web-based software product can be listed on ArticlesBase.com for free.
+2.2 Fees
+By subscribing to our service, you agree to pay any applicable fees and charges specified on https://articlesbase.com/advertise/.
+==========
+Canadian organizations must pay any applicable federal or provincial tax.
+Organizations from any other country are exempted from any tax.
+We may change the fees and charges or add new fees and charges at any time, without prior notice.
+You are responsible for any fees or charges incurred to access the Service through an Internet service provider or other third party service.
+No setup or cancellation fees are charged.
+2.3 Payment
+All fees and charges are due and payable by credit card only.
+Annual advertising plans are not refundable after 14 days.
+==========
+You must keep your credit card information current by informing us of any change.
+All credit card information changes must be made through a secured link or access we will provide you, which is owned by Stripe.
+Recurring fees for use of the Service will automatically be billed to the credit card we have on file for you at the beginning of each renewal period, unless you cancel your subscription before the relevant period begins.
+==========
+2.4 Downtime
+We guarantee 99% of uptime.
+The 1% we cannot guarantee lies on the fact that the Internet may be unavailable itself, or unexpected technical issues may occur and such issues may be outside of our control.
+In case such downtime occurs, no financial compensation may be granted, in any form.
+We may make the Service unavailable from time to time for maintenance, without prior notice.
+==========
+Our servers are pinged every 15 minutes.
+If a server doesn’t respond, our customer service staff gets immediately notified by SMS and email and will do everything in their power to fix the problem as soon as possible.
+3.
+==========
+TERMINATION AND CANCELLATION
+3.1.
+Termination
+We reserve the right to monitor use of our Service to determine compliance with the Terms mentioned herein.
+We may terminate the Service at any time if we are convinced that you failed to comply with any of the terms mentioned herein.
+3.2.
+==========
+Cancellation
+Your advertiser listing will remain active unless terminated by us or until you cancel by sending us an email.
+You must not cancel by phone, regular mail or live chat.
+If you cancel prior to the next billing cycle, cancellation will be effective immediately and you will not be billed for the next cycle.
+If you cancel in the middle of a billing period, you will not receive a refund for amounts previously paid.
+We may cancel or discontinue the Service at any time for any reason and may terminate your use of the Service immediately upon notice to you at any time if you breach these terms.
+4.
+==========
+LIMITED LICENSE / UPGRADES
+Code of Conduct
+While using our website, you agree to comply with all applicable laws, rules and regulations.
+In addition, we expect users of our Service to respect the rights and dignity of others.
+You agree not to:
+Restrict or inhibit any other visitor or member from using our website, including, without limitation, by means of “hacking” or defacing any portion of our website;
+Transmit or otherwise make available in connection with our website:
+any content or information that is fraudulent, threatening, intimidating, abusive, libelous, defamatory, obscene, indecent, pornographic or otherwise objectionable or would give rise to criminal or civil liability;
+any material, non-public information about companies without the authorization to do so;
+any content or information that encourages conduct that constitutes a criminal offense or that promotes or provides instructional information about illegal or potentially illegal activities;
+any content or information that is or may be protected by copyright, trademark, trade secret, right of publicity or other proprietary right without the express consent of the owner of such right;
+any advertisements, solicitations, chain letters, pyramid schemes, investment opportunities or other unsolicited commercial communication (except with our prior written consent);
+Engage in spamming or flooding;
+Transmit any software or other materials that contain any viruses, worms, Trojan horses, Easter eggs, web bugs, chancellor, “spy ware,” defects, date bombs, time bombs or any other computer code, file or program that may or is intended to damage or hijack the operation of any hardware, software or telecommunications equipment or any other actually or potentially harmful, disruptive or invasive code or component;
+Interfere with or disrupt the operation of our website or the servers or networks that host our website or make our website available or disobey any requirements, procedures, policies or regulations of such servers or networks;
+Use any services provided in connection with this website to compromise security or tamper with system resources and/or accounts or use or distribute tools designed for compromising security (e.g., password guessing programs, cracking tools or network probing tools);
+Impersonate any person or entity, including but not limited to any of our agents or representatives, falsely state or otherwise misrepresent your affiliation with any person or entity or express or imply that we endorse any statement you make, without our prior written consent;
+“Frame” or “mirror” any part of our website without our prior written consent;
+Use any robot, spider, site search/retrieval application or other manual or automatic device or process to retrieve, index, “data mine” or in any way determine, archive, reproduce or circumvent the navigational structure or presentation of our website or its contents;
+Create a database by systematically downloading and storing all or any of the materials from our website;
+Interfere with or violate any other website visitor’s or user’s right to privacy or other rights or harvest or collect information about website visitors or users without their express consent.
+5.
+==========
+DISCLAIMER: limitation of liability
+5.1 Disclaimer
+As mentioned in clause 2.1, we offer a free listing.
+This gives you an opportunity to test the website and to establish it is free of bugs and problems.
+Moreover, as mentioned in our Security Policy as well as in our Privacy Policy, we take all necessary measures in order to keep your data in a private, secure and virus-free environment.
+==========
+Therefore, neither any opinion, advice or statement of us or our affiliates, licensors, suppliers, agents or visitors, whether made on our website or otherwise nor the results of any operation of the Service by you constitute representations or warranties of us or give rise to any rights of reliance or otherwise for the benefit of you or any third party.
+You are responsible for implementing sufficient procedures and checkpoints to satisfy your particular requirements for accuracy of data input and output, and for maintaining a means external to this website for the reconstruction of any lost data.
+We do not assume any responsibility or risk for your use of our Service and the Internet.
+ANY AND ALL SERVICES PROVIDED BY US TO YOU ARE PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
+WE DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY QUALITY AND NONINFRINGEMENT AND ALL WARRANTIES THAT MAY ARISE FROM COURSE OF DEALING, COURSE OF PERFORMANCE OR USAGE OF TRADE.
+APPLICABLE LAW MAY NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
+WE AND OUR AFFILIATES, LICENSORS, SUPPLIERS, AND AGENTS DO NOT WARRANT THAT YOUR USE OF OUR WEBSITE OR MATERIALS WILL BE UNINTERRUPTED, ERROR-FREE OR SECURE, THAT DEFECTS WILL BE CORRECTED OR THAT OUR WEBSITE, THE SERVER(S) ON WHICH OUR WEBSITE IS HOSTED OR OUR MATERIALS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+Without limiting the generality of the foregoing, we hereby disclaim any and all liability for any damage to or other impact on your equipment, hardware, software, data or other information or materials, whether or not caused by or related to (either directly or indirectly) your use of the Service, including but not limited to claims relating to faulty, malfunctioning or inoperable Service.
+==========
+5.2 Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL ARTICLESBASE.COM BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, DIRECT, INDIRECT, SPECIAL, PUNITIVE, OR OTHER DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR ANY INJURY TO PERSON OR PROPERTY, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, FOR LOSS OF PRIVACY FOR FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY PECUNIARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF ARTICLESBASE.COM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+THIS EXCLUSION OF DAMAGES SHALL BE EFFECTIVE EVEN IF ANY REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+You acknowledge that the limitations of liability in these Terms and the allocation of risk herein are an essential element of the bargain between you and us, without which we would not have provided the Service.
+Our pricing reflects this allocation of risk and the limitation of liability specified herein.
+5.3 Errors
+A possibility exists that our website or materials could include inaccuracies or errors or information or materials that violate these Terms.
+Additionally, a possibility exists that unauthorized alterations could be made by third parties to our website or materials.
+==========
+Although we attempt to ensure the integrity of our website, we make no guarantees as to its completeness or correctness.
+If a situation arises in which our website’s completeness or correctness is in question, please get in touch with us via our contact information provided on the “Contact Us” page of the website with, if possible, a description of the material to be checked and the location (URL) where such material can be found on our website.
+6.
+==========
+INDEMNISATION
+You shall indemnify, defend (if we so request) and hold the indemnified parties harmless from and against any and all claims, damages, losses, costs (including reasonable attorneys’ fees and other legal costs) and other expenses (collectively, “losses”) that arise directly or indirectly out of or from (a) your or your representative’s willful misconduct, gross negligence or breach (or claim that if true would be a breach) of any representations, warranties or covenants in these Terms, (b) a third-party claim that your End User Data infringes or misappropriates any third party’s intellectual property rights or (c) your activities in connection with the Service and our website.
+You also agree to reimburse each indemnified party on demand for any losses incurred by such indemnified party to which this indemnity relates.
+7.
+==========
+GENERAL TERMS
+7.1 Law: Disputes
+These Terms and all matters arising out of or relating to these Terms will be governed by the internal laws of the Province of Québec, Canada, without giving effect to any choice of law rule.
+In the event of any controversy, claim or dispute between the Parties arising out of or relating to these Terms, such controversy, claim or dispute may be tried solely in a provincial or federal court in Québec, Canada.
+You and we hereby irrevocably consent to the exclusive jurisdiction and venue of such courts.
+==========
+7.2 Jurisdictional Issues
+We make no representation that materials available on or through our website are appropriate or available for use in locations outside of the United States or outside of Canada.
+If you choose to access our website from locations outside of the United States or outside of Canada, you do so on your own initiative and at your own risk, and are responsible for compliance with applicable laws.
+We reserve the right to limit the availability of our website and the provision of any service, program or other product described on our website to any person, geographic area or jurisdiction, at any time and in our sole discretion.
+You agree not to transport, import, export, or re-export all or any part of the materials to (or to a national or resident of): (a) Cuba, Iraq, Libya, Liberia, North Korea, Iran, Syria, Serbia, Sudan or any other country to which the U.S. or Canada have embargoed goods or (b) any person or entity on the U.S. Treasury Department’s list of Specially Designated Nationals or the U.S. Commerce Department’s Table of Deny Orders.
+You also represent, warrant and covenant to us that you are not located in or under the control of any such country or on any such list.
+==========
+7.3 Notices
+Any notice or other communication under these Terms must be in writing and will be deemed given (i) when delivered personally; (ii) when sent by facsimile or email, with written confirmation of receipt by the sending mechanism; (iii) five business days after being sent by registered or certified mail, return receipt requested, postage prepaid; or (iv) two business days after deposit with a private industry express courier, with written confirmation of receipt.
+All notices shall be sent to you to the person and address specified in your account information and to us to the person and address specified on our “Contact” page.
+7.4 Agreement
+These Terms constitute the complete agreement between you and us and supersede all prior or contemporaneous agreements or representations, written or oral, concerning the subject matter of these Terms.
+If any provision of these Terms is found to be unlawful, void or unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions.
+==========
+These Terms may not be modified or amended except by a writing signed by a duly authorized representative of you and us or by our posting revised Terms on our website or by emailing you with notice of the change in Terms.
+You are solely responsible for periodically reviewing the Terms to determine whether they have changed since you last reviewed them.
+We will post a new adoption date each time we change these Terms.
+If you continue to use the Service after a change in Terms, you will be bound by such changes.
+These Terms are not assignable, transferable or sublicenseable by you except with our prior written consent.
+No waiver of any breach or default shall be deemed a waiver of any preceding or subsequent breach or default.
+==========

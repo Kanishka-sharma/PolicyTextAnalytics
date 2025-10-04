@@ -1,0 +1,22 @@
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website.
+The website cannot function properly without these cookies.
+NameProviderPurposeExpiryTypetest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPCookieConsentCookiebotStores the user's cookie consent state for the current domain1 yearHTTPPHPSESSIDnear.coPreserves user session state across page requests.SessionHTTP Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+NameProviderPurposeExpiryTypelang [x2]LinkedInRemembers the user's selected language version of a websiteSessionHTTP Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+NameProviderPurposeExpiryTypeAnalyticsSyncHistoryLinkedInUsed in connection with data-synchronization with third-party analysis service.
+==========
+29 daysHTTP_gaGoogle Tag ManagerRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.2 yearsHTTP_ga_#Google Tag ManagerUsed by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.
+2 yearsHTTP_gatGoogleUsed by Google Analytics to throttle request rate1 dayHTTP_gidGoogleRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTPpersonalization_idTwitterThis cookie is set by Twitter - The cookie allows the visitor to share content from the website onto their Twitter profile.
+2 yearsHTTPvuidVimeoCollects data on the user's visits to the website, such as which pages have been read.2 yearsHTTP Marketing cookies are used to track visitors across websites.
+==========
+The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+NameProviderPurposeExpiryTypecollectLinkedInCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+==========
+SessionPixelIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPfrFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTPtrFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.SessionPixelads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelpagead/1p-user-list/#GoogleTracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites.
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.SessionPixelbcookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.2 yearsHTTPbscookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.2 yearsHTTPlidcLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 dayHTTPUserMatchHistoryLinkedInUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+29 daysHTTP_fbpFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTP_gcl_aunear.
+==========
+coUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+3 monthsHTTPi/adsctTwitterThe cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+SessionPixelpagead/viewthroughconversion/871441045GooglePendingSessionPixelpagead/1p-conversion/#GooglePendingSessionPixel Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+NameProviderPurposeExpiryTypePathnear.coPendingSessionHTTP
+==========

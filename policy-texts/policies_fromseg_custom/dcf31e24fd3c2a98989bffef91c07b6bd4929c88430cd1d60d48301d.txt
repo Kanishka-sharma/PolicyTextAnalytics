@@ -1,0 +1,103 @@
+Privacy Policy
+Beemray provides its services (such as marketing and advertising, data analytics, and data research) using the information and location-centric data that we compile about the movement, activities, and places people visit.
+The following describes our data collection and use practices for the information that we collect and the data we receive from our data partners (such as mobile app publishers and developers) about individuals.
+It also describes the choices available to you regarding the use of that information and data.
+This statement doesn’t apply to the data collection and use practices of our clients and partners and the websites, services, and applications that they operate.
+Information We Collect
+We collect information and data in the following ways:
+Information You Give Us.
+When you ask to be contacted or have questions about our products and services and you provide us with your contact information (like your name and email address).
+Data We Collect.
+When you visit our website or when our services are used (by us or by our customers), certain information and data is automatically collected.
+Our servers collect technical information about your browser or device that it sends when you visit a website or when an advertisement is displayed or measured through our services.
+These server logs collect information such as the web request, internet protocol (IP) address or device identifier, browser type, referring / exit pages and URLs, number of clicks, impressions served, domain names, landing pages, pages viewed, and other such information.
+We (and/or our customers and partners) use cookies and web beacons to collect this data (over time and across websites, mobile apps, and devices).
+These tools (among other things) help us to deliver ads, count impressions, recognize visitors, and provide analytics about the effectiveness of an advertisement.
+We also use Google Analytics (or other analytics providers) to help us understand the use of our website.
+==========
+Data We Receive from Others.
+We receive data that was initially collected (over time and across websites, mobile apps, and devices) by our data partners (such as mobile app publishers and developers, advertising networks and exchanges and other websites and services), which includes: 
+Movement Data.
+We receive data about the places people go and visit with their mobile devices (if the mobile or other location-aware device is configured to share its location data when the device or a mobile application on the device is in use or when operating in the background).
+In addition to location, we receive a device identifier and other information about that device (such as the browser or device type, IP address or app publisher, operating system, carrier provider, and other similar device-specific information).
+We do not receive the phone number or the unique hardware device ID of a mobile device.
+We identify devices using the advertising ID or web ID provided by 3rd party platform or a randomly assigned unique identifier (that is created through our own system).
+==========
+Data We Receive from Other Sources.
+We receive data and information from other data sources about places that we use to verify their location, to classify those locations (such as a business or other point of interest), and to identify the location’s boundaries.
+We also receive other contextual data and information (such as purchasing data, weather, or other demographics) that can be attributed to a location or place.
+==========
+Note about children.
+We do not knowingly collect personal information from children.
+If we learn that we have collected personal information of a child under 13, we will take steps to delete such information from our files as soon as possible.
+==========
+How We Use the Information We Collect
+We associate the data and information that we collect with the data and information we receive from others.
+Our technology contextualizes and aggregates this data.
+The location intelligence we derive (and infer) from the data and the information we amass is the basis of the services we provide:
+
+for marketing and advertising purposes (such as to display and optimize advertisements, to create audience segments, and to provide measurement and reporting services),
+for capturing and understanding the interests, activities, and trends of consumers (online and in the real world),
+for data analytics and data services (such as for marketing and advertising, trend analysis, or market research), and
+for providing, maintaining, and improving the products and services we offer (and to develop new products and services).
+==========
+Note about personally identifiable information.
+In some cases, we may receive information that can identify a specific person (like a name and address).
+We use this type of information for statistical, analytical, and logistical purposes and for improving the products and services we offer.
+We do not use this type of information for targeting advertisements (other than at an aggregated level, such as zip code), although, we do use personally identifiable information to help synchronize our data sets with our customers’ or our partners’ data sets (to find matches through a common identifier).
+We may use (and store) the data and information we collect and receive on servers that may be located outside the country where you live.
+Information We Share with Others
+We share the data and information we compile about someone in an aggregated or anonymized way using advertising IDs or another type of anonymous identifier:
+
+to optimise advertisements (like improving the relevancy of the advertisements displayed, tailoring them to certain interests, or creating audience segments),
+for measurement, statistics, usage reporting, and other data analytics, and
+for industry analysis, demographic profiling, market research and other such purposes.
+In certain cases, we share personally identifiable information:
+
+when a person has given their consent to do so (like where you are notified that the information you submit will be shared in a particular way and you then provide that information),
+with service providers who help us provide our services (if it is necessary, but they are not permitted to disclose or to use that information for any other purpose),
+with our partners and customers (if it is necessary to provide our products and services (such as to match data sets) but they are not permitted to disclose or to use that information for any other purpose),
+when we believe that we are legally authorized or required to do so, or where doing so is reasonably necessary or appropriate to comply with the law or legal processes or to respond to lawful requests or legal authorities (such as a subpoena or court order),
+if it is necessary to defend or to protect our rights, property, or interests, and
+in connection with a corporate transaction (like a financing, acquisition, sale of company assets, or bankruptcy) where this information would be disclosed or transferred as one of our business assets.
+==========
+Compliance and Certifications
+We are a member of the following organizations and adhere to their transparency initiatives, privacy guidelines and self-regulatory principles.
+These organizations establish and enforce responsible privacy practices for online and mobile environments.
+We will honor the opt-out signals for personalised advertising and content that are provided directly to us or that we receive from our data partners.
+Your Choices
+If you do not want the data that is collected about you to be used for certain purposes, you have options:
+Personalised Advertising.
+If you want to limit or stop receiving targeted ads, there are several choice mechanisms available:
+On the Web.
+==========
+Follow the opt-out instructions that are set by our partner website that you are visiting.
+Beemray is integrated with our partner websites to support opt-out requests derived from these websites.
+On Mobile Devices.
+You can opt-out of receiving tailored advertising or content, by adjusting settings on your mobile device.
+To “opt-out of personalised advertising” for Android devices, go: Google Play Help.
+To “Limit Ad-Tracking” for iOS devices, go: Apple Support Center.
+Other Options and Considerations.
+==========
+Some mobile devices may not support the use of cookies, which is one method used to implement an opt-out.
+If you clear your cookies from your browser, or use a different browser, you may need to renew your opt-out choice.
+These opt-out choices only stop you from receiving tailored ads from the selected source.
+Even after opting out, you will continue to receive generic ads and you may continue to receive tailored ads from other advertisers and services (if you have not opted out from their services explicitly).
+We do not link web browsers and mobile devices, however, in some cases, we may partner with a company that does cross-device linking for personalized advertising purposes (in which case you would need to perform an opt-out for each browser and mobile device you don’t want linked and/or used for these purposes).
+==========
+Location Settings.
+If you want to limit or prevent location data from your device from being collected, you can adjust this capability through your mobile device settings.
+Instructions on how to manage your location settings for Android devices, are available here (instructions for older versions of Android can be found here) and iOS devices are provided here.
+==========
+Security and Data Retention
+We use physical, administrative, and technical safeguards that are designed to preserve the integrity and security of the data we receive, however, we cannot ensure the absolute security of any information or data transmitted to us or that is stored on our services.
+We retain the data and information that we collect for as long as is necessary to support our business needs (or as required by law), but we do not retain location data about a device for more than 24 months (from when we received the data).
+Changes
+If we change our data collection and/or use practices, we will post an updated statement (and a more prominent notice if the changes are significant) with the new practices and when they go into effect.
+The data and information that we collect is subject to the privacy statement in effect at the time the data and information was collected by us.
+==========
+Contacting Us
+For questions about our privacy practices, contact us at privacy@beemray.com or Beemray Oy., Attn: Privacy, Linnankatu 36, 20100 Turku, Finland.
+For questions about a particular website or mobile application, you will need to contact that business or publisher regarding their privacy practices about the collection and use of the information collected from your device by their website or mobile application.
+Effective: September 10, 2018
+==========

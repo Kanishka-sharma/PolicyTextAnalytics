@@ -1,0 +1,307 @@
+1.
+Definition and nature of personal data
+
+When using Mobsuccess’s solution (hereinafter referred to as: the “Solution”), or your exposure to our technology suite for the purchase of advertising spaces and the diffusion of advertising campaigns, we can ask you to provide us with some of your personal data, in order to enable you to use our services.
+The term “personal data” used in this privacy policy refers to every kind of data which can permit to identify a person, such as your name, first name, email address, pseudonym, age, gender, IP address, logs, location data, identifiers for advertising (IFA) (e.g. IDFA on iOS, GAID on Android), or any other information you may choose to provide us.
+2.
+==========
+Purpose of the Privacy Policy
+
+The purpose of this privacy policy is to inform you of the means that we use to collect and process your personal data, with the strictest respect for your rights.
+In this regard, we inform you that we collect and process your personal data in compliance with the French law N° 78-17 dated 6th January 1978 on Information Technology, Data Files and Civil Liberties (hereinafter referred to as the “French Data Protection Act”), as well as the regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 as from its entry into force, namely 25th May, 2018 (hereinafter referred to as the “GDPR”).
+3.
+==========
+Identity of data controller
+
+The entity responsible for collecting and processing your personal data is the company Mobsuccess, registered with the Registry of Trade and Companies of Paris in France under the number 809 891 583, whose head office is located at 4 rue du Caire – 75002 Paris – France (hereinafter referred to as "us" or "we").
+When we transfer your data to advertisers who have ordered the diffusion of advertising campaigns (see article "Recipients of collected data"), we may be placed with them in a co-contracting situation, that is to say that Mobsuccess and the advertiser concerned are then jointly responsible for the processing of your personal data.
+Mobsuccess remains however your point of contact for any request relating to your data as well as for any request to exercise your rights (see below).
+4.
+Data protection officer
+
+We have appointed a data protection officer, who can be contacted at the following address:
+
+Gilles Perrin
+Mobsuccess SAS
+4 rue du Caire, 75002 Paris, France
+dpo@mobsuccess.com
+Tél.
+: (+33) 972200581 (from Monday to Friday 10am - 5pm)
+5.
+==========
+Collecting personal data
+
+The legal basis of our processing of your personal data is the following:
+
+(i) Your consent
+when we collect your personal data for the needs of the implementation of our technology suite for the purchase of advertising spaces and the diffusion of advertising campaigns;when we collect your personal data so as to diffuse you a personalized advertising content;regarding the use of social network Cookies, advertising Cookies and Google Analytics Cookies, as set forth in our Cookie Policy in the appendix;
+(ii) The legitimate interest of our company
+when we collect your personal data so as to allow you to access to our Platform, whether you are a prospect or a client;when we collect your personal data so as to set up our advertising campaigns and to struggle against fraud for incentive advertising campaigns (“incentive advertising” means advertising which invites the user to take action to get a reward.
+She/he does the action, She/he receives the promised reward);when we collect your personal data during the diffusion of non-personalized advertising content, to technically distribute the advertising content, ensure the reliability of the traffic delivered on behalf of our advertising customers, measure its performance and debug our Solution.
+Your personal data are processed to meet one or several of the following purposes:
+
+Regarding the technology suite for the purchase of advertising spaces and the diffusion of advertising campaigns:
+
+(i) To show you “Standard” (non-personalized) advertising contents, based on the content you are viewing, the app you are using, your approximate location, or your device type.
+==========
+To this end, we can:
+Use real-time information about the context in which the advertising content will be shown, to show the advertising content, including information about the content and the device, such as: device type and capabilities, user agent, URL, IP address;Control the frequency of advertising contents shown to a user;Sequence the order in which ads are shown to a user;Prevent an advertising content from serving in an unsuitable editorial (brand-unsafe) context.
+(ii) To create or to update personalized advertising profiles for the purpose of distributing personalized advertising contents.
+To this end, we may collect information about you, including a user’s activity, interests, visits to sites or location.
+We can also use data segments purchased from partners or create segments from them.
+(iii) To implement our real-time bidding system, which permits to diffuse advertising campaigns through the acquisition of advertising spaces on mobile applications or mobile websites where the advertising campaigns are diffused.
+To that extent, we process “Bid requests” originating from real-time bidding system containing personal data.
+==========
+(iv) To show you personalized adverting contents according to advertising campaigns entrusted to us.
+For instance, some campaigns are deemed to be diffused on a restricted geographic area.
+In such a case, we diffuse advertising contents only to the persons who consented to the collection of their location data and who are located in the given geographic area.
+(v) To measure and optimize the efficiency of the said advertising campaigns, in particular through the recovery of interest actions made in relation to the campaign.
+The actions can be clicks on the campaign, time passed on the advertising content, number of pages visited, visits on points of sale (whose data is provided to us by partners who use either beacons in the points of sale or geolocation data from other applications), the purchases, the installation of an application, etc.
+(vi) To diffuse advertising contents the most likely to interest you, through the retargeting, i.e. through the diffusion of the advertising contents according to the actions you made.
+Profiling is implemented through the collection of visited areas, interest actions on the trademark or on the product.
+==========
+(vii) To be sure about the reliability of the traffic delivered to our advertiser clients.
+(viii) To use market research to generate audience data.
+Market research can be used to learn about audiences who visit sites / use apps and see advertising contents.
+==========
+To this end, we can:
+Provide aggregate reporting to advertisers or their representatives about the audiences reached by their advertising contents, through panel-based and similarly derived insights;Provide aggregate reporting to publishers about the audiences that were served or interacted with content and/or advertising contents on their property by applying panel-based and similarly derived insights;Combine this information with other information previously collected, including from across websites and apps;
+(ix) Ensure security, prevent fraud and debug.
+Your data can be used to monitor for and prevent fraudulent activity, and ensure systems and processes work properly and securely, in particular:
+Ensure the reliability of the traffic delivered on behalf of our advertising clients;Fight against fraud and ensure the rewards are correctly attributed to users who have taken the appropriate for incentive advertising campaigns;Ensure data are securely transmitted;Detect and prevent malicious, fraudulent, inappropriate or illegal activities;Ensure correct and efficient operation of systems and processes, including to monitor and enhance the performance of systems and processes engaged;
+(x) To display advertising contents technically.
+To provide information and respond to technical calls, we can:
+Use a user’s IP address to deliver an advertising content over the internet;Respond to a user’s interaction with an advertising content by sending the user to a landing page;Use information about the device type and capabilities for delivering advertising contents or content, for example, to deliver the right size advertising creative or video file in a format supported by the device;
+We may associate data obtained offline with data collected online in support of one or more of the above purposes.
+==========
+Regarding your access to our Solution:
+
+(i) To manage your access to the services provided through the Solution and their use;
+
+(ii) To carry out operations necessary for the management of customers with regard to the contracts, orders, deliveries, invoices, fidelity programs, follow-up of the customer relations;
+
+(iii) To constitute a file of registered members, users, customers and prospects;
+
+(iv) To send newsletters, entreaties and promotional advertisements.
+In case you do not wish so, you have the possibility to opt-out of receiving such communications when your data are collected;
+
+(v) To provide commercial and service use statistics;
+
+(vi) To manage unpaid invoices and possible disputes about the use of our products and services;
+
+(vii) To customize our answers to your information requests;
+
+(viii) To respect our legal and regulatory requirements.
+We also inform you that we may process indirectly your data, either from organizers of events in which you participate, who give you access to our services, or from other users of our services.
+6.
+==========
+Recipients of collected data
+
+(i) Regarding the recovery of the visits on points of sale:
+
+We can transfer your identifier for advertiser (IFA) under a hashed form to our subcontractors in charge of the recovery of data related to your visits on points of sale.
+We can also transfer to them your time-stamped location data (latitude and longitude) associated with your advertising identifier (IFA) collected in the « Bid Request » before the advertisement impression.
+(ii) Regarding the technology suite for the purchase of advertising spaces and the diffusion of advertising campaigns:
+
+We can transfer to our subcontractors in charge of the enrichment of “Bid requests” through the use of audiences or to the operators of sites or social networks on which we diffuse advertisements the following data:
+Your identifier for advertiser (IFA)Your time-stamped location data (latitude and longitude)Website name or mobile application name
+We can transfer to advertisers who ordered the diffusion of advertising campaigns or to their subcontractors the following data:
+Your identifier for advertiser (IFA)Your identifier as a user on the website or on the application you useYour IP addressWebsite name or mobile application name you useThe point of sales related to the advertising content
+(iii) Concerning the access to our Solution as a user or prospect:
+
+Access to your personal data will be provided to our personnel, the services in charge of control (including external auditor) and our subcontractors.
+We may also give access to your personal data to government agencies, for the sole purposes of meeting legal requirements, or to representatives of the law, ministerial officers and organizations responsible for the collection of debts.
+7.
+==========
+Personal data storage period
+
+(i) Considering the purchase of advertising spaces and the diffusion of advertising campaigns:
+
+Your personal data are stored for a period strictly necessary to every purpose listed in the article “Collecting personal data”.
+These data are collected under the following conditions:
+The following types of data are deleted directly after their use (strictly limited to the selection of the advertising contents): age, gender (but can be discovered by crossing display data and clicks on advertising campaigns dedicated to a given age range or a specific gender).3 days for time-stamped location data stemming from requests from “real-time bidding” system15 days for logs and connexion data2 months for displays, implying IP address, identifier as a user, identifiers for advisers (IFA), the website or the application visited, the related point of salesUp to 2 years for the clicks: IP address, identifier as a user, identifiers for adviser (IFA) the website or the application visited, the related points of sales
+The storage period for the clicks can last up to two years so as the advertising contents cannot be displayed to you several times.
+(ii) Data concerning current and potential customer management:
+
+Your personal data shall be stored no longer than the time strictly necessary for the management of our commercial relations with you.
+==========
+However, any data providing the proof of a right or a contract and that must be stored in compliance with a legal obligation shall be so for the period stated by the legislation currently in force.
+With regard to possible promotion operations towards customers, their data may be stored for a period of three years from the end of the commercial relations with them.
+The data used to establish proof of a right or a contract, which must be kept for compliance with a legal obligation, will be kept for the period provided for by the law in force.
+Personal data relating to potential customers may be stored for a period of three years from their collection or the last contact from the potential customer.
+Beyond that three-year period, we may contact you again to find out if you still wish to receive commercial solicitations.
+8.
+==========
+Safety
+
+We inform you that we take all necessary precautions, as well as all appropriate organizational and technical measures, to maintain the security, the integrity and the confidentiality of your personal data, including to prevent that they be distorted or damaged and that any unauthorized third-party access to them.
+In this respect, we inform you that we respect the security measures implemented by our data hosting providers, which may be viewed in article “Hosting”.
+9.
+Hosting
+
+We inform you that your personal data are stored, for the term set forth above, on the servers of the following companies:
+OVH, 2 rue Kellermann - 59100 Roubaix - FranceAmazon Web Services, P.O. Box 81226, Seattle, WA, United States 98108-1226
+In both cases, we have selected servers located in the European Union in France.
+10.
+==========
+Transfer outside the European Union
+
+Within the framework of our activity, your data may be subject to transfers to subcontractors or partners located outside the European Union (see article “Recipients of the data collected”).
+The transfer of your data in this context is secure using the following tools:
+Either these data are transferred to a country which has been deemed to offer an adequate level of protection by the European Commission;Or we have concluded with them a specific contract governing the transfer of your data outside the European Union, on the basis of standard contractual clauses between a data controller and a processor approved by the European Commission.11.
+Cookies
+
+For more information on Cookies, we refer you to our Cookie Policy in the appendix.
+12.
+==========
+Advertising identifiers
+
+The personal data collected by Mobsuccess is linked to the advertising identifier.
+Each mobile phone has its own advertising identifier, which allows advertisers to deliver targeted advertising contents.
+Android and Apple platforms enable mobile users to control privacy by blocking targeting advertisements and by resetting their advertising IDs.
+This disables the link between advertising history and future navigation.
+You can deactivate and reset at any time your advertising identifier, if you no longer wish to receive targeted advertisements:
+On iOS: go to "Settings", then to "Confidentiality", then to "Advertising" then to "Reset the advertising identifier";
+On Android: go to "Google Settings" (or "Settings" then "Google"), then in "Ads".
+You will likely receive the same amount of advertisements, but they will be less relevant.
+General instructions on how iOS users can enable Limit Ad Tracking : https://support.apple.com/en-us/HT205223
+General instructions on how Android users can Opt Out of Interest-Based Ads : https://support.google.com/ads/answer/2662922?hl=en
+13.
+==========
+Access to your personal data
+
+In compliance with the French Data Protection Act and the GDPR, you have the right to access, rectify and delete any information concerning you.
+You can exercise this right and have the information concerning you by contacting us at the:
+Email Address: dpo@mobsuccess.comPostal Address: Gilles PERRIN, Mobsuccess SAS, 4 rue du Caire, 75002 Paris, France
+Persons the data of which are processed on the basis of our legitimate interest, as specified in article “Collecting personal data”, are reminded that they have the possibility to object to the processing of their personal data at any time.
+We may however carry on with this processing if there are legitimate reasons for it that should prevail over your rights and freedoms or if it is required in order to establish, exercise or defend our rights before courts.
+14.
+==========
+Rights to define instructions related to the processing of data after your death
+
+You have the right to define instructions with regard to the storage, the erasure and the communication of your personal data after your death.
+These instructions may be general directions, which are focused on all personal data concerning you.
+In such case, they must be registered with a digital trusted third party who is certified by the French data protection authority (CNIL).
+These instructions may also be specific to the data processed by our company.
+You are then required to provide these instructions to us at the:
+Email Address: dpo@mobsuccess.comPostal Address: Gilles PERRIN, Mobsuccess SAS, 4 rue du Caire, 75002 Paris, France
+By providing to us these instructions, you hereby expressly consent that they be stored, transmitted and carried out on the terms and conditions set forth herein.
+==========
+You have the right to appoint in your instructions a person in charge of their execution.
+After your death, this person shall be entitled to take knowledge of these instructions and to request to us their implementation.
+Failing to such appointment, your heirs shall be entitled to take knowledge of these instructions and to request to us their implementation.
+You may modify or revoke your instructions at any time, by writing to us at the above mentioned contact addresses.
+15.
+==========
+Portability of personal data
+
+When accessing to our platform as a client or a prospect, you have a right to portability of the personal data you have entrusted to us, understood as the data you have actively and deliberately declared when accessing to and using our services.
+You are reminded that portability right does not apply on data that were processed on another basis than consent or the execution of a contract between us.
+This right may be exercised free of charge, at any time, including when closing your account on the website, so that you may recover and store your personal data.
+In this context, we shall provide your personal data, by any appropriate means, in an open standard, currently used and machine-readable format, in compliance with the state of art.
+16.
+==========
+Submission of a complaint before a supervisory authority
+
+You are informed that you have a right to submit a complaint before a supervisory authority which is competent in the member State in which your ordinary residence, your place of work or the place in which the infringement of your rights was committed (in France, the French Data Protection Authority – CNIL), if you consider that the personal data processing under this Privacy policy is a violation of the applicable regulations.
+This complaint submission may be exercised without prejudice of other legal action before any administrative or judicial court.
+In fact, you have also a right to effective administrative and judicial redress if you consider that the personal data processing under this Privacy policy is a violation of the applicable regulations.
+17.
+Restriction of processing
+
+You have the right to obtain restriction of your personal data’s processing where one of the following applies:
+Within the period of verification that we carry out, if you contest the accuracy of your personal data;When the processing of these data is unlawful et you request the restriction of this processing, instead of erasing your data;When we no longer need your personal data, but you require their maintenance for the exercise of legal claims;Within the period of verification of the legitimate interests, if you have objected to the processing of your personal data.18.
+==========
+Modifications
+
+We reserve the right, at our sole discretion, to modify this Privacy policy, in whole or in part.
+Any changes will be effective from the time of publication of the new Privacy policy.
+Your use of the Platform after the changes have been implemented implicitly expresses your acknowledgment and acceptance of the new Privacy policy.
+Otherwise, and if the new Privacy policy does not suit you, you must no longer use the services.
+19.
+==========
+Coming into force
+
+This Privacy policy came into force on September 7, 2020
+Appendix – Cookie Policy
+1.
+What is a Cookie ?
+During your browsing on internet (desktop or mobile), cookies, pixels and other tracers (hereinafter collectively referred to as “Cookies”) are placed on your browser or your terminal.
+Cookies are often encrypted small lines of text that are stored in your web browser.
+==========
+They are created when a user’s browser is loading one website: this website sends information to the browser which creates a text file.
+Each time the user is visiting this website, the browser retrieves this file and sends it to the website’s server.
+Thus, each time you visit the site or application, the browser is recognized.
+The deposit of these Cookies is likely to allow us to access your navigation data and / or personal data concerning you.
+2.
+==========
+Types of Cookies
+
+a. Technical and functional Cookies
+
+Technical and functional Cookies (Cookies that are strictly necessary) are Cookies needed for the proper performance of our websites, in order to facilitate your browsing and to carry out some of the functions.
+For example, a technical Cookie can be used to check the quality of traffic and to ensure that it is not generated by a robot.
+We use the following technical and functional Cookies:
+ Name 
+Function 
+Storage period 
+CRAFT_CSRF_TOKEN  
+functional 
+18 minutes (session duration) 
+PHPSESSID 
+functional 
+18 minutes (session duration) 
+tarteaucitron 
+technical (keep your choices regarding third-party cookies)  
+1 year 
+email 
+technical (remember your connection to our platform) 
+1 year 
+password 
+technical (remember your connection to our platform) 
+1 year 
+log 
+technical (check the traffic quality, detect fraud) 
+1 year 
+b.
+==========
+Other Cookies
+
+Advertising Cookies can be created not only by the website users are visiting, but also by other websites or applications which provide advertisements, announcements, widgets or any other element on the displayed page.
+These Cookies can in particular be used to personalize and measure the performance of advertising or to carry out advertising targeting.
+Social network Cookies may be created by social networks for purposes of enabling web designers to share their website content on said networks.
+These Cookies may be used by social platforms for purposes of tracking net surfers’ visit on the relevant website, whether they use or not these Cookies.
+These Cookies allow users, for example, to share content from the websites concerned, their opinion or their use of these sites by clicking on links such as “like” and “share”.
+These Cookies can also be used to track user navigation.
+Furthermore, we invite you to check the privacy policies of the social networks that created these Cookies, in order to be acquainted of the purposes for which they use the browsing information they collect through these Cookies, as well as of the procedures for exercising your rights with these networks.
+Analytical Cookies allow us to measure the number of visits, the number of page views and user activity.
+If necessary, they can collect your IP address to determine the city from which you are connecting.
+Analytical Cookies allow us to generate traffic and navigation statistics in order to improve our performance.
+These Cookies also identify navigation problems and ultimately resolve them.
+==========
+We can use advertising, social network or analytical Cookies.
+You will be informed of this on your first visit to the web page using these Cookies.
+You will then be invited to accept or refuse them in accordance with the procedures described below.
+3.
+==========
+Your Cookie preferences
+Cookies that can be placed without consent
+Some Cookies do not require your consent, such as technical and functional Cookies which are strictly necessary for the operation of our Solution.
+Accepting or refusing Cookies subject to your express consent
+All other Cookies require your consent.
+These are advertising, social network or analytical Cookies.
+You can freely choose to accept or refuse the use of these Cookies.
+==========
+You can accept these Cookies, refuse them and, depending on the sites and applications, modify your preferences at any time while browsing by clicking on the link provided for this purpose.
+Configuration of your browser
+It is also possible to configure your browser to accept or refuse certain Cookies.
+Each browser offers different configuration methods, some examples:
+Internet Explorer : go to the "Settings" menu, then "Internet Option".
+Click on "Confidentiality" then on "Advanced confidentiality settings";Chrome : go to the "Settings" menu then click on "Advanced Settings", then "Confidentiality and Security".
+Finally click on "Sites settings" and "Cookies and site data";Safari : go to the "Settings" application then go to Safari.
+Click the "Privacy and Security" tab.
+==========
+You can now choose to block all Cookies;iOS : go to the "Settings" menu, then "Safari", click on "Cookies".
+You can now choose to block all Cookies; Android : go to "Chrome", click on the "  " tab at the top right of the screen, then "site setting" and then "Cookies".
+You can now choose to accept or block Cookies.
+==========

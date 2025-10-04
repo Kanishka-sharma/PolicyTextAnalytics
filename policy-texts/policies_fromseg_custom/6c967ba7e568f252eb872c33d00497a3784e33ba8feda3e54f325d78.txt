@@ -1,0 +1,117 @@
+Effective 24th May 2018
+ABOUT REVX INC.
+AND THE CONTENT OF THIS PRIVACY POLICY
+RevX is committed to protecting consumer privacy and respecting your right to choice as it relates to advertising and the data used to help serve ads relevant to those consumers.
+RevX is a technology company that helps advertisers (“Clients”) connect with consumers who are interested in, or could benefit from, the advertisers’ products.
+Our Clients is the Controller in terms of the applicable data protection regulations and RevX is the processor of data.
+Protecting consumer privacy is a top priority to RevX.
+See below for our complete Privacy Policy.
+This policy also outlines our privacy practices on our corporate Website (“Website”), RevX.IO.
+After reviewing the Privacy Policy, if you have any further questions, please contact us at This email address is being protected from spambots.
+You need JavaScript enabled to view it.
+.
+==========
+RevX’s products and services are designed to help Advertisers optimize deliveries and ROI on their ad campaigns.
+We are a Advertisers focused technology platform.
+RevX technology allows advertisers to buy ad space on websites or in apps, and allows for the use of proprietary data in the purchase of that ad space.
+When ad space is bought or sold digitally (usually to an advertiser or ad agency by a publisher or other content provider) the RevX technology, fulfils the transaction by delivering the ad to internet and mobile users who visit that site, use that application (for example).
+Generally, an Internet user’s computer, browser or device comes into contact with RevX when a user views an ad delivered or serviced by or with our Technology.
+==========
+Serving users relevant advertising is sometimes referred to as interest based advertising or online behavioural advertising (“OBA”).
+Ad creatives that you see come from the Advertisers and usually the ads are served from RevX’s ad server running on atomex.net domain, or from the same domain as the Advertisers or the Ad Exchanges.
+Generally, a user will encounter an ad from one of our Advertisers by viewing the content on a website owned or operated by one of our Supply Partners.
+==========
+We will not use or share your information with anyone except as described in this Privacy Policy.
+This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources.
+==========
+Privacy Practices for Our Technology:
+INFORMATION OUR TECHNOLOGY COLLECTS AND PROCESSES
+Our technology collects and processes information generally known as non-personally identifiable information (Non-PII), including but not limited to your IP host address, the date, time, and time zone of the ad request, pages viewed, browser type, the referring URL, and your computer’s operating system.
+We also may collect analogous Non-PII from mobile platforms, which may include information about your interactions with those applications (including your IP address and time-stamp information), and information about your mobile device (including device type, handset name, operating system information, mobile identifiers such as Apple IDFA andinter Android Advertising ID, app-specific identifiers, and a list of the applications your device interacts with).
+==========
+Any information that is collected from mobile platforms is always collected through a marketing attribution platform (MMP) used by our Clients.
+In other words, our technology never collects user’s behavioural information directly from the user’s mobile device.
+==========
+Also, we receive, and process data solely provided by our Clients (i.e. Controller).
+The Clients determines the purposes and means on how we process users’ data.
+We have no direct relationship with the Clients users whose information we process.
+A user of a Clients who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Clients (i.e. Controller) directly as the Clients is the body collecting the data.
+If a user wishes us to stop being considered for interest-based advertising please refer to the below section about opt-out.
+==========
+We use cookies, web beacons or mobile device ID for select purposes to help us collect some of the information we have described above.
+We use them in order to track when we deliver an advertising impression so that we can correctly credit it to a Demand Partner and invoice that Demand Partner.
+We also drop a cookie for counting frequency of exposure to a particular ad to meet a Demand Partner’s campaign objective around frequency capping.
+==========
+As a buyer of RTB inventory available for sale on sell-side platforms and exchanges (Supply Partner), we do map anonymized user identification number (“UID”) against Supply Partner’s anonymized UID so as to gain handle to the underlying impression and be able to serve appropriate ad on that impression.
+HOW REVX USE INFORMATION OUR TECHNOLOGY COLLECTS
+RevX uses Non-PII to target and serve or to help our Clients to target and serve relevant advertising to consumers and to perform attribution analysis or other analytics regarding advertising audiences, as well as to compile, match and link audiences on behalf of Clients.
+For instance, we may, or help our Clients to, use this Non-PII to:
+• Determine what ad to show a consumer, and customize ads to particular types of audiences;
+• Analyze the performance of an advertising campaign for the Clients and to provide our Clients with performance reports;
+• Limit the number of times a consumer sees an ad or a type of ad.
+==========
+We are unable to combine the data we receive in a way that would enable us to personally identify users and we do not combine the data with any third party data that would enable us to do so.
+We do not knowingly collect or obtain from third parties, any personal data, including any “sensitive personal data,” for OBA purposes, as defined under Directive 95/46/EC, and we contractually prohibit third parties from putting this data in our platform.
+==========
+DATA STORAGE & SECURITY
+RevX is conscious of the importance of your data to you and conscientious about protecting that data from loss, theft, or misuse.
+All of the non-PII data collected by RevX is stored using the same security measures that we use to protect our own proprietary corporate data.
+Only authorized users are able to access the data we collect and store.
+While we cannot absolutely guarantee the security of the data we store, we do use all commercially reasonable measures to protect this information.
+We retain the Non-PII collected via our Service at a user level for certain period in order to ensure that our Service is functioning properly.
+We retain data at an aggregated level – so that no individual user, albeit anonymous, could be picked out from the data – indefinitely for purposes of reporting and system analytics.
+If you have any questions about our security practices, please send an email to us at This email address is being protected from spambots.
+You need JavaScript enabled to view it.
+.
+INTEREST BASED ADVERTISING AND OPTING OUT
+RevX receives app and web usage data from our advertising partners through intermediary technology such as measurement platform, we use this data to infer your interests and to provide more relevant advertising to you.
+==========
+This is known as Interest-Based Advertising (“IBA”).
+If you are using a mobile device, you may be able to opt out of receiving IBA by RevX based on app usage data, through your device settings as described below.
+==========
+We provide the following descriptions solely for informational purposes.
+For additional information and up to date methods of opting out, you should consult your device settings, and instructions provided by device manufacturers.
+Android Users (version 2.3 and above) To use the “opt-out of interest-based advertising” option, follow the instructions provided by Google here: Google Play Help
+If you don’t have the Google Play Services installed on your device, you won’t receive RevX services.
+iOS users (version 6 and above) To use the “Limit Ad-Tracking” option, follow the instructions provided by Apple here: Apple Support Center
+Please note that these are device settings and will disable interest-based ads from all providers, and not just for us.
+We have decided to offer this way of opting-out, as we estimate users will either want to receive interest-based advertising or no interest-based advertising at all.
+The above described way is most efficient to achieve that goal.
+==========
+If you are using a web or mobile browser, you can opt-out following the instruction below:
+Desktop and Mobile web browser To opt out, click on the link here: Opt-out
+Please note that if you opt-out but later delete, block or otherwise restrict cookies, RevX opt-out may not function as desired.
+Even if you have opted out once, if you later access the website from a different computer or Internet browser, you would need to opt-out in that environment as well as opt-out is browser and computer-specific.
+Deleting a cookie or opting-out does not mean you will no longer receive online advertising; it only means that you will not see targeted ads.
+==========
+INTERNATIONAL TRANSFERS AND PRIVACY SHIELD
+RevX uses Amazon Web Services for storing the user data of its Clients that it had collected through its Service.
+Amazon Web Services participates in the EU-US Privacy Shield framework.
+While some countries may not have data protection laws that are equivalent to those of the country in which you reside, we will take reasonable measures to protect your information in accordance with this Privacy Policy and all applicable legal requirements.
+==========
+YOUR RIGHTS TO THE DATA
+Under the GDPR we process data as processor and not as a Controller.
+Therefore, if users wish to exercise their rights (i.e. right relating to access, correction or deletion etc) under the GDPR or have any questions in this matter, please contact the relevant Controller directly.
+The Controller here is our Clients who is responsible for uploading and storage of such data into our Service
+As a processor, we are obliged and committed to assist our Clients (i.e. Controller) to fulfil their GDPR obligations.
+REVX INFORMATION SHARING RIGHTS
+Unless you otherwise permit RevX to share the Non-PII information it has collected about you, it will only share that information with the following third-parties and in the following circumstances: (i) to the appropriate authorities when we reasonably believe we are obligated to do so by law, or in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person; (ii) to a court of law, arbitration panel, or similar body to enforce or protect our rights either under law or as granted by an agreement; (iii) to the company or entity that acquires all or substantially all of RevX’s assets, including if the acquisition occurs as the result of RevX’s bankruptcy; or (iv) to third parties that help us provide the Service to Clients, that act as Supply Partners on our RTB service, or that enter into strategic partnerships with us which allow us to expand the Service for our Clients.
+==========
+CHILDREN UNDER 13 YEARS OF AGE
+RevX’s advertising products & service are not intended for persons under 13 years of age, and are not intentionally developed for or directed to children.
+We do not knowingly solicit or collect any personally identifiable information from children under the age of 13, nor do we knowingly market our products or services to children under the age of 13.
+==========
+CHANGES TO REVX PRIVACY POLICY
+We may revise this Privacy Policy at any time.
+The amended Privacy Policy will be displayed on our site.
+If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective.
+Please check our Privacy Policy regularly to ensure you have read the latest version.
+CONTACTING US
+Should you have any questions in regards to this Privacy Policy, please contact our representatives at the following email and they will be more than happy to clarify and assist you in any way possible: This email address is being protected from spambots.
+You need JavaScript enabled to view it.
+or by mail at
+RevX Inc.
+3500 South DuPont Highway,
+Dover, County of Kent,
+Delaware 19901, USA
+==========

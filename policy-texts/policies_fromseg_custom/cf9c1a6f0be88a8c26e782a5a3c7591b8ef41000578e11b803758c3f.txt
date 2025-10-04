@@ -1,0 +1,114 @@
+Sift Science Service Privacy NoticeLast Updated: November 29, 2016Part I. General InformationOur commitment to privacySift Science, Inc. (“Sift Science”, “we” or “us”) helps online businesses (our “Customers”) detect and address fraud and other malicious behavior on their digital properties.
+In doing so, we collect information about how Internet users (“Users”) interact with our Customers’ digital properties such as their websites and mobile applications (their “Customer Sites”).
+We keep privacy firmly in mind when developing, designing and operating our cloud-based, machine-learning platform that is used to predict user intent and prevent fraudulent activity in real time ("the Sift Service").
+We have set out in this Service Privacy Policy an explanation of our information privacy practices in 
+connection with the provision of the Sift Service to Customers, as well as the decisions Customers make 
+regarding the information they provide to us and the options available to Users concerning their information.Please note that this Service Privacy Policy does not describe our collection and use of information when 
+visitors access our website.
+For an explanation of how we collect and use information via our website, siftscience.com and its sub-domains, please see our Site Privacy Policy.
+==========
+Introduction to Sift ScienceThe Sift Service begins when Customers provide us with data and information about Users and their interactions with the applicable Customer Site (“Service Data”).
+Customers provide that Service Data via our REST Application Programming Interfaces and management console.
+Sift Science takes the Service Data and uses our 
+proprietary analytics algorithms to convert it into a holistic and relative score (the “Risk Assessment”)  concerning the specified activity on the Customer Site (e.g. purchase transactions, public profile creation or postings, etc.).
+==========
+This assists in identifying and preventing fraudulent 
+activity on the Customer Sites.Our Customers then decide what action to take, or not to take, based on the Risk Assessment.
+For example, they 
+may choose to block a transaction if there is a high risk of it being a fraudulent transaction.
+Customers also 
+provide us with ongoing feedback on the accuracy of the Risk Assessment by reviewing transactions and activity 
+for fraud.Part II.
+==========
+Raw Data and How We Use ItService Data that our Customers provide to usOur Customers decide  the types / format of Service Data they wish to send to Sift Science for analysis using 
+the Sift Service.
+We encourage Customers to work closely with the Sift Science solutions and support teams to 
+assess the utility of the specific Service Data they send to us.
+Our goal is to help Customers assess whether 
+certain activity is problematic, for example, helping to assess the likelihood of payment information being 
+stolen or a User’s identity being false.Specifically, Customers may send Sift Science personal information provided by the User, such as email 
+addresses, billing addresses, shipping addresses, user login name, and telephone numbers.
+Customers may send us 
+information about User behavior on their Customer Sites, including the IP address of the device used, the pages 
+navigated by the User, time of login/logout, items viewed, added to cart or purchased.
+Customers may send data 
+points about the form of payment, such as order amount, payment method, partial credit card numbers, and order 
+status.In addition, Customers may provide us with information about correspondence or commentary that Users leave on 
+their Customer Sites (e.g. private messages, forum posts, product reviews).
+==========
+This information helps Sift catch 
+unsolicited content so that our Customers can operate cleaner services.Customers may also place JavaScript code issued by Sift Science (“Sift JS Snippet”) onto their Customer Sites in order to enable us to collect unique device identifiers, including device metadata, from Users 
+automatically.
+The Sift JS Snippet collects information to uniquely identify the device the User is using.
+From 
+time to time, we may alter our device fingerprinting technology to improve its effectiveness at identifying a 
+device.Similarly, in connection with their mobile applications, Customers may integrate with Sift-provided SDKs to 
+help prevent fraud that may occur through their applications.
+The SDKs may enable Sift to collect more precise 
+information about the user's location, such as GPS (if the location settings allow it) and IP address.
+Additionally, the SDK may collect phone-related metadata (e.g. battery level, device properties, carrier name, 
+motion and proximity information) and unique device identifiers.
+==========
+The security of all of the Service Data we receive is protected by Sift as further described below.Part III.
+Other Information We Collect and How We Use ItInformation we collect from Customers (the “Customer Information”)We will collect information about each Customer when they register for the Sift Service, such as company name, 
+URL, fraud-related information, and company size.
+We also collect personal information of those individuals 
+that represent Customer in connection with the use of the Sift Service, such as full name, email address, 
+phone number.
+We will use that information for correspondence concerning Customer’s use of the Sift Service.If the Customer pays by credit card, our payment processor will collect that information (Sift does not store 
+full credit card data).
+We will also collect billing contact information.
+Such information is used for 
+billing purposes.We may also use the information you provide to us for our marketing purposes, if this is in accordance with 
+your marketing preferences.
+However, you will always be able to opt-out of our marketing at any time (see 
+the "Unsubscribe from Our Mailing List" section below).
+==========
+How we use Customer Information we collectWe may use Customer Information to:provide and bill for the Sift Service;analyze Customers' use of the Sift Service for business analytics and to improve the Sift Service;send Customers technical alerts, updates, security notifications, and administrative communications;send Customers marketing information in accordance with their marketing preferences, andfor any other purposes about which we notify Customers.Part IV.
+Sharing and Disclosure to Third PartiesVendors, consultants and other service providers: We may share Customer and User information with third party vendors, consultants and other service providers who are working on our behalf and with whom 
+the sharing of such information is necessary to undertake that work, e.g. to process billing or to provide 
+customer support.Data enrichment: We may share minimal Service Data (e.g. email addresses) with select third-party vendors for data enrichment purposes.
+Enriching data allows us to provide a richer subset of data 
+from which to make more informed fraud risk assessments.
+For example, we share select user email addresses with 
+a third party to obtain links to publicly-available social profiles.
+==========
+Prior to sharing data with a vendor, Sift 
+Science assesses the vendor’s security controls to ensure the data is adequately protected.Compliance with laws: We may disclose Customer Information and Service Data to a third party where we are legally required to do so in order to comply with any applicable law, regulation, legal process or 
+government request.Vital interests and legal rights: We may disclose information about you if we believe it necessary to protect the vital interests or legal rights of Sift Science, our Customers or the rights or 
+property of others.Corporate Affiliates and Transactions: We may provide your information to our affiliates (meaning any subsidiary, parent company or company under common control with Sift).
+Our affiliates will use your 
+information only as described in this Service Privacy Policy.
+Additionally, if Sift Science is involved in a 
+merger, acquisition or sale of all or a portion of its assets, Customer Information and Service Data may be 
+shared or transferred as part of that transaction, as permitted by law.Part V. International TransferProcessing of information in the U.S.; International Data Transfer ComplianceWhile Customers may use the Sift Service from outside of the United States, information collected via the Sift 
+Service is transferred to and hosted on our servers in the United States.
+We will protect Customer Information 
+and Service Data in accordance with this Service Privacy Policy wherever it is processed.Sift Science will work with Customers across the world to provide the contractual protections needed for 
+Customer’s compliance with the laws of their jurisdiction.
+==========
+With respect to data concerning EU residents, we 
+offer model clauses to our EU-based Customers upon e-mail request  to modelclauses@siftscience.com.Part VI.
+SecurityWe use appropriate technical and organizational security measures to protect personal information processed as 
+part of the Sift Service against unauthorized access, disclosure, alteration, and destruction.For the latest information about the controls we have in place to safeguard customer information, view our Security and Privacy Overview.Part VII.
+Individual Privacy RightsWe provide all Customers and Users with the opportunity to access, review, modify, and delete any personal 
+information included in the Customer Information or Service Data, as required by applicable law.
+==========
+You can send an email to privacy@siftscience.com.
+If you make a request to access your personal information we may charge you a fee subject to a maximum specified by applicable law.Unsubscribe from our mailing listCustomers may at any time ask us to remove their details from any mailing list on which they previously asked us 
+to include them by clicking "Unsubscribe" in any e-mail communications we send to them.
+If Customers have any 
+questions in relation to the "Unsubscribe" process, then they should feel free to get in touch via the contact 
+details set out below.Part VIII.
+==========
+Other Important InformationChange to this policyWe may revise this Service Privacy Policy from time to time.
+If we do so, we will update the "Last Updated" date 
+above.
+Customers and Users should revisit this page to stay aware of any changes.
+If we make any material 
+changes to this Service Privacy Policy, we will post the updated version here and notify applicable Customer 
+and/or Users by email or by means of a prominent notice on our website.ContactPlease contact Sift Science with any questions or comments about this Privacy Policy or our privacy practices by email at privacy@siftscience.com or in writing to:Sift Science, Inc.
+Attn: Privacy Officer
+123 Mission Street, 20th Floor
+San Francisco, CA 94105Privacy ResourcesWebsite Privacy PolicySecurity and Privacy OverviewTrust PageTerms of Service
+==========

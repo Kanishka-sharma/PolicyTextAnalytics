@@ -1,0 +1,9 @@
+AWS classifies customer data into two categories: customer content and account information.
+We define customer content as software (including machine images), data, text, audio, video, or images that a customer or any end user transfers to us for processing, storage, or hosting by AWS services in connection with that customer's account, and any computational results that a customer or any end user derives from the foregoing through their use of AWS services.
+For example, customer content includes content that a customer or any end user stores in Amazon Simple Storage Service (S3).
+Customer content does not include account information, which we describe below.
+The terms of the AWS Customer Agreement and the AWS Service Terms apply to your customer content.
+We define account information as information about a customer that a customer provides to us in connection with the creation or administration of a customer account.
+For example, account information includes names, usernames, phone numbers, email addresses, and billing information associated with a customer account.
+The information practices described in the AWS Privacy Notice apply to account information.
+==========

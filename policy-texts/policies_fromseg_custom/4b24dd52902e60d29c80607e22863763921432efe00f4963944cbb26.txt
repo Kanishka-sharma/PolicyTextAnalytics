@@ -1,0 +1,136 @@
+Intowow Innovation Ltd. (“Intowow”, “we”, or “us”) puts great effort into making sure that personal information is safe and used only into full compliance with applicable data protection laws and regulations.
+Intowow develops and operates several services in the ad-tech environment, such as direct sales service, mediation service, ad exchange, and other online advertising-related services, all of which may include advertising management services, such as optimization, ad serving, campaign management and the compilation of relevant statistical data (collectively, the “Services”).
+This privacy policy (“Policy”) explains Intowow’s privacy practices for processing personal information on Intowow’s website (the “Site”) and via Intowow’s Services.
+It applies whenever you access or use the Site or the Property of a Supply Partner that is connected and/or uses the Services (as applicable).
+Our Services are not directed to children under 16 years of age and we do not intentionally or knowingly collect personal information on such users.
+==========
+Please take the time to read the full Policy.
+Capitalized terms used herein are defined in this Policy.
+1.
+==========
+The Services
+Intowow provides website and/or mobile application/website developers and/or owners publishers (collectively, “Supply Partners”) and advertisers, agencies, DSPs, SSPs and/or ad networks (collectively, “Demand Partners”; Supply Partners and Demand Partners are also referred to hereinafter as “Customers”) with the following Services:
+
+Direct Sales service, which enables Supply Partners and Demand Partners to run ad campaigns on certain Properties;
+Mediation service, which enables Supply Partners to optimize placement of ads by third-party Demand Partners on their website or mobile application/website (“Property” or “Properties”) and for Demand Partners to buy ad inventory and serve ads directly on such Properties;
+Ad Exchange service, which enables Supply Partners to make their ad inventory available for purchase by Demand Partners for their ad campaigns via a programmatic auction and for the winning ad of such auction to be served by a Supply Partner;
+Marketplace service, which enables Supply Partners to make their ad inventory available for purchase by Demand Partners managed and represented by Intowow.
+Intowow may offer ancillary services to the services described above.
+Intowow’s Customers are required to provide an adequate notice to users about this Policy and to provide a privacy policy of their own, as required by the applicable legislation.
+2.
+==========
+The Personal Information that Intowow collects and receives
+Intowow collects personal information in order to provide Services and for other specific purposes, as described in this Policy.
+Please note that you are not required by law to provide Intowow with any personal information.
+Intowow only collects information that the Supply Partner has instructed and authorized us to collect, and subject to your permissions inside the Property and/or your mobile device.
+Some information is collected via our Software Development Kit (“SDK”) which is integrated into the Property you use.
+Other information may be received via an API integration between Intowow’s server and Supply Partner’s server, and/or between Intowow’s server and trusted third-party servers.
+==========
+Additional information may be received by embedding tags on websites you visit.
+From time to time, Intowow may use additional or alternative tools to collect information, in which case this Policy will be amended accordingly.
+When interacting with the Property, Intowow may collect/receive the following information:
+
+Information about your device, such as device type and model, network provider, browser type, language.
+==========
+Information about the Property, such as package name, keywords, version.
+Information about your operating system, such as Android, iOS.
+Information about your mobile advertising identifiers, such as your Apple IDFA or Google AAID.
+Information provided by your device, such as device IP address, network connection type and device GPS location (only if you provide permission).
+==========
+Information Intowow may receive from Supply Partners, such as your age, gender, zip code, GPS location.
+Information Intowow may receive from trustworthy third parties about you from sources other than the Property, such as non-precise device location based on IP address, device specifications and user’s interests.
+3.
+What does Intowow do with Personal Information?
+Intowow uses the personal information that we collect and receive for the following purposes:
+
+Advertisement Targeting: for the purpose of serving you the ads that are relevant to you and may interest you.
+==========
+Campaign Reporting: for advertisers to report performance of their ad campaigns and improve their ad performance over time.
+Brand Safety: for the purpose of facilitating third party analytics and verification to prevent issues such as ad fraud, bot traffic, viewability and ad security.
+Law Enforcement and Legal Investigation: (a) as required by law, such as to comply with a subpoena, or similar legal process; and/or (b) when we believe in good faith that disclosure/share is necessary to protect our rights, protect your safety or the safety of others, or to investigate fraud.
+==========
+Data Analytics and Services Improvement: for the purpose of maintenance, protection and improvement of our Services.
+Intowow commits to process personal information solely for the purposes described in this Policy.
+To the extent relevant and possible, Intowow will make commercially reasonable efforts to maintain accurate information that is complete and up-to-date.
+4.
+==========
+Sharing Personal Information with others
+Intowow may share personal information for the following purposes:
+Share it with Intowow’s trusted Demand Partners:
+
+For the purpose of serving you with contextual and/or targeted ads that are relevant to you and may interest you.
+For ad reporting purposes and for Demand Partners to have information about the performance of their ad campaigns.
+Share it with Supply Partners:
+
+To help Supply Partners understand how users are engaging with ads, what kind of users are most engaging with certain types of ads on their Property, and what kind of ads are published on their Property.
+Share it with Third Parties:
+
+To receive additional data on you from sources other than the Property in order to help analyze and enrich the information collected on you, as well as serve you with more relevant and targeted ads on the Property and elsewhere.
+To receive Third Party’s services, such as fraud protection, bot detection, rating, analytics, viewability, geo location services, ad security and verification services.
+==========
+Share of transfer it if Intowow is involved in a merger, acquisition, or sale of all or a portion of its assets, as part of such transaction.
+You will be notified via a prominent notice on Intowow’s website of any change in ownership or uses of this information.
+In any event, your information will remain protected under this Policy.
+Share it in any circumstances where Intowow receives your written consent.
+5.
+==========
+Information Security
+Intowow is committed to safeguard the confidentiality of your personal information.
+Intowow and its hosting services implement systems, applications and procedures to secure your personal information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information.
+All personal identifiable information (“PII”), such as IP address, IDFA and GAID, processed or collected by Intowow is pseudonymised with encryption.
+The transmission and processing of all data collected by Intowow are based on https protocol.
+Intowow limits access to information to authorized personnel on a need to know basis in order to operate, develop or improve the Services.
+While all measures provided reflect the current industry standard of security, Intowow cannot guarantee that the Services will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
+6.
+==========
+Your EU Data Subject Rights
+Intowow is committed to and assists our controllers as to data subjects’ rights under the General Data Protection Regulation (Regulation (EU) 2016/679) (“GDPR”).
+Under the GDPR, Intowow processes data provided to our Direct Sales service as a processor and not as a controller.
+Intowow processes data provided to our Mediation service, Ad Exchange service, and Marketplace service as a controller.
+Your data subject rights include:
+
+The right to request to access personal data.
+==========
+The right of rectification or erasure.
+The right to object.
+The right to restriction of processing.
+The right of data portability.
+The right to withdraw your consent.
+The right to lodge a complaint.
+The right to opt out from direct marketing and/or decisions made solely on automated processing.
+==========
+Please contact us if you wish to exercise your rights under the GDPR or have any questions in this matter.
+To exercise your above rights under the GDPR, please provide us with your device mobile advertising identifiers and the application store urls of the applications on which you wish to exercise your rights.
+7.
+==========
+Data Retention
+As a general practice, all PII processed or collected by Intowow is pseudonymised with encryption.
+Intowow stores your pseudonymised personal information for as long as 13 months.
+Intowow also uses and stores your personal information to prevent fraud.
+In certain cases, where Intowow suspects that the Property that you have used may be vulnerable to fraudulent activities, Intowow may store and use your personal information, if needed, up to 13 months after you discontinue using the Property for fraud detection purpose.
+Please note that Intowow may be required to retain certain information by law.
+Aggregated data may be retained by Intowow for longer periods and via a third-party analytics platform.
+Intowow will ensure that personal information is processed for no longer than necessary for the purposes for which the personal information was provided.
+8.
+==========
+Transfer of Data Outside Your Territory
+If you are a resident in a jurisdiction where transfer of your personal information to another jurisdiction requires your consent, please provide Intowow your express and unambiguous consent to such transfer.
+If you are a resident of the European Economic Area (EEA), your personal data is processed and stored by Amazon Web Services (AWS) Cloud in the US on Intowow’s behalf in accordance with the highest degree of security of AWS.
+To the extent necessary under EU privacy laws and regulations, Intowow will implement data onward transfer instruments, such as the Controller to Processor SCCs, the EU-U.S. and Swiss-U.S. Privacy Shield Framework and a statement of compliance with the Privacy Shield Principles.
+Intowow may implement other or additional onward transfer mechanisms, as may be available from time to time.
+9.
+==========
+Changes to This Privacy Policy
+From time to time, Intowow may update this Policy.
+The updates will take effect 7 days after the notice is posted on our Site.
+Until the new policy takes effect, you can choose not to accept and terminate your use of the Services.
+Continuing to use the Services after the new policy takes effect means that you agree to the new policy.
+Note that if Intowow needs to adapt the policy to legal requirements, the new policy will become effective immediately or as required.
+10.
+Your Consent
+By using Intowow Services, you are consenting to our collection and use of your information as set forth in this Policy now and as amended by us at any given time.
+11.
+Contact Us
+This Privacy Policy was last updated on May 10, 2018.
+Should you have any questions or concerns, please contact us at info@intowow.com.
+==========

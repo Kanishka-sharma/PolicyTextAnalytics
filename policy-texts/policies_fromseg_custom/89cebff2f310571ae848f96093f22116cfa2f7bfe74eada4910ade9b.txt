@@ -1,0 +1,86 @@
+The Wayback Machine - https://web.archive.org/web/20130820032037/https://foursquare.com/privacy/
+Last Updated: June 20, 2013
+Privacy 101
+What we think about when we think about privacy
+Foursquare deals with location and social information, and we're thrilled to have so many passionate users both trust us and find the Foursquare app useful enough to open it up every day.
+However, we know an important concern for most anyone using location-based services is privacy.
+==========
+We want everyone to feel comfortable that their trust has been well placed, which is why we've written this description of our privacy ethos - the guiding principles that inform how we develop Foursquare and the decisions we make.
+Our full Privacy Policy is available here and our Privacy FAQs are available here.
+Foursquare is meant to help you make the most of where you are, and, as such, we attempt to craft our product so that your digital privacy mirrors what real-world privacy is like.
+==========
+Here are some examples of what that means:
+When you check in at a location, it's like telling a friend where you are.
+Your check ins are ONLY shared with others when you proactively decide to "check in" to tell Foursquare you're at a particular location.
+==========
+A business owner (say, a restaurant manager) can see their top customers on Foursquare, just as they could identify the people who walk through their door most often.
+Foursquare can tell you who is at a location (we call this 'Here Now'), but we make the visibility match what happens in the real world:
+You always can see where your friends are if they've checked in, just like if they'd texted you to let you know.
+We also give you a glimpse into which other Foursquare users are currently checked in at nearby locations.
+==========
+Since we realize some folks may not want to appear on this "Here Now" list, you can opt out of this feature on your account settings.
+Obviously, there are certain things that don't have a perfect allegory for the real world (e.g., posting photos to a location or liking a tip), but we try to make responsible choices, communicate them clearly, and give you privacy options where we think you'll want them.
+==========
+To make it easier for you to understand how your information is shared on Foursquare, We've put together Privacy FAQs that describe our default privacy settings and how they can be adjusted.
+We've also divided the FAQs into buckets to make your answers easier to find:
+Shared with Everyone
+Shared with Friends
+Shared with Locations and/or Brands
+Determining Location
+Foursquare deals with location, so in order to work, Foursquare needs to know your location.
+Whenever you open and use/interact with the Foursquare app on your mobile device or go to Foursquare.com, we use the location information from your mobile device or browser (e.g., latitude and longitude) to tailor the Foursquare experience to your current location (i.e., we'll show you a list of nearby locations, friends and tips).
+This information is NOT shared with others.
+Also, if you use Radar to receive notifications of tips/friends/etc.
+==========
+, near you, the Foursquare app will, from time to time, tell us about your device's location so that we can inform you of things of interest near you even if you are not directly interacting with the application.
+Sharing Location
+Your location data is ONLY shared with others when you proactively decide to "check in" to tell Foursquare you're at a particular place or, if you have turned on 'check-in by friends,' when your friend mentions you in his or her check in.
+The location information shared with a "check in" is the location information of that place.
+Each of your Foursquare check-ins is saved to your "Check-in History," which allows you to look back at all the locations you have checked in since you created your Foursquare account.
+You can delete any or all of your check-ins from the check-in details page on the Foursquare website and Foursquare app.
+If for some reason you ever decide to delete your Foursquare account, your entire check-in history will be removed from our database.
+Sometimes you'll want to check in without sharing your specific whereabouts with friends.
+This is why we created "Private check-ins" -- a way of adding locations to your check-in history, earning points and adding to your badge counts, while maintaining complete privacy (even from friends).
+We find this comes in handy on dates, dinners with parents, or at a coffee shop when you're just trying to get some work done - really anywhere where you don't want friends to drop in.
+==========
+To check-in "privately", simply select "No" on the "Share this check-in with friends" option seen on every "check-in" screen across our mobile apps.
+As noted below, in the Information Sharing: Publicly Available Information, Apps, and The Foursquare API section, while your private check-ins will not be visible to the public or your friends, we may share the fact that such check-in has occurred in an anonymous manner.
+Adding Your Home Address As A Location:
+You should be aware that if you or your friends add your home as a new location in the Foursquare database and that information is published on the Foursquare service (for example, via a user checking in to that home location), that information may be available to others and may be published by third parties without our control.
+To request removal of a location from the Foursquare database (including your home address) please email us at privacy@foursquare.com.
+Explore
+Foursquare not only allows you to tell your friends where you are.
+Foursquare will recommend locations for you to go.
+The Explore feature of Foursquare gives you recommendations about where to go and specials and offers nearby.
+These recommendations are based on and include the locations you've been, the locations your friends have visited, locations and things you and your friends like/dislike, your loyalty to your favorite locations, the categories and types of locations you go, what locations and things are popular with other users, the day of the week, locations with great tips, the time of day, and so on.
+If you don't want your friends to see your check-ins as part of what they see in Explore you can check-in privately.
+==========
+Please note, however, that your private check ins will still be used by the Explore feature, in the aggregate, to help us determine what things are popular with Foursquare users in general.
+Here Now
+One of the benefits of Foursquare is that it allows you to connect with other users in your neighborhood.
+We've specifically designed features that can give you a glimpse into which other Foursquare users (both friends and non-friends) are currently checked in at nearby locations.
+==========
+In our mobile apps, you'll find this information listed when you click on a location.
+Since we realize some folks may not want to appear on this "Here Now" list, you can opt out of this feature on your account settings.
+==========
+Sharing to Third Party Services (i.e., Twitter and Facebook)
+Foursquare gives you the option of sharing some of your activity to your Twitter and/or Facebook accounts.
+Of course, when you publish Foursquare check-ins, Mayorships, or badge unlocks to Twitter or Facebook, this information will be viewable by the communities on those services (and in the case of Twitter, may be discoverable by search engines).
+Please see Privacy FAQs for more information on what happens when you choose to connect your Foursquare account to your Twitter or Facebook accounts, and how you can adjust which information you share across these services.
+Information Sharing: Publicly Available Information, the Foursquare API, and Apps
+When you use Foursquare, certain information is public, such as your public user profile information, tips, likes, public photos, lists that you create and lists of friends, and may be shared with or disclosed to third parties, including through our API to a wide range of users and services.
+We may also share or disclose aggregated and anonymous data, such as anonymized check-in data (that is, not tied to individual users), to third parties, including users of our API, for analytical or other purposes.
+==========
+In addition, use of third party apps developed using our API is subject to the terms of use and privacy policies of such third party developers.
+Certain Personal Information may be made available to third party developers if you or your "friends" use these third party apps.
+You should review the policies of third party apps and websites to ensure that you are comfortable with the ways in which they use the information you share with them.
+We do not guarantee that they will follow our rules or our Privacy Policy.
+Note that your friends will be able to see which third party apps you use.
+Your Privacy is Important
+The bottom line is that we understand how important privacy is to you.
+==========
+From the beginning we've been working hard to build a range of robust privacy controls into the Foursquare experience to give users control over the amount of information they share about their location.
+We've been a leader in the location-based services space - popularizing the concept of voluntarily "checking in" to locations - and we aspire to be leaders in the way we educate our users on privacy issues related to location awareness.
+Privacy Policy
+For further information on Foursquare's approach to these issues, please see our Privacy Policy and our Privacy FAQs.
+==========

@@ -1,0 +1,53 @@
+Microsoft collects data to operate effectively and provide you the best experiences with our products.
+You provide some of this data directly, such as when you create a Microsoft account, administer your organization’s licensing account, submit a search query to Bing, register for a Microsoft event, speak a voice command to Cortana, upload a document to OneDrive, purchase an MSDN subscription, sign up for Office 365, or contact us for support.
+==========
+We get some of it by recording how you interact with our products by, for example, using technologies like
+    cookies, and receiving error reports or usage data from software running on your device.
+We also obtain data from third parties.
+We protect data obtained from third parties according to the practices described in this statement, plus any additional restrictions imposed by the source of the data.
+==========
+These third-party sources vary over time, but have included:
+Data brokers from which we purchase demographic data to supplement the data we collect.Social networks when you grant permission to a Microsoft product to access your data on one or more networks.Service providers that help us determine a location based on your IP address in order to customize certain products to your location.Partners with which we offer co-branded services or engage in joint marketing activities, andPublicly-available sources such as open government databases or other data in the public domain.You have choices about the data we collect.
+When you are asked to provide personal data, you may decline.
+But if you choose not to provide data that is necessary to provide a product or feature, you may not be able to use that product or feature.The data we collect depends on the context of your interactions with Microsoft, the choices you make, including your privacy settings, and the products and features you use.
+The data we collect can include the following:Name and contact data.
+We collect your first and last name, email address, postal address, phone number, and other similar contact data.
+==========
+Credentials.
+We collect passwords, password hints, and similar security information used for authentication and account access.Demographic data.
+We collect data about you such as your age, gender, country, and preferred language.Payment data.
+We collect data necessary to process your payment if you make purchases, such as your payment instrument number (such as a credit card number), and the security code associated with your payment instrument.Device and Usage data.
+We collect data about your device and how you and your device interact with Microsoft and our products.
+For example, we collect:Product use data.
+We collect data about the features you use, the items you purchase, and the web pages you visit.
+==========
+This data includes your voice and text search queries or commands to Bing, Cortana, and our chat bots.
+This also includes the settings you select and the software configurations your use most.Device, connectivity and configuration data.
+We collect data about your device and the network you use to connect to our products.
+It includes data about the operating systems and other software installed on your device, including product keys.
+It also includes IP address, device identifiers (such as the IMEI number for phones), regional and language settings.Error reports and performance data.
+==========
+We collect data about the performance of the products and any problems you experience with them.
+This data helps us to diagnose problems in the products you use, and to improve our products and provide solutions.
+==========
+Depending on your product and settings, error reports (sometimes called “crash dumps”) can include data such as the type or severity of the problem, details of the software or hardware related to an error, contents of files you were using when an error occurred, and data about other software on your device.Troubleshooting and Help Data.
+When you engage Microsoft for troubleshooting and help, we collect data about you and your hardware, software, and other details related to the incident.
+Such data includes contact or authentication data, the content of your chats and other communications with Microsoft, data about the condition of the machine and the application when the fault occurred and during diagnostics, and system and registry data about software installations and hardware configurations.Interests and favorites.
+==========
+We collect data about your interests and favorites, such as the teams you follow in a sports app, the programming languages you prefer, the stocks you track in a finance app, or the favorite cities you add to a weather app.
+In addition to those you explicitly provide, your interests and favorites may also be inferred or derived from other data we collect.Contacts and relationships.
+==========
+We collect data about your contacts and relationships if you use a Microsoft product to manage contacts, for example Outlook.com, or to communicate or interact with other people or organizations, for example Visual Studio Team Services.Location data.
+For products with location-enhanced features, we collect data about your location, which can be either precise or imprecise.
+Precise location data can be Global Navigation Satellite System (GNSS) data (e.g., GPS), as well as data identifying nearby cell towers and Wi-Fi hotspots, we collect when you enable location-based products or features.
+Imprecise location data includes, for example, a location derived from your IP address or data that indicates where you are located with less precision, such as at a city or postal code level.Content.
+==========
+We collect content of your files and communications when necessary to provide you with the products you use.
+For example, if you transmit a file using Skype to another Skype user, we need to collect the content of that file to display it to you and the other user as you direct.
+If you receive an email using Outlook.com, we need to collect the content of that email to deliver it to your inbox, display it to you, enable you to reply to it, and store it for you until you choose to delete it.
+Other data we collect to provide communication services to you include the:subject line and body of an email,text or other content of an instant message,audio and video recording of a video message, andaudio recording and transcript of a voice message you receive or a text message you dictate.Video.
+==========
+If you enter our retail stores or other facilities, or attend a Microsoft event, your image may be captured by our security cameras.If you use Spend, at your direction, we may also collect payment card information, receipt data, or financial transaction data, to provide the service.If you use Enterprise Online Services, Microsoft collects Customer Data (including content), Support Data, and Administrator Data, defined below in the Enterprise and Developer Products section.
+We also collect information you provide to us and the content of messages you send to us, such as feedback and product reviews you write, or questions and information you provide for customer support.
+When you contact us, such as for customer support, phone conversations or chat sessions with our representatives may be monitored and recorded.Product-specific sections below describe data collection practices applicable to use of those products.
+==========

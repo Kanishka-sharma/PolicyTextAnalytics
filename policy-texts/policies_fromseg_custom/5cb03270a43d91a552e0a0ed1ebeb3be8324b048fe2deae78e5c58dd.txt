@@ -1,0 +1,101 @@
+Necessary Cookies
+These are cookies that our website needs in order to function and if they are not accepted by you, parts of the site won’t be usable.
+Examples of where these cookies are used include: to ensure that the website pages display correctly to you and to determine which language and currency we should use based on your location.
+==========
+We use the following necessary cookies:
+
+
+
+14 days – Allows us to display benefits you are entitled to receive if you are logged into your harrods.com account.
+14 days – Used to detect and allow users to continue a user session.
+14 days – Gives context about users.
+==========
+24 hours – Logs authentication token for guests and registered users.
+24 hours – Allows Harrods to retain user location.
+==========
+1 year – Assigns a random number between 1 and 100.
+We may use these numbers when we are running tests on the site; e.g. one test may appear to the users between 0 and 50, and the other from 51 to 100.
+==========
+30 minutes – Allows Harrods to remember if a legitimate user has passed validation checks.
+30 Days – Helps detect malicious visitors and minimizes blocking legitimate users.
+It may be placed to identify individual clients behind a shared IP address and apply security settings on a per-client basis.
+24 hours – Remembers users who have passed validation and allows entry to harrods.com.
+==========
+5 years – This cookie helps prevent identity and internet fraud by identifying the browser between browsing sessions.
+5 years – A flag used to make sure data is not sent more than once per predefined timeframe.
+==========
+Preference Cookies
+These cookies allow us to remember your filter preferences to create a more bespoke and unique online shopping experience for you.
+If you alter search filters, we will keep your preference for the next time you visit our website.
+==========
+Statistics Cookies
+We use Google Analytics tools to study, and then improve, how customers interact with our website - this is known as website analytics.
+Analytics cookies allow us to understand more about how many visitors we have to the website, how many times they visit harrods.com and how many times a user viewed specific webpages within our site.
+Although analytics cookies allow us to gather specific information about the pages that you visit and whether you have visited harrods.com multiple times, we cannot use them to find out details such as your name or address.
+We use the following statistics cookies:
+
+
+
+24 hours to 2 years – Used to distinguish users.
+==========
+1 minute – Used to limit the number of requests.
+90 days – Contains campaign related information for the user.
+13 months – Contains unique user identifier.
+==========
+30 minutes – Contains unique browser identifier.
+30 minutes – Contains the number of pageviews within the running session.
+==========
+session – Tracks the types of pages visited by users and collects non-identifiable information about the users.
+30 Days – Used to exclude some users from selection to conduct website analysis.
+==========
+13 months – Used to register if user has consented to being tracked on harrods.com.
+Depends on the length of the experiment, but typically 90 days – Used to help identify users who were previously part of harrods.com experiments.
+==========
+pt_awcid, _opt_awmid, _opt_awgid, _opt_awkid
+
+
+24 hours – If experiments are linked to marketing activity in Google Ads, these cookies are used to map to Google Ads Customer IDs, Campaign IDs, Ad Group IDs, or Criterion ID.
+24 hours – Attributes are added to URLs (also known as UTM strings) to help monitor the source of traffic.
+==========
+If experiments are linked to marketing activity, this cookie stores the last utm_campaign query parameter.
+Marketing and third-party cookies
+Aside from setting cookies ourselves, we also allow carefully-selected third parties to set cookies and pixels during your visit to our website.
+==========
+These organisations provide us with information on how you use harrods.com.
+We use these to promote our newest products and latest offers to you on other websites based on your activity at harrods.com.
+For example, you may see products that you viewed at harrods.com presented on other websites as you move around the internet.
+==========
+Third party cookies collect information about your browsing habits in order to make advertising more relevant to you and your interests.
+They are also used to limit the number of times you see an advert as well as help measure the effectiveness of an advertising campaign.
+==========
+Harrods is not responsible for the management of third-party cookies and encourages  you to contact the third party for information on how to manage your cookie preferences.
+We use the following marketing and third-party cookies:
+
+
+
+com.silverpop.iMAWebCookie
+
+
+2 years – Contains a unique identifier for the website user.
+==========
+com.silverpop.iMA.page_visit
+
+
+20 minutes – One 'per session' cookie created for each page visited in the session.
+Used to distinguish the first visit to a webpage by an individual from subsequent visits.
+com.silverpop.iMA.session
+
+
+20 minutes – Used to associate a series of individual events to a single functional browsing session.
+==========
+90 days – This is set in conjunction with the Facebook pixel.
+It helps deliver, measure and improve the relevancy of advertisements shown either on Facebook or other digital platforms powered by Facebook.
+30 days – Holds information to help link your visit back to the session.
+==========
+1 year – Stores website user ID, traffic source IDs, page views and order count.
+30 days – Captures information about advert clicks and stores it to help with adverts run on Google.
+30 minutes – Session ID used to help run adverts with Microsoft Bing.
+16 days – Assigns a unique anonymized visitor ID which is used to help run and measure adverts on Microsoft Bing.
+30 minutes – Assigns a unique identifier to target users with abandoned basket emails.
+Read on to learn how to disable these cookies should you wish to switch this feature off.
+==========

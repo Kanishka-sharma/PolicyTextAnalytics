@@ -1,0 +1,42 @@
+Privacy Policy
+The Internet Archive (the "Archive") is committed to making its constantly growing collection of Web pages and other forms of digital content (the "Collections") freely available to researchers, historians, scholars, and others ("Researchers") for purposes of benefit to the public.
+The Archive offers access to its Collections mainly by allowing Researchers to access its Unix machines.
+==========
+This open approach is somewhat like the situation in a public library, where staff and patrons might see who else was in the library and a bit of what they were working on.
+When Researchers using the Collections log on to the same Unix machine using different accounts, some sharing of information may take place.
+==========
+While the Archive endeavors to enforce its Terms of Use (http://www.archive.org/proposal.html#Terms) and maintain standard computer security, it is important for both those who visit the site ("Visitors") and Researchers (collectively, "Users") to be aware of the open nature of the Archive.
+The Archive may make changes to this policy from time to time and will notify you of such changes by posting an updated date in the Privacy Policy link on the home page of the Archive's Web site (the "Site").
+Your continued use of the Site and/or the Collections constitutes your acceptance of any changes to the Privacy Policy concerning, but not limited to, both previously and prospectively collected information.
+==========
+What Personal Information May the Archive Have on Its Computers and Systems?
+Because the Archive uses standard Web logging in its Web servers, our Web server may automatically recognize the domain name of each Visitor, each Visitor’s IP address, what Web page the Visitor requests, and the time of the request, along with a variety of information supplied by the visitor’s browser.
+See www.microsoft.com and www.netscape.com for information about the Microsoft Internet Explorer and Netscape Navigator browsers, and see www.apache.org for details about Web logs.
+==========
+In addition, the Archive may collect the email messages, including email addresses, of those who communicate with it via email.
+The Archive may collect personally identifying information when a Researcher registers for access to the Collections, including the Researcher’s name, address, telephone number, and email address, and the Researcher’s proposal for using the Collections.
+==========
+The Archive may use "cookies" to track Users' activities on the Site and in the Collections.
+Cookies are small files that a server transfers to the hard drive of someone who visits a site and that the server can access when the person returns to the site.
+The primary sources of content for the Collections are publicly accessible Web pages that were collected and donated by third parties, but the Archive will expand on such sources through its own collection activities.
+For instructions on removing a particular set of pages currently included in the Collections, please see our policies and procedures for page removal.
+The communications between you and the Archive may pass through many machines, operating systems, programs, browsers, Web servers, networks, routers, Ethernet switches, Internet service providers, proxy servers, intranets, the public phone system, or other devices (collectively, "Devices") on your premises, at the Archive, and in between.
+Some of these Devices create logs of activities that are recorded on computer systems.
+==========
+What Might the Internet Archive Do With the Information on Its Computers?
+The Archive has no present intention to charge for access to the Collections.
+The Archive may transfer the information on its machines, including personally identifying information, into the Collections.
+The Collections are made available to researchers and may be made available on the Site, or provided to third parties, for any use, without limitation.
+For instance, parts of the Collections are now in the collections of the Library of Congress and the Smithsonian Institution.
+Advances in data mining technology may make it possible to discover more personally identifiable information or profiles in the Collections.
+==========
+The Archive may disclose any information it collects from Users if the Archive believes in good faith that such action is reasonably necessary to enforce its Terms of Use or other policies, to comply with the law, to comply with legal process, to operate its systems properly, or to protect the rights or property of itself, its Users, or others.
+It is possible that the computers at the Archive could become compromised by others and that the information on the Archive’s computers could be collected and disseminated without the knowledge or consent of the Archive.
+While the Archive endeavors to block "crackers" from breaking into its machines, the Archive is not responsible or liable for any such unauthorized uses of the Archive or its data.
+==========
+How to Update Researcher Registration Information
+Researchers can help the Archive maintain the accuracy of their information by notifying the Archive of any change in their address, title, phone number, or email address.
+Contact the Archive by email at info@archive.org to see, update, or delete your information.
+For More Information
+If you have any questions or comments regarding this Privacy Policy or the Archive’s data collection practices, please contact the Archive at info@archive.org or Internet Archive, PO Box 29244, San Francisco, CA 94129-0244, phone 415-561-6767, fax 415-561-6768.
+==========

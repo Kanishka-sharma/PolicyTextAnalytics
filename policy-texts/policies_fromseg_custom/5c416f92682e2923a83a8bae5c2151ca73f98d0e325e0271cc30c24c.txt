@@ -1,0 +1,153 @@
+Effective Date: October 29th, 2015
+
+
+
+This privacy policy applies to information collected by DataXu, Inc. (“DataXu”, “We”, “Us”, or “Our”) from third party websites and apps via our technologies and from other sources in connection with our advertising Platform.
+It also describes the choices available to you regarding our use of your information and how you can opt-out of the delivery of ads using your information.
+This privacy policy applies solely to data collected in connection with our technology platform.
+For information collected through our corporate website, please see our Corporate Site Privacy Policy.
+Why Do We Collect and Use Information?
+==========
+Advertising supports free content and experiences we all love on the web, social media platforms, and on Internet-enabled mobile devices such as smartphones and tablets.
+Our goal is to make advertising more effective by helping to display content that may be of interest to you.
+Relevant ads are less annoying and help the services that depend on advertising because advertisers pay more for effective ads.
+==========
+To deliver relevant advertising to you, we may collect information about your activity across multiple third-party websites or mobile applications.
+We may use this information to predict the types of ads that may interest you and to display advertising to you based on that information (“Interest-Based Advertising”).
+For example, if you visit multiple websites that feature articles about travel or you use a travel app, we may display travel-related ads to you on another website or app.
+To learn more about Interest-Based Advertising and your choices with respect to it, please visit www.aboutads.info/consumers and https://www.networkadvertising.org/understanding-online-advertising/.  If you would like to opt out of DataXu’s Interest-Based Advertising practices, please see the Opting Out section below.
+What Types of Information Do We Collect?
+DataXu collects a variety of information to help target online advertising to you based on your interests.
+This includes information about your hardware and software attributes and your online behavior, including your browser type (e.g., Firefox or Internet Explorer), operating system (e.g., Macintosh or Windows), Internet provider (e.g., Verizon or Comcast), your IP address and domain name, the pages that you visit on third-party websites, and the actions that you take on those websites, the date and time of your visits to third-party websites, and whether you respond to an online ad.
+To provide relevant advertising for mobile users, we may also collect, device type, make and model, operating system, mobile advertising identifiers, operating system device identifier (For example, IDFA for iOS and Android ID for Android) and information about the apps you use.
+==========
+We may also use the GPS location of your device if you have opted-in to provide it to one of DataXu’s publisher partners.
+DataXu does not collect health information, however we may use certain non-sensitive, health-related information in delivering advertisements.
+This may include information related to general health, wellness, common ailments, and illnesses.
+==========
+We do not collect information generally considered Personally Identifiable Information (PII) such as your name, address, phone number, e-mail address, Social Security Number, credit card information, insurance plan numbers, financial account numbers, or health related information.
+We will not combine or link the information we collect with PII.
+In some jurisdictions IP Address may be considered PII.
+We take steps to obscure the information collected from those jurisdictions (for example, by deleting portions of it) so that it is no longer personally identifiable.
+What Technology Do We Use to Collect Information?
+We use a variety of technologies, including cookies, pixel tags, and scripts, to collect information, all of which are widely used on the Internet.
+==========
+The information that we collect via our technologies is used for the purpose of targeting ads, measuring the effectiveness of ads on behalf of DataXu’s advertisers and to identify the audience most likely to respond to an advertisement.
+This information also helps DataXu ensure that you don’t repeatedly see the same ad.
+We may also use non-PII data from third parties, including advertising exchanges.
+This information is transferred to DataXu in a form that does not identify a particular individual and remains in this form.
+==========
+Cookies
+Cookies are small text files that websites place in your browser when you visit them or see an ad.
+We use cookies to determine how often you’ve visited a website or seen an ad by assigning an anonymous identifier to your browser.
+We do not use cookies to access any other data on your computer.
+DataXu operates the following domains:
+www.w55c.net, cdn.w55c.net, tags.w55c.net, cti.w55c.net, cts.w55c.net, ads.w55c.net, and i.w55c.net.
+For more information click here.
+==========
+Pixel Tags
+Pixel tags are small, invisible images on a web page or other document.
+Pixel tags allow the operator of the web page or other document, or a third party who serves the pixel tag, to set, read, and modify cookies.
+Our pixel tags allow DataXu cookies to be set, read, and modified when you visit the websites of our partners.
+Our pixel tags also allow our partners to better understand how you interact with their websites by observing which pages on their websites are visited.
+Server to Server Technology with Third Parties
+DataXu may synchronize anonymous identifiers collected above with those of third parties (including cross-device identifiers as described in the Cross-Device and Cross-App Technology section below).
+We do not control the privacy practices of these third parties.
+==========
+To learn more about how you can exercise choices with respect to other companies’ collection and use of certain data online for purposes of Interest-Based Advertising, please visit http://www.aboutads.info/choices and http://www.networkadvertising.org/choices/.
+Cross-Device and Cross-App Technology
+We and our customers may use technology that establishes deterministic or statistical connections among related devices (such as smartphones, tablets, and computers) to deliver more relevant advertising to you and for advertising analytics and reporting purposes.
+For example, DataXu or its partners may match your devices if you log into the same online service on multiple devices or web browsers, or if your devices share similar attributes that support an inference that they are used by the same person or household.
+This means that information about your use of websites or applications on your current device may be combined with information from your other devices.
+This allows, for example, ads you see on your tablet to be based on activities you engaged in on your smartphone.
+==========
+We may partner with third parties to provide such cross-device technology to our customers, and we may share anonymous identifiers (such as cookies or your mobile device’s IDFA or Google Advertising ID) with those third parties to make connections among related devices.
+We may also use your device’s IP address to infer connections among related devices within the same household.
+To opt out of DataXu’s use of such technologies for each web browser and on each of your devices, please follow the instructions for Opting Out in both web browsers and mobile applications, as described in the Opting Out section below.
+==========
+We and our customers may collect information about your activity across multiple unaffiliated third-party mobile applications.
+We may share this information with our customers to help them predict the types of ads that may interest you and to display advertising to you based on that information.
+For example, if you use a travel app, we or our customers may display travel-related ads to you on another app.
+We or our customers may combine this information with a mobile advertising identifier (such as your mobile device’s IDFA or Google Advertising ID), and we may retain it for up to 13 months, as described in the Data Storage and Security section below.
+==========
+If you would like to opt out of Interest-Based Advertising practices in mobile applications, please see the Opting Out section below.
+DO NOT TRACK
+Our technology does not respond to “do not track” (a/k/a DNT) signals or similar mechanisms transmitted by web browsers or mobile device operating systems, such as the “Limit Ad Tracking” feature in iOS.
+To learn more about how you can exercise choices about the collection and use of certain data online for purposes of Interest-Based Advertising, please see the Opting Out section below.
+Opting Out
+You may opt out of DataXu’s Interest-Based Advertising by following the instructions below for web browsers and mobile applications.
+Please note that web browsers and mobile applications operate using different identifiers.
+You must opt out separately in each web browser and for each computer or device that you would like to be opted-out on.
+For example, if you would like to opt out on your computer browser as well as your mobile device browser, you will need to follow instructions for the “Web Browser Opt Out” in both your computer browser and your mobile device browser.
+If you would like to opt out in mobile applications, you will need to follow the instructions for “Mobile Application Opt Out.”
+==========
+Web Browser Opt Out
+To opt out of DataXu’s Interest-Based Advertising on your computer or mobile web browser, please click the link below:
+Click here to opt out and/or view your opt-out status in web browsers
+If you choose to opt out by clicking the link above, DataXu will set a cookie that tells DataXu not to display Interest-Based Advertising.
+If you delete your cookies or change computers, mobile devices or browsers, you will need to repeat this process for each computer or device and in each browser.
+You may download a browser plugin that will help you maintain your opt out choices, even if you delete certain cookies from your browser, by visiting http://www.aboutads.info/PMC.
+Once you have elected to opt out our system may take up to twenty-four hours to refresh, but following the refresh this will prevent DataXu’s Platform from using any interest-based data associated with your browser for Interest-Based Advertising.
+Please note that you will continue to see generic advertising.
+You may also block cookies entirely by disabling cookie use in your browser or by setting your browser to ask your permission before setting a cookie.
+If you block cookies entirely, this may cause some websites to work incorrectly.
+==========
+Mobile Application Opt Out
+To opt out of DataXu’s Interest-Based Advertising in mobile applications, please download the AppChoices mobile application for your device operating system and set your preferences in the application.
+Click here to download AppChoices and opt out in iOS 
+Click here to download AppChoices and opt out in Android
+Please note that if you use the settings on your mobile device to reset the mobile operating system advertising ID, you will also need to reset the preferences you select in AppChoices.
+SELF-REGULATORY MEMBERSHIPS AND PRIVACY PROGRAMS
+DataXu is a member of the Network Advertising Initiative (NAI) and complies with the 2015 NAI Code of Conduct and 2013 NAI Mobile Application Code.
+You may also opt out of DataXu and other NAI members on the NAI site.
+To find out more and/or opt-out of NAI member cookies, click here.
+DataXu adheres to the Digital Advertising Alliance’s (DAA) Self-Regulatory Principles for Online Behavioral Advertising and related DAA guidance, including the DAA’s Application of Self-Regulatory Principles to the Mobile Environment.
+==========
+Advertisements served by the Platform may be served with the DAA Advertising Options icon, which notifies the user that interest-based information has been utilized to serve an ad and allows users to access and review the use of their information.
+To find out more about the DAA and/or opt out of DAA member cookies, click here.
+DataXu adheres also to the European Interactive Digital Advertising Alliance’s (EDAA) Self-Regulatory Principles for Online Behavioral Advertising and pan-European standards to enhance transparency and user control for online behavioral advertising.
+The self-regulatory initiative is based upon IAB Europe’s OBA Framework and EASA’s BPR on OBA.
+To find out more about the EDAA and/or opt out of EDAA member cookies, click here: www.youronlinechoices.com
+.
+DataXu complies with the Swiss- US and EU-US Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.
+DataXu has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+==========
+In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal.
+The TRUSTed Data Program covers the information collected by DataXu across their network of partner websites via their technologies and does not cover information that may be collected from mobile devices.
+TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@dataxu.com.
+If you are not satisfied with our response you can contact TRUSTe here.
+==========
+Data Storage and Security
+We retain the information collected via our technology for up to 13 months.
+After that time, we disassociate the data with any individual, aggregate the data and retain it for analytical purposes.
+Even though our information is anonymous, security is important to us.
+We have implemented reasonable measures to protect the information we collect.
+No method of protecting information is 100% secure, and we cannot guarantee its absolute security.
+Information Relating to Children
+Our products and services are designed for those 13 years of age and older.
+We do not knowingly collect information from anyone under the age of 13.
+==========
+If we are made aware that we have received such information, or any information in violation of our privacy policy, we will use reasonable efforts to locate and remove that information from our records.
+Disclosures
+Some of the website publishers with whom we work may place their own cookies on your Internet browser outside of our service; however, we have no access to or control over these cookies.
+In the event another company acquires all or most of our assets, all data compiled or owned by us may be among the items transferred in that transaction.
+In such event, all the data will continue to be governed by this privacy policy.
+We may transmit or share our data with third-party service providers (e.g., data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf.
+We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person.
+ACCESS AND DELETION
+You may have a right under applicable law to access, amend, and/or request deletion of certain information.
+==========
+To inquire about such rights, or if you have any questions or concerns about this policy, please send us an email at the address listed below.
+Changes to This Policy
+We may update this privacy policy to reflect changes to our information practices.
+If we make any material changes we will notify you by means of a notice on this website prior to the change becoming effective.
+We encourage you to periodically review this page for the latest information on our privacy practices.
+Contacting Us
+Should you have any questions about this privacy policy, please contact us:
+E-mail: privacy@dataxu.com
+Phone: 857.244.6200
+Address: 281 Summer Street, 5th Floor Boston, MA 02110
+Privacy Policy for our Corporate Site
+Back to Privacy
+==========

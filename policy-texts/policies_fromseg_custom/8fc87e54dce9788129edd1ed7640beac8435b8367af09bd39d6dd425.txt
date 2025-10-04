@@ -1,0 +1,137 @@
+Effective Date: March 23, 2021
+Zink Media, LLC (d/b/a Discogs) and our affiliates (“We”, “Our” or “Us”) adhere to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising.
+The information provided in this Cookie and Internet Advertising Policy (the “Policy”) provides additional transparency to Our Privacy Policy and practices.
+This Policy applies to the cookies, SDKs and advertising on Our websites, discogs.com (including subdomains) and nearmint.io, and applications (collectively, the “Service”).
+To make Our Service work properly, We sometimes place small data files called cookies on Your Internet Browser.
+==========
+We also use Third-Party SDKs that help analysing and improving Our Service.
+In addition, We display internet-based ads to You on our websites using information You make available to Us when You visit and interact with Our Service.
+Most big websites do this too.
+==========
+We encourage You to review the entire Policy.
+For quick access to a particular Policy section, click on the desired link below:  
+WHAT ARE COOKIES AND SDKS?
+HOW WE USE COOKIES AND SDKS
+HOW TO CONTROL COOKIES AND SDKS
+CURRENT COOKIES AND SDKS
+INTERNET ADVERTISING
+ADVERTISING PREFERENCES
+WHAT ARE COOKIES AND SDKS?
+A cookie is a small text file that a website saves on Your computer or mobile device every time You visit a website.
+It enables the website to remember Your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so You don’t have to keep re-entering them whenever You return to the website or browse from one page to another.
+==========
+SDK stands for “Software Development Kit”.
+These are collections of software development tools that we use to provide products and services to the User.
+Some SDKs are required for App software development.
+For example, the iOS SDK is required for any iOS Application.
+One SDK that our Android and iOS Applications both use is the Firebase Analytics SDK.
+==========
+This allows for Us to track App performance metrics and usage.
+This data is anonymized and provides guidance on what to improve in future App Versions.
+==========
+Cookies and SDKs have different lifespans:
+Persistent: these files remember certain information about Your preferences for viewing a website or mobile app, and allows the website or mobile app manager to recognise you each time you return.
+These are stored on Your browser cache or mobile device until You choose to delete them.
+==========
+Session: these files are specific to a particular visit to a website or mobile app that carry information as You view different pages on a website or mobile app so You don’t have to re-enter information.
+HOW WE USE COOKIES AND SDKS
+Our Cookies and SDKs: We use Our domain specific persistent cookies and mobile app specific SDKs to uniquely identify You after You access Our Service.
+==========
+Upon successfully logging in, Our server will generate a unique and random token.
+A copy of the token is saved on Our server, and a copy is sent to Your browser as a cookie or a copy is sent to Your mobile app as a login token.
+Your browser or mobile device sends this token back to Our server each time it requests a resource from Our server, such as a new page to which You are navigating.
+Our servers then look up Your secure profile using this token.
+==========
+Our cookies and SDKs are required to enable certain features that relate to Your personal account.
+These include:
+Buying & Selling
+Adding items to a Wantlist or Collection
+Making Lists
+Participating in Forums
+Saving preferences
+Submitting to the Database
+Messaging other users
+Social Sharing Your Collection or Wantlist from the mobile apps
+We also use Our own domain specific cookies and SDKs to assist with:
+Login information (note: the cookie stores a unique value that identifies You after You log in, but does not store your actual login information such as username and password)
+Buying and selling preferences
+General site setting preferences, such as language, login status and shopping cart details
+User interaction and behavior analytics
+Service security
+Third-party Cookies and SDKs: Our sites also uses third-party cookies and SDKs to anonymously track web and mobile usage and analytics, such as: Google  (https://www.google.com/intl/en/policies/privacy)/
+Many third-party cookies and SDKs are not essential to user experience on Our Service other than collecting data on how We can improve Our Service based on anonymous browsing behaviors and for third-party advertisers to show You relevant ads.
+==========
+We also partner with others, who may use various tracking technologies to provide certain services or features, including targeted online marketing techniques such as attribution tracking, remarketing, and cross-device tracking:
+Attribution tracking means identifying the advertising or marketing source a user followed to arrive at Our Service, or to determine what source should get credit for Service visits.
+Remarketing means showing relevant ads to users based on users’ prior search history on Our Service.
+Cross-device tracking means recognizing users across multiple devices or browsers.
+==========
+Please see Our Processors List for additional information about parties that use tracking technologies on Our Service.
+Some of these parties may provide Us with information about You (such as inferred demographic information, cross-device information, or interest categories) so that We may provide You with more relevant and useful advertising, enhance Our data, improve Our Service, or for marketing purposes.
+==========
+We do not allow third parties to access personally identifiable information from Us via cookies, SDKs, or tracking technology.
+However, these technologies may allow Us or a third party to recognize You, either across devices or over time.
+We do not have control over third-party technologies, which maintain their own privacy policies, and they are not covered by Our Privacy Policy or this Policy.
+==========
+HOW TO CONTROL COOKIES AND SDKS
+You can control and/or delete cookies as You wish – for details, see aboutcookies.org.
+You can delete all cookies that are already on Your computer and You can set most browsers to prevent them from being placed.
+==========
+If You do this, however, You may have to manually adjust some preferences every time You visit a website and some services and functionalities may not work.
+Below are some relevant cookie information and opt out options for websites in general.
+==========
+You can use these resources or other plugins to opt out of cookies through Your browser:
+Your Online Choices
+The Self-Regulatory Program for Online Behavioral Advertising
+Network Advertising Initiative Consumer Opt-Out
+Common browser settings:
+Chrome
+Safari (instructions for Mac)
+Internet Explorer
+Opera
+Firefox
+CURRENT COOKIES AND SDKS
+Strictly Necessary cookies and SDKs are required for basic access to Our Service.
+Other cookies and SDKs are used for analytics, marketing, site functionality, etc. as noted in the links and table below.
+We present non-personalized ads to users that do not allow targeting cookies on our websites.
+Although non-personalized ads don’t use cookies or mobile ad identifiers for ad targeting, they do still use cookies or mobile ad identifiers for frequency capping, aggregated ad reporting, and to combat fraud and abuse.
+==========
+Users in certain locations must opt in to cookies and SDKs.
+Those users will be provided with an opt in banner on the Service and a link to adjust cookie and SDK settings in the future.
+California-based users can opt out of performance, targeting, and social media cookies and SDKs by selecting the “Do Not Sell My Personal Information” link in their cookie or SDK settings.
+The below links provide detailed information about the cookies available through our main website and subdomains.
+==========
+This list will change from time to time, so please check back often for updates.
+In addition, third parties not associated with us may also place cookies on Your browser from time to time.
+==========
+https://accounts.discogs.com/cookies
+https://blog.discogs.com/site-cookies/
+https://www.discogs.com/cookies
+https://localization.discogs.com/privacy-policy/
+https://radar.discogs.com/site-cookies/
+https://support.discogs.com/hc/articles/360014664478-Support-Cookie-List-
+https://reference.discogs.com/cookies
+https://vinylhub.discogs.com/cookies
+https://mediakit.discogs.com/cookies/ 
+INTERNET ADVERTISING 
+On Our Service and unaffiliated websites, We display interest-based advertising using information You make available to Us when You interact with Our Service.
+Interest-based ads (i.e., personalized or targeted ads) are displayed to You based on information from activities such as interacting with Our Service, use of devices, apps or software, or visiting websites that contain Our content or ads.
+==========
+See Our Privacy Policy for more information about the types of information that We gather and how it is used.
+Like other websites, We use tracking technologies (collectively, "cookies").
+Cookies enable Us to learn about what ads You see, what ads You click, and other actions You take on Our Service and other websites.
+This allows Us to provide You with more useful and relevant ads and avoid showing You the same ads repeatedly.
+==========
+We do not associate Your interaction with unaffiliated sites with Your identity in providing You with interest-based ads.
+We do not provide any personal information to advertisers or to third-party sites that display Our interest-based ads.
+However, advertisers and other third-parties (including the ad networks, ad-serving companies, and other service providers they may use) may assume that users who interact with or click on a personalised ad or content are part of the group that the ad or content is directed towards (for example, users in a particular geographical area or users who bought or browsed for specific categories of goods).
+==========
+We do not have access to or control over cookies or other features that advertisers and third-party sites may use, and the information practices of these advertisers and third-party websites are not covered by Our Privacy Policy or this Policy.
+Please contact them directly for more information about their privacy practices.
+==========
+ADVERTISING PREFERENCES
+You may modify the settings in most browsers to notify You when You receive a new cookie and disable cookies altogether.
+You can learn more about managing Your preferences for ads online, particularly for many third-party advertising networks, through the following resources:
+Digital Advertising Alliance
+Network Advertising Initiative
+==========

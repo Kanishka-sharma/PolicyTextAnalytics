@@ -1,0 +1,80 @@
+MUIDMicrosoftUsed widely by Microsoft as a unique user ID.
+The cookie enables user tracking by synchronising the ID across many Microsoft domains.1 yearHTTPIDEGoogleUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.1 yearHTTPpagead/landing [x2]GoogleCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+SessionPixeltest_cookieGoogleUsed to check if the user's browser supports cookies.1 dayHTTPtrFacebookUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.SessionPixelads/ga-audiencesGoogleUsed by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.SessionPixelpagead/1p-user-list/#GoogleTracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites.
+==========
+This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.SessionPixel__ptq.gifHubspotSends data to the marketing platform Hubspot about the visitor's device and behaviour.
+Tracks the visitor across devices and marketing channels.SessionPixelbcookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.2 yearsHTTPbscookieLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.2 yearsHTTPlidcLinkedInUsed by the social networking service, LinkedIn, for tracking the use of embedded services.1 dayHTTPUserMatchHistoryLinkedInUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+29 daysHTTP_uetsid [x2]Microsoftsectigo.comUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+==========
+PersistentHTML_uetsid_exp [x2]Microsoftsectigo.comContains the expiry-date for the cookie with corresponding name.
+PersistentHTML_uetvid [x2]Microsoftsectigo.comUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+PersistentHTML_uetvid_exp [x2]Microsoftsectigo.comContains the expiry-date for the cookie with corresponding name.
+==========
+PersistentHTMLdrift_aid [x5]Driftsectigo.comComodo CaSets a unique ID for the specific user.
+This allows the website to target the user with relevant offers through its chat functionality.
+2 yearsHTTPdrift_campaign_refresh [x5]Driftsectigo.comComodo CaSets a unique ID for the specific user.
+==========
+This allows the website to target the user with relevant offers through its chat functionality.
+1 dayHTTP_fbp [x3]Facebooksectigo.comUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.3 monthsHTTP_gcl_au [x6]Google Tag Managersectigo.comComodo CaComodoUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.
+3 monthsHTTP_uetsidMicrosoftCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+1 dayHTTP_uetvidMicrosoftUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+1 yearHTTPsa-user-idStackadaptUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+1 yearHTTPsa-user-id-v2StackadaptUsed to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences.
+1 yearHTTPi/adsctTwitterThe cookie is used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content.
+==========
+SessionPixelVISITOR_INFO1_LIVEYouTubeTries to estimate the users' bandwidth on pages with integrated YouTube videos.179 daysHTTPYSCYouTubeRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.SessionHTTPtluidTripleLiftThis cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange.3 monthsHTTPxuidTripleLiftPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.SessionPixelanjAppnexusRegisters a unique ID that identifies a returning user's device.
+==========
+The ID is used for targeted ads.3 monthsHTTPsetuidAppnexusThis cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization - cookie data synchronization is used to synchronize and gather visitor data from several websites.SessionPixeluuid2AppnexusRegisters a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.3 monthsHTTP__adroll_sharedAdrollCollects data on the user across websites - This data is used to make advertisement more relevant.1 yearHTTPAPID [x2]AOLOathCollects information on user behaviour on multiple websites.
+This information is used in order to optimize the relevance of advertisement on the website.1 yearHTTPIDSYNCOathUsed to identify the visitor across visits and devices.
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+1 yearHTTPcBidswitchRegulates synchronisation of user identification and exchange of user data between various ad services.1 yearHTTPsyncBidswitchCollects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.
+==========
+SessionPixeltuuidBidswitchRegisters whether or not the user has consented to the use of cookies.1 yearHTTPtuuid_luBidswitchContains a unique visitor ID, which allows Bidswitch.com to track the visitor across multiple websites.
+This allows Bidswitch to optimize advertisement relevance and ensure that the visitor does not see the same ads multiple times.
+1 yearHTTPul_cb/syncBidswitchCollects information on user behaviour on multiple websites.
+==========
+This information is used in order to optimize the relevance of advertisement on the website.SessionPixelCMIDCasalemediaCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 yearHTTPCMPROCasalemediaCollects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement.
+3 monthsHTTPCMPSCasalemediaCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.3 monthsHTTPCMRUM3CasalemediaCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 yearHTTPCMSTCasalemediaCollects visitor data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.1 dayHTTPrumCasalemediaCollects data related to the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded, with the purpose of displaying targeted ads.SessionPixel__adroll_fpcIAB EuropeUsed to identify the visitor across visits and devices.
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+1 yearHTTP__ar_v4IAB EuropeOptimises ad display based on the user's movement combined and various advertiser bids for displaying user ads.1 yearHTTP_te_IAB EuropeRegisters a unique ID that identifies a returning user's device.
+The ID is used for targeted ads.SessionHTTPfbssls_#FacebookCollects data on the visitor’s use of the comment system on the website, and what blogs/articles the visitor has read.
+This can be used for marketing purposes.
+SessionHTML__adrollAdrollRegisters a unique ID that identifies a returning user's device.
+==========
+The ID is used for targeted ads.1 yearHTTPcm/b/outAdrollPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.SessionPixelcm/g/outAdrollPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.SessionPixelcm/index/outAdrollPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.SessionPixelcm/l/outAdrollPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.SessionPixelcm/o/outAdrollPresents the user with relevant content and advertisement.
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.SessionPixelcm/triplelift/outAdrollPresents the user with relevant content and advertisement.
+==========
+The service is provided by third-party advertisement hubs, which facilitate real-time bidding for advertisers.SessionPixelcm/x/outAdrollUsed to identify the visitor across visits and devices.
+This allows the website to present the visitor with relevant advertisement - The service is provided by third party advertisement hubs, which facilitate real-time bidding for advertisers.
+==========
+SessionPixelrc::cGoogleUsed in context with video-advertisement.
+The cookie limits the number of times a visitor is shown the same advertisement-content.
+The cookie is also used to ensure relevance of the video-advertisement to the specific visitor.
+==========
+SessionHTMLiOpenxRegisters anonymised user data, such as IP address, geographical location, visited websites, and what ads the user has clicked, with the purpose of optimising ad display based on the user's movement on websites that use the same ad network.1 yearHTTPw/1.0/sdOpenxRegisters data on visitors such as IP addresses, geographical location and advertisement interaction.
+This information is used optimize the advertisement on websites that make use of OpenX.net services.
+SessionPixeladrlOutbrainThis cookie registers data on the visitor.
+The information is used to optimize advertisement relevance.
+==========
+29 daysHTTPobuidOutbrainSets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement.
+This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+==========
+3 monthsHTTPKRTBCOOKIE_#PubmaticRegisters a unique ID that identifies the user's device during return visits across websites that use the same ad network.
+The ID is used to allow targeted ads.399 daysHTTPPUBMDCIDPubmaticRegisters a unique ID that identifies the user's device during return visits across websites that use the same ad network.
+==========
+The ID is used to allow targeted ads.3 monthsHTTPt_gidTaboolaThis cookie assigns a specific visitor ID, when the visitor interacts with ads or content from the website - this allows the website to target the visitor with similar ads or content.1 yearHTTPA3OathCollects information on user behaviour on multiple websites.
+This information is used in order to optimize the relevance of advertisement on the website.1 yearHTTPAPIDTSOathCollects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor.
+==========
+1 dayHTTPBOathCollects anonymous data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded.
+The registered data is used to categorise the users' interest and demographical profiles with the purpose of customising the website content depending on the visitor.1 yearHTTP_sn_a [x3]sectigo.comComodo CaComodoImplements pop-up advertisement on the website.
+==========
+1 yearHTTP_sn_m [x3]sectigo.comComodo CaComodoImplements pop-up advertisement on the website.
+1 yearHTTP_sn_n [x3]sectigo.comComodo CaComodoImplements pop-up advertisement on the website.
+1 yearHTTPDRIFT_SESSION_CAMPAIGNS [x2]Comodo CaDriftUsed to determine when and where certain pop-ups on the website should be presented for the user and remember whether the user has closed these, to keep them from showing multiple times.PersistentHTML
+==========

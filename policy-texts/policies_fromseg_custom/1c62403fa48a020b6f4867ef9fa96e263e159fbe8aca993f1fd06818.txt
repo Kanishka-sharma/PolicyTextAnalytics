@@ -1,0 +1,170 @@
+CloudFlare Terms of Use
+CloudFlare, Inc, a Delaware corporation ("CloudFlare") provides this website located at www.CloudFlare.com ("CloudFlare.com"), all the content under this domain, and its services to you subject to the following terms and conditions.
+By using CloudFlare.com you agree to be bound by the latest amended versions of this Agreement and CloudFlare's Privacy and Security Policy (see "Modifications" below).
+SECTION 1: ACCEPTING THE TERMS
+By using the information, tools, features and functionality located on CloudFlare.com, through any CloudFlare APIs, or through any software or other websites that interface with CloudFlare.com or its APIs (collectively the "Service"), you agree to be bound by this Agreement, whether you are a "Visitor" (meaning you merely browse the CloudFlare.com website) or you are a "Member" (meaning you have registered with CloudFlare).
+The term "you" or "User" refers to a Visitor or a Member.
+If you wish to become a Member and make use of the Service you must read this Agreement and indicate your acceptance during the Registration process.
+If you accept this Agreement, you represent that you have the capacity to be bound by it or, if you are acting on behalf of a company or entity, that you have the authority to bind such entity.
+==========
+SECTION 2: COPYRIGHTS
+All content included on CloudFlare.com, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, as well as the compilation of that content into one, coherent website, is the property of CloudFlare and protected by United States and international copyright laws.
+Reproduction of the content of CloudFlare.com without the written permission of CloudFlare is prohibited.
+SECTION 3: TRADEMARKS AND SERVICEMARKS
+CloudFlare™, the CloudFlare logo, and other CloudFlare graphics, logos, page headers, button icons, scripts, and service names are trademarks, certification marks, service marks, or other trade dress of CloudFlare or its subsidiaries.
+CloudFlare's trademarks, certification marks, service marks, and trade dress have inherent meaning and substantial value because of their restricted use.
+==========
+They may not be used in connection with any product or service that is not CloudFlare's, in any manner without CloudFlare's permission.
+All other trademarks not owned by CloudFlare or its subsidiaries that appear on CloudFlare.com are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by CloudFlare or its subsidiaries.
+SECTION 4: LICENSE TO ACCESS CLOUDFLARE.COM AND SERVICES
+In consideration for accessing CloudFlare.com and the Service, CloudFlare grants you a limited license to access and make personal use of the website.
+This license prohibits your downloading (other than page caching) or modifying any portion of it, except with express, written consent of CloudFlare.
+This license does not allow resale of CloudFlare's services.
+You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of CloudFlare.com without express written consent of CloudFlare.
+You may not use any meta tags or any other "hidden text" utilizing CloudFlare's name or trademarks without the express written consent of CloudFlare.
+Any unauthorized use automatically terminates the permission or license granted by CloudFlare and may incur legal liabilities for any damages.
+You are granted a limited, revocable, and nonexclusive right to create a hyperlink to any non-password protected directories, so long as the link does not portray CloudFlare, its affiliated websites, or its services in a false, misleading, derogatory, or otherwise offensive matter.
+You may not use any of CloudFlare's proprietary graphics or trademarks as part of the link without express written permission.
+==========
+SECTION 5: ACCOUNTS AND PASSWORDS
+If you are issued an account, you are responsible for maintaining the confidentiality of your account and password, and you agree to accept responsibility for all activities that occur under your account or password.
+CloudFlare reserves the right to, under its sole discretion, refuse service, suspend or terminate accounts, or otherwise restrict access to CloudFlare.com and the CloudFlare Service.
+SECTION 6: USE OF THE AUTOMATED SETUP TOOL
+You may choose to allow CloudFlare to access certain accounts you hold with third parties, such as DNS providers and registrars, in order to automate the registration process.
+If you opt to do so, you expressly authorize CloudFlare to access and update your account information maintained by identified third parties, on your behalf as your agent.
+==========
+When you use the automatic setup feature of the Service, you will be directly connected to the website for the third party you have identified.
+CloudFlare will submit information including usernames and passwords that you provide to log you into the site.
+You hereby authorize and permit CloudFlare to use information submitted by you to the Service (such as account passwords and user names) to accomplish the foregoing and to configure the Service so that it is compatible with the third party sites for which you submit your information.
+CloudFlare will not store your username or password for these third party services beyond the time necessary to complete your request or the length of your current CloudFlare.com session.
+==========
+For purposes of this Agreement and solely to provide the account information to you as part of the Service, you grant CloudFlare a limited power of attorney, and appoint CloudFlare as your attorney-in-fact and agent, to access third party sites, retrieve and update your information with the full power and authority to do and perform each thing necessary in connection with such activities, as you could do in person.
+YOU ACKNOWLEDGE AND AGREE THAT WHEN CLOUDFLARE IS ACCESSING AND RETRIEVING ACCOUNT INFORMATION FROM THIRD PARTY SITES, CLOUDFLARE IS ACTING AS YOUR AGENT, AND NOT AS THE AGENT OF OR ON BEHALF OF THE THIRD PARTY.
+You understand and agree that the Service is not sponsored or endorsed by any third parties accessible through the Service.
+==========
+SECTION 7: YOUR CONTENT
+You retain full copyrights in any materials served through CloudFlare.
+Depending on the features you select, CloudFlare may modify the content of your site.
+For example, CloudFlare may detect an email addresses and replace them with a script in order to keep it from being harvested.
+You acknowledge CloudFlare may:
+
+
+Rewrite content in order to hide sensitive information from select visitors to your site.
+==========
+Add cookies to your domain to track visitors, such as those who have successfully passed a CAPTCHA.
+Add tracking codes or affiliate codes to links that do not previously have tracking or affiliate codes.
+Add script to your pages to, for example, add services or perform additional performance tracking.
+Intercept requests determined to be threats and present them with a block page.
+Other changes to increase performance or security of your website.
+==========
+SECTION 8: RECORDS OF CLOUDFLARE.COM VISITOR USE AND ABUSE
+As a visitor to CloudFlare.com and a user of the CloudFlare Service, you consent to having your Internet Protocol address recorded and your activities monitored to prevent abuse.
+Abuse includes but is not limited to:
+
+
+Attempting to gain unauthorized access to the service, other accounts, computer systems or networks connected to the service, through password mining or any other means.
+Transmitting any material that contains viruses, Trojan horses, worms, time bombs, cancelbots, or any other harmful or deleterious programs.
+Interfering with or disrupting networks connected to the service or violating the regulations, policies or procedures of such networks.
+Creating a false identity or otherwise attempting to mislead others as to the identity of the user that is utilizing CloudFlare.com.
+Violating intentionally or unintentionally any applicable local, state, national or international law.
+==========
+SECTION 9: RECORDS OF YOUR VISITORS
+As part of the CloudFlare Service, you may choose to monitor the traffic to certain websites.
+In doing so, you acknowledge that CloudFlare acts as your limited agent (and data processor in the EU context) to you for the purpose of providing Internet data and optimization services.
+You acknowledge that it is your responsibility to ensure that the use of CloudFlare's Service is permitted under the laws of your jurisdiction and you agree to indemnify and hold CloudFlare harmless if your use of the Service is in violation of local law.
+Where required by law, you agree to post a privacy policy on any that, at a minimum, discloses any and all uses of personal information that you collect from users including any information collected via the Service.
+You agree to indemnify and defend CloudFlare from and against any and all claims stemming from your failure to comply with this provision and/or your failure or refusal to abide by the terms and provisions of any applicable privacy policies.
+==========
+SECTION 10: LIMITATION ON NON-HTML CACHING
+You acknowledge that CloudFlare's Service is offered as a platform to cache and serve web pages and web sites and is not offered for other purposes, such as remote storage.
+Accordingly, you understand and agree to use the Service solely for the purpose of hosting and serving web pages as viewed through a web browser and the Hypertext Markup Language (HTML) protocol or other equivalent technology.
+CloudFlare's Service is also a shared web caching service, which means a number of customers' web sites are cached from the same server.
+To ensure that CloudFlare's Service is reliable and available for the greatest number of users, a customer's usage cannot adversely affect the performance of other customers' sites.
+Additionally, the purpose of CloudFlare's Service is to host web sites, not store data.
+Using an account primarily as an online storage space, including the storage or caching of a disproportionate percentage of pictures, movies, audio files, or other non-HTML content, is prohibited.
+==========
+You further agree that if, at CloudFlare's sole discretion, you are deemed to have violated this section, or if CloudFlare, in its sole discretion, deems it necessary due to excessive burden or potential adverse impact on CloudFlare's systems, potential adverse impact on other users, server processing power, server memory, abuse controls, or other reasons, CloudFlare may suspend or terminate your account without notice to or liability to you.
+SECTION 11: PROHIBITED USES
+You shall not post, transmit, retransmit, cache, or store material on or through CloudFlare's Service which, in the sole judgment of CloudFlare (a) is in violation of any local, state, federal, or foreign law or regulation, (b) is threatening, obscene, indecent, defamatory, or that otherwise could adversely affect any individual, group, or entity (collectively, "Persons"), or (c) violates the rights of any Person, including rights protected by copyright, trade secret, patent, or other intellectual property or similar laws or regulations including, but not limited to, the installation or distribution of "pirated" or other software products that are not appropriately licensed for Your use.
+You agree that you will NOT knowingly use the Service, among other things, to:
+
+
+upload, post, transmit, or otherwise make available any content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically, or otherwise objectionable;
+harm minors in any way;
+impersonate any person or entity, including but not limited to a CloudFlare official, forum leader, guide, or host, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+forge headers or otherwise manipulate identifiers in order to disguise the origin of any content transmitted through the Service;
+upload, post, transmit, or otherwise make available any content that You do not have a right to make available under any law or under contractual or fiduciary relationships (such as inside information, proprietary, and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
+upload, post, transmit, or otherwise make available any content that infringes any patent, trademark, trade secret, copyright, or other proprietary rights of any party;
+upload, post, transmit, or otherwise make available any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or the like;
+upload, post, transmit, or otherwise make available any material that contains software viruses or any other computer code, files, or programs designed to interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment;
+interfere with or disrupt the Service or servers or networks connected to the Service, or disobey any requirements, procedures, policies, or regulations of networks connected to the Service;
+intentionally or unintentionally violate, attempt to violate, or avoid any applicable ICANN regulation or policy;
+intentionally or unintentionally violate any applicable local, state, national or international law, including, but not limited to, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, including, without limitation, the New York Stock Exchange, the American Stock Exchange, or the NASDAQ, and any regulations having the force of law;
+provide material support or resources (or to conceal or disguise the nature, location, source, or ownership of material support or resources) to any organization(s) designated by the United States government as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act;
+"stalk" or otherwise harass another; or
+promote or provide instructional information about illegal activities, promote physical harm or injury against any group or individual, or promote any act of cruelty to animals.
+==========
+This may include, but is not limited to, providing instructions on how to assemble bombs, grenades, and other weapons, and creating "Crush" sites.
+You agree to indemnify and hold harmless CloudFlare from any claims resulting from the use of the Services which damages you or any other party.
+CloudFlare reserves the right to investigate you, your business, and/or your owners, officers, directors, managers, and other principals, your sites, and the materials comprising the sites at any time.
+These investigations will be conducted solely for CloudFlare's benefit, and not for your benefit or that of any third party.
+If the investigation reveals any information, act, or omission, which in CloudFlare's sole opinion, constitutes a violation of any local, state, federal, or foreign law or regulation, or this Agreement, CloudFlare may immediately shut down the Service.
+You agree to waive any cause of action or claim you may have against CloudFlare for such action.
+SECTION 12: INDEMNITY
+You agree to indemnify and hold CloudFlare, and its subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, harmless from any claim or demand, including reasonable attorneys' fees, arising out of your use of the Service, your connection to the Service, your violation of the Terms of Service, or your violation of any rights of another.
+==========
+SECTION 13: DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+CLOUDFLARE.COM IS PROVIDED BY CLOUDFLARE ON AN "AS IS" AND "AS AVAILABLE" BASIS.
+CLOUDFLARE MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF CLOUDFLARE.COM, THE EFFECTIVENESS OF ITS SERVICES, OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED ON CLOUDFLARE.COM.
+YOU EXPRESSLY AGREE THAT YOUR USE OF CLOUDFLARE.COM IS AT YOUR SOLE RISK.
+TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, CLOUDFLARE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+==========
+CLOUDFLARE MAKES REASONABLE EFFORTS, BUT DOES NOT WARRANT THAT CLOUDFLARE.COM, ITS SERVERS, OR EMAIL SENT FROM ANY OF ITS DOMAINS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
+CLOUDFLARE WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THE CLOUDFLARE.COM, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES.
+CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES.
+IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.
+==========
+SECTION 14: TERMINATION
+CloudFlare's policy is to investigate violations of these Terms of Service and terminate repeat infringers.
+You agree that CloudFlare may, under certain circumstances and without prior notice, immediately terminate your CloudFlare account, any associated email address, and access to CloudFlare.com and associated Services.
+Cause for such termination shall include, but not be limited to: (a) breaches or violations of the Terms of Service or other incorporated agreements or guidelines; (b) requests by law enforcement or other government agencies; (c) a request by you (self-initiated account deletions); (d) discontinuance or material modification to the Service (or any part thereof); (e) unexpected technical or security issues or problems; (f) extended periods of inactivity; (g) you have engaged or are reasonably suspected to be engaged in fraudulent or illegal activities; (h) having provided false information as part of your account; (i) having failed to keep your account complete, true, and accurate; (j) any use of the Service deemed at CloudFlare's sole discretion a Prohibited Use as defined above; and/or (k) nonpayment of any fees owed by you in connection with CloudFlare.com and associated Services.
+Further, you agree that all terminations for cause shall be made in CloudFlare's sole discretion and that CloudFlare shall not be liable to you or any third-party for any termination of your account, access to the Service, or any disruption to your services such a termination may cause.
+You expressly agree that in the case of a termination for cause you will not have any opportunity to cure.
+You further acknowledge and agree that notwithstanding any termination, your obligations to CloudFlare set forth in Sections 9, 10, 11, 12 and 13 shall survive such termination.
+==========
+SECTION 15: DMCA
+CloudFlare is a pass-through network and, at most, caches content for a limited period in order to improve network performance.
+CloudFlare automatically removes content from our caches when it has been removed from the origin web server.
+Copyright holders concerned with content served through CloudFlare's network may mail copies of complaints requesting the IP address of a CloudFlare user's web server to:
+CloudFlare, Inc.665 3rd Street - Suite 207San Francisco, CA 94107dmca@cloudflare.com
+You acknowledge that CloudFlare may, at its own discretion, reveal the IP address of your web server to alleged copyright holders who have filed complaints with us.
+SECTION 16: MODIFICATIONS
+CloudFlare may modify this Agreement from time to time.
+==========
+Any and all changes to this Agreement will be posted on CloudFlare.com.
+In addition, the Agreement will always indicate the date it was last revised.
+You are deemed to accept and agree to be bound by any changes to the Agreement when you use the Service after those changes are posted.
+==========
+SECTION 17: LINKS
+The Service may provide, or third parties may provide, links to other World Wide Web sites or resources.
+Because CloudFlare has no control over such sites and resources, you acknowledge and agree that CloudFlare is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such sites or resources.
+You further acknowledge and agree that CloudFlare shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content.
+==========
+SECTION 18: NO THIRD PARTY BENEFICIARIES
+You agree that, except as otherwise expressly provided in this Terms of Service, there shall be no third party beneficiaries to this Agreement.
+SECTION 19: WAIVER
+The failure of CloudFlare to exercise or enforce any right or provision of this Agreement shall not constitute a waiver of such right or provision.
+If any provision of the Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the Terms of Service remain in full force and effect.
+SECTION 20: SEVERABILITY OF TERMS
+If any provision of the Terms of Service is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of the Terms of Service remain in full force and effect.
+==========
+SECTION 21: NON-TRANSFERABILITY OF ACCOUNTS
+You agree that your CloudFlare account is non-transferable except with the written consent of CloudFlare.
+SECTION 22: TIME LIMITATIONS FOR CLAIMS
+You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of CloudFlare.com must be filed within one year after such claim or cause of action arose or be forever barred.
+SECTION 23: APPLICABLE LAW
+By visiting CloudFlare.com, you agree that the laws of the United States and, specifically, those of the state of California, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and CloudFlare or its affiliates.
+Any dispute or claim arising out of or in connection with this Agreement shall be adjudicated in Santa Clara County, California, USA.
+SECTION 24: HEADINGS
+The headings and section titles in the Terms of Service are for convenience only and have no legal or contractual effect.
+==========

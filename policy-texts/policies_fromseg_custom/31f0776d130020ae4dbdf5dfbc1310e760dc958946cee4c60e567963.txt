@@ -1,0 +1,81 @@
+Smart homes offer utility, economy, and comfort [1] through the means of smart devices.
+Internet of Things (IoT) technology provides connectivity among smart devices at smart homes [2].
+==========
+In this paper we study possible privacy problems in smart home environment and lack of users' control over their privacy.
+The scope of our work is to develop a privacy decision framework that will help users to easily and adequately express their preferences and choose the desired privacy accordingly.
+==========
+In this framework, machine learning techniques will be applied to classify the information to sensitive and non-sensitive category.
+With data classification, user privacy settings can be set properly.
+In this paper, we provide a use case scenario of independent living.
+==========
+A recent survey [3] shows that 95% of people aged 75 + want to live only in their own homes.
+Living independently in one's own home improves mental health, memory, and helps in emotional and physical well-being.
+==========
+Appropriate measures should be in place if these elders show any abnormal signs in their behaviors and activities, because these vital signs may imply that some unusual activities have taken place.
+In this scenario, we choose three smart devices which are: Smart Bed, Smart Watch and Digital Medication Dispenser.
+==========
+These devices collect medical information from users as it is shown in Table I. Independent living is an example scenario for our privacy decision framework.
+TABLE I 
+Smart Devices Collect Medical Information
+
+
+
+		                        SECTION I.Privacy Problems In Smart HomesThe smart appliances capture data about users by using different sensors such as light, sound and temperature.
+==========
+There are various communication technologies such as Power-Line Communication (PLC), ZigBee, and cellular model [4] to transmit the captured data over the IP network to the SmartThings Hub for storage.
+With user permission, data can be delivered for different usages.
+==========
+Due to the privacy issues in smart homes, people may have concerns about releasing their private information [5], and they may be hesitant to use the smart devices and live in smart homes.The smart devices interact with one another and display and analyze data that they receive in order to exchange information with users or to provide comfortable services [6].
+One problem is that users do not have diverse configuration or storage options for the smart devices in smart home.
+However, Zero-Conf configuration processes are employed in smart homes, which forces users to accept the vendor's default settings for security and privacy.
+In this case, users do not have much opportunities to configure their own devices.
+==========
+Furthermore, different users (e.g., privacy unconcerned, privacy pragmatist, and privacy fundamentalist) have different expectations of privacy [7].
+If a user's privacy expectation is not considered during collecting data, Personal Identifiable Information (PII) can be released.
+PII is any data that could release some information about a user that helps to identify a specific individual [8].
+We need privacy settings that help users understand what information the devices have captured, and help users control the sharing of information.
+==========
+There are some solutions for the privacy issues in smart homes such as configuring their privacy setting by themselves but some challenges existed with this solution.
+In this solution, users need to label all of data collection and identify which information is sensitive for them and which one is non-sensitive.
+==========
+However, the accuracy of the privacy setting relies on user input and all the burdens are on the users.
+The user input is unpredictable and they are able to quit labeling the data anytime.
+==========
+Another solution [9] is based on the active learning that users label some selected data, and a machine learning classifier labels other data on the basis of those user-labeled data.
+The limitation of the approach in [9] is that users do not choose with whom they share a particular information.
+==========
+For example, users may prefer not to share their location with a Power Company, so they need to label the location data as a sensitive data, however they may want to share it with their friends, but in this case, they do not have options to choose which devices collected what data, who can access to this information and for what purposes.
+In order to provide users with adequate privacy control, we introduce new framework for privacy control in smart homes.
+In this framework, users are able to label just some selected data, and based on user preferences, machine learning can classify the rest of data collected by smart devices.
+With this privacy decision framework, we expect to solve user's privacy problem by having: (1) more options for users to express their preferences, (2) address the lack of users' technical knowledge of smart home devices because they do not need to have knowledge about the technical aspect of smart devices.SmartThings Hub, which offers a streamlined way to control connected smart devices, stores all collected data from smart devices.
+In this framework, we can use all of the user's information from SmartThings Hub.
+==========
+All collected data based on what information they captured from smart devices classified into different categories such as medical information, geographical information, and personal characteristics information.
+By categorizing this information into different groups, collected data will be more organized and users can label data easier.
+==========
+Users can express their preferences by identifying the values of purpose, information and subscriber (see Table II).
+TABLE II 
+An Example Dataset of Subscriber and Information For Medical Purpose
+
+Purpose (Why information be shared): The collected data can be used for general purposes such as health data can be used for medical research, or for more specific purposes of a user, like power company using the user's data for improving their service availability to the user.
+Therefore, the purpose of information sharing can affect their decision of data sharing.Subscriber (To whom information be shared): Many subscribers like power company, water company and other users like the user's friends ask for collected data from smart homes.
+In our framework, users have this option to specify who can access their information and who is not allowed to.Information (What privacy sensitive data be shared): Users also have option to decide about the granularity of data sharing.The machine learning classifier will help the process of determining sharing or not sharing of user's information.
+==========
+We plan to employ pool-based active learning [10] for classification of data for two reasons: (1) it can help to minimize the burden of labeling so many instances (2) the users have access to a pool of unlabeled data and can label a certain number of data.
+By using this framework, users are able to specify their preferences for a certain number of unlabeled instances, and based on their answers the model will learn the user's preferences and label the rest of unlabeled data.
+==========
+One algorithm that performs pool-based active learning is Naïve Bayes [11].
+The Naïve Bayes classifier can incorporate prior knowledge and data with missing values and provides an interpretable model.
+However, it does not perform discriminative methods.
+==========
+The other algorithm that can be used for active learning is Support Vector Machines (SVM).
+SVM has a significant success in real-world learning tasks due to different reasons such as reducing the need for labeling instances and having a good performance on unseen data.
+When the users label some of old data that we collected from SmartThings Hub, we can employ active learning classification to label the rest of data.
+==========
+After users express their preferences about sharing their information for different purposes (in this use case scenario, medical purpose), they are able to choose to whom the information to be shared and the level of details the next step which is choosing subscriber and information will not be shown.
+With this framework, users are able to express their preferences and choose the desired privacy consciously.
+==========
+Based on the preferences, training data will be prepared for data sensitivity classification.
+After the machine learning classifier learns the user preferences, it will be easier to maintain user privacy.
+One significant advantage of the use of machine learning is that if the users add new smart device that collects new data, machine learning can adopt and classify the data into a correct category.
+==========

@@ -1,0 +1,133 @@
+W3C Privacy Statements
+
+
+W3C Privacy Statement for Non-Members
+
+
+
+Summary:
+  
+
+    We make no effort to identify public users of our site.
+No identifying data
+    is disclosed to any third party for any purpose.
+Data that we collect is
+    used only for server administration and Web protocol research.
+==========
+This statement applies to non-member interactions with the
+W3C Web servers.
+It does not apply to our
+member site nor email sent to W3C staff or lists.
+Any questions regarding
+the web site and the privacy policy can be directed to
+site-policy@w3.org .
+Email
+interactions are guided by general net-etiquette conventions.
+As is typical, the W3C logs http requests to our server.
+==========
+These logs capture
+computer information and navigation and click-stream data,
+such as the originating IP (e.g. 18.29.0.1) address of an agent requesting
+a URL.
+This data is used in non-identifiable form; we do
+not log the the specific identity of visitors.
+For web site and system
+administration purposes, we occasionally analyze the log files to
+determine which files are most requested and the previous site or user agent
+which prompted the request.
+Our logging is passive; we do not use
+technologies such as cookies to maintain any information on users.
+We also log transaction data, such as requests to our search,
+cgi, and list maintenance services.
+This data is only used for
+completion and support of your requests and researching
+the efficacy of our tools.
+==========
+Logged information is not disclosed outside of W3C host site personnel.
+Aggregate
+(completely non-identifying) statistics generated from these logs may be
+reported as part of research results.
+The logs are permanently archived as
+raw research material.
+==========
+In the P3P
+vocabulary of November
+  9, 1998, the privacy policies of this site can be expressed as follows:
+  
+  for (www.w3.org/* BUT NOT
+  www.w3.org/*Member*/)
+  we collect Computer Information AND Navigation and Click-stream
+  Data 
+      for the purpose of  Web Site and System
+  Administration
+      in Non-Identifiable Form
+      by only ourselves and agents, on
+  our behalf 
+  we collect Transaction Data
+      for the purpose of Completion and Support of Current
+  Activity and 
+        Web Site and
+  System Administration
+     in Non-Identifiable Form
+      by only ourselves and agents, on
+  our behalf 
+  with user-capabilities of 
+      "we provide no capabilities to access information,
+  
+       logs may be kept indefinitely" see
+     
+   http://www.w3.org/Consortium/Legal/privacy-statement.html#Public
+
+
+
+
+
+W3C Privacy Statement for Members
+
+
+
+Summary:
+  
+
+    We use member related information for the purposes of administering the W3C,
+    and communicating and collaborating with our members.
+This statement applies to member interactions with the
+W3C Member Web site.
+It does not apply to
+our non-member site nor email sent to W3C staff or lists.
+Any questions regarding
+the web site and the privacy policy can be directed to
+site-policy@w3.org .
+==========
+Email
+interactions are guided by general net-etiquette conventions.
+Members' interactions with the site are authenticated.
+Consequently we have
+the capability to identify users and their activities.
+==========
+By requesting a password you are added to our newsletter mailing list and
+    your identity is relayed to Advisory Committee representative (AC rep).
+We trace membership of lists for chairmen of Working Groups, and at the request
+    of AC representatives -- but only for people in their organization.
+This is commensurate with the AC representative role as the single and
+responsible point of contact for their organization.
+Very often, the participants of an activity and the project manager or working
+group chair will determine the degree of publicity inherent to a specific
+W3C activity.
+==========
+_______________
+
+Please see our
+Copyright FAQ
+for common questions about using materials from our site.
+Questions about
+this notice can be directed to
+site-policy@w3.org .
+webmaster
+
+
+
+October 19, 1998
+
+  Copyright © W3C (MIT, INRIA, Keio) 1998, All Rights Reserved.
+==========

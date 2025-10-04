@@ -1,0 +1,53 @@
+ga:clientId [x9]Envatoassets.shopfront.envato-static.
+comphotodune.netEnvato3docean.netRegisters statistical data on users' behaviour on the website.
+==========
+Used for internal analytics by the website operator.
+PersistentHTMLcodecanyon-search-page-viewsEnvatoPending1 yearHTMLcollectGoogleUsed to send data to Google Analytics about the visitor's device and behavior.
+==========
+Tracks the visitor across devices and marketing channels.SessionPixelUIDScorecardresearchCollects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address.
+The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.2 yearsHTTPUIDRScorecardresearchCollects information of the user and his/her movement, such as timestamp for visits, most recently loaded pages and IP address.
+The data is used by the marketing research network, Scorecard Research, to analyse traffic patterns and carry out surveys to help their clients better understand the customer's preferences.2 yearsHTTPslideshare.experimentsLinkedInUsed by SlideShare to determine if the visitor is participating in a design experiment.PersistentHTMLfirebase:previous_websocket_failureCrowdcastThis cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website.PersistentHTML_ga [x7]Googlepixelgrade.combyonepress.comHugedomains.comkreaturamedia.comnew2new.comRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.2 yearsHTTP_gid [x7]Googlepixelgrade.combyonepress.comHugedomains.comkreaturamedia.comnew2new.comRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.1 dayHTTP_gat [x16]Envatoassets.shopfront.envato-static.
+==========
+compixelgrade.combyonepress.comHugedomains.comkreaturamedia.comnew2new.comEnvato3docean.netGoogleUsed by Google Analytics to throttle request rate1 dayHTTPgaClientIdEnvatoPendingSessionHTTPoriginal_landing_page_url [x2]EnvatoReferral URL.1 yearHTTPGO_EXP_controlEnvatoPending1 yearHTTPce_clock [x8]Envatophotodune.netEnvato3docean.netSets a timestamp for when the visitor entered the website.
+This is used for analytical purposes on the website.
+==========
+SessionHTMLgetFeedback-1dVvcfp3EnvatoGetFeedback survey notification.PersistantHTMLGO_EXP_55fTFEVESjCSm4z-4h5rgwEnvatoMulti term search experiment1 yearHTTPGO_EXP_5xC-rm4JS_G7jeq1bA-5qwEnvatolanguageRedirectExperiment.
+French variant.1 yearHTTPGO_EXP_ejM6i3UQRFOe3ngD5lAa6AEnvatoSort by popular label experiment1 yearHTTPGO_EXP_f5FSMYiBTZG6sUhGZPl8lwEnvatoItem details tags1 yearHTTPGO_EXP_h5shm6MGT0yT7HTl5-X4IgEnvatoRename popular sort by filter 2.01 yearHTTPGO_EXP_HPaBnzHqS1e8bcDk-CLfSgEnvatoLarger search results1 yearHTTPGO_EXP_jbaeQUgHSvaam-qn0DPdyQEnvatoFunnel - Larger results of item cards per page on search/category pages experiment1 yearHTTPGO_EXP_KNEJFZ1GQ1GP8enIBetgrgEnvatoDownload modal experiment1 yearHTTPGO_EXP_lbrmMt2LRSu9ge8EzHfSIAEnvatoAuto suggest1 yearHTTPGO_EXP_LMKh3t3ORVW2iosRUXcq0wEnvatoFunnel - Subscribe CTA copy experiment1 yearHTTPGO_EXP_LOOS5mDRQaGA0VIdi8qUgAEnvatoExclude keywords filter experiment1 yearHTTPGO_EXP_N7xYiMQFT6-sFZpzGcubhwEnvatoNo results curated items block1 yearHTTPGO_EXP_sV0L6P8JSFeLeWWC_fUyCQEnvatoSticky filters1 yearHTTPGO_EXP_uP0SVeycTF-tRdWibXPL2gEnvatopricing clarity1 yearHTTPGO_EXP_VTK7hpkiQBGyHB7J1kVd9AEnvatolanguageRedirectExperiment.
+==========
+Spanish variant.1 yearHTTPGO_EXP_XE_afy_eTD21fRiUB5ZV8AEnvatoGlobal control group experiment.1 yearHTTPGO_EXP_yDjq_eWRT-mFxeau-35QggEnvatoHide results count1 yearHTTPGO_EXP_ygvTYKaSRvKCx82VDgSKBwEnvatoItem detail recently viewed experiment1 yearHTTPGO_EXP_ZGmUwAEFQ0Gx827H0Xf-GwEnvatoT20 Search and Discovery Experiment.
+Related to T20 tile shown in the Photo search results page.1 yearHTTPvariablePricingExpEnvatoVariable pricing experiment1 yearHTTPajs_anonymous_idEnvatoSegment cookie for 2019 CDP trial1 yearHTTPGO_EXP_1_nPCafHSzOQWUro_Zo6KgEnvatoSSO sign-up redirect experiment1 yearHTTPGO_EXP_7F9tF2xVRTiGrwMxEHuc6AEnvatoFunnel - Tab layout with improve Paypal messaging on the subscribe page1 yearHTTPGO_EXP_8lHDCp8oREmeoPLzO17MBwEnvatoOpimised Pricing Page experiment1 yearHTTPGO_EXP_bqsjGD2aTZK0YSuvzmOoTgEnvatoHomepage Categories Experiment1 yearHTTPGO_EXP_cPizu8MXSIq-ZxT--zEsgAEnvatoLanguage redirect and notification experiment take 21 yearHTTPGO_EXP_DC_IAbwXQEGWTEWdfk_lKAEnvatoPricing flow tweaks experiment1 yearHTTPGO_EXP_I_QNMFtCQEeQy3BirdhUSQEnvatoSigned in dashboard - Promos experiment1 yearHTTPGO_EXP_JBOb07nhS5SDsBzrftrpegEnvatoFunnel - Subscribe to unlock experiment1 yearHTTPGO_EXP_jSTc_cK_TVCMy07GU5x-OQEnvatoStaff pick boost experiment1 yearHTTPGO_EXP_MRJZNVP2QCyaCbZfD5Q2Rg [x2]Envato2nd Global control experiment1 yearHTTPGO_EXP_o8pAzFUGQIqBt5rKGO_SxQEnvatoMetadata weightings experiment1 yearHTTPGO_EXP_OdcxYpdfTkyVlsPSa8jRdgEnvatoItem tags experiment1 yearHTTPGO_EXP_P9OKWXy5SBap0Y5n6U5dBQEnvatoDifferent item type as default on search1 yearHTTPGO_EXP_removeoptimizeEnvatoA test experiment to determine whether we can run experiments on Elements without Google Optimize1 yearHTTPGO_EXP_rzhdPoanSn6h7TsLLRz2TgEnvatoPrice page experiment1 yearHTTPGO_EXP_S7kdQZBVRRWkTy4G61iOfwEnvatoFunnel - Add free files to Browse menu1 yearHTTPGO_EXP_tzAqJUj6ReiREadmMRcAvAEnvatoLanguage redirect and notification experiment Part 21 yearHTTPGO_EXP_UvEsdmHnSZK2AADCUbJmJQEnvatoEnglish only experiments AA test1 yearHTTPGO_EXP_WFHNjEYISIivnn3jh3MMiAEnvatoPricing page flow steps1 yearHTTPGO_EXP_yMXuEYzgTt-HXFANN_ahgAEnvatoDon't redirect free users to dashboard1 yearHTTPGO_EXP_5q7Jx3EcRKqq9N5-tSC7xgEnvatoPending1 yearHTTPGO_EXP_Y4CsWsxGRIueDLAnlVoAZgEnvatoPending1 yearHTTPpageViewsEnvatoPendingSessionHTMLsegmentio.
+#.
+ackEnvatoPendingPersistentHTMLsegmentio.
+#.
+inProgressEnvatoPendingPersistentHTMLsegmentio.
+#.
+queueEnvatoPendingPersistentHTMLsegmentio.
+#.
+reclaimEndEnvatoPendingPersistentHTMLsegmentio.
+#.
+==========
+reclaimStartEnvatoPendingPersistentHTMLjserrors/1/#New RelicPendingSessionPixelvh-category-survey-banner-visibilityEnvatoPending1 yearHTMLvideohive-category-page-viewsEnvatoPending1 yearHTMLvideohive-search-page-viewsEnvatoPending1 yearHTML_ym_d [x2]fuelthemes.netjnestmedia.comContains the date of the visitor's first visit to the website.
+1 yearHTTP_ym_isad [x2]fuelthemes.netjnestmedia.comThis cookie is used to determine if the visitor has any adblocker software in their browser – this information can be used to make website content inaccessible to visitors if the website is financed with third-party advertisement.1 dayHTTP_ym_uid [x2]fuelthemes.netjnestmedia.comThis cookie is used to collect non-personal information on the visitor's website behavior and non-personal visitor statistics.1 yearHTTP__insp_dctOshine.
+==========
+Registers statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+==========
+SessionHTTP__insp_targlptOshine.
+This cookie is used to remember login information, which optimizes the visitor experience on the website – the cookie also allows visitors to leave comments on website content.1 yearHTTP__insp_targlpuOshine.
+==========
+Registers statistical data on users' behaviour on the website.
+Used for internal analytics by the website operator.
+1 yearHTTP_cer.
+==========
+s [x3]EnvatoEnvato3docean.netCollects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.SessionHTTP_cer.v [x3]EnvatoEnvato3docean.netCollects statistics on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.5 daysHTTPyandexuidYandexRegisters data on visitors' website-behaviour.
+This is used for internal analysis and website optimization.
+1 yearHTTPymexYandexRegisters data on visitors' website-behaviour.
+This is used for internal analysis and website optimization.
+1 yearHTTPtf-category-survey-banner-visibilityEnvatoPending1 yearHTMLthemeforest-category-page-viewsEnvatoPending1 yearHTMLthemeforest-search-page-viewsEnvatoPending1 yearHTMLphotodune-search-page-viewsphotodune.
+netPending1 yearHTMLgraphicriver-category-page-viewsEnvatoPending1 yearHTMLgraphicriver-search-page-viewsEnvatoPending1 yearHTMLgr-category-survey-banner-visibilityEnvatoPending1 yearHTMLsc_is_visitor_uniqueHugedomains.
+==========
+comThis cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor a random ID, so the visitor does not get registered twice.2 yearsHTTPvisitor-idMedia.
+netThis cookie is used to collect information on the visitor.
+This information will be stored for internal analytics at the website's operator – Internal analytics is used by websites to optimize their domains.1 yearHTTPdQuantcastCollects anonymous data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.3 monthsHTTPis_uniqueStatcounterThis cookie is used to identify the frequency of visits and how long the visitor is on the website.5 yearsHTTPis_visitor_uniqueStatcounterThis cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor a random ID, so the visitor does not get registered twice.2 yearsHTTPcc-category-survey-banner-visibilityEnvatoPending1 yearHTMLcodecanyon-category-page-viewsEnvatoPending1 yearHTMLaj-category-survey-banner-visibilityEnvatoPending1 yearHTMLaudiojungle-category-page-viewsEnvatoPending1 yearHTMLaudiojungle-search-page-viewsEnvatoPending1 yearHTMLthreedocean-search-page-views3docean.
+netPendingPersistantHTML
+==========

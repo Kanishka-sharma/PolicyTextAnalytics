@@ -1,0 +1,124 @@
+Last week, some ominous news regarding the FBI's involvement with Carrier IQ surfaced.
+Carrier IQ, having had its fair heap of godawful press, was quick to shoot me an email clarification.
+==========
+What followed doesn't help its case.
+It began with a simple note from Mira Woods, who works in "Marketing Communications" for Carrier IQ:  Just to clarify all of the media frenzy around the FBI.
+Carrier IQ has never provided any data to the FBI.
+If approached by a law enforcement agency, we would refer them to the network operators because the diagnostic data collected belongs to them and not Carrier IQ.
+Carrier IQs data is not designed to address the special needs of law enforcement.
+The diagnostic data that we capture is mostly historical and won't reveal where somebody is and what they are doing on a real-time basis.
+Hope this helps answer some of your questions.
+==========
+Thanks, Mira Mira Woods Marketing Communications Carrier IQ mwoods@carrieriq.com  Sorry about the frenzy, Mira!
+But Carrier IQ seemed like it was trying to distance itself from its own business—collecting data about you for companies.
+So I replied:  From: Sam Biddle [sbiddle@gizmodo.com<mailto:sbiddle@gizmodo.com><mailto:sbiddle@gizmodo.com<mailto:sbiddle@gizmodo.com>>] Sent: Tuesday, December 13, 2011 10:36 AM To: Mira Woods Subject: Re: FBI question Thanks Mira—can you expand on what you mean by "the diagnostic data collected belongs to them and not Carrier IQ" ?
+What exactly is the licensing arrangement?
+sam  Mira's response:  From: Mira Woods To: Sam Biddle Date: Tue, 13 Dec 2011 12:42:06 -0800 Subject: RE: FBI question Carrier IQ acts as an agent for the operators.
+==========
+Each carrier's implementation of the software within its network and handsets is unique.
+The carrier determines the diagnostic information that is actually gathered and Carrier IQ does not gather any other data.
+==========
+Consumers have a trusted relationship with operators and expect their personal information and privacy to be respected.
+As a condition of its contracts with operators, Carrier IQ operates exclusively within that framework and under the laws of the applicable jurisdiction.
+Carrier IQ does not sell data to third parties.
+Only the carrier has access to the data so they can improve the network and device performance for the consumer.
+Mira Woods Marketing Communications Carrier IQ mwoods@carrieriq.com  A little ambiguous.
+==========
+I tried again.
+Subject: Re: FBI question From: Sam Biddle To: Mira Woods Does Carrier IQ actually have a legal arrangement with carriers whereby diagnostic data is the sole property of said carriers?
+Does Carrier IQ keep copies?
+And how is a carrier not considered a third party?
+In return, another dodge:  From: Mira Woods To: Sam Biddle Date: Tue, 13 Dec 2011 18:23:20 -0800 Subject: RE: FBI question The carriers are our customers so they use the software to help identify ways to prevent dropped calls, prolong battery life and improve customer service.
+==========
+All mobile providers have some way of extracting diagnostic information about the performance of their network.
+Carrier IQ provides secure, efficient tools to help carriers solve issues within the network.
+Carrier IQ takes privacy concerns seriously.
+Carrier IQ's software must be used in compliance with the laws of the applicable jurisdiction, including those laws that apply to privacy.
+==========
+The data that is gathered, stored and transmitted to the carrier is determined by the carrier's end-user agreement.
+Mira Woods Marketing Communications Carrier IQ Phone: 617 513 7020 mwoods@carrieriq.com  This mostly regurgitates the language of Mira's previous email, and ends with a passing of the buck to "the carrier's end-user agreement."
+I wanted to know how Carrier IQ operates, and its relationship with your privacy.
+Who owns the information?
+Where does it go?
+Subject: Re: FBI question From: Sam Biddle To: Mira Woods Thanks for the reply Mira, but I'm afraid that didn't really answer my questions.
+I'll try to make myself more understandable: 1.
+==========
+By what arrangement do carriers own Carrier IQ's diagnostic data?
+Are they the SOLE owners of this data?
+2.
+Does Carrier IQ retain a copy of any diagnostic data collected, or is it deleted after being sent to carriers?
+3.
+For what reason are carriers not considered to be a "3rd party" by Carrier IQ?
+==========
+Thanks Sam  After a day, I received this, the most confounding of all: From: Mira Woods  To: Sam Biddle Date: Thu, 15 Dec 2011 12:32:30 -0800 Subject: RE: FBI question How does this sound?
+Sorry for the lengthy responses, but want to make sure I covered everything.
+These statements are attributable to Andrew Coward, VP of Marketing at Carrier IQ as he is the corporate spokesperson.
+1.
+==========
+By what arrangement do carriers own Carrier IQ's diagnostic data?
+Are they the SOLE owners of this data?
+The contractual arrangement between Carrier IQ and its customers governs what diagnostic data the carriers own and it is different in each case.
+The carriers are the sole owners of that data.
+The Carrier IQ Agent transmits diagnostic data only to the Carrier IQ customer – predominantly Network Operators and some device manufacturers – that specified a profile.
+In the case of one Network Operator, the diagnostic data is transferred directly from its end users' devices directly to the Network Operator's data center.
+==========
+In the case of other customers, Carrier IQ hosts data for its customers in Carrier IQ's data center.
+In these instances, Carrier IQ provides use of its server software, which processes the data, called Mobile Service Intelligence Platform (MSIP), to its customers as a managed service.
+Carrier IQ does not have any rights to the data that is gathered, and the information within the MSIP system is at the control of our customers, the network operators.
+Carrier IQ does not transmit the data to any third parties, and is contractually prohibited from doing so.
+2.
+Does Carrier IQ retain a copy of any diagnostic data collected, or is it deleted after being sent to carriers?
+==========
+The metrics gathered by the IQ Agent are held in a temporary location on the device in a form that cannot be read without specifically designed tools and is never in human readable format.
+The length of time this information is held on the device before upload is based on the profile but is typically 24 hours.
+During that time, the data is stored in a proprietary binary format.
+After the data is uploaded, it is deleted from the device.
+The minimum length of time the diagnostic data is stored in Carrier IQ's data centers is a function of Network Operators or Device Manufacturer's minimum data retention requirements, as specified in their contracts with Carrier IQ.
+Typical minimum retention periods for Carrier IQ's customers are 30 days, although data may be retained beyond date.
+Carrier IQ provides a "Software-as-a-Service" model whereby we host the servers on behalf of some customers.
+==========
+In other cases, our customer will host the MSIP system in their data centers.
+In either case the security of the systems is paramount and our customers audit the protections we place in these systems and facilities.
+Due to pending litigation, Carrier IQ is taking efforts to preserve all data currently in its data center.
+3.
+==========
+For what reason are carriers not considered to be a "3rd party" by Carrier IQ?
+The information is the carrier's information.
+The carrier is the party that has the relationship with the consumer.
+==========
+They are the first and only party that has access to this data.
+Mira Woods Marketing Communications Carrier IQ mwoods@carrieriq.com  (emphasis mine) My reply:  Subject: Re: FBI question From: Sam Biddle To: Mira Woods Are you saying that Carrier IQ doesn't have the rights to the data it collects itself?
+Mira seemed to be winding things down:  From: Mira Woods To: Sam Biddle Date: Thu, 15 Dec 2011 14:42:31 -0800 Subject: Re: FBI question No, carriers own the data.
+I fished for more:  Date: Fri, 16 Dec 2011 09:27:21 -0500 Subject: Re: FBI question From: Sam Biddle To: Mira Woods I have some followup questions below: "The contractual arrangement between Carrier IQ and its customers governs what diagnostic data the carriers own and it is different in each case."
+==========
+So the agreement could be anything, correct?
+"The carriers are the sole owners of that data."
+Is there anything preventing carriers from selling this data to a third party?
+"The Carrier IQ Agent transmits diagnostic data only to the Carrier IQ customer – predominantly Network Operators and some device manufacturers" Predominantly-who else?
+"Carrier IQ does not have any rights to the data that is gathered" But it has access to it, correct?
+==========
+"The length of time this information is held on the device before upload is based on the profile but is typically 24 hours."
+Typically, but it could be anything, or an indefinite period of time, correct?
+"The minimum length of time the diagnostic data is stored in Carrier IQ's data centers is a function of Network Operators or Device Manufacturer's minimum data retention requirements, as specified in their contracts with Carrier IQ. "
+See above.
+==========
+"The information is the carrier's information.
+The carrier is the party that has the relationship with the consumer.
+==========
+They are the first and only party that has access to this data."
+How can they possibly be the first and only party with access?
+Does Carrier IQ have no idea what kind of data it's collecting?
+How does it ensure the integrity of its own business if it has zero access or control over data collection?
+==========
+I had been told, essentially, nothing.
+Carrier IQ admits to sending your private information to carriers, but divulges nothing concrete about who has access to this information, where, or for how long.
+==========
+They might "typically" delete the data after 24 hours, but what about cases that aren't typical?
+Typical means nothing.
+==========
+Carrier IQ is saying it has no access to the data that it collects—a contradictory statement.
+It's saying it doesn't know what it's relaying to its "customers"—which doesn't sound like the way anyone would really run a business.
+Collection is access.
+I asked Mira once more for some clarification on the above, and received only this:  Sam, I have sent you all of the necessary information.
+Except you really haven't.
+==========

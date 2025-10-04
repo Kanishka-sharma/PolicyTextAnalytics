@@ -1,0 +1,53 @@
+Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners.
+This includes products, websites and services such as the following:Creating a Microsoft account.
+You can create a Microsoft account here by providing an email address, a password and other "account proofs", such as an alternate email address, a phone number, and a question and secret answer.
+We will use your "account proofs" for security purposes only - for instance, to verify your identity in the event that you cannot access your Microsoft account and need assistance, or to reset your password if you cannot access the email address associated with your Microsoft account.
+==========
+Some services may require added security, and in those cases, you may be asked to create an additional security key.
+The email address and password that you use to sign up for your Microsoft account are your "credentials" that you will use to authenticate with our network.
+Furthermore, a 64-bit unique ID number will be assigned to your credentials and will be used to identify your credentials and associated information.
+When you create a Microsoft account, we will also ask you to provide the following demographic information: gender; country; birthdate; and postal code.
+We may use birthdate to verify that children obtain appropriate consent from a parent or guardian to use a Microsoft account, as required by local law.
+In addition, this demographic information is used by our online advertising systems to provide you with personalized advertisements about products and services you might find useful, but our advertising systems never get your name or contact information.
+In other words, our advertising systems do not contain or use any information that can personally and directly identify you (such as your name, email address and phone number).
+==========
+If you prefer not to receive personalized ads, you may register your preference with your Microsoft account by visiting this page so that whenever you sign into web sites or services with your Microsoft account, our advertising systems will not serve you personalized ads.
+For more information about how Microsoft uses information for advertising, please see the      Microsoft Advertising Privacy Supplement.
+==========
+You can use an email address provided by Microsoft (such as those ending in live.com, hotmail.com, or msn.com) or an email address provided by a third party (such as those ending in gmail.com or yahoo.com) when signing up for your Microsoft account.
+Upon creating a Microsoft account, we will send you an email asking you to verify that you are the owner of the email address associated with your Microsoft account.
+This is designed to verify the validity of the email address and help prevent email addresses from being used without the permission of their owners.
+Thereafter, we will use that email address to send you communications relating to your use of Microsoft products and services; we may also send you promotional emails about Microsoft products and services as permitted by local law.
+For information about managing your receipt of promotional communications, please visit Communications.
+==========
+If you attempt to register for a Microsoft account and find that another individual has already created credentials with your email address as the user name, you may contact us and request that the other individual adopt a different user name so that you may use your email address when creating your credentials.
+Signing into software, sites or services with your Microsoft account.
+When you sign into a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage, and to protect the efficiency and security of the Microsoft account service.
+For instance, when you sign in, the Microsoft account service receives and logs your credentials and other information, such as the 64-bit unique ID number assigned to your credentials, your IP address, your web browser version and a time and date.
+Further, if you use a Microsoft account to sign into a device or into software that is installed on a device, a random unique ID is assigned to the device; this random unique ID will be sent as part of your credentials to the Microsoft account service when you subsequently sign into a site or service with your Microsoft account.
+The Microsoft account service sends the following information to the site or service that you have signed into: a unique ID number that permits the site or service to determine whether you are the same person from one sign-in session to the next; the version number assigned to your account (a new number is assigned each time you change your sign-in information); whether your email address has been confirmed; and whether your account has been deactivated.
+==========
+Some third party sites and services that permit you to sign in with your Microsoft account require your email address in order to provide you with their services.
+In those cases, when you sign in, Microsoft will provide your email address but not your password to the site or service.
+However, if you created your credentials with the site or service, it may have limited access to information associated with your credentials in order to help you reset your password or provide other support services.
+If you received your account from a third party, like a school, a business, an internet service provider, or the administrator of a managed domain, that third party may have rights over your account, including the ability to reset your password, view your account usage or profile data, read or store content in your account, and suspend or cancel your account.
+==========
+In these cases, you are subject to the Microsoft Service Agreement and to any additional terms of use from that third party.
+If you are the administrator of a managed domain and have provided your users with Microsoft accounts, you are responsible for all activity that takes place within such accounts.
+Please note that sites and services that permit you to sign in with your Microsoft account can use or share your email address or other personal information that you provide to them as described in their privacy statements.
+However, they can share the unique ID number provided to them by the Microsoft account service with third parties only in order to fulfill a service or transaction that you may have requested.
+All sites or services that use the Microsoft account are required to have a posted privacy statement, but we do not control or monitor the privacy practices of those sites, and their privacy practices will vary.
+You should carefully review the privacy      statement for each site you sign into in order to determine how each site or service will use the information it collects.
+==========
+Accessing your personal information.
+You can access your personal information by going to account.
+==========
+You can change your user name if your Microsoft account does not belong to a managed domain.
+You can      always change your password, alternate email address, phone number, and question and secret answer.
+==========
+You may also close your Microsoft account by going to      account, and then      "Close your account."
+If your account is in a managed domain, as described above, there may be a special process for closing your account.
+==========
+Please note that if you are an      MSN or a Windows Live user, if you go to account, you may be redirected to account for those sites.
+More information about Microsoft account is available at the Microsoft account web site.
+==========

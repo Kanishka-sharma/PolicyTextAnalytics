@@ -1,0 +1,40 @@
+×
+Please enter your contact details to download the file.
+For information regarding our website privacy practices, please click here.
+The information below applies to the adsquare Platform.
+adsquare Platform Privacy Statement
+adsquare GmbH, further referred to as “adsquare”, is a technology company.
+This privacy statement describes adsquare’s use practices and policies with regard to the information that is collected and processed on the adsquare Platform on behalf of adsquare customers.
+The adsquare Platform complies with the German data privacy laws (German Telemedia Act and Federal Data Protection Act) as well as EU data privacy regulations (Directive 95/46/EC on the protection of individuals with regard to the processing of personal data and on the free movement of such data).
+What information does adsquare collect?
+The adsquare Platform collects and processes information about the location of digital devices.
+This information is submitted as longitude and latitude coordinates by adsquare customers.
+At adsquare we respect the right of informational self-determination of each citizen, therefore we strongly encourage our customers to inform the users about the use of geo-location for advertising purposes, obtain users’ permission for the use of precise geo-location and provide an opt-out option (for more details please review adsquare Terms and Conditions).
+==========
+After receipt, the precise geo-location is immediately transitioned into a non-precise „square“, which can be described as an aggregated geo-location.
+The adsquare Platform uses the aggregated geo-location information as input for services that aim at increasing ad delivery precision and effectiveness.
+Further, the adsquare Platform receives technical information such as device model, mobile network operator, etc.
+None of the information (technical and all other information) submitted to adsquare Platform is personally identifiable information (PII).
+==========
+For adsquare it is not possible to identify individuals via the information collected by the adsquare Platform.
+How does adsquare collect information?
+Location information and other above described technical information (device model, mobile network operator, etc.) are submitted to the adsquare Platform by adsquare customers via an application programming interface (“API”).
+For what purposes does adsquare use the collected information?
+The information is collected in order to provide services that allow adsquare customers to increase relevancy and effectiveness of delivered ads.
+What information does adsquare share with third parties?
+The adsquare Platform delivers audience probabilities and other information describing location context to its customers via an API.
+adsquare does not own, share, rent or sell any personally identifiable information (PII).
+How is the information stored?
+adsquare takes advantage of generally accepted industry security standards on the adsquare Platform to protect the information both during transmission and once it is received.
+==========
+Changes to this Privacy Statement
+This Privacy Statement is subject to change at any time.
+In case of substantial changes to this Privacy Statement, these will be clearly and conspicuously announced on the adsquare website prior to changes being made.
+Questions
+If you have questions about privacy on the adsquare Platform, please email privacy@adsquare.com.
+Alternatively, you may contact us at the address below:
+adsquare GmbH
+Havelpassage 4
+16761 Hennigsdorf
+Germany
+==========

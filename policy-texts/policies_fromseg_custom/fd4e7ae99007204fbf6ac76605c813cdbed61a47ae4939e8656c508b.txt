@@ -1,0 +1,51 @@
+feedly and privacy
+June 18, 2008 · 5 Comments
+(Updated on March 18th, 2010)
+There has been a couple of questions regarding feedly privacy in my inbox.
+I will try to address the question here so that everyone benefit from it and the answer can be further clarified if necessary.
+Feedly Digest
+Question: What part of the feedly information gets shared with other users.
+Answer: The only feedly information which gets shared with other users are the articles you share and tweet from feedly.
+Other users will not be able to know what sources and articles you read unless you explicitly share or tweet an article from that sources.
+The articles you share in feedly are automatically shared in Google Reader so that other users can subscribe to your shared articles feed in Google Reader or Google Buzz.
+Other tools try to infer how interesting an article is based on how much time you spent reading it and/or if you clicked on a link or viewed a video.
+We consciously decided to do *none* of that.
+Question: Google Reader allows me to keep my shared item private and share it only with a specific subset of users.
+Does feedly provide this feature as well?
+Answer: No.
+In feedly, we decided to try to start by replicating the flickr model and all items shared or annotated are automatically available to the entire feedly community.
+As the service matures, we will look into offering more granularity.
+Question: What data is feedly collecting and storing on the feedly servers?
+==========
+Answer: At account creation time, we create a profile and import your user id, your nickname and email.
+This allows users to search and find other users and follow their recommendations.
+If you have an existing Google Reader account, we import your OPML (list of categories and feeds).
+This allows us to perform collaborative filtering and suggest new sources you might be interested in based on sources you have already subscribed to (similar to iTunes genius concept).
+If not, you can pick and choose and import a subset of your bookmarks or an existing netvibes or bloglines account.
+==========
+During reading time, we capture how many articles from a source a user reads, recommends or tweet from feedly.
+This allows us to understand which sources you like best and better showcase articles from those sources in the digest and cover.
+When someone follows you in feedly/google reader, they only see the articles you have shared.
+Feedly+Google Search (Firefox only)
+Question: Does feedly search keeps track of my search history?
+Answer: The answer is no.
+Because feedly is an extension, the integration of the search result is performed in real-time, directly on the client.
+The feedly service does not see or track at all what keywords people search.
+==========
+The search integration component only tracks at the global level what percentage of users disable the search feature so that we get a sense of if it is valuable or not.
+So far, less than 0.1% of the users have disabled the component.
+Feedly Mini Toolbar (Firefox only)
+Question: Does feedly mini keep track of what web pages I browse?
+Answer: The answer is no.
+==========
+Because feedly is an extension, all the integration is performed in real-time on the client.
+As such the feedly service does not see or track at all what pages you navigate on.
+In the case you are visiting a page which is matches an article in your Google Reader and your preference is set to auto-mark as read that page, then the client will send a request to google reader to mark that page as read.
+The only statistic we track regarding feedly mini is a global count of how many times it provided useful information/services to the user, statistic which is annonymous and does not contain information about what page the service is provided on.
+Feedly uses Google Analytics to track anonymously which subset of features are being used.
+We use that aggregated usage information to continuously enhance the design of the product.
+==========
+Note: the feedly mini toolbar is off by default.
+Users have to go to the feedly preference page and opt-in to activate the toolbar.
+Categories: Uncategorized
+==========

@@ -1,0 +1,171 @@
+Key Points
+We do not...
+Claim ownership over your data
+Contact your customers
+Share your data with third-parties, except as described below.
+We will...
+On occasion, we ask one third-party service provider for more information about an email address we’ve seen.
+We use this service to enrich the data you send to us and improve your experience using Sift.
+No other information is shared with the service provider.
+Analyze your data to discover relevant fraud patterns for you and other Sift customers.
+Add the fraud patterns we discover to our fraud library
+Publish aggregated, anonymized fraud patterns for informational purposes, like this blog post.
+==========
+Delete your data (if you make the request in writing).
+You need to...
+Make sure that your privacy policy discloses how Sift may collect, use, and store user data along with how users may manage their privacy.
+Comply with all other applicable laws.
+==========
+A quick note from our lawyers:
+This highlight is not a substitute for reading the Terms of Service.
+We provide these Key Points to help answer frequently asked questions about our Terms of Service.
+Please note, however, that these Key Points are qualified by the actual Terms of Service, which you should read in its entirety.
+==========
+Sift Science Terms of Service
+Last updated: June 22, 2016
+Sift provides a cloud-based, machine learning platform that is used to predict user intent and prevent fraudulent activity in real time (the "Sift Service").
+The Sift Service identifies patterns in data, using custom and global model that leverages both the specific customer’s data and the data provided by all other customers.
+The Sift Service enables companies to streamline and automate their user review to help prevent misuse of their assets and services.
+Sift provides the Sift Service subject to the terms and conditions of these Terms of Service (this "Agreement").
+To obtain the Sift Service, this Agreement must be reviewed and accepted by the party that will use the Sift Service ("Customer").
+Acceptance by Customer is indicated by clicking on the "I Accept" button or other click-through mechanism provided.
+==========
+Please review the terms of this Agreement carefully.
+Once accepted, this Agreement becomes a legally-binding commitment for both Customer and Sift.
+1.
+==========
+Sift Service
+1.1 Service Generally.
+Customer wishes to use the Sift Service in connection with its services and properties (the "Customer Properties").
+Sift will provide the Sift Service in accordance with the terms of this Agreement.
+Sift will provide Customer application programming interfaces (collectively, the "APIs") to enable Customer to access and implement the Sift Service in connection with the Customer Properties.
+==========
+Through the APIs and management console, Customer may submit data and information to the Sift Service as determined by Customer (collectively, the "Raw Data").
+Based on Sift’s analysis of the Raw Data alone and in combination with other data in the Sift Service, Sift will provide Customer with analytical results (the "Analytical Results").
+1.2.
+Protection of Data.
+==========
+General.
+As between the parties, Customer owns the Raw Data and Sift owns the Analytical Results.
+Sift will use Raw Data only as described in this Agreement and will maintain appropriate administrative, technical and physical security measures to protect Raw Data against unauthorized access, disclosure and loss.
+Sift will notify Customer promptly of any suspected or actual breach of the security of Customer’s account.
+Sift will comply with all applicable laws, rules and regulations (collectively, "Laws") in connection with its response and remediation of any security breach and will keep Customer informed of those activities.
+==========
+Additional Use of Raw Data.
+Subject to the terms of this Section, Customer agrees that Sift may use the Raw Data on a perpetual basis in connection with fraud detection and prevention services offered through the Sift Service, as determined by Sift in its reasonable discretion.
+In connection with such use, the Raw Data will be aggregated with raw data from the other customers of the Sift Service.
+In addition, any reports provided to other third party customers resulting from use of the Sift Service will not include an identifiers of Customer as the source of such data.
+==========
+Deletion of Data.
+Upon termination of this Agreement, Customer may request deletion of the Raw Data.
+Subject to the provisions of Section 1.2(b) (Additional Use of Raw Data), Sift will perform such deletion within ninety days.
+1.3 Marketing Subject to Customer’s consent and any trademark usage guidelines provided by Customer, Sift may use Customer’s name and logo in any customer list promoting the Sift Service.
+2.
+==========
+Additional Terms
+2.1 Restrictions.
+Customer will use the Sift Service (for clarity, including the Analytical Results) only: (a) for its internal fraud detection and prevention purposes; (b) in accordance with the terms of this Agreement; and (c) in accordance with Sift’s reasonable instructions, including compliance with the Acceptable Use Policy located here, which Sift may update reasonably from time to time.
+Customer will not engage in any activity that violates any contractual or other rights of any third parties or that disrupts the Sift Service, including circumvention of any access or use restrictions.
+Customer will not transfer, resell, license or otherwise make the Sift Service available to third parties.
+For clarity, the foregoing limitation applies to the Analytics Results and any other information derived from use of the Sift Service, as well as the service itself.Customer will be solely responsible for all use of the Sift Service under its account, including the acts and omissions of its users.
+Customer will notify Sift immediately if Customer becomes aware of any unauthorized use or other compromise of Customer’s account.
+==========
+2.2 Compliance with Laws.
+In connection with its activities hereunder, each party will comply with all applicable Laws, including those concerning the use of personal information and data protection.
+Customer is solely responsible for ensuring that its use of the Sift Service does not violate the Laws of the jurisdictions in which Customer does business.
+Customer will not use the Sift Service for purposes not contemplated by this Agreement, such as background checks, decisions concerning the extension of credit or offer of employment to any individual or in any other way that would cause Sift to violate any Law.
+Customer will ensure that the Raw Data does not include any sensitive personal information, such as, full financial account information, full government identification numbers, health-related information or any other information that deemed sensitive under applicable law.
+==========
+2.3 Privacy Policies.
+Each party will collect, process and store data in accordance with the terms of its privacy policy and will ensure that its privacy policy is readily accessible on its website(s) and at all times provides accurate disclosures concerning its respective activities in connection with this Agreement, including the collection and processing of personal information for fraud detection and prevention purposes.
+Customer acknowledges it has read and understands the terms of Sift’s Privacy Policy located at siftscience.com/service-privacy, which is directed to the users of Sift’s customers’ services, including the users of Customer Properties.
+3.
+==========
+Payment
+3.1 Fees and Payment Terms.
+Unless otherwise agreed in writing by the parties, Customer will pay the fees further described at siftscience.com/pricing as such may be modified by Sift form time to time (the “Fees”).
+All Fees are non-refundable.
+Sift may charge interest on any unpaid amount due at the rate of one percent per month, or at the maximum rate permitted by law, whichever is lower, from the date such payment was due until the date it is paid.
+In the event Sift pursues collection of any overdue Fees payable hereunder, Customer will reimburse all reasonable third party costs and fees incurred by Sift in connection with those collection activities.
+==========
+3.2 Taxes.
+The Fees do not include any local, state, federal, VAT or other taxes, levies or duties of any nature.
+Customer is responsible for paying any such taxes, excluding taxes based on Sift’s income.
+4.
+==========
+Confidentiality
+4.1 Definitions.
+"Confidential Information" means information provided to the receiving party ("Receiving Party") that is designated by the disclosing party (“Disclosing Party”) as "confidential" or "proprietary" or that a reasonable person would understand to be confidential given the nature of the information and the circumstances of the disclosure.
+“Confidential Information” does not include information that: (a) is or becomes generally known to the public through no fault of the Receiving Party; (b) is in the Receiving Party’s possession prior to receipt from the Disclosing Party; (c) is acquired by the Receiving Party from a third party without breach of a confidentiality obligation; or (d) is independently developed by Receiving Party without reference to the Disclosing Party’s Confidential Information.
+==========
+Customer’s Confidential Information includes the Raw Data.
+Sift’s Confidential Information includes the APIs, the Analytical Results and all documentation provided to Customer hereunder.
+4.2 Confidentiality Obligations.
+Receiving Party will use Confidential Information solely as contemplated by this Agreement and will disclose such information only to its employees, agents, and contractors who are bound by obligations of confidentiality at least as strict as those contained in this Section.
+Receiving Party will use reasonable care to protect Disclosing Party’s Confidential Information and to prevent unauthorized disclosure of Confidential Information.
+Confidential Information is and will remain the exclusive property of the Disclosing Party.
+Subject to the terms and conditions of this Agreement, Receiving Party will, upon written request, destroy all copies of the Disclosing Party’s Confidential Information that are in its possession or control.
+==========
+4.3 Product Input.
+Notwithstanding any provision in this Agreement to the contrary, Sift may use, develop and implement any information, suggestions, comments or other input provided by Customer or any of its users (collectively, “Input”) in connection with the development, operation, marketing and sale of the Sift Service, in its discretion and with no compensation to any person providing Feedback.
+Customer represents that it has not, and will not, knowingly provide Input that is subject to any third party intellectual property rights.
+5.
+Indemnification
+Customer will defend, indemnify and hold harmless Sift, its officers, directors and employees against any third party claim, demand, suit, investigation or proceeding relating to any violation or alleged violation of the terms of this Agreement.
+6.
+==========
+Disclaimer
+EXCEPT AS EXPRESSLY PROVIDED IN THIS AGREEMENT, THE SIFT SERVICE AND ALL RELATED SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE” AND ANY PROMISES CONTAINED IN THIS AGREEMENT ARE IN LIEU OF ALL OTHER WARRANTIES, REPRESENTATIONS OR CONDITIONS, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, ALL OF WHICH ARE EXPRESSLY DISCLAIMED.
+SIFT DOES NOT REPRESENT THAT THE SIFT SERVICE WILL BE UNINTERRUPTED OR ERROR FREE OR MEET CUSTOMER’S REQUIREMENTS OR THAT THE ANALYTIC RESULTS WILL BE ACCURATE OR COMPLETE.
+CUSTOMER ACKNOWLEDGES THAT, AS A SAAS-BASED SERVICE, THE FUNCTIONALITY AND INTERFACES OF THE SIFT SERVICE MAY CHANGE OVER TIME.
+7.
+==========
+Limitation of Liability
+EXCEPT AS DESCRIBED IN THIS PARAGRAPH, UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE, WILL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES OF ANY CHARACTER, INCLUDING DAMAGES FOR LOSS OF GOODWILL, LOST PROFITS, LOST SALES OR BUSINESS, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, LOST DATA, OR FOR ANY AND ALL OTHER DAMAGES OR LOSSES, EVEN IF SUCH PARTY HAS BEEN ADVISED, KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES.
+THE FOREGOING EXCLUSIONS WILL NOT APPLY TO ANY BREACH OF SECTION 2 (ADDITIONAL TERMS), SECTION 4 (CONFIDENTIALITY) OR ANY AMOUNTS PAYABLE TO A THIRD PARTY UNDER SECTION 5 (INDEMNIFICATION).
+UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER IN TORT, CONTRACT, OR OTHERWISE, WILL SIFT BE LIABLE TO CUSTOMER FOR ANY DIRECT DAMAGES, COSTS, OR LIABILITIES IN AGGREGATE IN EXCESS OF THE AMOUNTS PAID BY CUSTOMER TWELVE MONTH PERIOD PRIOR TO THE CUSTOMER’S INITIAL CLAIM.
+8.
+==========
+Term and Termination
+8.1 Term.
+The term of this Agreement will commence on the Effective Date and will continuefor a period of twelve months.
+The initial term will renew automatically for additional twelve month periods, unless either party gives the other party written notice of its intent not to renew at least sixty days prior to the end of the then-current term.
+8.2 Termination.
+Either party may terminate this Agreement immediately on giving notice in writing to the other party if the other party commits any material breach of any term of this Agreement and has not cured such breach within fifteen days of its receipt of written notice of the breach.
+In addition, either party may terminate this Agreement immediately on giving notice in writing to the other party if the other party files for bankruptcy; becomes or is declared insolvent, or is the subject of any proceedings related to its liquidation, insolvency or the appointment of a receiver or similar officer for it; makes an assignment for the benefit of all or substantially all of its creditors; or enters into an agreement for the cancellation, extension, or readjustment of substantially all of its obligations.
+==========
+8.3 Suspension of Sift Service.
+Notwithstanding any provision herein to the contrary, Sift may temporarily suspend the Sift Service in the event of any activity by Customer or any of its users that has (or in Sift’s reasonable assessment is likely to have) an adverse affect on the operation of the Sift Service.
+8.4 Survival.
+==========
+The provisions of this Section and the following Sections will survive any termination of this Agreement: Section 2 (Additional Terms), Section 3 (Payment), Section 4 (Confidentiality), Section 5 (Indemnification), Section 6 (Disclaimer), Section 7 (Limitation of Liability) and Section 9 (General).
+9.
+General
+9.1 Ownership.
+Sift and its third party licensors will retain all ownership interest in and to the Sift Service and its underlying systems and Customer’s rights are limited to those expressly stated in this Agreement.
+Notwithstanding any provision herein to the contrary, nothing in this Agreement is intended to limit Customer’s liability in the event of Customer’s violation of the intellectual property rights of Sift and any claim with respect to such violation will not be deemed governed by this Agreement.
+9.2 Force Majeure.
+Neither party will be liable under this Agreement for non-performance caused by events or conditions beyond that party's control if the party makes reasonable efforts to perform.
+==========
+9.3 Notices.
+Marketing and business-related notices may be delivered by email.
+Any legal notices relating to this Agreement must be in writing and sent to each party its then-current primary place of business or such other address provided by the recipient.
+All notices will be sent by major commercial delivery courier service or mailed in a manner that requires signature by the recipient.
+==========
+9.5 Governing Law.
+This Agreement and any disputes hereunder will be governed by the laws of the State of California, without regard to its conflict of law principles, and any litigation concerning this Agreement will be submitted to and resolved by a court of competent jurisdiction in San Francisco, California.
+9.6 Entire Agreement.
+This Agreement constitutes the entire agreement between the parties concerning the subject matter herein and supersedes any and all prior communications and agreements whether written or oral concerning the subject matter hereof.
+Each party hereby acknowledges that no reliance is placed on any representation made but not referenced in this Agreement.
+No purchase order or other text that purports to modify or supplement the printed text of this Agreement will add to or vary the terms of this Agreement.
+9.7 Interpretation.
+The term “including” as used through this Agreement is intended to mean “including without limitation.”
+==========
+9.8 Modifications; Severability.
+Except as expressly provided herein, any modification to this Agreement must be made in writing and signed by an authorized representative of each party.
+If any provision of this Agreement is held to be unenforceable, such provision will be reformed to the extent necessary to make it enforceable, and such holding will not impair the enforceability of the remaining provisions.
+9.9 Waiver.
+The failure by a party to exercise any right hereunder or to insist upon or enforce strict performance of any provision of this Agreement will not waive such party's right to exercise that or any other right in the future.
+9.10 No Agency.
+Nothing herein will be construed to create a partnership, joint venture or any type of agency relationship between Sift and Customer.
+==========

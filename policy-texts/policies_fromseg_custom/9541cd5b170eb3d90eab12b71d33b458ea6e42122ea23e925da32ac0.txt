@@ -1,0 +1,7 @@
+You can perform searches directly from several places in Firefox, including the Awesome Bar, Search Bar, or on a New Tab.
+Mozilla does not receive your search queries.
+We do receive data about how you engage with search in Firefox and the number of searches you request from our search partners.
+Query data is sent to your search provider, which has its own privacy policy.
+Links to our default search providers are:Search Suggestions: Firefox by default sends search queries to your search provider to help you discover common phrases other people have searched for and improve your search experience.
+These data will not be sent if your selected search provider does not support search suggestions.Learn more, including how to disable this feature.
+==========

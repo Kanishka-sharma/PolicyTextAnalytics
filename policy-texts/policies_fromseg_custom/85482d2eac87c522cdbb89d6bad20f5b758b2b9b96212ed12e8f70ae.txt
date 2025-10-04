@@ -1,0 +1,197 @@
+The core pages of cam.ac.uk are managed by the University's Office of External Affairs and Communications, and from time to time will set cookies on your computer (either because they are necessary to make the site work and keep it secure, or if you give your consent).
+The core pages mostly begin www.cam.ac.uk but also include:
+www.festival.cam.ac.uk (Cambridge Festival)www.opencambridge.cam.ac.uk (Open Cambridge)www.zero.cam.ac.uk (Cambridge Zero)
+Cookies are small text files that sit on your computer and record specific interactions between you and this website, and in some cases, other websites.
+==========
+This information is shared within the University of Cambridge, and in limited cases, with third parties.
+Below is more detail about the cookies we use, what they record and with whom the information is shared.
+List of cookies
+Necessary cookies
+Necessary cookies maintain the security of our website’s connection to you.
+They also make our site work.
+They always need to be on.
+NameName
+Used byUsed by
+DescriptionDescription
+More informationMore information
+Namehas_js
+Used byUniversity of Cambridge
+DescriptionThis cookie checks to see whether your system has JavaScript turned on or off.
+==========
+It expires as soon as your web session on our site ends.
+More informationPrivacy policy for the University's core website
+NameX-Mapping-iejmlgke
+Used byUniversity of Cambridge
+DescriptionThis cookie is used to route data and page requests correctly.
+==========
+It is associated with the Stingray Traffic Manager platform from Riverbed.
+This cookie expires as soon as your web session on our site ends.
+==========
+More informationRiverbed's privacy policy
+Name_cfduid
+Used byCloudflare
+			(web connection security service)
+			Crazy Egg
+			(website reporting and testing service)
+DescriptionUsed to establish the security of a connection with an individual device.
+It is used to establish a secure connection to the Crazy Egg website testing tool, allowing us to see where visitors are experiencing navigation problems so that we can fix them.
+==========
+This cookie does not correspond to any user ID and does not store personally identifiable information.
+More informationCloudflare’s privacy policy
+Nameuoc_cookie_choices
+Used byUniversity of Cambridge
+DescriptionRemembers the cookie choices that you have made on your device for 366 days.
+Once this cookie expires, you will be asked to reconfirm your choices.
+==========
+More informationPrivacy policy for the University's core website
+Site usage measurement cookies
+As a university, our focus is on learning.
+Site usage measurement cookies allow us to analyse anonymised navigation patterns, to learn how people use our website and to make it better.
+Our site will not load Google Analytics' cookies if you have the ‘Do not track’ setting enabled in your browser.
+NameName
+Used byUsed by
+DescriptionDescription
+More informationMore information
+Name_ga*
+			_gat*
+			_gid
+Used byUniversity of Cambridge
+			Google Inc
+			(Google Analytics service)
+DescriptionWe use Google Analytics to understand how users are navigating our website, see how often content we publish is used and to test changes to improve the user experience.
+Your IP address is anonymised.
+More informationGoogle’s privacy policy
+Personalisation settings
+Personalisation setting cookies allow you to tailor your experience on our website.
+Unless you opt-in to receive this type of cookie, we will not set these cookies on your device and you may not be able to use the functionality described.
+NameName
+Used byUsed by
+DescriptionDescription
+More informationMore information
+Name_dc
+			_qst
+Used byUniversity of Cambridge
+			Qualtrics (experience research service)
+DescriptionWe use Qualtrics to ask users questions about what they want to do with our website.
+==========
+We use these answers to improve how we build and develop it.
+Your IP address is collected and any answers you give.
+==========
+More informationQualtric's browser compatibility and cookies notice
+Namecean experimentation_subject_id
+			ce2ab
+			_cfduid
+			_session
+Used byUniversity of Cambridge
+			Crazy Egg (experience research service)
+DescriptionWe use the Crazy Egg website optimisation tool to assess whether our website is working well and to test new ideas for parts that may not currently be effective for you, our users.
+Where a test is running, these cookies store experiment details, user session information and A/B page variant rules.
+This information is anonymised before we analyse browsing behaviour.
+==========
+More informationCrazy Egg's privacy policy
+Namecsrftoken
+Used byUniversity of Cambridge
+			Disqus Inc (comment service)
+DescriptionWe use the Disqus commenting system on some of our pages to let you leave comments and engage in discussions around the subjects on our site.
+This cookie lets you view the latest discussions about the University’s research whilst remaining on our site.
+==========
+More informationDisqus' privacy policy
+Social marketing preferences
+Social marketing preference cookies on our site connect to third-party providers such as Disqus, Facebook, Instagram and YouTube.
+These cookies will be set when you take an action, such as using the ‘Share’ button on our site, browsing an embedded ‘magazine’ or watching an embedded video.
+Data will be passed back to the third-party provider, allowing that organisation to record how you use their service on our site and show you relevant content, including advertising, when you pass onto their site.
+Unless you opt-in to receive this type of cookie, we will not set these cookies on your device and you may not be able to use the functionality described.
+==========
+NameName
+Used byUsed by
+DescriptionDescription
+More informationMore information
+Namedisqus_unique
+			sessionid
+			disqusauth
+			disqusauths
+			disqus_unique
+			_ga
+			_gat
+			_gid
+			_jid
+Used byDisqus Inc (comment service)
+			Zeta Interactive Corp
+DescriptionWe use the Disqus commenting system on some of our pages.
+If you sign-in and use the Disqus feature to comment on an article, Disqus will set cookies to allow you to log in to their community and share your comments.
+Disqus shares web browsing data with its parent company, Zeta Global.
+It also shares usage data with third-party partners, unless you choose to opt-out.
+==========
+More informationDisqus' privacy policy
+Namecsrftoken
+			ig_cb
+			mid
+Used byInstagram Inc, part of Facebook Inc
+DescriptionPhotography from the University's official Instagram account may appear on selected web pages.
+Where an Instagram post does feature on our website, Instagram uses cookies to: show you related and relevant content, improve your experience, and help protect Instagram and its users.
+==========
+More informationInstagram’s privacy policy
+Name_qca
+			cref
+			iutk
+			mc
+Used byIssuu Inc
+			Quantcast Corp
+DescriptionIssuu is a 'magazine-like' digital reading service.
+We use it on selected pages to allow you to read content from printed publications on-screen.
+==========
+You can identify it by the small thumbnail of the magazine's cover.
+When you open a page containing the embedded Issuu reader, Issuu and Quantcast set initial cookies ('_qca', ‘cref’ and 'iutk').
+When you click or tap the embedded reader, an additional cookie ('mc') is set.
+'iutk' helps Issuu improve the services it provides to its users.
+The purpose of the other cookies is to enable web publishers and advertisers to select audiences that are appropriate for their products or services.
+==========
+More informationIssuu’s privacy policy
+Name_stid
+			_utma
+			_utmb
+			_utmc
+			_utmt
+			_utmz
+			ServiceHistory
+			STPC
+Used byShareThis Inc
+DescriptionShareThis provides the 'Share' functionality on our news articles.
+The cookies whose names begin with an underscore are set when you view a page containing this functionality.
+If you use the service by sharing a link using the buttons, the ServiceHistory and STPC cookies are set.
+Device ID and IP address are collected as information via technical cookies, pixel tags and browser identifiers.
+==========
+More informationShareThis’ privacy notice
+Name_ga
+			guest_id
+			lang
+			personalization_id
+			eu_cn
+Used byTwitter Inc
+DescriptionEmbedded Twitter feeds may appear on selected web pages.
+Where a feed is present, Twitter uses both session cookies and persistent cookies to understand how you interact with its services, to monitor aggregate usage patterns, and to personalise and otherwise operate its services.
+Its use of cookies is also for the provision of account security, personalisation of the content it shows you including advertisements, and to remember your language preferences.
+==========
+More informationTwitter’s privacy notice
+NameCONSENT
+			IDE
+			GPS
+			YSC
+			VISITOR_INFO1_LIVE
+			1P_JAR
+Used byYouTube LLC, part of Google Inc
+DescriptionYouTube embedded video may appear on selected web pages.
+Where it is present, Google uses cookies: to deliver the service (YouTube), to ensure that its services are working as intended, and to make improvements to its services.
+More informationGoogle’s privacy policy and YouTube's terms of service
+ 
+How to disable cookies
+Your web browser will have an option you may select that will block cookies.
+Below are links to information about popular web browsers and how to block cookies using them.
+Firefox
+Google Chrome
+Microsoft Edge
+Safari
+Other web browsers – see the Information Commissioner's Office's website
+ 
+Page last updated: 21 April 2021
+==========

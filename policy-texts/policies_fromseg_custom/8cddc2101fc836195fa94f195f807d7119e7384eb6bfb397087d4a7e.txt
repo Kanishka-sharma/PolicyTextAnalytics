@@ -1,0 +1,124 @@
+Privacy Policy
+About GetBlue’s services
+GetBlue specializes in creating personalized advertisements through “GetBlue Tech” and “GetBlue Sponsored Products”.
+We work with online partners to build advertisements for users who visit their websites or mobile applications and with publishers to display personalized advertisements.
+Our aim is to deliver advertisements by displaying products that you might be interested in, based on your recent browsing behavior or search.
+Example of a “GetBlue Tech” Product ad:  if you visit and browse on Website/mobile application A, on a subsequent online visit to Website/mobile application B, you will see ads personalized by your browsing history on Website/mobile application A.
+With our service, you should receive personalized ads that are more relevant for you than the standard advertising you would receive without GetBlue.
+Click here for more information on Interest Based Advertising.
+==========
+User Choices
+Please note that browser and mobile application environments are separate.
+If your intent is to disable GetBlue services in both environments you need to read and follow instructions of both sections.
+GetBlue Tech
+Opt Out
+Online web environment
+If you do not want to receive ads displayed by GetBlue, on your current browser and browsers we have linked to your technical identifier you can disable the display of GetBlue ads here.
+If you only want to opt out from your current browser or all browsers click on the button below.
+Opt-Out This Browser
+Opt-Out All Browsers
+If you choose to opt out for linked browsers, the opt out for the current browser is effective immediately.
+Note that for technical reasons, the opt out for other browsers linked to the cookie ID of your current browser should be effective as soon as you browse on the website of one of our Partners if it happens within 6 weeks following your opt-out.
+As it is possible that we may not have been able to link all of the browsers you use to your current technical ID, we recommend that you disable our services from all your browsers separately.
+If you would like to opt out of our service for all browsers we have been able to link to the cookie ID of your current browser, please see the opt out module included in the “User Choices” section here.
+As it is possible that we may not have been able to link all of the browsers you use to your current technical ID, we recommend that you disable our services from all your browsers separately.
+==========
+Whatever option you choose, please note that opting-out from GetBlue services on any browser or environment will trigger the deletion of your linking information and will prevent the future linking of the opted-out browser(s)/environment to any other browser(s)/environment(s).
+Online web environment:
+When you opt out as instructed in this section, a cookie will be set on your browser.
+We have to maintain the cookie on your browser and all potential linked browsers in order to recognize you as having opted out from our service.
+You must opt out again if you clear that cookie from a browser, use a non-linked browser, or use a new device to access the internet.
+==========
+Please note that on certain browsers such as Safari, clearing web site data can also erase opt out information and will therefore require you to opt out again from our services.
+You can also opt out of GetBlue’s service by visiting the following links.
+Please note that these platforms allow you to opt out of interest-based advertising delivered by registered members on the current browser you are using.
+Please note that if your browser settings prevent the use of certain cookies for cross-site personalization purpose or third party cookies in general, the choice mechanisms offered by the platforms above will not operate properly.
+As described above, we elected to provide mechanisms of choice through our proprietary opt out and through industry platforms and do not respond to web browser do not track signals.
+Please note that if you are using an ad-blocker you may have to pause blocking or whitelist our website.
+==========
+In-app environment:
+Web browser environment and in-app environment are separate.
+If you do not want to receive GetBlue ads whatever environment browsed you must disable our services for both the online web (as indicated above) and mobile app environments.
+If you want to disable GetBlue services, please refer to your operating system settings, or follow instructions below:
+Android Users (version 2.3 and above)
+To use the “opt-out of interest-based advertising” option, follow the instructions provided by Google here: Google Play Help.
+If you don’t have the Google Play Services installed on your device, you won’t receive GetBlue services.
+Please note that this is a device setting and will disable interest-based ads from all providers, and not just for GetBlue
+iOS users (version 6 and above)
+To use the “Limit Ad-Tracking” option, follow the instructions provided by Apple here: Apple Support Center
+Please note that this is a device setting and will disable interest-based ads from all providers, and not just for GetBlue
+Please also note that some mobile applications may use or rely on a technical feature called “webview” that allows app developer’s to display web applications or web pages directly in their application without leaving the application to open your usual browser.
+A webview can be independent both of your usual browser and the mobile application environment.
+Therefore we would recommend to opt out also from this specific environment if you do not want to be served with GetBlue advertisements.
+Facebook
+When you opt-out of our services, we will immediately stop showing ads on the GetBlue network.
+However, as Facebook is a different environment, it may take up to 5 weeks to take your request into account.
+In order to stop displaying our ads on your Facebook account, please manage your Facebook settings by clicking here: Facebook Settings
+Our Technology                                        
+We collect information via tracking cookies and similar technologies placed on a user’s browser or advertising IDs in environments that do not support cookies like mobile applications.
+==========
+These technologies allow us to analyze trends, and identify users’ interests around websites and mobile applications.
+You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on a website.
+Thanks to these technologies, GetBlue “tags” visitors to its partners’ websites and mobile applications.
+Users tagged by GetBlue are given a technical identifier.
+At no point does GetBlue collect identifying personal data such as your name or address.
+GetBlue only analyses the products viewed or the search made by the visitor and pages visited of the partner for whom GetBlue is delivering ads.
+Our partners’ advertisements are displayed on many websites, also known as “publishers.”
+==========
+These publishers may also place cookies on your browser.
+These cookies are there so that the publishers recognize that GetBlue has a personalized advertisement available for your browser.
+Their use is governed by the specific privacy policies of the publishers which can be accessed directly from their websites.
+GetBlue Tech       
+Data Collection and Use
+We do not know who you are.
+==========
+We only collect and use technical data relating to your browsing navigation to display personalized advertisements.
+We collect browsing information
+Data collected on GetBlue network
+To serve relevant ads, we have to be able to single out patterns but we never willingly store data that would allow identification of a person (such as name, surname, phone number, address, etc.).
+We collect data related to your browsing activity through cookies or advertising IDs that record:
+
+events related to your activity on our advertising partner’s website (such as the number of pages viewed, the products you viewed on that website, your searches made on the partner’s website)
+information related to your device (device type, operating system, version)
+non-precise information related to your geography and derived from the truncated IP address of your connection (in order to serve you ads only for products and services available in your country, region or city)
+and events related to the GetBlue ad serving activity such as the number of ads displayed to you.
+We also gather certain information automatically.
+This information may include browser type, referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends and optimize our services.
+We do not use or store full IP address for targeting purposes.
+Your full IP addresses may only be used by GetBlue for the following purposes: 
+
+Fraud detection purposes to help alert us to situations which could not have been caused by human behavior, such as a massive amount of clicking in a limited period of time;
+Sales attribution
+Marketing reports with aggregated data.
+==========
+We also collect technical user identifiers from our advertising partners for the purpose of linking the different browsers and mobile apps you use and serve you relevant ads based on your behavior across environments (“ID syncing”).
+For that purpose we may process and store:
+
+GetBlue Tech:                               
+
+Technical IDs of our advertising partners, and/or a of your CRM ID or of your email address – we use a double hashing method based on state-of-the art technologies to ensure the non-reversibility of your information.
+A hash of your email corresponds to a series of characters that does not permit your identification.
+For example, a hash of name@mail.com would be 98307a5ba02fa1072b8792f743bd8b5151360556b8e5a6120fa9a04ae02c88c0.
+==========
+Mobile advertising IDs (such as Apple IDFA or Google AAID) which are specific technical data created by mobile manufacturers to allow personalization and customer analytics in a secure and non-identifying way for users.
+Data collected from trusted partners
+We can collect technical identifiers from third parties for the purpose of improving our ID syncing and offering you a seamless online experience.
+These trusted partners commit to only sharing ID syncing information that allows us to link users’ cookies and/or mobile identifiers and to provide an efficient choice mechanism to end-users (opt-out).
+For example, the linking information sourced from our partners could be Cookie ID ABC = Apple IDFA 123 = MD5 hashed value.
+Our partners may use probabilistic or deterministic methods but in all cases please note that besides the ID syncing information, no other data (whether personally identifying information or non-personal identifying information) that could be collected by our partners in the course of their services are shared with us.
+Moreover, we require that all our partners provide users with a simple way to opt out from the collection and use of their data.
+We do not collect any identifying information
+We do not know who you are.
+==========
+We do not know your address, your place of work, your date of birth, your email address, your phone number.
+We do not collect hardware-based identifiers such as UDID or MAC Address.
+We do not collect sensitive information (such as religion, political opinion, health…).
+==========
+We do not create segments to specifically target children under 16 years old.
+We do not process any information which could be used by GetBlue directly to determine the personal identity of users.
+We collect information in order to increase the relevancy of the ads being displayed to you.
+==========
+The data we collect is also used for reporting purposes, to give our clients and partners more information about the performance of their advertising campaigns, and to improve performance over time.
+We partner with Ad exchanges platforms to buy ad placements through auctions for GetBlue Tech.
+Before the auction we link our ID with the ad exchange platform and then participate to the auction by sending the bid price and the banner code to display.
+==========

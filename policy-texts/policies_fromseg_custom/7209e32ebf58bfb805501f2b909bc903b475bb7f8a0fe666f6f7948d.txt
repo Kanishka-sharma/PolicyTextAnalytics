@@ -1,0 +1,122 @@
+To comply with privacy requirements, a company that processes consumer data must do more than install a firewall and use Secure Sockets Layer encryption, Dave Stampley says.
+The security side of privacy extends to application code and implementation.
+==========
+(This column is the first in a series analyzing privacy enforcement actions.
+Future columns will include discussions of what data should be considered private, how a company's privacy policy affects its compliance, and what a company should expect if it becomes the target of a privacy compliance-enforcement action.)
+==========
+The Federal Trade Commission's recent announcement of a proposed settlement with BJ's Wholesale Club is just the latest privacy-enforcement action to send the message that application security matters--a lot.
+The FTC's complaint against BJ's gives new clarity to the line between reasonable and unreasonable security practices.
+==========
+Some of the criticized practices fall in the network-security, access-controls, and incident-response categories: insufficient measures to detect unauthorized access and conduct security investigations, insecure wireless network access, and use of commonly known default user IDs and passwords.
+But other practices listed in the complaint fall squarely in the category of application controls to protect sensitive information, such as failure to encrypt sensitive information while in transit or in network storage and unduly long data retention.
+What's more, this case didn't center on a violation of the company's privacy policy.
+==========
+The FTC charged BJ's with "unfairness."
+Chris Jay Hoofnagle, director of the West Coast office of the Electronic Privacy Information Center (www.epic.org), says, "When the commission relies upon unfairness, it is making a strong statement about what the normative standards for businesses practices should be.
+==========
+This case makes clear that encryption, limits on data retention, protections against unauthorized insider access, and intrusion detection are norms that all businesses with sensitive information should embrace."
+According to the FTC, "Attacks on Web applications often pass undetected through firewalls and other network defense systems, putting at risk the sensitive information that these applications access.
+Application vulnerabilities are often neglected, but they are as important to deal with as network issues."
+==========
+(Security Check: Reducing Risks to Your Computer System, FTC Facts for Business PDF, June 2003.)
+Web-application security vulnerabilities pose a unique compliance risk for companies.
+==========
+Unlike compliance failures that take place in the background--for example, an unencrypted business-to-business transmission of sensitive consumer data--application weaknesses are open to discovery by any skilled Web surfer and even consumers themselves.
+"The FTC appears to be taking a strict liability approach to E-commerce security flaws," says Mary Ellen Callahan, an attorney at Hogan & Hartson in Washington, D.C., who has represented clients facing government privacy compliance investigations.
+"White-hat hackers and tipsters have prompted a number of enforcement actions by reporting Web-site flaws they discovered."
+==========
+A Compliance Imperative With A History
+The first application-security-enforcement action, which involved Infobeat's E-mail news service, was concluded by New York Attorney General Eliot Spitzer in January 2000.
+When consumers clicked on ads in Infobeat's HTML E-mails, their E-mail addresses were being transmitted to the advertisers.
+Also, Infobeat's E-mail messages included recipients' demographic information in the nondisplayed E-mail header.
+To date, at least a dozen application-security-enforcement actions have been brought by state attorneys general and the FTC, under its "culture of security" initiative.
+==========
+For the most part, privacy-enforcement actions have been concluded by settlement with target companies.
+Unlike laws and regulations, settlement agreements and related court filings such as complaints don't constitute binding law for other companies.
+But any company that handles consumer data should seriously heed the lessons found in these actions.
+==========
+In a world where laws require companies to determine what "reasonable" security looks like, and where companies routinely post privacy policies that promise reasonable security, the following cases constitute a critical resource for understanding what compliance and reasonableness look like in the eyes of government agencies:
+Eli Lilly And Development Standards
+On or about June 27, 2001, the privacy policy at Eli Lilly's www.prozac.com Web site included the following statement: "Our Web sites have security measures in place, including the use of industry standard secure socket layer encryption (SSL), to protect the confidentiality of any of Your Information that you volunteer."
+That day, an Eli Lilly programmer executed a program to send a message to all consumers who had registered for an E-mail reminder service on prozac.com.
+Instead of sending an individual message to each registrant or a mass blind carbon-copy message to all 669 registrants, the program populated the "To" field of the message with all registrants' E-mail addresses.
+==========
+Eli Lilly entered into a settlement agreement with the FTC that imposed terms similar to the FTC's Safeguards Rule for financial institutions--including requirements for Eli Lilly to designate a security program coordinator and address "reasonably foreseeable internal and external risks to the security, confidentiality, and integrity of personal information."
+It's the FTC's complaint against Eli Lilly, however, that offers the most insight into what the FTC considers noncompliance.
+The FTC alleged that Eli Lilly failed to:
+Provide appropriate training for its employees regarding consumer privacy and information security
+Provide appropriate oversight and assistance for the employee who sent out the E-mail, who had no prior experience in creating, testing, or implementing the computer program used
+Implement appropriate checks and controls on the process, such as reviewing the computer program with experienced personnel and pre-testing the program internally before sending out the E-mail
+Eli Lilly also entered into a similar settlement agreement with eight state attorneys general.
+==========
+The multistate settlement required Eli Lilly to implement "automated barriers in its databases to ensure that only those applications that have been tested and pre-authorized by designated personnel, and that are being executed by designated personnel, can gain access to personally identifiable information."
+In an age of rapid application deployment, the two Eli Lilly enforcement actions send the message that application-security compliance includes development training, code review, testing, and production deployment controls.
+==========
+Microsoft Passport And Deployment Standards
+In August 2002, the FTC entered into a settlement agreement with Microsoft relating to the Microsoft Passport Web service.
+Without going into detail, the FTC's complaint alleged that Microsoft "failed to implement and document procedures that were reasonable and appropriate to: (1) prevent possible unauthorized access to the Passport system; (2) detect possible unauthorized access to the Passport system; (3) monitor the Passport system for potential vulnerabilities; and (4) record and retain system information sufficient to perform security audits and investigations."
+==========
+As with Eli Lilly, the settlement agreement itself doesn't contain specific remedies corresponding to the FTC's allegations and doesn't validate the accuracy of the allegations in the complaint.
+Nonetheless, the allegations themselves provide valuable insight into the FTC's sense of reasonable security practices--including the need to document, monitor, and maintain records of unauthorized application activity.
+ACLU And Vendor Security
+Not long after news of the Eli Lilly prozac.com data spill first became public, the American Civil Liberties Union filed a petition with the FTC urging investigation and remedial action.
+==========
+Ironically, a few months later, the ACLU's own Web-application-security failure caused a privacy exposure that led to a settlement with New York Attorney General Spitzer.
+Over a three-month period in 2002, the ACLU's Web site left exposed the names, addresses, phone numbers, E-mail addresses, and purchase information of approximately 91 consumers who had purchased ACLU literature, buttons, hats, and bumper stickers.
+Although the ACLU's third-party Web host caused the breach, Spitzer stated in a press release that "the duty to protect consumers rested with the ACLU because of specific representations in the organization's privacy policy."
+==========
+The lesson of the ACLU case, among others, is that a company that licenses vendor software or relies on outsourced service providers to process consumer data should consider itself under an obligation to validate the application security of the third party's code--especially if the company has encouraged consumers to trust its security practices.
+Know The Code--Other Application Security Cases
+Petco: Last November, the FTC said it had reached a settlement with Petco based on two allegations of conduct that contradicted its privacy promises.
+First, the FTC found that Petco failed to protect its Web site from commonly known vulnerabilities such as SQL injection attack.
+Second, Petco compounded the impact of the vulnerability by failing to encrypt consumer data stored on its Web site.
+==========
+Barnes & Noble: In May 2004, Attorney General Spitzer reached a settlement with Barnes & Noble.
+Because some users choose to set their Web browsers to reject cookies, Barnes & Noble tracked user activity on its Web site by storing user information in the URL, creating a vulnerability to "session jacking."
+==========
+Links to documents regarding these and other cases are listed in the table of application security enforcement actions at the end of this article.
+Locking Down The Application
+In light of the risks posed by buffer overflows, inadequate coding standards, weak access controls, lack of encryption, and many other implementation challenges, any company that processes consumer data in its Web-facing applications will be expected to have guarded against those vulnerabilities.
+Many application-security vulnerabilities have been well documented.
+==========
+IT development organizations looking for resources may wish to consult Writing Secure Code by Michael Howard and David LeBlanc, and other publications in the resource list at the end of this article.
+Privacy Enforcement Actions Related
+To Application Security
+COMPANY AGENCY DATE RELATED DOCUMENTS
+ACLU NY 1-14-2003 NY Attorney General news release
+Alta Vista NY 08-21-2001 NY Attorney General news release
+Barnes & Noble NY 04-29-2004 NY Attorney General news release
+BJ's Wholesale Club FTC 06-16-2005 FTC news release and case documents
+Eli Lilly FTC 01-18-2002 FTC news release and case documents
+Eli Lilly CA, CN, IA, ID, NJ, MA, NY, VT 01-14-2003 CA AG news release
+Multistate settlement agreement *****
+Guess.
+FTC 06-18-2003 FTC news release and case documents******
+Infobeat NY 01-25-2000 NY AG news release
+NY settlement agreement
+Microsoft FTC 08-08-2002 FTC news release and case documents
+Petco FTC 11-17-2004 FTC news release
+FTC case documents
+Tower Records FTC 04-21-2004 FTC news release and case documents
+Victoria's Secret NY 10-03-2003 NY AG press release
+Ziff Davis Media CA, NY, VT 08-28-2002 NY AG news release
+Resource List
+TITLE AUTHOR DATE PUBLISHER
+Building Secure Software John Viega
+Gary McGraw 2001 Addison-Wesley
+Designing Secure Web-Based Apps for Windows 2000 Michael Howard 2000 Microsoft Press
+Practical Cryptography Neils Ferguson
+Bruce Schneier 2003 Wiley
+Privacy: What Developers and IT Professionals Should Know J.C. Cannon 2005 Addison-Wesley
+Security Engineering: A Guide to Building Dependable Distributed Systems Ross J. Anderson 2001 Wiley
+Writing Secure Code, 2nd Ed.
+==========
+Michael Howard
+David LeBlanc 2003 Microsoft Press
+Dave Stampley, certified information systems security professional, is general counsel and compliance specialist at Neohapsis Inc., a Chicago-based consultancy providing independent information security, forensic, and IT product-testing services.
+He has served as corporate counsel and director of privacy for a technology provider, as an assistant attorney general under New York Attorney General Eliot Spitzer, and as a criminal prosecutor in the Manhattan district attorney's office.
+==========
+Send him E-mail at dstampley[email protected].
+We welcome your comments on this topic on our social media channels, or [contact us directly] with questions about the site.
+More Insights
+==========

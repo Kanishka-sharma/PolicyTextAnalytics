@@ -1,0 +1,407 @@
+Udemy Business Privacy Statement
+
+This Udemy Business Privacy Statement was updated on April 1, 2021.
+In the course of providing Udemy Business (“UB”) services and
+related services to its corporate, non-profit organization and governmental customers
+(“Customers”),
+Udemy will receive and have access to personal data of individual users to whom customers
+grant access (“Users”).
+For the purposes of this privacy statement, Customers are data controllers and Udemy is a data processor.
+Udemy’s processing of User data and the security measures implemented to protect such data are detailed
+in and governed by a written agreement between Udemy and each of its Customers.
+As a data processor, Udemy will access, store and use the personal data of individual Users
+solely for the purpose of providing the UB services to its Customers and will process the data
+as instructed by its Customers.
+As data controllers, Customers decide which of their employees or other authorized personnel are given access to
+the UB services.
+They do this by designating one or more UB account administrators or group administrators
+(“Administrator”) who act on behalf of the Customer and have the ability to customize the Customer account,
+manage individual User accounts, access the UB Insights tool and related reporting features, access the UB
+Administrator tools, and populate the Customer account with Customer-provided
+content.
+==========
+Customers are solely responsible for establishing policies for and ensuring compliance with all applicable
+laws and regulations, relating to the collection of personal information relating to individual Users selected by
+Customers for accessing the UB services.
+Udemy has no direct relationship with individual Users, who should contact
+Customers (their employer) for assistance with any requests or questions relating to the processing of their personal
+information.
+For avoidance of doubt, this Privacy Statement does not apply to:
+
+
+
+any processing of data for the purpose of marketing the UB service to enterprise and corporate prospects;
+
+
+any other offerings available at Udemy.com separate from the UB services, for which the
+Udemy Privacy Policy is applicable.
+A User may already have an account with Udemy
+to access Udemy’s marketplace educational content, and data processed as a result of the use of the Udemy
+marketplace from a User account is governed by the Udemy Privacy Policy.
+In the event where Udemy makes any material changes to the manner in which it processes
+User data to provide its services to Customers, it will notify Customers.
+Udemy Business Privacy Statement
+
+Information about Users collected and stored by Udemy
+Purpose of User Data Processing and Retention Period
+Cookies and other Tracking Technologies
+Sharing User Information
+Processing of User Data outside of the EEA
+General
+
+1.
+Information about Users collected and stored by Udemy
+
+
+When a User is given access to the UB services by the Administrator, a User may set up an individual
+User account and Udemy will collect information provided by the User or the Administrator.
+The Customer can customize the type of data requested to create an account, which may include the following:
+
+first name, last name, and email address required
+photo, areas of interest, job skills, goals, and role (optionally provided by User or Customer)
+other personal data, as allowed by the Customer
+
+A unique identifying number is assigned by Udemy upon the creation of a User account.
+Individual User account information may be set to private or public, as selected by Users.
+If set to public, the information is searchable via search engines and viewable by anyone,
+including by other Users and the Customer.
+==========
+Administrators may assign a User to a group membership.
+Customers may select to integrate with UB a Single Sign On (SSO) identity provider to enable Users to log in to
+UB User accounts without the need to disclose passwords to Udemy.
+Users may log in by providing
+their individual SSO credentials to the SSO identity provider, which will authenticate them and allow or deny
+access to the Customer account.
+SSO identity providers share with Udemy a unique cookie ID
+and authentication “token” information to recognize the User as an authorized user of Customer.
+==========
+At the option of the Customer, the UB service may enable Administrators and Users to interact with others,
+including with instructors, teaching assistants, other students, and the Customer, by posting reviews about
+educational content, sending messages to or chatting with others, posting questions or answers, or posting
+other content.
+Posted content is stored by Udemy and may be publicly available or viewable by others, including
+Administrators, Users, or instructors and teaching assistants, depending on where the content is posted.
+At the option of the Customer, Administrators may enable the ability to “Share to Slack.”
+==========
+This optional
+feature allows Users to manually or automatically post a message to the Customer’s own instance of the
+Slack messaging service.
+To enable this optional functionality, Customer's Slack administrators must grant
+Udemy the ability to read the full list of public channels, private channels, and users in the Customer’s
+Slack instance.
+These lists may include individuals in Customer’s Slack instance who are not UB Users.
+==========
+Slack user lists and channels are briefly cached before being automatically purged from Udemy's systems.
+Udemy stores information relating to the activities of Users as they use and interact with the UB services,
+such as content viewed or accessed (and information relating to that content); interactions with instructors,
+teaching assistants, Administrators, and other Users; as well as answers, essays, and other items submitted
+by Users to satisfy the educational content requirements.
+This information is linked to a User’s unique
+account ID and is shared with Customers via the Customer Account reporting tools or upon request of the Customer.
+The UB service enables Users to contact the Udemy Support Team for assistance or to report a problem, concern,
+potential abuse or other issues regarding the UB services or other users.
+Udemy may collect and store the User’s
+name, email address, location, operating system, IP address as well as the User’s activity on the Udemy platform
+and communications with the Udemy help desk team.
+Udemy may request additional information from Users in order to
+resolve any issue reported by a User or by another user.
+When a User uses the UB services, Udemy collects and stores certain information by automated means: (a) technical
+information about the User’s computer or wireless device, such as IP address, operating system type and version,
+unique device ID, browser, browser language, domain, and other operating systems or platform information.
+This
+information is collected through the use of server log files and tracking technologies, such as: (i) cookies, which
+are small files that websites send to a computer or wireless device to uniquely identify a browser or mobile device
+or to store information in a browser setting; and (ii) other tracking technologies (see below for more detailed
+information).
+IP addresses received from browsers or devices of Users may be used to determine the approximate location of Users.
+==========
+If a Customer makes purchases via credit card, Udemy collects certain data about the purchase (such as name and ZIP
+ code) as necessary to process the order.
+Customers must provide certain payment and billing data directly to Udemy’s
+payment processing partners, including name, credit card information, billing address, and ZIP code.
+Udemy may
+also receive limited information, like the fact that Customers have a new card and the last four digits of
+that card, from payment service providers to facilitate payments.
+For security,
+Udemy does not collect or store sensitive cardholder data, such as full credit card numbers or card authentication
+data.
+2.
+==========
+Purpose of User Data Processing and Retention Period
+
+Udemy processes the information collected about Users and Administrators for the purpose of providing the
+UB services to its Customers, specifically:
+
+
+Providing, administering, and facilitating access to the UB services, for Customers and Users,
+and managing Customer or User account preferences
+
+
+Fulfilling Customer’s instructions with respect to personal data of Users
+
+
+Displaying and sending via email notifications to Users for:
+
+
+Responding to User questions or concerns
+
+
+Making notifications to Users at the request of the Customer
+
+
+Sending Users administrative messages and information, including confirmation of account creation,
+enrollment and progress in courses and related content, and notifications of responses from instructions
+to User questions
+
+
+Providing information to Users about available content, new UB service features,
+and personalized content recommendations, which Users can opt out of at any time
+
+
+Sending push notifications to User wireless devices to provide updates and other relevant messages,
+which can be managed from the “options” or “settings” page in the mobile
+application.
+Enabling communications among Users and instructors or teaching assistants
+
+
+Incorporating feedback into and improving the UB services
+
+
+Resolving User support requests or claims
+
+
+
+Email Preferences
+
+Users can individually opt out of receiving non-transactional emails by: (i) following the unsubscribe instructions
+provided in the email communication; or (ii) managing User account email preferences.
+==========
+A Customer can also instruct
+Udemy to configure email preference settings for all Users of a Customer.
+Retention of Personal Data
+
+Udemy will retain the data of Users for as long as instructed by the Customer and no longer than required to serve
+the purposes of processing.
+Udemy will delete certain or all personal data relating to Users upon request of the
+Customer.
+Udemy may retain aggregated or anonymized data as set forth below.
+Use of aggregated data
+
+In addition, User data is aggregated with other Udemy marketplace user data to enable Udemy to improve its products
+and services and develop new products and services, including:
+
+
+Reviewing and analyzing User browser and wireless device technical information
+
+
+Reviewing user activity across UB and the Udemy marketplace (for example, Udemy analyzes trends and User
+traffic and usage information to identify popular content)
+
+
+Facilitating the technical functioning of the UB services and Udemy marketplace, including to troubleshoot
+and resolve issues, secure the UB services, and prevent fraud and abuse
+
+
+Developing a personalized content recommendation engine
+
+
+When User data is used for the above purposes, it is aggregated and/or anonymized so that no personal data of
+Users is processed.
+3.
+==========
+Cookies and other Tracking Technologies
+
+Like many online platforms, Udemy and its analytics vendors use server log files and automated data collection tools,
+such as browser cookies, pixel tags, scripts, and web beacons.
+These tools are used for analytics purposes to enable
+Udemy to understand how Users interact with the UB services.
+Udemy and its analytics vendors may tie the information
+gathered by these means to the unique account ID of Users.
+==========
+Cookies are small text files placed onto a computer or device while browsing the Internet.
+Cookies are used to collect,
+store, and share bits of information about User activities.
+Udemy uses both session cookies and persistent cookies.
+A session cookie is used to identify a particular visit to the UB services and collect information about
+interaction with the UB service.
+These cookies expire after a short time, or when the User closes their web browser
+after using the UB service.
+==========
+Udemy uses these cookies to identify a User during a single browsing session, such as
+when you log into the UB services.
+This helps Udemy improve the UB service as well as improve the Users’ browsing
+experience.
+A persistent cookie will remain on a User’s device for a set period of time specified in the cookie.
+Udemy uses
+these cookies to identify and recognize a specific User over a longer period of time.
+They allow Udemy to:
+
+
+analyze the usage of the UB services (e.g. what links Users click on) in order to improve our UB offering,
+
+
+test different versions of the UB services to see which particular features or content Users prefer to
+optimize the UB services
+
+
+provide a more personalized experience to Users with more relevant and recommended content and
+
+
+allow Users to more easily log in to use the UB services.
+Persistent cookies include:
+
+
+preferences cookies to remember information about a User’s browser and settings preferences,
+such as preferred language.
+==========
+Preference cookies make User experience more functional and customized
+
+
+authentication and security cookies to enable a User to log in or stay logged in and access the
+UB service, to protect User accounts against fraudulent log-ins by others, and help detect, fight,
+and protect against abuse or unauthorized usage of User accounts.
+functional cookies to make the experience of using the UB service better, like remembering the
+ sound volume level selected by the User.
+Udemy uses tracking technology to: (i) determine if a certain page was visited (e.g. the landing page of an
+advertisement for UB services that is displayed on third party sites) or whether an email sent by Udemy was opened or
+clicked on by a User; and (ii) to customize the learning experience of individual Users by recommending specific courses
+and other content.
+==========
+Cookie list
+
+Udemy will retain the data of Users for as long as instructed by the Customer.
+Udemy will delete certain or all
+personal data relating to Users upon request of the Customer.
+Udemy may retain aggregated or anonymized data as set
+forth below.
+Service
+Name Expiration Purpose 
+
+
+
+Udemy *
+
+* Additional cookies may be added,
+and would have the same functionalities
+as the ones listed
+
+
+__udmyvst [session] For analytics and testing
+__udmy_2_v57r 1 year For analytics and testing
+__udmyvstr 1 year For analytics and testing
+access_token 1 month For user authentication
+client_id 1 month For user authentication
+csrftoken 1 year For user authentication
+dj_session_id 1 month For user authentication
+seen 30 minutes For experience improvement and customization
+ud_firstvisit 1 year For experience improvement and customization
+ud_rule_vars 2 years For experience improvement and customization
+mute 1 month For experience improvement and customization
+playbackspeed 1 month For experience improvement and customization
+quality_* 1 month For experience improvement and customization
+volume 1 month For experience improvement and customization
+ufb_acc 1 year For experience improvement and customization
+EUCookieMessageShown10 yearsFor experience improvement and customization
+EUCookieMessageState15 daysFor experience improvement and customization
+eva[session]For experience improvement and customization
+__udmy_evid[session]For experience improvement and customization
+Google Analytics
+_ga 2 years For analytics
+_gid 24 hours For analytics
+_gat 1 minute For analytics
+_gat_instructor 1 minute For analytics
+_gat_UA-12366301-1 1 minute For analytics
+SiftScience 
+_ssid13 yearsFor security
+Intercom
+intercom-lou-* 1 year For experience improvement and customization
+intercom-session-* 7 days For experience improvement and customization
+Marketo
+_mkto_trk 2 years Email and course promotion analytics
+Optimizely
+optimizelyEndUserId 10 years For analytics and testing
+optimizelyBuckets 10 years For analytics and testing
+optimizelySegments 10 years For analytics and testing
+PerimeterX
+_px2 5 days For security
+_px3 5 days For security
+_pxvid 5 days For security
+Zendesk
+_help_center_session [session] User support authentication and experience
+_zendesk_authenticated [session] User support authentication and experience
+_zendesk_shared_session 8 hours User support authentication and experience
+_zendesk_cookie 20 years User support authentication and experience
+_zendesk_session [session] User support authentication and experience
+
+
+User Preferences with respect to cookies and other tracking technologies
+
+Users can set their web browser to notify them about the placement of new cookies, limit the type of cookies or
+reject cookies altogether; if enabled, a User may not be able to use some or all of the features of the UB services
+(for example, may not be able to log in).
+General information about cookies and how to disable them can be found at
+https://cookiepedia.co.uk/all-about-cookies.
+==========
+Various browsers may offer their own management tools for removing HTML5 LSOs.
+Most modern web browsers give you the option to send a Do Not Track signal to the websites you visit, indicating that
+you do not wish to be tracked.
+However, there is no accepted standard for how a website should respond to this signal,
+and we do not take any action in response to this signal.
+Instead, in addition to publicly available third-party tools,
+we offer you the choices described in this policy to manage the collection and use of information about you.
+4.
+==========
+Sharing User Information
+
+In order to provide the UB services to its Customers, Udemy shares data regarding Users with a number of third-party
+service providers.
+These third parties are contractually required to use User data solely as directed by Udemy for the
+purpose of providing services to Udemy.
+Administrators of existing Customers are able to access our list of current
+sub-processors on the left sidebar of this page while logged in to UB.
+Instructors who upload content on the Udemy platform, as well as their
+teaching assistants, may receive names and account profile information of Users (excluding email addresses),
+to enable them to respond to user questions and feedback.
+Other service providers of Customer may receive information as instructed by Customer.
+==========
+To perform its services, Udemy leases servers from data centers and uses cloud hosting services on which
+certain content and User data relating to UB is hosted.
+Udemy’s help center platform vendor hosts and stores all communications between Administrators or Users and
+the Udemy support team.
+The help center vendor is contractually required to
+store and process User related data solely as directed by Udemy for the purpose of providing services to Udemy.
+==========
+Udemy also partners with a chat messaging vendor to provide support to Users and Administrators, to collect
+feedback, and to display in-app messages for feature announcements or onboarding new users.
+Udemy shares User information with third-party companies that perform email services to enable Udemy to send email
+communications to Users and to manage email preference settings of Users.
+Udemy shares User information with third-party companies that perform data analysis services to enable Udemy to
+better understand how Users use the UB service.
+==========
+These companies include Chartio, Google Analytics and Mixpanel.
+To prevent Google Analytics from collecting information for analytics, a User may install the Google Analytics
+Opt-Out Browser by clicking here, and may also use
+Mixpanel’s opt out by clicking here.
+Any other sharing of User data is subject to the consent and instructions of Customer.
+5.
+Processing of User Data outside of the EEA
+
+If personal data processed by Udemy originates from a User or Administrator in the EEA, Udemy will ensure
+that such processing will only take place if: (a) the non-EEA country in question ensures an adequate level of data
+protection; (b) the transfer is made pursuant to a Data Processing Agreement (“DPA”) executed between Udemy and the
+Customer and subject to the standard contractual clauses designed to facilitate transfers of personal data from the
+EEA to all third countries that have been adopted by the European Commission (known as the, “Model Clauses”),
+which have been incorporated into the DPA.
+6.
+==========
+General
+
+Translation for Convenience Purposes Only.
+In the event that Customer has been provided a
+translated version of the Udemy Business Privacy Statement in a language other than English, that translation
+is provided for convenience purposes only.
+The English version of the UB Privacy Statement provided at
+https://www.udemy.com/terms/ub-privacy/ is controlling,
+and in the event of a conflict between the English version of this Privacy Statement and any translated version,
+the English version will prevail.
+==========

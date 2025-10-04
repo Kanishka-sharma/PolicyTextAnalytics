@@ -1,0 +1,54 @@
+At Scoota, we take the interests of end users, clients, advertisers and publishers extremely seriously, especially in how information is collected and used.
+The following privacy notice describes how we collect and process information from our business activities.
+This privacy notice governs Scoota’s online information collection and use practices and does not apply to any information a user may provide to Scoota or that Scoota may collect offline and/or through other means.
+Scoota reserves the right to change, modify, add or remove portions of this policy at any time and without notice.
+If we change our privacy policy, we will make every effort to post those changes in this area so that you are aware of what information we collect, how we use it, and under what circumstances we disclose it.
+==========
+Scoota places brand-funded content – for example, display advertising – onto the internet for the benefit of the user.
+Brand-funded content allows the internet to offer broader areas of interest and content choices to the user.
+Advertising is the fundamental source of finance for a very large number of Internet companies and premium content providers.
+When an online advertisement (ad) is requested, the ad server receives information from the user’s browser which influences which ad is sent back.
+==========
+The registration, collection and use of this information are subject to stringent data protection regulations under the Data Protection Act 1998 and the GDPR 2018.
+Traditionally in online advertising, cookies are used to store an anonymous, unique ID in a user’s browser.
+In basic, direct ad serving, this ID was usually used to control the delivery of an individual ad and ensure that a single user wouldn’t receive the same ad too many times, which could cause annoyance and wouldn’t represent value for money for the advertiser.
+This practice is known as frequency capping.
+More recently, programmatic advertising has taken advantage of advances in data processing technology to extend the uses to which the ID stored in the cookie may be put.
+==========
+In this case, the ID is often used to ascertain user preferences based on their browsing habits, interactions with content and so on.
+In this way, users can be placed into audience ‘segments’ – for example, ‘potential hatchback buyers’ or ‘showed interest in a Nintendo Switch’.
+Advertisers can then target these audience segments with advertising they think might be of interest to them.
+==========
+The data we store is gathered from the ads that we deliver – this includes the fact that an ad has delivered, which website it was served to, and any interactions a user has had with the ad.
+We need to collect this data so that we can provide evidence to the advertisers that the money they have spent has resulted in ads being delivered (ie that we are providing the service they are paying us for), and to provide them with analysis into the success of the advertising in terms of user engagement.
+We don’t attempt in any way to gather other data about the user from the surrounding page that we’ve delivered to – our interest is purely in the ads we serve.
+We will never attempt to gather or store any direct personal information about you, including your name, email, address, age, sex, sexual orientation, religion or any similar information without your explicit consent – for example as part of a competition entry.
+Scoota delivers advertising in a number of different ways.
+==========
+Broadly speaking these fall into two categories: programmatic and non-programmatic.
+Non-programmatic
+Our non-programmatic ad delivery does not use any mechanism to identify users – no cookie ID or IP address is stored in our databases, and there is no way we can take any of the data we gather and associate it back with an individual user.
+We report ad delivery statistics to our clients in aggregate, with many users’ data grouped together.
+==========
+Rather than using individual user activity and audience segments to help tune and optimise the performance of these campaigns, we use other techniques based on sites, content, time of day, day of week and co-ordination with offline activity.
+Programmatic
+When we serve programmatically, we use the unique, anonymous ID stored in our cookie to manage frequency capping and audience segments as described above.
+This cookie is saved against the domain ‘rockabox.co’ – Scoota used to be called Rockabox and our official business name is still Rockabox Media Ltd.
+==========
+From 25th May 2018, the new GDPR legislation will come into force.
+This radically changes the way in which companies can collect, process and store any data collected about an individual.
+From that point on, we will need your explicit consent to process your data in any way – so we will not be able to cap ad deliveries or add you to any segments, or indeed store any data that can be connected to the unique cookie ID or IP address of any device and browser that you’ve received our ads on.
+If we don’t receive this consent, we will not store your ID or IP address, and therefore will not be able to identify data as belonging to that ID or add it to any audience segments.
+Before 25th May 2018, the following will apply.
+After that date, the GDPR legislation comes into force and we will assume you do not give your consent for us to store and process data that connects to your cookie ID and/or IP address until you explicitly do so.
+==========
+Scoota uses certain methods to collect data as described in the following subsections.
+In all cases, our collection of such data is based on the unique numeric ID and does not allow us to gather personally identifiable information.
+“web beacons” – used in conjunction with cookies to collect click-stream data that we use for ad delivery and reporting purposes, as well as track how you interact with an ad displayed on a website hosting our ads.
+==========
+“server logs” – Scoota collects information through its web servers and server logs when an ad on our Network is displayed to you
+“other third party service providers” – In connection with our services, Scoota may engage third parties to provide services or to support aspects of our business on our behalf.
+In connection with those relationships, such third parties may collect data on our behalf.
+In that case, the third party would only collect and use such information as instructed by us and otherwise in accordance with this policy.
+“P3P” – Scoota Ads are delivered via P3P-compliant Ad servers that communicate the details of this practice to P3P-enabled web browsers
+==========

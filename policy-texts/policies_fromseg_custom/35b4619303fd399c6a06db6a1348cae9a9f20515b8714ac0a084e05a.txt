@@ -1,0 +1,90 @@
+We respect people’s right to privacy.
+We therefore want you to be familiar with how we collect, use and share information, and the options available to you.
+==========
+1 Definitions
+First, here are some terms we use and what they mean:
+“Applicable Data Protection Law” means applicable legislation protecting data subjects’ right to privacy with respect to the processing of personal data, including but not limited to the GDPR and any local implementation laws.
+“Consent”, “Data Subject”, “Personal Data”, “Personal Data Breach”, “Processing”, “Supervisory Authority”, “Controller”, “Processor” and other terms in the GDPR have the same meaning as set out in the GDPR.
+“GDPR” means the EU General Data Protection Regulation 2016/679.
+==========
+2 General Provisions
+2.1 Ongoing Compliance
+Adnuntius shall process all Personal Data in accordance with Applicable Data Protection Law.
+Adnuntius’ responsible person (Data Protection Officer) as specified here shall take responsibility for Adnuntius’ ongoing compliance with this policy.
+2.2 Data Minimization 
+Adnuntius shall ensure that personal data are adequate, relevant and limited to what is necessary in relation to specified, explicit and legitimate purposes for which they are processed, and not further processed in a manner that is incompatible with those purposes.
+Data collection will be limited to what is necessary for the purposes as they are described in this Data Protection Policy.
+==========
+Processing for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes shall not be considered to be incompatible with these purposes.
+Furthermore, Personal Data shall be kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes subject to implementation of the appropriate technical and organizational measures required by the GDPR in order to safeguard the rights and freedoms of individuals.
+==========
+2.3 Accuracy
+Adnuntius shall take reasonable steps to ensure personal data is accurate.
+Where necessary for the lawful basis on which data is processed, steps shall be put in place to ensure that personal data is kept up to date.
+Any inaccurate data, having regard to the purposes for which they are processed, shall be erased or rectified without undue delay.
+2.4 Place of Storage
+Adnuntius stores all data in locations in compliance with Applicable Data Protection Law.
+These locations shall ensure appropriate security of the personal data, including protection against unauthorized or unlawful processing and against accidental loss, destruction or damage.
+==========
+2.5 Security Measures
+Adnuntius shall have technical and organizational security measures aimed at protecting personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure or access.
+These measures shall ensure a level of security appropriate to the risk presented to the processing and the nature of the personal data to be protected having regard to the state of the art and the cost of their implementation.
+Adnuntius shall limit access to the personal data to relevant personnel, and ensure that all personnel authorized to process the personal data have committed themselves to confidentiality.
+2.6 Partners
+Adnuntius works with partners that act as sub-processors of data.
+In cases where partners are involved, we shall ensure that we have data processing agreements in place that help ensure that these partners comply with Applicable Data Protection Law, meet the same requirements as we do, and provide industry-leading security.
+==========
+2.7 Breach
+Adnuntius shall have in place robust breach detection, investigation and internal reporting procedures.
+In the event of a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, personal data, Adnuntius shall without undue delay assess the risk to people’s rights and freedom, and if appropriate, report this breach as follows.
+Within 72 hours of becoming aware of the breach, Adnuntius shall report that breach to supervisory authorities.
+If the breach is likely to result in a high risk of adversely affecting individuals’ rights and freedoms, Adnuntius shall also inform those individuals without undue delay.
+==========
+Adnuntius shall also keep a record of any Personal Data breaches, regardless of whether we are required to notify.
+In case of a data breach resulting in unauthorized disclosure of personal data, the Adnuntius shall without undue delay notify restore appropriate security levels, and rectify any errors resulting in the breach.
+3.
+Provisions Specific to Individual Technologies
+Adnuntius gathers data using the following systems and/or interfaces.
+==========
+Adnuntius.com, our company website.
+This site gathers user data enabling us to better understand user behavior, and to retarget our customers with ads based on their visits.
+Adnuntius technology: we deliver technologies that enable our customers to gather user information for advertising, analysis and personalization purposes.
+We use our own and partners’ technologies to deliver this value proposition to our customers.
+==========
+Efficiency and communication tools.
+In order to effectively communicate with customers and prospects we use a CRM system, an invoicing tool, and an email service provider.
+3.1 Adnuntius.com Website
+This website collects personal data to power our site analytics, including (1) information about your browser, network, and device, (2) web pages you visited prior to coming to this website, and (3) your IP address.
+This information may also include details about your use of this website, including clicks, internal links, pages visited, scrolling, searches and timestamps.
+We share this information with Squarespace and Google Analytics, our website analytics providers, to learn about site traffic and activity.
+==========
+This website uses cookies and similar technologies, which are small files or pieces of text that download to a device when a visitor accesses a website or app.
+For information about viewing the cookies dropped on your device, visit The cookies Squarespace uses.
+These functional and required cookies are always used, which allow Squarespace, our hosting platform, to securely serve this website to you.
+These analytics and performance cookies are used on this site, as described below, only when you acknowledge our cookie banner.
+We use analytics cookies to view site traffic, activity, and other data.
+Information collected with Squarespace: https://support.squarespace.com/hc/en-us/articles/206545727#toc-add-the-cookie-banner
+Information collected with Google Analytics: https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+3.2 Adnuntius Technology: Consumer Data
+For the Adnuntius platform, we act as a Data Processor, meaning that we process data on behalf of our customers.
+If our customers are required by Applicable data protection law to inform you about the Personal Data collected and used, they have the responsibility to enable you to stay informed, and if Applicable Data Protection Law requires it, enable you to opt in our out of being tracked for specific purposes.
+==========
+However, you can also choose whether or not to be tracked by Adnuntius (regardless of domain) here:
+Adnuntius Advertising: click here to DISABLE tracking cookies, and click here to ENABLE tracking cookies.
+Adnuntius Data: click here to DISABLE tracking, and click here to CONSENT to tracking.
+3.3 Adnuntius Technology: Admin Interface
+If you are a customer of Adnuntius and use one of our services, you likely share some information with us such as email address and name for logging into the services.
+==========
+We use this information to authenticate you as a user.
+All information we gather is described in our privacy details sheet here.
+If you want us to completely remove your login information, please contact us and provide your name, email and company name.
+==========
+3.4 Efficiency and communication tools
+We collect certain Personal Data to have a structured sales process where contact information to prospects are gathered in one place, to contact potential customers, and to market news and updates to existing and prospective customers.
+The personal data collected consists of names, phone numbers and/or email addresses.
+When we collect this information, we send you an automated email that notifies you of this.
+You will from there be able to control whether or not we may continue to safely store this information.
+==========
+If you do not wish to receive emails you can opt out of receiving future emails by clicking to opt out directly in any newsletter that we send to you.
+If you would like us to remove personal information about you altogether you can send us an email.
+==========

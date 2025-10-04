@@ -1,0 +1,282 @@
+The Wayback Machine - https://web.archive.org/web/20190506014838/https://slashdot.org/index2.pl?fhfilter=privacy
+Facebook's New 'Secret Crush' Feature Called Creepy, Stupid (mashable.com)
+Posted by EditorDavid on Sunday May 05, 2019 @04:34PM from the loves-me-not dept.
+This week Facebook announced a new feature that let's you tell the service that you have a "secret crush" on up to nine Facebook friends, reports the Bay Area News Group: Facebook will send you a notification if a person has added you as one of their secret crushes.
+However, you don't get to know who that person is unless you happened to have put them on your crush list.
+==========
+At that point, Facebook -- because it really does know everything about everything you do at all times -- will then match you together and reveal your crushed to one another.
+You also have to be signed up for a Facebook Dating profile in order to get the crush notifications....
+Facebook Dating and Secret Crush won't be available in America until later this year.
+But if you live in Canada, Mexico, Argentina or 16 other countries... well, you can let the crushing begin now.
+The Guardian describes it as "harking back to Facebook's humble beginnings as a tool for ranking strangers' attractiveness... Or you could always, you know, try telling them in person."
+==========
+And other sites also gave the feature a negative review.
+BGR says Facebook's new feature "isn't cute, it's creepy," adding "it would be foolish to trust the company with even more sensitive data about yourself."
+But the harshest response came from Mashable, which writes that "the whole point of a secret crush is obviously to keep it a secret.
+The term really could not be clearer."
+They call Facebook's proposed solution "truly, madly, deeply sad... We as a society rely on tech for so much, but we shouldn't rely on it for declarations of love.
+We have to be braver than that."
+Or, in the words of one Twitter user, "this is dumb as shit just tell them you like them cowards."
+DuckDuckGo Proposes 'Do-Not-Track Act of 2019' (spreadprivacy.com)
+Posted by EditorDavid on Saturday May 04, 2019 @12:34PM from the honoring-user-preferences dept.
+"When you turn on the setting in your browser that says 'Do Not Track', you probably expect to no longer be tracked on most websites you visit.
+==========
+Right?
+Well, you would be wrong," explains DuckDuckGo's blog.
+Their recent study found "a quarter of people have turned on this setting" -- representing hundreds of millions of web surfers -- and that most of them were unaware that in fact, "no law requires websites to respect your Do Not Track signals, and the vast majority of sites, including most all of the big tech companies, sadly choose to simply ignore them."
+==========
+Now they've written draft legislation -- "the Do-Not-Track Act of 2019" -- to "serve as a starting point" for legislators to close this loophole.
+SearchEngineLand reports: If the act picks up steam and passes into law, sites would be required to cease certain user tracking methods, which means less data available to inform marketing and advertising campaigns.
+==========
+The impact could also cascade into platforms that leverage consumer data, possibly making them less effective.
+For example, one of the advantages of advertising on a platform like Google or Facebook is the ability to target audiences.
+==========
+If a user enables DNT, the ads displayed to them when browsing those websites won't be informed by their external browsing history...
+This proposal is quite far from being signed into law, but the technology is already built into Chrome, Firefox, Opera, Edge and Internet Explorer.
+With the adoption of GDPR just a year behind us and presidential candidate Elizabeth Warren's proposed legislation to regulate "big tech companies" drawing more attention to digital privacy issues in Washington, the Do-Not-Track Act could be a realistic outcome.
+DuckDuckGo says they're announcing their draft legislation because "It is extremely rare to have such an exciting legislative opportunity like this, where the hardest work -- coordinated mainstream technical implementation and widespread consumer adoption -- is already done....
+"We hope the Do-Not-Track Act of 2019 serves as a useful guide to start thinking seriously about this amazing legislative opportunity."
+==========
+UK's Tax Authority To Delete Five Million Biometric Voice Records Because it Did Not Have Clear Consent From Its Customers (zdnet.com)
+Posted by msmash on Friday May 03, 2019 @02:01PM from the privacy-woes dept.
+The UK's tax authority is to delete the biometric voice records of five million people because it did not have clear consent from its customers to have those files.
+From a report: HM Revenue and Customs (HMRC) uses the Voice ID biometric voice security system to make it easier for callers to pass its security processes when discussing their account.
+==========
+It says using the system will reduce the time it takes to speak to an advisor and will help prevent anyone else accessing accounts.
+But the UK's data privacy watchdog the Information Commissioners Office (ICO) said that HMRC failed to give customers sufficient information about how their biometric data would be processed and failed to give them the chance to give or withhold consent.
+"This is a breach of the General Data Protection Regulation," the ICO said.
+Steve Wood, Deputy Commissioner at the ICO, said: "We welcome HMRC's prompt action to begin deleting personal data that it obtained unlawfully.
+==========
+Our investigation exposed a significant breach of data protection law -- HMRC appears to have given little or no consideration to it with regard to its Voice ID service."
+Under the GDPR, biometric data is considered special category information and is subject to stricter conditions.
+America's Favorite Door-Locking App Has a Data Privacy Problem (medium.com)
+Posted by msmash on Thursday May 02, 2019 @05:01PM from the privacy-woes dept.
+An anonymous reader shares a report: Latch is on a mission to digitize the front door, offering apartment entry systems that forgo traditional keys in favor of being able to unlock entries with a smartphone.
+The company touts convenience -- who wants to fiddle with a metal key?
+==========
+-- and has a partnership with UPS, so you can get packages delivered inside your lobby without a doorman.
+But while it may keep homes private and secure, the same can't be said about tenants' personal data.
+==========
+Latch -- which has raised $96 million in venture capital funding since launching in 2014, including $70 million in its Series B last year -- offers three products.
+Two are entry systems for specific units, and one is for lobbies and other common areas like elevators and garages.
+==========
+The company claims one in 10 new apartment buildings in the U.S. is being built with its products, with leading real estate developers like Brookfield and Alliance Residential now installing them across the country.
+Experts say they're concerned about the app's privacy policy, which allows Latch to collect, store, and share sensitive personally identifiable information (PII) with its partners and, in some cases, landlords.
+==========
+And while Latch is far from the only tech company with questionable data practices, it's harder for a tenant to decouple from their building's door than, say, Instagram: If your landlord installs a product like the keyhole-free Latch R, you're stuck.
+The issue of tenant consent is currently coming to a head in New York City, where residents of a Manhattan building are suing their landlord in part over privacy concerns related to the app.
+==========
+Apple Is Telling Lawmakers People Will Hurt Themselves if They Try To Fix iPhones (vice.com)
+Posted by msmash on Thursday May 02, 2019 @04:02PM from the tussle-continues dept.
+In recent weeks, an Apple representative and a lobbyist for CompTIA, a trade organization that represents big tech companies, have been privately meeting with legislators in California to encourage them to kill legislation that would make it easier for consumers to repair their electronics Motherboard has learned.
+From a report: According to two sources in the California State Assembly, the lobbyists have met with members of the Privacy and Consumer Protection Committee, which is set to hold a hearing on the bill Tuesday afternoon.
+==========
+The lobbyists brought an iPhone to the meetings and showed lawmakers and their legislative aides the internal components of the phone.
+The lobbyists said that if improperly disassembled, consumers who are trying to fix their own iPhone could hurt themselves by puncturing the lithium-ion battery, the sources, who Motherboard is not naming because they were not authorized to speak to the media, said.
+The argument is similar to one made publicly by Apple executive Lisa Jackson in 2017 at TechCrunch Disrupt, when she said the iPhone is "too complex" for normal people to repair them.
+The bill has been pulled by its sponsor, Susan Talamantes-Eggman: "It became clear that the bill would not have the support it needed today, and manufacturers had sown enough doubt with vague and unbacked claims of privacy and security concerns," she said.
+==========
+Mozilla Says It Will Ban Firefox Add-ons With Obfuscated Code (betanews.com)
+Posted by msmash on Thursday May 02, 2019 @01:01PM from the up-next dept.
+DarkRookie2 writes: As Mozilla continues to try to make it safer than ever to use Firefox, the organization has updated its Add-on Policy so that any updates that include obfuscated code are explicitly banned.
+Mozilla has also set out in plain terms its blocking process for add-ons and extensions.
+While there is nothing surprising here, the clarification should mean that there are fewer causes for disputes when an add-on is blocklisted.
+The updated Add-on policy comes into force on June 10, so add-on developers have a little more than a month to take note of the changes and comply.
+==========
+Mozilla says that the move is designed to help it better deal with malicious extensions.
+Mozilla also plans to be more aggressive towards taking down extensions that break its policies, with a heavy focus on security issues.
+ZDNet adds: [...] Starting with June 10, Mozilla's team will also be more aggressive in blocking and disabling Firefox add-ons in users' browsers that are found to be violating one of the company's policies.
+"We will continue to block extensions for intentionally violating our policies, critical security vulnerabilities, and will also act on extensions compromising user privacy or circumventing user consent or control," Nieman said.
+==========
+Google To Roll Out Auto-Delete Controls For Location History and Activity Data (betanews.com)
+Posted by msmash on Wednesday May 01, 2019 @02:00PM from the nickel-short-and-a-dime-late dept.
+Google has announced that it is giving users greater control over how long the company holds on to location history and activity data.
+From a report: A new time-limiting feature makes it possible to have information such as account activity and location data automatically deleted after a period of time.
+The privacy-focused move comes after feedback to Google which found users wanted the company to provide simpler ways to manage or delete the private data it holds.
+The announcement comes months after Associated Press reported that a number of Google apps store the timestamped locations of the devices on which they're installed.
+Facebook CEO Mark Zuckerberg Says the 'Future is Private' (theverge.com)
+Posted by msmash on Tuesday April 30, 2019 @02:10PM from the for-what-it-is-worth dept.
+Facebook CEO Mark Zuckerberg says he's committed to turning his company around.
+==========
+Onstage at Facebook's F8 developer conference, the chief executive said that privacy will be the defining pillar of his social network's sprawling empire going forward.
+From a report: His opening statements build on the massive shift in Zuckerberg's vision for the company that he first outlined early last month when he announced that Facebook would transition away from the News Feed and public posts and toward a "privacy-focused communications platform" that unified its messaging products around concepts like ephemerality and encryption.
+"The future is private," Zuckerberg told the crowd, noting that Facebook's most dominant vision over the last decade was to build global communities that would bring the world together, for better or worse.
+"Over time, I believe that a private social platform will be even more important to our lives than our digital town squares.
+So today, we're going to start talking about what this could look like as a product, what it means to have your social experience be more intimate, and how we need to change the way we run this company in order to build this."
+==========
+Cloud Database Removed After Exposing Details on 80 Million US Households (cnet.com)
+Posted by msmash on Monday April 29, 2019 @04:00PM from the privacy-woes dept.
+The addresses and demographic details of more than 80 million US households were exposed on an unsecured database stored on the cloud, independent security researchers have found.
+From a report: The details listed included names, ages and genders as well as income levels and marital status.
+The researchers, led by Noam Rotem and Ran Locar, were unable to identify the owner of the database, which until Monday was online and required no password to access.
+==========
+Some of the information was coded, like gender, marital status and income level.
+Names, ages and addresses were not coded.
+The data didn't include payment information or Social Security numbers.
+The 80 million households affected make up well over half of the households in the US, according to Statista.
+"I wouldn't like my data to be exposed like this," Rotem said in an interview with CNET.
+"It should not be there."
+==========
+Rotem and his team verified the accuracy of some data in the cache but didn't download the data in order to minimize the invasion of privacy of those listed, he said.
+Apple Says It Restricted Screen Time-like Apps Due To Concerns Over Children Privacy (fastcompany.com)
+Posted by msmash on Monday April 29, 2019 @11:00AM from the closer-look dept.
+Apple has issued a rare public statement following a report by the New York Times on Saturday that alleged Apple was cracking down on apps that its Screen Time feature emulates.
+From a report: The Times story says that over the past year, Apple has removed or restricted at least 11 of the 17 apps that offer Screen Time-like features.
+==========
+Screen Time is a feature on iOS 12 and later that allows a user to see how much time they spend on their iPhone, what apps they use the most, and the ability for the user or parents of the users to set limitations on the apps.
+While it's true that Apple has removed some of the apps from the App Store since the company introduced its Screen Time software, the company's senior vice president of worldwide marketing, Phil Schiller, said the Times did not publish the full reason Apple gave them as to why some of the competing apps were pulled.
+==========
+From Apple's response: Over the last year, we became aware that several of these parental control apps were using a highly invasive technology called Mobile Device Management, or MDM.
+MDM gives a third party control and access over a device and its most sensitive information including user location, app use, email accounts, camera permissions, and browsing history.
+==========
+We started exploring this use of MDM by non-enterprise developers back in early 2017 and updated our guidelines based on that work in mid-2017.
+MDM does have legitimate uses.
+Businesses will sometimes install MDM on enterprise devices to keep better control over proprietary data and hardware.
+But it is incredibly risky -- and a clear violation of App Store policies -- for a private, consumer-focused app business to install MDM control over a customer's device.
+Beyond the control that the app itself can exert over the user's device, research has shown that MDM profiles could be used by hackers to gain access for malicious purposes.
+==========
+Facebook Never Released Promised 'Clear History' Feature (tomsguide.com)
+Posted by EditorDavid on Sunday April 28, 2019 @04:34PM from the remembering-history dept.
+Iwastheone tipped us off to a scathing editorial by the senior editor of Tom's Guide: Consider the F8 conference from a year ago that began with a prolonged apology over the Cambridge Analytica scandal, where a data mining firm got a hold of the personal data of 50 million Facebook users... Zuckerberg promised a Clear History feature that would let you easily delete information about apps and websites you've interacted with, sort of like erasing your browser history.
+"It's not enough to build powerful tools," Zuckerberg said at last year's F8.
+"We have to make sure they're used for good, and we will."
+==========
+So what's changed in the last year?
+Well, the Clear History feature never launched -- it's coming later in 2019, Facebook now says...
+If we sat around previewing everything that's gone wrong for Facebook since last year's F8 conference, we'd wrap up just in time for the 2020 version to begin.
+Meanwhile, a Forrester Research analyst complains the ongoing stream of news stories about Facebook's issues "proves they've never prioritized privacy over their business model," and the article argues there's just one way for Facebook to regain trust: If Zuckerberg wants to prove just how serious Facebook is about guarding user privacy...he should it prove it by announcing he's quitting.... [W]ith Zuckerberg still at the helm of Facebook, it will be hard to believe that the social media company is doing more than just paying lip service to the notion that it must do a better job of respecting the privacy and personal data of its users... Incidents where Facebook was too cavalier with user data stretch back years, and while the particulars change from scandal to scandal, the one constant is the guy sitting in the CEO chair.
+The article's last line?
+"Expect another apology a few months later when word of yet another breach leaks out."
+==========
+United Airlines Covers All Cameras On Its Seatback Screens Following Outcry (buzzfeednews.com)
+Posted by EditorDavid on Sunday April 28, 2019 @10:34AM from the flying-but-not-spying dept.
+United Airlines "has covered all the cameras in entertainment systems embedded in the backs of the airline's premium seats," reports BuzzFeed News.
+In a statement, a United Airlines spokesperson said: "As with many other airlines, some of our premium seats have in-flight entertainment systems that came with cameras installed by the manufacturer.
+==========
+None of these cameras were ever activated and we had no plans to use them in the future, however we took the additional step to cover the cameras.
+The cameras are a standard feature that manufacturers of the system included for possible future purposes such as video conferencing."
+United will continue to cover the cameras as it adds premium seats on additional aircraft, the spokesperson said....
+A viral photo showing a camera in a Singapore Airlines in-flight TV display sparked an uproar online.
+==========
+After that, BuzzFeed News reported that some seatback screens on American Airlines, United Airlines, and Delta flights included cameras too.
+American Airlines and Delta did not immediately respond to a request for comment.
+==========
+The Verge adds that Panasonic executives claimed the cameras "could one day provide improved entertainment features like seat-to-seat video calling and even gaming.
+"United claims it did not specially order its screens with webcams."
+==========
+Designers Release 'Aweigh', An Open Source Alternative to GPS (dezeen.com)
+Posted by EditorDavid on Saturday April 27, 2019 @04:34PM from the new-navigators dept.
+"A team of student designers and engineers from the RCA and Imperial College have designed an open-source alternative to GPS, called Aweigh, that does not rely on satellites," reports the design magazine Dezeen.
+It's similar to the sextant, calculating positions by measuring the angular distances between the horizon and the sun.
+==========
+ExRex (Slashdot reader #47,177) shares their report: They said that Aweigh can even work on a cloudy day when the sun is not in view, and unlike devices that use satellites, such as smartphones, Aweigh functions offline so a user's positional data cannot be leaked through the internet.
+"Satellites send information which can be intercepted and interfered with, but to interfere with Aweigh, one would need to artificially move the sun," explained the team of four, made up of States Lee, Samuel Iliffe, Flora Weil and Keren Zhang.
+==========
+"If one of the devices is faulty or broken, it is only that user who suffers.
+If one satellite is faulty, then the consequences can affect millions of users.
+==========
+"Most people don't think about the way they navigate," the group continued, "but as concerns over centralised technology and data privacy increase, individuals should have a choice over how their data is taken and used.
+Aweigh is about giving back choice...." Describing the system as "a set of tools and blueprints", the team wanted users to be able to hack or fix the tools they use, so making the project open-source was important.
+==========
+There's a video about the device here.
+It locates the sun by reading light values with a customized Raspberry Pi board.
+Although Slashdot reader RockDoctor asks an interesting question: does it work at night?
+==========
+'They're Basically Lying' - Mental Health Apps Caught Secretly Sharing Data (theverge.com)
+Posted by EditorDavid on Saturday April 27, 2019 @03:34PM from the disclosing-data dept.
+"Free apps marketed to people with depression or who want to quit smoking are hemorrhaging user data to third parties like Facebook and Google -- but often don't admit it in their privacy policies, a new study reports..." writes The Verge.
+"You don't have to be a user of Facebook's or Google's services for them to have enough breadcrumbs to ID you," warns Slashdot schwit1.
+From the article: By intercepting the data transmissions, they discovered that 92 percent of the 36 apps shared the data with at least one third party -- mostly Facebook- and Google-run services that help with marketing, advertising, or data analytics.
+(Facebook and Google did not immediately respond to requests for comment.)
+But about half of those apps didn't disclose that third-party data sharing, for a few different reasons: nine apps didn't have a privacy policy at all; five apps did but didn't say the data would be shared this way; and three apps actively said that this kind of data sharing wouldn't happen.
+Those last three are the ones that stood out to Steven Chan, a physician at Veterans Affairs Palo Alto Health Care System, who has collaborated with Torous in the past but wasn't involved in the new study.
+"They're basically lying," he says of the apps.
+==========
+Part of the problem is the business model for free apps, the study authors write: since insurance might not pay for an app that helps users quit smoking, for example, the only ways for free app developer to stay afloat is to either sell subscriptions or sell data.
+And if that app is branded as a wellness tool, the developers can skirt laws intended to keep medical information private.
+A few apps even shared what The Verge calls "very sensitive information" like self reports about substance use and user names.
+==========
+Google Bans Developer With Half a Billion App Downloads From Play Store (buzzfeednews.com)
+Posted by BeauHD on Friday April 26, 2019 @06:40PM from the rule-breaker dept.
+Google is banning app developer DO Global and removing their apps from the Google Play Store after it discovered the company was committing ad fraud.
+"As of today, 46 apps from DO Global, which is partly owned by internet giant Baidu, are gone from the Play store," reports BuzzFeed.
+"BuzzFeed News also found that DO Global apps no longer offer ad inventory for purchase via Google's AdMob network, suggesting the ban has also been extended to the internet giant's ad products."
+==========
+From the report: Prior to the app removals, DO Global had roughly 100 apps in the Play store with over 600 million installs.
+Their removal from the Play store marks one of the biggest bans, if not the biggest, Google has ever instituted against an app developer.
+DO Global was a subsidiary of Baidu until it was spun out last summer; Baidu retains a 34% stake.
+==========
+BuzzFeed News reported last week that at least six apps from DO included code that made them fraudulently click on ads even when a user was not using the app.
+The apps were also listed in the Play store under the generic developer names "Pic Tools Group" and "Photo Artist Studio," hosted their privacy policies on Tumblr, and did not disclose they were owned by DO.
+==========
+It's a violation of Play store policy to conceal ownership information, and to commit ad fraud.
+The ad fraud was detected by Check Point security, which responded to a request from BuzzFeed News to examine apps uncovered during its investigation.
+Google removed those six apps, and claimed its internal systems had also flagged most of them for removal.
+==========
+Another 40 DO apps disappeared from the Play store this week, including 20 using the Do Global Games developer name, and 14 listed under Applecheer Studio.
+The apps listed different addresses and contact information in the store, making it difficult for the average user to see they were all owned by the same major developer.
+==========
+Zuckerberg Warns of Authoritarian Data Localization Trend (techcrunch.com)
+Posted by msmash on Friday April 26, 2019 @02:48PM from the taking-a-stand dept.
+If free nations demand companies store data locally, it legitimizes that practice for authoritarian nations, which can then steal that data for their own nefarious purposes, according to Facebook CEO Mark Zuckerberg.
+From a report: He laid out the threat in a new 93-minute video of a discussion with Sapiens author Yuval Noah Harari released today as part of Zuckerberg's 2019 personal challenge of holding public talks on the future of tech.
+==========
+Zuckerberg has stated that Facebook will refuse to comply with laws and set up local data centers in authoritarian countries where that data could be snatched.
+Russia and China already have data localization laws, but privacy concerns and regulations proposals could see more nations adopt the restrictions.
+Germany now requires telecommunications metadata to be stored locally, and India does something similar for payments data.
+While in democratic or justly ruled nations, the laws can help protect user privacy and give governments more leverage over tech companies, they pave the way for similar laws in nations where governments might use military might to see the data.
+That could help them enhance their surveillance capabilities, disrupt activism or hunt down dissidents.
+==========
+Microsoft Drops 60-Day Password Expiration Policy (bleepingcomputer.com)
+Posted by BeauHD on Thursday April 25, 2019 @06:03PM from the useless-policies dept.
+Microsoft is dropping its 60-day password expiration policy starting with the Windows 10 May 2019 Update.
+"Once removed, the preset password expiration settings should be replaced by organizations with more modern and better password-security practices such as multi-factor authentication, detection of password-guessing attacks, detection of anomalous log on attempts, and the enforcement of banned passwords lists (such as Azure AD's password protection currently available in public preview)," reports Bleeping Computer.
+==========
+From the report: Microsoft's Aaron Margosis states that the password expiration mechanism which requires periodic password changes is in itself a flawed defense method given that, once a password is stolen, mitigation measures should be taken immediately instead of waiting for it to expire as per the set expiration policy.
+In addition, the soon to be removed policies are "a defense only against the probability that a password (or hash) will be stolen during its validity interval and will be used by an unauthorized entity."
+==========
+The removal of the password-expiration policies without the addition of other password-oriented security configurations does not directly translate into a decrease in security but, instead, it simply stands as proof that security-conscious organizations need to implement extra measures to enforce their users' security.
+As Microsoft further detailed, "to try to avoid inevitable misunderstandings, we are talking here only about removing password-expiration policies -- we are not proposing changing requirements for minimum password length, history, or complexity."
+==========
+Wireless Carriers Fight Ban On Throttling Firefighters During Emergencies (arstechnica.com)
+Posted by BeauHD on Thursday April 25, 2019 @04:45PM from the public-safety dept.
+An anonymous reader quotes a report from Ars Technica: The U.S. mobile industry's top lobbying group is opposing a proposed California state law that would prohibit throttling of fire departments and other public safety agencies during emergencies.
+As reported yesterday by StateScoop, wireless industry lobby group CTIA last week wrote to lawmakers to oppose the bill as currently written.
+CTIA said the bill's prohibition on throttling is too vague and that it should apply only when the U.S. president or California governor declares emergencies and not when local governments declare emergencies.
+==========
+The group's letter also suggested that the industry would sue the state if the bill is passed in its current form, saying the bill would result in "serious unintended consequences, including needless litigation." "
+[T]he bill's vague mandates, problematic emergency trigger requirement, and failure to include notification requirements could work to impede activities by first responders during disasters," CTIA wrote.
+The group said that it "must oppose AB 1699 unless it is amended to address the foregoing concerns."
+==========
+CTIA represents Verizon, AT&T, T-Mobile, Sprint, and other carriers.
+Despite CTIA's opposition, the bill proposed by State Assemblymember Marc Levine (D-Marin County) sailed through an Assembly committee yesterday.
+==========
+The Committee on Communications and Conveyance voted 12-0 to advance the bill, Levine's chief of staff, Terry Schanz, told Ars today.
+A committee analysis of the bill says that CTIA was the only organization to register opposition.
+The next stop for the bill is an April 30 hearing with the Assembly Privacy and Consumer Protection Committee.
+It is in response to Verizon throttling an "unlimited" data plan used by Santa Clara firefighters last year during the state's largest-ever wildfire.
+==========
+UK Minister: Huawei Leaks 'Unacceptable', Criminal Investigation Possible (reuters.com)
+Posted by msmash on Thursday April 25, 2019 @03:25PM from the tussle-continues dept.
+The UK Culture Secretary Jeremy Wright said on Thursday he could not rule out a criminal investigation over the "unacceptable" disclosure of confidential discussions on the role of China's Huawei in 5G network supply chains.
+From a report: Huawei, the world's biggest producer of telecoms equipment, is under intense scrutiny after the United States told allies not to use its technology because of fears it could be a vehicle for Chinese spying.
+==========
+Huawei has categorically denied this.
+Sources told Reuters on Wednesday Britain's National Security Council (NSC) had decided to bar Huawei from all core parts of the country's 5G network and restrict its access to non-core parts.
+==========
+The leak of information from a meeting of the NSC, first reported in national newspapers, has sparked anger in parliament because the committee's discussion are supposed to be secret.
+"We cannot exclude the possibility of a criminal investigation here," Wright said, speaking in response to an urgent question on Huawei in parliament.
+"I do not think that the motivation for this leak matters in the slightest.
+This was unacceptable and it is corrosive to the ability to deliver good government."
+==========
+Facebook Breached Canadian Privacy Laws, Watchdogs Say (bloomberg.com)
+Posted by msmash on Thursday April 25, 2019 @12:05PM from the growing-tension dept.
+Privacy watchdogs are accusing Facebook of "serious contraventions of Canadian privacy laws" in the Cambridge Analytica scandal.
+From a report: In a joint report released Thursday, the Privacy Commissioner of Canada and the Privacy Commissioner of British Columbia said the Menlo Park, California-based technology giant didn't obtain proper consent from users to disclose their personal data, didn't have adequate safeguards to protect that data and didn't take proper responsibility for the information under its control.
+"Facebook's refusal to act responsibly is deeply troubling given the vast amount of sensitive personal information users have entrusted to this company," Privacy Commissioner of Canada Daniel Therrien said in a news release.
+"Their privacy framework was empty, and their vague terms were so elastic that they were not meaningful for privacy protection."
+Therrien's office plans to take the matter to Federal Court to "seek an order to force the company to correct its privacy practices," according to the release.
+To write good code is a worthy challenge, and a source of civilized delight.
+-- stolen and paraphrased from William Safire
+Working...
+==========

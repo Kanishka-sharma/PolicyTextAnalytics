@@ -1,0 +1,131 @@
+Notice to End UsersNotice to End Users
+This privacy statement is written for the organization or company (our "customer") that contracts with Microsoft for the Online Services.
+All references to "you" or "your" in this privacy statement are to our customers, who in turn, may administer the Online Services to end users.
+Microsoft is not responsible for the privacy or security practices of our customers, which may differ from those set forth in this Privacy Statement.
+End users of Online Services administered by Microsoft customers should direct privacy inquiries to their network administrator.
+==========
+Please be advised that if you obtain an account for Online Services from Microsoft using an organizational account (e.g., your work email), the owner of the organizational domain (e.g., your employer) may subsequently be able to assume control of your account and obtain access to your data and prior network activities.
+Customer DataCustomer Data
+Customer Data will be used only to provide customer the Online Services including purposes compatible with providing those services.
+Microsoft will not use Customer Data or derive information from it for any advertising or similar commercial purposes.
+“Customer Data” means all data, including all text, sound, video, or image files, and software, that are provided to Microsoft by, or on behalf of, you or your end users through use of the Online Service.
+Customer Data is not Administrator Data, Payment Data or Support Data.
+==========
+For more information about the features and functionality that enable you and your end users to control Customer Data, please review documentation specific to the service.
+Microsoft also makes a number of data protection commitments in our customer agreement (see the Online Services Terms or other applicable terms for details).
+==========
+Administrator DataAdministrator Data
+Administrator Data is information about subscription and service administrators (including developers of applications hosted in or developed using the Services) that is provided during sign-up, purchase, or administration of the Online Services.
+Administrator Data may include the administrator’s name, address, phone number, and e-mail address.
+==========
+We use Administrator Data to provide the Online Services, complete transactions, administer the account and detect and prevent fraud.
+We may contact administrators to provide information about their subscriptions, billing and updates to the Online Services, including information about new features, security or other technical issues.
+We may also contact administrators regarding third-party inquiries we receive regarding use of the Online Services, as described in your agreement.
+==========
+Administrators will not be able to unsubscribe from these communications.
+Subject to the administrator’s contact preferences, we may also contact administrators by phone or email regarding information and offers about other products and services, or share their contact information with Microsoft’s partners.
+Administrators may manage their contact preferences or update information in their account profile.
+==========
+Payment DataPayment Data
+Customers who make online purchases will be asked to provide information, which may include payment instrument number (e.g., credit card), name and billing address, and the security code associated with the payment instrument and other financial data ("Payment Data").
+We use Payment Data to complete transactions, as well as to detect and prevent fraud.
+When you provide Payment Data while logged in with your Microsoft or organizational account we will store that data to help you complete future transactions.
+==========
+You may update or remove the payment instrument information associated with your Microsoft account by logging in at https://commerce.microsoft.com.
+You may remove the payment instrument information associated with your organizational account by contacting customer support.
+After you close your account or remove a payment instrument, however, Microsoft may retain your payment instrument data for as long as reasonably necessary to complete your existing transaction, to comply with Microsoft’s legal and reporting requirements, and to detect and prevent fraud.
+==========
+Support DataSupport Data
+Support Data is the information we collect when you submit a support request or run an automated troubleshooter, including information about hardware, software, and other details related to the support incident, such as contact or authentication information, chat session personalization, information about the condition of the machine and the application when the fault occurred and during diagnostics, system and registry data about software installations and hardware configurations, and error-tracking files.
+Support may be provided through phone, e-mail, or online chat.
+==========
+We may use Remote Access ("RA"), with your permission, to temporarily navigate your machine.
+Phone conversations, online chat sessions, or RA sessions with support professionals may be recorded and/or monitored.
+==========
+We use Support Data as described in this privacy statement, to resolve your support incident and for training purposes.
+Following a support incident, we may send you a survey about your experience and offerings.
+==========
+You must opt-out of support surveys separately from other communications provided by Microsoft, by contacting Support or through the e-mail footer.
+To review and edit your personal information collected through our support services, please contact us by using our web form.
+==========
+Some business customers may purchase enhanced support offerings (e.g., Premier).
+These offerings are covered by separate terms and notices.
+==========
+Cookies & Similar TechnologiesCookies & Similar Technologies
+Microsoft may use cookies (small text files placed on a device’s hard disk by a web service) or similar technologies to provide the Online Services.
+For example, cookies and similar technologies such as web beacons may be used to store a user’s preferences and settings, to gather web analytics, to authenticate a user or to detect fraud.
+In addition to the cookies Microsoft may set when you visit Microsoft sites, third parties that we have hired to provide certain services on our behalf, such as site analytics, may also set cookies when you visit Microsoft sites.
+To learn more about how to control cookies and similar technologies, please see your Internet browser’s documentation.
+Choices you make regarding the use of cookies may impact your use of the Online Services.
+==========
+Online Services ApplicationsOnline Services Applications
+Some Online Services may require, or may be enhanced by, the installation of local software (e.g., agents, device management applications) (“Apps”).
+This section of the Microsoft Online Services Privacy Statement governs your use of those Microsoft Apps that do not have their own privacy statements.
+At your or your end user’s direction, the Apps transmit data, which may include Customer Data from a device or appliance to or from the Online Services.
+The Apps may collect other information about the use and performance of the Apps that may be transmitted to Microsoft and analyzed for purposes of improving the quality, security, and integrity of Microsoft products or services.
+Some Apps may have logging capabilities that permit you to transmit data to Microsoft or to the Online Services for troubleshooting purposes.
+==========
+Use of SubcontractorsUse of Subcontractors
+Microsoft may hire subcontractors to provide services on its behalf.
+Any such subcontractors will be permitted to obtain data only to deliver the services Microsoft has retained them to provide and will be prohibited from using data for any other purpose.
+Disclosure of DataDisclosure of Data
+Microsoft will not disclose Customer Data outside of Microsoft or its controlled subsidiaries and affiliates except (1) as you direct, (2) with permission from an end user, (3) as described here or in your agreement(s), or (4) as required by law.
+Microsoft will not disclose Customer Data to law enforcement unless required by law.
+==========
+Should law enforcement contact Microsoft with a demand for Customer Data, Microsoft will attempt to redirect the law enforcement agency to request that data directly from you.
+If compelled to disclose Customer Data to law enforcement, then Microsoft will promptly notify you and provide you a copy of the demand unless legally prohibited from doing so.
+Upon receipt of any other third party request for Customer Data (such as requests from customer’s end users), Microsoft will promptly notify you unless prohibited by law.
+If Microsoft is not required by law to disclose the Customer Data, Microsoft will reject the request.
+If the request is valid and Microsoft could be compelled to disclose the requested information, Microsoft will attempt to redirect the third party to request the Customer Data from you.
+Except as customer directs, Microsoft will not provide any third party: (1) direct, indirect, blanket or unfettered access to Customer Data; (2) the platform encryption keys used to secure Customer Data or the ability to break such encryption; or (3) any kind of access to Customer Data if Microsoft is aware that such data is used for purposes other than those stated in the request.
+In support of the above, Microsoft may provide your basic contact information to the third party.
+We will not disclose Administrator Data, Payment Data or Support Data outside of Microsoft or its controlled subsidiaries and affiliates except (1) as you direct, (2) with permission from an end user, (3) as described here or in your agreement(s), or (4) as required by law.
+We may share Administrator Data or Payment Data with third parties for purposes of fraud prevention or to process payment transactions.
+==========
+The Online Services may enable you to purchase, subscribe to, or use services, software, and content from companies other than Microsoft ("Third Party Offerings").
+If you choose to purchase, subscribe to, or use a Third Party Offering, we may provide the third party with your Administrator Data or Payment Data to enable the third party to provide its offering to you (and subject to your contact preferences, send you promotional communications).
+Use of that information and your use of a Third Party Offering will be governed by the third party’s privacy statement and policies.
+==========
+SecuritySecurity
+Microsoft is committed to helping protect the security of your information.
+We have implemented and will maintain appropriate technical and organizational measures intended to protect your information against accidental loss, destruction, or alteration; unauthorized disclosure or access; or unlawful destruction.
+==========
+For more information about the security of the Online Services, please visit the Online Services Trust Center(s) or documentation.
+Data LocationData Location
+Except as described below, Customer Data that Microsoft processes on your behalf may be transferred to, and stored and processed in, the United States or any other country in which Microsoft or its affiliates or subcontractors maintain facilities.
+You appoint Microsoft to perform any such transfer of Customer Data to any such country and to store and process Customer Data in order to provide the Online Services.
+Microsoft abides by the EU Safe Harbor and the Swiss Safe Harbor frameworks as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union, the European Economic Area, and Switzerland.
+==========
+Some Online Services may provide additional commitments around keeping Customer Data in a specified geography.
+Please visit the Online Services Trust Center(s) or consult your agreement(s) for details.
+==========
+Preview ReleasesPreview Releases
+Microsoft may offer preview, beta or other pre-release features and services ("Previews") for optional evaluation.
+Previews may employ lesser or different privacy and security measures than those typically present in the Online Services.
+We may contact you to obtain your feedback about the Preview or your interest in continuing to use it after general release.
+==========
+Changes to this Privacy StatementChanges to this Privacy Statement
+We will occasionally update our privacy statements to reflect customer feedback and changes in our Online Services.
+When we post changes to a statement, we will revise the "last updated" date at the top of the statement.
+==========
+If there are material changes to the statement or in how Microsoft will use Online Services information, we will notify you either by posting a notice of such changes before they take effect or by directly sending you a notification.
+In the event of a conflict between the terms of any agreement(s) between you and Microsoft and this privacy statement, the terms of those agreement(s) will control.
+We encourage you to periodically review the privacy statements for the products and services you use to learn how Microsoft is protecting Online Services information.
+==========
+How to Contact UsHow to Contact Us
+Microsoft welcomes your comments.
+If you believe that Microsoft is not adhering to its privacy or security commitments, please contact us through Customer Support or our Privacy web form.
+==========
+Our mailing address is:
+Microsoft Online Services Privacy
+Microsoft Corporation
+One Microsoft Way
+Redmond, Washington 98052 USA
+Microsoft Ireland Operations Limited is our data protection representative for the European Economic Area and Switzerland.
+The data protection officer of Microsoft Ireland Operations Limited can be reached at the following address:
+Microsoft Ireland Operations, Ltd.
+Attn: Data Protection
+Carmenhall Road
+Sandyford, Dublin 18, Ireland
+To find the Microsoft subsidiary in your country or region, see http://www.microsoft.com/worldwide/.
+==========

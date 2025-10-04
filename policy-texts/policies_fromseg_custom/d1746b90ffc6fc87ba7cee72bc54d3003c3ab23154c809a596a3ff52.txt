@@ -1,0 +1,219 @@
+This Platform Privacy Policy applies to information that DeepIntent, Inc., its affiliates, and subsidiaries (“DeepIntent,” “we,” “us,” or “our”) collects, receives, uses, and shares about individuals (“users” or “you”) transmitted from desktop, mobile devices, and/or internet-connected television (“Devices”) via our Services (as defined below).
+If you have questions about this Platform Privacy Policy, please email contact@deepintent.com.
+This Platform Privacy Policy does not govern the collection and use of data on our website (www.deepintent.com) and sites or mobile applications that are managed by our platform members, which will each have their own privacy policies and practices.
+We encourage you to refer to the Website Privacy Policy found here and each platform members’ respective privacy policies for information about such data collection and use practices.
+Overview of Platform Services
+DeepIntent is an online marketing and advertising technology platform specializing in audience insights and media buying (“Platform”).
+Through our Platform, advertisers (“Clients”) can place advertisements on websites, mobile apps, and other digital media properties (“Partner Properties”) belonging to publishers with whom we are partnered (“Partners”).
+Our Platform uses data and technology to help Clients strategize and market their products and/or services via the Partner Properties that fit your interests at the most relevant moments to you (“Services”).
+Information We Collect, Store, and/or Access
+When you visit a Partner Property, we collect certain information about you and your Device.
+Note that some of this information (such as IP addresses and other unique identifiers) may be considered “personal data” according to applicable data privacy law in the EEA.
+==========
+The information we collect may include the following:
+Information about Your Browser.
+This includes information about your browser type, browser language, browser settings, and our cookie information.
+Information about Your Device.
+This includes information about your IP address, device type, device operating system, device make and model, device identifiers such as your IDFA (identifier for advertisers), MAID (mobile advertising identifier) or AAID (android advertising identifier), including through mobile applications and across multiple devices that you may use.
+==========
+Information about Your Interactions with Partner Properties.
+This includes information about the Partner Properties you visited or used, the date and time of such visits to Partner Properties, and geolocation (including city, state, country, zip code, and in some instances, geographic coordinates).
+==========
+We only receive and collect this information from requests sent by our Partners to fill a Partner Property with an ad, to track your activity in connection with showing you an ad, or to place our unique identifier (“UID”) or other identifiers associated with your browser or Device.
+We then use this information through our Platform to help decide whether to serve you an ad, to measure your interaction with an ad, and to help Clients serve more relevant ads to you.
+Information about Your Interactions with Ads.
+This includes information about the type of ad served to you, where the ad was served, whether you clicked on the ad, and whether you downloaded the ad’s app.
+==========
+Inferences About You.
+This information includes your interests or demographic information (your age or gender).
+==========
+We do not directly collect this information from you, but sync this information provided by third-party data management platforms to our Platform and UIDs to help our Clients serve more relevant advertisements to you.
+Information You Share with our Vendors.
+This information may include offline data about you, such as your name or email, that you allowed our Vendors to share with us for advertising purposes.
+==========
+We may sync this information with any other information we collect about you.
+Information about Your Internet Service.
+We collect information about your Device’s Internet Service Provider (ISP).
+==========
+Information Collected by Third Parties
+Our Clients, Partners, Vendors (as defined below), and each of their third-party service providers (collectively, “Third Parties”) may use their own or their affiliates’ cookies, web beacons, and/or other internet technology within ads and on the Partner Properties.
+For example, when you click on an ad served on a Partner Property, both our Client and Partner may drop their own cookies to collect information about you.
+==========
+We do not control the information collection and usage practices of these Third Parties.
+Therefore, we recommend that you review the terms and privacy policy on such Third Parties’ websites.
+==========
+How We Collect Information
+We use cookies, scripts, web beacons, and/or other similar technology to help us understand your digital actions when you visit a Partner Property on your Device.
+For example, when you interact with ads presented on our Partner Properties, cookies on such Partner Properties allow us to collect information, like your IP address or other device identifiers, from your Device.
+We also receive other data (e.g., demographic information) from Third Party data management platforms that separately collect and use your information from visits to various websites or applications to create “segments” – groups of users that are inferred to share similar interests.
+We may use information about your inclusion in specific segments based on Client requests so that they may serve more relevant ads to you.
+You can see a representative sample of our custom health segments here.
+==========
+Why We Use Your Information
+We use the data we collect for these basic purposes:
+Core Functionality and Improvement.
+We use the information we collect to run the core functionalities of the Site and to improve the utility and accessibility of the Site such as by adding new features or capabilities.
+==========
+Compiling statistics and conducting research and development for our internal business purposes on an aggregate, anonymous level;
+Analyzing and reporting on ad campaigns and performance (such as number of ad views and click rates on ads); and
+Enabling Clients to control ad targeting through the Platform.
+For example, limiting the number of times you see a particular ad, showing ads based on the content you are viewing, geographically targeting ads to users located near a local Client, or requesting to target users who fit into certain interest-based segments.
+==========
+Security, Safety, and Dispute Resolution.
+We use data to protect the security and safety of our Platform, to detect and prevent fraud, to protect against misuse or unauthorized use of the Platform, to resolve disputes, to enforce our agreements, to limit our legal liability and protect our rights or to protect the rights, property or safety of other users or the public.
+==========
+Communications.
+If you email us with any questions or concerns, we may use any personally identifiable information that you provide to us in such email to respond to you.
+==========
+Legal Obligations.
+We may provide access to your information, including personally identifiable information, when legally required to do so, to comply with a court order, to cooperate with police investigations or other legal proceedings.
+==========
+Mergers and Acquisitions.
+If we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your information will likely be among the assets transferred.
+==========
+You will be notified by a prominent notice on this Platform Privacy Policy of any such change in ownership or control of your data.
+Disclosed and Other Purposes.
+We may use information for any purposes disclosed to you at the time we collect such information or as otherwise stated in this Platform Privacy Policy.
+Legal Bases for Processing Personal Data
+If you are using a Device from the European Economic Area (“EEA”), our legal basis for processing your information will vary depending on the information concerned and the specific context in which we collect or use it.
+==========
+Legitimate Interests.
+Most of the time, we rely on legitimate interests to collect information from you except where your data protection interests or fundamental rights and freedoms override our legitimate interests.
+For example, it is in our legitimate interests to use your information to provide and maintain the core functionalities of this Site, improve our Site, ensure it is error-free and process personal data for administrative, fraud detection, and other legal purposes.
+==========
+Consent.
+There may be times that we may rely on your consent to use certain types of information for specific purposes.
+This consent may be obtained in any methods in compliance with applicable laws.
+==========
+Legal Obligations.
+In some cases, we may require use of your data to fulfill a legal obligation.
+==========
+If you have any questions about or need further information regarding the legal basis on which we process specific information, please contact us here privacy@deepintent.com.
+Sharing User Information
+We share your information that we collect in the following cases:
+Vendors.
+==========
+We may share your information with outside companies and consultants to help conduct various aspects of our business so that we can maintain and run the Platform (“Vendor(s)”):
+Technical and development support for purposes of maintenance and improvement of the Platform and Services;
+Functionality and performance support for purposes of providing Clients with access to ad targeting controls;
+External and internal communications support for purposes of providing you with responding to your inquiries and discussing any technical, security or other issues internally; and
+Third-party services that provide us with infrastructure for the purpose of providing us with software, networking, storage, and other related technology required to run our Platform.
+DeepIntent Affiliates.
+We share your information with our affiliates, subsidiaries, and parent companies to use for the purposes described in this Platform Privacy Policy.
+==========
+Mergers and Acquisitions.
+We may share your information in connection with a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, to a third-party buyer.
+==========
+Legal Obligations.
+We may share your information with law enforcement, regulatory authorities, courts with competent jurisdictions, emergency services or other necessary third parties when legally required to do so, to comply with a court order, to cooperate with police investigations, or for other legal proceedings.
+==========
+Your Choices and Controls
+You have various options to opt-out of receiving targeted advertising that our Clients may conduct via our Platform.
+Note that different devices require separate opt-outs because each Device type uses different technologies.
+==========
+EEA User Consent: If you are physically located in the EEA and visiting a Partner Property using the IAB Europe Transparency and Consent Framework (“Consent Framework”), the Partner Property will provide you with an option to choose which third parties you wish to allow access to your device and information.
+Desktop-Based Opt-Out Mechanism: If you wish to opt-out of interest-based advertising provided by DeepIntent through the Partner Properties (when our Clients show you more relevant ads based on your inferred interests), you may use our website’s opt-out tool here.
+You may visit www.aboutads.info to learn more about targeted advertising and how to opt-out of this type of advertising by companies participating in various advertising networks.
+==========
+Because DeepIntent adheres to Digital Advertising Alliance’s (“DAA”) Self-Regulatory Principles, you can opt-out of targeted advertising by participating companies (including DeepIntent) at: aboutads.info/choices/.
+You may also opt-out of targeted advertising from DeepIntent and/or other advertising networks that are also members of applicable self-regulatory organizations by visiting their opt-out links below:
+Network Advertising Initiative – networkadvertising.org/choices
+Digital Advertising Alliance Canada (DAAC) – youradchoices.ca/choices
+Digital Advertising Alliance EU (EDAA) – youronlinechoices.com 
+Mobile App-Based Opt-Out Mechanism: You may opt-out of targeted advertising provided by DeepIntent by downloading and using the “AppChoices” mobile application, which you can download to your mobile device from your mobile phone’s app store or via the Digital Advertising Alliance App Choices page here.
+Please note that electing to opt-out will not stop advertising from appearing on your device.
+==========
+The ads you see will simply be less relevant to your interests.
+When you opt out, we record the opt-out on our servers and on cookies in the browser of your Device, and DeepIntent will no longer serve you targeted ads on that browser on such Device.
+If you configure your browser to reject certain cookies, the opt-out may not function properly.
+If you change browsers or Devices, or delete cookies, you may need to opt-out again to stop receiving targeted ads.
+==========
+Retention of Information
+We only keep your personal data as long as it is necessary for the purposes set forth in this Platform Privacy Policy (such as for legitimate business purposes and as permitted by applicable law).
+The cookies we set on our browser or Connected Device expire within two (2) years after collection.
+==========
+We retain all other information, such as your IP address and other information described above, for up to 366 days before we anonymize and/or aggregate except where we need to keep any information to comply with our legal obligations, resolve disputes or enforce agreements.
+When we no longer need any collected information, it is deleted, anonymized, and/or aggregated.
+==========
+Where We Store and Process Your Information
+If you are a user based in the EEA, you should be aware that the information we collect and receive or permit Third Parties (such as Vendors) to process may be transferred to, stored and/or processed outside of your country of residence and in any country or territory where one or more of our affiliates, subsidiaries, parent companies, or Vendors (“Related Companies”) are located, including in the United States.
+Such information will also be processed by personnel operating outside the EEA who work for us or for one of our Related Companies.
+We rely on multiple legal bases to lawfully transfer personal data around the world.
+These include your consent and model contractual clauses created by the European Commission which require certain privacy and security protections.
+A sample copy of such agreements is available on request.
+==========
+Security
+We have implemented industry-standard technical and organizational security measures to protect your information from unauthorized access and improper use.
+From time to time, we review our security procedures to consider appropriate new technology and methods.
+Please be aware though, that, despite our reasonable efforts, no security measures are impenetrable, though we take all reasonable precautions to protect against security incidents.
+==========
+Your Personal Data Rights in the EEA
+If you are in the EEA, you have certain rights the collection, processing, and use of information classified as “personal data” according to applicable data privacy laws in the EEA.
+If you would like further information in relation to these rights or would like to exercise them, please contact us using the contact details below at any time.
+==========
+You have the right to request that we:
+Provide Access to any personal data we hold about you;
+Correct any personal data about you which is out of date or incorrect;
+Erase any personal data which we are holding about you in certain circumstances except where we have a right to retain such data to comply with legal obligations by European or Member State law or we have an overriding interest to retain such data;You may also opt-out of target advertising from DeepIntent and other advertising networks that are also members of applicable self-regulatory organizations by visiting their opt-out links below:
+Consider Valid Objections or Restrictions of the way we use of your personal data, including for direct-marketing purposes, as applicable;
+Transmit your personal data to a third-party provider of service but only to the extent applicable; and
+Withdraw Your Consent in cases where we rely on your consent to process your personal data (please see the section on Your Choices and Controls above).
+You do not need a valid reason for withdrawal in such cases, and you may withdraw your consent at any time.
+==========
+We will consider all such requests and provide our response within a commercially reasonable period (and in any event within any time-period required by applicable law).
+Keep in mind that certain personal data may be exempt from such requests in certain circumstances.
+==========
+If an exception applies, we will inform you of this when responding to your request.
+Additionally, we may request that you provide us with information necessary to confirm your identity before responding to any request you make.
+Your Data Rights as a California Resident
+Delete your personal information;
+Provide access to categories of personal information which we have collected about you;
+Provide access to specific pieces of personal information which we have collected about you; and
+Opt-out of the sale of your personal information.
+You also have the right to be free from discrimination as a result of exercising these rights.
+==========
+If you wish to submit such a request, please click here.
+We will need to verify your identity before responding to your requests.
+California Users who wish to opt out of the sale of their personal information can click here.
+==========
+We will need to verify your identity before responding to your requests.
+If you are a California resident, you may designate an authorized agent to make a request to access or a request to delete on your behalf.
+We will respond to your authorized agent’s request if they submit proof that they are registered with the California Secretary of State to be able to act on your behalf, or submit evidence you have provided them with power of attorney pursuant to California Probate Code section 4000 to 4465.
+We may deny requests from authorized agents who do not submit proof that they have been authorized by you to act on their behalf, or are unable to verify their identity within two (2) business days of submitting a request.
+==========
+California “Shine the Light” Rights.
+In addition, California Civil Code Section 1798 entitles California Users to request information concerning whether a business has disclosed personal information to any third parties for the third parties’ direct marketing purposes.
+We will not sell or share your personal information with non-affiliated companies for their direct marketing purposes without your consent.
+California Users who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us by email at privacy@deepintent.com.
+==========
+Data Protection Officer
+Users who are in the EEA have access to a designated Data Protection Officer (“DPO”) who is responsible for ensuring that your privacy rights are respected and to review and oversee how we collect and use your personal data.
+The DPO can be reached by contacting privacy@deepintent.com.
+==========
+Children’s Privacy
+DeepIntent does not direct ads via the Platform to children under the age of 16 years old or knowingly collect information from children under the age of 16 years old.
+Changes to this Policy
+If we change our privacy practices, we will post those changes to this Platform Privacy Policy or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances if any, we disclose it.
+We reserve the right to change this Platform Privacy Policy at any time, so please review it frequently.
+If we make material changes to this Platform Privacy Policy, we will notify you here prior to the change becoming effective.
+You can tell when this Platform Privacy Policy has been last updated by checking the date at the bottom.
+==========
+How to Contact Us
+If you have questions or complaints regarding our privacy policy or practices, you may contact us using the following details:
+For EEA Users: privacy@deepintent.com
+‍
+For Users Outside of the EEA:
+‍
+DeepIntent, Inc.
+ATTN: Privacy Compliance
+1450 Broadway, Floor 23
+New York,  NY 10018
+contact@deepintent.com
+EEA Users also have the right to raise a complaint to our supervisory body for data protection matters or another supervisory authority.
+You can contact the Information Commissioner’s Office via any means provided here.
+==========
+LAST UPDATED: March 2, 2021
+This site uses cookies to improve your browsing experience and analyze its traffic.
+You hereby consent to our use of cookies if you continue to use this site.
+Learn MoreACCEPT
+==========

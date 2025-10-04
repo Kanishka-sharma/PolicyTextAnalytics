@@ -1,0 +1,272 @@
+Sift Science Terms of Service
+Last updated: July 15, 2013
+
+PLEASE VERY CAREFULLY READ THESE TERMS AND CONDITIONS (INCLUDING REFERENCED MATERIALS) BEFORE REGISTERING FOR THE SERVICES.
+BEFORE CONNECTING YOUR WEBSITE WITH OR OTHERWISE ENABLING ANY OF THE FEATURES OF THE SERVICES, YOU MUST ENSURE THAT YOU ABIDE BY AND MAKE AVAILABLE AN APPROPRIATE PRIVACY POLICY THAT  CLEARLY DISCLOSES YOUR USE OF THE SERVICES.
+==========
+Thanks for your interest in our data analytics services (the "Services")!
+By using our Services, you agree to comply with these terms and conditions ("Terms").
+==========
+These Terms are a legal contract between you (either an individual or a legal entity that you represent as an authorized employee or agent) ("you" or "Licensee") and Sift Science, Inc. ("Sift," or "we").
+BY CLICKING "I AGREE," ACCESSING, BROWSING, REGISTERING FOR, OR USING THE SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ AND AGREE TO BE BOUND BY THESE TERMS.
+Subject to your compliance with all terms and conditions herein, Sift grants you  permission to use the Services as set forth in these Terms, until terminated in accordance with these Terms (such period the "Term").
+1.
+Data
+
+By accessing our Services, you represent that you have all necessary authority, permissions, and approvals to (a) connect each of the websites (the "Sites") that you connect with the Services, and (b) register for and use the Services, including without limitation, providing and enabling Sift to collect all the information submitted or made available by you and the end users, customers, or other users or visitors to a Site (each an "End User") in connection with the Services (the "Data").
+2.
+==========
+Privacy and Compliance
+
+
+Your Privacy Policies.
+Each Site must include an appropriate clearly labelled and easily accessible privacy policy that (i) provides End Users with clear and comprehensive information about cookies, device-specific information, location information, and other information stored on, accessed on, or collected from End Users' devices in connection with the Services, and (ii) includes, as applicable, information about End Users' options for cookie management.
+You will use commercially reasonable efforts to ensure that an End User gives consent to the storing and accessing of cookies, device-specific  information, location information, or other information on the End User's device in connection with the Services, where such consent is required by law.
+==========
+Sift's Client Privacy Notice.
+You will comply with all procedures required by Sift, including ensuring that your End Users are made aware of and agree to Sift's data collection, use, and disclosure practices described in Sift's Client Privacy Notice, available at https://siftscience.com/client-privacy, which Sift may update from time to time as provided therein.
+3.
+==========
+Registration
+
+
+Username and Password.
+Certain features of the Services require registering for and being signed into an account.
+==========
+You are solely responsible for maintaining the confidentiality of your account access credentials (user name, password, etc.) and API keys.
+If you suspect or have reason  to believe that your account or API keys are no longer secure, you must immediately notify Sift.
+You are liable for any losses incurred as a result of any  unauthorized use of your account for the Services.
+==========
+Accuracy.
+Please keep your contact information up to date so Sift can ensure you receive timely notices that may be important to you  and your continued use of the Services.
+You must provide and maintain true, accurate, and complete information as requested by Sift in connection with your registration for and use of the Services.
+Sift will have no liability for failure to deliver notices that result from inaccurate, incomplete, or out of date account information.
+4.
+==========
+The Services
+
+
+Your Rights to the Services.
+Subject to your continued compliance with these Terms, including your payment of any and all applicable  fees, Sift grants you permission during the Term to access and use the Services solely for your internal business purpose of analyzing End User activity
+
+and making decisions related to End User transactions.
+You acknowledge and understand that we do not give any assurances that any particular activity or transaction does or does not constitute fraud or misuse of the Site.
+==========
+Implementation.
+You agree to implement the Services on each Site in accordance with any documentation or instructions provided by Sift, and to ensure that the Services, including the API, are implemented in compliance with all requirements from Sift.
+You are solely responsible for all
+
+engineering resources required for such implementation.
+==========
+API License Grant to You.
+Subject to your compliance with these Terms and solely during the Term, Sift hereby grants you a non-exclusive, worldwide, non-transferable, non-sublicensable license to make calls from each Site to the API solely using the API key issued to you, and
+
+solely to enable data interchange between each Site and the Services.
+5.
+General Prohibitions
+You agree not to, and the rights granted under this agreement, including any licenses, are provided subject to the condition that you agree not to do or attempt (or request that any third party do or attempt) any of the following during or in connection with your (or their) use of or access to the Services:
+
+
+use any information, analytics, or information made available to you through the Services for any purpose other than evaluating whether or not to complete an applicable transaction or other End User request to the Site;
+
+
+knowingly or intentionally fail to implement the API completely or properly, including for the purpose of avoiding or reducing amounts payable hereunder;
+
+
+submit any Data or other information to the Services that is false, incomplete, out of date, or misleading, or fail to update information or Data that  has become the same;
+
+
+fail to protect any API key, Fraud Score, password, or other access credentials issued to you by Sift from third party access or use;
+
+
+circumvent or attempt to circumvent any access or use restrictions, data encryption, or content protection related to the Services, including accessing any undocumented API or access or use of any API other than in strict compliance with the Documentation;
+
+
+Engage in spidering, "screen scraping," "database scraping," harvesting of e-mail addresses, wireless addresses, content available through the Services,  other contact or personal information, or any other automatic means of obtaining lists of users or other information from or through the Services,  including without limitation any information residing on any server or database connected to the Services;
+
+
+Copy, modify or distribute the computer code used to generate web pages on the Services, except to the extent such restriction is impermissible under applicable Law;
+
+
+Access, tamper with, or use non-public areas of the Services, Sift's computer systems, or the technical delivery systems of Sift's providers;
+
+
+Probe, scan or test the vulnerability of any system or network or breach any security or authentication measures;
+
+
+Access or search the Services with any engine, software, tool, agent, device or mechanism other than the software and/or search agents provided by Sift or other generally available third party web browsers;
+
+
+Send unsolicited email, bulk email, junk mail, "spam" or chain letters, or promotions or advertisements for products or services, including without limitation those which are designed to promote, directly or indirectly, a product or Services with which you have a business relationship or other commercial connection;
+
+
+In any way use the Services to send altered, deceptive or false source-identifying information;
+
+
+Decipher, decompile, disassemble or reverse engineer any of the software used to provide the Services, except to the extent such restriction is impermissible under applicable Law;
+
+
+Benchmark, test capacity or limitations of, interfere with, or attempt to interfere with, the access of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming or mail-bombing the Service;
+
+
+Use the Services in violation of Sift's or any third party's intellectual property or other proprietary or legal rights; or
+
+
+Use the Services in violation of any applicable Law.
+6.
+==========
+Data and Analytics
+
+
+Ownership, License to, and use of Data.
+All Data is, as between you and Sift, your property.
+You hereby grant to Sift and its successors and assigns a worldwide, nonexclusive, royalty free, fully paid, transferable, sublicensable, perpetual, irrevocable license to copy, use, reproduce, access, modify, compile, analyze, and create derivative works of the Data in connection with operating the Services, both for you and Sift's
+other customers, subject to the confidentiality provisions of these Terms.
+You represent and warrant that Sift's use of the Data in connection with the
+Services complies with each of your Sites' privacy policies, and will not violate any applicable Laws, your agreements with third parties, or any other
+applicable privacy policies.
+Upon 180 days' prior written notice from you to Sift, Sift will use commercially reasonable efforts to delete the raw Data
+provided by you to Sift during a specified time period, but excluding any analysis or derivative data thereof.
+At no time will Sift be obligated to send
+the Data to you.
+Ownership of Analytical Results and the Services.
+You acknowledge and agree that all results or analyses generated by Sift through or
+in connection with the use of Data, whether alone or in combination with data from other sources (the "Analytical Results") are and will
+be owned by Sift.
+Sift agrees not to distribute or publish any Analytical Results, or any Data contained therein or upon which such Analytical Results are
+based, in a manner that renders you readily ascertainable as a source of such Analytical Results, except as specifically authorized by you in writing.
+For
+any Analytical Results that are provided to you as part of the Services, Sift hereby grants to you a limited, non-exclusive right and license to use the
+Analytical Results for your own internal business purposes (excluding any use of such Analytical Results on behalf of any third party or in any service
+bureau activity or capacity).
+==========
+Rights to the Services.
+Your rights with respect to the Services are limited to those rights expressly granted in these Terms.
+You
+acknowledge and agree that Sift and its licensors own all right, title, and interest in and to the Services, including all intellectual property rights
+therein.
+The Services are protected by copyright, trademark, trade secret, and other laws of both the United States and other countries.
+==========
+Except as
+expressly permitted in these Terms, you may not reproduce, modify, or prepare derivative works based upon, distribute, sell, transfer, publicly display,
+publicly perform, transmit, or otherwise use or exploit any portion of the Services, including without limitation any information provided through the
+Services.
+Except for licenses and other rights expressly granted in these Terms, each party retains all right, title and interest in and to text, graphic
+images or any other images, trade names, and trademarks, their systems, software and other intellectual property ("Intellectual Property
+"), and these Terms shall not be otherwise construed to restrict, impair, transfer, convey or otherwise deprive the providing party of any of its rights or
+proprietary interests thereof.
+7.
+==========
+Fees and Payment
+Sift charges fees as explained on our site at https://siftscience.com/pricing.
+We will invoice you monthly, and you must pay within 30 days of the date of the invoice.
+If we do not receive payment of an invoice within 30 days, we may suspend your access to the  Services.
+All payments must be in U.S. dollars, and you are responsible for all applicable taxes or other governmental charges.
+Sift may modify its fees, and any such modification will apply beginning in the month following publication or other notice of the change.
+8.
+Feedback
+If you provide feedback to Sift concerning the functionality and performance of the Services or Sift's business ("Feedback"), you hereby grant to Sift and its successors and assigns an unlimited, worldwide, nonexclusive, royalty free, fully paid, transferable, sublicensable license to  reproduce, disclose, sublicense, distribute, modify and otherwise use such Feedback without restriction.
+9.
+==========
+Confidentiality
+You and Sift acknowledge that Sift may have access to Data submitted or made available by you, and that you may have access to valuable and proprietary information, including information relating to the Services, passwords, API Keys, and Sift's technology, systems, methodologies, software, business, customers, pricing, and other non-public information (together with Data, "Confidential Information").
+Confidential Information excludes any information which (i) is or was publicly known and made generally available in the public domain through no action or inaction of the receiving party;  (ii) is already in the possession of the receiving party at the time of disclosure by the disclosing party, and if received by the receiving party from a third party, without a breach of such third party's obligations of confidentiality; or (iii) is independently developed by the receiving party without use  of or reference to the disclosing party's Confidential Information.
+Both parties agree not to use or disclose the other party's Confidential Information for any purpose not expressly authorized by these Terms, except (i) when compelled under applicable Law, after providing prior written notice to the disclosing party (if permitted by applicable Law), or (ii) to a third party providing services to the receiving party and pursuant to written obligations of confidentiality no less protective of the Confidential Information than these Terms .
+Either party may seek an injunction to prevent any breach or continued breach of this Confidentiality section, in addition to any other remedies that may be available at law or at equity.
+10.
+==========
+Privacy
+Sift's Client Privacy Policy (available at siftscience.com/client-privacy is hereby incorporated into these Terms by reference.
+By accepting these Terms, you confirm that you have read, understood and accepted this policy.
+11.
+==========
+Term and Termination
+If you violate these Terms, your permission to use the Services will automatically terminate.
+You also agree that Sift may at any time, and without notice to you, terminate your right to access and use all or any part of the Services, and any account(s) you may have in connection with the Services for any reason or no reason at all.
+Sift will have no liability whatsoever for and may at any time change, modify, update, remove, or add features to the Services  or suspend or revoke your access to or use of all or part of the Services.
+You may terminate these Terms and your account at any time by contacting customer service at support@siftscience.com; however, any termination of these Terms will not relieve you of any current or future obligation to pay any  fees or other costs owed by you to Sift under these Terms.
+The provisions of Sections 7-11, 13, and 15-17 will survive termination, except that all license rights granted by Sift to you under these Terms do not survive termination.
+12.
+==========
+Notifications; Modification of Terms
+Sift may modify these Terms and/or its Client Privacy Policy at any time by publishing the modified version or by emailing you a copy.
+Please check these  Terms periodically for changes.
+==========
+By continuing to access or use the Services after Sift has published or emailed any such modifications, you agree to be bound by the modified Terms and Client Privacy Policy (as applicable), but solely on a going forward basis.
+Material changes to these Terms will become effective, on a going forward basis, thirty (30) days after they are published or emailed to you.
+13.
+==========
+Indemnity
+
+
+Your indemnity.
+You will defend (if requested by Sift) and indemnify and hold harmless Sift, its affiliates and licensors, and each of their respective employees, officers, directors, consultants, affiliates, subsidiaries, agents and contractors (collectively, the "Sift Entities") from and against any and all damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees)  arising from any actual or threatened claim, demand, proceeding, audit, inquiry, or investigation by any person or entity (including without limitation any U.S. or other governmental body or agency) related to (a) your actual or alleged access to or use of the Services (including all activities under your  account), (b) your breach or noncompliance with these Terms, applicable Laws, and your obligations to any third parties, (c) your failure to provide
+sufficient notice to or obtain necessary consent from any third party in connection with your use of the Services and configuration and integration with  the APIs in order to make Data available to Sift, and (d) your violation, misappropriation, or infringement of any third party right, including without limitation, any intellectual property, moral, publicity, confidentiality, property, or privacy right.
+Procedure for Indemnification.
+The indemnifying party will not settle any indemnified matter that requires any admission of wrongdoing  or any obligation other than the payment of money that is your obligation to pay without the indemnified party's prior written consent.
+The indemnified party reserves the right, at the indemnified party's own expense, to assume the exclusive defense and control of any matter otherwise subject to  indemnification by the indemnifying party, and in such case, the indemnifying party agrees to cooperate with the indemnified party's defense of such claim.
+14.
+==========
+The Services are Provided "AS-IS"
+THE SERVICES AND ANY DATA, FRAUD SCORES, AND ANALYTICAL RESULTS ARE PROVIDED "AS IS" ON AN "AS AVAILABLE" BASIS, WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+DATA AND ANALYTICAL RESULTS MAY BE DAMAGED OR LOST IN CONNECTION WITH USE OF THE SERVICES, AND SIFT EXPRESSLY  DISCLAIMS THE ACCURACY OF ANY RISK SCORES OR OTHER ANALYTICAL RESULTS PROVIDED THROUGH THE SERVICES, OR ANY PARTICULAR RESULT OF THE USE OF THE SERVICES, INCLUDING ANY ENHANCED ABILITY TO PREVENT OR ADDRESS FRAUDULENT ACTIVITY ON ANY SITE.
+SIFT EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT, TITLE, NON-INFRINGEMENT, AND  ACCURACY.
+==========
+SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES IN SOME CIRCUMSTANCES.
+ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO LICENSEE.
+15.
+==========
+Limitation of Liability
+THE TOTAL LIABILITY OF THE SIFT ENTITIES ARISING OUT OF OR RELATED TO THIS AGREEMENT WILL NOT EXCEED THE FEES ACTUALLY PAID BY YOU TO SIFT HEREUNDER DURING  THE SIX MONTH PERIOD PRECEDING THE EVENT GIVING RISE TO ANY CLAIM.
+IN NO EVENT WILL THE SIFT ENTITIES HAVE LIABILITY FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATIONS, LOSS OF PROFITS OR USE), WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE),  STATUTE OR ANY OTHER LEGAL THEORY, EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
+SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY IN CERTAIN CIRCUMSTANCES, SUCH AS WILLFUL MISCONDUCT OR GROSS NEGLIGENCE.
+ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY TO LICENSEE.
+16.
+==========
+Applicable Laws and Dispute Resolution
+Sift operates the Services from Sift's offices in the State of California, and your access or use of any aspect of the Services from or in any territory where it is illegal is prohibited.
+Unless otherwise explicitly stated, all materials found on the Services are solely directed to individuals, companies or other entities located in the United States.
+==========
+Governing Law.
+These Terms are governed in all respects by the laws of the State of California without reference to conflict of law provisions.
+You agree that any claim or dispute you may have against Sift will be exclusively resolved by a court located in Santa Clara County, California  and you agree to and hereby submit to the personal and exclusive jurisdiction of the courts located within Santa Clara County, California for the purpose of litigating all such claims or disputes.
+Time Limitation.
+Unless otherwise required by Law, an action or proceeding by you relating to any Claim must commence within one year after the cause of action accrues.
+17.
+==========
+General
+
+
+Entire Agreement.
+These Terms, together with the Client Privacy Policy are the entire and exclusive understanding between you and Sift  relating to the subject matter hereof, and supersede any and all prior agreements and understandings between the parties, whether oral or in writing  (including without limitation any separately executed confidentiality agreement).
+==========
+Assignment.
+You may not assign these Terms, directly or indirectly, by operation of law, merger, change of control, or otherwise, without the prior written consent of Sift.
+Any assignment in violation of this section shall be null and void.
+==========
+Sift may assign this agreement without restriction.
+Subject to the foregoing, these Terms will inure to the benefit of and be binding upon the parties and their respective successor and permitted assigns.
+==========
+Waiver, severability, force majeure, and headings.
+The waiver by either party of any default or breach of these Terms will not  constitute a waiver of any other or subsequent default or breach.
+If any part of these Terms is held to be invalid or unenforceable, the unenforceable part
+
+will be given effect to the greatest extent possible and the remaining parts will remain in full force and effect.
+Neither party will be liable to the  other on account of any loss or damage resulting from any failure or delay to perform all or any part of these Terms if such delay or failure is caused, in whole or in part, by circumstances beyond the control and without negligence of the other party.
+Headings are used in these Terms for reference only and will not be considered when interpreting these Terms.
+==========
+Independent contractors.
+The relationship between the parties will be that of independent contractors, and these Terms will not create  or be deemed to create any agency, partnership, or joint venture between the parties.
+==========
+Age and prior suspension.
+By enrolling in the Services, you represent that (a) if you are acting as an individual, you are at least 18 years of age, and (b) you or any individual acting on behalf of you has not previously been suspended or removed from the Services by Sift
+
+
+Compliance with Laws.
+==========
+You will comply with all applicable local, state, national, and international laws, rules and regulations, including, without limitation, those governing the collection, transmission, processing, and disclosure of personal information (altogether, "Laws") in your use of and integration with the Services and the performance of your obligations under these Terms.
+If at any time you are unable to comply with any Law or the other obligations set forth in these Terms, you must immediately (a) disable all API connections between each Site and the Services, (b) notify Sift in writing of your inability to comply with these requirements, and (c) suspend all use of the Services until such time that you are able to comply with Laws and all other obligations set forth in these Terms.
+18.
+Contact Information
+If you have any questions regarding these Terms or the Services, please contact Sift Science at   support@siftscience.com.
+==========

@@ -1,0 +1,382 @@
+Last Updated: May 22, 2018
+X-Mode Inc., a U.S. company with its headquarters at 45662 Terminal Drive, Dulles VA, 20164 (“X-Mode” “we,” “us,” and “our”), provides mobile advertising and data services to mobile application publishers (“Publishers”) and advertisers (“Advertisers”).
+This privacy policy (“Privacy Policy”) describes how we collect, use, store, and share information about two sets of people (referred to as “you,” “your,” and “yourself”): (a) visitors to our website located at www.X-Mode.io and any other website on which this Privacy Policy is posted (collectively, the “Site”), and (b) end users (“End Users”) of third-party mobile applications (“Apps”) that use the Services.
+The Privacy Policy also describes certain choices you have regarding use, access to and correction of your information.
+1.
+==========
+Background:  X-Mode’s Services and Data Collection
+X-Mode is a data aggregation and management platform that primarily focuses on the curation and use of precise location data to help a variety of organizations develop insights about aggregated human traffic patterns.
+The information we provide, for instance, helps marketers and advertisers learn about their potential audiences and customers, and helps research organizations form insights for financial, market research, traffic and city planning, smart cities, educational or epidemiological purposes.
+We receive most of this location information either from an “SDK” that we provide to Apps, or (less often) from a server-to-server transfer and integration with mobile app partners.
+(Please see Section 2 for more information about SDKs.)
+==========
+We then provide the information in various forms to a variety of marketing and research companies that are interesting in inferences drawn from human location and traffic patterns.
+We refer to these services, products and insights – as well as the SDKs and other technology we use to collect information – as our “Services.”
+2.
+==========
+The Information We Collect For the Services
+
+We (and many of our clients and their own service providers) use or operate mobile SDKs (including our own SDK(s) in order to collect information, such as mobile identifiers (e.g., iOS IDFAs and Android Advertising IDs), location information (as we describe below) and other information related to how mobile devices of various types (“Devices”) and their users interact with mobile advertising services and data platforms.
+We (like others in the mobile advertising industry) provide our own SDK to Publishers to help them monetize their App and in many cases to provide significant amounts of free media, games, and other mobile services and activities.
+We don’t always obtain information through our SDK – sometimes we receive information through other interfaces, called “APIs,” that connect to mobile applications and services – but most of the time we do collect information we use through our SDK (or sometimes, a business partner’s SDK).
+An SDK (which stands for “software development kit”) is a string of computer code that Publishers can include in their apps to the collection of data, often related (as in our case) to the mobile advertising and data industry.
+enable ads to be shown, data to be collected, and related services to be implemented.
+Publishers can embed our SDK into their Apps in order to enhance their ability to show ads in their Apps, to target more relevant ads in their Apps, to analyze how well ads perform in their Apps (or to help or allow advertisers to do that), and to work with us to monetize their App content in other ways we describe in this Privacy Policy.
+==========
+(If you would like to opt out from having ads tailored to you in this way on your mobile device, please follow the instructions in Section 6 below, entitled “Consumer Choices and Opt-Out
+Options.”)
+When you use an App that uses our Services (such as whose developer has licensed our SDK) the developer of the App may allow us to collect certain information (at limited intervals) about the Device, in particular:
+
+Location Data.
+This includes (a) Geolocation of the Device (if location services  are enabled on the Device) and (b) dwell time near points of interest.
+We refer to this as “Location Data.”
+This is usually expressed by latitude-longitude coordinates obtained through GPS features of our SDK, WiFi data, cell tower triangulation or other techniques.
+Unique Device identifiers for advertising (Google Advertiser ID or IDFA).
+We refer to these as “Device IDs.”
+==========
+Time and date information.
+Event information about your Device, such as crashes, system activity, and hardware settings.
+System configuration information.
+==========
+We sometimes collect or receive in most cases hashed email addresses (or other pseudonymous identifiers associated with those hashes), but in a few cases clear text emails that are voluntarily provided by Consumers, this applies globally except in the EU where we do not collect clear text emails.
+We automatically collect usage information that does not identify an individual user (“Usage Data”).
+For example, when you download and use the Services on a mobile device, we automatically collect information such as your device type, operating system version and type, certain device settings, device time zone, device carrier, current IP address, applications installed on the device, and platform-specific advertising identifiers.
+We may also collect location information, such as your device GPS coordinates, unless you configure your device operating system settings to prevent our collection of location information.
+Additionally, each time you use the Site we automatically collect the type of web browser you use, your operating system, your Internet Service Provider, your IP address, the pages you view, and the time and duration of your visits to the Site.
+We use this information to enhance the services we offer, provide targeted advertising, and to help us understand how people use the Site and Services.
+==========
+We may on occasion use, or work with business partners who use, near field communication (NFC), Bluetooth LE sensors, or Bluetooth low-energy (BLE) beacon technology to send us signals about a Device’s location.
+We also may sometimes collect Device location data from third-party devices present at certain third-party locations, such as stores, shopping malls, stadiums, bars, restaurants, and other points of interest.
+This location data may be used for powering solutions in smart cities, fin-tech, real estate or advertising.
+(If you are interested in how we collect, use and share information about our own customers and visitors to our corporate website, please go to Section 5.)
+3.
+==========
+How We Use the Information We Collect and Receive in Our
+Services
+
+We generally use the information that we collect from Apps, SDKs and APIs for purposes of providing the Services, including as follows:
+
+Inferences from Aggregated Data.
+We often use the information we collect to make inferences about human location and traffic patterns.
+For instance, we might notice aggregations of Devices at certain types of locations or venues over time, like concerts, soccer or baseball stadiums, cafes or gyms, and we might use these observations in our products.
+We curate these insights into data products.
+We may append other fields such as venue name, category, dwell timed or ticker symbols to an aggregate group of device IDs to build consumer profiles or to make financial based decisions such as trading on the stock market based off our aggregate panel.
+IDs.”
+==========
+Interest-Based Segments and Ad Targeting.
+Sometimes, we use these observations to categorize Device users into “interest segments” that marketers we work with (and license information to) can use to send ads to users when those users appear on their own mobile platforms.
+By using interest segments, marketers are more likely to be able to send an offer that a consumer is more likely to want and less likely to find annoying.
+==========
+Aggregated
+Traffic Patterns and Research.
+We also share the information we receive with other marketing and research companies (including advertising platforms), who use the information to provide similar services.
+This helps these companies to better predict and draw insights about consumer, market or scientific trends related to human movement patterns.
+This same information may also be licensed to real estate, city planners or smarn t city companies and augmented with fields to create more specific segments.
+For example if an ggregate group of devices drive vs walk to determine whether to put a bus stop in an area or not or to understand the flow of traffic overtime to determine whether to purchase or not purchase a piece of real estate.
+==========
+Attribution.
+We use some of the information we collect (including location information and Device IDs) to help advertisers analyze aggregate ad performance – such as by measuring whether or how Devices that saw a particular ad tended to engage with a particular product;  this is sometimes called “attribution” analysis.
+For instance, if numerous Devices were sent an ad or offer for “X-Mode Pizza” on Tuesday, and the Device “traffic” at X-Mode Pizza on Wednesday or Thursday was particularly high, an advertiser might conclude that the ad campaign was successful.
+==========
+Publisher
+Insights.
+Sometimes, we help the Publishers that we work with understand more about the users of their own Apps – using the same types of interest segments we have described above.
+The above is not an exhaustive description of all of the ways the information we collect may be used:  we may, for instance, sometimes customize uses of the information we have for certain customers.
+But the above does describe the types of information that we collect, how we generally collect it, and what our company focuses on.
+==========
+We provide more descriptions of those Services on our website, and we encourage you to review those descriptions.
+If you are interested in how we collect, use and share information about our own customers and visitors to our corporate website, please go to Section 5.
+4.
+==========
+How We Share the Information We Use and Collect In the Course of Our
+Services 
+
+We share the information we collect and receive both in order to operate our platform (such as with service providers), and in order to support the operations of our customers.
+Below is a more detailed list of how we share the information that we collect:
+We may disclose information about you:
+    
+
+With Our Customers: We share
+information, including interest segments, Device IDs and Location Data with our
+customers, which may include brands, data platforms, online advertising
+networks, and companies that perform research about consumer behavior or human
+traffic patterns.
+With our service providers: We contract with companies who help us
+with our business operations (for example, website and data hosting, fraud
+prevention, verification and reporting, data hygiene, marketing, and email
+delivery), as well as billing, collections, tech, customer and operational
+support.
+With service providers to
+our customers:   Our customers may contract with
+companies who handle data (such as managing Customers proprietary data,
+including Device IDs).
+==========
+With our subsidiaries and
+related companies:  We currently do not have subsidiaries
+or corporate affiliates, but if we do we may share any information that we hold
+with them.
+We will also provide any
+information that we hold to any entity that purchases x-Mode or all or substantially
+all of our stock or assets.
+In connection with legal
+proceedings or process:  When we are under a legal obligation to do so, for example to comply with a binding order of a court, or where disclosure is necessary to exercise, establish or defend the legal rights of X-Mode, our customers or any other third party or to satisfy in good faith any applicable law, legal process.
+We likewise may disclose any information in response to a proper governmental request, a subpoena (whether civil or criminal) or similar process.
+==========
+To Investigate Wrongdoing
+and Protect Ourselves or Third Parties.
+To enforce our rights and Terms of Service or other policies, or to investigate any potential violation of those Terms and policies, any potential violation of the law, or to protect ourselves, our customers, or any third party from any potential harm (whether tangible or intangible).
+In connection with a sale
+of our business:   If
+a third party acquires some or all of our business or assets, we may disclose
+your information in connection with the sale (including during due diligence in
+preparation for the sale).
+We also may share hashed email addresses (or other pseudonymous identifiers associated with those hashes), technical data that we collect about your browsing habits and your device (such as data relating to our cookies, tracking pixels and similar technologies) with other advertising companies in the digital advertising ecosystem.
+This enables them and our customers to better target ads to you.
+==========
+(If you are interested in how we collect, use and share information about our own customers and visitors to our corporate website, please go to Section 5.)
+5.
+Information For Visitors of the X-Mode Website  
+
+X-Mode, and service providers and vendors we work with, also collect information from visitors (“Visitors”) to our corporate website(s), including any website on which this Privacy Policy is posted (collective, the “Site”).
+This information includes information voluntarily and directly provided by Visitors, and information passively collected through automated means such as cookies and web pixels.
+a.
+==========
+The information we collect from these Visitors to the Site.
+We collect voluntarily submitted information.
+This includes information such as your name, address, phone number, and email address, if you provide it to us.
+For instance, you might provide us this information to register for an event, information about our services, or to set up an account on our system (in which case you might provide additional information to us, such as about your employer or in some cases, your payment information.
+==========
+Other Information is collected automatically from your device or
+browser.
+We also collect device or browser-based information from your desktop computer, laptop, mobile phone, tablet, or other consumer electronic device that you use to access the Site.
+This may include technical information about your Device (such as the Device type, operating system, settings and system configurations, IP address, Device ID and other unique Device identifiers, and mobile network information) and your activity using the X-Mode Site (such as data about the webpages you access, traffic to and from websites, the dates and times associated with transactions, web log data, and other event information, including crashes and system activity).
+We sometimes use this information for our internal, analytics purposes, such as to understand what products and services Visitors may be interested in, which pages of our Site are most (and least) popular, and to help us understand how people interact with our Site in other ways.
+If you have provided your personal contact information to us (such as your email address), we may combine this information with the above information, such as to understand how better to serve you.
+==========
+We or Others May Place Cookies.
+We and our service providers may place cookies on our Visitors browsers.
+Cookies are small data files that have unique identifiers and reside on your browser files.
+Among other things, cookies help us improve and personalize your use of the X-Mode Site.
+==========
+We may permit certain third parties to place cookies through the Site to provide us with better insights into the use of the Site and user demographics and to provide relevant advertising to you.
+Using cookies, these third parties, such as online advertising platforms, may collect information about your online activities over time and across different websites, including when you use the Site.
+For instance, if we visit a page on our website that describes our services, we might “retarget” (through a third party advertising platform) with an ad for our services when you are on another website.
+You may opt out of this type of retargeting and other types of
+interest-based advertising by exercising the opt-out choices described in
+Section 6.
+==========
+Another example of how we use cookies is that we use Google
+Analytics to analyze usage patterns for the X-Mode Site.
+Google Analytics generates a cookie to
+capture information about your use of the Site that Google uses to compile
+reports on website activity for us and to provide other related services.
+Google
+may use all or a portion of your IP address to identify its cookie and for its
+commercial purposes.
+==========
+Web Beacons.
+Web beacons or “pixels”
+are electronic images that may be used on the Site or in emails we send to you.
+We use web beacons to deliver cookies, count visits, understand usage and
+effectiveness of offers, and tell whether you open an email and act upon it.
+b.
+==========
+How We Use the Above Information.
+In addition to the purposes described above, we may use the information collected on our Sites to do the following:
+
+Create and manage your unique user account.
+Provide services to you.
+Respond to and communicate with you (including regarding news and updates about our services).
+Send you offers and ads for our products and services, when you browse the website(s) or other companies’ websites on the Internet.
+Perform data analyses (including market research).
+We may combine the Information with other information we obtain from third parties, publicly available sources, and any other product or service we provide to further improve the relevance and effectiveness of products, and advertisements offered, including (but not limited to), those provided on or through our services.
+==========
+We may use IP addresses to help diagnose problems with our servers and to administer our website(s).
+We also may use IP addresses to help identify visitors to our website(s)for the duration of a session and to gather demographic information about our visitors.
+We may use clickstream data to determine how much time visitors spend on each web page of our website(s), how visitors navigate through thewebsite(s), and how we may tailor our website(s)to better meet the needs of our visitors.
+We also use the Information for compliance with our legal obligations, policies and procedures, including the enforcement of our Terms and Conditions.
+c.
+==========
+How We Share the Information We Collect Through the
+Site.
+In addition to the purposes described above, We sometimes share or otherwise disclose the Information we collect about you, as described in this Privacy Policy or otherwise disclosed to you when you provide us with the information, including as follows:
+
+We may share the Information with service providers who help us deliver the services you request or we provide, including vendors who may provide services regarding billing and collections, marketing, hosting, tech and customer support, data enhancement, and anti-fraud and security.
+We may share the Information to communicate with you and market to you, including through email, direct mail or display media.
+==========
+We will disclose information about you if we believe in good faith that we are required to do so by law, regulation or other government authority or to protect the rights, safety or property of ourselves or any person or entity.
+We may also cooperate with law enforcement agencies in any official investigation and we may disclose any Information to the requesting agency in doing so.
+If we or all or substantially all of our assets, are purchased by another company (such as in a merger, consolidation, restructuring, the sale of stock and/or assets, or other corporate change or financing transaction), the Information in our possession will likely be transferred to the successor entity.
+We also may share the Information during the course of any due diligence process.
+6.
+Consumer Choices and Opt-Out Options
+
+There are several ways that you can manage the way that passively collected data, such as Device IDs and cookies, are used.
+==========
+We describe these methods below.
+You can manage certain collection and sharing of information in connection with the X-Mode Site and the Services as follows:
+
+Browser Settings.
+You may control how your browser responds to cookies by adjusting the
+privacy and security settings of your web browser.
+==========
+Interest-Based Advertising
+Opt-Out.
+You can opt-out of information collected for web-based interest-based
+advertising (for instance, by tailoring ads based on activities tracked across
+websites, over time), by those companies that participate in the Network
+Advertising Initiative or the Digital Advertising Alliance, by visiting the NAI’s
+opt-out page or the DAA’s Consumer Choice
+Page.
+EEA and Swiss residents, please refer to www.youronlinechoices.com.
+The “opt out” methods on these industry web
+portals generally are cookie-based, so if you delete your cookies (or change or
+update your browser) you will need to opt out again.
+We provide the above information because --
+although our services are not focused on cookie-based advertising -- we may
+work with companies to target ads for our own services (such as to retarget
+Visitors of our own website).
+==========
+In
+addition, some third party platforms may employ our Information to connect user
+identities across devices – such as to inferentially “match” a mobile device by
+common IP address to a web browser.
+Device-based Opt Out (For Cross-App Advertising).
+You may
+limit the disclosure of certain Information by your mobile device to us and
+Publishers by adjusting the settings on your mobile Device.
+For iOS mobile devices,
+go to “Settings” from your Device’s home screen; scroll down to “Privacy”;
+select “Advertising”; and turn on “Limit Ad Tracking.”
+For Android mobile devices,
+go to “Google Settings” on your device; select “Ads”; and check the box labeled
+“Opt Out of Interest-Based Ads.”
+We
+honor these “limit” or “opt out” instructions or “flags” by removing recognized
+devices from our cross-app advertising or ad delivery and reporting solutions,
+on a going forward basis.
+==========
+Our Promotional Emails.
+You may
+opt not to receive promotional emails from us by contacting us as indicated be
+low or by following the “unsubscribe” instructions in any promotional email you
+receive from us, or by contacting us at privacy@xmodesocial.com.
+Please note, however,
+that we may still send you non-promotional, transactional or service-related
+emails about your relationship with us.
+We also may share hashed email addresses (or other pseudonymous identifiers associated with those hashes), technical data that we collect about your browsing habits and your device (such as data relating to our cookies, tracking pixels and similar technologies) with other advertising companies in the digital advertising ecosystem.
+==========
+This enables them and our customers to better target ads to you.
+(If you are interested in how we collect, use and share information about our own customers and visitors to our corporate website, please go to Section 5.)
+7.
+==========
+Security
+We employ administrative, technical, and physical safeguards for our physical facilities and in our computer systems, databases, and communications networks, which are designed to protect information contained within our systems from loss or wrongful acquisition.
+However, no method of electronic transmission or storage is 100% secure.
+Therefore, we do not guarantee absolute security of your Information.
+If you have any questions about the security of your information, please contact us through the contact information listed in
+      Section
+11.
+8.
+==========
+International Transfers
+We may store and process your Information in the European Union and the United States.
+By accessing this website or our Services, you understand that information you provide to us may be stored in or (if applicable) transferred to the United States.
+You should be aware that certain privacy laws in the United States and the other countries regarding processing the information may be less stringent than in your country.
+9.
+==========
+The EU  (GDPR) 
+As of May 25, 2018, a new data privacy law known as the EU General Data Protection Regulation (or the “GDPR”) will be in effect through the EEA countries and Switzerland.
+The GDPR requires X-Mode and those using our services to provide users with certain information about the processing of their “Personal Data.”
+“Personal Data” is a term used in Europe that means, generally, data that identifies or can identify a particular unique user or device – for instance, names, addresses, cookie identifiers, mobile device identifiers, precise location data and biometric data.
+To comply with the GDPR, we provide the below representations and information, which are specific to persons located in EEA countries or Switzerland (so please don’t rely on the below, if you’re not):
+
+a. Legal grounds for
+processing your Personal Data
+
+
+The GDPR requires us to tell you about the legal basis we’re relying on to process any Personal Data about you.
+The legal basis for us processing your Personal Data for the purposes set out in Sections 2 and 3 above (and Section 5 as to our corporate customer data) will typically be because: 
+
+You provided your
+consent.
+In order to provide our services that involve use of precise location information related to other Personal Data, (and to store and gain access to information stored on your device such as Device IDs), we rely on your consent.
+==========
+To obtain this consent, we rely on our own compliance steps and our web and mobile partners’ compliance steps, designed to ensure that consent is collected and passed on to partners, and to ensure that we only facilitate the collection of legally obtained data.
+We may choose to obtain consent in other cases as well, in which case we will adhere to applicable laws relating to such consent and its withdrawal.
+We also seek to obtain consent for certain partners with whom we work, who are often independent data controllers.
+We list these partners in our List of Partners, below.
+==========
+The processing is in
+our legitimate interest.
+In some cases, we use legitimate interest as a legal basis for processing Personal Data.
+We rely on legitimate interest when we use Personal Data to maintain the security of our services, such as to detect fraud or to ensure that bugs are detected and fixed.
+==========
+We also rely on legitimate interest when we use our own customers’ data (or Visitors’ data) to communicate with them about our Services  or analyse our own Site activity.
+Contractual
+Relationships.
+Sometimes, we process certain data as necessary under a contractual relationship we have (such as our customer records and contact information);
+Legal Obligations.
+Finally, some processing of data may be necessary for us to comply with our legal or regulatory obligations.
+==========
+b. Transfers of Personal Data
+When we transfer Personal Data outside of the EEA or Switzerland, we take steps to make sure that appropriate safeguards are in place to protect your Personal Data.
+In general, our data transfers of our Personal Data are safeguarded by European Standard Contractual Clauses and Data Processing Agreements where this is required by European Data Protection Law.
+Feel free to contact us at the contact information below for more information about the safeguards we have put in place to protect your Personal Data and privacy rights in these circumstances.
+As X-Mode works with global companies and technologies, we may need to transfer your Personal Data outside of the country from which it was originally provided.
+For instance, we may transfer your data to third parties that we work with who may be located in jurisdictions outside the EEA or Switzerland, and which have no data protection laws or laws that are less strict compared with those in Europe.
+==========
+c. Personal
+Data Retention
+As a general matter, we retain your Personal Data for as long as necessary to provide our Services, or for other important purposes such as complying with legal obligations, resolving disputes, and enforcing our agreements.
+We generally retain Device IDs on the following schedule: we render Device IDs inactive for purposes of providing our services within 13 months from receipt of consent (or from any “refreshed” consent permitting us to continue to retain information), provided that we may retain data for longer periods, as needed, where we have fully de-identified such data in a manner so that it cannot be linked to Personal Data.
+Please note that we may retain this (and other) Information whenever and so long as we have a significant legal or operational need to do so, such as for auditing, corporate record-keeping, compliance accounting or security and bug-prevention purposes.
+If you are a customer of ours and thus have an account with us, we will typically retain your Personal Data for as long as required in order to serve the purpose for which it was collected, such as to provide you relevant information about our products and services.
+==========
+d. Your Rights as a Data Subject
+
+The GDPR provides you with certain rights in respect of Personal Data that data controllers hold about you, including certain rights to access Personal Data, to request correction of the Personal Data, to request to restrict or delete Personal Data, and to object to our processing of your Personal Data (including profiling for online ad targeting).
+Right to Access:  If you wish to exercise your right to access Personal Data we process as a data controller, you may do so by requesting access through the e-mail address privacy@xmodesocial.com.
+When we receive your request, we will provide you with current, step-by-step instructions to follow in order to obtain access.
+==========
+As we are required to verify a requestor’s identity prior to providing Personal Data, we will assess requests to exercise certain data access rights on a case-by-case basis:  in doing so, we consider (a) the difficulty of verifying whether data that we hold and data we have linked to it truly and solely belongs to the data subject making the request, along with (b) the potential adverse affects on disclosure of personal data to the wrong individual.
+Because such improper disclosure would likely adversely affect the privacy rights and freedoms of the data subject, we may limit the Personal Data we make available.
+Please note that we will only grant requests for access for Personal Data for which we are a data controller, as explained further in sub-section (e) below.
+Where we act as a processor for one of our customers, we will refer your request to that customer.
+Please identify the customer your request refers to (if possible), to simplify this process.
+==========
+Right to Correct: If you wish to exercise your right to correct Personal Data, you may do so by contacting us at the contact information below.
+Right to Object to Processing or to Withdraw
+Consent:   By using the device-based “opt-out” signals described in Section 6 of this Privacy Policy, you may withdraw consent for processing on which we rely on consent.
+If you do so, we will cease processing your Personal Data for purposes of our services within 30 days or less.
+We either collect these opt-out signals ourselves or receive them from the mobile apps we work with.
+==========
+Right to Erasure.
+You also have the right to obtain the erasure of Personal Data concerning you that we hold as a controller.
+The above opt-out process satisfies this right.
+==========
+When a user opts-out through our partners (or through mobile device settings), and we receive this signal, we no longer use Personal Data to provide our advertising services.
+We will also manually delete your Personal Data if prefer that we do so; please contact us and email your device to privacy@xmodesocial.com for further instructions if you wish to exercise this right manually.
+Please note, however, that we may retain copies of certain Personal Data on inactive or back-up files, for our certain important internal and purposes, such as auditing, accounting and billing, legal or bug-detection, for as long as is necessary to fulfill those purposes.
+==========
+Right to Lodge Complaints.
+You have the right to lodge a complaint with a
+supervisory authority.
+However, we hope
+that you will first consult with us, so that we may work with you to resolve
+any complaint or concern you might have.
+==========
+e. X-Mode as a data controller and a data processor
+EU data protection law makes a distinction between organisations that process Personal Data for their own purposes (known as “data controllers”) and organisations that process Personal Data on behalf of other organisations (known as “data processors”).
+As noted above, we are not always a data controller of the data in our possession, but are sometimes a data processor for other companies such as our customers.
+In such cases, we may direct your inquiry to the relevant data controller, since data controllers are the ones with primary responsibility for your Personal Data.
+10.
+==========
+Changes to
+Privacy Policy  
+If we make material changes to this Privacy Policy that may impact you, we will prominently post notice of the change on our website for a period of at least 30 days prior to the change becoming effective.
+We recommend that you check the Privacy Policy frequently so that you are informed of any changes.
+11.
+Contact Us 
+If you have any questions about this Privacy Policy or how we use information, or if you seek to exercise any of the rights outlined in Section 9, please contact us at: ‍privacy@xmodesocial.com  orX-Mode, Inc, Privacy Officer, 45662 Terminal Drive, Dulles VA, 20164, Suite #200.
+==========

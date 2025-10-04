@@ -1,0 +1,184 @@
+PRIVACY POLICY
+Effective date: May 4, 2021
+PubWise takes the privacy and protection of personal information very seriously.
+This policy states what information we collect, how we use that information, and what choices we offer you to access, update, and control it.
+==========
+By using the PubWise services, you agree to the terms of the privacy policy.
+This Privacy Policy may be modified at any time without notice by posting the modified policy here.
+By continuing to use the services, you agree to be bound by any modifications to this Privacy Policy.
+The Short Version
+All information will only be used as this Privacy Policy describes.
+==========
+We collect non-identifying information through your use of the PubWise services, navigation to sites using the services, and cookies.
+The only personal information we collect is what you specifically provide to us.
+Information You Submit
+Our registration process requires you to provide a valid email address and username and password, among other information.
+We may also request additional optional information.
+==========
+When you contact us by sending us an email, we will collect any information that is contained in your email.
+We may receive Personal Information about you from other sources like telephone or fax, or from third parties that provide services for us in connection with the PubWise Services.
+We may add this information to the information we have already collected from you via the PubWise Services.
+Information We Gather Electronically
+Information we get from the use of PubWise services is primarily non-identifying information such as the type of browser or computer operating system you use, approximate location and IP address (“Non-identifying Information”).
+In addition, we may store small files on your computer’s hard drive, such as a “cookie” or similar type of file to be used in conjunction with the PubWise services.
+With respect to Publishers, we may collect Information about Content you add to your PubWise enabled pages, including track and target your readers interests and categorize the types of content you make available.
+We use this Non-identifying Information internally to operate and improve the PubWise service and for advertising purposes.
+We use third-party advertising companies and ad servers to serve ads when you visit content from PubWise clients.
+These companies may use cookies and aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you.
+Each individual site’s Privacy Policy can be reviewed on their site.
+If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp.
+==========
+PubWise partners with the following data processors.
+There may be additional partners beyond this list.
+If we facilitate working with a partner you have a direct relationship with, they will have their own privacy policy.
+==========
+152 Media
+33Across
+AccessiBe
+Consumable
+Conversant
+DistrictM
+Google
+Index Exchange
+LiveRamp
+Magnite/Rubicon
+Media.net
+OpenX
+Pubmatic
+Pulsepoint
+Smart Ad Server
+Sovrn
+Teads
+TripleLift
+ucfunnel
+Undertone
+Unruly/RhythmOne
+Xander/Appnexus
+  Other Third Party Services
+Google Analytics API
+- PubWise’s use of information received from Google APIs will adhere to the Google API Terms of Service.
+- By agreeing to our Privacy Policy you hereby certify that you have read and agreed to Google’s Privacy Policy.
+- You may opt-in to authorize the use of your Google Analytics data via the Google Analytics API.
+==========
+- Access required is read only level.
+- You may remove this access from PubWise by navigating to the Third Party section on the PubWise Admin site and clicking the X button to delete the account connection.
+==========
+You may also revoke access via the Google Security Settings Page.
+- An RPM report on your Payment Detail page is generated with Daily Pageviews pulled from your Google Analytics View that you configure.
+==========
+This data is not saved, it is only retrieved for the report and calculated.
+This is the only use of Google Analytics data.
+- Google Analytics daily pageview data is not stored in any way.
+It is only pulled directly from the Google Analytics API to calculate the report when you load the RPM report.
+==========
+- The only data about your Google Analytics stored is the necessary authentication information when you authenticate the account and the Account, Property and View information to configure the specific set of Google Analytics data you want to compare against your PubWise data.
+- No Google User data is shared.
+Google Ad Manager
+- PubWise’s use of information received from Google APIs will adhere to the Google API Terms of Service.
+- By agreeing to our Privacy Policy you hereby certify that you have read and agreed to Google’s Privacy Policy.
+==========
+- You may opt-in to authorize the use of your Google Ad Manager account in order to implement PubWise services.
+This authorization is required to fully implement the PubWise Managed Wrapper Service.
+- Authorized Google Ad Manager accounts are used to create and manage Ad Units and Line Items and reporting to provide the PubWise services.
+- Access required is manage level.
+- You may remove this access from PubWise by navigating to the Third Party section on the PubWise Admin site.
+You may also revoke access via Google Security Settings Page.
+==========
+Use of Information
+Personal Information you submit to us and our Partners, is used to register you for the Services, to operate and maintain the Services, to respond to requests that you make, to send promotional and administrative communications, and to improve the PubWise Services.
+Any Personally Identifying or Non-identifying Information (hereinafter collectively referred to as “Information”) we gather, whether voluntarily provided by you or automatically collected, may be used for our internal business and marketing purposes.
+We may use the Information to send you newsletters.
+We do not sell or otherwise disclose such Information to third parties except as necessary to achieve the purpose for which the Information was submitted or collected, to comply with the law, law enforcement agencies, or legal process served on PubWise, or if we believe, in good faith, that such disclosure is necessary to defend our rights, property, or to respond to an emergency situation.
+We may create Anonymous Information records from Personal Information by excluding information (such as your name or email address) that makes the information personally identifiable to you.
+==========
+We may use Anonymous Information to analyze usage patterns so that we may enhance the PubWise Services and present more relevant advertising to users.
+We reserve the right to use and disclose Anonymous Information to third parties at our discretion.
+==========
+Security
+PubWise has reasonable security measures in place to protect the Personally Identifying Information you submit to us, once it is received, but we cannot be responsible for the security of information in transit.
+We have taken careful measures to prevent the loss, misuse, and alteration of your Personally Identifying Information.
+Once we receive your Personally Identifying Information that was entered into our Services, it is stored behind a firewall.
+Your Personally Identifying Information is only accessible to employees, officers, or agents of PubWise who need it in order to perform their jobs.
+==========
+When you communicate with PubWise by e-mail, however, your communication is not necessarily secure from interception and is subject to all of the risks of electronic communication.
+PubWise does not guarantee the security or confidentiality of transmissions.
+PubWise reserves the right to update or otherwise alter our security practices if and when it deems appropriate.
+==========
+Disclosure of Information
+Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share the Personal Information that we collect with third parties, unless you ask or authorize us to do so.
+We may provide your Personal Information to third party service providers who work on behalf of or with us to provide some of the services and features of the PubWise Services and to help us communicate with you.
+Examples of such services include sending email, analyzing data, providing marketing assistance, processing payments (including credit card payments), and providing customer service.
+However, these service providers do not have any independent right to share this information (except pursuant to a legal requirement such as a subpoena or warrant).
+==========
+We share Anonymous Information with our partners, advertisers, and other third parties at our discretion.
+For example, we may share Anonymous Information related to a specific Cookie to enable advertisers or ad servers to display relevant ads, based on the Content, search terms, and demographic profile viewed in connection with that Cookie.
+==========
+We may share some or all of your Personal Information with our parent company, subsidiaries, joint ventures or other companies under a common control (“Affiliates”), in which case we will require our Affiliates to honor this Privacy Policy.
+In the event PubWise goes through a business transition such as a merger, acquisition by another company, or sale of all or a portion of its assets, your Personal Information will likely be among the assets transferred.
+You acknowledge that such transfers may occur, and that any acquirer of PubWise or its assets may continue to process your Personal Information as set forth in this Privacy Policy.
+==========
+General Data Protection Regulation (GDPR)
+All EU citizens have additional rights under the GDPR.
+We take GDPR seriously and will process any GDPR requests without undue delay.
+Email all GDPR related requests to privacy@pubwise.io.
+Include necessary information to identify the requested action and data subject as defined by the GDPR at https://gdpr-info.eu/
+Certain data is required to use our service.
+==========
+We track IP addresses for fraud and abuse prevention.
+Username, Handle and Email are required for account creation.
+Under the GDPR our legal basis for this collection is legitimate interest due to the requirement of processing this data to provide our services for login, user accounts, etc.
+We store session IDs in cookies and localStorage on your local device.
+==========
+You can contact us at any time to:
+- Request information that PubWise, LLLP has about you.
+- Correct any information that PubWise, LLLP.
+has about you.
+- Delete information that PubWise, LLLP has about you.
+==========
+You have the following rights under the GDPR:
+- Right to be informed
+- Right of access
+- Right of rectification
+- Right to erasure
+- Right to restrict data processing
+- Right to data portability
+- Right to object
+- Rights of automated decision-making and profiling
+California Consumer Privacy Act of 2018 (CCPA)
+All California residents have certain rights under the CCPA.
+We take CCPA seriously and will process any CCPR requests without undue delay.
+Email all CCPA related requests to privacy@pubwise.io.
+==========
+Include necessary information to identify the requested action and data subject as defined by the GCCPA https://oag.ca.gov/privacy/ccpa
+You may make a verifiable request that we disclose the categories of personal information we have collected about you, the categories of sources of the personal information we collected about you, the business or commercial purpose for collecting or selling the personal information, the categories of third parties with whom we share your personal information, our use of the personal information and if the personal information was disclosed or sold to third parties, including the categories of personal information sold or disclosed.
+You also have the right to make a verifiable request for a copy of the personal information collected about you for the twelve (12) months prior to the date of your request.
+To see any categories of personal information we have sold in the last twelve (12) months, please refer to the section listed above detailing the information we send to our partners.
+==========
+Deletion Request Rights
+Complete the transaction for which we collected the personal information, provide a good or service that you requested, take actions reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform our contract with you.You have the right to request that PubWise delete any of your personal information that we collected from you and retained, subject to certain exceptions.
+We may deny your deletion request if retaining the personal information is necessary for us or our service provider(s) to:
+Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities.
+Debug products to identify and repair errors that impair existing intended functionality.
+==========
+Exercise free speech, ensure the right of another consumer to exercise their free speech rights, or exercise another right provided for by law.
+Comply with the California Electronic Communications Privacy Act (Cal.
+Penal Code § 1546 et.
+seq.).
+==========
+Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the information’s deletion may likely render impossible or seriously impair the research’s achievement, if you previously provided informed consent.
+Enable solely internal uses that are reasonably aligned with consumer expectations based on your relationship with us.
+==========
+Comply with a legal obligation.
+Make other internal and lawful uses of that information that are compatible with the context in which you provided it.
+==========
+Privacy of Minors
+We do not knowingly collect or maintain Personal Information from those who are under 13 years old.
+Contact Information
+If you are concerned about the Personally Identifying Information you have provided to us, or would like to review, update or delete such Personally Identifying Information, please contact PubWise.
+We will make reasonable efforts to comply with your request.
+If you have any questions about this Privacy Policy, the practices of the Services, or your dealings with PubWise, please feel free to contact PubWise at the following address:
+6000 Lake Forrest Dr.
+Suite 315
+Atlanta, GA 30328
+Or feel free to contact PubWise at the following e-mail address: Support@PubWise.io
+==========

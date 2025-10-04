@@ -1,0 +1,113 @@
+Securely configure tor without browser
+Hey i am using tor socks proxy antorher program.
+(ex.
+python requests) I'm start tor.exe with command line.
+I had a .
+==========
+bat file like this.
+"C:\Users\xxxxx\Tor Browser\Browser\TorBrowser\Tor\tor.exe" -f ...
+asked Mar 27 at 15:44
+How is a site able to track you?
+==========
+Hypothetically, say there is a certain site that you access by using the incognito mode on Chrome and through a VPN.
+What tools might a site have to identify that you've been there before if your IP ...
+asked Mar 21 at 2:27
+How do you regain your privacy?
+==========
+[closed]
+my sister know my ip, default gateway, dhcp server, dns and more.
+She has a degree in computer science and i think this is how she monitor my internet traffic Ive tryed ip and mac address and didnt ...
+asked Mar 11 at 15:36
+My sister hack my computer [closed]
+my computer was hack by my sister.
+==========
+She all but told me with her constant comment about thing she could only know by have access to my computer or internet traffic(I tryed to confront her but she just ...
+asked Mar 9 at 14:22
+Blur part of an image in Word 2013 [duplicate]
+Is there a way to blur a portion of an image in Word 2013?
+I have screenshots with sensitive data (SSN, age, etc.) and would like to retain the fidelity of the images but pixelate/blur the parts of ...
+asked Mar 1 at 14:46
+Firefox's search suggestion settings
+Firefox has two settings for search suggestions.
+One checkbox called "Provide search suggestions" and one called "Show search suggestions in location bar results".
+==========
+When both are checked, it will show ...
+asked Feb 26 at 9:41
+How can I monitor which data an iOS transmits over WiFi?
+I use a third party keyboard which has suggestions and the developer claims – on his website – that it stores everything locally on the device, but there is no word on this matter in app description ...
+asked Feb 24 at 16:10
+Prevent Chrome from discovering my Google account
+I use Chrome and have all the privacy settings to the max.
+I never signed in to Chrome or made any type of Chrome account.
+For privacy, I avoid being signed in to Google unless I need to; then I ...
+asked Feb 11 at 22:45
+Problem with Firefox browser about user privacy
+Every time I use my firefox browser to visit sites like this I end up with multi redirection popups on every single click.
+==========
+however, I solved the problem accidentally by visiting the previous site ...
+asked Feb 7 at 8:27
+Is Connectify safe?
+I am using Connectify.
+==========
+However, I am not sure whether the hotspot is safe to connect or not.
+Will Connectify information (such as password, message etc.) from whatever devices connected to the ...
+asked Jan 17 at 14:55
+Can .
+==========
+xsession-errors be cleared while KDE is running?
+In general, I like the ability to see the log messages in .
+xsession-errors, and possibly attach them to automated bug reports.
+==========
+But sometimes this file contains sensitive data that I would like to ...
+asked Dec 15 '15 at 21:43
+Chrome, recover history in incognito before tab closing
+as many articles here said, google chrome removes history in incognito mode only when last incognito table is closed.
+So from this comes my question, is here posibility to access this history (when ...
+asked Dec 15 '15 at 14:17
+Implementing irssi IRC Anonymity
+I'm looking to connect to an IRC server that I do not trust with any of my information, including my IP.
+In the past I have connected through a web client over Tor but it has become unreliable.
+==========
+My ...
+asked Dec 4 '15 at 3:07
+Ways OpenDNS could be bypassed
+Operating System: Windows 10 Pro Hello everyone, I'm having an issue regarding some ways that people could possibly bypass OpenDNS's software.
+I am testing ways of which this can happen, in order ...
+asked Nov 13 '15 at 2:05
+Tor, i2p good extensions for browser, improve usage
+I need some information about TOR / i2p.
+The thing is: my use is totally for privacy.
+For freedom.
+==========
+And I know that some stuff can deanonymize the user of the onion network, such as Flash or Java ...
+asked Oct 19 '15 at 7:51
+Windows Update secretly installed Windows Store app
+This folder, filled with 25 .3mf files, showed up suddenly and without my consent: According to file/folder properties, the folder and its files were created on 16 September 2015: The file ...
+asked Oct 9 '15 at 10:24
+Can wifi admin see viber messages
+Can a wifi admin can see viber messages?
+And how far or detailed can a wifi admin see, like pictures sent through viber?
+==========
+asked Sep 16 '15 at 12:10
+Privacy in Microsoft Windows [duplicate]
+Windows 10 sends information to Microsoft.
+Microsoft is also updating Windows 7 and Windows 8 to do the same (telemetry updates, ...).
+==========
+I want to prevent Windows (7/8/10) from automatically ...
+asked Sep 14 '15 at 3:07
+Removing metadata with PowerPoint 2011
+I'm looking for a solution to remove metadata from .
+PPTX files on Mac with PowerPoint 2011.
+On Windows, there is a Microsoft utility called Document Inspector.
+Does anyone know of anything similar on ...
+asked Sep 3 '15 at 2:09
+How to get rid of my personal details from AdChoices?
+==========
+I've visited some random page for the first time and to my surprise my personal previously posted advert on Gumtree (not specifically the one below) appeared in the public advert.
+I would like to ...
+asked Aug 17 '15 at 21:23
+No-ip alongside tor
+Is there a way to resolve Dynamic DNS with Tor so that I can connect to my computer who is behind a NAT ?
+Do I have to enable the "no-ip" service on my router or do I have to make a port forward ?
+asked Aug 2 '15 at 19:08
+==========

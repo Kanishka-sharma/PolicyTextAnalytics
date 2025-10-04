@@ -1,0 +1,26 @@
+W3C Workshop on Languages for Privacy Policy Negotiation and Semantics-Driven Enforcement
+14 December 2006: A W3C Privacy Workshop Report recommending next steps for keeping privacy promises when exchanging sensitive information on the Web is now available.
+In October 2006, privacy and access control experts from America, Australia, Asia and Europe met to study Web privacy issues and solutions.
+Please read the press release about the results of the W3C Workshop on Languages for Privacy Policy Negotiation and Semantics-Driven Enforcement, hosted by the Joint Research Center of the European Commission.
+==========
+(News archive)
+P3P Work suspended
+13 November 2006: After a successful Last Call, the P3P Working Group decided to publish the P3P 1.1 Specification as a Working Group Note to give P3P 1.1 a provisionally final state.
+The P3P Specification Working Group took this step as there was insufficient support from current Browser implementers for the implementation of P3P 1.1.
+The P3P 1.1 Working Group Note contains all changes from the P3P 1.1 Last Call.
+The Group thinks that P3P 1.1 is now ready for implementation.
+It is not excluded that W3C will push P3P 1.1 until Recommendation if there is sufficient support for implementation.
+On the other hand, P3P keeps being the basis of a number of research directions in the area of privacy world wide.
+One might cite the PRIME Project as well as the Policy aware Web.
+Many other approaches also follow the descriptive metadata approach started by P3P.
+Such projects are invited to send email to <rigo@w3.org> to be listed here.
+==========
+W3C - Event on P3P and Enterprise Privacy Languages
+9 September 2003: This Event took place to give attendees of the 25th International Conference of Data Protection and Privacy Commissioners and all other interested parties the occasion to have a tutorial/introduction to P3P from inside of W3C, to get some update about new developments and challenges for privacy enhanced technologies in the sector of web services and mobile applications ….
+W3C Workshop on the long term Future of P3P
+19-20 June 2003: The workshop discussed future applications of P3P and Enterprise Privacy Languages to get feedback on what additional specifications or coordination efforts might be necessary to support them.
+It discussed technology and policy considerations at the same time, e.g the use of TCG technology to enforce privacy obligations into corporations ….
+W3C Workshop on the Future of P3P
+12 - 13 November 2002: The workshop in Dulles/Virginia paved the road for the works undertaken in P3P 1.1.
+The reasons for most of the changes from P3P 1.0 can be discoverd in the Workshop-Report.
+==========

@@ -1,0 +1,130 @@
+Last Revised: July 8, 2014
+PLEASE READ THIS TAPATALK API TERMS OF SERVICE ("AGREEMENT") CAREFULLY BEFORE USING OR ACCESSING TAPATALK, INC.'S ("TAPATALK" OR "WE" OR "US") API.
+BY USING OR ACCESSING THE API (AS DEFINED BELOW), YOU AGREE TO THE TERMS OF THIS AGREEMENT.
+==========
+IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THIS AGREEMENT, IN WHICH CASE THE TERMS "YOU" OR "YOUR" SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES.
+IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THIS AGREEMENT, YOU MUST NOT ACCESS OR USE THE API.
+YOU AGREE THAT TAPATALK MAY MODIFY THIS AGREEMENT FROM TIME TO TIME AND SUCH MODIFICATION SHALL BE EFFECTIVE THIRTY (30) DAYS AFTER POSTING NOTICE OF THE CHANGES TO THE TAPATALK API DOCUMENTATION AVAILABLE AT https://tapatalk.com/api.php OR OTHERWISE NOTIFYING YOU OF SUCH MODIFICATIONS.
+==========
+TAPATALK MAY, IN ITS SOLE DISCRETION, REQUIRE YOU TO PROVIDE CONSENT TO SUCH MODIFICATIONS BEFORE FURTHER USE OF THE API IS PERMITTED.
+OTHERWISE, YOUR CONTINUED USE OF OR ACCCESS TO THE API SHALL CONSTITUTE YOUR ACCEPTANCE OF THE AMENDED AGREEMENT.
+==========
+IF YOU DO NOT AGREE TO THE MODIFICATIONS, YOU MUST CEASE YOUR USE OF OR ACCESS TO THE API.
+RECITALS
+Tapatalk is the operator of a website available at Tapatalk.com (the "Tapatalk Site") that contains information and resources related to the creation of web-based forums (each, a "Tapatalk Forum") that interact with a Tapatalk mobile application (the "Tapatalk App").
+Tapatalk has developed an application programming interface for Tapatalk Forums ("API"), currently available at https://tapatalk.com/api.php, that allows its licensees to integrate certain Tapatalk services, including but not limited to interoperability with the Tapatalk App (the "Tapatalk Services") into their Tapatalk Forums.
+You have a Tapatalk Forum and wish to enhance it by accessing the Tapatalk Services using the API.
+Subject to your compliance with this Agreement and documentation provided for the API ("API Documentation"), we wish to provide You with limited access to the API for use with Your Tapatalk Forum.
+==========
+AGREEMENT
+
+1.
+Licensed Uses and Restrictions.
+1.1 License Grant.
+==========
+Subject to the terms of this Agreement, the specifications set forth in the API Documentation, and Section 1.2 below, we grant You a limited, non-exclusive, worldwide, non-assignable or transferable (except in conjunction with a permitted assignment of this Agreement) and non-sublicenseable license to solely to use the API to allow Your Tapatalk Forum to access any Tapatalk Services that Tapatalk makes available to licensees.
+1.2 Restrictions.
+You agree not to:
+a. Use Our name or trademarks to endorse or promote any product or service without Our prior written permission;
+b. Use the API or Tapatalk Services for any unauthorized or otherwise improper, in our sole discretion, purposes, or in any manner that would violate this Agreement, any law, or regulation;
+c. Remove any legal, copyright, trademark or other proprietary rights notices contained in or on the Tapatalk Services;
+d. Sell, lease, share, transfer, or sublicense use of or access to the API;
+e. Use the API (including any usage or storage of any content or information provided by Taptalk through the API) in a manner that, as determined by Us in Our sole discretion, fails to comply or is inconsistent with any part of the API Documentation; 
+f. Use the API as a part of or in furtherance of a product or service that competes with products or services offered by Us or otherwise use the API for any purpose other than facilitating interoperability with the Tapatalk Services (including use of the API to facilitate interoperability with other mobile applications or services); 
+g. Separately extract and provide or otherwise use data elements from the API or the content or information provided by the API to enhance the data files of third parties; 
+h. Use any means to disguise or obscure the origin of any requests to the API;
+i. Attempt to circumvent any security measures or technical limitations of the API or otherwise exploit any defects in the API; 
+j. Modify, decompile, extend, subset or superset the API or otherwise alter the API to any extent;
+k. modify, create derivative works of, reverse engineer, decompile, decrypt, or disassemble the Tapatalk Site, Tapatalk Services, API, or any technology thereof, except and only to the extent any foregoing restriction is prohibited by applicable law.
+2.
+==========
+Ownership and Relationship of parties.
+2.1 Ownership.
+==========
+We, or our suppliers, own all rights, title and interest in and to the Tapatalk Site, the Tapatalk Services, the API, and to all output and executables of the API.
+Except for the license granted in Section 1, this Agreement grants You no right, title or interest in any intellectual property owned or licensed by Us, including (but not limited to ) the Tapatalk Site, the Tapatalk Services, the API, and Our trademarks.
+You agree to abide by all applicable laws and regulations, as well as any additional copyright notices or restrictions contained in this Agreement or accompanying the Tapatalk Site, the Tapatalk Services, or the API Documentation.
+==========
+2.2 Powered by Tapatalk.
+If Your Tapatalk Forum displays or otherwise uses the API, You agree to include a "Powered by Tapatalk" logo, in the form provided to You as a part of the API Documentation, alongside the results.
+The logo must be clickable, with a link to the Tapatalk Site.
+==========
+2.3 Brand Features.
+We grant You a limited, non-exclusive license during the Term (defined below) to Our display trade names, trademarks, service marks, logos and domain names (collectively, "Brand Features") to promote or advertise Your use of the API and the Tapatalk Services in accordance with this section as approved in writing in advance of any such use.
+You agree, however, not to display Our Brand Features in any way that is misleading, defamatory, infringing, libelous, disparaging, obscene, or otherwise objectionable to Tapatalk or its suppliers.
+==========
+2.4 Marketing.
+We may publicly refer to You and/or Your Tapatalk Forum, orally or in writing, as an API licensee of Tapatalk and We may publish Your name and/or logo on the Tapatalk Site or promotional materials without prior written consent.
+==========
+You shall provide and support promotional and publicity activities, including providing (i) quote approval for press releases, (ii) spokesperson response to media requests; and (iii) occasional screenshots as requested.
+Any description of our relationship must be agreed in writing by Tapatalk prior to any public release.
+3.
+==========
+Support.
+Tapatalk is under no obligation to provide you with support or maintenance services, but We may provide You with support or modifications to the API in Our sole discretion.
+We may terminate the provision of such support or modifications to You at any time without notice or liability to You.
+4.
+==========
+Termination.
+4.1 Term.
+The term of this Agreement ("Term") shall begin upon your use of or access to the API and shall continue unless terminated as set forth below.
+4.2 Suspension of Use.
+==========
+We may suspend Your access to or use of the API or Tapatalk Services at any time for any reason.
+We may change, suspend or discontinue any aspect of Your access to or use of the API or Tapatalk Services at any time without notice or liability to You.
+We may also impose limits on certain services or restrict Your access to part or all of the API or Tapatalk Services without notice or liability to You.
+We may release subsequent versions of the API and require You to use the most recent version.
+==========
+4.3 Termination.
+Either party may terminate this Agreement (i) if the other party files a voluntary petition for bankruptcy or a petition or answer seeking a reorganization; (ii) if the other party has filed against it an involuntary petition for bankruptcy that has not been dismissed within sixty (60) days thereof; (iii) if the other party becomes insolvent, admits in writing its inability to pay its debts as they mature, or makes an assignment for the benefit of its creditors; (iv) if the other party applies for or consents to the appointment of a receiver, trustee or liquidator for substantially all of its assets or such receiver, trustee or liquidator is appointed for the other party; or (v) upon the occurrence of a material breach of this Agreement by the other party, if such breach is not cured within thirty (30) days after written notice identifying the matter constituting the material breach is received by the breaching party.
+==========
+We may terminate this Agreement for convenience for any reason at any time upon thirty (30) days' prior written notice (including by posting notice to https://tapatalk.com/api.php of termination or modification of the API program).
+Upon termination of this Agreement all rights and licenses granted herein will terminate immediately.
+The definitions and the rights, duties and obligations of the parties that by their nature continue and survive will survive any termination of this Agreement, including, but not limited to, disclaimers of warranties, indemnification obligations, and limitations of liability.
+5.
+Limited Warranty and Disclaimer.
+We represent and warrant that We possess all the rights necessary to enter into this Agreement.
+==========
+THE API AND THE TAPATALK SERVICES ARE PROVIDED "AS IS" WITH NO REPRESENTATION, WARRANTY, OR CONDITION, EXPRESS OR IMPLIED, OF ANY KIND AND WE EXPRESSLY DISCLAIM ANY AND ALL REPRESENTATIONS, WARRANTIES AND CONDITIONS, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED REPRESENTATION, WARRANTY OR CONDITION OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AVAILABILITY, SECURITY, TITLE AND/OR NON-INFRINGEMENT.
+WE DO NOT REPRESENT, WARRANT OR MAKE ANY CONDITION THAT THE API OR THE TAPATALK SERVICES ARE FREE OF INACCURACIES, ERRORS, BUGS OR INTERRUPTIONS, OR ARE RELIABLE, ACCURATE, OR COMPLETE.
+YOUR USE OF THE API AND THE TAPATALK SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE THAT RESULTS FROM USE OF THE API OR THE TAPATALK SERVICES, INCLUDING, BUT NOT LIMITED TO, FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA.
+6.
+==========
+Limitation of Liability.
+WE SHALL NOT, UNDER ANY CIRCUMSTANCES, BE LIABLE TO YOU FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT, PUNITIVE, SPECIAL OR RELIANCE DAMAGES, OR LOST PROFITS RELATED TO THIS AGREEMENT, THE TAPATALK SERVICES, OR THE API, WHETHER OR NOT TAPATALK HAS BEEN ADVISED OF OR IS AWARE OF THE POSSIBILITY OF SUCH DAMAGES.
+THE AGGREGATE LIABILITY OF TAPATALK FOR DAMAGES UNDER THIS AGREEMENT WILL BE FIFTY (50) U.S. DOLLARS.
+THE PARTIES HAVE NEGOTIATED THIS AGREEMENT WITH DUE REGARD FOR THE BUSINESS RISK ASSOCIATED WITH THE ARRANGEMENTS DESCRIBED IN THIS AGREEMENT.
+==========
+THE EXISTENCE OF MORE THAN ONE CLAIM WILL NOT ENLARGE THIS LIMIT.
+TAPATALK DISCLAIMS ALL LIABILITY OF ANY KIND OF TAPATALK'S SUPPLIERS.
+7.
+==========
+Indemnification.
+To the maximum extent permitted by applicable law, You agree to defend, hold harmless and indemnify Tapatalk, its affiliates, and their respective directors, officers, agents, suppliers, co-branders or other partners, and employees (each, an "Indemnified Party") from and against any claim arising from or in any way related to Your use of the API and Tapatalk Services or Your breach of any obligation herein, including any liability or expense arising from all claims, losses, damages (actual and/or consequential), suits, judgments, litigation costs and attorneys' fees, of every kind and nature.
+The Indemnified Party will give prompt written notice of any indemnified claim.
+8.
+==========
+General Terms.
+This Agreement will be governed by and construed in accordance with the laws of the State of California without regard to conflicts of law provisions.
+==========
+Any action or proceeding arising from or relating to this Agreement must be brought in a federal court in King County, Washington and each party irrevocably submits to the jurisdiction and venue of any such court.
+A party's breach or threatened breach of any of its covenants or agreements in this Agreement may cause irreparable injury that is inadequately compensable in monetary damages.
+Accordingly, the other party will be entitled to seek injunctive or other equitable relief in any court of competent jurisdiction for the breach or threatened breach of this Agreement, in addition to any other remedies in law or equity.
+==========
+All notices given under this Agreement will be in writing and be delivered (a) by notice may be posted to https://tapatalk.com/api.php or (b) by first class mail to Us at the following address: Tapatalk, Inc. 2051 Colorado Avenue Santa Monica, CA 90404.
+Notices will be deemed given upon the expiration of forty-eight (48) hours after mailing (if sent by first class mail) or twelve (12) hours after sending (if sent by email) or thirty (30) days after posting it to https://tapatalk.com/api.php.
+==========
+Nothing in this Agreement will be construed as creating a partnership or joint venture of any kind between the parties and neither party will have the authority or power to bind the other party or to contract in the name of or create a liability against the other party in any way or for any purpose.
+You may not assign this Agreement, in whole or in part, without Tapatalk's prior written consent.
+==========
+Any assignment in violation of this section is null and void.
+If any provision of this Agreement is found by a court of competent jurisdiction to be illegal, void or unenforceable, such provision will be construed so as to render it enforceable and effective to the maximum extent possible in order to effect the intention of this Agreement; and if such provision will be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions hereof will not in any way be affected or impaired thereby.
+==========
+You shall comply with applicable export laws and regulations of the United States and other applicable jurisdictions with respect to any technical data received under this Agreement.
+This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof.
+This Agreement cancels and supersedes any and all prior proposals (oral and written), understandings, representations, conditions, warranties, covenants and other communications between the parties, which relate to the subject matter of this Agreement.
+==========
+This Agreement may only be amended by a written instrument signed by both parties, or as permitted herein.
+A party's waiver of any breach of this Agreement by the other party will not constitute a waiver of any rights or any subsequent breach of the same or different provision thereof.
+To be enforceable, a waiver must be in writing signed by a duly authorized representative of the waiving party.
+==========

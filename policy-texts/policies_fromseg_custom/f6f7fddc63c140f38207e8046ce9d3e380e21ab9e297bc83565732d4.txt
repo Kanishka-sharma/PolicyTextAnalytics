@@ -1,0 +1,37 @@
+Proofpoint Enterprise Privacy for 
+      Data Loss Prevention and 
+      Policy-Based Email Encryption
+The trend towards more stringent industry and government regulations that mandate stricter privacy policies and larger fines on enterprises around data loss prevention and data breach notification requirements creates a constant data security compliance battle for enterprises.
+GLBA, HIPAA, HITECH, FINRA, PCI, FERPA, FACTA, EU Data Privacy Act, and others have become part of the common lexicon used among information technology, enterprise data security and risk management professionals.
+Even state governments are starting to get more active and prescriptive about data privacy and examples can be found in California SB 24, Massachusetts CMR 17, and Nevada SB 227 to name a few examples in US.
+==========
+Compliance becomes even more convoluted and difficult in these situations when enterprises have global business centers operating from multiple locations, or even business operations across different states within the same country, that are governed by multiple laws and regulations.
+With non-compliance implications that can negatively affect the enterprises' business, brand, and operations, taking the appropriate steps to comply with enterprise data security regulations is as much a business risk decision as an IT risk mitigation effort.
+==========
+Regardless of the complexity, enterprises of all sizes are expected to take the necessary steps to demonstrate they can ensure they are protecting against loss of private and sensitive data.
+With email being a standard mode of conducting business, research has shown that corporate email typically contains up to 70% of an enterprises' sensitive data.
+==========
+This makes email one of the key exposure points for inadvertent data loss.
+Encrypting email messages is a data loss prevention technique that would provide the necessary safeguard to make the email data unusable to an unauthenticated third party.
+==========
+However enterprise email encryption has not been significantly adopted, and even more rarely successfully deployed due to: difficult PKI lifecycle management requirements, lack of a simple and elegant experience which encourages user adoption, and relative cost-benefits from bloated and complex enterprise email data management solutions.
+Proofpoint Data Loss Prevention solution and Email Encryption solution is designed to: 
+
+Provide policy-based (as opposed to user-driven) email encryption, which makes enforcing enterprise email privacy policies for data loss prevention (DLP) consistent and transparent to the email senders and recipients
+
+
+Enable email encryption and decryption across desktops, laptops, and mobile devices with seamless user experience which encourages usage and discourages circumvention of security controls
+
+
+Remove complexity associated with key management, workflows, and email data loss prevention over email which enables incident response teams to be more focused and save time
+
+
+Enable secure sharing of large files with ease while staying compliant with enterprise file sharing privacy policies
+
+Proofpoint Data Loss Prevention solution and Email Encryption solution uses advanced, deep content analysis techniques that monitor and classify both structured and unstructured email data.
+Once sensitive enterprise data is identified within emails, administrator-driven workflows and email privacy policies allow that email data to be quarantined for investigation, passed through without action, or automatically encrypted and sent to the recipient when secure, compliant communication is required based on the email privacy policy setup.
+==========
+Real-time email message tracing, dashboards, and audit capabilities provide the necessary tools to triage any data loss incident or warning.
+Regardless of data loss prevention and email data security privacy policies, customers and consumers alike have developed an expectation that their sensitive or personal email data be protected.
+Learn how Proofpoint Data Loss Prevention and Privacy Policy Based Email Encryption capabilities can help you make secure email communication a key business differentiator:
+==========

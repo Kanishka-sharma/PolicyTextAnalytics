@@ -1,0 +1,54 @@
+Key terms
+Cookie
+Embedded script
+Interest-based segment
+IP address
+Non-personal information
+Personal Information
+Pixels
+Server Logs
+Unique identifier
+User Panel
+Web Crawler
+Cookie
+A cookie is a small file containing a string of characters that is sent to your computer when you visit a website.
+When you visit the website again, the cookie allows that site to recognize your browser.
+Cookies may store user preferences and other information.
+You can reset your browser to refuse all cookies or to indicate when a cookie is being sent.
+However, some website features or services may not function properly without cookies.
+==========
+Embedded script
+An embedded script is programming code that is designed to collect information about the way an advertisement displays on a website.
+The code is temporarily downloaded onto a user’s device from our web server or a third party web server, is active only while you are connected to a particular website, and is deactivated or deleted thereafter.
+Interest-based segment
+A user or group of users categorized on the basis of preferences or interests inferred from the data we collect and receive that are used as a basis for displaying advertisements and other content intended to be more relevant and useful to the user or users.
+Examples include “AUTO::Auto In-Market MASTER,” “TRAVEL::Travel In-Market MASTER” and “SPORTS::Sports Enthusiasts.”
+==========
+IP address
+Every computer connected to the internet is assigned a unique number known as an internet protocol (IP) address.
+Since these numbers are usually assigned in country-based blocks, an IP address can often be used to identify the country, and in many cases a more precise location, from which a computer is connecting to the internet.
+==========
+Non-personal information
+All forms of user information other than the personal information that you provide to us.
+This includes, for example, browser type, user device, operating system, IP address, performance statistics, cookie IDs, request-based information, demographic information, unique identifiers, web browsing information, performance information, session information, and log information and other similar data, whether collected by us or received from affiliates or third parties.
+Please see Section 1 of our Privacy Policy for a more complete description of the non-personal information we collect.
+Personal information
+This is information that you provide to us that personally identifies you, such as your name, email address, billing address and credit card information.
+==========
+Pixel
+A pixel, also known as a pixel tag or web beacon, is a small snippet of code embedded in a website.
+Pixels allow a website to transfer or collect information through a graphic image request.
+Pixels can be used count site visitations and conversions, gather broad-based user interest data, transmit to and receive information from third parties, deliver, read and write to cookies and for other purposes connected to the provision of advertising, analytics or other services.
+==========
+Server logs
+Like most websites, our servers automatically record the page requests made when you visit our sites.
+These “server logs” typically include your web request, IP address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+Unique identifier
+A unique identifier is a string of characters that is used to recognize a user’s device, browser or other platform.
+Unique identifiers may be used in conjunction with or separate from cookies, including on platforms (e.g., certain mobile devices) where cookie technology is not available.
+==========
+User panel
+Panel of internet users that agree to anonymous recording of their ad exposure activity as they browse the web and are exposed to video and display advertisements in exchange for free software and services such as browser toolbars, games, and applications that provide information services such as weather, travel, news.
+Web crawler
+A sophisticated bot that renders webpages as a user would in order to analyze the page content and how ads deliver to users on a given webpage.
+==========

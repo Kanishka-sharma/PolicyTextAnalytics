@@ -1,0 +1,76 @@
+Free Firefox add-on graphs the trackers
+Like most people, my knee-jerk response to tracking cookies is that they are evil and must be banished from my computer.
+Then again, blocking cookies doesn't necessarily prevent sites from tracking you.
+==========
+The Electronic Frontier Foundation's Micah Lee explained in a June blog post on Deeplinks that when you open a Web page, your browser retrieves elements from many third-party servers.
+For example, if the page has a Facebook Like button, JavaScript and images are loaded from Facebook's servers.
+==========
+The request your browser sends to each server includes your IP address and other information that could identify … Read more
+Four iOS 7 privacy tips
+If you haven't upgraded your iPhone, iPad, or iPod touch to iOS 7 yet, I have only one question: What are you waiting for?
+That's not to say the new version of Apple's mobile OS is perfect.
+Here are four iOS 7 privacy settings you may want to review.
+1.
+==========
+Clear and disable Frequent Locations Some people don't mind Apple tracking their location and retaining a history of the places where they use their iOS 7 devices.
+The rest of us have to disable the mobile OS's Frequent Locations feature, which is enabled by default.
+==========
+… Read more
+The private information Facebook now makes public
+You may have been one of the many Facebook users contacted by the company last week about the demise of the "Who can look up your Timeline by name" search setting.
+The Facebook e-mail announcing the discontinuation of the feature goes on to explain how to limit what information you share on the service.
+Unfortunately, there's no longer a way to limit globally the personal information Facebook shares with everyone; you can do so only for each separate post using the audience selector.
+==========
+The Facebook Help Center states the following:
+"Your name, gender, username, user ID (… Read more
+Free online encrypted notepad keeps it simple
+The biggest knock on the encryption offered by many cloud storage services is that the company itself can decrypt the data.
+The free ProtectedText encrypted online notepad claims it can't decrypt the text you save on its servers.
+In addition, ProtectedText requires no registration, and the company promises not to track you.
+Nor does it display any ads, which do their own tracking.
+Lack of a business model aside, the new service appears to have a lot going for it.
+You devise the text file's URL: protectedtext.com/[anyURLnotalreadytaken].
+==========
+This gives you a second level of protection atop … Read more
+How to opt out of some targeted Google ads
+Google might be the king of online ads, but it still gives you a way to limit how some of your data is used to sell you things you don't need.
+With its new Shared Endorsements coming on November 11, Google will make the ads you see more personalized by referencing your Google+ username, profile photo, and implied endorsements via comments and +1s.
+Short of an ad-blocker, there's not much you can do to avoid ads completely.
+But Google does provide a few controls for restricting how much of your online behavior shows up in ads.
+==========
+Shared endorsements … Read more
+How to deal with the new Facebook search settings
+This week Facebook has reminded us it's putting an end to the ability to hide your profile from its Graph Search.
+In the past, users were given the choice to allow other users to search for their profile by name on Facebook, or to hide their profile from the search.
+For those of you who are still using this feature, you'll see reminders over the next few weeks as the setting is removed from the service altogether.
+==========
+So with users sure to be upset that anyone and everyone will be able to find them on Facebook by simply … Read more
+Enhance privacy by being deliberately inaccurate
+When I go to the local sandwich shop, I don't care whether the person taking my order knows my birthday or my mother's maiden name.
+So why does Google or some other Web site I register with need to know so much about me?
+==========
+Especially considering the company is likely to barter and sell the information to third parties, who aggregate, analyze, repackage, and resell it.
+There's nothing new about purposely providing false information when registering for a Web service -- from a simple throwaway e-mail address all the way to a phony name.
+==========
+Totally false identities … Read more
+How to set up two-step verification for Evernote
+Two months after introducing two-factor verification to its Premium account users, Evernote has made it available for all users.
+With this security feature enabled, you will need to enter your password along with a verification code sent to your mobile phone in order to log in to your account.
+==========
+What this means is that if someone gets a hold of your Evernote password, this nefarious individual would also need to be in possession of your phone to access your data.
+To enable two-factor verification, log on to your account and go to Evernote's Security section.
+==========
+Before proceeding any further, … Read more
+Secure your Facebook account in six easy steps
+Facebook wants its customers to share, and the company is very good at convincing users to make their private Facebook information available to the public.
+According to a study published last year by Carnegie Mellon University researchers, changes in December 2009 to Facebook's privacy controls, and the introduction of Community Pages and Connected Profiles the following April very likely caused users to share more.
+This reversed a four-year trend (2005 to 2009) of Facebook users tightening their privacy settings to share less, as Bianca Bosker described on the Huffington Post last March.
+Facebook's recent proposal to change its … Read more
+Find out (some of) what one big data broker knows about you
+At least one big-name data broker thinks I'm an Asian who owns a cat and a boat and loves to travel.
+Sounds like someone who leads a much more interesting life than I do.
+That's the profile Acxiom revealed when I plugged my name, address, and other information into the data broker's free AboutTheData.com service.
+The beta of the service was released last week.
+Mine is one of hundreds of millions of profiles Acxiom sells to advertisers and other public and private organizations, which explains all those yachting ads I'm being served up.
+For the … Read more
+==========

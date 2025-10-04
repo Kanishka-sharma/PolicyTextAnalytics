@@ -1,0 +1,77 @@
+1.1 Eventbrite.
+Eventbrite is a ticketing and registration platform dedicated to bringing the world together through live experiences.
+Through our platform, mobile apps and services, we enable people all over the world to create, discover, share and register for events.
+==========
+1.2 The Services.
+Eventbrite’s websites and domains, including www.eventbrite.com, and all of the webpages, subdomains, country level domain variants and subparts of those websites (collectively, our “Site”), all of the services available on or through the Site or otherwise provided by us (including our application programming interfaces), and all of our free mobile applications, including without limitation, Eventbrite Organizer, the Eventbrite app and the Rally app (collectively, the “Applications”) are offered, maintained and provided by Eventbrite.
+We refer to all of these as our “Services.”
+Eventbrite is a Delaware corporation with its principal place of business at 155 5th Street, Floor 7, San Francisco, CA 94103, Reg.
+No. 4742147 (“Eventbrite,” “us,” “we” or “our”).
+==========
+1.3 Users.
+Through the Services, Eventbrite provides a simple and quick means for registered users who are event organizers, planners and charitable organizations (“Organizers”) to create event registration, speaker profile, organizer profile, fundraising and other webpages related to their events, to promote those pages and events to visitors or browsers of the Services and to sell tickets and registrations (or issue free registrations), solicit donations and sell merchandise related to those events to users who wish to make purchases, registrations or donations from or to such events (including to free events) (“Attendees”).
+We refer to Organizers, Attendees and other visitors and browsers of the Services collectively as “Users” or “you.”
+2.1 Application.
+This Cookie Policy sets forth our policy with respect to information, including information that can be associated with a specific person and could be used to identify that person ("Personal Data"), that is collected from Users through cookies, pixel tags, local shared objects, web storage and other similar technologies.
+==========
+2.2 Incorporation By Reference.
+Please also refer to our Privacy Policy, into which this Cookie Policy is incorporated by reference, which sets forth our policy with respect to the collection, use, disclosure, transfer and storage of information, including Personal Data, that is collected from Users.
+Nothing in this Cookie Policy shall be deemed to modify, waive, amend or rescind any other term of the Privacy Policy.
+==========
+2.3 Consent.
+By using the Services, you are consenting to the use of the technologies described in this Cookie Policy to collect both Personal Data and non Personal Data and to the storage of information on your device or web browser as described in this Cookie Policy.
+3.1 Cookies.
+A cookie is a piece of information that is placed on your web browser when you access and/or use the Services that stores text and which can later be read back by the Services or third parties.
+Cookies are used to recognize your browser and you as a unique User.
+3.2 Pixel Tags (aka Clear GIFs or Web Beacons).
+A pixel tag is a tiny invisible tag or graphic placed on certain parts of the Services or other websites, in emails or in certain other downloadable content, but not on your computer, mobile device or browser, except to the extent that you download the content that contains such tags.
+==========
+3.3 Local Shared Objects (aka Flash Cookies).
+A local shared object is similar to a cookie, except it is stored on your computer or mobile device, instead of your browser, and it can store more than just text.
+The methods for controlling local shared objects are different than the methods for controlling cookies (as discussed below).
+4.1 Cookies.
+==========
+Cookies may be session cookies (i.e., last only for one browser session) or persistent cookies (i.e., continue on your browser until they are affirmatively deleted).
+You can manage cookies through your web browser's option settings and through those settings you may be able (a) to receive notifications when you are receiving new cookies; (b) to disable cookies; or (c) to delete cookies.
+Please refer to your web browser's help section for information on how to do this.
+==========
+4.2 Pixel Tags.
+Pixel tags do not store information on your computer, mobile device or browser (although they are occasionally downloaded to your computer if contained in an email or other downloadable content) so cannot be managed by you except by deleting the content in which the tag is contained.
+4.3 Local Shared Objects.
+Local shared objects are stored on your computer or mobile device.
+To learn how to manage privacy and storage settings for local shared objects, click here.
+==========
+4.4 Web Storage.
+Web Storage, or HTML5 Local Storage, is an industry-standard data storage technology that is implemented by internet browser providers.
+Refer to your browser's help contents for procedures on how to manage settings for Web Storage.
+==========
+5.1 Essential (strictly necessary).
+We use these technologies in a way that is essential for the operation of our Services or parts of our Services.
+For example, we may use cookies to determine where to route your traffic to effectively distribute the Site workload across numerous servers.
+5.2 Performance/Analytics.
+==========
+We use these technologies to monitor our Services and to analyze how you use our Services.
+For example, we may place cookies that allow us (a) to measure the time of your requests to our servers and our responses; (b) to A/B test new features; (c) to record statistics about site usage; (d) to track your activities on the Services; and (e) to track the places from which you come to the Services.
+We may also use third party cookies to collect information about visitor behavior on our Services for these Performance/Analytics purposes.
+As an example, we use Google Analytics and Google Analytics Demographics and Interest Reporting.
+You can manage your opt-outs for this third party service provider here:   • Google Analytics Opt-out Browser Add-on   5.3 Functionality.
+==========
+We use these technologies to allow us to provide certain functionality on the Services and to remember your preferences.
+For instance, when you click the "remember me" box on our log in page we place a persistent cookie on your browser that allows our Services to pre-populate your username when you return.
+Other examples include remembering your preferences (such as language and location preferences), preventing web application vulnerabilities, allowing for Facebook Connect and other third party integrations and in connection with providing search results.
+==========
+5.4 Advertising (including behavioral/interest based advertising).
+We use these technologies to deliver advertisements to you both on and off the Services.
+By using these technologies we hope to better tailor these advertisements to your interests.
+Sometimes this is called online behavioral, interest based or retargeted advertising.
+As of the date hereof, we use technologies from Adroll, Chango, Google, Media Math, Perfect Audience, Quantcast, Retargeter and Yahoo! for such purposes.
+==========
+Many of these vendors participate in voluntary frameworks that allow you to opt-out of such advertising.
+You can manage your opt-outs for those third party service providers who participate in such opt-out frameworks at the following websites depending on your location:   • Australia  • Canada  • EU  • United States   In addition, not every one of these third party service providers may participate at all times in every voluntary framework, so we have included links to their individual opt out frameworks so you can control your preferences directly with each such third party service provider:   • Adroll  • Rubicon  • Google  • Media Math  • Perfect Audience  • Quantcast  • Retargeter  • Yahoo!
+
+
+Most of the cookies and other technologies described above on our Services are set by us (aka first party cookies) or are used in connection with the Services and set by third party service providers at our direction ("Third Party Cookies").
+We may use Third Party Cookies with respect to each of the uses set forth above.
+For example, we use technologies from Google Analytics, Omniture and Mixpanel, among others, to measure performance/analytics and technologies from Facebook to provide Facebook Connect functionality.
+Occasionally, an Organizer may use similar technologies on their event pages for one of the purposes set forth above.
+==========

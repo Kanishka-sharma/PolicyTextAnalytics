@@ -1,0 +1,203 @@
+Privacy Policy
+Inskin Media may collect information about the adverts that you view while browsing our partners’ websites.
+Some of this information is shared with third parties for the purposes of analysis and reporting.
+Details of the information collected are provided below.
+==========
+IAB Europe’s GDPR Transparency & Consent Framework
+Inskin is registered on IAB Europe’s Framework, vendor ID number 150.
+We only work with third party tracking vendors who are also registered to this list, or who we have independently assessed for GDPR compliance.
+For more information on Inskin’s GDPR compliance, download our Good Data Practice Statement here
+Ad Tech Data
+Inskin does not process any sensitive personal data for ad serving nor any personal data that is directly personally identifiable.
+We currently only process indirect personal identifiers:
+
+
+											IP address for fraud detection and broad geographical targeting
+										
+
+											Inskin unique user ID to approximate the number of unique users in our network
+										
+
+
+										Additionally, Inskin works with limited third party service providers for campaign ad validation, reach assessment and broad targeting.
+Inskin is in touch with each of our service providers to ensure that their processes and data are GDPR compliant.
+We only use the above items of data for the purposes stated.
+==========
+Specifically, we do not use them to offer retargeting capabilities or to create user profiles.
+Occasionally we are asked by advertisers to collect user-supplied personal data (such as name, email address) via a user-completed online form.
+This information is stored in the UK and transferred to the client securely, and then deleted.
+==========
+Interest-Based Advertising
+
+										We use a Data Management Platform (DMP) service provided by Oracle for interest-based advertising.
+Third party data in Oracle may contain personally identifiable information (PII); however Inskin Media does not store or make use of this.
+Oracle’s DMP creates profiles through the use of cookies, cross-device/cross-context technology (such as statistical IDs), or other unique identifiers provided to Oracle by customers (such as mobile-device IDs), to learn about your journey.
+This information is used only to help us show you more relevant marketing content.
+To learn more about this cookie please visit Oracle BlueKai’s privacy policy.
+Children
+
+										Our advertising is never intentionally targeted towards children under the age of 13.
+==========
+Cookie Policy
+
+										Inskin Media’s proprietary technology uses browser cookies to help control the number of times users see individual adverts.
+The data used to perform this task includes:
+									
+
+
+											Anonymous and randomly generated UserIDs
+										
+
+											A collection of fields that contain advert/creative view counts
+										
+
+Inskin Media Cookies
+
+										Inskin Media stores information in a cookie to help control the number of times individual adverts are displayed.
+Our browser cookies expire 30 mins or 1 year after their last update, as per the below table.
+These cookies are updated every time the user’s browser makes a request to Inskin Media for an advert.
+Cookie name
+Lifespan*
+Description
+
+
+_ascv
+30 min
+The number of times the user has seen a particular advert
+
+
+_cscv
+30 min
+The number of times the user has seen a specific advert creative
+
+
+_lscv
+30 min
+The number of times the user has seen an advert belonging to a specific line item
+
+
+_mscv
+30 min
+The number of times the user has seen adverts belonging to a campaign
+
+
+_apcv
+1 yr.
+Persistent version of above cookie
+
+
+_cpcv
+1 yr.
+Persistent version of above cookie
+
+
+_lpcv
+1 yr.
+Persistent version of above cookie
+
+
+_mpcv
+1 yr.
+Persistent version of above cookie
+
+
+_spcv
+1 yr.
+The number of times a user has visited a site within our network
+
+
+_upcv
+1 yr.
+==========
+A random number that allows us to estimate the number of unique users in our reporting
+
+
+*The lifespan of a cookie is the period of time that it exists after it was last updated.
+Inskin Media’s browser cookies are updated every time the user’s browser makes a request to Inskin Media for an advert.
+Third Party Cookies
+
+										Our partners, including MOAT and Oracle, have their own rules and policies regarding cookies.
+To obtain information about their cookie policies please visit their respective websites:
+									
+Opt-Out / Opt-In
+Ad Exposure Limits
+
+										Should you wish Inskin Media not to store information in a cookie (to help control the number of times individual adverts are displayed), you can use the button below to opt-out.
+This may adversely impact your online experience.
+To opt out from comScore or MOAT capturing information (used by Inskin for analysis), or Bluekai capturing information (used by Inskin for targeting) please click on the following links:
+									
+Business Data
+
+										In the course of providing services Inskin needs to collect and use information about its clients, suppliers and prospects for communication to ensure that contractual obligations are met.
+Additionally, prospect data is used for marketing campaigns, lead generation and CRM.
+Information we collect includes names, job titles, telephone numbers, email addresses, business addresses, business bank account details and activity on inskinmedia.com.
+Interest-Based Advertising
+
+										To opt out please visit the Oracle BlueKai registry.
+==========
+Data Processing / Analysis
+
+										Most of our data processing takes place within the EU, however we employ some services which are based outside of the EU.
+In these cases, limited personal data (only in the form of indirect identifier IP Address) is passed to a non-EU country (US).
+In order to provide high quality and engaging advertising experiences, we capture and analyse specific information about a user’s browser environment and geographic location via third party services provided by comScore and MOAT.
+These companies use their own browser cookies to capture information such as browser, operating system and referrer URL, as well as determining whether an advert has been successfully displayed.
+For a more comprehensive list of the various data which this company capture and their respective privacy policies, please click on the links provided in the ‘Opt-Out / Opt-In’ section.
+==========
+How Inskin Safeguards Data
+
+										Inskin is committed to protecting personal information from misuse, loss or unauthorised access.
+We have a range of appropriate technical and organisational measures in place to safeguard personal data: all data is stored on secured servers and controlled by strict access rights.
+Data breach policy
+
+										In the event of a personal data breach Inskin commits to:
+									
+
+
+											promptly take all necessary and appropriate corrective action to remedy the underlying causes of the breach and make reasonable commercial efforts to ensure that such a breach will not recur;
+										
+
+											notify any affected clients and/or partners without delay, and in any event within seventy-two (72) hours, providing reasonable detail of the breach likely impact on data subjects;
+										
+
+											take any action required by applicable law and/or at the reasonable request of affected clients and/or partners
+										
+
+Subject Access Requests / Contact Details
+
+										Individuals have the right to request the modification, update or erasure of the personal data held by Inskin.
+Inskin undertakes to respond to valid data protection queries and concerns from affected parties in a timely and helpful manner.
+==========
+Upon such a request, we may ask for identity verification and seek more information about the request.
+Where we are legally permitted to do so, we may refuse the request and give reasons for that.
+As Inskin’s advertising technology only stores indirect personal identifiers, a breach of such
+										data would not identify specific individuals, and therefore no notification of individuals
+										would be necessary or possible.
+Data Protection Officer: S. Jaffer
+									
+
+										For subject access requests, if you suspect any misuse or loss of or unauthorised access to your personal information or to withdraw your consent to the processing of your personal data, contact Inskin at gdpr@inskinmedia.com.
+Should you have any comments or enquiries regarding our privacy policy, or wish to make a complaint, please contact us at privacy@inskinmedia.com.
+You can also write to us at:
+										
+										Inskin Media Ltd
+										233, High Holborn
+										London
+										WC1V 7DN
+									
+
+										Subject access requests for IP addresses will require proof from the requestor that they own the IP address.
+Fulfilment of such requests may not be possible as IP obfuscation renders the data unidentifiable and therefore unavailable.
+==========
+Demands for rectification and erasure are not applicable.
+Corporate Changes
+
+										Should there be a change in ownership of Inskin Media, or a merger, dissolution, reorganisation or other such event, we reserve the right to transfer all data to the acquiring party or other entities within our group.
+Inskin Media also reserves the right to share the data with the Group, both within and outside of the EU.
+All Group Companies outside the EU will be bound by the provisions of the EU Data Protection regulations and GDPR.
+Policy Updates
+
+										We may update our privacy policy from time to time, and reserve the right to do so without prior notice, therefore you should check this policy each time you visit our site.
+Policy Last Updated
+
+10 May, 2018
+==========

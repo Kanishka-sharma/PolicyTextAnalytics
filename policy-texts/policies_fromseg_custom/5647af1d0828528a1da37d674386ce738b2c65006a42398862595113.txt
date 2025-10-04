@@ -1,0 +1,206 @@
+SITE METER TERMS OF SERVICE AGREEMENT
+Site Meter, Inc. ("we", "us", "our" or "Site Meter") provides products and services, whether fee-based or free of charge (collectively, the "Services"), through its website located at www.sitemeter.com (the "Website"), subject in all cases to the terms and conditions set forth in this Terms of Service Agreement (the "Agreement").
+This Agreement, which may be updated by Site Meter from time to time, constitutes a legally binding contract between you ("you" or "Customer") and Site Meter.
+By completing the registration process and using the Services, you agree to be bound at all times by the terms and conditions of this Agreement.
+==========
+Please read this Agreement carefully and save it.
+If you do not agree with all of the terms and conditions set forth in this Agreement, you should leave the Website and discontinue your use of the Services immediately.
+1.
+==========
+PRIVACY 
+	By registering for the Services and implementing the Site Meter Tracking Code (as defined in Section 6 below), you authorize Site Meter to collect, store and process Customer data and Customer audience data, subject to the terms of this Agreement and the Site Meter Privacy Policy.
+Customer and audience data may include one or more cookies that we use to differentiate individual visitors to your website.
+==========
+You acknowledge and agree that general information about your website (name, URL, traffic counts, etc.) may be utilized by Site Meter in order to, among other things, compile lists of the busiest sites, lists of member sites, and general promotional uses.
+You hereby acknowledge that you have read, understand and agree to the terms of Site Meter's Privacy Policy located at www.sitemeter.com/?a=privacy, which is hereby incorporated into this Agreement by reference.
+We encourage you to prepare and publish your own privacy statement, as applicable.
+2.
+==========
+DESCRIPTION OF SERVICES
+
+	Our Services include, but are not limited to, providing Customers with real-time statistical reporting of their website's visitors' data and behavior, including, without limitation, information about how many pages are visited, the duration of a particular visit, the referring website, keywords used to search, and other browser details.
+We may, at our discretion, partner with other third party business partners and technologies to provide Customers with additional audience tracking data, information and services.
+==========
+We will provide you with the Services for which you have registered on the Website, subject to the terms of this Agreement.
+You agree to use the Website and Services at all times in a manner consistent with all applicable laws and regulations and in accordance with the terms and conditions set forth in this Agreement.
+==========
+You acknowledge that the Services we offer vary by price (including some free of charge), package features, and service options (each a "Service Plan" and collectively, the "Service Plans").
+You will only receive the Service Plan for which you have registered, and, if applicable, for which you pay all associated fees.
+Pricing for each Service Plan is determined by the Service Plan you select and the number of page views per month.
+The types of Service Plans available are and shall be determined in our sole discretion.
+Details of all Service Plans currently available can be found on the Website.
+Customers wishing to change their Service Plan may do so at anytime by sending us an e-mail to webmaster@sitemeter.com, provided that you agree to pay the new fees associated with the new Service Plan.
+Customers opting to change Service Plans are bound by the terms and conditions set forth in this Agreement.
+We reserve the right to modify the Service Plans offered at anytime by posting such modification(s) on our Website.
+Any use of the Website or Services by you after such posting shall be deemed to constitute acceptance of such modification(s).
+We reserve the right to cancel your Service Plan if you exceed the permitted number of monthly page views available under your Service Plan.
+We also reserve the right to cancel your Service Plan and terminate Services immediately, without notice, in the event that you breach any provision of this Agreement or any other terms that apply to that Service Plan.
+3.
+==========
+ACCOUNT CREATION AND TERMINATION PROCESS
+
+	To use our Website and Services, a Customer must create an account and provide basic website and contact information including, but not limited to, name, address, email address, website URLs, and if applicable, payment information in the form of a credit card number and expiration date (collectively, "Registration Information").
+Providing false Registration Information constitutes a material breach of the Agreement and may result in our immediate termination of your use of the Website and the Services.
+==========
+You agree to notify us immediately if you suspect any unauthorized use of your account or access to your password.
+You acknowledge that you are solely responsible for any and all use of your account.
+==========
+We reserve the right, in our sole discretion, to refuse any new account or terminate any active account for any reason or no reason whatsoever, without warning or notice.
+Furthermore, we not obligated in any way to provide Services to any Customer unless or until we have charged such Customer's credit card and received full payment of all applicable fees.
+If we refuse to provide Services to a Customer's existing account, then any and all payments will be refunded on a pro-rated basis for Services paid for but not rendered up to the time that such Services are terminated.
+Our use of any Customer's account information is governed by our Privacy Policy.
+==========
+At any time after activation of any Site Meter Services, Customer may cancel the Service Plan subscribed for by providing written notice to us via email at webmaster@sitemeter.com, in which case all Services being rendered will terminate on the date specified in the cancellation notice.
+If no date is specified, the Services will terminate at the end of the then-current billing period for paid Services or immediately for free Services.
+==========
+Upon termination, Customer must remove all Site Meter Tracking Code from Customer's website(s).
+If Customer does not remove the Site Meter Tracking Code, we reserve the right to continue to bill the Customer until such time that the Tracking Code is removed entirely from each of Customer's websites.
+4.
+==========
+PAYMENT AND PRICING CHANGES
+
+	You agree to pay us any subscription fees as listed on our Website for the Service Plan you subscribed for (the "Subscription Fees") and any applicable taxes.
+Completion and submission of any account activation form authorizes Site Meter to charge the credit card specified in your registration for all such fees corresponding to the Service Plan.
+Such charges will be made on a monthly or yearly basis depending on which payment billing method is selected by the Customer.
+==========
+In order to avoid the full fee for any new subscription period for which you do not subscribe for Services, you must cancel the Service BEFORE the new period begins.
+We reserve the right to change the Subscription Fees for any or all of the available Service Plans at any time by updating the applicable pricing information and posting such updates on the Website.
+New pricing terms will become effective beginning with the first full billing cycle after we post such changes to the Website.
+==========
+Any failure to pay the amounts due under this Agreement will be a material breach of your obligations under this Agreement.
+Without limiting any other remedies available to us, YOU AGREE TO FULLY REIMBURSE SITE METER FOR ANY COSTS AND EXPENSES THAT SITE METER MAY INCUR IN CONNECTION WITH COLLECTING OR ATTEMPTING TO COLLECT ANY SUCH UNPAID AMOUNTS.
+5.
+==========
+OTHER CHANGES
+
+	We reserve the right to modify any of the terms of this Agreement from time to time and such modification(s) will become effective immediately after posting the modified Agreement on the Website.
+You agree to be bound to any changes to this Agreement when you use the Services after any such modified Agreement is posted.
+It is therefore important that you review this Agreement regularly to ensure you are updated as to any changes.
+If you do not wish such modifications to apply automatically to you, then it is important for you to review this Agreement before each time you use any of our Services and refrain from using such Services if you see new or different terms that you do not accept.
+6.
+==========
+NON-EXCLUSIVE LICENSE GRANTED; PROPERTY RIGHTS
+
+	Subject to the terms and conditions of this Agreement, Site Meter hereby grants you a limited, revocable, non-exclusive, non-sublicensable, royalty-free license to install and implement Site Meter's tracking code, which may rely on the use of JavaScript, HTML tags or other code on your webpage (the "Tracking Code"), onto your website page(s) solely for your use in receiving the Services for which you have paid.
+You agree to follow all instructions and restrictions provided to you by Site Meter with respect to your use of the Tracking Code.
+You agree that Site Meter will not be responsible for any malfunctions, errors, data inaccuracies, or improper results attributable to your incorrect, unauthorized, or unsupported use of any Tracking Code.
+You further acknowledge that by implementing the Site Meter Tracking Code on your web page(s), you consent to Site Meter's placing of temporary or persistent "cookies" on your users' computer's hard drive.
+==========
+We do not collect or store any personally identifiable information via such cookies.
+You agree that it is your responsibility to adequately inform your users of the presence and use of such cookies.
+7.
+==========
+CUSTOMER REPRESENTATIONS, WARRANTIES AND COVENANTS
+
+	As a condition of receiving any Site Meter Services, you represent, warrant and covenant as follows:
+	
+
+
+(a)   All of the Registration Information Customer supplies, or causes to be supplied, to Site Meter is true, complete and accurate, and, during the term of this Agreement, Customer agrees to notify Site Meter of any changes to such Registration Information within ten (10) days of any such changes;
+
+
+(b)   None of the URLs Customer submits to Site Meter shall link to any webpage or site that contains any: 
+
+
+(i)    nudity, pornography or other sexually-explicit material;
+
+
+(ii)   hate propaganda or material that encourages or promotes illegal activity or violence;
+
+
+(iii)   content that violates or infringes in any way upon the statutory, common law, or proprietary rights of others, including but not limited to any Intellectual Property Rights of Site Meter or any other third party; 
+
+
+(iv)   material that promotes or utilizes software or services designed to deliver unsolicited e-mail; 
+
+
+(v)    material that violates any local, state or national law or regulation; 
+
+
+(vi)   misrepresentations or material that is threatening, abusive, harassing, defamatory, obscene, profane, indecent or otherwise objectionable, offensive or harmful; or 
+
+
+(vii)   other material that Site Meter, in its sole discretion, deems inappropriate, including any violations of standards posted on the Site Meter Website or sent to Customer by e-mail.
+(c)   Customer will safeguard account information and password by not disclosing it to any third party, and Customer will assume responsibility for any and all harm or liability attributable to Customer or any other person accessing Customer account or any Service with Customer account information and password;  
+
+
+(d)   You will treat any and all consumer information gathered for Customer or transmitted to Customer via your use of the Services or the Site Meter Website in accordance with the Site Meter Privacy Policy;  
+
+
+(e)   You will comply with all federal laws and regulations governing Customer actions under this Agreement; and 
+
+
+(f)   If you are an individual, you must be over the age of 18 and possess the capacity to enter into legally binding contracts.
+==========
+You have full power and authority to enter into this Agreement and to perform the obligations set forth in this Agreement.
+Without limiting any of our other remedies, we may refuse or cancel Customer's account or Services at any time for any violation of this Section 7.
+To assure compliance with the criteria in Section 7(b), we reserve the right to monitor the content of the webpages or sites that correspond to the URLs Customer submits to Site Meter.
+8.
+INDEMNIFICATION 
+
+You shall defend, indemnify, and hold harmless Site Meter, its subsidiaries, and affiliates, and their respective directors, officers, shareholders, agents, affiliates, licensors, partners and employees from and against any and all claims, actions, demands, proceedings, suits, liabilities, damages, settlements, penalties, fines, costs or expenses of any kind (including, without limitation, reasonable attorneys fees and other litigation expenses) arising out of or relating to (i) your, or one of your agent's, use of the Website or any of the Services, including, without limitation, the Tracking Code; (ii) your, or one of your agent's, breach of any provision(s) of this Agreement; (iii) any harmful or illegal activities by you or one of your agents in connection with the Website or Services.
+9.
+==========
+DISCLAIMER OF WARRANTIES 
+
+	SITE METER PROVIDES THE WEBSITE AND SERVICES "AS IS" AND "WITH ALL FAULTS" AND DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, WHETHER SUCH WARRANTIES ARISE BY STATUTE OR OTHERWISE IN LAW OR FROM A COURSE OF DEALING OR USE OF TRADE, WITH REGARD TO THE WEBSITE, SERVICES AND RELATED MATERIALS, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY OF INFORMATION, FEATURES OR CAPABILITIES OF THE SERVICES, AND RELIABILITY OF SITE METER'S COMPUTERS AND SERVERS.
+SITE METER DOES NOT WARRANT THAT THE OPERATION OF THE SERVICES WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT THE SERVICES WILL BE SUITABLE FOR YOUR NEEDS OR YOUR INTENDED APPLICATIONS, OR THAT THE SERVICES WILL BE COMPATIBLE WITH OR OPERATE IN THE HARDWARE, SOFTWARE, OR WEBSITE CONFIGURATIONS THAT YOU SELECT.
+10.
+==========
+LIMITATION OF LIABILITY  
+
+IN NO EVENT WILL SITE METER BE LIABLE TO THE CUSTOMER OR ANY THIRD PARTY FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL, INDIRECT, EXEMPLARY OR PUNITIVE DAMAGES OF ANY KIND OR NATURE, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS OR REVENUE, LOSS OR DAMAGE OF DATA, AND DAMAGE TO BUSINESS REPUTATION OR GOODWILL, UNDER ANY THEORY OF LAW OR EQUITY, REGARDLESS OF WHETHER WE KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES.
+FURTHERMORE, IN NO EVENT WILL SITE METER'S TOTAL, CUMULATIVE LIABILITY UNDER THIS AGREEMENT EXCEED THE AMOUNT RECEIVED BY SITE METER FROM THE CUSTOMER UNDER THIS AGREEMENT.
+11.
+==========
+GOVERNING LAW AND JURISDICTION; DISPUTE RESOLUTION 
+
+	The laws of the United States of America and the internal laws of the State of California shall govern this Agreement, without regard to any principles of conflicts of laws.
+You hereby consent to the exclusive jurisdiction of the state and federal courts located in California, as well as such specific venue as determined and selected by Site Meter in its sole discretion, in all disputes arising out of or relating to this Agreement or your use of the Services, regardless of whether such action is commenced by Customer against Site Meter.
+==========
+The prevailing party in any dispute relating to the Service or this Agreement will be entitled to recover its costs, expenses and reasonable attorney fees incurred in connection with such dispute.
+Notwithstanding anything to the contrary contained herein, if a dispute arises under this Agreement, the parties shall first attempt, for a period of thirty (30) days after notice from either party, to resolve the dispute in good faith by direct negotiation of representatives of the respective parties.
+Any costs and fees associated with the informal dispute resolution shall be shared equally by the parties.
+12.
+TERM AND TERMINATION 
+
+	This Agreement is effective until terminated by Site Meter or Customer in accordance with the terms and conditions set forth in this Agreement.
+13.
+NATURE OF RELATIONSHIP 
+
+	No agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship is intended or created by this Agreement between Site Meter and Customer.
+14.
+SEVERABILITY
+
+In the event that one or more portions of this Agreement shall, for any reason, be held to be invalid, illegal or unenforceable in any respect, such validity, illegality or unenforceability shall not affect the enforceability of any other provision contained in this Agreement.
+15.
+==========
+NO WAIVER
+
+The delay or failure of Site Meter or Customer, at any time or times, to require performance of any provision hereof shall in no manner affect Site Meter's or Customer's right at a later time to enforce such provision.
+No delay or failure of Site Meter or Customer in exercising any right hereunder shall constitute a waiver of such right or any other rights hereunder.
+16.
+THIRD PARTY BENEFICIARIES
+
+Customer agrees that there are no third party beneficiaries of any promises, obligations or representations made by Site Meter herein.
+17.
+==========
+ASSIGNMENT
+
+No Customer may assign its rights or delegate its responsibilities hereunder without the express written permission of Site Meter.
+Site Meter may, at any time, assign its rights or delegate its obligations hereunder without notice to Customer.
+18.
+ENTIRE AGREEMENT 
+
+This Agreement, the Site Meter Privacy Policy and any other guidelines, rules, terms of service, or policies pertaining to any of the Services that may be posted from time to time by Site Meter collectively constitute the entire agreement and understanding concerning the subject matter hereof between Site Meter and Customer and supersede all prior negotiations, proposed agreements, and all other agreements, whether written or oral.
+19.
+==========
+NOTICES
+
+Site Meter may give notice to Customers for any or all purposes by means of a general notice posted on the Website or by means of an e-mail to Customer's e-mail of record.
+All notices or other communications to Site Meter from Customer shall be sent by e-mail at webmaster@sitemeter.com.
+20.
+NOTICES
+
+If you have any questions or comments about this Agreement, or any of the Services, please contact us at webmaster@sitemeter.com.
+==========

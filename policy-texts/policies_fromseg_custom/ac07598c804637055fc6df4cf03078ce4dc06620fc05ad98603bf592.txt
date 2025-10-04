@@ -1,0 +1,61 @@
+3.
+AudienceRun site visitors and users (including opt-out options)  site visitors and users (including opt-out options) This privacy policy concerns visitors of Our Site.
+==========
+We detail what information we collect and its purpose, what cookies and other similar technologies we use, how we share this information and your rights.
+Site Visitors: You are a Site Visitor when you visit and interact with our web site, web pages and their content on audiencerun.com (“Our Site “).
+Collection and use of information:  We want to understand what services on our sites are of interest to you and we want to remind you of the services we offer when you are not on our sites.
+==========
+To do this, we collect the following information about your device: (i) IP address; (ii) User agent data: device type, browser type), operating system; (iii) the pages visited on our sites; (iv) the time of the visit (and the corresponding time zone); and (v) referrer URLs and other information normally transmitted in HTTP requests.
+In addition, we may also collect your name and email address if you agree to send your details to us through our site (for example, by signing up to receive our newsletter).
+==========
+Cookies and any technologies used:  Please see this cookie table, which is updated from time to time, in the 'cookies' tab for a detailed list of first-party and third-party cookies (and their corresponding retention periods) that may be used when you visit our website.
+We do not sell and / or share personal data about you with third parties for the purposes of third-party marketing or advertising.
+We may use various third parties (each listed in the cookie table) to help us market or advertise to you.
+We require that these third parties and companies agree to comply with all applicable data protection laws, to keep all information shared with them confidential, and to use that information only to fulfill their obligations to us.
+==========
+On our site, you will notice clickable icons that will take you to the AudienceRun Facebook page or the AudienceRun LinkedIn page.
+If you choose to click on these links, you should be aware that these sites are not owned or operated by AudienceRun and therefore these third-party websites may send their own cookies to your device and collect personal data independently.
+It is therefore important that you familiarize yourself with the privacy policies of these third-party websites.
+==========
+You can stop visiting Our Site at any time.
+If you do, you may also want to remove any cookies that we have placed on any device used to access Our Site, you can do this via your browser.
+If during your use of Our Site you provided your email address, any email you receive from AudienceRun includes an “unsubscribe” option.
+For visitors to the site in Europe, AudienceRun has set up a consent management system on the site which offers you the possibility of consenting, or not, to cookies and similar tracking technologies.
+When accessing our sites, you will see a banner with information about the cookies we use.
+You can click on the banner to decline all cookies (for example, performance cookies or targeting cookies) that are not strictly necessary cookies (as defined in the cookies table).
+By pressing 'I accept' on the banner, you indicate your acceptance of cookies and similar tracking technologies.
+==========
+The legal basis of AudienceRun for the processing of personal data of site visitors from the European territory on our sites is consent.
+You can withdraw your consent at any time in the Cookie settings.
+About all other visitors to the site not located in European territories, we rely on our legitimate interest in the processing of personal data, but this does not prevent non-European site visitors from withdrawing their consent at any time.
+via consent management.
+==========
+Users: You are a user when you visit a page of a website or application of one of our partners (“Partner Sites”).
+If you click on the hyperlink to AudienceRun, you will see a detailed notice which allows you to navigate to AudienceRun's interest portal and this privacy policy where you can opt out of personalized recommendations.
+In some cases, a partner may have the AudienceRun service white label for its own offer.
+In such a case, these partners must disclose their use of AudienceRun in their privacy policies.
+==========
+Collection and use of information: We use UUIDs, IP Address and other Usage Information so that we can serve interesting recommendations.
+AudienceRun's recommendations may be paid for by an advertiser linking you to a new website or they may be organic such that the link is to another page on the same Partner's Site.
+UUID.
+When you, as a User, first visit a Partner Site, AudienceRun drops a cookie on your device to generate a UUID.
+Alternatively, if you first interact with a Partner using that Partner's application, AudienceRun receives your advertiser ID which is assigned to you by your device.
+We catalog and analyze the content you consume across Partner Sites.
+==========
+Our recommendations are based on: (i) a UUIDs browsing history; (ii) similar browsing patterns of other Users; (iii) recommendations that are generally popular with AudienceRun's audience at this time; (iv) some randomness.
+When you interact with AudienceRun we do not collect traditional personal data from you, like your email address or name, therefore we cannot associate your name with your UUID.
+The UUID is a sequence of numbers and / or letters.
+==========
+This UUID attaches itself to your device and varies depending on your browser combination.
+In other words, AudienceRun records a different UUID depending on which device and / or which browser you use when accessing the Partner Sites.
+AudienceRun will combine and consolidate a UUID from a mobile device (handheld or tablet) from a browser that then accesses an application (or vice versa) from that same device.
+AudienceRun does not conduct cross device tracking and therefore cannot link a user interacting with AudienceRun on their phone as the same user who is interacting with AudienceRun on their desktop.
+IP Address  In addition to your UUID, we recognise your IP address, which we translate into geolocation and delete the last octet in order to mask the identifying information.
+==========
+We then use this masked information, in conjunction with information we received from other trusted third party partners to determine a broad understanding of where you are located.
+AudienceRun will still recognise your IP address even if you opt out of personalised tracking as this is necessary to continue serving you context-based recommendations however, in such instances your IP address is not associated with your UUID and would not form part of any user profile.
+Other Usage Information  In addition to your UUID and IP address, we also collect the following information from you on (a) desktop and mobile web: (i) User Agent data: device type (e.g., iPhone), browser type, operating system ; (ii) the pages visited; (iii) the time of visit; and (iv) referring URLs and other information normally transmitted in HTTP requests.
+The above statistical information provides us with information about how many Users visited a specific page on our Partner Sites, how long each User stayed on that page, the type of content on that page they clicked on and how they generally engaged with that page.
+This information is considered personal data if Outbrain associates it with a UUID.
+As AudienceRun does not have a direct relationship with Users interacting with Partner Sites, AudienceRun relies on its partners to determine the lawful basis upon which AudienceRun can process personal data.
+==========

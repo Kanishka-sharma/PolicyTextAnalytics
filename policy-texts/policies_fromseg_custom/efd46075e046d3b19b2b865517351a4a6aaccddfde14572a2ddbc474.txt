@@ -1,0 +1,1258 @@
+For Users of Tapjoy Customer Support and Tapjoy Apps
+Introduction and Acceptance
+Welcome to Tapjoy!
+These Tapjoy User Terms Of Service govern your access to and use of the services we offer directly to end users, including our presentation of advertising offers and our customer support (collectively, “Services”).
+Together with our Privacy Policy, which describes our data collection and use practices, these User Terms Of Service form the agreement between you and Tapjoy relating to your access to and use of our Services (“Agreement”), effective as of the date you accept the User Terms Of Service.
+THESE TAPJOY USER TERMS OF SERVICE CONTAIN A BINDING ARBITRATION AGREEMENT, CLASS ACTION WAIVER, AND JURY TRIAL WAIVER.
+By accepting these User Terms Of Service, you agree to arbitration under the arbitration terms below, and waive your right to pursue a class action or to have your dispute decided by a jury.
+See “Dispute Resolution, Agreement to Arbitrate, Class Action Waiver, and Jury Trial Waiver” below for details.
+==========
+You are responsible for reviewing the documents that make up the Agreement before clicking to accept the User Terms Of Service.
+By clicking to accept the User Terms Of Service (for example, as part of submitting a support request), you agree to be bound by the Agreement and, if you are an individual acting on behalf of a company or other entity, you represent that you have the authority to bind that entity and accept this Agreement on its behalf.
+If you do not have that authority or do not accept the Agreement, then you should not click to accept and Tapjoy does not authorize you or the entity to access or use our Services.
+(References to “you” mean the person or entity accepting the User Terms Of Service; references to “we” or Tapjoy” mean Tapjoy, Inc., including our affiliates.)
+Tapjoy User Services
+These User Terms Of Service cover the Services that Tapjoy offers directly to end users, including customer support for issues related to advertising offers powered by Tapjoy.
+Users of our legacy apps, such as TapDefense, TapOut, or Coloroid, and our legacy app-discovery and currency-management services (MyTapjoy) should be aware that we are no longer maintaining or updating these apps and services; you may continue to use them at your own risk, subject to the applicable terms of use.
+Users of third-party apps encountering issues not related to Tapjoy-powered advertising offers should contact the app publisher directly; we cannot assist you with those support questions.
+General Requirements
+You agree to use our Services only as we provide them, and only in accordance with these User Terms Of Service, any additional instructions we provide you, and applicable laws and regulations.
+==========
+We reserve the right to add, remove, or modify our Services at any time.
+Tapjoy does not knowingly provide Services to children, meaning users under the age of 13 or the applicable minimum age of online consent where you are located.
+If you are under the minimum age applicable to you, please do not use our Services or send us any information about yourself.
+If you believe that we may have any information from or about a child, please contact us at privacy@tapjoy.com.
+If we learn that we have collected personal information from a child without verifiable parental consent, we will delete that information.
+==========
+On rare occasions, a reward offer you receive while using the Services may have actual monetary value in your place of residence; if you receive any taxable compensation through the use of our Services, you will be solely responsible for any resulting taxes or similar obligations.
+You are prohibited from using the Services in connection with fraudulent, abusive, or illegal activity, including but not limited to device ID manipulation, misrepresentation of offer eligibility (including deceptive geolocation manipulations), interference with our services or systems (bots, crawling, spam, etc.), or attempts to decompile or reverse engineer our code (other than as permitted by law).
+We make the Services available to you for use solely for your personal benefit; you may not use the Services for commercial purposes or financial gain.
+For example, you are not allowed to sell or rent our Services to a third party or otherwise exploit our Services for the economic benefit of a third party.
+We make our Services available as part of a virtuous circle that allows users like you to be rewarded for their time and attention, publishers to earn money through their apps, and advertisers to reach users who may be interested in their products and services.
+If we believe that your behavior is in any way abusive or disruptive of our ecosystem, we reserve the right to take action against you, including suspension or permanent ban.
+==========
+Customer Support
+Tapjoy offers customer support to end users for issues related to in-app advertising offers.
+To make a support request, contact us by clicking the in-app link.
+We cannot accept requests submitted through other channels, such as email or telephone.
+==========
+Initial Request - Timing Requirements
+Rewards for completed advertising offers may take up to 48 hours to appear in your account, so please wait that long before filing a support request.
+Requests filed prematurely cannot be processed; please wait to see if the issue persists after the initial 48-hour window has passed.
+You can check the status of pending rewards by opening the app in which you viewed the offer, navigating to the Tapjoy advertising offerwall inside the app, and selecting “Reward Status” from the menu (typically in the top left corner).
+Customer support requests must be made within 14 days of your first interaction with the in-app advertising offer involved in your request.
+Requests made beyond that 14-day window cannot be processed.
+==========
+Timing Expectations for Response and Resolution
+Some support requests are easy to resolve; others may require multiple rounds of investigation with the user, the advertiser, the publisher of the app, our internal technical team, or some or all of the above.
+The time it takes to resolve a support request depends on several factors, including how complex the issue is as well as advertiser and publisher responsiveness, customer support workload, user cooperation, and other factors.
+For that reason, we do not promise that support requests will be resolved within a specific time frame; we do, however, strive to respond to your initial request within 24 hours of receiving it.
+If we ask you for your assistance, for example by providing screenshots or other information, and you do not provide it within the timeframe requested, we may close your support request without further action.
+Behavior Expectations
+We understand that it’s frustrating when something doesn’t work as expected or takes longer than you’d like; however, please don’t take your frustration out on our support team.
+We do not tolerate abusive language or actions; consequences of profanity or other abusive behavior may include immediate closure of your support request and the suspension or permanent termination of your Tapjoy privileges, in addition to any other equitable or legal remedies available to us.
+What Data Is Involved
+When you submit a customer support request, we receive and store device identifiers for the device involved in your request — specifically, its unique device identifier (UDID) and its advertising identifier (IDFA for iOS devices, Android Advertising ID for Android devices), along with your email address and IP address, and your name if you choose to provide it.
+==========
+We use this information to respond to your request and help prevent fraud.
+If resolution of your request requires coordination with the advertiser or publisher involved, we may share your support request information with them, including the device identifiers and your email address, as necessary to research and respond to your request.
+In rare cases, a support request may involve telephone contact; in that case, the user’s telephone number is used only to return the call.
+We combine and analyze information about customer support requests, including device identifiers and IP addresses, to identify trends, spot problems, prevent fraud, and look for ways to improve our services.
+For more information about how Tapjoy uses data, including to target and optimize advertising, please refer to our privacy policy (https://www.tapjoy.com/legal/#privacy-policy).
+==========
+Other Important and Binding Provisions
+Indemnity Obligation
+We make our Services available at no cost to end users like you.
+As a condition of using them, if your use of our Services causes liability to Tapjoy, you agree to indemnify and hold Tapjoy harmless from all damages, losses and expenses of any kind, including reasonable legal fees and associated costs arising out of or otherwise related to your use of the Services.
+This means that if someone sues Tapjoy due to your conduct in using our Services, you will be legally and financially responsible.
+Disclaimers and Limitations on Liability
+We use commercially reasonable efforts to provide you with an enjoyable experience.
+However, we do not promise or guarantee anything about your use of or experience with our Services.
+==========
+Tapjoy has no special relationship with, or fiduciary duty to, you.
+You acknowledge that Tapjoy makes no representations regarding, has no control over, and has no duty to take any action regarding, any third-party apps or other content or materials you may access in the course of using our Services, and you release Tapjoy from all liability in connection therewith.
+Tapjoy will not be responsible or liable for the accuracy, copyright compliance, legality or decency of third-party content or material contained in or accessed through our Services.
+TO THE EXTENT PERMITTED UNDER APPLICABLE LAW, THE TAPJOY SERVICES ARE PROVIDED TO YOU ON AN “AS IS” BASIS.
+TAPJOY FULLY DISCLAIMS, ON ITS OWN BEHALF AND ON BEHALF OF ITS AFFILIATES AND ITS AND THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, SUBSIDIARIES, AND CONTRACTORS, ALL WARRANTIES, EXPRESS OR IMPLIED, RELATING TO THE TAPJOY SERVICES, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ERROR-FREE OR UNINTERRUPTED SERVICE.
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL TAPJOY OR ITS SUPPLIERS, OR THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE WITH RESPECT TO THE TAPJOY SERVICES OR THE SUBJECT MATTER OF THIS AGREEMENT, UNDER ANY CONTRACT, NEGLIGENCE, TORT, STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY: (I) FOR ANY AMOUNT IN THE AGGREGATE IN EXCESS OF THE GREATER OF FEES PAID BY YOU THEREFOR OR $10; (II) FOR ANY INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER; (III) FOR DATA LOSS OR COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; OR (IV) FOR ANY MATTER BEYOND TAPJOY’S REASONABLE CONTROL.
+==========
+Dispute Resolution Terms
+Agreement to Arbitrate, Class Action Waiver, and Jury Trial Waiver
+These User Terms Of Service, and any dispute arising between Tapjoy and you under the Terms or otherwise in connection with your use of the Services, shall be governed by applicable federal law, the Federal Arbitration Act, and the laws of the State of California, without regard to principles of conflict of laws.
+EU Residents
+If you are a resident of a European Union Member State and you wish to institute an action arising from or relating to the subject matter of this Agreement, you may choose to do so either in the national courts of your country of residence, or through binding arbitration as set forth below.
+Non-EU Residents
+For users residing outside the European Union, you and we agree that any dispute arising from or relating to the Services or this Agreement shall be finally settled by arbitration, using the English language in accordance with the then-current Arbitration Rules and Procedures of Judicial Arbitration and Mediation Services, Inc. (“JAMS”), except that either of us may bring an individual claim in small claims court if it qualifies.
+==========
+Both parties agree that either party may bring suit in court to enjoin infringement or other misuse of intellectual property rights, or to seek other provisional remedies in aid of arbitration from a court of appropriate jurisdiction.
+Arbitration
+In arbitration, instead of a judge or jury, there is an arbitrator, and court review of an arbitration award is limited.
+However, an arbitrator can grant, on an individual basis, the same damages and relief as a court, including injunctive and declaratory relief or statutory damages.
+Who will be the arbitrator?
+Both parties agree that the arbitration will be conducted by one arbitrator, selected from a list of potential arbitrators provided by JAMS.
+If the parties cannot agree on the arbitrator, selection will be conducted in accordance with the JAMS Comprehensive or Streamlined Arbitration Rules & Procedures (the “JAMS Rules”), as applicable.
+What rules will govern the arbitration?
+The JAMS Arbitration Rules & Procedures of JAMS (Comprehensive for claims exceeding $250,000, or Streamlined, for claims below that amount) will govern the arbitration, as well as the payment of filing, administration and arbitrator fees.
+==========
+Where will it take place?
+As part of our commitment to the mobile economy, any arbitration will take place by videoconference (Pacific time), which allows you to participate from the location of your choice.
+(Tapjoy will participate from our headquarters in San Francisco, CA.)
+==========
+How is an arbitration started?
+To begin an arbitration proceeding, you must send a written notice requesting arbitration and describing your claim to Tapjoy, Inc. ℅ our registered agent, Corporation Service Company (CSC-Lawyers Incorporating Service), 2710 Gateway Oaks Drive, Suite 150N, Sacramento, CA 95833-3505; if we wish to initiate arbitration, we must notify you in writing.
+Who pays the costs?
+We will reimburse you for your filing fee upon being notified of the filing, and your share of the arbitration costs and fees (not including your attorneys’ fees) at the conclusion of proceedings, if your claim is for US $10,000 or less.
+For claims above $10,000, the costs will be split between you and us according to the JAMS Rules.
+For claims of any size, if the arbitrator determines that one party’s claims (or counterclaims) were frivolous, the arbitrator may order them to pay the other party’s attorneys’ fees and/or costs.
+Who is responsible for attorneys’ fees?
+Each party is responsible for paying its own attorneys’ fees and costs; however, if the arbitrator determines that one party’s claims (or counterclaims) were frivolous, the arbitrator may order them to pay the other party’s attorneys’ fees and/or costs.
+Judgment upon the arbitrator’s award may be entered in a court having jurisdiction, or application may be made to such court for judicial acceptance of any award and an order of enforcement, as the case may be.
+==========
+The Federal Arbitration Act governs the interpretation and enforcement of this Agreement to Arbitrate.
+Class Action Waiver
+Both parties agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated or representative action.
+The decision of the arbitrator (or small claims court judge) only affects the specific parties involved in the claim, and does not extend to third parties or other users of our Services.
+Exclusive Jurisdiction and Venue; Jury Trial Waiver
+Both parties consent to exclusive jurisdiction and venue in the United States Federal Courts located in the Northern District of California for any dispute not handled through arbitration or in small claims court, as described above.
+If for any reason a claim proceeds in court rather than in arbitration, we each waive any right to a jury trial.
+==========
+Arbitration Opt-Out
+You may opt out from arbitration within the first thirty days after accepting these Terms, by writing to Tapjoy, Inc., 353 Sacramento Street, 6th Floor, San Francisco, CA, 94111, Attn: Arbitration Opt-Out, or emailing user_arbitration_optout@tapjoy.com; in each case, please provide your name, address, and the advertising identifier(s) of the mobile device you use with Tapjoy and the email address(es) used to contact customer support.
+Miscellaneous
+The Agreement remains in effect between you and Tapjoy for as long as you continue to use our Services.
+We reserve the right to make changes to our Services and these User Terms Of Service at any time.
+If you are dissatisfied with the Services, your sole remedy is to stop using the Services.
+We reserve the right, in our sole discretion, to reject or remove any customer support request and to restrict, suspend, or terminate your access to or use of our Services, at any time and with or without notice, without liability to you.
+The provisions following the heading “Other Important and Binding Provisions” shall survive termination.
+==========
+Except as required by applicable law, both parties agree that this Agreement is the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement, and that all modifications must be in a writing signed by both parties, except as otherwise provided herein.
+The Agreement supersedes and replaces any prior agreements regarding your use of the Services, and does not create any third party beneficiary rights.
+If for some reason we do not take prompt action regarding your violation of these User Terms Of Service, this will not mean that we are giving up the right to do so in the future.
+If for some reason any portion of these User Terms Of Service is found to be unenforceable between the parties, that shall not affect the rest of the User Terms Of Service.
+If these User Terms Of Service conflict with any other terms of use for other services that we are providing to you, the other terms shall control over these User Terms Of Service.
+You may not assign or transfer this Agreement, or any rights or obligations granted under it, to any other person without our express written consent.
+Tapjoy may freely assign its rights or obligations without your consent.
+==========
+Contact Information
+For help with a customer support request, please use the in-app link to Customer Support to file a new request or to check the status of your existing support requests.
+General support information may be viewed at support.tapjoy.com.
+If you have other questions or concerns about our Services, you can contact us via regular mail at Tapjoy, Inc., 353 Sacramento Street, 6th Floor, San Francisco, CA 94111, Attention: Customer Support.
+Please note - support requests cannot be submitted via email or postal mail; please use the in-app link instead.
+Last Updated: October 2, 2018
+
+                 
+
+The following guidelines apply to your use of the Tapjoy Publisher Services.
+Read them carefully and contact one of our representatives at support@tapjoy.com if you have any questions about how to best comply.
+Make sure to check this website from time to time as we update our guidelines in response to important changes in the monetization world.
+Publishers operating in violation of our guidelines face consequences that may include, without limitation, suspension or termination of their access to Tapjoy Publisher Services, and delay or forfeiture of payment.
+==========
+As a material condition on your use of Tapjoy Publisher Services, you agree that you will not, under any circumstances:
+
+Engage in fraud, whether directly or by supporting, encouraging, or facilitating someone else’s actions, including by: 
+
+Using optimization services or software to inflate user actions or to generate deceptive information regarding user actions
+Using fraudulent or deceptive practices to generate “user” actions that do not represent of the actual intent of a real user, including the use of deceptive implementation methods, robots, or other automated tools to generate unintended user actions
+Impersonating someone else’s applications, including by using their application ID, bundle ID or other ID on the applicable mobile app store
+Engaging in “bait-and-switch,” meaning submitting an application, product, services, or content for use or approval, and later substituting something that is materially different or modified without notifying us of the change, or
+Using Tapjoy Publisher Services in connection with harmful code, including but not limited to programming routines that could harm a user’s device
+
+
+Violate the platform terms or requirements (Apple App Store/Google Play Store) applicable to you and your applications
+Promote or distribute, through your applications:
+
+Illegal or prohibited substances, services, products or materials (meaning, illegal or prohibited in the state, country, or other jurisdiction where the application is published or distributed)
+Sale of beer, wine or hard alcohol, tobacco or tobacco-related products, weapons or ammunition, or products that are replicas or imitations of designer goods
+Illegal gambling, sweepstakes, or any similar activities
+Content of an explicit adult nature, including images, videos or text portraying nudity, sexual acts or products of an adult nature, or
+Content that is (i) defamatory or libelous or constitutes trade disparagement or libel, (ii) lewd, pornographic or obscene, (iii) promotes violence or hate speech, or (iv) otherwise has the potential of causing liability or embarrassment for Tapjoy or our advertisers
+
+
+Use Tapjoy Publisher Services in connection with any application directed to children, or with users known to be below the locally applicable minimum age without consent of their parent or equivalent;
+Violate any law, statute, ordinance, rule or regulation applicable to you or your application, including those governing (i) data privacy and use, (ii) misleading, false, or deceptive advertising, (iii) mobile advertising or marketing, (iv) anti-discrimination, or (v) unfair competition;
+Infringe on any third party’s copyright, patent, trademark, trade secret or other intellectual property or proprietary rights, or any third party right of publicity or privacy;
+Engage in practices that Tapjoy, in our sole and reasonable discretion, determines to be:
+
+Contrary to prevailing industry standards
+Unfair, misleading, deceptive or damaging to Tapjoy, our users and commercial partners, our reputation, or our business, or 
+Otherwise inappropriate or unacceptable
+
+
+
+Tapjoy may, case-by-case, allow publishers to submit applications offering “real world rewards” for approval to use Tapjoy Publisher Services, subject to screening requirements, special economic terms, and additional contractual restrictions.
+As a material condition on your use of Tapjoy Publisher Services, you agree that you will not, unless accepted by Tapjoy as a RWR publisher:
+
+Encourage or facilitate others to take actions with payments including offering cash, gift cards, etc.;
+Use Tapjoy Publisher Services for any application that offers real-world rewards, meaning anything of monetary value, including cash, gift cards, cryptocurrency, etc.;
+Generate virtual rewards for use in someone else’s application or service, whether by direct transfer, transfer codes, or other mechanism.
+Last updated May 25, 2018.
+Tapdaq Limited
+3rd Floor
+29 Ely Place
+London, EC1N 6TD, UK
+Tapjoy Limited
+International Buildings, 5th floor
+71 Kingsway
+London WC2B 6ST, UK
+Tapjoy Wireless Applications Technology Beijing
+B109, F1, Donglang Culture & Creative Industrial Park 
+No.10 Langjiayuan, Jianguomenwai Avenue 
+ChaoYang District, Beijing, P.R. China 100022
+Tapjoy Korea Co., Ltd. (Korea)
+41/F Gangnam Finance Center
+737 Yesoksam-dong Gangnam-gu
+Seoul, 125-984 Korea
+Tapjoy Japan KK
+Daikanyama Takara Building II - 3F
+1-3-2, Kamimegura, Megura-ku
+Tokyo, 153-0051 Japan
+Tapjoy Korea Co., Limited and 5Rocks Inc.
+6th Floor of Samjung Building, 20
+Teheran-ro 20-gil
+Gangnam-gu, Seoul, South Korea 06235
+
+
+Welcome to Tapjoy!
+==========
+We hope you’ll join our network of publishers, so we’ve made our SDK available for your evaluation.
+By clicking to download it, you agree to use it only for evaluation purposes; in exchange, Tapjoy grants you a limited, non-commercial license to use and review the SDK, again solely for evaluation purposes.
+After evaluating, if you would like to integrate our SDK and start using our publisher platform and services, please register with Tapjoy and click to accept our publisher terms and conditions.
+Last updated May 19, 2017.
+==========
+THESE TAPJOY ADVERTISER TERMS OF SERVICE (THE “TERMS OF SERVICE”) GOVERN YOUR USE OF THE SERVICES WE OFFER ADVERTISERS.
+BY CLICKING TO ACCEPT THESE TERMS OF SERVICE, OR BY EXECUTING AN INSERTION ORDER OR OTHER FORM THAT REFERENCES THESE TERMS OF SERVICE, YOU AGREE TO THESE TERMS OF SERVICE, EFFECTIVE ON THE DATE YOU CLICK OR SIGN.
+YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND THE ENTITY ON WHOSE BEHALF YOU ARE ENTERING INTO THIS THESE TERMS OF SERVICE.
+IF YOU DO NOT HAVE THAT AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS OF SERVICE, THEN YOU SHOULD NOT ACCEPT THESE TERMS OF SERVICE AND ARE NOT AUTHORIZED TO ACCESS OR USE OUR ADVERTISING SERVICE.
+(References to “you” or “Advertiser” mean the person or entity accepting these Terms of Service; references to “we” or “Tapjoy” mean Tapjoy, Inc.)
+Advertiser and Tapjoy agree as follows:
+1.
+==========
+Advertising Services
+1.1  Advertiser and Tapjoy shall mutually agree upon the terms of an insertion order (or other contracting mechanism, as applicable) (referred to herein as an “Insertion Order” or “IO”) setting forth the details of the advertising campaign, which details may include among others: the type and quantity of ad placements, the rate price per ad placement, the maximum budget allotted to the campaign, the flight and campaign dates, etc., and which shall incorporate by reference these Terms of Service.
+1.2  Advertiser will deliver the Advertisements (defined below) and implement conversion tracking in accordance with the applicable technical specifications provided by Tapjoy, and Tapjoy will make commercially reasonable efforts to serve the Advertisements to the Inventory (defined below) in accordance with the applicable Insertion Order (the “Advertising Service”).
+As between the parties, Advertiser is solely responsible for any and all costs Advertiser incurs for the production and delivery of the Advertisements in accordance with the aforementioned technical specifications and for any programming undertaken by Advertiser related thereto.
+==========
+Advertiser is solely responsible for the content of any Advertisement, and Tapjoy will not make modifications or alterations thereto without Advertiser’s prior written consent except as required for or otherwise incidental to any technical implementation by Tapjoy of an Advertisement.
+1.3  Advertiser may select a particular implementation of the Advertising Service through the Tapjoy dashboard located at https://dashboard.tapjoy.com/ or at such other URL as provided by Tapjoy from time to time (the “Tapjoy Dashboard”).
+Advertiser may use the Tapjoy Dashboard to specify certain requirements of a particular advertising campaign covered by an IO, including setting the campaign budget, sums to be spent on a daily basis, and dates / targets for delivery of Advertisements.
+Advertiser acknowledges that the sums allocated for a particular day, targets for delivery, and budget allocation between ad units are estimates and not guaranteed.
+==========
+To this end, Tapjoy shall not be liable for sums spent by Advertiser on a particular day which are less than or more than the intended amount.
+By way of example, if Advertiser sets a daily spend limit, it may be necessary for Tapjoy to deliver Advertisements in excess of the corresponding conversion amounts, in anticipation that not all Advertisements delivered will be converted.
+Advertiser acknowledges that placement and promotion of Advertisements shall be, as between the parties, at Tapjoy’s discretion.
+1.4.
+Upon enrollment, you may create a password-protected Tapjoy Dashboard account.
+Advertiser accounts are personal to each Advertiser, and may not be shared with or serviced by third parties except to the extent you authorize an agency to operate your account on your behalf.
+==========
+You are responsible for protecting the security of your account and for any access to or use of it, whether or not specifically authorized by you.
+You agree to use industry-standard security practices to protect your account credentials, and to notify us immediately of any unauthorized access or use or other security breach; we disclaim all liability, whether to you or any third party, that arises based on your breach of this Section.
+2.
+License
+Advertiser hereby grants to Tapjoy the worldwide, non-sublicensable (except to the extent required by Tapjoy to fulfill the purposes hereof), non-exclusive, royalty-free, fully paid up, right and license to use, serve, copy, reproduce, distribute and display, in any medium now known or hereafter developed, the advertisements and all related content, materials and metadata submitted by Advertiser to Tapjoy (collectively, “Advertisement(s)”), along with the data referenced in Section 14 below.
+3.
+==========
+Service Circumvention; Competitive Services
+3.1.
+Advertiser acknowledges the unique value of using the Advertising Service to access the various types of advertising placement inventory on which Tapjoy has a contractual right to serve Ads  (the “Inventory”).
+To this end, Advertiser will not (a) modify or interfere with the Advertising Service, including systems for calculating conversions; or (b) knowingly bypass or circumvent the Advertising Service, including by engaging directly with such Tapjoy Publishers or partners to access their advertising inventory during the term of this Agreement.
+By way of example, and without limiting the generality of the foregoing, Advertiser shall not create or attempt to create a linking or other arrangement circumventing the Advertising Service such that Tapjoy is unable to fully track and monitor the conversions and other events that are the basis for calculating the payments owed by Advertiser to Tapjoy.
+For all pay-per-install campaigns, Advertiser must ensure that its systems promptly notify Tapjoy the first time the relevant application is installed and opened.
+3.2.
+==========
+Advertiser acknowledges that the Advertising Service is not available to entities that run, provide, enable or promote similar advertising services, whether for themselves or for others.
+Advertiser represents, warrants and covenants that it is not such an entity and that it shall not act, directly or indirectly, on its own behalf or on behalf of a third party, in such a capacity during the term of this Agreement.
+4.
+==========
+Payment Terms; Reporting
+4.1.
+Advertiser will pay Tapjoy for all conversions generated during each advertising campaign, whether or not Advertiser has reported such transactions to Tapjoy.
+Tapjoy’s system will be the exclusive system of record for all reporting and calculations.
+==========
+The attribution window used for purposes of calculating conversions runs for the applicable campaign period, plus: (a) forty-eight (48) hours, for campaigns using cost per install (“CPI”) measurements; (b) seven (7) days, for video to install (“V2I”) campaigns; and (c) an unlimited period of time, for campaigns using cost per engagement (“CPE”) or cost per action other than install (“CPA”) measurements.
+Cost per view (“CPV”) measurements are charged upon media completion, which for videos and non-video playables includes media completion and/or user interaction resulting in media completion, and for playables (non-video), includes user click or playable completion.
+For the avoidance of doubt, conversions are billable if occurring within the attribution window if commenced before campaign termination or pause.
+Conversions validated by Tapjoy’s customer service department are automatically deemed within the applicable attribution window and constitute chargeable events.
+Added-value (“AV”) placements set forth on an IO are non-guaranteed estimates, included for reference only; AV fulfillment (or lack thereof) does not affect campaign billing or reporting.
+==========
+Advertiser will pay Tapjoy amounts based on Tapjoy’s invoice.
+Payments are due ten (10) days after receipt of invoice.
+Without waiver to such payment obligation, if Advertiser, in good faith, disputes any amount due, then Advertiser shall provide notice to Tapjoy on or before the invoice payment due date.
+Advertiser acknowledges and agrees that (a) failure to notify Tapjoy of disputed amounts within said 10-day time period shall be deemed acceptance of the applicable invoice and waiver of any right to dispute the invoiced amount, and (b) no credit will be provided to Advertiser on conversions based on user chargebacks of the underlying Advertiser transaction.
+Tapjoy reserves the right to charge, and Advertiser agrees to pay, interest on amounts due but not paid in the time frame set forth above an amount equal to the lesser of one and one-half percent (1.5%) per month or the maximum amount permitted by applicable law.
+Any pre-paid account balances are non-refundable and will be reduced to offset amounts owed as they are incurred, and Advertiser hereby consents to such right of offset.
+For all other amounts requiring adjustments, in lieu of cash payments, Tapjoy reserves the right to offer marketing credits in the form of non-monetizable and non-transferable credits issued for promotion through the Advertising Service.
+Such credits, if any, shall be Advertiser’s sole and exclusive remedy regarding any claim asserting non-fulfillment, in whole or in part, of an Insertion Order.
+All billing and transaction times referenced in the Agreement are on Coordinated Universal Time (UTC).
+==========
+All amounts shall be invoiced and paid in United States dollars and do not include taxes that may be assessed by any jurisdiction or transmission fees that may be assessed by Advertiser’s banking institution, each of which shall be Advertiser’s sole responsibility.
+If withholding taxes or other taxes are imposed by any jurisdiction on the transactions made pursuant to this Agreement, Advertiser will promptly pay such taxes to ensure that Tapjoy receives the full amount invoiced to Advertiser without offset or deduction.
+Upon payment of such taxes, Advertiser will furnish to Tapjoy the applicable receipts and/or certificates regarding such remittances as soon as reasonably practicable and in any case within five (5) business days of written request.
+4.2.
+==========
+Advertiser shall provide Tapjoy with all reporting required in order to satisfy the requirements of the Advertising Service, including reporting used to calculate sums owed to Tapjoy.
+To this end, Advertiser shall use all tracking and other technology reasonably required by Tapjoy including, as applicable, the Tapjoy SDK or a third party SDK approved by Tapjoy.
+If a third party SDK or other technology is used, then Advertiser shall provide Tapjoy with all information necessary in order for Tapjoy to access applicable data made available therefrom, including any username and password.
+Except where otherwise provided through the aforementioned technology, such reporting shall be sent to Advertiser’s account manager at Tapjoy or to accountsreceivable@tapjoy.com.
+4.3.
+To integrate the Tapjoy SDK, you may download it from the Tapjoy SDK download website located at https://ltv.tapjoy.com/d/sdks or at such other URL as provided by Tapjoy from time to time.
+You agree to comply with applicable license requirements and to always integrate the then-current version of the SDK.
+5.
+==========
+Fraud
+Tapjoy employs systems designed to detect and filter potentially fraudulent or invalid Advertisement conversion activity, but such systems cannot guarantee detection of all potentially suspect activity.
+Accordingly, Advertiser is responsible for identifying and reporting any such alleged activity to Tapjoy as soon as possible and, in any case, within thirty (30) days from the date of receipt the applicable invoice.
+Advertiser shall timely notify Tapjoy in writing of any such activity by emailing both Advertiser’s Tapjoy account manager and also discrepancy@tapjoy.com.
+6.
+==========
+Content
+Advertiser acknowledges and agrees that Tapjoy is not responsible and has no liability whatsoever for the Advertisements or any content with which the Advertisements may be associated through Advertiser’s website or other properties, and that Tapjoy has no obligation to monitor the foregoing.
+Advertiser is solely responsible (and assumes all liability and risk) for determining whether or not such content is appropriate or acceptable.
+Notwithstanding anything to the contrary stated in the Agreement, Tapjoy reserves the right at its discretion and without notice, to remove or refuse to distribute any Advertisement through the Advertising Service or any content associated therewith.
+7.
+==========
+Compliance with Laws; Misuse of Advertising Service
+Advertiser represents, warrants, and covenants that it will use the Advertising Service and provide Advertisements in compliance with all applicable local, state, national and international laws, rules and regulations, including the CAN-SPAM Act of 2003 and any applicable data protection laws.
+As a condition on using our Services, Advertisers providing Tapjoy with personal data originating from individuals in the European Economic Area or Switzerland agree to be bound by our Tapjoy DPA, absent entry into a separate written agreement with us with substantially similar terms regarding our respective obligations under Applicable Data Protection Laws, as defined therein.
+Advertiser will not, will not agree to, and will not permit, authorize, or encourage any third party to: (a) use the Advertising Service to transmit or otherwise distribute any Advertisement or content that is unlawful, defamatory, libelous, harassing, abusive, fraudulent or obscene, that contains viruses, or is otherwise objectionable, as reasonably determined by Tapjoy; (b) interfere or attempt to interfere with the proper working of the Advertising Service or prevent others from accessing or using the Advertising Service; or otherwise (c) use the Advertising Service in a manner not expressly authorized hereunder or for any fraudulent or unlawful purpose.
+Breach or violation of any of the foregoing may result in immediate termination of this Agreement, at Tapjoy’s sole discretion, and may subject Advertiser to state and federal penalties and other legal consequences.
+Advertiser will promptly notify Tapjoy in writing if it learns of any potential breach of any of subparts (a) through (c) or of any potentially fraudulent or abusive activity.
+Without waiver of Advertiser’s obligations, Tapjoy reserves the right, without obligation, to review the Advertisements and Advertiser’s use of the Advertising Service in order to determine whether a breach of this Agreement has occurred or to comply with any applicable law, regulation, legal process, or governmental request.
+8.
+==========
+Representations, Warranties and Covenants
+Without limiting any other representation, warranty, or covenant of either party herein, each party hereby represents, warrants and covenants to the other that: (a) it has the full right, power and authority to enter into and perform this Agreement; (b) this Agreement is a valid and binding obligation of such party; and (c) it has obtained and shall maintain throughout the term of this Agreement all necessary licenses, authorizations, approvals and consents to enter into and perform its obligations hereunder in compliance with all applicable laws, rules and regulations.
+Without limiting any other representation, warranty or covenant herein, Advertiser hereby represents and warrants that (i) it has the right to grant the rights granted herein; (ii) no Advertisement contains any material that infringes upon or violates any third-party right, including rights arising from contracts between Advertiser and third parties, copyright, trademark, class action, patent, consumer protection laws, trade secret, moral rights, or any other intellectual property or proprietary right, or slanders, defames, libels, or invades the right of privacy, publicity, or other rights of any person; (iii) no Advertisement provided by it contains any viruses, Trojan horses, trap doors, back doors, Easter eggs, worms, time bombs, cancelbots, or other computer programming routines that may potentially damage or interfere with the Advertising Service, or intercept or expropriate any system data or personal information from the Advertising Service; (iv) no Advertisement will be directed to children (meaning users under age 13 or as otherwise defined under applicable law for the relevant jurisdiction, including but not limited to the Children’s Online Privacy Protection Act (“COPPA”) in the United States and the General Data Protection Regulation in the European Union, European Economic Area, and Switzerland); and (v) any Advertisements directed to youths (meaning users younger than 18 but older than the applicable local definition of “child”) will comply with the guidelines of the Children’s Advertising Review Unit in the U.S., or the applicable local equivalent where the Advertisements will be displayed.
+9.
+==========
+Indemnification
+Each party will indemnify, defend and hold harmless the other and its affiliates and each of their respective officers, directors, employees, and agents from and against any losses, costs, liabilities, damages, claims and expenses, including reasonable attorneys’ fees, arising out of any breach of the representations, warranties and covenants made by such party herein.
+The indemnifying party reserves the right, at its expense, to assume the exclusive defense and control of any matter for which it is required to indemnify the indemnified party, and the indemnified party agrees to reasonably cooperate with the indemnifying party’s defense of such claims and shall have the right to participate with counsel of its own choosing at its own expense.
+The indemnifying party will not enter into any settlement of any claim without the prior written consent of the indemnified party, such consent not to be unreasonably withheld or conditioned.
+10.
+==========
+Disclaimers; No Warranties
+10.1  EXCEPT AS EXPRESSLY SET FORTH IN SECTION 8 ABOVE, TAPJOY ON BEHALF OF ITSELF AND ITS SUBSIDIARIES AND AFFILIATES DISCLAIMS ANY AND ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, OR ARISING BY STATUTE, CUSTOM, COURSE OF DEALING OR TRADE USAGE, WITH RESPECT TO ANY MATTER, INCLUDING BUT NOT LIMITED TO: ADVERTISING; THE ADVERTISING SERVICE; APPLICATION ADVERTISERS; APPLICATIONS, INCLUDING BUT NOT LIMITED TO APPLICATIONS IN THE INVENTORY AND ANY APPLICATION(S) IN WHICH ADVERTISEMENTS ARE PLACED; THE TAPJOY SDK; AND ANY OTHER TAPJOY PRODUCTS OR SERVICES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF PERFORMANCE, NONINFRINGEMENT, TITLE, MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, OR UNINTERRUPTED OR ERROR-FREE SERVICE.
+TAPJOY MAKES NO GUARANTEE REGARDING THE VOLUME OR TIMING OF ACTIONS IN CONNECTION WITH THE ADVERTISING SERVICE.
+TAPJOY DOES NOT WARRANT THE RESULTS OF USE OF THE ADVERTISING SERVICE, INCLUDING THE RESULTS OF ANY ADVERTISING CAMPAIGN, AND ADVERTISER ASSUMES ALL RISK AND RESPONSIBILITY WITH RESPECT THERETO.
+==========
+WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, TAPJOY DISCLAIMS ALL GUARANTEES REGARDING POSITIONING, RANKING, RATING, LEVELS, OR TIMING OF: (A) ADVERTISEMENTS’ DELIVERY ON SPECIFIC PUBLISHERS’ INVENTORY; OR (B) CLICKS, CONVERSION RATES, OR OTHER USER ACTIONS.
+ADVERTISER ACKNOWLEDGES THAT THE ADVERTISING SERVICE IS BASED, IN WHOLE OR IN PART, ON AN AUCTION MODEL, AND CONSEQUENTLY VOLUMES VARY BASED ON PRICE, CONVERSION RATES, AND OTHER FACTORS THAT MAY NOT BE WITHIN TAPJOY’S CONTROL.
+10.2  You acknowledge and agree that Tapjoy is not affiliated with or responsible for any third-party products or services displayed, distributed or otherwise promoted in connection with the Tapjoy Advertiser Services, including without limitation, your Advertisements.
+Tapjoy neither represents nor endorses the quality, accuracy, reliability, integrity or legality of any third party products or services, nor the truth or accuracy of the description of any Advertisements, links, content, advice, opinions, offers, proposals, statements, data or other information from any third party products or services that are displayed, distributed or otherwise used in connection with the Tapjoy Advertiser Services.
+11.
+==========
+Limitation of Liability and Damages
+UNDER NO CIRCUMSTANCES WILL TAPJOY OR ITS AFFILIATES BE LIABLE FOR ANY SPECIAL, INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, RELIANCE, OR EXEMPLARY DAMAGES ARISING OUT OF OR RELATING TO THIS AGREEMENT INCLUDING, WITHOUT LIMITATION, COSTS OF PROCUREMENT OF SUBSTITUTE PRODUCTS OR SERVICES, LOST PROFITS, DATA OR BUSINESS, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT OR TORT (INCLUDING NEGLIGENCE, WARRANTY OR OTHERWISE), EVEN IF SUCH PARTY OR SUCH PARTY’S AUTHORIZED REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+IN NO EVENT WILL TAPJOY’S OR ITS AFFILIATES’ TOTAL LIABILITY TO ADVERTISER OR TO ANY OTHER PARTY FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT (WHETHER IN CONTRACT OR TORT, INCLUDING NEGLIGENCE, WARRANTY, OR OTHERWISE) EXCEED THE AMOUNT RECEIVED BY TAPJOY FROM ADVERTISER FOR THE INSERTION ORDER TO WHICH THE CLAIM RELATES IN THE IMMEDIATELY PRECEDING SIX (6) MONTH PERIOD.
+ADVERTISER SHALL NOT, AND HEREBY WAIVES THE RIGHT TO, COMMENCE ANY ACTION, SUIT OR PROCEEDING AGAINST TAPJOY MORE THAN ONE (1) YEAR AFTER THE DATE UPON WHICH THE CLAIM FIRST AROSE.
+12.
+==========
+Ownership
+12.1  As between the parties, Tapjoy owns and will retain all rights, title, and interest in and to the Advertising Service, including all software and data related thereto.
+Advertiser acknowledges that such software and data (including any usage data or compilations thereof but expressly not including any user information submitted to Advertiser through the Advertising Service) are copyrighted by Tapjoy and may contain trade secrets or other intellectual property owned by Tapjoy.
+Advertiser will not copy, alter, modify, or create derivative works of the Advertising Service or otherwise use the Advertising Service in any way that violates the restrictions contained in this Agreement.
+For the avoidance of doubt, Tapjoy does not grant to Advertiser any license, express or implied, to the intellectual property of Tapjoy or its licensors.
+13.
+==========
+Confidentiality
+13.1  “Confidential Information” means any information designated in writing, or identified orally at the time of disclosure, by the disclosing party as “confidential” or “proprietary.”
+For the avoidance of doubt, the Advertisements, prior to publication, are Advertiser’s Confidential Information; and the existence or content of the Agreement, as well as all statistics or other data relating to the Advertising Service, are Tapjoy’s Confidential Information.
+During the term of this Agreement, and for a period of two (2) years following termination, subject to the terms of Section 14 (“Data”) below, each party will keep confidential, and neither party will use or disclose, Confidential Information of the other party, except as specifically contemplated herein.
+==========
+The foregoing restriction does not apply to information that: (a) has been independently developed by the receiving party without use of or access to the other party’s Confidential Information and without any breach of any this Agreement; (b) is or has become publicly known through no breach of this Section 13 by the receiving party; (c) has been rightfully received from a third party authorized to make such disclosure and unencumbered by any duty to confidentiality; or (d) has been approved for release in writing by the disclosing party.
+Disclosure of Confidential Information that is required by a competent legal or governmental authority to be disclosed shall not constitute a breach of this Section 13, provided that the receiving party gives the disclosing party prompt written notice of such requirement prior to disclosure.
+13.2  Tapjoy reserves the right to access, read, preserve and disclose any information, including Confidential Information, as it reasonably believes is necessary to (a) satisfy any applicable law, regulation, legal process or governmental request; (b) enforce this Agreement, including investigation of potential violations hereof; (c) detect, prevent, or otherwise address fraud, security, or technical issues; (d) respond to user support requests; or (e) protect the rights, property or safety of Tapjoy, its users and the public.
+14.
+Data
+Notwithstanding anything to the contrary stated in Section 13 (“Confidentiality”) above, Advertiser acknowledges that Tapjoy receives and uses various data concerning users in connection with the Advertising Service as further described in the Tapjoy Privacy Policy located at https://www.tapjoy.com/legal/#privacy-policy or at such other URL as provided by Tapjoy from time to time (the “Privacy Policy”).
+Advertiser represents and warrants that Advertiser has in place notice and consent mechanisms sufficient to allow use by Tapjoy of data provided by or on behalf of Advertiser to Tapjoy in connection with the Advertising Service for conversion tracking, provision, monitoring, improvement and diagnosis of the Advertising Service and otherwise in accordance with the Privacy Policy and, if applicable, the Tapjoy DPA.
+==========
+The terms of this Section 14 (“Data”) shall survive the expiration or termination of the Agreement for any reason.
+15.
+Term; Termination
+15.1  The term shall commence on the acceptance of these Terms of Service and continue until either party terminates this Agreement as set forth herein.
+Tapjoy may terminate this Agreement immediately upon written notice to Advertiser.
+Advertiser may terminate this Agreement upon fifteen (15) days prior written notice to Tapjoy.
+For the avoidance of doubt, the termination of this Agreement shall also terminate any outstanding IO’s between the parties.
+15.2  In the event of any termination, Advertiser will remain liable for any and all amounts due under the Agreement through the effective date of termination and, in the case of Post Campaign Conversions, whenever such conversions arise, and such obligation to pay shall survive any termination of this Agreement.
+15.3  The following sections of these Terms of Service shall survive expiration or termination of the Agreement for any reason: 2, 4.1, 5-14, 15.2, 15.3, 16-20.
+16.
+Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the State of California, U.S., without giving effect to principles of conflicts of law.
+17.
+==========
+Dispute Resolution/Arbitration.
+Please Read This Section Carefully – It May Significantly Affect Your Legal Rights, Including Your Right To File A Lawsuit In Court And To Have A Jury Hear Your Claims.
+Tapjoy and Advertiser agree that these Terms of Service affect interstate commerce and that the Federal Arbitration Act governs the interpretation of these arbitration provisions.
+17.1  Informal Resolution.
+In the event of a dispute, claim, or controversy arising out of or relating to these Terms of Service (including with respect to their validity or enforceability), the Tapjoy Advertiser Services, any person’s or entity’s access to and/or use of the Tapjoy Advertiser Services, and/or the provision of content, products, services, and/or technology on or through the Tapjoy Advertiser Services, Tapjoy or you must first give the other notice of the dispute, claim, or controversy, and the notice must include a brief written statement that sets forth the name, address, and contact information of the party giving it, as well as the facts giving rise to the dispute, claim, or controversy and the relief requested.
+==========
+Notices must be made in accordance with Section 19 hereof.
+Tapjoy and you will attempt to resolve any dispute, claim, or controversy through informal negotiation within thirty (30) days from the date that any notice of dispute, claim, or controversy is sent.
+Tapjoy and you shall use reasonable, good faith, efforts to settle any dispute, claim, or controversy through consultation and good faith negotiations.
+After 30 days, Tapjoy or you may resort to the other alternatives described in this Section.
+Notwithstanding the foregoing, the notice and 30 day negotiation period required by this paragraph shall not apply to Excluded Claims as defined below.
+17.2  Formal Resolution by Arbitration.
+Except as otherwise specifically set forth below, any dispute, claim, or controversy of any kind between Tapjoy and you arising out of or relating to these Terms of Service (including with respect to their validity or enforceability), the Tapjoy Advertiser Services, any person’s or entity’s access to and/or use of the Tapjoy Advertiser Services, and/or the provision of content, products, services, and/or technology on or through the Tapjoy Advertiser Services, if unresolved through informal discussions within thirty (30) days of the sending of the notice described above, shall be resolved by binding arbitration to be held in San Francisco, California, U.S.
+==========
+The arbitration shall be conducted by a single arbitrator, governed by JAMS pursuant to its Comprehensive Arbitration Rules & Procedures (collectively, “JAMS Rules”), as modified by these Terms of Service, and administered by JAMS.
+The JAMS Rules and fee information are available at https://www.jamsadr.com/ or at such other URL as JAMS may provide from time to time, or by calling JAMS at + 1-800-352-5267.
+The decision of the arbitrator will be in writing and binding and conclusive on Tapjoy and you, and judgment to enforce the decision may be entered by any court of competent jurisdiction.
+Tapjoy and you agree that dispositive motions, including without limitation motions to dismiss and motions for summary judgment, will be allowed in the arbitration.
+==========
+The arbitrator must follow these Terms of Service and can award the same damages and relief as a court, including injunctive or other equitable relief and attorney’s fees.
+Tapjoy and you understand that, absent this mandatory arbitration provision, Tapjoy and you would have the right to sue in court and have a jury trial.
+Tapjoy and you further understand that, in some instances, the costs of arbitration could exceed the costs of litigation and that the right to discovery may be more limited in arbitration than in court.
+==========
+17.3  Excluded Claims.
+Notwithstanding the foregoing, disputes, claims, or controversies concerning (i) patents, copyrights, moral rights, trademarks, Confidential Information, or trade secrets; (ii) claims of piracy or unauthorized use of the Tapjoy Advertiser Services; or (iii) your failure to pay fees or the recovery of money owed by you to Tapjoy (collectively, “Excluded Claims”) shall not be subject to required arbitration.
+You or Tapjoy may choose to pursue a claim in small claims court where jurisdiction and venue over you and Tapjoy otherwise qualify for such small claims court and where the claim does not include a request for any type of equitable relief.
+If for any reason a claim, dispute or controversy between Tapjoy and you is before a court (e.g., if the arbitration provisions are found unenforceable or if pursuant to these Terms of Service the matter is not subject to arbitration), Tapjoy and you agree to exclusive personal jurisdiction and venue in the state and federal courts located in San Francisco, California and agree to waive, to the fullest extent allowed by law, any trial by jury.
+==========
+17.4  Applicability.
+This Section 17 will also apply to any claims asserted by you against any present or future parent, subsidiary or affiliated company of Tapjoy, and to any claims asserted by any of them against you, to the extent that any such claims arise out of or relate to these Terms of Service (including with respect to their validity or enforceability), the Tapjoy Advertiser Services, any person’s or entity’s access to and/or use of the Tapjoy Advertiser Services, and/or the provision of content, products, services, and/or technology on or through the Tapjoy Advertiser Services.
+18.
+==========
+Feedback
+All comments, feedback or materials submitted by Advertiser to Tapjoy including feedback, testimonials, images, reviews, questions, comments, suggestions or ideas (collectively, “Feedback”) shall be received and treated by Tapjoy on a non-confidential and unrestricted basis.
+Tapjoy will be free to use, display, perform, distribute, copy, adapt, and promote, in any medium now known or later developed, without compensation to Advertiser, the Feedback along with all ideas, concepts, know-how, techniques or methodologies contained in such Feedback, for any purpose whatsoever, including without limitation, developing, marketing and selling products and services incorporating such Feedback.
+Advertiser agrees that, in submitting Feedback, it will not violate any right of any third party, including any confidentiality, copyright, trademark, privacy or other personal or intellectual property or proprietary rights, and will not cause injury to any person or entity.
+Advertiser further agrees that no Feedback Advertiser submits will be or contain libelous or otherwise unlawful, threatening, abusive or obscene material, or contain viruses, commercial solicitations, or any form of “spam.”
+==========
+19.
+Notices
+Any notice provided pursuant to the Agreement shall be provided in accordance with this Section 19.
+Notices to Advertiser shall be sent by email to the address provided for Advertiser in the Tapjoy Dashboard or in the then most current Insertion Order.
+Notices to Tapjoy shall be sent by email to Advertiser’s Tapjoy account manager, with a copy to legal@tapjoy.com.
+Notwithstanding the foregoing, any notice concerning termination, breach, indemnification or other legal matters shall also concurrently be sent by overnight courier or by prepaid, U.S. certified mail, return receipt requested, to Tapjoy at: Tapjoy, Inc., 353 Sacramento Street, 6th Floor, San Francisco, CA 94111 USA, Attn: Legal Department.
+20.
+==========
+Miscellaneous
+The words “include” and “including” and variations thereof will not be deemed to be terms of limitation, but rather will be deemed to be followed by the words “without limitation.”
+The Agreement, and any rights and licenses granted hereunder, may not be transferred, or assigned by Advertiser without Tapjoy’s prior written consent, provided, however, that Advertiser may assign the Agreement without such consent to any entity (provided that it is not a competitor of Tapjoy) in connection with the merger, consolidation, sale of all or substantially all of its assets, or any other transaction in which more than fifty percent (50%) of Advertiser’s voting securities are transferred.
+Tapjoy may freely transfer or assign any or all of its rights and obligations associated with this Agreement at any time.
+This Agreement shall inure to the benefit of and be binding upon each party’s respective successors and assigns.
+Tapjoy and Advertiser are independent contractors, and neither Tapjoy nor Advertiser is an agent, representative or partner of the other.
+This Agreement, including the DPA if applicable, sets forth the entire agreement between Tapjoy and Advertiser, and supersedes any and all prior and concurrent agreements (whether written or oral) with respect to the subject matter hereof.
+In the event of any conflict or inconsistency between an applicable Insertion Order and these Terms of Service, the terms of the Insertion Order shall govern and control.
+The terms of any Insertion Order may only be modified upon mutual written agreement of the parties executed by representatives of each party, respectively; provided, however, that certain IO modifications, including modifications to bid price and campaign dates, shall be deemed effective upon email confirmation by Advertiser to Tapjoy.
+==========
+The waiver of any breach or default of this Agreement will not constitute a waiver of any subsequent breach or default, and will not act to amend or negate the rights of the waiving party.
+If any provision contained in this Agreement is determined to be invalid, illegal, or unenforceable in any respect under any applicable law, then such provision will be severed and replaced with a new provision that most closely reflects the original intention of the parties, and the remaining provisions of this Agreement will remain in full force and effect.
+Neither party shall be responsible for failure to perform any obligations hereunder (other than the obligation to pay amounts due) due to a cause beyond its reasonable control, including, without limitation, terrorism, fire, civil disturbance, war, rebellion, earthquake, flood and similar occurrences, provided that performance shall resume as soon as possible after the cause no longer prevents performance.
+The use of headings herein is for convenience only and shall not be used to interpret this Agreement.
+==========
+Tapjoy Advertiser Terms of Service updated May 25, 2018.
+Welcome to Tapjoy!
+Our Terms of Service govern your access to and use of the services we offer publishers.
+Together with our Publisher Guidelines, Privacy Policy, and Tapjoy DPA, these Terms of Service form the agreement between you and Tapjoy relating to your access to and use of our Services (“Agreement”), effective as of the date you accept the Terms of Service.
+==========
+You are responsible for reviewing the documents that make up the Agreement before clicking “I accept” or accessing any of our Services.
+By clicking to accept the Terms of Service, you agree to be bound by the Agreement; if you are an individual acting on behalf of a company or other entity, you represent that you have the authority to bind that entity and accept this Agreement on its behalf.
+If you, as an individual, do not have that authority, or if either you or the entity you represent do not accept the Agreement, then you should not click to accept and Tapjoy does not authorize you or the entity to access or use our Services.
+(References to “you” or “Publisher” mean the person or entity accepting the Terms of Service; references to “we” or Tapjoy” mean Tapjoy, Inc.)
+
+Publisher Services.
+We offer several services to publishers (collectively, “Services”); use your Tapjoy publisher account to make selections regarding the Services you wish to use.
+==========
+1.1 Monetization Services.
+“Monetization Services” means the Tapjoy Services that enable you to monetize your application by displaying advertisements provided through Tapjoy to users of your application.
+Monetization Services include (a) general advertising, in which advertisements are sourced directly by Tapjoy, and (b) “Exchange Services,” which means a type of advertising in which advertisements are sourced via Tapjoy’s programmatically integrated exchange partners.
+1.2 Analytics Services.
+“Analytics Service” means the Tapjoy Service that enable you to collect, analyze, and use information about how your users interact with your application(s).
+Pricing and payment terms for the Analytics Service are per our rate card (https://home.tapjoy.com/developers/pricing/), as updated from time to time.
+1.3 Ancillary Services.
+“Ancillary Service” means a Publisher Service other than analytics or monetization, such as cross-promotion and virtual currency management.
+==========
+Publisher Obligations 
+
+2.1 Account Security.
+Once enrolled, you may create a password-protected account in order to use our Services.
+Publisher accounts are personal to each Publisher, and may not be shared with or serviced by third parties.
+You are responsible for protecting the security of your publisher account and for any access to or use of it, whether or not specifically authorized by you.
+You agree to use industry-standard security practices to protect your publisher account credentials, and to notify us immediately of any unauthorized access or use or other security breach; we disclaim all liability, whether to you or any third party, that arises based on your breach of this Section 2.1.
+==========
+2.2 Requirements and Restrictions.
+All publishers using Services must comply with the following requirements and restrictions, as applicable to the Services they use.
+Material violation of these obligations may lead to consequences such as account suspension or termination and delay or forfeiture of associated payments, as well as federal, state, or local legal consequences.
+==========
+Ad Display and Content.
+If you use a Monetization Service, you must display advertisements as provided.
+If you refuse to display an advertisement, or refuse to display it without modification, you must have good reason and promptly notify us in writing.
+Technical Requirements.
+You must comply with our onboarding and integration requirements, such as ad unit placement, delivery, code implementation, and our technical specifications.
+==========
+Exceptions must be pre-approved in writing by Tapjoy.
+You must use our Services only as provided by us, without modification.
+You agree to use the most current release of our SDK when integrating, and to update your integration upon each major version update; use of outdated versions is at your own risk, and we are not liable for any problems that arise as a result.
+Permitted Use Only.
+Our Services are intended for your internal use only; you agree to use them accordingly.
+==========
+In particular, you may use our cross-promotion Service only to promote your Applications; it cannot be used to cross-promote the applications of your partners or affiliates or other third parties.
+Our offerwall ad unit must be used on an exclusive basis only, meaning no other offerwall in the same application.
+Publisher Guidelines and Platform Agreements.
+You must comply with the Tapjoy Publisher Guidelines and the requirements imposed by your platform licensors (i.e., Apple, for iOS Applications, and Google, for Android Applications).
+Prohibited Acts.
+You agree that you will not, directly or indirectly: (i) store, copy, modify, distribute, or resell any advertisement or other content provided to you through the Services (collectively, “Service Content”); (ii) compile or collect Service Content as part of a database or other work; (iii) use automated tools such as bots or spiders to access or use our Services or to store, copy, modify, distribute, or resell any Service Content; (iv) circumvent or disable any digital rights management, usage rules, or other security features of our Services; (v) interfere with our Services’ proper working, overburden our infrastructure, or otherwise harm their integrity, performance, or availability; (vi) remove, alter, or obscure any copyright, trademark or other proprietary notices on Service Content; or (vii) circumvent our Services’ functionality (e.g., by auto-spawning pages, hijacking an end user’s device, generating spontaneous advertisement refreshes) or engage in any form of fraud or deception.
+==========
+Anti-Fraud Measures.
+We want your help in preventing fraudulent user actions in advertising.
+Accordingly, you represent, warrant, and covenant that (a) you have in place and will maintain industry-standard and commercially reasonable measures and efforts to prevent Problem Events, as defined below in Section 3 (Payments); (b) you will maintain commercially reasonable measures to prevent, and will not yourself commit, nor permit, authorize, or encourage any third party to commit: (i) generation of fraudulent impressions or fraudulent clicks; (ii) other fraudulent actions, such as device ID manipulation, circumvention of offer eligibility requirements, or account falsification; or (iii) interference with, disruption, or degradation of our Services, including the servers and networks we use (for example, by using repeated manual clicks, bots, scrapers, or other automated tools, or by breaching our Publisher Guidelines); and (c) you will immediately notify us if you learn of any suspected or confirmed Problem Events or other acts described in the preceding sentence.
+We have the right to review the impressions, click-throughs, or other actions generated in your applications, and you understand that you are not entitled to receive Payments attributable to Problem Events, each as defined in Section 3 (Payments).
+==========
+User Consents and Privacy.
+As between you and Tapjoy, you are the party with a direct (first party) relationship with the users of your applications.
+We have an indirect (second party) relationship with your users, through your integration of our SDK and use of our Services.
+==========
+Your first-party relationship with your user means that, as between you and us, you are better situated to provide notice to your users of the data collection and disclosure practices involved in your use of our Services and to obtain their consent.
+Accordingly, as a condition of using our Services, you must provide appropriate notices to users of your application(s) about data collection and use practices related to your use of our Services and obtain their consent to the Services’ data collection and use, including use to reward users for their engagement with advertisements (for incentivized ad units) and use for behaviorally targeted online advertising.
+You will post and maintain an accurate privacy policy compliant with all applicable laws, rules and regulations, accessible from your application.
+Your privacy policy must describe the use, collection and sharing of mobile device advertising identifiers and other data for behaviorally targeted online advertising, including an explicit statement regarding such data collection, sharing, and use by your third-party service providers such as Tapjoy, and an opt-out link directing the user to an industry-recognized opt-out from online behavioral advertising.
+If and to the extent required by applicable law, you will obtain any user consents necessary to permit data collection, sharing, and use.
+As a condition on using our Services, publishers with employees or end users in the European Union, European Economic Area, or Switzerland agree to be bound by our Tapjoy DPA, absent entry into a written agreement with us with substantially similar terms regarding our respective obligations under data protection laws.
+Refer to our Privacy Policy for further information about our data practices, and to our Tapjoy DPA for additional terms relating to personal data originating from countries covered by the General Data Protection Regulation (“GDPR”).
+==========
+No Data From Children Without Parental Consent; No Children’s Apps.
+You agree not to use our Services in connection with child users, as defined under applicable law (including but not limited to the U.S. Children’s Online Privacy Protection Act (“COPPA”) and the GDPR), without first obtaining the verifiable and freely given consent of the child’s parent or guardian to the use, collection and sharing of mobile device advertising identifiers and other data for behaviorally targeted online advertising as described in our Privacy Policy.
+Child-directed applications (whether or not expressly identified as such) are ineligible for Services.
+==========
+2.3 Exchange Services Terms.
+Our exchange partners require us to impose additional terms covering your use of Exchange Services.
+Please review the Exchange Services Terms online, if applicable.
+If you do not accept them, you must not use Exchange Services.
+Enabling Exchange Services for your application means you accept Exchange Services Terms for that application.
+==========
+Payments
+
+3.1 General.
+All payments will be made in U.S. dollars unless we have agreed in writing to use an alternate currency.
+Your receipt of timely payment depends on your provision to us of complete and accurate remittance and tax information.
+You and we will each bear our own costs except as otherwise specified in this Agreement.
+==========
+The party receiving payment is solely responsible for and will timely pay all applicable taxes (e.g., value added tax, federal and state taxes, sales, use, excise, or transfer taxes) and payment transmission fees.
+Each party will indemnify the other party, subject to Section 10.3, for all costs, losses, liabilities and expenses, including penalties, arising from any failure to pay taxes when due based on payments received.
+3.2 Payment.
+==========
+“Payments” means Revenue Share and Programmatic Payment, as applicable to you.
+Revenue Share.
+You will receive the then-current standard Revenue Share based on Advertising Revenue generated through your use of Monetization Services (excluding Programmatic Mediation), net of any amounts due for Analytics Service or for other offsetting obligations, such as your use of Tapjoy’s advertising services as an advertiser.
+“Revenue Share” means the percentage of Advertising Revenue payable to Publisher.
+“Advertising Revenue” means amounts actually paid by advertisers and received and recognized by Tapjoy in connection with advertisements shown through Monetization Services, less deductions for Network Fees.
+==========
+Payment is based on our measurements, and you agree that our system will be the system of record for calculating amounts payable.
+All billing and transaction times referenced in this Agreement are on Coordinated Universal Time.
+Payments are rounded down to the nearest penny.
+==========
+Programmatic Mediation.
+If you opt to participate in programmatic mediation Monetization Services, you will receive Programmatic Payment.
+“Programmatic Payment” means payment based on upon Tapjoy’s auction wins and the pricing associated with those impressions.
+Payment is based on our measurements, and you agree that our system will be the system of record for calculating amounts payable.
+All billing and transaction times referenced in this Agreement are on Coordinated Universal Time.
+Payments are rounded down to the nearest penny.
+3.3 Payment Timing.
+We pay Payments within forty-five (45) days after the end of the calendar month in which the Advertising Revenue is recognized (for Revenue Share) or auction concluded (for Programmatic Payment); amounts under $250 will be held until amounts due equal or exceed $250.
+Fees for Publisher’s use of Analytics Service are payable net 30 of invoice.
+==========
+3.4 Disputes and Errors.
+If you dispute in good faith the amount of any payment, you must notify Tapjoy in writing within thirty (30) days from the date of payment; failure to do so shall be deemed your acceptance of the amount paid and an irrevocable waiver of your right to dispute that payment.
+If Tapjoy identifies a payment error affecting you (whether over- or under-payment), then we will either (i) apply an offsetting adjustment to the next payment otherwise payable to you, or (ii) pay you (or, if applicable, require you to refund to us) the amount at issue.
+==========
+3.5 Problem Events.
+You acknowledge that we have no obligation to pay Payments arising from any Problem Events.
+We reserve the right, in our reasonable judgment, to delay, suspend, or declare forfeit payment of any Revenue Share or Programmatic Payment that we believe may be based on Problem Events (as defined below), and you agree that if we pay you Revenue Share or Programmatic Payment that is later determined to have been based on a Problem Event, we may, in our sole discretion, either deduct the amount paid from amounts otherwise payable to you, or require you to promptly (within five business days) refund us the full amount.
+You agree to provide your reasonable cooperation in our investigation of Problem Events and in preventing misuse of our Services, and you agree to promptly notify us of and take steps to mitigate any suspected misuse.
+==========
+3.6 Definitions.
+“Problem Events” means (i) issuance of virtual goods or virtual currency through any fraudulent or invalid means; (ii) issuance of virtual goods or currency in connection with any amounts subsequently refunded, credited or subject to a credit card charge-back; (iii) breach of our Publisher Guidelines; (iv) chargebacks by advertisers, or any other action that is fraudulent, invalid, suspicious, noncompliant with Tapjoy terms, or otherwise questionable; in each case as determined in our sole reasonable judgment.
+“Network Fees” means direct and indirect expenses attributable to account acquisition and management, including but not limited to network-related expenses, adjustments and chargebacks, taxes, refunds, uncollected amounts, agency and partner fees and expense, marketing credits, referral fees, and payment processing fees.
+==========
+Data Ownership and Use
+
+4.1 Data Defined.
+Your use of the Services, including your integration of our SDK into your application, generates data that we use to provide, enhance, and optimize our Services.
+This data falls into four categories: (i) data about you, your application, and your users, as collected and passed to us through your integration of the SDK with your Application(s), including mobile device identifiers, IP address, and other data as detailed in our privacy policy (“Publisher Data”); (ii) data about advertisements and advertisers, such as ad pricing or users’ interaction with advertisements displayed through Monetization Services (“Advertiser Data”); (iii) data about your and other publishers’ use of the Services, particularly your interactions with your publisher account (“Service Data”); and (iv) data that we synthesize based on the preceding data sets, including reports or other compilations created by you or on your behalf, such as our Future Value Map product (such syntheses, excluding the underlying Publisher Data, “Reports”).
+4.2 Ownership.
+==========
+As between the parties, and independent of our respective obligations under the Tapjoy DPA: (a) you own all right, title and license to the Publisher Data and are responsible for its legality, reliability, integrity, accuracy and quality; (b) we own all right, title and license to the Service Data and Reports and are responsible for their legality, reliability, integrity, accuracy and quality (excluding Publisher Data used in generating them); and (c) all right, title and license to the Advertiser Data is owned by the advertisers whose advertisements generated it.
+4.3 License Grant to Tapjoy.
+You hereby grant us a nonexclusive, irrevocable, royalty-free, fully paid up, worldwide right and license to use and reproduce the Publisher Data in connection with our provision and operation of the Services to you and to third parties.
+Publisher Data used by us in the course of providing our Services to third parties will be used internally only, in an aggregated manner, anonymized to remove reference to you or your application.
+4.4 License Grant to You.
+We hereby grant you a non-exclusive, royalty-free, fully paid up, revocable, non-transferable, non-sub-licensable right and license to use and reproduce Service Data and Reports for your internal business purposes, so long as you comply with our reasonable attribution requirements.
+4.5 Advertiser Data.
+Neither you nor we grant license with respect to Advertiser Data under this Agreement.
+==========
+4.6 Privacy Policy.
+You and we will each maintain a privacy policy in accordance with all applicable laws, rules and regulations that accurately describes our respective practices regarding the collection, use and disclosure of user data under this Agreement.
+Intellectual Property Ownership.
+As between the parties, and subject to the licenses expressly granted in this Agreement: You and your licensors own and will retain all right, title, and interest in and to (a) your Application(s), and we and our licensors own and will retain all right, title, and interest in and to our Services, including all related information and software (and improvements and updates).
+==========
+Confidentiality.
+Each of us agrees not to disclose the other’s Confidential Information, and to use it only to fulfill its obligations or exercise its rights under this Agreement.
+“Confidential Information” means information identified as “confidential” or “proprietary” or that should reasonably be understood to be confidential.
+==========
+Ours includes: advertisements (before publication) and Advertiser Data; our pricing, pricing structures, revenue, suppliers, customers, financial model, and methodologies; and Service Data and Reports; while yours includes your application (before release) and your Publisher Data.
+A party may disclose the other party’s Confidential Information to its officers, directors, employees, contractors, and/or advisors with a need to know, provided that they are under an obligation of confidentiality no less protective than this one.
+Confidential Information does not include information that was independently developed by the receiving party, that is or becomes publicly known without the receiving party’s fault, or that was lawfully received from a third party without breach of confidentiality.
+==========
+The receiving party may disclose Confidential Information without breach of this Section, if required by act of law or order, provided that it gives the other party prompt notice of the requirement before disclosure, limits disclosure as much as possible, and provides its reasonable assistance to the other party if it seeks to obtain an order to protect the information from public disclosure.
+Upon the disclosing party’s reasonable request or the termination of this Agreement, the receiving party will promptly return or destroy the disclosing party’s Confidential Information and upon request certify in writing its return or destruction.
+Termination.
+We reserve the right, in our sole discretion, to reject or remove any application and to restrict or suspend your access to or use of our Services, in each case at any time and with or without notice, without liability to you.
+Either you or we may terminate this Agreement for convenience upon thirty (30) days’ written notice.
+Termination does not relieve you or us of any obligation to pay amounts due and owing as of the termination date; that obligation survives termination.
+After termination, you will promptly (within 5 business days) cease distribution of any application that incorporates the SDK and provide us with written certification that you have done so.
+==========
+Marketing.
+You hereby grant us a royalty-free, fully paid up, sub-licensable, transferable, nonexclusive, worldwide, and perpetual license to reproduce, display, distribute, and otherwise use, in connection with our Services, the trademarks, service marks, logos or other indicia of origin associated with you and your Application(s) (your “Marks”), for the purpose of promoting you and your Application(s) in our advertising, marketing, promotions and promotional materials.
+You agree that we may use your Marks on our website to show your participation and use of our Services; for other proposed uses of your Marks, we will request your prior written approval.
+Representations, Warranties, and Covenants.
+==========
+9.1 General.
+Tapjoy and Publisher, each acting on its own behalf, each represent and warrant that: (a) it has and will maintain all necessary rights, power, licenses and authority to enter into this Agreement, to perform the acts required of it under this Agreement, and to permit the other party to perform its obligations contemplated under this Agreement; and (b) it is and will remain in compliance with all applicable laws, statutes, ordinances, and regulations (including but not limited to, any relevant data protection or privacy laws) in the performance of its obligations under this Agreement.
+9.2 By Publisher.
+You further represent, warrant, and covenant that: (a) your applications, including software, documentation and other related information, comply with this Agreement and do not infringe the intellectual property rights, privacy rights or other rights of any person or entity; (b) you will obtain and comply with consents, authorizations and clearances from your users sufficient to allow us to collect, store, and use your Publisher Data; (c) you will comply with this Agreement; and (d) your performance under this Agreement does not and will not violate any contractual or other obligations between you and any third party.
+Indemnification.
+10.1 Publisher Indemnity.
+Publisher will indemnify, defend and hold harmless Tapjoy and its affiliates, and their respective officers, directors, employees, agents, and contractors, from and against any third-party claims, allegations, losses, costs, liabilities, damages, penalties, settlements, judgments, fees and expenses (including without limitation reasonable attorneys’ fees and expenses) (collectively “Losses”) arising out of or related to any actual or alleged: (a) breach by Publisher, including for purposes of this paragraph its affiliates or their respective officers, directors, employees, agents, or contractors, of any term(s) of this Agreement, including but not limited to its representations, warranties and covenants; (b) claims that your application(s) or any other Publisher products, services, or software infringes any third party’s intellectual property rights, privacy, rights of publicity, or other rights; and (c) failure by Publisher to comply with applicable Law.
+10.2 Tapjoy Indemnity.
+Tapjoy will indemnify, defend and hold harmless Publisher and its officers, directors, and employees from and against any Losses arising out of or related to: (a) claims that the Services infringe any third party’s intellectual property rights, privacy, rights of publicity, or other rights; or (b) Tapjoy’s failure to comply with applicable Law.
+10.3 Indemnity Requirements.
+The indemnifying party reserves the right, at its expense, to provide the indemnified party with prompt written notice of its intention to assume the exclusive defense and control of any matter for which the indemnifying party is required to indemnify the indemnified party (absent which, the indemnified party shall control such defense at the indemnifying party’s cost), and the indemnified party agrees to reasonably cooperate with the indemnifying party’s defense of such claims at the indemnifying party’s expense.
+The indemnifying party shall not enter into any settlement for which indemnity is sought unless: (a) such settlement includes an unconditional release of the indemnified party and its affiliates from all liability on all claims; and (b) the indemnified party gives its prior written approval, which shall not be unreasonably withheld.
+==========
+Disclaimers.
+WE DISCLAIM ALL WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, IN CONNECTION WITH OUR PROVISION OR YOUR USE OF OUR SERVICES, ANY ADVERTISEMENT, AND ANY OTHER TAPJOY PRODUCTS OR SERVICES, IN EACH CASE TO THE FULLEST EXTENT PERMITTED BY LAW.
+WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, OUR SERVICES, INCLUDING THE SDK, ARE PROVIDED “AS-IS” AND WITHOUT WARRANTIES OF ANY KIND; THIS INCLUDES, WITHOUT LIMITATION, WARRANTIES OF PERFORMANCE AND IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+FURTHER, WE DO NOT REPRESENT OR WARRANT THAT OUR SERVICES ARE OR WILL BE ACCURATE, COMPLETE, RELIABLE, CURRENT, ERROR-FREE, VIRUS-FREE, OR UNINTERRUPTED.
+SOME STATES DO NOT ALLOW EXCLUSION OF AN IMPLIED WARRANTY, SO THIS DISCLAIMER MAY NOT APPLY TO YOU.
+==========
+WE DO NOT WARRANT OR GUARANTEE: (A) THE RESULTS OF USE OF OUR SERVICES, INCLUDING THAT PUBLISHER WILL EARN ANY PARTICULAR AMOUNTS (OR ANY AMOUNTS AT ALL); (B) THE RESULTS OF CONSULTING, DEVELOPMENT, OR OTHER SERVICES PROVIDED BY TAPJOY; OR (C) THE ACCURACY OR COMPLETENESS OF REPORTS.
+Without limiting the generality of the foregoing, you acknowledge that some of our Services are based, in whole or in part, on an auction model, and consequently that some of the main factors that determine the revenue from our Services are not within our control.
+You acknowledge and agree that we are not affiliated with or responsible for any third-party products or services displayed, distributed or otherwise promoted through our Services, including the advertisements and the products or services so advertised.
+We neither represent nor endorse the quality, accuracy, reliability, integrity or legality of any third-party products or services, nor the truth or accuracy of the description of any advertisements, links, content, advice, opinions, offers, proposals, statements, data, or other information from any third-party products or services that are displayed, distributed, or otherwise used on or in connection with our Services.
+==========
+Limitation of Liability; Liability Cap.
+IN NO EVENT WILL TAPJOY BE LIABLE TO YOU OR ANY OTHER PERSON OR ENTITY, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, FOR INDIRECT, INCIDENTAL, PUNITIVE, SPECIAL OR CONSEQUENTIAL DAMAGES, LOST INCOME, REVENUE OR PROFITS, LOST OR DAMAGED DATA, OR OTHER COMMERCIAL OR ECONOMIC LOSS ARISING OUT OF THIS AGREEMENT, EVEN IF WE KNOW OR HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+OUR MAXIMUM AGGREGATE LIABILITY IN RESPECT OF ALL LOSSES ARISING OUT OF THIS AGREEMENT, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, WILL NOT EXCEED ONE HUNDRED DOLLARS ($100) USD.
+APPLICABLE LAW MAY NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY OR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU; IN SUCH CASES, THE TAPJOY PARTIES’ LIABILITY WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+THIS LIMITATION OF LIABILITY PROVISION IS A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN AND REFLECTS A FAIR ALLOCATION OF RISK.
+WE WOULD NOT PROVIDE OUR SERVICES WITHOUT SUCH LIMITATIONS, AND YOU AGREE THAT THE LIMITATIONS AND EXCLUSIONS OF LIABILITY, DISCLAIMERS, AND EXCLUSIVE REMEDIES SPECIFIED IN THIS AGREEMENT ARE FAIR AND REASONABLE AND WILL SURVIVE EVEN IF OUR SERVICES, THIS AGREEMENT OR ANY ELEMENT OF IT IS FOUND TO HAVE FAILED IN ITS OR THEIR ESSENTIAL PURPOSE.
+==========
+BOTH PARTIES ACKNOWLEDGE AND AGREE THAT ANY CLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT MUST BE RAISED WITHIN 12 MONTHS FROM THE DATE OF ITS ACCRUAL, OR IT SHALL BE FOREVER WAIVED.
+IF YOU ARE DISSATISFIED WITH ANY ASPECT OF THE TAPJOY SERVICES OR THIS AGREEMENT AT ANY TIME, YOUR SOLE AND EXCLUSIVE REMEDY IS TO CEASE USING OUR SERVICES AND TERMINATE THIS AGREEMENT.
+NOTHING IN THIS AGREEMENT SHALL LIMIT OR EXCLUDE EITHER PARTY’S LIABILITY FOR: (A) DEATH OR PERSONAL INJURY CAUSED BY ITS NEGLIGENCE OR THE NEGLIGENCE OF ITS EMPLOYEES, AGENTS OR SUBCONTRACTORS; (B) FRAUD OR FRAUDULENT MISREPRESENTATION; OR (C) ANY OTHER LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED BY LAW.
+==========
+Governing Law and Dispute Resolution.
+13.1 Governing Law.
+The parties agree that California law governs this Agreement, without giving effect to its principles of conflicts of law, and to exclusive personal jurisdiction and venue in the state and federal courts in San Francisco, California for any claims brought in court not arbitrated (per below subject to arbitration as set forth below.
+13.2 Arbitration.
+The parties agree to resolve any dispute, claim, or controversy between us arising out of or relating to this Agreement (including over its validity or enforceability) by binding arbitration in San Francisco, California, before a single arbitrator, governed by JAMS pursuant to its Comprehensive Arbitration Rules & Procedures (collectively, “JAMS Rules”), as modified by this Agreement, and administered by JAMS; see http://www.jamsadr.com or call JAMS (1-800-352-5267 for JAMS Rules and fee information.
+==========
+Dispositive motions will be allowed; the arbitrator must follow this Agreement, will have the same power to award damages and relief as a court (including fees), and will issue a binding written decision, which can be enforced by entry of judgment by any court of competent jurisdiction.
+Both parties agree and understand that, absent this mandatory arbitration provision, the parties would have the right to sue in court and have a jury trial, and further understand that, in some instances, the costs of arbitration could exceed the costs of litigation, and that the right to discovery may be more limited in arbitration than in court.
+13.3 Individual Actions Only.
+EITHER OF US MAY BRING CLAIMS AGAINST THE OTHER ONLY ON AN INDIVIDUAL BASIS AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE ACTION OR PROCEEDING.
+UNLESS BOTH PARTIES AGREE OTHERWISE, THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE PERSON'S OR PARTY'S CLAIMS AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A CONSOLIDATED, REPRESENTATIVE, OR CLASS PROCEEDING.
+THE ARBITRATOR MAY AWARD RELIEF (INCLUDING MONETARY, INJUNCTIVE, AND DECLARATORY RELIEF) ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF, AND ONLY TO THE EXTENT NECESSARY TO PROVIDE RELIEF NECESSITATED BY THAT PARTY'S INDIVIDUAL CLAIM(S).
+ANY RELIEF AWARDED CANNOT AFFECT OTHER PARTIES.
+==========
+13.4 Exceptions.
+The following are exceptions to the foregoing general agreement to arbitrate: (a) claims concerning intellectual property (i.e., patents, copyrights, moral rights, trademarks) and confidentiality (i.e., over Confidential Information or trade secrets); and (b) small claims, where jurisdiction and venue otherwise qualify for small claims court and where no equitable relief is sought.
+The parties agree to waive trial by jury in any litigation between them in court (e.g., if the arbitration provision is found unenforceable, or if the matter concerns one of the foregoing exceptions).
+==========
+Miscellaneous.
+This Agreement, including the DPA, sets forth the entire agreement between you and us, and supersedes any and all prior agreements (whether written or oral) with respect to its subject matter.
+We can modify our Terms of Service; we will use commercially reasonable efforts to notify you (e.g., through your publisher account) before the effective date of the change.
+If you do not agree to the modification, you must stop using our Services.
+We reserve the right to modify, suspend, or discontinue our Services without notice and without liability to you or any third party.
+You cannot assign this Agreement without our prior written consent, and any attempt will be null and void.
+It is binding upon permitted successors and assigns, and there are no third-party rights unless expressly specified.
+You and we are independent contractors, not agents, representatives, or partners.
+Waiver of any breach of this Agreement will not constitute a waiver of any other breach, and will not act to reduce the rights of the waiving party.
+==========
+In the case of conflict between these Terms, the Guidelines, or an amendment, the order of precedence shall be the amendment, then the Guidelines, and then these Terms of Service.
+Preprinted terms on purchase orders or other transactional document are of no force or effect.
+Sections 3 (with respect to any payment obligations then existing), 4.3, 5 through 7, and 9 through 14 survive termination.
+Neither of us will be liable for failure to perform due to a cause beyond your or our reasonable control, respectively, including, without limitation, terrorism, fire, civil disturbance, war, rebellion, earthquake, flood and similar occurrences, provided that performance resumes as soon as commercially practicable after the cause no longer prevents performance.
+Headings are for convenience only and shall not affect interpretation.
+==========
+Notice to Tapjoy shall be made via email to support@tapjoy.com or to your Tapjoy account manager, where applicable, with a cc to legal@tapjoy.com; notice to Publisher shall be made to the email address in your publisher account.
+Emailed notice is effective as of the email date, absent receipt by the sender of a bounce back or error message or other direct indication of non-receipt.
+Exhibit A - Exchange Services Terms
+Our exchange partners require us to impose these additional terms covering your use of Exchange Services.
+Please review the Exchange Services Terms below, which are hereby incorporated into and form part of the Agreement.
+If you do not accept them, you must opt out of Exchange Services; failure to opt out is deemed acceptance.
+==========
+Ad Tags.
+Publisher will not modify any advertisement tags provided by Exchange Partners (“Ad Tags”).
+Publisher will make commercially reasonable efforts to place Ad Tags on its application(s) in accordance with reasonable trafficking instructions provided by Tapjoy.
+Publisher understands that any modification by Publisher to the Ad Tags, or Publisher’s failure to comply with such trafficking instructions, may result in errors and discrepancies for which neither Tapjoy nor the Exchange Partner is responsible.
+Publisher will disable or remove Ad Tags from its Application(s) within two (2) business days of Tapjoy’s request.
+==========
+Marks.
+Publisher hereby grants to Tapjoy a worldwide, non-exclusive, non-transferable (except through permitted assignment) fully paid up, royalty-free license, with express right of sublicense to each Exchange Partner, to use, reproduce and display Publisher’s names, logos, service marks, trademarks and related brand features (“Marks”) for use within each Exchange Partner’s platform in connection with Publisher’s participation in the Exchange Service.
+All such use of Publisher’s Marks will be in compliance with any written usage guidelines provided to Tapjoy or the applicable Exchange Partner by Publisher.
+==========
+All goodwill in the Marks inures to the benefit of Publisher.
+Each of Tapjoy and the applicable Exchange Partner will promptly modify or cease its use of Marks as directed by Publisher in writing.
+Tapjoy’s licensed rights, and the applicable Exchange Partner’s sublicensed rights, in and to Publisher’s Marks are limited solely to those rights granted herein.
+==========
+No Children’s Applications.
+Publisher represents, warrants, and covenants that (i) its Application(s) are not and shall not during the Term be directed to users under 13 years of age, or otherwise applicable local minimum age if greater; (ii) Publisher does not as of the date Publisher creates a publisher account, and will not during the Term, collect, use, or disclose personal information from any end user known to Publisher to be a child under 13, or otherwise applicable local minimum age if greater; and (iii) Publisher will notify Tapjoy and the applicable Exchange Partner in writing immediately if either (i) or (ii) becomes or is discovered to be inaccurate.
+Indemnification.
+Publisher as applicable shall indemnify, defend Tapjoy, each Exchange Partner, and each of their agents, officers, directors and employees (collectively, “Indemnitees”) from and against any claims, suits or proceedings brought by a third party (“Claims”) against any Indemnitee to the extent arising from: (a) any Publisher Application that contains content prohibited by the Guidelines, as updated from time to time, (b) Publisher’s direct or indirect engagement in or authorization of any activity prohibited by Section 2.2 (Requirements and Restrictions), (c) a claim that a Publisher’s Marks, when used in accordance with the terms of this Agreement, infringe any patents, trademarks, service marks, trade names, design rights, copyrights, database rights, trade secrets, rights in know-how and other intellectual property rights, of whatever nature and wherever arising, whether registered or unregistered and including applications for the grant of any such rights (collectively, “Intellectual Property Rights”) of any third party, or (d) breach by the Publisher of any aspects of this Agreement.
+==========
+Express Third-Party Beneficiary.
+Publisher agrees and acknowledges that each Exchange Partner is an express third-party beneficiary of this Agreement.
+Indemnification Procedure.
+In the event of a Claim against any Indemnitee, the Indemnitee shall notify Publisher and shall seek indemnity directly from Publisher.
+Publisher will promptly notify Tapjoy of any request for indemnity received from an Exchange Partner or any Exchange Partner Indemnitee.
+Publisher’s indemnification obligations above are contingent on the indemnified party: (a) promptly notifying Publisher of any Claim (provided that the indemnified party’s failure to provide such prompt notice will not release Publisher from its indemnification obligations except to the extent Publisher is materially prejudiced thereby); (b) providing Publisher with any reasonable information and assistance needed to defend or settle the Claim (provided Publisher bears any out of pocket expenses incurred by the indemnified party in providing such assistance or information), and (c) allowing Publisher the right to have sole control of the investigation, defense and settlement of the Claim (provided that Publisher will not enter into any settlement of a Claim that: (i) imposes a monetary obligation on the indemnified party that is not covered by the indemnification, (ii) imposes a material, non-monetary obligation on the indemnified party, (iii) does not include an unconditional release of the indemnified party, or (iv) admits liability on the part of the indemnified party, without in each case obtaining the indemnified party’s prior written consent, which will not be unreasonably withheld, conditioned, or delayed).
+The indemnified party shall have the option, at its expense, to participate in the defense or settlement of the Claim with counsel of its own choosing.
+Publisher shall pay the indemnified Exchange Partner any damages finally awarded against such Exchange Partner, settlements agreed to in accordance with this subpart (c), and reasonable costs and expenses (including reasonable attorneys’ fees) directly attributable to such Claim.
+==========
+Last Updated: May 25, 2018
+
+
+Hello!
+This privacy policy explains Tapjoy’s privacy practices in connection with information collected about you through your use of Tapjoy services, including our ad platform, our dashboard, and our website.
+(“Tapjoy” means Tapjoy, Inc. and its subsidiaries and affiliates, and may also refer to our advertiser and publisher services, including our dashboard, and our website.)
+What is Tapjoy?
+Tapjoy, Inc. operates a platform that enables advertisers to reach mobile in-app ad inventory, mobile app users to be compensated for their attention, and mobile app publishers to receive revenue from the ad space in their applications.
+Tapjoy is a member of the Interactive Advertising Bureau (IAB).
+More information about the IAB may be found here [http://www.iab.net/public_policy/codeofconduct].
+==========
+Publishers use Tapjoy by adding our SDK to their apps; this allows us to display ads on behalf of our advertisers in ad space within the app (our advertising and monetization service).
+(“SDK” is short for “software development kit”, meaning software that an app publisher can include in its app to enable Tapjoy services in the app.)
+Advertisers use Tapjoy by placing orders for our ad services, and in turn, we pay publishers for the right to show ads in their apps.
+Users use Tapjoy through engaging with ad offers we display through our ad placements in a participating publisher’s app.
+Tapjoy ad placements include offerwall, which allows a user to choose from a page of various rewarded ad offers (“rewarded” meaning that the user receives a reward in the form of virtual currency for the app they’re using); video, which offers the user virtual currency reward in exchange for engaging with a video offer; and interstitial, which rewards the user with virtual currency or access to premium content in exchange for a short commercial break.
+To further support our publishers, we also offer related optional services, such as analytics, which helps publishers understand how their users use their apps, and virtual currency management services, which helps publishers manage in-app virtual currency.
+We provide customer support for users who did not receive an expected in-app reward; this involves working with the advertiser, the user, and the publisher to identify and resolve the issue.
+==========
+What information does Tapjoy collect, and for what purpose?
+That depends on how you interact with Tapjoy.
+Read on to learn about the following categories: 
+Information collected through our ad platform
+First, what is not collected?
+It may be helpful to know what information is not collected about you or your device: Tapjoy’s ad platform does not access, collect, or receive your name, your email address, your username, your physical address, your phone number, your credit card or other financial information.
+(One exception: If you submit a customer support request, you provide us with additional information, such as your email address, and we use that information to respond to your request; see Customer support information, below.)
+==========
+OK; what information is collected through Tapjoy’s ad platform?
+If you are an individual who uses a mobile app, and the app’s publisher uses Tapjoy services, we receive and collect information about your device and the Tapjoy ad offers that you view, and we use this information to reward you for offer engagement, to draw inferences about which offers may be more or less interesting to you, and to provide publishers with information about how their apps are used.
+This information is collected through our SDK, as integrated into the app you use to access Tapjoy ad placements, and through your interactions with ads on our ad platforms.
+==========
+Here are the types of information that we collect:
+
+Device identifiers (a device identifier is a string of numbers and letters unique to your smartphone or tablet assigned by the manufacturer or platform provider), such as 
+
+Google Advertising ID (GAAID), Android ID for use in its absence and for analytics (and MAC address, in the absence of both), for Android devices, and 
+ID for Advertisers (IDFA), for iOS devices
+The publisher’s user identifier 
+
+
+Information about the device itself, including
+
+Whether it is a smartphone or tablet
+What operating system and version it uses (e.g., iOS, version 11.0)
+Model and manufacturer (e.g., Apple iPhone X, Samsung Galaxy S8)
+Screen size, screen density, and other information relevant to ad formatting and display
+
+
+Information about the internet connection used to access our services, including
+
+Mobile carrier
+Network provider
+Network type (e.g,.
+wifi)
+IP address
+Timestamp and duration (i.e., when the device connected to our services began and how long the connection lasted, for a given session)
+
+
+Information about the app and our SDK, including
+
+Which version of our SDK is integrated in the app used to access our services
+API key (identifier for application); Partner App version; list of installed apps (the applications and/or processes which are installed or run on your device while the Partner App is active or inactive).
+Location-related information - We infer the perceived general location of the device based on:
+
+The IP address used to access our services
+Location-related device settings, such as the device’s country code, language setting, and time zone
+
+
+Ad-related information - We collect information about the ads you view, such as:
+        
+What the ad offer is about; 
+What type of ad it is (e.g., text, image, or video);
+Which ad placement is involved (i.e., where the ad offer is displayed within the mobile app in which you accessed it); and 
+Whether you respond to the ad’s “call to action” - for example, did you click through to the advertiser’s website?
+==========
+Survey information
+		
+Tapjoy surveys - We occasionally run ad offers for surveys so we can learn more about the people who use Tapjoy.
+If you opt to complete one of these surveys, we associate the responses with the device identifier for the device you used to access and complete the survey offer.
+The data collected for these surveys include some or all of the following data elements;
+
+Survey Answers
+Device ID
+Publisher ID
+IP Address
+Device Type
+Device Name
+Time and Date of survey completion
+Time and Date of survey view
+Country
+Language
+Associated currency reward
+Advertiser surveys - Advertisers occasionally run survey ad offers through Tapjoy.
+If you complete one of those surveys, your responses go to the advertiser (not to Tapjoy), and will be governed by the advertiser’s privacy policy.
+Information from our advertisers or publishers.
+The advertisers and publishers using our services may provide us with information they have separately collected about you (for example, whether you already have the app that is being advertised), so that we can improve the relevance of the ads we serve on their behalf (for example, by not showing you ad offers for an app because you already have it).
+How does Tapjoy use information collected through the ad platform?
+We use the information we collect through our ad platform in the following ways;
+
+To show you ads customized to what our system infers to be your interests, preferences, and locations, based on the information associated with your mobile device’s advertising identifier; this is referred to as behavioral or interest-based advertising
+To show you ads based upon the context of the app you’re using instead of based on your inferred interests; this is called contextual advertising
+To determine which ads are more or less effective 
+To target and filter ads for publishers and advertisers  - for example, an advertiser may want to reach an audience in a specific country, or a publisher may want to exclude some categories of ads from its app
+To avoid showing you ads for an app you already use, or the same ad offer too many times
+To track the ad offers you complete so we can provide you with the reward you earned 
+To respond to and resolve your customer support requests  
+For analysis and research, both to improve our services and to report our services’ results to our advertisers and publishers
+To prevent and detect fraud, and to maintain our services’ and systems security 
+
+We keep this collected information as long as it remains necessary to provide the Tapjoy Services.
+==========
+How does Tapjoy share information collected through the ad platform?
+Tapjoy does not buy, sell, or trade information with unrelated third parties.
+We collect the information we use through our ad platform, and we use it internally within our ad platform.
+This information is shared in only with authorized partners or vendors, as follows:
+
+Publishers using Tapjoy’s analytics service can access aggregated information about how their users interact with their apps.
+No information is provided on an individual basis.
+==========
+Advertisers using Tapjoy’s advertising service receive the device identifiers associated with those who view an ad offer via Tapjoy and go on to buy the advertiser’s advertised product or service from its website or app.
+Vendors and service providers working for Tapjoy, or for our advertisers or publishers, have access to information collected via our ad platform as necessary for them to perform their services for us.
+Under our agreements with our service providers, they can use this information only as needed to perform their services; they cannot use it for their own purposes.
+Our corporate family includes international subsidiaries; we provide each other with access to our shared resources as needed to fulfill our shared business responsibilities, including providing and supporting our ad platform.
+==========
+More about Tapjoy ‘s corporate family is here -https://www.tapjoy.com/legal/#affiliates
+We may share your information, to the extent permissible by applicable laws, when we believe in good faith that such sharing is reasonably necessary to investigate, prevent, or take action regarding possible illegal activities, or to comply with legal process.
+We may also share your information in situations involving potential threats to the physical safety of any person, violations of this privacy policy or our terms of service; or to respond to the claims of violation of the rights of third parties and/or to protect the rights, property and safety of Tapjoy, our employees, users, or the public and obtaining your consent is difficult.
+This may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations, including for national security and law enforcement purposes.
+==========
+Business Transaction.
+We may share your information with another company if they merge with us or purchase our assets, or as part of due diligence for such a transaction.
+Consent.
+We may share your information in any circumstances where we have your consent.
+Aggregated Data.
+==========
+We may aggregate, anonymize and/or de-identify information collected through our ad platform so that the information can no longer be associated with you or your device in specific; our use and disclosure of information that is not identifiable to a specific person or device is not restricted by this Privacy Policy, and it may be used and disclosed to others without limitation.
+How long does Tapjoy keep information collected through the ad platform?
+We keep information as long as necessary to provide our services, generally speaking.
+Information used for interest-based ad targeting is rotated out on a 90-day basis.
+Conversion data and non-production backups of production data are retained for longer due to financial records and disaster recovery requirements.
+How can I opt out of interest-based advertising?
+If you prefer not to receive ads and offers that are tailored to your perceived interests, you can enable device-based “opt-out” options in your device’s settings.
+If you do so, we will cease processing your personal data for such purposes.
+We collect these opt-out signals ourselves, and will also respect consent flags if passed by the publisher of the app you are using.
+==========
+To adjust your advertising preferences in iOS, visit Settings > Privacy > Advertising > Limit Ad Tracking.
+To adjust your advertising preferences in Android, visit Settings > Google > Ads > Opt out of interest-based ads.
+You can also request an opt-out specific to Tapjoy by emailing us at gdpr-optout@tapjoy.com and following the directions we provide you.
+Opting out of interest-based advertising does not mean opting out of advertising altogether.
+You will still receive advertising, but it will not be targeted based on your inferred interests.
+==========
+Customer Support Information
+To submit a request for Tapjoy customer support (for example, for help with a missing Tapjoy ad offer reward), you must submit a working email address; this is required for us to be able to communicate with you about investigating and resolving your support issue.
+Emails and other information submitted for support purposes are used only for support purposes; depending on the circumstances, this may require us to share your information with the advertiser and publisher whose advertisement and app are involved.
+Website and dashboard user information
+Tapjoy dashboard
+Our advertisers and publishers have access to a Tapjoy dashboard, which allows them to manage their use of Tapjoy services and review their results.
+When you create a dashboard account, you provide information such as your name, the name of your company, your username and password, your email address, postal address, phone number, and payment information, as well as any required financial information (e.g., tax ID, VAT, or sales tax registration number).
+We use Stripe to process Advertiser credit card payments.
+==========
+We use this information to provide you with Tapjoy services and support.
+If you invite other users to your Tapjoy dashboard account, we will collect the email address of the employee or other individual you wish to add and use it to send them a one-time email informing them they have been added.
+If they are not your employee, you must have their consent before providing us with their email address to invite them to join your dashboard account.
+Tapjoy website and social media
+Our corporate website, www.tapjoy.com, provides general information about Tapjoy and our products and services; we also maintain a blog and various social media channels.
+==========
+If you post information through one of these channels, you understand that we cannot control what other users do with any content (including without limitation images, ratings, captions, and comments) you voluntarily post.
+You should not post any sensitive personal data, such as details of your ethnicity, health or political preferences or photos of yourself to any Tapjoy board, blog, social media channel, or forum, nor should you allow other users to have access to your content if you do not wish them to make your content publicly available to be collected and used by others, or to be redistributed through the Internet and other media channels.
+Aggregated data
+We may aggregate, anonymize and/or de-identify information collected through our website, dashboard, and social media channels so that the information no longer relates to you individually.
+As a result, our use and disclosure of aggregated and/or de-identified information is not restricted by this Privacy Policy, and it may be used and disclosed to others without limitation.
+==========
+Cookies and Related Tracking Technologies.
+When you use our website and dashboard, we may place and read cookies or access information on your device to obtain information about the performance of our site, enable you to move around the site, to record your preferences and to serve you with advertising that is relevant to your interests.
+This information may, where permitted by applicable law, then be combined with other information we hold about you.
+Information and technologies we may use include:
+
+Device and usage information.
+When you interact with our website or dashboard, we may collect information such as (a) IP addresses, unique device identifiers, and other information about your device(s), browser types, browser language, operating system, the state or country from which you accessed the services; and (b) information related to the ways in which you interact with our website, such as: referring and exit pages and URLs, platform type, the number of clicks, internal Tapjoy subdomain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the services, error logs, and other similar information.
+As described in Online Analytics below, we may use third party analytics providers and technologies, including cookies and similar tools, to assist us in understanding how the Tapjoy Web Services are used.
+Location information.
+We may market to you based on your location, inferred from the IP address you use to reach our website or dashboard.
+==========
+Cookies and other technologies.
+When you use the Tapjoy website or dashboard, we use persistent and session cookies and other similar technologies to perform various tasks, such as: (a) storing your dashboard account username and password; (b) analyzing the usage of our website and dashboard; and (c) customizing our website and dashboard to your preferences.
+You can find more information about cookies and how to manage them at http://www.allaboutcookies.org/.
+Most browsers automatically accept cookies, but you can modify your browser settings to decline cookies by visiting your browser’s help page.
+==========
+If you choose to decline cookies, please note that you may not be able to sign in, customize, or use some features of the Tapjoy Web Services.
+By using our website and dashboard with your browser set to accept cookies, you consent to our use of cookies in the manner described above.
+In addition to cookies, we may use a technology called clear gifs (a.k.a. web beacons) that help us better manage and analyze content.
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users.
+In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on web pages.
+Where permissible under applicable law, we may include web beacons in e-mail messages or newsletters to determine whether the message has been opened and for other analytics purposes.
+==========
+Online Analytics
+To help understand your use of our website and dashboard, we use third-party web analytics providers, such as Google Analytics, which in turn use the technology described above at Cookies and related tracking technologies.
+Our service providers collect and use this information to evaluate how websites are used.
+To opt out of tracking via Google Analytics, you may install the Google Analytics Opt-Out Browser Add-on.
+==========
+How Tapjoy uses information collected through our website and dashboard
+We use the information we collect through your use of our corporate website and our dashboard to provide our services, to manage your publisher or advertiser account, to do business with you as a publisher or advertiser (including taking orders, reporting results, and so on), to communicate with you (including responding to your inquiries, informing you about products and services based on your marketing preferences, and notifying you of new features), to analyze our user base and usage patterns, and to provide and improve our services.
+We also use this information to improve our corporate website content and to personalize the dashboard for you.
+We keep the information we collect for so long as we continue to provide our website, dashboard, and services.
+How does Tapjoy share information collected through the website and dashboard?
+We don’t buy, sell, or trade in information collected through our website and dashboard.
+We share it only as described here:
+
+Vendors and service providers working for Tapjoy, or for our advertisers or publishers, have access to information collected via our ad platform as necessary for them to perform their services we engaged them to do.
+Unless we tell you otherwise, under our agreements with our service providers, they can use this information only as needed to perform their services; they cannot use it for their own purposes.
+These service providers include analytics providers, payment processors, product fulfillment providers, providers of technical infrastructure, technical support, email providers, and customer support vendors.
+Our corporate family includes international subsidiaries; we provide each other with access to our shared resources as needed to fulfill our shared business responsibilities, including providing and supporting our ad platform.
+More about Tapjoy ‘s corporate family is here - https://www.tapjoy.com/legal/#affiliates
+We may share your information, to the extent permissible by applicable laws, when we believe in good faith that such sharing is reasonably necessary to investigate, prevent, or take action regarding possible illegal activities, or to comply with legal process.
+We may also share your information in situations involving potential threats to the physical safety of any person, violations of this privacy policy or our terms of service; or to respond to the claims of violation of the rights of third parties and/or to protect the rights, property and safety of Tapjoy, our employees, users, or the public and obtaining your consent is difficult.
+==========
+This may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations, including for national security and law enforcement purposes.
+We may share your information in connection with any merger, reorganization, a sale of some or all Tapjoy assets, or a financing or acquisition of all or a portion of our business by another company (including in the course of due diligence for any such transaction).
+We may share your information in any circumstances where we have your consent.
+==========
+What choices do I have about use of information related to Tapjoy’s website or dashboard?
+Commercial Marketing.
+We will comply with applicable marketing laws; for example, where applicable law requires prior consent, Tapjoy will only send you marketing email if you have opted in.
+To opt out of receiving marketing emails or other commercial communications from us, use the “unsubscribe” option in a commercial email from us or send us an email at privacy@tapjoy.com.
+==========
+It may take several days for us to process your request, consistent with applicable law.
+Publisher and Advertiser Accounts.
+If you have access to a dashboard publisher or advertiser account and do not want your email address used, contact us at privacy@tapjoy.com.
+Dashboard Account Deactivation.
+To request deactivation of your dashboard account, email us at privacy@tapjoy.com.
+Some information may remain in our records after deactivation of your account based on business needs.
+After deactivation, we may continue to use aggregated data derived from or incorporating your personal information but not in a manner that would identify you personally.
+==========
+Tapjoy Apps
+We no longer collect information from or about users of our legacy apps (TapDefense, TapOut, Coloroid, TapColors, Void Walker) and legacy app-discovery and currency-management services (MyTapjoy).
+We are no longer maintaining, updating, or supporting these apps and services; continued use is at the sole option and risk of the user.
+General Privacy Practices
+How does Tapjoy secure personal information?
+Tapjoy processes personal information only as relevant or necessary to provide our services.
+==========
+We use physical, electronic, and managerial procedures designed to safeguard your information and data security, and to prevent unauthorized access to.
+These safeguards take into account the sensitivity of the information that we collect, process, and store and the current state of technology.
+Although we take such measures to safeguard against unauthorized disclosures of information, the Internet and the services are not 100% secure so we cannot assure you that all information we collect or store will be protected from all unauthorized access.
+==========
+International Users
+If you are located outside the United States and choose to use our services or provide information to us, your information is provided to Tapjoy in the United States, and may be and processed and stored in the United States and otherwise outside of your country of residence, by Tapjoy and by third parties with whom we share in accordance with this privacy policy.
+Child and youth users
+In compliance with applicable laws, including the Children’s Online Privacy Protection Act ("COPPA”), Tapjoy does not knowingly collect personal information from children, except as permitted by applicable law for support for internal operations.
+(In the US, the minimum age of consent is 13; in the EEA and Switzerland, it is age 16 unless your country has adopted a lower age.)
+Please inform us by emailing privacy@tapjoy.com if you learn that we have been provided with personal information from a child under the applicable minimum age without verified parental consent, so that we may take appropriate steps to delete that personal information.
+==========
+Changes to Our Privacy Policy
+We reserve the right to update (amend) this Privacy Policy from time to time to reflect changes in the law, our data collection and use practices, the features of our services, or advances in technology.
+Please check this page periodically for changes and review them carefully, as our use of information at a given point is governed by the Privacy Policy that is then in effect.
+Your continued use of our services after a Privacy Policy update means that you understand and acknowledge the applicability of the updated policy.
+Third Party Sites and Services
+Our services and communications may contain links to third-party websites, including social media services.
+Your use of these links, websites, or services may result in the collection, processing or sharing of information about you, depending on what you use.
+We are not responsible for the content or privacy practices of other websites or services that may be linked on our services.
+We do not endorse or make any representations about third-party websites or services.
+Any information you choose to provide to these services, or that they collect, is covered by their privacy policy rather than ours, so please make sure to read it.
+==========
+Notice to California Users
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties.
+As explained above, we do not sell or share your personal information (as that term is defined under California law) with third parties for use for their own marketing purposes.
+Accessing and Deleting Your Information.
+You may, under applicable European law, have the right to access, correct, update or delete personal information Tapjoy holds about you.
+Please see Exercising your rights as an app user below for more information about those rights.
+If you have a Tapjoy publisher or advertiser dashboard account, you may use your account settings to access and update your account information.
+You may also email us at privacy@tapjoy.com to request access to or removal of personal information we have about you.
+In some cases, we may not be able to remove your personal information (e.g., for legal reasons), in which case we will let you know if we are unable to do so and why.
+==========
+The EU GDPR
+The EU General Data Protection Regulation (“GDPR”), effective May 25, 2018 in the EEA countries and Switzerland, requires Tapjoy and the publishers and advertisers using our services to provide app users with information about the processing of personal data.
+(“Personal data”, as used in the GDPR, means information relating to an identified or identifiable natural person, including name, address, cookie identifiers, mobile device identifiers, and more; “app user” here means the person involved; and “processing” of data includes collection, storage, and use.)
+This section provides representations and information in compliance with our GDPR obligations, for the benefit of our users located in the EEA countries and Switzerland only.
+Legal grounds for processing your personal data
+The GDPR requires us to identify the legal ground we’re relying on to process personal data about you.
+Our legal grounds for processing your personal data as described in this Privacy Policy will typically be because: 
+
+You provided your consent.
+==========
+To store and access information on your device, we rely on your consent.
+For this “cookie consent” (which applies not only to “cookies” but also to mobile ad identifiers), to fulfill our obligations under the ePrivacy Directive, we rely on mobile app developers and oblige them contractually to pass on only legally obtained data.
+We may choose to obtain consent in other cases as well, in which case we will adhere to applicable laws relating to consent and its withdrawal.
+==========
+The processing is in our legitimate interest.
+In some cases, we use legitimate interest as a legal basis for processing personal data to provide our and our commercial partners’ services.
+A legitimate interest we rely on, for instance, is the tailoring of offers and opportunities to obtain in-game rewards to users of mobile applications and services, which is beneficial to users and offers them a value exchange and goes beyond the original collection of mobile ad identifiers and also includes providing analysis of and reporting about ad campaigns.
+==========
+We also rely on legitimate interest when we use personal data to maintain the security of our services, including fraud detection and identifying and fixing bugs.
+Contractual Relationships.
+Sometimes, we process personal data as necessary under a contractual relationship we have, such as our customer records and contact information).
+Legal Obligations.
+Finally, some processing of data may be necessary for us to comply with our legal or regulatory obligations.
+==========
+Transfers of personal data
+We are based in the United States with offices around the world, and work with other global companies and technologies.
+As a result, we may need to transfer your personal data outside of its country of origin.
+For instance, we may transfer your personal data to commercial partners or service providers located in jurisdictions outside the EEA and Switzerland, which have data protection laws less strict than those in Europe.
+When Tapjoy receives personal data that is transferred from the EEA or Switzerland to Tapjoy in the US, we take steps to make sure that appropriate safeguards are in place to protect it; we use European standard contractual clauses and data processing agreements where required by European Data Protection Law, and are in the process of certifying to EU-U.S. and Swiss-U.S. Privacy Shield Frameworks.
+If approved, our Privacy Shield certification will be available at https://www.privacyshield.gov/list. We comply with Privacy Shield Principles for all transfers from the EU, EEA, and Switzerland, including the onward transfer liability provisions.
+When Tapjoy receives information under the Privacy Shield and then transfers it to a third-party service provider acting as an agent on our behalf, Tapjoy has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) Tapjoy is responsible for the event giving rise to the damage.
+Contact us at privacy@tapjoy.com for more information about the safeguards we use to protect your personal data and privacy rights.
+==========
+Personal data retention 
+As a general matter, we retain your personal data for as long as necessary to provide our services, or for other important purposes such as complying with legal obligations, resolving disputes, and enforcing our agreements.
+We generally rotate through personal data used for ad personalization on a 90-day timetable, provided that we may retain data if we have a legal or significant operational need to do so, such as for auditing, corporate record-keeping, compliance, accounting or bug-fixes.
+If you are a Tapjoy advertiser or publisher, we retain your information as long as your account is active and for as long as necessary for legal or operational purposes, such as auditing, corporate record-keeping, compliance, or accounting, after its closure.
+==========
+Exercising your rights 
+As an individual covered by the GDPR, you have certain rights about the personal data that data controllers hold about you, including right of access, right to request correction, right to be forgotten (i.e., deletion), and right to object to processing (including profiling for online ad targeting).
+Right to Access 
+If you are a consumer and wish to exercise your right to access personal data we process as a data controller, you may do so by requesting access through the e-mail address gdpr-access@tapjoy.com and following the instructions we provide you to authenticate your request and obtain access.
+We will assess requests to exercise data access rights on a case-by-case basis, factoring in the difficulty of verifying whether a mobile device identifier, and the data we have linked to it, truly and solely belongs to the person making the request, as well as the potential risk of harm through disclosure of personal data to the wrong individual.
+Because improper disclosure would likely harm the privacy rights and freedoms of the person involved, we may limit the personal data we make available.
+We only grant requests where we are the data controller, as explained further, below.
+==========
+Where we act as a processor for one of our advertisers or publishers, we will refer your request to that company; if your request involves an advertiser or publisher, please identify them (if possible) to simplify this process.
+If you have a Tapjoy publisher or advertiser dashboard account, you may use your account settings to access and update or delete account information.
+You may also request access by emailing us at gdpr-access@tapjoy.com.
+==========
+Right to Correct
+If you wish to exercise your right to correct Personal Data, you may do so by contacting us at the contact information below.
+Right to Object to Processing or to Withdraw Consent
+By enabling device-based “opt-out” options in your device’s settings, you may withdraw consent for processing where we rely on consent.
+If you do so, we will cease processing your personal data for such purposes within 30 days.
+We collect these opt-out signals ourselves, and will also respect consent flags if passed by the publisher of the app you are using.
+To adjust your advertising preferences in iOS, visit Settings > Privacy > Advertising > Limit Ad Tracking.
+To adjust your advertising preferences in Android, visit Settings > Google > Ads > Opt out of interest-based ads.
+==========
+You can also request an opt-out specific to Tapjoy by emailing us at gdpr-optout@tapjoy.com and following the directions we provide you.
+Right to Erasure
+You also have the right to request erasure of personal data that we hold as a controller.
+The above opt-out process satisfies this right, because when a user opts-out (whether through device settings or by submitting a request to gdpr-optout@tapjoy.com and following our instructions), we stop using your personal data to provide our services to you; the data is permanently rendered disconnected to your device and will be automatically deleted from our production system.
+We may retain copies of some personal data for our own internal and necessary purposes, such as auditing, accounting and billing, legal, bug-detection, backups, and (if applicable) to ensure that you receive and that we are able to track the rewards you have received.
+==========
+Right to Lodge Complaints.
+We encourage you to contact us at the contact information below should you have a Privacy Shield-related (or general privacy-related) complaint.
+If you are a resident of the European Union or Switzerland and are dissatisfied with the manner in which we have addressed your concerns about our privacy practices, you may seek further assistance, at no cost to you, from our designated Privacy Shield independent recourse mechanism, JAMS, on their website at https://www.jamsadr.com/eu-us-privacy-shield.
+As further explained in the Privacy Shield Principles, a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
+Prior to initiating such arbitration, you must: (1) contact us and afford us the opportunity to resolve the issue; (2) seek assistance from our designated independent recourse mechanism; and (3) contact the U.S. Department of Commerce (either directly or through a European Data Protection Authority) and afford the Department of Commerce time to attempt to resolve the issue.
+Each party shall be responsible for its own attorney’s fees.
+Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles with respect to the individual.
+==========
+Tapjoy is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+Tapjoy: a data controller and a data processor
+EU data protection law makes a distinction between organizations that process personal data for their own purposes (known as “data controllers”) and organizations that process personal data on behalf of other organizations (known as “data processors”).
+If you have a question or complaint about how your personal data is handled, we encourage you to direct your inquiry to the relevant data controller, since data controllers have primary responsibility for your personal data.
+Tapjoy may act as either a data controller or a data processor in handling your personal data, depending on the precise circumstances.
+For instance, for personal data that we use internally to create our data-related services, such as interest-based ad targeting, and for personal data that we collect about our publisher and advertiser customers for use in marketing to them, we are a data controller.
+But when we handle personal data strictly on behalf of our customers to provide our services to them (for example, if they provide us with a list of device identifiers to use for targeting or suppression), we are a data processor.
+If you have questions about data that is used primarily on behalf of one of our publishers or advertisers, you should contact them.
+Questions or Concerns
+To opt-out of Tapjoy services, email gdpr-optout@tapjoy.com and follow the provided instructions.
+To access your personal information, email  gdpr-access@tapjoy.com and follow the provided instructions.
+If you have other questions or concerns regarding our privacy policies, please send a message to privacy@tapjoy.com, or mail us at Tapjoy, Inc., 353 Sacramento Street, 6th Floor, San Francisco, CA 94111, U.S., Attn: Privacy.
+Our representative in the EU may be reached by writing to Tapjoy Limited, International Buildings, 5th floor, 71 Kingsway, London WC2B 6ST, UK.
+Please note, these communication channels do not support customer support matters.
+Please visit http://tapjoy.force.com/ to address any customer support questions or concerns.
+==========
+Last updated January 23, 2019.
+Tapjoy uses the information we collect when you use our Partner Apps or visit our websites to serve you with interest-based ads based on your inferred interests, preferences and location.
+If you prefer not to receive ads that are tailored to your interests, you can opt out of Tapjoy using your information for interest-based advertising purposes at any time.
+Depending on the type of device you have, you will need to either change settings on the device or submit your Device ID.
+Please note that if you opt out of Tapjoy using your information for interest-based advertising, you may no longer receive offers through the Tapjoy network including offers to receive rewards by responding to ads hosted by Tapjoy within Partner Apps.
+==========
+You may still receive “generic” ads from us that are not based on your inferred interests.
+Opting out on iOS devices such as iPhones, iPads or iPods:
+If you have an iOS device, you can opt out of interest-based advertising by updating to iOS 6.0 or higher, and setting Limit Ad Tracking to ‘ON’.
+You can do this by clicking on Settings -> Privacy -> Advertising and toggling Limit Ad Tracking to ‘ON’.
+==========
+The Tapjoy Platform is designed to respect your choice and not use information to provide interest-based advertising when this setting is ON.
+Opting Out on Android Devices:
+If you have an Android device and would like to opt out of Tapjoy’s interest-based advertising, you can do so by entering your phone’s Advertising ID here.
+You may also opt out of interest-based advertising by opening the ‘Google Settings’ app on your device, selecting ‘Ads’, and selecting ‘Opt out of interest-based ads’.
+Tapjoy shall comply at all times with the terms of the Tapjoy  Privacy Policy for any data received.
+Last updated February 28, 2017.
+This Tapjoy Data Processing Addendum (“Tapjoy DPA”), effective May 25, 2018, is incorporated into and part of the agreement between Tapjoy, Inc. (“Tapjoy”) and you (“you”, and “Advertiser” or “Publisher” as applicable) relating to your use of Tapjoy’s Advertising Service, Publisher Services, or both (such services collectively, the “Tapjoy Services”, and the agreements applicable to you (“Advertising Agreement” and/or “Publisher Agreement”, as applicable, and collectively, your “Tapjoy Agreements”), available at http://www.tapjoy.com/legal.
+If and to the extent you provide Tapjoy with personal data originating in the EEA or Switzerland, you and Tapjoy agree that this DPA governs our respective collection, transfer, and processing of personal data in the course of our provision and your use of our Services.
+==========
+Definitions.
+The terms in this Addendum, whether capitalized or not, have the meanings set forth below; terms not defined here have the definition set forth in your applicable Tapjoy Agreement.
+“Advertising Service“ means mobile in-app advertising services provided by Tapjoy pursuant to one or more insertion orders executed under your Advertising Agreement.
+“Advertising Service Data“ means personal data provided by you to Tapjoy used solely for your benefit in connection with your use of the Advertising Service.
+==========
+“Applicable Data Protection Laws” means all applicable international, federal, national and state privacy and data protection laws that apply to the processing of Personal Data covered by this Tapjoy DPA, including but not limited to the laws and regulations of the EU applicable to the processing of personal data, in particular: (i) the EU Data Protection Directive (Directive 95/46/EC) through 25 May 2018; and (ii) from 25 May 2018 onward, the EU General Data Protection Regulation (Regulation (EU) 2016/679) (“GDPR”); and (iii) the EU e-Privacy Directive (Directive 2002/58/EC), and if enacted, the EU e-Privacy Regulation from its effective date forward; and (iv) any national data protection laws made under or pursuant to (i), (ii) or (iii).
+“Controller” means the entity that determines the purposes and means of the processing of personal data.
+“EEA” means the European Economic Area.
+“Model Clauses” means the Standard Contractual Clauses for the Transfer of Personal Data available at https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en, specifically (a) for transfer of Publisher Monetization Data, the Controller to Controller Standard Contractual Clauses 2004 (Set II) (Commission Decision 2004/915/EC); and (b) for transfer of Advertising Service Data and Publisher Service Data, the Controller to Processor Standard Contractual Clauses 2010 (Commission Decision 2010/87/EU).
+“Personal Data” means information relating to an identified or identifiable person (data subject) processed pursuant to the Agreement and as to which one or both of us is a Data Controller.
+==========
+“Privacy Shield” means the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce.
+“Processor” means an entity that processes personal data on behalf of a controller.
+“Processing” has the meaning set forth under the GDPR.
+==========
+“Publisher Monetization Data” means personal data provided, via the Tapjoy SDK as integrated in your mobile application, for use in connection with use of Tapjoy’s Publisher Monetization Services, including mobile device identifiers and IP addresses of data subjects who are end users of your mobile application.
+“Publisher Service Data” means personal data provided by you to Tapjoy used solely for your benefit in connection with your use of Tapjoy’s Publisher Services other than Monetization.
+“Publisher Services“ means the Tapjoy publisher services used by you pursuant to your Publisher Agreement, which may include Monetization Services, Analytics Services, and Virtual Currency Management Services, each as defined in Tapjoy’s publisher Terms of Service (https://www.tapjoy.com/legal/#Terms-of-service-publishers).
+“Security incident” means any destruction, loss, alteration, unauthorised disclosure of personal data processed for you by Tapjoy as a processor, arising due to unlawful or unauthorized access to your personal data within storage managed by us.
+“Transfer” means the access by, transfer or delivery to, or disclosure of personal data to a person, entity or system located in a country or jurisdiction other than the country or jurisdiction where the personal data originated from.
+==========
+Purpose and Details of Processing
+
+Respective Roles.
+You and Tapjoy agree that each of us will process and transfer personal data only for the purposes described in your Tapjoy Agreement(s) and this Tapjoy DPA, or as otherwise agreed in writing between us.
+Each of us acknowledges and agrees as follows:
+
+Advertising Service.
+You, as Controller, appoint Tapjoy as Processor to process Advertising Service Data in connection with the Advertising Service pursuant to your Advertising Agreement and in accordance with this Tapjoy DPA.
+Publisher Monetization Service.
+You, as Controller, acknowledge that you and Tapjoy each serve as an independent Controller with respect to Publisher Monetization Data provided under your Publisher Agreement
+Other Publisher Services.
+You, as Controller, appoint Tapjoy as Processor to process Publisher Service Data pursuant to your Publisher Agreement and in accordance with this Tapjoy DPA.
+==========
+No Special Category Data.
+Neither you nor Tapjoy shall transfer, provide each other, or have responsibility for processing special categories of personal data, as referenced in Article 9 of the GDPR.
+Obligations As Controllers
+
+Compliance with Obligations.
+==========
+You and Tapjoy each agree, when acting as a Controller of personal data to comply with all applicable laws, including Applicable Data Protection Laws, in your use and our provision of the Tapjoy Services, including fulfillment of all duties required of Controllers under Applicable Data Protection Laws.
+Each of us will implement and maintain security measures to protect personal data from any Security Incident, including all measures required pursuant to Article 32 of the GDPR.
+Data Subject Requests.
+Each of us, when we act as a Controller, has the sole and independent obligation (as between the parties) to receive and manage data subject requests regarding our respective personal data, including without limitation any request to access, correct, amend, restrict processing of, port, object to the Processing of, block or delete personal data.
+If applicable, and to the extent legally permitted, each of us will provide the other with reasonable cooperation and assistance in relation to handling of a data subject’s request.
+Third-Party Requests.
+If applicable, and to the extent legally permitted, each of will provide the other upon request with reasonable cooperation and assistance in relation to any correspondence, inquiry, or complaint received from a regulator, individual, supervisory authority, court, or other third party.
+==========
+Appointing Processors.
+Where you and Tapjoy are independent Controllers, each party may appoint third party Data Processors to Process personal data for the purposes set forth in this Tapjoy DPA and your Publisher Agreement, provided that such Data Processors (i) agree in writing to Process Personal Data in accordance with the Publisher Agreement (and any other contractual agreements between the parties); (ii) implement appropriate technical and organisational security measures to protect Personal Data subject to the Publisher Agreement against a Security Incident, in compliance with the standards required by this Tapjoy DPA; and (iii) otherwise provide sufficient guarantees that they will process the Personal Data in a manner that will meet the requirements of Applicable Data Protection Laws, including all requirements under GDPR Article 28.
+International Transfer Obligations.
+European Data.
+Each of us agrees that personal data originating in the EEA or Switzerland, or other countries or jurisdictions recognizing the GDPR or EU Directive 95/46/EC (such locations collectively, the “Covered Areas” and such data, “European Data”) shall not be transferred to a jurisdiction outside the Covered Areas unless the transfer is subject to an Approved Transfer Mechanism, meaning that (i) the recipient is located in the EEA or Switzerland, or another country that the European Commission or Swiss Federal Data Protection Authority (as applicable) has decided provides adequate protection for personal data, or (ii) the recipient (a) receives the European Data pursuant to a binding corporate rules authorization in accordance with Applicable Data Protection Laws; or (b) has executed Model Clauses with the Covered Area-based exporter of the personal data; or (c) is located in the United States and has certified compliance to the EU-US or Swiss-US Privacy Shield (as applicable); or (d) transfers the data pursuant to another approved transfer mechanism.
+==========
+Model Clauses.
+You hereby agree to and hereby enter into the Model Clauses applicable to you, the terms of which are hereby incorporated by reference into and form part of this Agreement.
+For the purposes of the Model Clauses, you are the data exporter, and Tapjoy, Inc. is the data importer.
+Controller to Controller Model Clauses – Details: For the purposes of clause II(h): We select option (iii) and agree to be governed by and comply with the data processing principles set out in Annex A of the Controller-to-Controller Model Clauses.
+==========
+For the purpose of Annex B:  (i) the data subjects are end users of the mobile applications in which you use Tapjoy Monetization Services; (ii) the purpose of the transfer is to permit use of the data in accordance with your Publisher Agreement; (iii) the data transferred is as described in this DPA and your Publisher Agreement; (iv) the recipient of the personal data is Tapjoy, Inc.; (v) no sensitive data is or shall be transferred; (vi) there is no applicable data registration information; (vii) there is no additional useful information; and (viii) the contact points for data protection queries are your and our usual contacts under your Publisher Agreement.
+Controller to Processor Model Clauses – Details: For the purpose of Appendix 1: (i) the data subjects are, for Advertisers, current or potential customers for your products or services advertised through Tapjoy’s Advertising Service; for Publishers, end users of your mobile applications; and for both Advertisers and Publishers, the individuals (employees, agents or representatives) responsible for your use of Tapjoy Services; (ii) the data transferred is as described in this DPA and your Tapjoy Agreement(s); (iii) no special categories of data are or shall be transferred; and (iv) the personal data transferred will be processed in connection with our provision of Services to you under your Tapjoy Agreements.
+For the purpose of Appendix 2: Data importer will maintain administrative, physical, and technical safeguards for protection of the security, confidentiality and integrity of Personal Data provided by data exporter as described in Attachment 1 to the Tapjoy DPA between data exporter and data importer; data importer will not materially decrease the overall security of the Tapjoy Services while your Tapjoy Agreement is in effect.
+==========
+Order of precedence: In the event the terms of the applicable Model Clauses conflict with other terms of your Tapjoy Agreements, the Model Clauses will control.
+Privacy Shield.
+You understand that Tapjoy is headquartered in the United States of America.
+Tapjoy represents that it is in the process of certifying its compliance to the Privacy Shield and shall maintain certification and compliance thereto.
+Accordingly, commencing of the effective date of the certification(s), you agree that Tapjoy may lawfully receive and process European Data in the United States of America for as long as we maintain a valid and up-to-date certification.
+If more than one Approved Transfer Mechanism applies, the transfer shall be governed first by Tapjoy’s Privacy Shield self-certification, and second, by the Model Clauses.
+==========
+Future Requirements.
+You and Tapjoy agree to work together as commercially reasonable to allow each other to apply for and obtain any permit, authorization or consent that may be required under future Applicable Data Protection Laws or policies.
+Privacy Policy Disclosures
+
+Each party shall designate a contact point for Data Subjects in its publicly posted privacy policy.
+Each party shall post a privacy policy on its web site and in its mobile application(s) that reflects the nature of the relationship and transfer of data between the parties as required by Applicable Data Protection Laws.
+==========
+Your Data Subject Consent Obligations
+
+You acknowledge that we use mobile device identifier and IP address data to provide the Tapjoy Services; accordingly, for personal data provided under this Tapjoy DPA as to which you are Controller, you represent that you have implemented notice and consent mechanisms sufficient to ensure that any data subject consent is freely given, informed, specific and unambiguous, and (for Publisher Monetization Data) covers use for audience segmentation and targeting in connection with online behavioral advertising.
+You and Tapjoy will each honor mobile opt-out signals.
+You will not provide Tapjoy with personal data from any device that has opted out through device settings (“Opt-Outs”) unless you also provide any accompanying opt-out signal.
+Tapjoy will not knowingly collect or use personal data from any Opt-Outs for purposes of online behavioral advertising.
+You agree to provide Tapjoy, on request, with documentation explaining your consent processes or mechanisms for obtaining consent from data subjects with respect to Publisher Monetization Data.
+You and Tapjoy each agree to use and honor any applicable OpenRTB specifications that pass any signal regarding COPPA flagging, GDPR consent or Opt-Outs.
+If and to the extent that we, in our sole discretion, opt to provide you with a notice or consent mechanism or template (e.g., a privacy notice and consent screen or interstitial enabled via Tapjoy’s SDK) (“SDK Tool”), you acknowledge that the decision of whether to implement it is at your discretion.
+==========
+You understand and agree that any such SDK Tool is provided solely on an “As Is” basis, and that you should not rely on it or our provision of it as legal advice; as between you and Tapjoy, you are solely liable for the nature and sufficiency of your compliance with data subject consent obligations.
+Tapjoy Obligations As Processor.
+Tapjoy, when acting as your Processor, agrees as follows: 
+
+Data Subject Requests.
+==========
+We will, to the extent legally permitted, promptly notify you if we receive a request from a data subject wishing to exercise rights under Applicable Data Protection Law (including rights of access, correction, objection, erasure and data portability, as applicable) in connection with our processing of personal data processed for you, or any other correspondence, enquiry or complaint from an individual, regulator, court or other third party in connection with our processing of personal data for you.
+Taking into account the nature of the processing and the request, we will assist you insofar as possible in fulfilment of your obligation to respond to the data subject request under Applicable Data Protection Laws.
+At your request, to the extent you do not have the ability to fulfill the data subject request, we will provide commercially reasonable efforts to help you in responding, to the extent we are legally permitted to do so and the response is required under Applicable Data Protection Laws and Regulations.
+==========
+Confidentiality and Security.
+We agree to maintain the confidentiality of personal data that we process for you, in accordance with the confidentiality provisions of your Tapjoy Agreements.
+We require our personnel involved in the processing of personal data for you to have executed written confidentiality agreements that survive the termination of their work for us, and we limit access to personal data processed by us for you to those personnel with a business need to know, in accordance with your Tapjoy Agreements.
+Upon request, we will provide you with a copy of our written privacy and information security policies and procedures.
+Upon determining that a Security Incident has occurred affecting personal data, Tapjoy will promptly notify you, take reasonable steps to mitigate any effects and damage from the Security Incident, and will provide you with timely information and cooperation as reasonably requested by you for you to fulfill your own Security Incident reporting obligations pursuant to Applicable Data Protection Laws.
+You agree that an attempted security breach, meaning an event which does not result in unauthorized access to your personal data or to our equipment or facilities storing your personal data, does not give rise to any obligations on our part to you, and that our compliance with this paragraph shall not be deemed an acknowledgement of fault or liability on our part in connection with any actual or attempted Security Incident.
+==========
+Treatment at Termination.
+Upon termination or expiration of the Tapjoy Agreements under which Tapjoy is a Processor for you, Tapjoy will at your request destroy or anonymize all associated personal data, including copies and personal data held by sub-Processors, except that Tapjoy may retain certain personal data for its legal, accounting and auditing purposes.
+Audit.
+Subject to the confidentiality provisions of the Tapjoy Agreement(s), Tapjoy grants you, through reasonably acceptable third-party auditors, the right to audit, at your expense, our compliance with our obligations as your processor under this Addendum, including provision of access to information, systems and staff necessary for the conduct of the audit.
+Your audit right is conditioned upon your providing reasonable prior notice of your intention to audit, the audit taking place during normal business hours, and your auditors taking all reasonable measures to prevent unnecessary disruption to our operations.
+This audit right may be exercised up to once per year, except to the extent (i) when sooner required by instruction of a competent data protection authority; or (ii) you reasonably believe a further audit is necessary due to a Security Incident affecting us.
+Sub-Processors.
+==========
+As your Processor, Tapjoy will not subcontract any processing of personal data to a third party sub-Processor without your prior written consent.
+Notwithstanding the foregoing, you consent to Tapjoy’s engaging of third-party sub-Processors to process personal data provided that: (i) Tapjoy provides you, upon request, with a list of our then-current sub-Processors; (ii) Tapjoy provides at least fourteen (14) days' notice of the addition or removal of any sub-Processor (including details of the processing to be performed), whether by direct email, updating a publicly posted list of our sub-processors, or otherwise as generally communicated to our Advertisers and Publishers; (iii) Tapjoy requires its sub-Processors to abide by data protection terms as protective as the terms of this Tapjoy DPA; and (iv) Tapjoy remains fully liable for breach of this Tapjoy DPA caused by its sub-Processor’s act, error or omission.
+If you reasonably refuse, for reasons related to the protection of personal data, to consent to our appointment of a third party sub-Processor, then we will either not appoint the sub-Processor or you may opt to terminate this Tapjoy DPA and cease your use of our Services.
+==========
+Indemnity.
+Each party (the "Indemnifying Party") shall indemnify and hold harmless the other, including its officers directors, employees, contractors, and agents (the "Indemnified Party") from and against all claims, losses, costs, liabilities, damages, and expenses, including reasonable attorneys’ fees ("Claims") brought by data subjects, supervisory authorities under the Applicable Data Protection Laws, or other third parties, suffered or incurred by the Indemnified Party to the extent arising from the Indemnifying Party's breach of this Tapjoy DPA.
+Indemnification under this Section is conditioned upon (i) the Indemnified Party providing the Indemnifying Party (x) prompt notice of any circumstances of which it is aware that give rise to an indemnity claim under this Tapjoy DPA and (y) reasonable cooperation as to such claim, including provision of all relevant materials to it; (ii) the Indemnified Party taking reasonable steps and actions to mitigate any ongoing Damage it may suffer as a consequence of the Indemnifying Party's breach.
+The Indemnifying Party reserves the right, at its expense, to assume the exclusive defense and control of any matter for which it is required to indemnify the Indemnified Party, and the Indemnified Party shall have the right to participate with counsel of its own choosing at its own expense.
+The Indemnifying Party will not enter into any settlement of any claim without the prior written consent of the Indemnified Party, such consent not to be unreasonably withheld or conditioned.
+Limitation of Liability.
+==========
+Each of our respective liability, whether in contract, tort or under any other theory of liability, is subject to the ‘Limitation of Liability’ section of your applicable Tapjoy Agreement, and any reference in such section to the liability of a party means the aggregate liability of that party and its affiliates under the Tapjoy Agreement including this Tapjoy DPA together; for the avoidance of doubt, each reference to this Tapjoy DPA includes all applicable Attachments and Appendices.
+Miscellaneous
+
+Nothing in this Tapjoy DPA shall confer any benefits or rights on any person or entity other than the parties to this Tapjoy DPA; the foregoing shall not limit third-party beneficiary provisions of the Model Clauses.
+Except as modified by this Addendum, your Tapjoy Agreement(s) remains in full force and effect; in the event of conflict between your Tapjoy Agreement and this Addendum, this Addendum will control.
+Tapjoy and you mutually represent and warrant that we each, respectively, have the right, power, and authority (a) to enter into this Tapjoy DPA, (b) to make the representations and warranties contained herein, and (c) to perform our respective duties, obligations and covenants set forth in this Tapjoy DPA.
+This Tapjoy DPA is co-terminous with your Tapjoy Agreements, terminating automatically with your last Tapjoy Agreement.
+Sections 7(c), 8, 9, and this section survive termination.
+Without prejudice to remedies set forth elsewhere in this DPA or in your Tapjoy Agreements, if either of us breaches this Tapjoy DPA, the other is entitled to terminate the Tapjoy Agreement in its sole discretion effective upon written notice; such termination shall be without any extra costs or expenses, and without effect on any payments then due and owing.
+Effective Date: May 25, 2018
+Attachment 1
+Tapjoy Security Measures
+Tapjoy Facilities Access Control 
+To protect access to physical premises, systems, and networks, Tapjoy’s industry-standard security measures include radio frequency identification (RFID) door lock schedules, single employee badges, and on-site security personnel.
+Tapjoy Systems Access Control
+To protect Tapjoy’s online systems, Tapjoy requires complex passwords (upper case, lower case, numerical, symbol characters) and enforce a Last-4 password rotation with lockout after failed attempts, as well as single sign-on (SSO) with multi-factor authentication.
+==========
+Suspicious activity, user accounts, and permissions are reviewed quarterly and audited annually.
+Tapjoy’s critical system access control policy for dashboard, engineering back-end production systems, and financial systems provides that all access must be approved by a vice-president or higher.
+Access requests are captured for audit trail, and access levels are audited and re-approved annually.
+==========
+Tapjoy Network and Data 
+To protect Tapjoy’s network, Tapjoy employs full disk encryption on laptops and mobile accounts mastered by an Active Directory (AD) or Lightweight Directory Access Protocol (LDAP).
+All Tapjoy code and technological infrastructure are protected by multifactor authentication.
+The Tapjoy Dashboard is controlled via role assignments and audited via login list files for access control; internal user access is controlled by SSO.
+==========
+Changes or additions to a role or its accessibility require Vice President approval.
+Tapjoy Storage and Transfer Control 
+Collected personal data is encrypted at rest, across the Tapjoy infrastructure.
+Use of SSL is required for external traffic.
+Whenever possible, data is anonymized or pseudonymized.
+==========
+Advertiser payment information is never accepted or processed directly, as Tapjoy uses PCI-compliant third parties to provide this service.
+Tapjoy Job Control
+To segregate the responsibilities between controller and processor, Tapjoy puts in place a contract with specific language and monitored performance between Advertiser, as data controller/exporter, and Tapjoy, as data processor/importer.
+Tapjoy Availability Control
+To protect data against accidental destruction or loss, Tapjoy implements appropriate backup procedures, remote storage, and antivirus/firewall systems, as well as disaster recovery protocol.
+Tapjoy Input Control
+Tapjoy implements logging and reporting systems to maintain full documentation for data management and maintenance.
+==========

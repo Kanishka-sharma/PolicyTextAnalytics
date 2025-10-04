@@ -1,0 +1,182 @@
+TACTIC™ Real-Time Marketing
+Privacy Policy
+This Privacy Policy is meant to help you understand what data we collect, why we collect it and what we do with it.
+Our Privacy Policy applies to all of the services offered by TACTIC™ Real-Time Marketing AS.
+Information we collect
+We collect information to provide better services to all of our users.
+We do not collect personally identifiable data
+	from your visit to its domains, other than information that you voluntarily supply and create in the application.
+Information is collected in the following ways:
+
+
+Information you give us
+We ask you for your name, e-mail address and mobile phone number in order to register account in our
+			application.
+By using the contact form or any other publicly available contact channel on our website, you agree that your
+			contact details are correct and rightfully yours.
+==========
+They will be used solely by us to respond to your
+			query.
+Information we get from your use of our application
+We collect information about your application usage.
+This information includes:
+
+
+Log information
+When you use our application, we automatically collect and store certain information in server logs.
+This information include names of users who did specific actions in the application and dates when
+					those actions were done.
+General usage information
+When you use our application, we anonymously collect and store certain information in Google
+					Analytics.
+This information includes navigation and actions performed within application.
+==========
+Identification numbers
+Each object in the application has own unique number.
+Those numbers are stored in the application
+					database.
+Local storage
+We may collect and store information locally on your device using mechanisms such as browser web
+					storage.
+Cookies
+We may collect and store information using cookies.
+Information we get from ads served by our application
+We automatically collect and store anonymous information about performance of creatives that are displayed in
+			use with our application.
+==========
+This information include impressions, interactions, conversions and error reports.
+Information is collected using Google Tag Manager and Google Analytics services.
+We do not place cookies
+			while serving ads.
+We do not collect user information for our ad serving.
+How we use information that we collect
+We use the information we collect to provide, maintain, protect and improve TACTIC™ application.
+Information is used
+	in the following ways:
+
+
+Your name e-mail address and mobile phone number
+We use your e-mail address and mobile phone number to provide secure authentication process.
+We also use your
+			e-mail address and name when you contact us.
+==========
+We keep a record of your communication to help solve any issues
+			you might be facing.
+We may use your email address to inform you about our services, such as letting you
+			know about upcoming changes or improvements.
+Application log information
+We use log information to deliver best application user experience as well as for accomplishing security
+			cases.
+By manipulating with this information we can see who and when did a change in the application.
+Application general usage information
+We use application general usage information to improve application user experience.
+==========
+Application identification numbers
+We use application data identification numbers to display and track ad content on third party resources.
+Identification numbers is public information.
+Local storage and cookie information
+We store information about creative in local storage while using advert preview feature.
+Only your e-mail
+			address and language settings are stored in cookies during application login session.
+Ad tracking information
+We use advertisement tracking information to give you details on ad performance in real-time, so you can
+			analyse and use this information to reach your business goals.
+We are also using this information to get an
+			idea what ads are performing worse or better in order to offer better creative templates in the future.
+Information that we share
+We do not share personal and company information with companies, organisations and individuals unless one of the
+	following circumstances applies:
+
+
+With your consent
+We will share personal and company information with companies, organisations or individuals when we have your
+			consent to do so.
+With application users
+We will share personal and company information with users that are assigned to specific company account in
+			the application.
+Users can see names, e-mail addresses and phone numbers of other users within the same
+			brand.
+As well as dates and names of users that performed certain actions within area of his assignments.
+==========
+There are several levels of various information that is available for different user roles:
+
+
+Account managers
+Account managers can access any information within your company account (including brands).
+They are
+					able to invite, edit and delete users; manage brand, feed and campaign assignments; edit and publish
+					adverts in channels; add, archive and delete resources used in adverts; see analytical information
+					about ad performance.
+Brand managers
+Brand managers can access any information within assigned brand.
+They are able to manage feed and
+					campaign assignments; edit and publish adverts in channels; add, archive and delete resources used
+					in adverts; see analytical information about ad performance.
+Regular managers
+Regular managers can access information within assigned feed and campaign.
+They are able to edit and
+					publish adverts in channels; add resources used in adverts; see analytical information about ad
+					performance.
+With our employees
+We restrict access to information to our employees who need to know that information in order to process it
+			for us and who are subject to strict contractual confidentiality obligations.
+They may be disciplined or
+			their contract terminated if they fail to meet these obligations.
+==========
+With third parties
+Advert data and content will be shared by downloading TACTIC™ container or tag; or by passing advert preview
+			URL to some party.
+We may share non-personally identifiable information publicly and with our partners – like publishers, advertisers or
+	connected sites.
+For example, we may share information publicly to show trends about the general use of our
+	application.
+==========
+Information on behalf of third parties
+TACTIC™ does not allow collection or storage of any type of sensitive personal data.
+Data that are not sensitive but
+	can be used to identify an individual, such as addresses or telephone numbers, are also not collected or stored
+	unless provided voluntarily by an individual Internet user.
+Any such information is only available for use by the
+	particular advertiser to whom the individual has supplied his or her data.
+Advertisers are limited by contract to
+	use these data solely for the purposes, identified in the advertisement, of providing Internet users with requested
+	products, services or information as established in that advertiser’s privacy policy.
+==========
+Although it is permitted, we
+	do not encourage customers to use its technology for collection or storage of personal identification data.
+In all
+	such cases, we provide only secure data storage and access to the data control services with no other use of those
+	data.
+We do not assume responsibility for the advertisers’ use of these voluntarily supplied data.
+We do not
+	distribute this information to any party other than those indicated in the advertising agreement.
+==========
+Information protection
+We work hard to protect TACTIC™ application and our users from unauthorised access to or unauthorised alteration,
+	disclosure or destruction of information that we hold.
+Security is a highly prioritized area for us and we
+	continuously work to maintain the highest level of security.
+We are making database backup to increase your data
+	protection several once per day.
+==========
+Our application is built with following security measures handled:
+
+We use SQL injection control with PDO (prepared statements and stored procedures).
+We use XSS control with $sce (Angular Strict Contextual Escaping) service.
+We use CSRF (Cross Site Request Forgery) control with session tokens.
+We encrypt all of our application services using SSL connection.
+We authenticate users with salted hashes, making Rainbow Table attacks useless.
+==========
+We provide read-only access for static advertisement data.
+We use strict user permission policy or ACL (Access Control List).
+We do not provide public access to application (only account managers are able to invite new users).
+We use several levels of ad publishing procedure to prevent accidental ad content publishing.
+We log all application user actions.
+Regulation initiatives
+TACTIC™ is a member of groups:
+Policy changes
+TACTIC™ reserves the right to modify this privacy policy partially or fully at any time without notice.
+We ensure
+	that privacy practices described in this privacy policy are up to date and reflect current ad-serving and data
+	collection mechanisms employed by our application.
+==========

@@ -1,0 +1,47 @@
+ST's Cookie Policy This Cookie Policy describes how STMicroelectronics International N.V and its subsidiaries (“ST”) and its partners use cookies and similar technologies such as pixel tags, web beacons, clear GIFs, JavaScript, and local storage (“Cookies”) in connection with the websites (including the extranet myST and mobile websites and apps) owned and controlled by ST (the “ST Sites”).
+By using an ST Site, you agree to the terms of this Cookie Policy and consent to the use of Cookies by ST in accordance with the terms of this Cookie Policy.
+Cookies may be used to collect information that is personally identifiable, or that can become personally identifiable if ST combines it with other information.
+In such cases, the ST Website Privacy Policy will apply in addition to this Cookie Policy.
+==========
+About Cookies Cookies are small files – usually made of letters and numbers – downloaded on to a device (computer, tablet, phone, or similar device) when you visit a website.
+Cookies allow a website to recognize a user’s device and are used by website owners to operate their websites more efficiently.
+Cookies are used to understand how the site or service is being used, to help you navigate between pages efficiently, to help remember your preferences, and generally to improve your browsing experience.
+Cookies may also be used to ensure marketing information you see online is more relevant to you and your interests and to deliver advertisements and communications relevant to your interests, provided you have subscribed to these advertisements and communications.
+ST and its service providers use different types of Cookies on ST Sites:  Strictly Necessary CookiesThese cookies are necessary for the website to function and cannot be switched off in our systems.
+They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+==========
+These cookies do not store any personally identifiable information.Cookies usedCategoriesCookies (Lifespan)_zjcThis cookie is used by Zenedge (WAF) as part of the Bot detection.
+The browser is given a challenge , it computes the result, and it set a cookie with the result.
+In this way, the WAF understands that the request is not coming from a bot.
+Cookies are created with random numeric suffix following pattern _zjcN, where N - integer number, so only examples are in this table.
+==========
+__zjc6159 (< 1 days)__zjc7088 (< 1 days)__zjc3548 (< 1 days)st.comCookies created by st.com sitesOptanonAlertBoxClosed (365 days)JSESSIONID (Session)OptanonConsent (364 days)onetrust.comPerformance CookiesThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site.
+They help us to know which pages are the most and least popular and see how visitors move around the site.All information these cookies collect is aggregated and therefore anonymous.
+If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.CategoriesCookies (Lifespan)st.comCookies created by st.com_gat_globalTracker (< 1 days)c_m (< 1 days)gpv_pn (< 1 days)st_chan (394 days)s_dl (< 1 days)_gid (< 1 days)s_visit (394 days)_gat (< 1 days)_ga (729 days)s_sq (Session)mbox (731 days)s_cc (Session)s_nr (29 days)check (Session)adbCl (394 days)s_ppn (< 1 days)_gat_gtag_UA_93749543_1 (< 1 days)uniqueID (Session)s_gnr (364 days)s_vstart (< 1 days)s_ctru2 (< 1 days)s_cvis2 (< 1 days)www.st.comCookies created by www.st.com_sdsat_lt_pages_viewed (729 days)_sdsat_landing_page (Session)_sdsat_pages_viewed (Session)_sdsat_session_count (729 days)_sdsat_traffic_source (Session)nr-data.
+netdigikey.comdk_mfr_trk (6 days)TS018060f7 (Session)i10c_focloir (< 1 days)Functional CookiesThese cookies enable the website to provide enhanced functionality and personalisation.
+==========
+They may be set by us or by third party providers whose services we have added to our pages.If you do not allow these cookies then some or all of these services may not function properly.Cookies usedCategoriesCookies (Lifespan)my.st.comCookies created by my.st.comremember (Session)CASTGC (Session)CASUSR (Session)browser-update.
+orgvimeo.comTargeting CookiesThese cookies may be set through our site by our advertising partners.
+They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites.They do not store directly personal information, but are based on uniquely identifying your browser and internet device.
+If you do not allow these cookies, you will experience less targeted advertising.Cookies usedCategoriesCookies (Lifespan)st.comCookies created by st.com sites__auc (365 days)__asc (< 1 days)AMCV_6C557FBB5417FB460A4C98A4%40AdobeOrg (328 days)AMCVS_xxxxxAdobeOrg (Session)AdbUie (394 days)www.st.comCookies created by www.st.commy.st.comCookies created by my.st.comTAG_USER_COMP (Session)TAG_USER (Session)facebook.comdatr (35 days)fr (89 days)lu (35 days)youtube.comSID (452 days)HSID (452 days)demographics (262 days)VISITOR_INFO1_LIVE (179 days)PREF (1782 days)APISID (452 days)SSID (452 days)LOGIN_INFO (729 days)YSC (Session)SAPISID (452 days)GPS (< 1 days)google.comAPISID (35 days)SSID (35 days)PREF (35 days)SID (35 days)SAPISID (35 days)HSID (35 days)bidr.iocheckForPermission (< 1 days)bito (394 days)demdex.netdpm.demdex.netrlcdn.comrtn1-z (179 days)ck1 (179 days)rlas3 (179 days)company-target.
+comtuuid_last_update (729 days)iuuid (729 days)tuuid (729 days)tuuid_lu (729 days)doubleclick.neteveresttech.neteverest_g_v2 (729 days)everest_session_v2 (Session)stmicroelectronics.tt.omtrdc.netmboxSession (< 1 days)mboxPC (731 days)semasio.netlinkedin.comlidc (< 1 days)bcookie (36 days)__utma (35 days)__utmv (35 days)bscookie (36 days)__qca (270 days)visit (35 days)lang (Session)UserMatchHistory (29 days)tapad.comTapAd_DID (48 days)TapAd_TS (48 days)syndication.twitter.combluekai.combku (168 days)bkdc (168 days)twitter.comauth_token (5437 days)twll (1785 days)secure_session (5437 days)guest_id (452 days)__utma (452 days)remember_checked (1785 days)remember_checked_on (1785 days)ads.linkedin.comBizoID (< 1 days)lang (Session)pinterest.com__utma (452 days)_pinterest_sess (14069 days)__utmv (452 days)addthis.comouid (378 days)loc (384 days)xtc (384 days)bku (378 days)mus (378 days)uid (378 days)uvc (384 days)di2 (378 days)vc (378 days)cdn.syndication.twimg.comaddtoany.com__cfduid (364 days)uvc (< 1 days)   Blocking, deleting and opting out Cookies If you do not want ST to recognize your device, you can also delete Cookies from your browser, block all Cookies, or configure your browser to warn you before a Cookie is stored by adjusting your browser settings.
+==========
+If you do not accept the strictly necessary and functionality Cookies, the use of some services or parts of ST Sites will not be available to you.
+Generally, Cookies allow ST to determine who you are and thus provide you with better and more personalized services.
+The following websites provide information on how to adjust the Cookies settings on some popular browsers: a)       Apple Safari b)       Google Chrome c)       Microsoft Internet Explorer d)       Mozilla Firefox In order to opt out of Adobe and Google  Analytics Cookies across ST web sites, visit: To find out more about interest-based advertising and your choices, visit these sites: Digital Advertising Alliance, the Network Advertising Initiative, and the Interactive Advertising Bureau (IAB) Europe.
+You can opt out of the use of Cookies to tailor content or advertising to you by visiting the following links.
+Note that if you choose to opt out, you won’t necessarily see fewer ads.
+However, the ads you see may be less relevant to your interests.
+==========
+Should you wish to find out more about cookies, including how to see which ones have been set, how to manage them and/or how to delete them, visit www.allaboutcookies.org or www.aboutcookies.org.
+Links to other websites ST Sites may contain links to websites of other providers to which this Cookie Policy does not apply.
+Please see the respective privacy policies of those providers.
+ST assumes no responsibility for the content of these websites.
+Privacy at ST For more information about ST’s approach to privacy see ST Website Privacy Policy, ST Terms of Use and the ST Code of Conduct.
+==========
+You can contact ST regarding this Cookie Policy at support.policies@st.com .
+Please provide ST with your contact details, the name of the ST Site or service in question, and a detailed description of your request.
+This Cookie Policy may be modified at any time.
+Any change to this Cookie Policy will become effective when ST makes the revised Cookie Policy available on the ST Sites.
+Cookie Policy: Last updated on July 24 2018
+==========

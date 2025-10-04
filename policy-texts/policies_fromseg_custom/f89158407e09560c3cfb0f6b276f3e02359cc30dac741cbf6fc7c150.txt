@@ -1,0 +1,108 @@
+LAST UPDATED: May 25, 2018
+Adverty AB (“Adverty,” “we” or “us”) understands the importance of privacy.
+Adverty operates a desktop, console and mobile Virtual, Augmented and Mixed Reality ad network (the “Ad Network” or the “Services”) through which Adverty displays targeted, contextual ads.
+Our clients are “Advertisers” that wish to distribute ad content through the Adverty Ad Network, and “Publishers” that want to display ads to “end users” of their games and applications (“application” or “app”).
+In this Privacy Policy (“Policy”), we describe how we collect, use, and disclose information that we obtain from end users in connection with the Adverty Ad Network
+What Information Do We Collect and Why?
+We do not collect name, email address or contact information from end users.
+==========
+However, in order to operate the Adverty Ad Network and to display ads to end users we may automatically collect certain information from end users within a single application, including:
+
+• IP Address, Android ID, MAC Address, IFA, UDID, and other unique identifiers;
+• Activities and page views within a single application;
+• Language information, device make and model, device connection, height and width and field of view of device, device volume, time zone and city, state-level location information, and operating system type, name, and version;
+• Information about the mobiles apps that a user currently has installed on their device; and Information about the ads an end-user has already been displayed, so that we can optimize the ads we display later
+
+We may use various tracking technologies to collect this information, such as pixel tags and pixel impression trackers from third party services and tracking technologies.
+We may also receive a list of unique identifiers from Publishers and Advertisers, which we may use to determine to what end users to display (or not display) certain ads
+Separately, we may also collect email, contact, payment and related information from publishers and advertisers
+How We Use Your Information
+We use the information that we gather in order to operate the Adverty Ad Network, including:
+
+• To display ads to end users, to customize the ads we display to end users and to optimize the display of such ads;
+• For performance tracking and frequency capping, such as tracking views of ads;
+• For billing purposes;
+• To provide aggregate reports to Publishers and Advertisers; and
+• To improve our Services and for other research and analytical purposes; and
+• To send our customers marketing and promotional information; we do not send such communications to our customer’s end users
+
+How We Share Your Information
+We may share the information that we collect about end users as follows:
+
+• Publishers and Advertisers.
+We may share aggregate information with Publishers and Advertisers about the advertising displayed to end users and the success of ad campaigns
+• Service Providers.
+We may disclose the information we collect from you to third party vendors, service providers, contractors or agents who perform functions on our behalf
+• In Response to Legal Process.
+We also may disclose the information we collect from you in order to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a court order or a subpoena
+• To Protect Us and Others.
+==========
+We also may disclose the information we collect from you where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or this Policy, or as evidence in litigation in which Adverty is involved
+• Aggregate and De-Identified Information.
+We may share aggregate or de-identified information about users with third parties for marketing, advertising, research or similar purposes
+
+Privacy Practices of Publishers
+In our Terms & Conditions, we require Adverty’s Publishers to post a privacy policy, to obtain all required end user consents, and to comply with all applicable laws and self-regulatory guidelines, but we are not responsible for your privacy practices.
+To assist you in your compliance with your obligations under applicable law, our Privacy Policy contains information on the way Adverty processes end user personal data
+In particular, information given to the end users who are based in the EU at the time their consent is asked, should include the following:
+
+• The collection of their data by Adverty as described in this Privacy Policy, including a link to this Privacy Policy;
+• That their data will be collected by Adverty to show ads on your applications, including ads which are based on behavioral targeting (for example: ads for games which are similar to those which they have installed and played before);
+• Their rights as data subjects, as described in Section “Rights of Data Subjects”;
+• Their right to withdraw consent at any time;
+• Their right to lodge a complaint with a supervisory authority
+
+Rights of Data Subjects
+Adverty recognizes that any individual in the EU has the following rights in relation to their information according to GDPR:
+
+• The right to obtain, at reasonable intervals and free of charge, confirmation as to what personal data about them are processed by Adverty
+• The right to object to processing of personal data about them for direct marketing purposes
+• The right to have personal data about them rectified, blocked or deleted if the data are incorrect, incomplete, irrelevant, outdated or processed unlawfully
+• The right to object to processing based on their particular situation
+• The right to receive the personal data about them which they have provided to Adverty in a structured and commonly used format and to transmit those data to another controller
+
+Some of your information can be changed or deleted by following the process provided in the Online Services Account, unless we must keep the information for legitimate business or legal reasons.
+==========
+If you delete certain of your information, your account may become deactivated
+If you wish to make a request based on the above, please inform us by visiting adverty.com and going to the ‘Contact Us’ page.
+We may request evidence of your identity for verification purposes.
+We will respond to your request within the applicable statutory term
+If an end user exercises any of their rights with you with respect to the processing of their information by us, please use the tools in the Online Services Account to accommodate their request, or, if this is not possible, please visit adverty.com and go to the ‘Contact Us’ page
+Third-Party Links
+Ads within the Adverty Ad Network may contain links to third-party websites and applications.
+==========
+Any access to and use of such linked websites or mobile apps is not governed by this Policy, but instead is governed by the privacy policies of those third parties.
+We are not responsible for the information practices of such third parties
+How Can I Opt Out of Behavioral Targeting?
+If you’d like to opt-out from having this information used to tailor advertising to you, please follow the instructions provided below.
+Note, we do not collect your name, email address, contact information, or other personally identifiable information
+Once you’ve opted out, we will no longer use information about your activities to deliver behaviorally targeted advertising to your device.
+You will continue to receive advertising after you opt-out, but it may not be tailored to your interests
+Depending on the type of device you have, you will need to either change settings on the device or submit your Device ID to us as noted below.
+You can opt-out from Adverty collecting information about applications stored on the device.
+You will continue seeing advertising, but it will be much less relevant.
+To opt out from receiving Interest-Based Ads follow these steps
+For iOS mobile devices, go to “Settings” from the device’s home screen; scroll down to “Privacy”; select “Advertising”; and turn on “Limit Ad Tracking”
+For Android mobile devices, go to “Google Settings” on the device; select “Ads”; and check the box labeled “Opt Out of Interest-Based Ads”
+What about COPPA & EU GDPR Article 8?
+We are not responsible for the information practices of our Publisher clients.
+==========
+Publishers are responsible for ensuring that their apps comply fully with Article 8 of EU GDPR or COPPA, including where relevant by obtaining parental consent prior to the collection of personal information
+Unique identifiers (e.g., IP address and device identifiers) are the only “personal information” under COPPA and EU GDPR Article 8 that Adverty collects from end users.
+Adverty only uses the unique identifiers (and other associated information) it collects from end users to support its internal operations
+Security
+We have implemented technical and administrative security measures to safeguard the information we collect from end users
+Contact Us
+If you have questions about the privacy aspects of our Services or would like to make a complaint, please contact at info@adverty.com
+Changes to this Policy
+This Policy is current as of the Effective Date set forth above.
+==========
+We may change this Policy from time to time, so please be sure to check back periodically.
+We will post any changes to this Policy on our Site, at https://www.adverty.com/privacy-policy
+How Can I Unsubscribe from Adverty Marketing Emails?
+We may send periodic promotional or informational emails to our customers (but not their end users).
+==========
+Customers may opt-out of such communications by following the opt-out instructions contained in the e-mail.
+Please note that it may take up to 10 business days for us to process opt-out requests.
+If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you transactional e-mails about your account or any services you have subscribed to
+==========

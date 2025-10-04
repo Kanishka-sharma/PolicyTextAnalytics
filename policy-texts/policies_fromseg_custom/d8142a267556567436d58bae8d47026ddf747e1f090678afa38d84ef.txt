@@ -1,0 +1,39 @@
+The Wayback Machine - https://web.archive.org/web/20150108145537/http://azure.microsoft.com:80/en-us/support/trust-center/
+As an Azure customer, you have entrusted Microsoft to help protect your data.
+Microsoft values this trust, and the privacy and security of your data is one of our top concerns.
+Microsoft strives to take a leadership role when it comes to security, privacy, and compliance practices.
+==========
+Trust Center resources: Overview | Security | Privacy | Compliance | Resources | FAQ
+Last updated: September 2014
+Independently verified
+Compliance with world class industry standards verified by third parties
+Microsoft partners with customers to help them address a wide range of international, country, and industry-specific regulatory requirements.
+By providing customers with compliant, independently verified cloud services, Microsoft makes it easier for customers to achieve compliance for the infrastructure and applications they run in Azure.
+Learn more about Compliance
+Relentless on security
+Excellence in cutting edge security practices
+Through cutting-edge security practices and unmatched experience running some of the largest online services around the globe, Microsoft delivers enterprise cloud services customers can trust.
+==========
+Learn more about Security
+Your privacy matters
+We respect the privacy of your data
+Privacy is one of the foundations of Microsoft's Trustworthy Computing.
+Microsoft has a longstanding commitment to privacy, which is an integral part of our product and service lifecycle.
+Learn more about Privacy
+Shared responsibility
+Our customers around the world are subject to many different laws and regulations.
+Legal requirements in one country or industry may be inconsistent with legal requirements applicable elsewhere.
+==========
+As a provider of global cloud services, we must run our services with common operational practices and features across multiple geographies and jurisdictions.
+To help our customers comply with their own requirements, we build our services with common privacy and security requirements in mind.
+It is ultimately up to our customers, however, to evaluate our offerings against their own requirements, so they can determine if our services satisfy their regulatory needs.
+==========
+We are committed to providing our customers with detailed information about our cloud services to help them make their own regulatory assessments.
+It is also important to note that a cloud platform like Azure requires shared responsibility between the customer and Microsoft.
+Microsoft is responsible for the platform, and seeks to provide a cloud service that can meet the security, privacy, and compliance needs of our customers.
+Customers are responsible for their environment once the service has been provisioned, including their applications, data content, virtual machines, access credentials, and compliance with regulatory requirements applicable to their particular industry and locale.
+==========
+Updates
+The information presented in the Azure Trust Center is current as of the "last updated" date at top but is subject to change without notice.
+We encourage you to review the Trust Center periodically to be informed of new security, privacy and compliance developments.
+==========

@@ -1,0 +1,31 @@
+Ad Delivery & ReportingAd Exchange does not collect any PII about individual website end-users (such as your name, email address, etc.).
+With each advertisement served (known as an impression), Ad Exchange collects information such as the time of day the impression occurs, the specific URLs visited by end-users, and the end-user's browser type, browser language, and IP address.
+That information is used to verify our records, to provide our customers with additional ad-related services such as statistical reporting about website activity and the number of ads served, and to provide more ads to end-users based on the specific website URL, or page, visited.
+Displaying an ad relevant to the content on the web page visited is commonly referred to as contextual advertising.
+We may also provide information to other entities such as what specific ads an end-user was exposed to.
+Targeting Advertisements
+Many Ad Exchange ad impressions involve contextual advertising.
+==========
+As mentioned above, these ads are generally targeted to content categories only, meaning that an end-user sees a particular advertisement based on the type of content found on the page that user is visiting.
+Other times, our technology considers anonymous information such as the time of day or approximate geographic area of the end-user in order to deliver advertisements that are more relevant to that individual end user.
+==========
+Ad Exchange also engages in online behavioral advertising (OBA).
+This involves using patterns of online behavior observed by Ad Exchange or its third-party data partners to segment users into interest groups for advertising campaigns.
+==========
+These processes are carried out using cookies and pixels.
+"Cookies" are small pieces of information that are stored by your web browser on your computer when you visit.
+==========
+Pixels are small graphic images (usually invisible) that can be embedded in content and advertising on a website, which can be used to recognize our cookies and to monitor certain user interactions with the website.
+The information contained in the cookie is recognized by Ad Exchange and is collected for targeting purposes at the time of the ad impression.
+For example, an advertiser might work with Ad Exchange to reach people who have recently visited the advertiser's website.
+A cookie is placed on an individual's web browser while on the advertiser's site, and when that cookie is seen by Ad Exchange on the site of one of our publishers, we deliver the advertiser's message.
+Similarly, if an advertiser wants to reach individuals who have expressed purchase intent for a category of products, Ad Exchange may serve advertisements relevant to that category of products to individuals with third-party cookies on their browsers that reflect that intent.
+==========
+Ad Exchange may also use other information obtained from third-party data partners that reflects or suggests the end-user has a higher likelihood of being within a certain de-identified segments of the population.
+These de-identified segments, which may include de-identified health segments, may be based on demographic characteristics such as age and gender, geographic area and other categories derived from various information, including purchasing tendencies.
+During no stage of this process does Ad Exchange know the identity of the end-user.
+==========
+PulsepPoint complies with the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance (DAA).
+As part of this service, all Ad Exchange advertisements that are delivered using behavioral data are delivered with the Advertising Option Icon, which helps consumers understand how their data are being used and provides choices for consumers who want more control.
+We are committed to following the Code of Conduct of the Network Advertising Initiative (NAI), of which we are a member.
+==========

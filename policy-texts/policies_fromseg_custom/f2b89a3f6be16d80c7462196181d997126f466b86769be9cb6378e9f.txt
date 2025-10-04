@@ -1,0 +1,64 @@
+With more of psychologists’ work going digital, the chances of inadvertently revealing people’s private information is also escalating.
+Social media, smartphones, GPS tracking systems, wearable cameras and other tools allow researchers to collect real-time data that was previously unavailable, such as an individual’s movements, moods or sleeping patterns.
+At the same time, patients are using smartphone apps for monitoring and treating conditions including depression, substance use disorders, obesity and schizophrenia—but few read the terms and conditions to understand whether their data are protected.
+==========
+Now, a growing number of psychologists are tackling these digital privacy challenges.
+“We need to be thoughtful about the potential downstream repercussions,” says Camille Nebeker, EdD, MS, an associate professor in the department of family medicine and public health and director of the Research Center for Optimal Digital Ethics Health (ReCODE Health) at the University of California, San Diego, who is among the psychologists taking the lead on privacy protection in psychology research.
+“My goal is to get people to start talking about the issues and support one another to improve the current practices.”
+Uninformed consent
+A study by Nebeker and her colleagues sheds light on how researchers can inadvertently unmask personal details.
+==========
+In a search for articles published on PubMed in 2015 and 2016 that included the words “Twitter” and either “read,” “coded” or “content,” they found that 72% quoted at least one participant’s tweet, and the researchers could identify the participant by searching online for the quoted content 84% of the time.
+Significantly, only one study had obtained consent from participants to disclose identifying information (npj Digital Medicine, Vol.
+1, 2018).
+==========
+The lack of informed consent may come as a surprise, but publicly available data like Twitter posts often can be accessed and used by researchers without obtaining a prospective ethics board review, says Nebeker.
+And even institutional review boards (IRBs) may not always know how to proceed when reviewing such studies.
+“Digital technologies introduced novel ethical complexities that may be unfamiliar to researchers and the IRBs,” Nebeker says.
+In a recent study, her team learned that IRBs were uncertain about how to evaluate digital research and they wanted more support (AJOB Empirical Bioethics, Vol.
+8, No. 4, 2017).
+==========
+Meanwhile, other countries are grappling with similar challenges, and the European Union recently passed the General Data Protection Regulation (GDPR), which gives study participants the right to know what personal information is being collected and whether it’s being shared with others.
+As it became increasingly clear to Nebeker that both researchers and IRBs needed more guidance, she obtained funding from the Robert Wood Johnson Foundation to create the Connected and Open Research Ethics (CORE) initiative within ReCODE Health.
+Nebeker and her colleagues conducted focus groups with IRB members, study participants and scientists throughout the country to better understand how to support these stakeholders.
+==========
+The meetings informed the design of the CORE website, which includes resources like a checklist to help researchers ensure that they are protecting study participants who are sharing personal data (Translational Behavioral Medicine, 2019).
+The checklist highlights items to consider, such as whether informed consent forms clearly describe what personal information will be collected, which data will be shared and with whom.
+The CORE platform also includes a Q&A forum for its members and a library where researchers can share samples of IRB-approved protocols and consent forms they’ve developed to foster ethical digital health research.
+==========
+APA’s Ethics Code also addresses digital privacy by cautioning psychologists to take reasonable precautions to protect confidential information obtained through or stored in any medium (Section 4).
+Also, psychologists who offer “services, products or information via electronic transmission” should inform clients or patients of the risks of privacy and limits of confidentiality, according to the ethics code.
+==========
+Privacy and apps
+The explosion of mental health apps for people with conditions such as depression, anxiety or schizophrenia has also undermined the confidentiality of personal data, an issue of particular concern to clinicians.
+“The privacy policies usually state that the apps are just a health and wellness product, so they are not subject to the same privacy regulations as a medical device product,” says John Torous, MD, MBI, director of the digital psychiatry division at Beth Israel Deaconess Medical Center in Massachusetts.
+==========
+He studied the privacy policies of apps geared to help a particularly vulnerable population: people with dementia.
+He found that 46% of the 72 apps he studied had a privacy policy, but only 4% promised not to sell the data to third parties (American Journal of Geriatric Psychiatry, Vol.
+25, No. 8, 2017).
+“Most apps are either not disclosing their privacy policies or they do not follow their own policies,” he says.
+==========
+“And if they have a policy, it’s usually written at a college reading level that is far above the average reading level of most users.”
+The U.S. Department of Veterans Affairs (VA) is one organization that has developed short, readable privacy policies that protect personal data on its mental health apps.
+“I steer a lot of patients to VA apps because they promise not to share data and only use anonymized information for internal analytics, and the user can easily opt out of this,” says Torous.
+==========
+For example, the privacy policy for VA mobile apps—such as Mood Coach, ACT Coach or PTSD Coach—states that “no data that could be used to identify you is sent to VA or third parties,” and that any information entered into the app, such as names, phone numbers, addresses, images or music cannot be accessed, stored or shared by the VA.
+The policy also explains that mobile apps collect anonymous information about how people use it to help the VA make improvements, but that this information cannot be linked to any personal information.
+==========
+Behavioral health apps also often ask people to respond to open-ended questions, and that can increase the risk of participant identification, says Danielle Ramo, PhD, an associate professor of psychiatry at the University of California, San Francisco and director of research at Hopelab, who is creating an app to help college students struggling with loneliness.
+While there are a lot of benefits to asking open-ended questions, she says, answers with identifying information can create problems for participants and others.
+If the app she is developing asked, “What was your experience with a social challenge?”
+and a participant expressed frustration with certain individuals on campus, this could have negative consequences, she says.
+==========
+To reduce risk, Ramo’s research team limited the number of open-ended questions in the app and instead used interactive choice features.
+For example, participants could select how they were feeling on a colorful grid rather than answer an open-ended question about how they were feeling.
+==========
+Attention to such privacy issues is critical, says Sherry Pagoto, PhD, a professor in the department of allied health services and director of the Center for mHealth and Social Media at the University of Connecticut, who delivers behavioral health interventions using private Facebook groups in her research on obesity, among other areas.
+She developed an informed consent document that details the social media platform’s privacy limitations.
+“We made it clear that other people in the group can see what they post, and that Facebook has access to anything they post,” she says.
+“This is important for people who are sharing sensitive details about binge eating or mental health issues” (JMIR mHealth and uHealth, Vol.
+6, No. 6, 2018).
+==========
+Overall, she says, psychology researchers need to ask themselves how they could possibly be violating privacy.
+“If one researcher has a significant [­digital privacy] breach, then we risk losing the faith of the public and access to social media platforms for the long term.”
+==========

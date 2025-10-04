@@ -1,0 +1,90 @@
+Terms of Service
+1.
+Acceptance of Terms.
+Zendesk ApS (referred to here as "Zendesk") provides its Service (as defined below) to you subject to this Terms of Service agreement ("TOS").
+Zendesk may update this TOS from time to time and you can review the most current version of the TOS at any time at http://www.zendesk.com/terms.
+By signing up to use the Service, you signify your binding acceptance of the TOS and you represent that you are of legal age to form a binding contract.
+2.
+==========
+Description of Service
+
+The "Service" includes (a) the Zendesk.com web site (the Site), (b) the services provided by the Site and by the API made available via the Site, and (c) all data, text, images, sounds, video, content, programming and software made available through the Site or services, or developed via the Zendesk API.
+Any new features added to or augmenting the Service are also subject to this TOS.
+3.
+==========
+General Conditions
+
+You understand that Zendesk uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run the Service.
+You must not modify, adapt or hack the Service to falsely imply that it is associated with Zendesk.
+You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service without the express written permission by Zendesk.
+Zendesk reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Service (or any part thereof) with or without notice.
+You understand that the technical processing and transmission of the Service, including your content, may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
+==========
+If your bandwidth usage significantly exceeds the average bandwidth usage (as determined solely by Zendesk), we reserve the right to immediately disable your account.
+Abuse or excessively frequent requests to the Service via the Zendesk API may result in the temporary or permanent suspension of your account's access to the API.
+Zendesk, in its sole discretion, will determine abuse or excessive usage of the API.
+Zendesk will make a reasonable attempt via email to warn the account owner prior to suspension.
+==========
+The failure of Zendesk to exercise or enforce any right or provision of the TOS shall not constitute a waiver of such right or provision.
+The TOS constitutes the entire agreement between you and Zendesk and govern your use of the Service, superceding any prior agreements between you and Zendesk (including, but not limited to, any prior versions of TOS).
+4.
+==========
+Payment and Refunds
+
+Credit card is not required for signing up for a free trial account or for the Free plan.
+If you initially sign up for a Solo, Small, Medium, Large or X-Large account, and you don't provide credit card details within 30 days trial period, your account will be downgraded to a tiny Free plan at the end of the trial-period, and you will potentially loose data.
+Have you provided credit card details before the end of your 30-day trial you will be billed monthly starting on the 30th day after your account was initially created.
+An upgrade from the Free plan results in an immediate billing for the first month of your new plan, and you will enter the standard 30 day billing cycle.
+The Service is billed in advance on a monthly basis and is non-refundable.
+There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for months unused with an open account.
+==========
+In order to treat everyone equally, no exceptions will be made.
+All fees are in US dollars and exclusive of all taxes where appropriate.
+For any upgrade or downgrade in plan level, your credit card will automatically be charged the new rate on your next billing cycle.
+Downgrading your account may cause the loss of content, features, or capacity of your account.
+Zendesk does not accept any liability for such loss.
+==========
+Prices of all Services, including but not limited to monthly fees to the Service, are subject to change upon 30 days notice from us.
+Such notice may be provided at any time.
+Zendesk provides an interface for the account owner (as defined in the sign-up procedure) to change credit card information eg.
+upon card renewal.
+==========
+The account owner will receive an email receipt upon each credit card charge.
+All such receipts are also available for the account owner from within the application.
+Zendesk does not store your detailed credit card information, this is kept securely at our hosting gateway, as required by law.
+5.
+==========
+Cancellation and Termination
+
+You are solely responsible for properly canceling your account.
+The account owner (as defined in the sign-up procedure) can cancel the account at any time by clicking on the Account link in the global navigation bar at the top of the screen.
+There are no other means of canceling your account.
+All of your content will be immediately deleted from the Service upon cancellation.
+This information cannot be recovered once your account is cancelled.
+If you cancel the Service before the end of your current paid up month, your cancellation will take effect immediately and you will not be charged again.
+==========
+Zendesk, in its sole discretion, has the right to suspend or terminate your account and refuse any and all current or future use of the Service for any reason at any time.
+Such termination of the Service will result in the deactivation or deletion of your account or your access to your account.
+Zendesk reserves the right to refuse service to anyone for any reason at any time.
+All credit card information will be deleted from the payment gateway upon cancellation.
+6.
+==========
+Disclaimer of Warranties
+
+By signing up to use this Service, you understand and agree that your use of the Service is at your sole risk.
+The Service is provided on an "as is" and "as available" basis and to the fullest extent permitted by law, Zendesk expressly disclaims all warranties, express or implied, in connection with the Service and your use thereof, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, accuracy, and non-infringement.
+Zendesk does not warrant that the Service will meet your specific requirements, that the Service will be uninterrupted, timely, secure, or error-free, that the results that may be obtained from the use of the Service will be accurate or reliable, that the quality of any products, services, information, or other material purchased or obtained by you through the Service will meet your expectations, or that any errors in the Service will be corrected.
+==========
+As with the purchase of a product or service, or installation or download of any application, through any medium or in any environment, you should use your best judgment and exercise caution where appropriate.
+No advice or information, whether oral or written, obtained by you from Zendesk or through the Service shall create any warranty not expressly stated in this TOS.
+7.
+==========
+Limitation of Liability
+
+You understand and agree that Zendesk shall not be liable to you for any direct, indirect, incidental, special, consequential or exemplary damages, including without limitation damages for loss of profits, goodwill, use, data or other intangible losses (even if Zendesk has been advised of the possibility of such damages), resulting from: (a) the use or the inability to use the Service; (b) the cost of procurement of substitute services resulting from any services obtained through or from the Service; (c) unauthorized access to or alteration of your transmissions or data; (d) statements or conduct of any third party on the Service; (e) inaccuracies, mistakes, or errors of content; (f) personal injury or property damage of any nature whatsoever resulting from your access to and use of the Service; (g) any bugs viruses, Trojan horses, or the like, which may be transmitted to or though the Service by a third party; or (h) any other matter relating to the Service, whether based on warranty, contract, tort, or any other legal theory.
+In the event this limitation of liability shall be for any reason held unenforceable or inapplicable, you agree that the aggregate liability of Zendesk shall not exceed an amount corresponding to your monthly fee.
+8.
+Assignment
+
+This TOS and the rights and licenses it grants or receives may be assigned or transferred by Zendesk without restriction.
+==========

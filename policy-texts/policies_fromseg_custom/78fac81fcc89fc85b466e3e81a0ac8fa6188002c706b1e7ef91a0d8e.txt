@@ -1,0 +1,78 @@
+9.
+Thinkific Payments
+Payments Platform.
+Thinkific offers access to a payments platform through which you may process payment transactions with your students or other users (“Thinkific Payments”).
+We use a third party payments processor and platform provider like Stripe Inc. (“Stripe”) to facilitate Thinkific Payments (the “Provider”).
+We reserve the right to change the Provider at any time, in which case you agree to take whatever steps as we may advise in order to migrate the Thinkific Payments service to another Provider.
+==========
+Fees.
+We will charge you a fee for every transaction you process through Thinkific Payments, including purchase/payment transactions and credit/refund/return transactions.
+Fees for Thinkific Payments are payable by you to Thinkific in accordance with the Pricing Schedule posted on our website.
+Settlement of Transactions.
+==========
+We will deposit the amounts actually received by us for transactions submitted through Thinkific Payments (less any applicable fees and Chargebacks, defined below) into your designed bank account or by any other means that we may make available and you may select (such as push card payments), in accordance with the payout schedule in your Thinkific plan.
+Your payout schedule is subject to change if your Thinkific plan changes.
+Payouts for new customers may be delayed while we verify your account.
+==========
+You are responsible for monitoring your transactions and ensuring that our payments to you are correct.
+You must notify us of any errors in payments made to you within sixty (60) days of the error first appearing on your electronic transaction history.
+Failure to notify us of such an error in accordance with these Terms of Service will be deemed a waiver of any right to amounts owed to you.
+==========
+We may delay settlement if we need to conduct an investigation or resolve any suspicious activity or pending dispute related to any transaction or your account, for the entire time it takes for us to do so.
+We also may defer settlement or restrict access to your funds as required by law or court order, or if otherwise requested by law enforcement or governmental entity.
+==========
+Chargebacks.
+The amount of a transaction may be reversed or charged back to your bank account (a “Chargeback”) if the transaction (a) is disputed by one of your students or other users, (b) is reversed for any reason by a payment card network (defined below), our Provider, or a payer’s or our financial institution, (c) was not authorized or we have any reason to believe that the transaction was not authorized, or (d) is allegedly unlawful, suspicious, or in violation of the terms of these Terms of Service.
+We will charge you a fee of $25 for each Chargeback.
+==========
+For any transaction that results in a Chargeback, we may withhold the Chargeback amount in a Reserve (defined below).
+We may deduct the amount of any Chargeback and any associated fees, fines, or penalties assessed by the card-issuing bank or organization or our Provider from your bank account (including without limitation any Reserve), any proceeds due to you, your bank account, or other payment instrument registered with us.
+If you have pending Chargebacks, we may delay settlement of future transactions.
+Further, if we reasonably believe that a Chargeback is likely with respect to any transaction, we may withhold the amount of the potential Chargeback from payments otherwise due to you under these Terms of Service until such time that (a) a Chargeback is assessed due to a user’s complaint, in which case we will retain the funds, (b) the period of time under applicable law or regulation by which the user may dispute that the transaction has expired or (c) we determine that a Chargeback on the transaction will not occur.
+If we are unable to recover funds related to a Chargeback for which you are liable, you will pay us the full amount of the Chargeback immediately upon demand.
+==========
+You agree to pay all costs and expenses, including without limitation attorneys’ fees and other legal expenses, incurred by or on behalf of us in connection with the collection of any amounts due to Thinkific under these Terms of Service that are unpaid by you.
+If we determine that you are incurring an excessive amount of Chargebacks, we may establish controls or conditions governing your account, including without limitation, by (a) establishing new processing fees, (b) creating a Reserve (defined below) in an amount reasonably determined by us to cover anticipated Chargebacks and related fees, (c) delaying settlement and (d) terminating or suspending your access to the Thinkific Payments or other Services.
+Any bank account or payment card information may be held by Thinkific in order to satisfy any account balances, disputes, refunds,Chargebacks or other liabilities or obligations after leaving or terminating Thinkific Payments or any other Service offered under these Terms of Service.
+==========
+Reserve.
+We may at any time in our discretion designate an amount of funds that you must maintain in a separate reserve account (a “Reserve”) to secure the performance of your payment obligations under these Terms of Service.
+We may require a Reserve for any reason, including if you have a high rate of Chargebacks or refunds, or other indications of performance problems related to your use of Thinkific Payments or other Services.
+The Reserve will be in an amount as reasonably determined by us to cover anticipated Chargebacks, returns, unfulfilled services or credit risk based on your processing history or such amount designated by our processor.
+The Reserve may be raised, reduced or removed at any time by us, in our sole discretion, based on your payment history, a credit review, the amount of any arbitration award or court judgment against you in our favor, or otherwise as we or our Provider may determine or require.
+==========
+If you do not have sufficient funds in your Reserve, we may fund the Reserve from any funding source associated with your account, including but not limited to any funds (a) due to you under these Terms of Service or (b) available in your bank account, or other payment instrument registered with us.
+You grant us a security interest in and lien on any and all funds held in any Reserve, and also authorize us to make any withdrawals or debits from the Reserve, without prior notice to you, to collect amounts that you owe us under these Terms of Service, including without limitation for any reversals of deposits or transfers made to your bank account.
+==========
+Refunds and Returns.
+You agree to process returns, and provide refunds and adjustments, for your goods or services through Thinkific Payments in accordance with these Terms of Service and any applicable payment card network rules or our Provider’s terms.
+Payment card network rules may require that you will (a) maintain a fair return, cancellation or adjustment policy, (b) disclose your return or cancellation policy to customers at the time of purchase, (c) not give cash refunds to a customer in connection with a card sale, unless required by law and (d) not accept cash or any other item of value for preparing a card sale refund.
+You are responsible for knowing and adhering to the payment card network rules applicable to you, and Thinkific will not be liable for any violation by you of the payment card network rules.
+==========
+The amount of the refund/ adjustment must include any associated taxes required to be refunded and cannot exceed the amount shown as the total on the original sales data except by the exact amount required to reimburse the user for postage that the user paid to return merchandise, if applicable.
+Please be aware, if your refund policy prohibits returns or is unsatisfactory to the user, you may still receive a Chargeback relating to such sales.
+==========
+You can process a refund through your account up to sixty (60) days from the day you accepted the payment.
+If the balance in your account is insufficient to cover the refund, we will withdraw up to the requested refund amount from your bank account and credit it back to your user’s card.
+Transaction fees are also refunded, so the full purchase amount is always returned to your user.
+==========
+Customer Service.
+Even if Thinkific handles disputes, Chargebacks or refunds on your behalf through Thinkific Payments, you are solely responsible for all customer service issues relating to your services, including pricing, fulfillment, cancellation by you or customer, returns, refunds and adjustments, rebates, functionality and warranty, technical support, and feedback, reviews, or ratings concerning experiences with your personnel, policies or processes.
+In performing customer service, you will always present yourself as a separate entity from Thinkific.
+As between you and Thinkific, you are solely responsible for customer service issues relating to your account.
+==========
+Stripe Connected Accounts.
+Where Stripe is the Provider, the following provisions will apply:
+To connect to our platform and process payments through Stripe we will create a Stripe account (a “Stripe Connect Account”) for you that is connected to the Thinkific Payment platform.
+You will be required to accept the terms of the Stripe Connected Account Agreement and Stripe Services Agreement as well as any other documentation that Stripe may require (the “Stripe Documentation”).
+You agree to comply with the Stripe Documentation and not to engage in any activity that is expressly prohibited by the Stripe Documentation.
+==========
+Stripe processes your personal information in accordance with its own privacy policy, available here: http://stripe.com/privacy.
+Stripe may deny the creation of a Stripe Connect Account or may suspend or terminate a Stripe Connect Account, in its discretion in accordance with the Stripe Documentation.
+You agree that we can directly access your Stripe Connect Account dashboard, including information about your transactions (including purchases and refunds) and Stripe account balance (your  “Connected Account Data”), in order to collect fees, process payments and refunds, handle disputes, process Chargebacks, and any other activity necessary to provide Thinkific Payments or other Services in accordance with these Terms of Service and our Privacy Policy, and you give us express authorization to conduct any of the above activities on your behalf through your Stripe Connect Account.
+We may exchange Connected Account Data with Stripe as necessary to detect and prevent fraud, misuse, unlawful, abusive or deceptive activity, and otherwise to allow Thinkific and Stripe to each comply with our legal and regulatory obligations.
+==========
+You represent and warrant that all information provided to Thinkific or Stripe in connection with the creation or maintenance of a Stripe Connected Account is true and accurate in all material respects at all times.
+You will be responsible for any loss or liability incurred by Thinkific due to activity conducted through a Stripe Connect Account initiated by you or on your behalf, or using your credentials even if not authorized by you, and Thinkific may deduct such losses from your Stripe Connect Account or your Thinkific Account, or require you to pay such losses to Thinkific.
+You agree to indemnify, defend and hold harmless Thinkific and Stripe and their respective affiliates from any claims brought by a third party arising out of any activity conducted through a Stripe Connect Account or arising out of your breach of these Terms of Service or the Stripe Documentation.
+==========

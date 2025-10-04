@@ -1,0 +1,178 @@
+Privacy Policy
+This page outlines what personal data is collected by Smash Balloon, how it is stored, whether it is transferred to third-parties, and how to request deletion of this data.
+Logging into your Social Media Account through our Plugins
+We do not store or collect any data obtained when logging into your Facebook, Instagram, or Twitter account through one of our plugins.
+The information obtained through these logins stays on your website and is stored there.
+It is not stored on our web server or shared with any other third parties.
+==========
+Support and Contact Forms
+When you submit a request through any of the contact or support forms on our website we ask for your name and email address in order to be able to respond to your request.
+This information, along with your public IP address, is stored as a form entry in our database.
+The request and your information is also forwarded to our support ticketing helpdesk, powered by Freshdesk (privacy policy).
+==========
+Third Party Widgets
+We make use of certain third-party widgets on our website in order to enhance the experience, namely; YouTube video embeds and social media widgets/buttons.
+These widgets may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the widget, including correlating your social media account with whatever action you take within the widget, if you are logged in to that network.
+For more information about how this data may be used, please see the associated data privacy policy below:
+YouTube: https://support.google.com/youtube/answer/7671399?p=privacy_guidelines
+Facebook: https://www.facebook.com/about/privacy/update
+Twitter: https://twitter.com/en/privacy#update
+LinkedIn: https://www.linkedin.com/legal/privacy-policy
+Google: https://policies.google.com/privacy?hl=en&gl=us
+Third Party Resources
+Our website makes use of several third-party resources for both functional and performance reasons.
+Requests to load these resources may make your IP address visible to the associated resource, who may use it in accordance with their data privacy policy.
+==========
+The third party resources are listed below:
+Stripe
+Stripe is a payment processor which allows you to securely and conveniently checkout while purchasing a product on our website.
+We utilize their scripts to integrate the payment process into our website.
+Stripe’s privacy policy can be found here: https://stripe.com/us/privacy
+Gravatar
+Gravatar is used to display avatar images of people whose product reviews are displayed on our website.
+Privacy policy: https://automattic.com/privacy/
+MaxCDN
+MaxCDN is a Content Delivery Network which we use to serve certain static files on our website in order to improve performance.
+These requests make your IP address visible to MaxCDN, who may use it in accordance with their data privacy policy: https://www.maxcdn.com/legal/#pp
+Our Plugin Demos
+We display demos of our plugins on our website to allow you to try them out in a limited capacity before deciding whether you’d like to purchase one.
+As a result, our website makes requests to the servers of each of the associated social media networks in order to get the data to populate the feed(s) and to display images and videos.
+These requests make your IP address visible to that social media network, who may use it in accordance with their data privacy policies:
+Facebook: https://www.facebook.com/about/privacy/update
+Instagram: https://help.instagram.com/519522125107875
+Twitter: https://twitter.com/en/privacy#update
+The Tweets displayed in the Twitter feed demo include the ability to Reply, Share, or Like the Tweet directly on our website.
+If you choose to interact with these functions then you will make a connection to Twitter.com, who may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the widget, including correlating your Twitter account with whatever action you take within the widget (such as “liking” a Tweet), if you are logged in to Twitter.
+==========
+For more information about how this data may be used, please see Twitter’s data privacy policy: https://twitter.com/en/privacy#update
+Analytics
+In order to provide you with both a better website experience and to help improve our products, we use analytics tools to collect basic usage data from our website visitors.
+We use Google Analytics to collect general browsing information and data such as an IP address and location.
+The Google Analytics privacy policy can be found at the following link: https://www.google.com/analytics/terms/dpa/dataprocessingamendment_20130906.html.  When available, we also track the page history of visitors on our website to allow us to better understand how our website is being used.
+These tools may use cookies to help track website usage.
+Our Plugins
+For GDPR information related to our plugins, please refer to this page.
+==========
+Purchasing a Product
+When you purchase a product on our website we collect personal data associated with the purchase and transaction, such as your name, email address, IP address, and billing address (if paying by credit card).
+We do not store your credit card information.
+This is processed by Stripe, who store the information securely on their encrypted servers (privacy policy).
+The information listed above is sent to Stripe, who process the transaction and store the information securely.
+When purchasing a product from us we will send transactional email related to your purchase, or attempted purchase.
+Example of these emails are: purchase confirmation receipt, account login information, checkout recovery email, license renewal reminder emails.
+==========
+When logging into your account on our website, a cookie is set in your browser to allow you to remain logged into your account.
+Affiliates Program
+If you sign up for our Affiliates Program, then we will also store the following information which you provide during sign up: name, email address, website URL, and payment email.
+Requesting Deletion of your Data
+You can request deletion of your data at any time by contacting us here.
+==========
+Terms and Conditions
+1.
+Updates
+Updates are available to customers who have purchased a license in accordance with the license they have purchased.
+A Personal site license provides automatic upgrades for a single site, A Business license provides automatic upgrades for up to 5 sites and a Developer license provides automatic upgrades for unlimited sites owned by you or your clients.
+You may not share or resell access to your support license key.
+==========
+Updates are provided for the term defined by the license type and are based on the date of purchase.
+After the license has expired then a new license will need to be purchased in order to continue receiving support and product updates.
+2.
+Delivery
+After we have successfully processed your payment, you will be displayed with a purchase confirmation screen which contains both a link to download the product and a license key.
+You will also receive an email containing the download link and license key to the email address which you specified during checkout.
+==========
+This may take up to 1 hour to arrive, but usually happens within minutes of placing the order.
+If you do not receive an email after this time period or have any issue downloading your product then please contact us.
+3.
+==========
+Ownership
+You may not claim intellectual or exclusive ownership rights to any of our products.
+All products are property of Smash Balloon LLC.
+They are provided “as is” without warranty of any kind, expressed or implied.
+We shall not be liable for any damages, including but not limited to, direct, indirect, special, incidental or consequential damages or losses that occur out of the use or inability to use our products.
+4.
+==========
+Re-distribution
+It is not permitted to include any of Smash Balloon Pro plugins in a theme or other plugin which will be redistributed.
+Smash Balloon will not provide plugin updates or product support for any Smash Balloon Pro plugin/license that has been bundled, re-packaged, re-sold or re-distributed by an original Smash Balloon customer of that plugin or license.
+For example: This provision applies to any company/person who may design or distribute WordPress themes and deciding to purchase a single Smash Balloon Developer license (which can be installed on an unlimited number of sites) with the intent to include the plugin as a re-packaged or bundled “add-on” with their theme, or to re-sell or re-distribute the plugin as an available separate plugin to be used with their theme under the unlimited site license.
+==========
+License holders cannot distribute, freely giveaway, or resell their license key.
+The license key is only transferable by contacting us and requesting an official transfer of the license to a new owner.
+5.
+==========
+Site Content
+All site content, including imagery and documentation that is published on SmashBalloon.com is the property of Smash Balloon LLC.
+Any replicated site content must be authorized in advanced.
+Content from this site shall not be used or exploited for commercial or non-commercial purposes without the prior written consent of Smash Balloon LLC.
+6.
+==========
+Support
+Technical support and software upgrades are provided electronically only – via automatic updates on the WordPress plugins page or via email – to customers who have an active license which they have purchased.
+Support and upgrades will be provided in accordance with the license as defined at the time of purchase.
+We are happy to help if you are having trouble getting our products to work in your environment or find a bug.
+We also don’t mind helping if you need a light modification.
+However any major modification that involves custom code or more than a few lines of css are out of scope of the support policy.
+We do not offer telephone support.
+==========
+Support and automatic product updates are provided for the term defined by the license type and are based on the date of purchase.
+After the license has expired a new license will need to be purchased in order to continue receiving support and product updates.
+7.
+==========
+Refund Policy
+We care about our plugins and customers.
+We want to ensure that you are happy with your purchase and that our products work correctly in your website environment.
+If you have any questions, problems or concerns with any of our products then please let me know by simply responding to your purchase confirmation e-mail or by using the form on the support page.
+==========
+Money Back Guarantee
+If you have any irresolvable issues getting one of our plugins to work or if you’re completely unhappy with it, we will be happy to provide a full refund within 30 days of the original purchase.
+After 30 days, no refunds can be given.
+If you’d like to request a refund, please contact us and tell us why you’d like to have your payment refunded.
+We’re dedicated to making our plugins as awesome as possible, so if you’re able to include a clear explanation of why you are unhappy so that we can see whether there’s anything we can do about it for you or for our other plugin users, then that would be hugely appreciated!
+8.
+==========
+Transactional Emails
+Smash Balloon LLC may on occasion send you email notifications related to your product license.
+These transactional emails may include notification of licensing changes, changes to our terms and conditions, license expiration notices and other transactional emails related to your purchase.
+9.
+==========
+License Renewal
+You can renew your license within 60 days of its expiration at a 50% discount off the purchase price of a new license.
+After 60 days all renewals are at full price.
+10.
+==========
+Price Changes
+Smash Balloon LLC reserves the right to change the price of any product at any time.
+Any price change will be reflected on SmashBalloon.com.
+In the event that any price is lowered, you will not be entitled to a refund for the difference in the price from the time you purchased the product.
+11.
+==========
+Warranty
+Our products are guaranteed to function on a clean installation of WordPress.
+We do not guarantee it will function with all 3rd party plugins or with all web browsers.
+We are not responsible for any plugin compatibility conflicts that may occur.
+It is our policy to support our plugins as best we can and we will provide support for 3rd party plugin conflicts at our discretion or as time allows.
+We are not responsible for any data loss that may occur as a result of installing this plugin.
+You agree to indemnify and hold harmless Smash Balloon LLC against any and all claims and expenses, including attorneys’ fees, arising out of your use of any of our plugins, including but not limited to your violation of this Agreement.
+12.
+Sharing of Data
+We will not share your data with any third parties under any circumstances.
+13.
+Data Privacy
+Please refer to our Privacy Policy at the top of this page.
+14.
+==========
+Reading of Data
+Our plugins are built to be “read only” and so are not able to publish any data to, or edit any data on, social media platforms.
+The plugins are intended only to display some of your social media content and is not able to publish to any social media platforms or access your account other than in a “read only” fashion.
+15.
+==========
+Collection and Storage of Data
+We do not collect or store any of your login information, Access Tokens, or content.
+As the plugins are installed on your website then any information is stored within your website’s database.
+Your social media login information is not stored in your database by our plugin.
+The plugin does not collect any data from the visitors to your website.
+16.
+Acceptance
+By purchasing our product(s) you indicate that you have read and agree to the Terms & Conditions detailed on this page.
+==========

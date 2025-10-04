@@ -1,0 +1,95 @@
+This page sets out the cookies used on our site and how to opt out of or reject cookies.
+For our general privacy policy click here.
+Cookies we set on our site
+lpCookie.
+==========
+This is used to ensure that sign-in and sign-out works across the various applications that make up www.lonelyplanet.com (eg: Groups, Thorn tree forum, Destinations).
+For example, if you have signed-in and move from Groups to the Thorn tree forum, you do not need to sign-in again.
+Similarly, once you have signed out, you have signed out of all sections of the site.
+lpmaps.
+==========
+Many of the Destinations pages include the option to open and view a large map of the destination.
+This cookie is used to register that a user has opened a map within Destinations and enables us to ensure that maps remain open and visible on other Destinations pages as you move through the site.
+groups_session.
+==========
+This cookie stores the username within the Groups application.
+This means that if you leave Groups to visit another part of the site (eg: Hotels & Hostels), and then return to Groups you do not need to log-in again.
+jive.vid.
+==========
+This cookie is given to anonymous users when they enter the Thorn tree forum.
+This is used for statistical purposes so one anonymous user can be distinguished from another.
+JSESSIONID.
+This cookie enables the Lonely Planet web server to know your log-in status.
+Shop Cookies.
+The online shop requires the use of cookies to make the purchase process as easy as possible.
+This includes using cookies to enable the site to remember what items are in your ‘shopping basket’ as you move around the site, as well as remembering what currency you wish to view products in.
+==========
+These cookies are deleted when you close the browser.
+These cookies include: bmJava, bmClrDpt, ODLPSID, cookieID, ARPT, bmScrRes, and bmTzOff
+Hotels Cookies.
+Lonely Planet Hotels & Hostels requires the use of cookies to ensure booking a property is as easy as possible.
+This includes using cookies to remember the check-in and check-out dates that you are searching (so you do not have to enter this in each time you search for properties) as well as well as remembering what currency you wish to view rates in.
+These cookies include: CustomerSiteId, SiteId, and ASP.NET_SessionId
+Cookies set on our site by our commercial service providers
+We use a range of third party services on our site - from statistics packages to advertising, video delivery, content delivery and even low level techie functions like load balancing our servers so that they are always available when you want to use them.
+Some of these services require the use of cookies to work properly.
+==========
+These services include:
+Advertising
+Some of the advertisers on our site may serve content and advertisements that place or recognize cookies on your browser.
+Ad Serving (onsite behavioural targeting) - AudienceScience Inc. (formerly Revenue Science, Inc.)
+AudienceScience uses cookies to discover general information about the web pages owned by the BBC that you visit (including "lonelyplanet.com" and other BBC sites such as “bbc.com”).
+It also processes IP addresses to collect other general information in order to place you in a "market segment".
+This includes data about the country, city or region where you are located and your domain name (e.g. what ISP you use).
+It then places advertisements onto "lonelyplanet.com" which it believes people in your market segment will find relevant.
+==========
+If you would like more information about the cookies used by AudienceScience and how to opt out, please see their Privacy Policy at http://audiencescience.com/privacy.asp.
+Information (IP addresses and information in other cookies on our sites) that AudienceScience collects is transferred to them in the United States, and Lonely Planet confirm that AudienceScience satisfies the EU's data protection requirements through its registration with the US Department of Commerce's "safe harbor" framework.
+Data is sometimes shared with AudienceScience's sub-contractors in India who are also required contractually to comply with the EU's data protection requirements.
+It is important to note that at no time will we or our service providers attempt to identify you individually, and at no time do we know who you are or what pages you individually have been looking at - we simply aggregate the relevant information to create the market segments of groups of people.
+Also, this "onsite behavioural targeting" functionality is different from other forms of behavioural targeting in that we will only look at your journey across BBC Worldwide websites and we do not use or share data with or from non-BBC Worldwide sites.
+==========
+Travel Ad Network and its third party ad-serving technology provider Atlas (a Microsoft Corporation Subsidiary) monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website.
+Where authorised by Lonely Planet, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors.
+No personally identifiable information is collected or transferred to any party.
+.
+==========
+For more information about how information is collected and used by Travel Ad Network, please see Travel Ad Network's privacy policy at http://www.traveladnetwork.com/content/view/56/79.
+DoubleClick is a service provider that we use to insert our advertisers' ads into our sites for us.
+Their cookies help them to make the ads more relevant to you (eg if you use our sites from outside Australia, you may get ads from your local country, not from Australia).
+If you would like more information about the cookies used by DoubleClick, please see their privacy policy http://www.doubleclick.com/privacy/index.aspx
+Statistics
+Omniture
+Omniture (Omniture SiteCatalyst) provides anonymous statistical information for us.
+==========
+They process IP addresses and information from other cookies used on our sites so we know how many page views we have, how many users we have, what browsers they are using (so we can target our resources in the right way to maximise compatibility for the majority of our users) and, in some cases, in which country, city or region they are located.
+Specifically, SiteCatalyst uses three cookies per site tracked to accomplish this task.
+Each cookie starts with a similar name, but has a unique ID assigned to it for each site tracked:
+s_cc - This cookie is set and read by the JavaScript code to determine if cookies are enabled.
+s_sq - This cookie is set and read by the JavaScript code when the ClickMap functionality is enabled; it contains information about the previous link that was clicked on by the user.
+==========
+s_vi [ID} - Unique visitor ID time/date stamp
+Google
+Lonely Planet advertises www.lonelyplanet.com using Google Adwords.
+A Google cookie is used to enable us to monitor the effectiveness of this advertising by seeing the amount of traffic and conversions (e.g. shop purchases) this advertising generates.
+These cookies expire after 30 days.
+==========
+Server Functions
+Because of the scale and size of our website, we have to use more than one computer to serve pages to all our users.
+Otherwise everyone would have to get a coffee between page loads... We use various pieces of equipment and services for this.
+For example, Akamai's service allows us to cache (i.e. keep a copy of) files (images, movies, scripts and the like) at a location near you.
+This means that rather than every user, worldwide, having to download the entire www.lonelyplanet.com homepage from our server in Australia, some of the files which make up the site - usually ones which don't change so often - are held for us on Akamai's servers.
+Akamai's cookies allow them to redirect the user - transparently and automatically - to the closest and fastest server for them without Akamai's system having to spend time working this out for itself.
+==========
+Other
+Facebook
+Via Facebook Connect you can sign-in to Lonely Planet using your Facebook log-in.
+A Facebook cookie (fbsetting_(ID) is used to remember your Facebook log-in so you do not need to enter these details each time you log-in.
+Turning off or opting-out of cookies
+You can learn about and opt out of a number of commercial third party cookies (including some used by Lonely Planet) at www.networkadvertising.org/managing/opt_out.asp.
+Some of the opt-outs used by our commercial service providers require a cookie to be placed on your PC which is only used to tell the relevant cookie servers not to send you any further cookies.
+This can be quite handy, but note that if you routinely delete cookies from your temporary internet files, it may be necessary for you to repeat the opt-out process, the next time you visit our website.
+To opt-out of Travel Ad Network cookies, go to http://www.traveladnetwork.com/content/view/56/79.
+To opt-out of Atlas (Microsoft Advertising), go to http://www.atlassolutions.com/optout.aspx.
+Additional information regarding cookies and opting-out is available at www.youronlinechoices.co.uk and www.allaboutcookies.org.
+==========

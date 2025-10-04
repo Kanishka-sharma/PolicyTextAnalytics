@@ -1,0 +1,102 @@
+We are always working to stay compliant, which helps make compliance easier for your business.
+We are audited regularly by third parties, maintain certifications, provide industry-standard contractual protections and share tools and information you can use to strengthen your business’ compliance.
+Our commitment to user privacy
+Keeping users’ information safe, secure and private is among our highest priorities at Google.
+==========
+Over the years, we have worked closely with data protection authorities around the world and have implemented strong privacy protections that reflect their guidance.
+We are well placed to meet the security requirements of the applicable data protection laws.
+Our services are backed by robust, state-of-the-art technical and organizational safeguards, dedicated security and privacy teams and our program is reviewed annually by third-party auditors.
+We will promptly inform you of incidents involving your customer data in line with the data incident terms in our agreements with you.
+We maintain and continue to invest in advanced threat detection and avoidance technologies, as well as a rigorous 24/7 incident management program to help you identify and respond to security or privacy events without delay and with available information.
+==========
+We provide transparency about how data is used in our ads products.
+We ask users for permission to use data to personalize ads and provide transparency into how the data is used in real time via the “Why this ad?”
+feature.
+==========
+We provide detailed explanations on how we use data on safety.google.com and in our Privacy Policy.
+We also provide transparency to users on what data Google saves about them in their Google Account, where users can view and manage their data, privacy, and security settings.
+Users can go to their Ad Settings to control the use of data for ads personalization and for all ads shown by Google, including on our Google Marketing Platform products.
+As part of our continued commitment to give users controls to manage their privacy, we have updated our account creation experience to give users more options on what data they choose to save in their account.
+==========
+We already have processes to build privacy into our products from the very earliest stages, and we are continually evolving our practices, including Data Protection Impact Assessments, to meet worldwide changing requirements including those in the GDPR around Privacy by Design and Privacy by Default.
+We update our ads data retention policies whenever necessary and have made changes to our products to unify retention practices.
+Our commitment to data protection laws
+Privacy regulation is changing.
+We know you need to select products that are both compliant with all applicable data protection laws, and use personal data in ways that are compliant.
+Below is information on how Google is complying with specific privacy laws:
+LGPD
+The Lei Geral de Proteção de Dados (LGPD) is a new Brazilian privacy law that came into effect on September 18, 2020.
+While enforcement powers by the Brazilian DPA are postponed to August 1st, 2021, the LGPD can still be enforced by other governmental authorities, such as public prosecutors and consumer protection agencies, who can apply sanctions based on the Civil Code and the Consumer Protection Code.
+==========
+Google already offers data protection terms for its Ads products under the European General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA).
+We will be updating those existing Ads data protection terms to add LGPD-specific terms.
+Google’s status under the LGPD as either a controller or processor for each Ads product will be the same as under the GDPR.
+The LGPD terms will be incorporated into our existing Ads data protection terms, so no action is required to accept the LGPD terms where the existing Ads data protection terms already form part of your contract.
+If your existing contract does not incorporate our existing Ads data protection terms, please review the product-specific Help Centers in Resources for Advertisers and Publishers for more information on how to accept the terms in the relevant Ads product UI.
+==========
+In addition to the updated LGPD terms, we offer product controls that our Ads customers may utilize as part of their LGPD compliance strategy.
+If you believe you may be in scope of the LGPD, we recommend that you work with your legal advisors to determine how to comply with the LGPD, including how to use the options we offer.
+CCPA
+The California Consumer Privacy Act (CCPA) is a new data privacy law which applies to certain businesses that collect personal information from California residents.
+==========
+The law went into effect on January 1, 2020.
+In October 2019, the California Attorney General published draft regulations to provide further guidance on CCPA which are expected to be finalized in the next several months.
+The information and product updates provided here are subject to change based on updated regulations from the California Attorney General.
+==========
+The law includes a provision that gives California residents the right to opt out of the "sale" of their "personal information" through a prominent link that says "Do Not Sell My Personal Information" on the "selling" party’s homepage.
+The CCPA includes certain exceptions to the definition of "sale," including transfers to "service providers."
+Restricted data processing is intended to help advertisers, publishers, and partners meet their CCPA compliance needs.
+When you enable restricted data processing, Google restricts how it uses certain data to only undertake certain business purposes.
+We are also offering service provider terms to help advertisers, publishers and partners prepare for the CCPA.
+In certain circumstances, we will act as your service provider in handling data processed while restricted data processing is enabled.
+==========
+You should review these terms carefully to ensure they meet your compliance needs.
+Restricted data processing operates differently across our products.
+Advertisers, publishers, and partners should ensure that the use of Google products and services, including restricted data processing, meets their CCPA compliance requirements.
+In some products, restricted data processing can be enabled for all California users, or only for those users who an advertiser, publisher, or partner indicates should have it enabled.
+Advertisers and publishers should evaluate their use of Google products and services, including restricted data processing, with their legal advisors, to determine their compliance requirements.
+Please see this article to learn more about restricted data processing.
+Advertisers should work with their legal advisors to determine whether and how they should comply with CCPA.
+==========
+This includes making a decision about whether to place a "Do Not Sell My Personal Information" link on their site or in their app and whether to enable restricted data processing in the Google products they plan to use.
+Advertisers should refer to this article to find out more information about how restricted data processing works for each product.
+==========
+Publishers should work with their legal advisors to determine whether and how they should comply with CCPA.
+This includes making a decision about whether to place a "Do Not Sell My Personal Information" link on their site or in their app and whether to enable restricted data processing in the Google products they plan to use.
+Publishers should refer to this article to find out more information about how restricted data processing works for each product.
+==========
+Client checklist
+We encourage you to check on compliance plans within your own organization, and have included the checklist below to highlight some key questions to think about:
+How does your organization ensure user transparency and control around data use?
+Do you explain to your users the types of data you collect and for what purposes?
+==========
+How will you show to regulators and partners that you meet the applicable regulatory requirements and are an accountable organization?
+Does your organization have the right systems to record user preferences and consents?
+Have you assessed each of the partners and vendors you work with to ensure your organization is comfortable with their approach to managing user data and complying with regulation?
+==========
+Audits and certifications
+When you share your business’ data with Google, we want you to know it is protected.
+Our product security controls are audited regularly against international standards, like ISO standards and SSAE18/ISAE 3402 – so you know your business’ data is handled responsibly.
+==========
+In addition, a U.S.-based, qualified, independent third party reviews the effectiveness of our controls at least every two years.
+ISO 27001 is one of the most widely recognized, internationally accepted independent security standards.
+==========
+Google has earned ISO 27001 certification for the systems, applications, people, technology, processes, and data centers serving Google Cloud Platform, Google Workspace and Google Ads.
+ISO 27017 is an international standard of practice for information security controls based on ISO/IEC 27002, specifically for cloud services.
+Google has been certified compliant with ISO 27017 for Google Cloud Platform products and Google Workspace.
+ISO 27018 is an international standard of practice for protection of personally identifiable information (PII) in public cloud services.
+Google has been certified compliant with ISO 27018 for Google Cloud Platform products and Google Workspace.
+ISO/IEC 27701 is a global privacy standard that focuses on the collection and processing of personally identifiable information (PII).
+==========
+Google has been certified under ISO 27701 for Google Cloud Platform and Google Workspace.
+The American Institute of Certified Public Accountants (AICPA) SOC 2 (Service Organization Controls) and SOC 3 audit framework defines Trust Principles and Criteria for security, availability, processing integrity, and confidentiality.
+Google has both SOC 2 and SOC 3 reports for Google Cloud Platform and Google Workspace.
+You can download our SOC 3 report.
+We also have SOC 1 Type 2 for Google Ads, Google Ad Sense, Campaign Manager and Google Ad Manager, available to customers under NDA.
+==========
+FedRAMP is a program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services used by the U.S. federal government.
+Google maintains a FedRAMP Authorization to Operate (ATO) for Google Workspace and Google App Engine.
+==========
+The Payment Card Industry Data Security Standard (PCI DSS) is a set of technical and operational requirements for entities that store, process, or transmit payment card data.
+The Google services have been reviewed by an independent Qualified Security Assessor and determined to be compliant with the current version of PCI DSS can be found here.
+==========

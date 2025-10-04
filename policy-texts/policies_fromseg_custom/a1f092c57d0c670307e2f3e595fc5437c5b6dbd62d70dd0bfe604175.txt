@@ -1,0 +1,129 @@
+Effective Date: January 1st 2020  DoubleVerify, Inc. (“DoubleVerify”) is the industry leader in providing transparency and accountability in online advertising.
+This Privacy Notice describes our practices in connection with information that we collect through the DoubleVerify products and services.
+Our accredited technology platform provides an independent, third-party set of measurements about ad impression delivery and website traffic to help advertisers and advertising inventory sellers confirm accurate delivery characteristics, including brand safety, viewability metrics, contextual and environmental parameters (e.g., the website on which an ad appears, and where it appears on the webpage) and ad impression and website traffic quality characteristics, and to help ensure that advertisers and their partners are in compliance with their agreements, as applicable.
+Additionally, advertisers use information we provide about ad impression opportunities to decide if they want their creative displayed in the available impression environment.
+==========
+DoubleVerify collects this data about advertising delivery and website traffic on behalf of both advertisers and sellers and shares the information we collect to drive transparency and accountability in the online advertising marketplace.
+The purpose of this Privacy Notice is to inform you of: (1) the types of information DoubleVerify may gather about you or your device when an advertisement that is analyzed by us is delivered to you on a website you are viewing or in an app you are using; and (2) and how we may use, share, and otherwise process that information.
+Data Collected by the DoubleVerify Services DoubleVerify does not collect, retain or share any personally identifiable information gathered on sites or apps not owned by Doubleverify.
+This includes both unique user identifiers, as well as IP addresses, except for the limited purpose of fraud prevention and geo compliance and never to create user profiles in which case we collect and retain, but do not share, user IP for 45 days and never correlate a user IP across domains except when fraud is detected.
+==========
+DoubleVerify uses various technologies to collect information about online advertising, website traffic, mobile app traffic, and connected device traffic in order to deliver advertising transparency and accountability services to our advertising customers (collectively, “DoubleVerify Services”).
+To deliver DoubleVerify Services, we use pixels and other similar technologies that can place a small piece of HTML code on a webpage to collect information about advertising impression opportunities and displayed ads or website traffic.
+Types of data collected as part of DoubleVerify Services:  • Standard HTTP header information including information such as IP address, Referring URL, and User-Agent data (e.g., data that your browser transmits about itself when submitting an HTTP request).
+==========
+which are exclusively used for the limited purpose of fraud prevention and geo compliance and never to create user profiles.
+• Information contained within an advertisement, known as an “Ad Tag,” that includes information used to identify the advertiser displaying the ad and the media property that sold the impression.
+• Browser and computer environmental information necessary to determine the viewability of an advertisement, which includes information such as ad size, ad location in the browser viewport, size of the browser viewport, size of the display, application in focus, browser tab in focus, and other data.
+• Mobile application, mobile device, and connected device data such as device identifiers, advertising IDs, application name, bundle IDs, application ID, store ID and other similar data.
+For the purpose of identifying and preventing online ad impression fraud and invalid traffic and determining if advertisers and their partners are in compliance with their agreements, DoubleVerify Services utilize information collected in conjunction with the following additional technologies:  • Cookies that may be set by third party service providers executing a DoubleVerify pixel so that DoubleVerify can recognize the device.
+• Device identification technology, which analyzes device parameters collected as described above, including IP address and browser header information, to probabilistically identify a particular device.
+==========
+• Clickstream data including URLs and other data regarding the websites on which a particular browser has viewed advertising impressions we are analyzing.
+• Clickstream data including mobile and connected device application identifier and other data regarding the mobile and connected device apps on which a particular user has viewed advertising impressions.
+• Webpage (HTML and Javascript) structure analysis.
+==========
+Use of Collected Data  We use the data we collect to provide DoubleVerify Services for any lawful purpose, including the following:  • Data reporting about the context in which advertisements are displayed and information about whether an ad being displayed is in compliance with: (1) the customer’s contractual terms; (2) the insertion order governing our customer’s campaign; and/or (3) profile settings our customer has established in our system.
+• Preemptive decisioning of impression opportunities, meaning that DoubleVerify technology analyzes the available data characteristics of an impression opportunity and determines - using customer-established profile setting -- whether the customer’s advertisement should be displayed or not.
+• To deliver information about the viewability of online display advertising, including: (1) whether an advertisement meets certain criteria, set by industry standards boards and/or the client to be counted as a “Viewed Impression;” (2) how long the advertisement was displayed in the consumer’s browser; and (3) other key information about the display characteristics of the creative on the consumer’s browser.
+• We may work (with our partners) to anonymously integrate advertising impression data with data that our partners independently collect to deliver enhanced ad-measurement services such as augmented and aggregated audience demographic reporting of campaign impressions viewed or brand lift metrics.
+• Website, mobile apps, and connected device visitation characteristics including visitor quality, invalid traffic detection, fraud identification and other quality characteristics necessary to determine agreement compliance.
+==========
+o To protect the security of our interests, including our premises, assets, and systems.
+o To comply with the law.
+o As otherwise disclosed at the time personal information is collected.
+==========
+DoubleVerify Services include the detection and elimination of invalid traffic, including ad impression fraud, which is defined for purposes of this Privacy Notice as the manipulation of ad serving, ad display, or traffic activity such that ad impression measurements are incremented inappropriately because the ads cannot be viewed by a user, are not served within operationally viewable parameters or were displayed as a result of machine-generated traffic.
+Our fraud and invalid traffic services are intended to address fraud for advertising measurement purposes.
+DoubleVerify Services also include determining if advertisers and their partners are in compliance with their agreements.
+==========
+Information collected for this purpose are used to identify and prevent invalid traffic and ad impression fraud and assess contract compliance by:  • Identifying specific ad impressions that are fraudulent due to being generated by bot-controlled, non-human browsers.
+• Identifying invalid traffic such as traffic generated by ad injectors, traffic originated in data centers, misrepresented traffic, emulated traffic and other types of invalid traffic.
+• Identifying websites, mobile and connected device apps, and media properties that have fraudulent traffic and/or generate fraudulent advertising impressions.
+• Identifying traffic patterns between websites participating in fraudulent advertising activity.
+• Distinguishing between traffic generated by bot-controlled, non-human browsers and human browsers.
+• Determining if website visitors, mobile app users, and connected device users are being delivered by partners in compliance with contractual terms.
+Additionally, DoubleVerify uses advertising impression information, mobile app information, connected device information, and website traffic information including IP address and browser header information to:  • Identify the geographic location of the user and determine if the user is located within the advertiser’s campaign or traffic settings.
+==========
+• Determine if a middleware is attempting to misrepresent its operating characteristics to prevent the identification of fraud or other invalid traffic.
+• Determine if website traffic or ad impressions are originating from a server farm unlikely to be responsible for human-generated browsing activity.
+• Determine if traffic is being acquired through fraud, or regarding or other traffic acquisition practices that are out of compliance with an advertiser’s guidelines or contractual requirements.
+==========
+DoubleVerify is leveraging AI and machine learning in order to automate the process of detecting invalid traffic and fraudulent activity.
+Where we intend to use or otherwise process your personal data for a purpose other than the purpose for which it was collected, we will provide you with relevant information prior to processing your personal data for the new purpose.
+Disclosure of Collected Data  DoubleVerify shares information collected about online advertising impressions: (1) as is necessary to execute the DoubleVerify Services; (2) in aggregated formats for general corporate marketing and industry benchmarking; (3) for sharing with affiliates of DoubleVerify or service providers of DoubleVerify (where the service providers are required to use the information only to perform services for DoubleVerify); (4) as required by law or to comply with legal process; or (5) to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+We receive personal data from our customers and partners in order to carry out the DoubleVerify Services discussed in this Privacy Notice.
+DoubleVerify shares collected information with our customers and partners to perform and deliver the advertising and traffic measurement services that we have been contracted to provide.
+The primary means by which we provide information to our customers is in aggregated reports or raw data feeds provided through the DoubleVerify Services, including but not limited to our customer dashboard.
+We may also provide our customers with information to identify website visitors , mobile application users, or connected device users that are bot-controlled, non-human browsers, which our customers can use to avoid delivering advertising to bot-controlled, non-human browsers.
+We also provide aggregate data about advertising impressions, website traffic, mobile application traffic, and connected device traffic in our marketing and promotional materials.
+We may share information that has been anonymized or aggregated without limitation.
+Please note that DoubleVerify does not create or share non-fraudulent profiles.
+==========
+International Visitors  Lawful Basis for Processing  We may process your personal data to respond to your inquiries concerning our products and services.
+On other occasions, we process your personal data where required by law.
+We may also process your personal data if necessary to protect your interests or the interests of a third party.
+Additionally, we process your personal data when necessary to do so for fraud and invalid traffic prevention purposes or providing services related to advertising viewability and brand safety as discussed in this notice, when these interests are not overridden by your data protection rights.
+Where we process your personal data for this purpose, our legitimate interest is to carry out our business in favor of the well-being of all our employees and members.
+If there is no other lawful basis for data processing, we will ask for your consent to process your personal data.
+You have the right to withdraw your consent to processing of personal data at any time.
+If you wish to exercise the right to withdraw consent, contact us using the information found in the “Contact” section below.
+==========
+Transfers of Personal Data  Please be aware that the personal data we collect may be transferred to and maintained on servers or databases located outside your state, province, country, or other jurisdiction, where the privacy laws may not be as protective as those in your location.
+If you are located outside of the United States, please be advised that we process and store personal data in the United States.
+Your Rights  You have a right to the following:  • To request access to the personal data we hold about you;  • To request that we rectify or erase your personal data;  • To request that we restrict or block the processing of your personal data;  • Under certain circumstances, to receive personal data about you that we store and transmit to another without hindrance from us, including requesting that we provide your personal data directly to another, i.e., a right to data portability; and  • Where we previously obtained your consent, to withdraw consent to processing your personal data.
+==========
+To exercise these rights, contact us using the “Contact” section below.
+Please be aware that DoubleVerify may be unable to afford these rights to you under certain circumstances, such as if we are legally prevented from doing so.
+Additionally, you have the right to lodge a complaint against us.
+To do so, contact the supervisory authority in your country of residence.
+==========
+Nevada Privacy Rights Under Nevada law, Nevada residents may submit a request directing us not to make certain disclosures of personal information we maintain about them.
+To exercise these rights, contact us using the “Contact” section below.
+California Visitors This section contains disclosures required by the California Consumer Privacy Act (“CCPA”) and applies only to “personal information” that is subject to the CCPA.
+==========
+Personal Information We Collect.
+The DoubleVerify Services collect the following categories of personal information about California consumers: • Online identifiers (such as IP address and device identifiers) which are processed for the limited purpose of fraud prevention and geo compliance and never to create user profiles.
+• Non-precise geolocation information; • Internet or other electronic network activity information (such as browsing history, search history, interactions with a website, email, application, or advertisement); and • Inferences drawn from the above information.
+DoubleVerify collects the following categories of personal information about California business partners and users of DoubleVerify.com: • Personal identifiers (such as first and last name, email address); • Online identifiers; • Professional or employment-related information; • Inferences drawn from the above information; and • Other information about you that is linked to the personal information identified above.
+Why We Collect, Use, and Share Personal Information.
+In the past twelve (12) months, we have collected, used, and disclosed this information for commercial and business purposes.
+==========
+Our commercial purposes include the delivery of advertising transparency and accountability services to our advertising customers.
+Additional details regarding these commercial purposes can be found in the “Use of Collected Data” section of this Privacy Notice.
+We also collect, use, and disclose this information for business purposes as identified in the CCPA, which include:  • Auditing related to our interactions with you; • Detecting and protecting against security incidents, fraud, and illegal activity; • Debugging; • Performing services such as analytics; • Internal research for technological improvement; and • Activities to maintain and improve our services.
+==========
+In the last twelve (12) months, we have not sold any personal information.
+Recipients of California Personal Information.
+We disclose the categories of personal information designated above for business purposes to the categories of third parties described in the Disclosure of Collected Data section of this Privacy Policy.
+Your Rights Regarding Personal Information.
+California residents have certain rights with respect to the personal information collected by us.
+If you are a California resident, you may exercise the following rights regarding your personal information, subject to certain exceptions and limitations: • The right to access the categories and specific pieces of personal information we have collected about you; • The right to request the categories of sources from which we collected your personal information, the business and commercial purposes for collecting your personal information, the categories of your personal information that we have disclosed for a business purpose, and the categories of third parties with which we have shared personal information; • The right to request that we delete the personal information we have collected from you or maintain about you; and • The right to opt out of any future sale(s) of your personal information.
+==========
+When DoubleVerify provides services on behalf of clients, we are considered a “service provider” under the CCPA.
+In those cases, the client’s private notice governs the use of personal information and your rights request should be directed to DoubleVerify’s client.
+To exercise any of the above rights, please contact us: • Online at https://www.doubleverify.com/optout/ • Email Address: privacy-policy@doubleverify.com Verification Process and Required Information.
+Note that we may need to request additional information from you to verify your identity or understand the scope of your request, although you will not be required to create an account with us to submit a request or have it fulfilled.
+We will require you to provide, at a minimum, your first and last name and email address.
+==========
+Authorized Agent.
+You may designate an authorized agent to make a CCPA request on your behalf by verifying your identity and providing written permission to your agent to make the request for you.
+We will not discriminate against you for exercising any of the above rights.
+==========
+Retention  We will process and store your data for one year, or only for the period necessary to achieve the purpose of the storage, or as permitted by law.
+After the expiration of that period, the corresponding data is routinely deleted.
+Personal identifiable information, such as IP addresses, device IDs and user IDs are retained for up to 45 days, except to the extent the personal identifiable information was flagged as fraudulent.
+Data Collected from this website  www.doubleverify.com uses cookies to improve your experience on our site and to help us understand how our site is being used.
+By continuing to use our website you are giving consent to cookies being used.
+The use of cookies is now standard for most websites.
+However, if you are uncomfortable with the use of cookies, you can manage and control them through your browser.
+To find out how to manage cookies on popular browsers visit the sites found at these links: • Google Chrome  • Microsoft Windows Explorer • Mozilla Firefox  • Apple Safari  To find information relating to other browsers, visit the browser developer's website.
+Please note that by disabling the use of cookies on our site may prevent you from accessing or using some of our site’s features.
+Please be aware that this action is only valid for the browser you set, if you are using different browsers or devices you will need to adjust those as well.
+==========
+Policy Changes  DoubleVerify may modify this Privacy Notice from time to time without the consent of users by providing advance notice on our Web site before implementing such modifications.
+Should you wish to be notified by email of material changes to this policy, please send correspondence to privacy-policy@doubleverify.com with “PRIVACY” in the subject line or to the following mailing address:  Privacy Notice Operations  DoubleVerify, Inc.
+233 Spring Street 4th Floor New York, NY 10013   Contact  If you have questions, comments, or concerns about this Privacy Notice, please contact us, in our role as data processor, at:  Privacy Notice Operations  DoubleVerify, Inc.
+233 Spring Street, 4th Floor  New York, NY 10013  privacy-policy@doubleverify.com   Data Protection Officer  DoubleVerify, Inc.
+233 Spring Street, 4th Floor  New York, NY 10013  dpo@doubleverify.com
+==========

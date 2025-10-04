@@ -1,0 +1,208 @@
+Overview
+LiveRamp is a data connectivity platform leveraged by companies, such as brands and their partners, to deliver exceptional experiences.
+Our business provides the technology to move data safely and securely between various parties, such as advertisers and the platforms that host ads.
+LiveRamp allows companies to enhance and activate their data across online and offline channels, primarily for marketing purposes.
+==========
+For instance, a sports clothing store might receive email addresses from its in-store shoppers.
+This enables the store to send emails to its shoppers regarding offers or updates, but doesn’t enable it to communicate tailored offerings to its shoppers through different channels, or enable the store to understand the effectiveness of its online marketing.
+==========
+LiveRamp enables the sports clothing store to transform the information provided directly by its customers into other identifiers, such as browser cookies or mobile advertising IDs.
+This enables the store to move and use its data much more flexibly, such as serving digital advertisements on their customers’ devices, understanding how those digital advertising campaigns impact in-store sales, or discovering additional customer traits by appending 2nd- and 3rd-party data sets to its customer list.
+==========
+More in-depth, non-exhaustive examples of these purposes can be found below in the “Our Business Purposes” section of this policy.
+Though the information in this policy is accurate regardless of where you reside, more specific information and access to some data rights described in geographically-defined regulations, such as California’s CCPA or the European Union’s General Data Protection Regulation (GDPR), may be available depending on your jurisdiction.
+==========
+In the below tables and sections, we describe:
+General Privacy Information and Policies
+Our Collection of Personal Information – the types of personal information that we collect, and the types of sources we collect it from.
+Our Disclosure and Sale of Personal Information – the types of recipients to whom we disclose or sell personal information.
+Our Business Purposes for Collecting and Selling or Disclosing Personal Information 
+When We Act as a Service Provider – processing client data on behalf of the client
+Our Security Philosophy – our commitment to security best practices
+Our Opt-Out Options – how you may stop LiveRamp data collection and use
+Our Contact Options – how you may communicate with us
+Policies Specific to CCPA
+California Privacy Notice, Rights, and Choices – information specific to California residents, what rights California residents have under the CCPA, and how to exercise CCPA rights to opt out of sale, request access, and request deletion.
+Policies Specific to GDPR
+Policies Specific to EU/UK Countries – information specific to EU/UK countries.
+General Privacy Information and Policies
+The following sets forth the categories of information we collect and purposes for which we may use personal information:
+Our Collection of Personal Information
+LiveRamp collects certain categories of personal information in connection with our products.
+==========
+For the purposes of this policy, personal information is broadly defined as information that identifies, relates to, describes, references, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or device.
+This includes offline identifiers such as a postal address (i.e., directly identifiable data or personally identifiable information (PII)), as well as online identifiers associated with devices (i.e., non-PII), such as a browser cookie or mobile advertising ID.
+Cookies are one example of an online identifier: they are small, unique text files stored on the browser of your computer (or another internet-connected device) to identify the device.
+==========
+Cookies contain information that helps improve site functionality and security, but can also be used for advertising, analytics, and other commercial purposes which span multiple sites.
+1st-party cookies are cookies set by the website owner; 3rd-party cookies are cookies set by parties other than the website owner.
+In its products, LiveRamp both places 3rd-party cookies and leverages its partners’ 1st-party cookies.
+On web browsers LiveRamp may collect and store data using 3rd-party cookies that it places, and in some cases multiple types of identifiers may be collected in the course of a single action.
+When you log into one of our partner websites, that partner may share information collected from you, such as your email (in hashed, non-human-readable form), IP address, or information about your browser or operating system, with LiveRamp.
+LiveRamp uses this information to create an online identification code for the purpose of recognizing you on your device.
+This code may be placed in our partners’ cookie and for use in online and cross-channel advertising, or LiveRamp may connect it to LiveRamp’s own 3rd-party cookie.
+==========
+It may be shared with advertising partners and other third party advertising companies globally for the purpose of enabling interest-based content or targeted advertising throughout your online experience (e.g. web, connected TV, mobile applications, etc).
+These third parties may in turn use this code to link demographic or interest-based information you have provided in your interactions with them.
+==========
+You have the right to express a choice regarding LiveRamp using this data for the above purposes.
+To opt out of this use, please click here.
+==========
+Finally, LiveRamp uses certain publicly available data sets in order to enhance and improve our products.
+These data sets do not include personal information as defined under any applicable privacy laws.
+==========
+For accreditation information please contact LiveRamp.
+The categories of information LiveRamp may collect about you, as well as how we collect and use such categories of information, are summarized in the table below.
+==========
+Category Categories of Sources  Purpose for Collecting (Please refer to the “Our Business Purposes” section for more detail)
+Identifiers: real name, alias, postal address, unique personal identifier, online identifiers including cookies and mobile IDs, IP address, email address, account name, social security number, driver’s license number, or other similar identifiers  Offline and Online Database providers, consumer data resellers, ad networks, websites Data marketing,
+Online targeting and measurement,
+Operating (and marketing) our Services,
+Other operational purposes
+Internet or electronic network activity information: information regarding a consumer’s interaction with a website, application, or ad Online Database providers, consumer data resellers, ad networks, websites Data marketing,
+Online targeting and measurement,
+Operating (and marketing) our Services,
+Other operational purposes
+Geolocation data Online Database providers Data marketing,
+Online targeting and measurement,
+Operating (and marketing) our Services,
+Other operational purposes
+Professional or employment-related information Offline Database providers Data marketing,
+Online targeting and measurement,
+Operating (and marketing) our Services,
+Other operational purposes
+Our Disclosure and Sale of Personal Information
+We will share the information collected about you as discussed above for various business purposes, with service providers and with third parties, including our customers.
+The chart below describes how and with whom we share or disclose personal information, and whether we believe we have “sold” a particular category of information in the prior 12 months.
+Category Categories of Third Parties We Share With  Whether We “Sold” This Category of Personal Information in the Last 12 Months
+Identifiers: unique personal identifier, online identifier, IP address, email address, or other similar identifiers  Advertising networks, data analytics providers, media platforms, brands, social networks, consumer data resellers, distribution partners Yes
+Internet or electronic network activity information: information regarding a consumer’s interaction with a website, application Advertising networks, data analytics providers, media platforms, brands, social networks, consumer data resellers, distribution partners Yes
+We also may share any of the personal information we collect as follows: 
+Sharing for Legal Purposes: In addition, we may share personal information with third parties in order to: (a) comply with legal processes or a regulatory investigation (e.g. a subpoena or court order); (b) enforce our Terms of Service, this Privacy Policy, or other contracts with you, including investigation of potential violations thereof; (c) respond to claims that any content violates the rights of third parties; and/or (d) protect the rights, property or personal safety of us, our platform, our customers, our agents and affiliates, its users and/or the public.
+==========
+We likewise may provide information to other companies and organizations (including law enforcement) for fraud protection, and spam/malware prevention, and similar purposes.
+Sharing In Event of a Corporate Transaction: We may also share personal information in the event of a major corporate transaction, including for example a merger, investment, acquisition, reorganization, consolidation, bankruptcy, liquidation, or sale of some or all of our assets, or for purposes of due diligence connected with any such transaction.
+==========
+Sharing With Service Providers: We may share personal information with our service providers who process it on our behalf and in accordance with our instructions.
+Service providers are contractually prohibited from using the personal information for purposes outside of our instruction.
+This may include, for instance, providers involved in tech or customer support, operations, web or data hosting, billing, accounting, security, marketing, data management, validation, enhancement or hygiene, or otherwise assisting us to provide, develop, maintain and improve our services.
+Our Business Purposes for Collecting and Sharing Personal Information
+Generally speaking, we collect and share Personal Information to recognize consumers across different channels and platforms over time for the purposes of facilitating online advertising, analytics, attribution, and reporting.
+This includes:
+Data-driven marketing
+For example:
+Generally, creating data-driven marketing tools and products for our clients, as described in the initial section of this Privacy Policy and on our websites.
+This includes our provision of datasets, including 3rd-party data sets through LiveRamp’s Data Marketplace, data “appends” (connecting data across datasets), and data hygiene services (helping customers to evaluate, validate and correct personal information they hold).
+==========
+Assisting our clients through our products to provide their current and prospective customers with better service, improved offerings, and special promotions, for instance, advising on which current or prospective customers are most likely to be interested (or uninterested) in certain offers.
+Creating modelled audiences to which our clients can market their products and services.
+==========
+For example, as described at the beginning of this policy, a sports clothing company is looking for new potential customers who are likely to be interested in sports clothing.
+The sports clothing company can use our services and products to look for shared characteristics between their existing customers and other consumers.
+A similar interest can be inferred or anticipated based on these similar characteristics, such as from browsing for sports shoes.
+==========
+For enabling our clients to associate information they have collected about you with certain identifiers or data to facilitate the delivery of our clients’ marketing and advertisements to you through various media, including mobile apps, social media sites, andConnected TV offerings.
+For example, a sports clothing company has its own lists of names, emails, and/or addresses of customers who have previously purchased sports clothing from them.
+The sports clothing company wants to reach out to these customers with online advertising for a discount offer on online purchases.
+The sports clothing company can use our products and services to convert the company’s lists from PII (e.g. names, emails, and/or addresses) to non-PII identifiers (e.g. cookie and device IDs).
+You can read more about our partnerships within the industry, including those companies for whom we help facilitate our customers’ advertising campaigns, at liveramp.com/partners.
+==========
+Online targeting and measurement
+For example: 
+For enabling our clients and partners to connect your online behavioral preferences across the various browsers and/or devices you use to more accurately market to you.
+For example, you are logged into multiple devices (such as your desktop, your smartphone, and your tablet) using the same login and have clicked on a sports clothing company’s online advertisement on at least one of those devices.
+==========
+Where we determine that you are most likely the same user logged in on those different devices, we will communicate that information to the partner.
+The sports clothing company can thus display more consistent offers to you via automated technologies (such as a non-personally identifiable cookie ID) on your different devices.
+For online interest-based advertising displayed to you by our Distribution Partners at the direction of our clients.
+==========
+For example, if you have visited a clothing-related website and browsed through or purchased sports clothing, you may then see advertisements for sports clothing on other websites.
+This is due to a cookie being placed on your device that has associated you with the advertiser’s audience of consumers interested in sports clothing, which is then used by the advertiser through our services and products.
+For use in the measurement and performance of analytics of the effectiveness of our clients’ advertising campaigns.
+For example, a sports clothing company wants to better understand if its website advertisements for a new line of sports clothing contributed to an increase in sales.
+Our services and products can be used by the advertiser to see how many ads were viewed and actually clicked on, and if the consumer purchased any of the advertiser’s sports clothing.
+For enabling our clients and partners to personalize their products and services to you, such as through website and email personalization or dynamic marketing and advertising optimization.
+For example, if you have previously indicated an interest in sports clothing and then visit a sports clothing company’s website, that company can display offers for sports clothing tailored for you on their website.
+Operating (and marketing) our Services
+For example: 
+Improving, testing, updating and verifying our own database.
+==========
+Developing new products.
+Operating, analyzing, improving, and securing our Services.
+==========
+We also may use email addresses and other personal information we receive in our corporate capacity to communicate with or market to organizations that we believe may benefit from our Services.
+Other operational purposes
+For example:
+Auditing
+Detecting security incidents
+Debugging
+Short-term and transient use
+Performing services 
+Internal research
+Quality control
+Legal compliance
+When We Act as a Service Provider
+We may receive, handle and process personal information on behalf of our clients, in order to provide services to those clients.
+This may include, for instance, information about our clients’ customers or prospective customers, or about other consumers our clients have interacted with.
+==========
+This is information we access as a “processor” or “service provider.”
+This information is not owned by LiveRamp, and thus is not subject to the processes or choices described in this or related policies.
+To exercise your rights with respect to that information, you must contact whichever company or organization is the “controller” or “business” that holds it.
+==========
+Our Security Philosophy
+LiveRamp’s security program is designed to reduce risk in alignment with business goals and the protection of the consumer data entrusted to us by establishing and leading the execution of a comprehensive security strategy.
+Security protects the information and physical assets of LiveRamp by establishing and executing on a security framework (policies, standards and processes).
+The Security team works in collaboration with the business to deeply understand business risks and changes, foster accountability for security, and strengthen the partnership between security and business leaders.
+The Security Program aligns strategies to business goals by: 
+Developing, implementing, and enforcing a security framework and using industry-standard techniques and technologies such as hashing, encryption, and firewalls.
+Informing and training employees on security
+Monitoring and assessing security processes and systems
+Detecting and responding appropriately to security incidents
+Taking appropriate steps to prevent the occurrence of any such incidents
+Integrating with Risk and Compliance stakeholders at the enterprise and division levels
+Our Opt-out Options
+LiveRamp offers several ways to opt out of the personal information that LiveRamp controls being shared with or sold to others through our products and services.
+==========
+These options are explained and accessed here.
+Please note that there are specific opt-out choices available depending on your location (i.e., EU, California, Nevada) by following the instructions on the opt out page.
+LiveRamp is a member of the Digital Advertising Alliance (DAA) and Digital Advertising Alliance Canada (DAAC) and adheres to the DAA Principles for Online Behavioral Advertising and Multi-Site Data, as well as related guidance.
+LiveRamp subscribes to the DAA’s industry-wide cookie opt-out mechanism that can be found here and its mobile device ID opt out available through its AppChoices app.
+Consumers who choose to opt out through these DAA mechanisms do not need to opt out of the equivalent mechanism with LiveRamp.
+==========
+Keep in mind that opting out of LiveRamp through our opt-out channels or through the DAA does not disable advertisements altogether.
+Instead, opting out means that LiveRamp services will no longer be used to facilitate targeted advertising to your browser, device, or email address.
+In other words, you will still see advertisements and receive email marketing, but they will be less relevant to you.
+If you create a new email address, reset the mobile advertising ID on your device, or use a new browser, you will need to apply the appropriate opt out to that new email address, new device ID, and/or new browser as opt-outs are not necessarily transferred between email addresses, browsers, or devices.
+==========
+Policies Specific to CCPA
+California Rights and Choices
+The CCPA provides California residents with specific rights regarding their personal information.
+To review information specific to California residents, including how to exercise your right to access, opt out, or delete personal information, please review our standalone CCPA notice, accessible here.
+Policies Specific to EU/UK Countries
+For information specific to EU/UK countries, please select the link relevant to your country: United Kingdom, France, Germany, Italy, the Netherlands, Spain.
+==========
+European Data Protection Regulation
+LiveRamp european entities are subject to privacy and security frameworks called the General Data Protection Regulation and the UK Data Protection Act (together, the “European Data Protection Regulation”).
+It imposes a number of obligations on data controllers and data processors and affords data subjects a number of important rights.
+This document is intended to provide transparency regarding LiveRamp operations in the United States (“LiveRamp”) as required by the European Data Protection Regulation.
+LiveRamp acts as both a “Data Controller” and a “Data Processor” under the European Data Protection Regulation.
+LiveRamp acts as a data controller with respect to personal data about its employees in the EU and the UK (i.e., human resource data), personal data it collects from its clients and prospective clients (i.e., customer relationship management data).
+LiveRamp relies on Standard Contractual Clauses from the European Commission to cover international data transfers between the EU/UK and the US to ensure data security and integrity.
+==========
+If you have queries and/or wish to exercise any of your rights in regards of the European Data Protection Regulation, please click on the following links: 
+For France, contact our Data Protection Officer 
+For the UK or any other EU country, visit our Your Rights Page
+Our Contact Options
+If you have any questions or comments about LiveRamp’s privacy policies and practices or your choices and rights regarding such use, please do not hesitate to contact us through the following methods:
+Outside the European Economic Area (EEA)
+Online: US Privacy Team Inquiries
+Postal Address: 225 Bush Street, 17th Floor, San Francisco, CA. 94104.
+Inside the EEA
+Within France or any other EU country
+Email our Data Protection Officer
+Postal Address: LiveRamp France (attn: DPO), 25 rue Anatole France, Levallois Perret 92300
+We also recommend reviewing the privacy policy specific to our French office and business operations, accessible here.
+Within the UK
+Email our Data Protection Officer
+Postal Address: LiveRamp UK Limited (attn: DPO), 1st Floor, Imperial House, 8 Kean Street, London WC2B 4AS
+==========

@@ -1,0 +1,86 @@
+Updated: February 6, 2017
+Quizlet uses cookies and related technologies to provide you with a fast, safe, and personalized experience on its site.
+Cookies also help us understand how certain features are being used, and allow us to improve Quizlet for all users.
+Below we explain more about what cookies are, how we and our third party partners use them, and how you can control their usage.
+By accessing and using our site without disabling cookies on your device or opting out of third-party cookies, you consent to our use of these cookies and the information we collect with them.
+If you do not consent, please disable or block cookies in your browser using the methods described below under “How to Control Cookies,” and the opt-out links provided in the “Cookies Set by Third Parties” section.
+For more detailed information about what data we collect from our users, please read our Privacy Policy.
+==========
+Cookies are small text files that a website saves on your computer or mobile device when you visit that website.
+These cookies enable the website to remember your actions and preferences for a period of time, so that you don’t have to re-enter them each time you come back to the website or browse from one page to another.
+Like many websites, Quizlet uses cookies to deliver, measure, and improve its platform in several different ways.
+We always use secure cookies, which means the data contained in them can only ever be transmitted over an encrypted connection.
+Our general categories of use are outlined below.
+Please note that cookies set by Quizlet can have many different names, but can always be distinguished from third party cookies in that they always start with a letter or number and never an underscore (_).
+For some features of the website, it’s necessary to store data temporarily on one page so that we can use it again on another.
+==========
+For example, if you are referred by another user to Quizlet, a referral code is stored in a cookie so that, if you chose to upgrade, we can credit that other user with the referral.
+User Input cookies are persistent cookies with durations of anywhere from several days to several years.
+User Input cookies can be opted out of using the directions in the “How to Control Cookies” section; however, doing so may break certain functionality on Quizlet.
+We use cookies as a prevention measure to keep malicious actors from being able to take control of your Quizlet account and perform actions on it without your knowledge or consent.
+==========
+The data kept in these cookies is passed along with any data sent back to quizlet.com from your browser to validate that the data actually came from you.
+These cookies are session cookies that expire when you close your browser.
+Security cookies can be opted out of using the directions in the “How to Control Cookies” section; however, doing so will break most functionality on Quizlet.
+When you log in to your Quizlet account, we set an encrypted cookie that uniquely identifies you so that on subsequent visits to quizlet.com you automatically stay logged in.
+This is a persistent cookie with a duration of 10 years.
+==========
+The authentication cookie can be opted out of using the directions in the “How to Control Cookies” section; however, doing so will prevent you from being able to log in to Quizlet.
+Many features of the website will store your preferences about how that feature is displayed or used in a cookie.
+For example, if you study a Quizlet study set in Test Mode, your preferences about how many and what kinds of questions appear in the test are stored in a cookie.
+Cookies that store preferences can be set with durations anywhere from just the current session up to a year.
+Preferences cookies can be opted out of using the directions in the “How to Control Cookies” section; however, doing so will break all functionality which relies on them for storing preferences.
+In order to understand how users interact with specific features of Quizlet and to further improve our website, we sometimes collect anonymous data about website usage and store it in cookies.
+We also set a cookie containing a unique, random value so that we can anonymously identify you each time you come to the website.
+==========
+These cookies can be set with durations anywhere from just the current session up to several years.
+Analytics cookies can be opted out of using the directions in the “How to Control Cookies” section.
+Beyond the cookies we set ourselves, we also work with various reputable companies to help us analyze how visitors use Quizlet and optimize their experience.
+Below we provide more information on these companies and the cookies they may set.
+Cloudflare is a service which helps us improve the performance of Quizlet by caching certain frequently-used parts of the website that protect Quizlet from security threats and denial of service attacks.
+==========
+Cloudflare sets a persistent cookie named __cfduid.
+More information about the purpose of the cookie can be found here.
+The authentication cookie can be opted out of using the directions in the “How to Control Cookies” section; however, doing so may prevent you from being able to access quizlet.com.
+==========
+DoubleClick is an ad serving service operated by Google.
+DoubleClick uses cookies to aid in showing you more relevant ads.
+DoubleClick sets a persistent cookie named __gads.
+More information about the purpose of the cookie can be found here.
+You can modify your personalized ad preferences (including disabling personalized ads and removing the DoubleClick cookie) here.
+Google Analytics is a service provided by Google that aids us in analyzing how users interact with and navigate the Quizlet website.
+Google Analytics uses cookies to capture anonymous statistics about your usage of the website.
+This information cannot be used to identify you individually, and the data is only used in aggregate to analyze broad trends in usage of the website.
+Quizlet utilizes Google Analytics Advertising Features, including Google Analytics Demographics and Interest Reporting.
+Google Analytics may set one or more cookies for different durations:
+Name Duration
+__utma 2 years
+__utmb 30 minutes
+__utmc session
+__utmt 10 minutes
+__utmv 2 years
+__utmz 6 months
+More information about each of these cookies and their purposes can be found here.
+You can opt out of Google Analytics here.
+==========
+Quantcast Measurement is a tool that allows us to measure and understand Quizlet’s audience.
+Quantcast sets a persistent cookie named __qca.
+More information about the purpose of the cookie can be found here.
+You can opt out of Quantcast for Quizlet and other websites here.
+In addition to cookies, we also use similar technologies on Quizlet which capture and store user data as outlined below.
+==========
+Clear GIFs, also known as web beacons or pixel tags, are small images that appear in the emails we send to our users, and are used to track whether the email is opened or forwarded to other people.
+Having this information gives us a better understanding of the usefulness and relevance of the emails we send to our users.
+If you no longer wish to receive email communications from us, you can click on the unsubscribe link at the bottom of any such email.
+==========
+HTML 5 local storage is an industry-standard technology for storing data in the browser that is very similar to cookies.
+The difference is that the data is only available in your browser, unlike cookies which are transmitted back to the server as part of loading a new page.
+DoubleClick and Google Analytics may sometimes put data into local storage, and we use their services for the reasons outlined above.
+In some browsers you are able to clear your local storage in a similar way to clearing cookies.
+==========
+Please consult the relevant documentation for your browser for further details.
+Besides opting out of third party cookies as described above, you can control and/or delete cookies used by Quizlet at any time.
+For instructions on how to do this depending on what browser you are using, visit aboutcookies.org.
+You can delete all exisiting cookies on your computer and set most browsers to prevent them from being placed.
+However, please note that if you do this, you will no longer be able to log in to your Quizlet account and many of the study modes and other functionality on our website will not work properly.
+==========

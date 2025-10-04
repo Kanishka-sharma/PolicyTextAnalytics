@@ -1,0 +1,190 @@
+Updated as of April 8, 2021
+MASTER SERVICES AGREEMENT FOR PUBLISHERS
+THIS PUBLISHER MASTER SERVICES AGREEMENT consists of the general Terms and Conditions for Publishers below, and any Amendments thereto and any Orders placed via the Publisher Portal on the www.vi.ai website (collectively referred to as the “Agreement”).
+This Agreement is valid for all commercial relationships between video intelligence AG, Mühlebachstrasse 54, 8008 Zürich, Switzerland (“vi” ) and its publishing clients (“Publisher” ) regarding the provision of online ad supply services by vi.
+1.
+==========
+License
+1.1 The Publisher is an entity seeking to sell its proprietary inventory or an intermediary seeking to sell third party inventory (“Supply Inventory”).
+Subject to the terms and conditions of this Agreement, with effect from the Effective Date of the applicable Order (defined below), vi grants Publisher a limited, revocable, non-exclusive, non-transferable license during the Term of an Order to access and use the hosted vi Platform solely for their internal use and solely for the purpose of managing the sale of their Supply Inventory to advertisers who desire to display and serve the Ads on the Supply Inventory, and to set the selling criteria for each campaign.
+==========
+1.2 For the purposes of this Agreement, “vi Platform” shall mean the Protocol (defined below), APIs or SDKs accessible via vi’s dashboard and made available pursuant to this Agreement.
+Publisher acknowledges that they obtain no rights in the Ads and/ or in any vi Platform or the Intellectual Property Rights in or relating to them or to receive or access the vi Platform or Ads save as expressly provided in this Agreement.
+2.
+==========
+Ordering and Registration
+2.1 An order for the provision of online ad supply services shall come into being when vi accepts the Publisher order form submitted by the Publisher online (“Order”), which shall contain the respective scope of performance including but not limited to campaign run dates, territorial restrictions and pricing.
+The Term of an Order shall be unlimited, unless terminated in accordance with Clause 10.
+==========
+2.2 To access the vi Platform, Publisher is required to complete the online registration process and create an account (“Account”) by providing current, complete and accurate information as prompted by the registration form.
+Upon completion of the registration process, vi will provide Publisher with a log-in user ID for the Dashboard (the “ID”) and access to the vi Platform consistent with the terms of this Agreement.
+Publisher agrees to treat the ID as Confidential Information.
+Publisher agrees that its use of the Dashboard will be solely for the benefit of itself, and that it will not use the Dashboard for any purpose not contemplated by this Agreement.
+==========
+Publisher is responsible for any actions or activities under the Publisher’s Account.
+Publisher must promptly notify vi of any unauthorized use of Publisher’s Account.
+3.
+==========
+Remuneration and Tracking Results
+3.1 This clause applies to Publisher who implement vi’s video player on their pages.
+(a) For any advertising revenue generated from the successful placement on Publisher’s website and reported on vi’s Platform Publisher shall receive 50% share of net advertising revenues, unless otherwise agreed in an MSA, Publisher Agreement or an Insertion Order.
+“Net advertising revenue” shall mean the net amount received by vi from Advertisers for the sale of Advertising on the Publisher’s website(s) (publisher net receipts) less any additional service charges including but not limited to: ad server charges and content fees.
+(b) vi shall apply a sales commission in the form of a deduction of ten percent (10%) to Publisher’s share of net advertising revenue for advertising campaigns that vi’s sales department sells to advertisers/brands who desire to display and serve ads on the Supply Inventory: (i) directly or (ii) via their media agencies.
+==========
+This includes but is not limited to: insertion order (IO)-based buying, private marketplaces (PMPs), and Programmatic Guaranteed buys (PG).
+The sales commission shall not apply to programmatic open market demand.
+==========
+(c) In the case of discrepancies exceeding ten percent (10%) during a relevant invoice period, the parties will use reasonably good faith efforts to reconcile and resolve the discrepancy.
+(d) The sole authoritative factor for the counting of the quantity of Ad Impressions, Page Impressions, Ad Clicks or Leads shall be vi’s reporting activities.
+==========
+vi reserves the right to adjust or disqualify Publisher’s or other participants’ measurements or statistics to account for, among other things, invalid activity, enforcement of contractual terms, and/or statistical errors.
+Publisher acknowledges that all Advertising Placements and associated campaigns may be subject to frequency cap limits which may be set to vi’s specifications in vi’s sole discretion for each such campaign.
+==========
+3.2 This clause applies to Publisher who selected the “MRSS Feeds and Derived Data” service
+The fees payable by the Publisher for vi’s services shall be set out in the respective Order, in which the parties shall agree upon the basis on which the remuneration is calculated
+1000 page impressions or ad impressions (“Cost Per Mile” or “CPM”),
+an ad click (“Cost Per Click” or “CPC”) or
+a lead (“Cost per Lead” or “CPL”).
+The sole authoritative factor for the counting of the quantity of internet users’ visual contact with the ad media, retrievals of the website on which the ad media is placed (page impressions), internet users’ clicks on ad media (ad clicks) or any other internet users’ action (lead) shall be vi’s reporting activities.
+==========
+If the Publisher has counted divergent quantities, these shall not be taken into account if the divergent counts do not demonstrably differ by more than 10%.
+In other cases the parties shall come to an agreement on the counted quantity that is authoritative for the contractual relationship.
+If the parties are unable to agree within twenty days on the definitive quantity counted, they shall have recourse to a neutral, approved and generally accepted arbitration board to resolve the dispute in accordance with its arbitration rules as amended at the time the arbitration proceedings were initiated.
+==========
+3.3 Unless otherwise agreed in an Order,
+Publisher will receive from vi a credit note after each relevant invoice period.
+The credit note will be payable by vi within 5 working days following the receipt of payment by vi from the advertisers.
+==========
+The minimum threshold for any payout to occur is 100 USD.
+Any balance below 100 USD will be carried forward until the minimum threshold is reached and payout can be made.
+==========
+The dashboard reporting currency is USD, but payments can also be made in £ Sterling or Euros if previously agreed with the Publisher.
+vi shall send payment to Publisher via wire transfer / BAC’s transfer.
+vi will process payment using the bank details provided by Publisher.
+vi shall not be liable for delayed or lost payments arising from incomplete or incorrect payment data entry by Publisher.
+In case of cross-border wire transfers, vi is not responsible for the bank charges deducted by the client’s Bank.
+==========
+3.4 All reported amounts are strictly net of any Sales or Value Added Tax (VAT).
+Publisher is responsible for any taxes on its income, sales, GST, excise, service tax, or such other transaction taxes, applicable in connection with this Agreement.
+In case applicable laws require withholding of any amount on account of withholding taxes, vi may withhold such amounts, unless Publisher provides a certificate of exemption from such withholding taxes.
+==========
+3.5 vi will monitor all inventory using both in-house and 3rd party verification tools, monitoring fraudulent and bot activity.
+vi also holds the right to remove URLs that are highlighted within these reports and pause or cancel a booking based on this reporting.
+3.6 vi reserves the right to exclude any impressions deemed as fraudulent or non-human from overall payment to the Publisher.
+Advertising served but not received due to end user blocking technology or software (e.g., popup blocking software) shall not count towards any pay-out calculation.
+3.7 vi reserves the right to only pay a Publisher when vi itself has been paid by the Advertisers.
+==========
+3.8 vi strictly forbids the use and display of any advertisement in the context of Illicit, illegal, adult, defamatory or otherwise inappropriate or unapproved content that does not comply with vi’s terms & conditions.
+vi will require full compensation for every impression served on the tag for the period affected and reserves the right to terminate the relationship (see section 10.2).
+4.
+==========
+Obligations of the Publisher
+4.1 Use of the vi Platform is subject to all applicable vi ad specification requirements and policies, including without limitation, the vi Privacy Policy, available on the www.vi.ai website, (collectively, the “Policies”), which may be updated from time to time by vi.
+Publisher is solely responsible for all aspects of Publishers Supply Inventory (including content and subject matter, editorial, text, graphic, audio-visual, and other content and any other information).
+vi shall be entitled to either wholly or partly reject and remove (either temporarily or permanently) Supply Inventory that, at vi’s sole discretion, contains or links to illegal content or any other content that infringes vi’s Policies.
+4.2 Publisher will implement the vi Platform in a manner that complies with the technical and implementation requirements provided by vi from time to time, which may include integration or distribution of software, implementation of APIs or SDKs, complying with protocols and any other instructions contained in the vi documentation (collectively, the “Protocol”).
+==========
+Publisher will protect any accounts, usernames or passwords and take full responsibility for Publishers own, and third party, use of the same.
+4.3 Where Publisher is seeking to sell third party inventory, the intermediary is obliged to specify (and prove) who it is representing.
+==========
+4.4 Publisher will not, and will not allow any third party to: (a) use, directly or indirectly access, launch or activate the vi Platform through or from, or otherwise incorporate the vi Platform in, any software application, website or other means other than Publishers designated sites; (b) transfer, sell, lease, syndicate, sublicense or lend the vi Platform; (c) directly or indirectly generate queries, or impressions of or clicks on ads, through any automated, deceptive, fraudulent or other invalid means (including, but not limited to, click spam, robots, macro programs, and Internet agents); (d) encourage or require end users or any other persons, either with or without their knowledge, to click on ads, including without limitation Ads, through offering incentives or any other methods that are manipulative, deceptive, malicious or fraudulent; (e) modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the vi Platform; (f) remove, deface, obscure, or alter vi’s proprietary rights notices affixed to or provided as a part of the vi Platform, the vi Protocol, or any other vi Platform (g) create or attempt to create a substitute or similar service or product through use of or access to any of the vi Platform or any other proprietary information related thereto; (h) use any feature or functionality of the vi Platform, or include anything in Publishers Supply Inventory, that could be used to personally identify or personally track individual end users or any other persons; or (i) engage in any action or practice that reflects poorly on vi or otherwise disparages or devalues vi’s reputation or goodwill.
+4.5 In using the vi Platform, Publisher may not (or authorize or encourage any third party to): (a) copy, reproduce, modify, damage, reverse engineer, decompile or disassemble any software components used to provide vi Platform or create any derivative works of the vi Platform; (b) use the Platform in a manner that violates any applicable laws, rules or regulations; (c) breach, disable, tamper, interfere or attempt to interfere with the proper working of the vi Platform or with any security measures designed to protect the vi Platform, or any other user’s use of the vi Platform; (e) interfere or attempt to interfere with the full, complete, immediate and direct display of any Ads; or (f) disseminate any malware, viruses, or other destructive code; act as or offer the vi Platform for use as a service bureau.
+==========
+4.6 In addition to the above-mentioned obligations, the Publisher who selected the “MRSS Feeds and Derived Data” service, shall:
+transfer to vi all the necessary rights to analyze and use the content made available through the MRSS Feed to create contextual data derived from this analysis (“Derived Data”).
+vi remains the sole owner of the Derived Data and grants the Publisher a non-exclusive, free, irrevocable and untransferable right to access and use the Derived Data, for the duration set out in the Order;
+make the MRSS Feeds available to vi in accordance with the delivery specifications provided by vi, which are accessible under the following link https://docs.www.vi.ai/general/integrations/mrss-feed-specification/ or any other link made available for this purpose on the website of vi.
+==========
+4.7 vi may investigate any activity that may violate this Agreement.
+If Publisher violates this Agreement or any Policies, vi may in its sole discretion, with a prior notice of forty-eight (48) hours, terminate this Agreement, and/or suspend or terminate Publishers’ access to the vi Platform or if applicable to the Derived Data.
+vi may refuse to process a request for display of Ads (“Ad Requests”) that are not sent in compliance with the requirements of this Agreement.
+Further, vi shall not be liable for any loss or damage Publisher may suffer or incur as a result of the suspension of Publisher’s access to the Services (or any part thereof) and/or any vi Platform (or any part thereof).
+5.
+Warranties and Force Majeure
+5.1 Publisher warrants (i) that it either owns fully and outright or otherwise possesses and has obtained all rights, approvals, licenses, consents and permissions as are necessary to perform its obligations hereunder, and that the Supply Inventory is free of any third-party rights (in particular trademark rights, patent rights or copyright) which would prevent its of vi’s use of the Supply Inventory as defined by the Order and this Agreement, (ii) all the information provided to vi is correct and current at all times; (iii) Publisher has all necessary right, power and authority to enter into and perform its obligations under this Agreement and (v) that the Supply Inventory does not infringe any provision of vi’s Policies, and (vi) that vi is authorized by Publisher to perform all the services described hereunder with respect to Publisher.
+5.2 vi does not assume any warranty for the secure, interruption-free or error-free operation of the vi Platform.
+==========
+5.3 Publisher shall be obligated to check the online advertising containing the Supply Inventory and to notify vi in writing of any discernible errors without undue delay but in any event no later than one week after the publication.
+If the Publisher fails to provide such notification, the online advertising shall be regarded as approved in accordance with the respective Order and this Agreement, unless the error was not discernible at the time of the check.
+If an error in the online advertising becomes apparent at a later date, the Publisher must give notification of it without undue delay upon its discovery, otherwise the online advertising shall be deemed approved even in consideration of this error.
+==========
+5.4 In cases of force majeure, vi shall be released from its obligation to render its services.
+All unforeseen events and events having impact on the performance of the Order or this Agreement for which neither of the parties is responsible shall be deemed force majeure.
+==========
+Such events shall include without limitation lawful means of industrial action, also in third-party companies, official measures taken by authorities, the failure of communication networks and gateways of other operators, disruptions in the area of network sellers, other technical mal-functions, including when such circumstances occur in the area of subcontractors, sub-suppliers or their subcontractors, or operators of sub nodal data processors.
+No entitlements shall result for Publishers from any failures for which vi is not responsible.
+6.
+==========
+Limitation of Liability
+6.1 With the exception of either party’s breach of Clause 8, or Publisher’s breach of its obligations under Clause 4,5 or 9, under no circumstances shall either party be liable to the other for indirect, incidental, consequential or exemplary damages (even if the other party has been advised of the possibility of such damages) arising from or out of this Agreement.
+6.2 With the exception of instances of gross negligent or willful intent, the liability of vi shall be limited to the amounts payable to Publisher pursuant to this Agreement in the twelve-month period leading up to the claim.
+7.
+==========
+Third Party Claims and Indemnification
+7.1 The Publisher shall indemnify and release vi and/or affiliates of vi from any and all claims asserted by third parties against vi because of an infringement (i) of intellectual property rights , (ii) legal provisions (e.g. criminal law, youth protection law, unfair competition law) as a result of the use of the Supply Inventory in conformity with the Order and/or as a result of the promoted subjects (e.g. an Publisher’s offer or inventory), (iii) of vi’s Code of Conduct for Publishers, or (iv) Publishers breach of its obligations under Clause 9.
+In this regard, the Publisher shall also assume the necessary costs incurred by vi in defending its rights, including any and all court costs and lawyers’ fees.
+This does not apply if and to the extent that the Publisher is not responsible for the violation of rights.
+==========
+The limitations on liability in Section 6 shall not apply for the indemnification obligation.
+Any compensation claims asserted on grounds of loss or damage going beyond this shall remain unaffected by the indemnification obligation.
+==========
+7.2 vi and/or the affiliate of vi undertake not to acknowledge third-party claims without the Publisher’s consent and not to reach any settlement on the matter in question with the third party.
+Publisher, however, may refuse his consent only for good cause.
+8.
+==========
+Communication and Confidentiality
+8.1 Confidential Information.
+As used herein, “Confidential Information” means any non-public information, regardless of whether it is in tangible form, disclosed by one Party (the “Disclosing Party”) to the other Party (the “Receiving Party”) in connection with this Agreement and which is identified or marked as “confidential” or “proprietary” or which, given the nature of the information or the circumstances surrounding its disclosure, should reasonably be understood to be confidential or proprietary.
+vi Confidential Information includes, without limitation, the terms of this Agreement and any non-public information relating to this Agreement.
+8.2 Information shall not be deemed Confidential Information if the Receiving Party can show by competent evidence that such information: (a) was known to the Receiving Party prior to receipt from the Disclosing Party directly or indirectly from a source other than one having an obligation of confidentiality to the Disclosing Party; (b) became known to the Receiving Party directly or indirectly from a source other than one having an obligation of confidentiality to the Disclosing Party; (c) became publicly known or otherwise ceases to be secret or confidential, except through a breach of this Agreement by the Receiving Party; or (d) was independently developed by the Receiving Party without use of or reference to the Confidential Information.
+8.3 Each Party shall use all reasonable measures to protect the secrecy of and avoid disclosure and unauthorized use or reproduction of the other Party’s Confidential Information during the Term and for a period of three (3) years following the termination of this Agreement.
+==========
+Confidential Information may be disclosed only to: (a) employees and agents of the Parties that have a need to know such information in the course of their duties (and who are under a contractual duty to protect the Disclosing Party’s Confidential Information in a manner consistent with the obligations imposed by this Section 8); (b) legal or financial advisors or potential acquirers of each of the Parties on a need to know basis (and who are under a contractual or professional duty to protect the Disclosing Party’s Confidential Information in a manner consistent with the obligations imposed by this Section 8); (c) if required by law or valid order of a court or other governmental authority (provided that the Receiving Party delivers reasonable prior written notice to the Disclosing Party (if legally permissible) and uses commercially reasonable efforts to cooperate with the Disclosing Party’s attempt to obtain a protective order).
+Upon written request of the Disclosing Party, the Receiving Party agrees to promptly return to the Disclosing Party or destroy all Confidential Information that is in the possession of the Receiving Party.
+9.
+==========
+Data Protection
+9.1 vi and Publisher will post on their respective websites their privacy policies and adhere to their privacy policies, which will abide by applicable data protection laws, rules and regulations.
+Failure by Publisher to comply with its policy or applicable data protection legislation is grounds for immediate cancellation of the Order by vi.
+Each party shall be solely responsible and solely liable for its compliance with all applicable data protection laws, rules and regulations.
+==========
+9.2 With respect to data collected via the vi Platform, vi may combine information that does not directly identify an individual with data collected from other sources and disclose the combined information to participating advertisers and ad networks so that they can determine whether to bid on ad inventory and in order to improve the relevance of the advertising presented to users.
+We also use the information we collect to host, operate, maintain, secure, and further develop and improve the vi Platform, such as to keep track of advertising delivery and to measure the effectiveness of advertising delivered through the Program, and investigate compliance with vi’s policies and terms and conditions.
+10.
+==========
+Term and Termination
+10.1 This Agreement shall come into effect on the date of acceptance of the Order and shall remain in effect for as long as there is an Order active between the parties.
+Either party may terminate an Order on thirty (30) days written notice.
+==========
+10.2 vi may terminate any Order, and withhold payment, if vi in its sole discretion determines that Publisher is engaging in behavior that may be construed as illegal, unethical, defamatory or otherwise may reflect negatively upon vi’s reputation, or that of its advertisers or business partners, including where vi reasonably suspects that any of the following have occurred regarding the Supply Inventory: (i) any form of Fraudulent Activity or illegal practices, or (ii) any type of activity, text, image, or use that may violate applicable laws.
+10.3 The term “Fraudulent Activity” for the purposes of this Agreement means, without limitation, any activities that authorize or encourage any third party to: (a) generate impressions of or clicks on any Ad(s) through any automated, deceptive, fraudulent or other invalid means, including but not limited to repeated manual clicks and automated query tools; (b) mislead users to click on Ad(s); (c) in any way minimize or obstruct the display of any Ad(s); or edit, modify, filter or change the order of the information contained in any Ads; (d) attempt to edit the website tags, source codes, links, pixels, modules, software development kits or other data provided by vi; or reverse engineer, decompile or disassemble any software components of the advertising services provided by vi.
+At its sole discretion and without limitation to the foregoing, vi may credit back to advertisers and/or offset against future payments to Publisher any payments which it subsequently determines accrued because of such Fraudulent Activity or illegal activity perpetrated by Publisher.
+==========
+10.4 On termination of the Agreement for any reason: (i) all licenses granted by vi under this Agreement shall immediately terminate; and (ii) Publisher shall uninstall or otherwise remove any means of access to the vi Material provided under the Agreement including client software and any SDK or API code supplied by vi under this Agreement.
+10.5 The termination of the Agreement shall be without prejudice to any accrued rights and obligations of the parties arising under the Agreement prior to such termination.
+Any provision which expressly or by implication is intended to come into effect on, or to continue in effect after such expiry or termination, will continue to be in effect post the termination of this Agreement.
+11.
+==========
+Applicable Law, Jurisdiction
+11.1 The Agreement shall be, in its application and interpretation, governed exclusively by the laws of Switzerland.
+The United Nations Convention on Contracts for the International Sale of Goods of 11 April 1998 shall not apply.
+11.2 Zürich (Switzerland) is agreed upon as place of jurisdiction for any and all claims arising from or due to this Agreement.
+12.
+==========
+Miscellaneous
+12.1 vi shall be entitled to either wholly or partly transfer the rights and duties under the Agreement to vi Affiliates.
+12.2 Publisher authorizes vi to use its name, logo and/or trademark in connection with certain promotional Platform that vi may disseminate to the public.
+==========
+However, this Agreement does not constitute, create, or give effect to any joint venture or partnership.
+12.3 Any invalidity of individual provisions of this Agreement shall not affect the validity of the remaining provisions.
+12.4 This Agreement constitutes the entire agreement between the parties and supersedes all prior agreements and arrangements whether written, oral or implied between the parties related to the subject matter of this Agreement.
+==========
+12.5 video intelligence reserves the right to make changes to these Publisher Terms and Conditions but acknowledges that any substantial change will require renewed consent for those parts that require the Publisher’s consent.
+12.6 No waiver of any term, provision or condition of this Agreement, whether by conduct or otherwise, in any one or more instances, shall be deemed to be, or shall constitute, a waiver of any other term, provision or condition hereof, whether or not similar, nor shall such waiver constitute a continuing waiver of any such term, provision or condition hereof.
+==========
+No waiver shall be binding unless executed in writing by both Parties.
+12.7 Except as expressly set forth herein, any notices to be given by Publisher pursuant to this Agreement shall be in writing and sent by email.
+The receipt of such notice shall constitute the giving of notice thereof.
+Any notice to be given to Publisher pursuant to this Agreement may be sent by vi via email to Publisher’s email address as identified in Publisher’s account information, or shown as a message within the Publisher Dashboard.
+The sending of such notice shall constitute the giving of notice thereof.
+==========

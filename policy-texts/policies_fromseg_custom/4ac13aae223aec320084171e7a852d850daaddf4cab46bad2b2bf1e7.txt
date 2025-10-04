@@ -1,0 +1,5 @@
+Each time someone visits ScienceAlert, our web server collects a number of details - if they are available - including the IP address of the visitor's computer and/or Internet service provider, the domain name and country of origin of that computer, its operating system, and the type of web browser being used.
+ScienceAlert has no interest in personally identifying its users.
+ScienceAlert is only interested in the overall statistics of its readership, which are then used to improve the website and its content.
+ScienceAlert contains links to other sites, it is not responsible for the privacy practices or the content of such websites.
+==========

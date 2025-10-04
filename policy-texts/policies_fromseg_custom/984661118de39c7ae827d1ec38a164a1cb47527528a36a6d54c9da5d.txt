@@ -1,0 +1,68 @@
+We use a variety of technologies to help us better understand how you use Etsy.com and EtsyStudio.com (we refer to Etsy.com and EtsyStudio.com collectively as the "Site"), Etsy's mobile applications (the "Apps") and our services (we refer to the Site, the Apps and our services collectively as "Etsy").
+Etsy adheres to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising.
+As part of our commitment to upholding a high standard of transparency in our Privacy Policy and practices, we've created this guide to explain the tracking technologies we use on the Site.
+==========
+Types of tracking technologies
+There are three common types of tracking technologies used on Etsy:
+Cookies: This is a small data file sent from a server to your web browser or mobile device that is stored in your browser cache or mobile device.
+You can configure your browser's settings to reflect your preference to accept or reject cookies (see Managing Cookies below).
+==========
+Clear gifs, web beacons, web bugs: These are tiny graphics with a unique identifier similar in function to cookies, and are used to track the online movements of web users.
+In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on web pages and are about the size of the period at the end of this sentence.
+We do not tie the information gathered by clear gifs to your personally identifiable information.
+==========
+Flash cookies, local shared objects (LSOs): Flash cookies are used to collect and store information, but differ from browser cookies in the amount, type and manner in which data is stored.
+Etsy uses Flash cookies in order to facilitate services such as fraud prevention.
+Etsy does not tie the information gathered by Flash cookies to your personally identifiable information.
+To learn how to manage privacy and storage settings for Flash cookies click here.
+Tracking technologies have two different lifespans:
+Persistent means it remembers certain information about your preferences for viewing the site, and allows Etsy to recognize you each time you return.
+Persistent cookies are stored on your browser cache or mobile device until you choose to delete them.
+Session, on the other hand, is specific to a particular visit to the site, to carry information as you view different pages on Etsy so you don’t have to re-enter information.
+Session cookies expire and delete themselves automatically when you leave the Site or close your web browser.
+Purposes
+Etsy uses tracking technologies for a few general purposes:
+Strictly necessary: Vital to ensuring that Etsy works properly for visitors and members.
+==========
+Performance: Help us understand how the Site or the Apps are functioning so that we can improve our services.
+Functionality: Retain your personal preferences as you use the Site or the Apps to enhance your experience.
+Marketing and Advertising: Gather data to help deliver advertising content relevant to your interests.
+==========
+Etsy uses cookies to record what purchases members and visitors are interested in making and to make it easier for you to browse the Site whenever you visit.
+Etsy sometimes partners with third-party services who may use various tracking technologies to provide certain services or features, including targeted online marketing.
+These technologies allow a partner to recognize your computer or mobile device each time you visit Etsy, but do not allow access to personally identifiable information from Etsy.
+Etsy does not have access or control over these third-party technologies, and they are not covered by our Privacy Policy.
+Third-parties may choose to include Etsy widgets on their websites.
+==========
+When you load a website that has chosen to include our widgets, we receive analytics information through a cookie that may be used to enhance our data or to improve our services.
+Examples
+The table below contains examples of the cookies and tracking technologies we use:
+Purpose Name Location Specific Use
+Performance Lognormal.net Etsy Site Users Provides site analytics which allow us to understand how visitors are interacting with site processes, enabling us to optimize the site to drive better performance.
+Performance Boomerang Cookie Etsy Site Users on IE and Safari Provides additional browser timing analytics for Internet Explorer and Safari.
+Functionality Etsy Analytics Cookie All of Etsy Similar to the Google Analytics cookie, but for internal use only.
+==========
+Keeps track of first, last visit information, and from what site you were referred from.
+Functionality Facebook All of Etsy Used to enable functionality to connect to Facebook in order to suggest gifts to friends, follow another member's public site activity, etc.
+Strictly Necessary Auth Cookie Etsy Site users for signed in members Keeps track of your session information when you are logged into Etsy.
+Strictly Necessary Etsy User Cookie All of Etsy Contains information relevant to your current session, including language, country, currency, and persistent login preferences.
+Advertising BrightTag Etsy Site Users Manages delivery of certain advertising-related third-party tracking technologies used by Etsy.
+Advertising Google Analytics All of Etsy Allows us to keep track of where visitors to the site are coming from (via search engines, blogs, etc.) provides general site usage metrics (such as long how they stayed on the site), as well as relevant search/purchase information.
+==========
+Opting-Out and Managing Cookies
+You can change your web browser's settings to reflect your cookie preferences.
+Each browser is a little different, but usually these settings are under the "options" or "preferences" menu.
+==========
+The links below provide information about cookie settings for the browsers supported by Etsy:
+Internet Explorer
+Firefox
+Chrome
+Safari
+If you wish to not have this information used for the purpose of serving you interest-based advertisements, you may opt-out by clicking here (or if located in the European Union click here).
+Please note this does not opt you out of being served advertisements.
+You will continue to receive generic advertisements.
+==========
+You may opt out of the use of cookies by Google Analytics here.
+Please note that if you reject or block all cookies in your browser settings, you will not be able to take full advantage of Etsy's services as some cookies are necessary for the site to function properly.
+Last updated on Feb 15, 2017
+==========

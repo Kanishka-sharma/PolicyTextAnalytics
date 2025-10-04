@@ -1,0 +1,267 @@
+Last Updated: May 17, 2018
+Cuebiq Inc., a U.S. company with registered office at 45 West 27th Street, New York 10001 United States (“Cuebiq” “we,” “us,” and “our”), provides online and mobile advertising and data services (the “Services,” as further defined below) to mobile application publishers (“Publishers”) and advertisers (“Advertisers”).
+This privacy policy (“Privacy Policy”) explains how we may collect, use, store, and disclose information about the following individuals and companies (each referred to as “you,” “your,” and “yourself”): (a) visitors of our website located at www.cuebiq.com and all of our other websites to which this Privacy Policy is posted (collectively, the “Cuebiq Site”), and (b) end users (“End Users”) of third-party mobile applications (“Apps”) that use the Services.
+This Privacy Policy also describes your choices regarding use, access and correction of your information.
+This Privacy Policy is part of our Terms of Use (http://www.cuebiq.com/termsofservice).
+The provisions contained herein supersede all previous notices or statements regarding our privacy practices with respect to the Cuebiq Site and the Services.
+If you do not agree to every provision of this Privacy Policy and our Terms of Use, you should not access or use the Cuebiq Site or the Services.
+==========
+We may update or revise this Privacy Policy from time to time in our sole discretion, subject to applicable law.
+Except as otherwise expressly stated by us, your access to the Cuebiq Site and our collection and use of information about End Users in connection with the Services are subject to the version of this Privacy Policy in effect at the time of such access or collection, as applicable.
+If we make any changes to this Privacy Policy, we will notify you of those changes by posting an updated version of this Privacy Policy on the Cuebiq Site and/or by sending you an email or other notification of regarding such changes, each of which will indicate when such changes will become effective.
+1.
+==========
+INFORMATION FOR VISITORS OF THE CUEBIQ WEBSITE
+In general, you may visit the Cuebiq Site (our corporate website) without telling us who you are or revealing any information about yourself.
+When you contact us or submit an inquiry via the Cuebiq Site, we may collect personal contact information from you, which may include your name, address, email address, and phone number.
+We may use that information for internal purposes, including, among other things, to respond to your inquiries.
+==========
+In addition, we may automatically collect device-based information (collectively, “Analytics”) from your desktop computer, laptop, mobile phone, tablet, or other consumer electronic device that you use to access the Cuebiq Site (each, a “Device”).
+Analytics may include technical information about your Device (such as the Device type, operating system, settings and system configurations, IP address, Device ID and other unique Device identifiers, and mobile network information) and your activity using the Cuebiq Site (such as data about the webpages you access, traffic to and from websites, the dates and times associated with transactions, web log data, and other event information, including crashes and system activity).
+We may use Analytics for research and internal purposes, such as to improve the Cuebiq Site so that it is more useful and accessible to you and provide relevant advertising to you.
+==========
+Analytics may be correlated with your Personal Data (as that term is used under European privacy laws, and as further described in Section 13) but not shared with any third parties.
+We collect Analytics using certain technologies, such as:
+Cookies.
+Cookies are small data files that have unique identifiers and reside, among other places, on your Devices, and on the web pages of the Cuebiq Site.
+Among other things, cookies help us improve and personalize your use of the Cuebiq Site.
+We may permit certain third parties to place cookies through the Cuebiq Site to provide us with better insights into the use of the Cuebiq Site and user demographics and to provide relevant advertising to you.
+These third parties may collect information about your online activities over time and across different websites when you use the Cuebiq Site.
+For example, we utilize Google Analytics to analyze usage patterns for the Cuebiq Site.
+Google Analytics generates a cookie to capture information about your use of the Cuebiq Site that Google uses to compile reports on website activity for us and to provide other related services.
+Google may use a portion of your IP address to identify its cookie and for its commercial purposes.
+If you wish to opt out of interest-based advertising click here, or if located in the European Union click here.
+Please note you will continue to receive generic ads.
+==========
+Web Beacons.
+Web beacons or “pixels” are electronic images that may be used on the Cuebiq Site or in emails we send to you.
+We use web beacons to deliver cookies, count visits, understand usage and effectiveness of offers, and tell whether you open an email and act upon it.
+By accessing or using the Cuebiq Site, you consent to the placement of cookies on your Devices and the use of web beacons as described in this Privacy Policy.
+You may block, delete, or disable cookies or web beacons to the extent permitted by your browsers, applications, and Devices as described in more detail below.
+==========
+However, if you do so, the performance of certain features of the Cuebiq Site may be limited or not to work at all.
+We may share Information collected from visitors of the Cuebiq Site as described below.
+2.
+==========
+DESCRIPTION OF CUEBIQ’S SERVICES
+Cuebiq is invested in the movement to drive innovation and enhance the quality of life across the globe.
+We collect and process de-identified data from users who consent to location data sharing via our partners apps for purposes related to advertising, attribution, analytics and research to support causes such as improving quality of life in underserved communities, natural disaster response, and smart city development through our Data for Good initiative.
+We discuss the data we use in our Services in more detail, below.
+Cuebiq is a data management platform that focuses on the collection and use of precise location data, to help advertisers provide more relevant offers to mobile application users, and to assist a variety of other companies and organizations to perform research based on human traffic patterns.
+The latter group of companies and organizations includes organizations performing research for health, market analysis, civic technology, meteorological, automotive or scientific purposes.
+==========
+Cuebiq receives this location information either from an “SDK” that it provides to mobile applications (“apps”), or from a server-to-server transfer and integration with mobile app partners.
+This location information generally includes lat/long (latitudinal and longitudinal) data, i.e., GPS-level data, and/or WiFi data (if feasible) associated with a mobile advertising ID, such as an IDFA or an Android Advertising ID.
+We primarily use the information we collect to make inferences about what types of activities users tend to spend time doing.
+For instance, we may notice a particular Device frequently at locations associated with sports (e.g., an arena), music (e.g., a concert venue), eating out (e.g., restaurants) or health and fitness (e.g., a gym or health club).
+==========
+We use this information to categorize Device users into “interest segments” – which advertisers can use to send ads when those users appear on mobile ad platforms they work with.
+We also use some of the information we collect (including location information or mobile advertising IDs) to help advertisers analyze aggregate ad performance – such as by measuring whether or how Devices that saw a particular ad tended to engage with a particular product.
+In addition, we sometimes use any or all of the above information to help advertisers better understand their customers or their marketing, such as for market research, customer analytics, or analytics of traffic patterns.
+Sometimes, we provide hashed, i.e., altered, versions of mobile advertising IDs to our customers to allow them to perform research and derive inferences about traffic patterns – such as for the types of organizations we describe above.
+==========
+We sometimes collect the above data through “pixels” (described above) (“Pixel Data”), and we use such data to perform aggregated “attribution” analysis.
+This analysis can help marketers and their service providers understand which users have been exposed to which ad campaigns.
+This may help marketers analyze and optimize their ad campaigns, for instance, on an aggregated basis.
+This data may likewise be measured or matched against aggregate location data in order to provide a “match rate” for an attribution study as to devices that have been detected at a given location– to provide similar services and analysis for marketers as those described above.
+For instance, if numerous devices that were sent an ad or offer for “Cuebiq Coffee” on Tuesday then went to a Cuebiq Coffee on Wednesday or Thursday, an advertiser might conclude that the ad campaign was successful.
+We refer to all of the above services as the “Services.”
+3.
+THE DATA ELEMENTS WE COLLECT IN PROVIDING OUR SERVICES
+When you have accessed or used an App that uses the Services, the Publishers of such App may allow us to automatically collect certain information (which we refer to collectively as “Information”) about your Device and your activity and interaction with such App, which may include:
+IP address
+Geolocation and proximity of your device if location services are enabled on your device
+Unique Device identifiers for advertising (Google Advertiser ID or IDFA) and/or a pixel identifier
+Event information about your device, such as crashes, system activity, and hardware settings
+System configuration information
+Time and date information
+Dwell time near points of interest, as determined through beacon, Wi-Fi, and other signals as discussed below and our proprietary systems.
+==========
+The above Information is sent to our server in encrypted form, via a HTTPS protocol, in two ways.
+First, it may be sent through an Application Protocol Interface (“API”).
+Second, Publishers may license our software development kit (our “SDK”) thus providing the information through that SDK.
+We also collect the above Information from third-party devices present at certain third-party locations, such as stores, shopping malls, stadiums, bars, restaurants, and other points of interest.
+Such devices may use Wi-Fi, near field communication (NFC), or Bluetooth low-energy (BLE) beacon technology to transmit signals about the location of your device to us.
+==========
+We may use Information to provide and improve the Services, including, but not limited to, the following purposes:
+To develop and use predictive models to predict End Users’ potential future behavior and interests on a per-device basis and across devices.
+To provide targeted advertising to End Users, including through the creation of user interest categories.
+To attribute End Users’ visits to stores or other specific points of interest for advertising campaigns.
+To help Publishers enhance their user profiles.
+==========
+We may share Information, and our Analytics related thereto, to provide and improve the Services and as follows:
+With Publishers for their advertising, analytics, or other purposes.
+With Advertisers so they may provide targeted content and advertising to you on websites and mobile applications.
+With other third parties, such as demand-side, advertising platforms, data management platforms, advertising agency trading desks, proximity solution providers, advertising technology providers, so they may provide targeted content and advertising to you on third-party websites, mobile applications, and other advertising mediums, and so that they may measure ad performance through the types of ad “attribution” we discuss above.
+With other companies and organizations, who use the Information to perform research – for instance (without limitation) for scientific, medical, civic, meteorological, automotive, and market-related research.
+As otherwise set forth in this Privacy Policy
+Sometimes, we may provide information (such as IP address, but excluding precise lat/long coordinates) to third party platforms, connected to interest segments, to help advertisers identify common users across different devices or browsers – for instance, to identify a common set of users on both mobile devices or tablets, as well as the web.
+4.
+ADDITIONAL INTERNAL AND CORPORATE USES OF THE INFORMATION
+In addition to the above descriptions of our usage of Information, we may use Information to:
+Provide the Cuebiq Site and the Services, and notices related thereto
+Provide customer support for the Cuebiq Site and the Services
+Detect and protect against errors, fraud, or other criminal activity
+Resolve disputes and enforce our Terms of Use
+Collect fees and other amounts owed in connection with the Cuebiq Site and the Services
+Analyze, customize, and improve the Cuebiq Site and the Services
+Deliver targeted marketing and promotional offers to you
+Contact you by email message, push notifications, voice call, or text message, subject to applicable law
+As described elsewhere in this Privacy Policy, we may use your Information to create products and datasets allowing us to offer anonymized and aggregated data, market research, and business intelligence to third parties.
+We do not use Information for employment eligibility, credit eligibility, health card eligibility, or insurance eligibility, underwriting, or pricing purposes.
+5.
+==========
+HOW WE SHARE INFORMATION WE COLLECT
+We may share Analytics and Information with third parties as described in this Privacy Policy and as follows:
+If the information is provided to help complete a transaction requested by you.
+To allow third parties, such as market research and information companies, to create datasets, perform market research, or create business intelligence or information products which analyze and monitor aggregated location behavior.
+To allow third parties to market to you, including through mobile devices and applications.
+When we partner with third parties, such as third party ad platforms, to provide the Services to you, or to support, analyze or improve those Services.
+We may also share your Information with third parties:
+If you request or authorize it.
+==========
+If the Information is provided to: (1) comply in good faith with applicable laws, rules, regulations, governmental and quasi-governmental requests, court orders, or subpoenas; (2) enforce our Terms of Use or other agreements; or (3) protect our rights, property, or safety or the rights, property, or safety of our users or others.
+If the disclosure is done as part of a purchase, transfer, or sale of services or assets (e.g., in the event that substantially all of our assets are acquired by another party, your Information may be one of the transferred assets, or in the course of due diligence for such an event) or in the event of bankruptcy.
+If the Information is provided to our third-party vendors or service providers to perform functions on our behalf (e.g., analyzing data, providing marketing assistance, providing customer service, processing orders, etc.).
+As otherwise described in this Privacy Policy, or with your prior consent.
+6.
+==========
+YOUR PRIVACY CHOICES AND OPT-OUT RIGHTS
+When we collect location information (including precise location information) from mobile app partners, we endeavor to work with partners that provide disclosures to their own users regarding the use of mobile data for interest-based advertising purposes, and regarding consumer opt out rights.
+You may manage certain collection and sharing of information in connection with the Cuebiq Site and the Services as follows:
+You may control how your browser responds to cookies by adjusting the privacy and security settings of your web browser.
+You may limit the disclosure of certain Information by your mobile device to us and Publishers by adjusting the settings on your mobile Device.
+For iOS mobile devices, go to “Settings” from your Device’s home screen; scroll down to “Privacy”; select “Advertising”; and turn on “Limit Ad Tracking.”
+For Android mobile devices, go to “Google Settings” on your device; select “Ads”; and check the box labeled “Opt Out of Interest-Based Ads.”
+We honor these “limit” or “opt out” instructions or “flags” by removing recognized devices from our cross-app advertising or ad delivery and reporting solutions, on a going forward basis.
+==========
+While we do not currently have a web-based solution, we provide the below information because some third party platforms may employ our Information to connect user identities across devices – such as to inferentially “match” a mobile device by common IP address to a web browser:  you may opt out of certain advertisers’ cookies and browser-enabled, interest-based advertising at the Network Advertising Initiative’s website and the Digital Advertising Alliance (DAA) website.
+Please note that these opt outs apply to interest-based advertising by participating advertisers.
+You may still receive other types of online advertising from participating advertisers, and the websites you visit may still collect information for other purposes.
+In addition, the opt-out choices you select are stored in opt-out cookies only in the browser that you use to visit the opt-out websites, so you should separately set your preferences for other browsers or devices you may use.
+Deleting browser cookies can remove your opt-out preferences, so you should visit these opt-out websites periodically to review your preferences or update your preferences to apply to new participating advertisers.
+==========
+Publishers and Advertisers may also provide ways for you to opt out from or limit their collection of information from and about you.
+Please refer to the privacy policies for the Apps to learn more about the privacy practices of Publishers and Advertisers.
+Please note, however, that we are not responsible for the privacy practices of Publishers, Advertisers, and other third parties.
+==========
+You may opt not to receive promotional emails from us by contacting us as indicated be low or by following the “unsubscribe” instructions in any promotional email you receive from us, or by contacting us at privacy@cuebiq.com.
+Please note, however, that we may still send you non-promotional, transactional or service-related emails about your relationship with us.
+7.
+==========
+DO NOT TRACK SIGNALS.
+Do Not Track (“DNT”) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third parties.
+We do not currently respond to DNT signals.
+8.
+DATA RETENTION
+We generally retain  mobile advertising IDs on the following schedule:  (a) we render mobile advertising IDs inactive for interest-based advertising purposes within 120 days, (b) we continue to use mobile advertising IDs for analytics purposes and other purposes unrelated to interest-based advertising and reporting (for instance, in aggregated form for market research) for up to 24 months (outside of EEA countries and Switzerland) or 13 months (in EEA countries and Switzerland), provided that we may retain them if we have a legal or significant operational or legal need to do so, such as for auditing, corporate record-keeping, compliance, record-keeping, accounting or security and bug-prevention purposes.
+9.
+==========
+SECURITY
+We have administrative, technical, and physical safeguards in place in our physical facilities and in our computer systems, databases, and communications networks that are designed to protect information contained within our systems from loss, misuse, or alteration.
+No method of electronic transmission or storage is 100% secure.
+Therefore, we cannot guarantee absolute security of your Information.
+If you have any questions about the security of your information, please contact us as described below.
+10.
+==========
+THIRD-PARTY WEBSITES
+When you access the Cuebiq Site, you may be directed to other websites that are beyond our control.
+We may also allow third-party websites or applications to link to the Cuebiq Site.
+We are not responsible for the privacy practices of third parties or the content of linked websites, and we encourage you to read the applicable privacy policies and terms and conditions of such third parties and websites.
+This Privacy Policy only applies to the Cuebiq Site and the Services.
+We encourage End Users to review the privacy policies of Publishers and Advertisers, but we are not responsible for the privacy practices of Publishers, Advertisers, or any third parties.
+11.
+==========
+INTERNATIONAL TRANSFERS
+We may store and process your Information in the European Union and the United States.
+By accessing this website or our Services, you consent to the transfer of your information to the United States and other countries.
+Please note that the laws in the United States and the other countries regarding processing the information may be less stringent than in your country.
+12.
+==========
+OUR MEMBERSHIPS
+Cuebiq is a member of the Network Advertising Initiative (NAI), and we undergo annual certifications that we adhere to their strict Code of Conduct.
+To learn more about the NAI or how to opt out of receiving targeted advertising from other third party services that belong to the NAI, please follow this link.
+13.
+==========
+THE EU GENERAL DATA PROTECTION REGULATION (GDPR)
+As of May 25, 2018, a new data privacy law known as the EU General Data Protection Regulation (or the “GDPR”) will be in effect through the EEA countries and Switzerland.
+The GDPR requires Cuebiq and those using our services to provide users with certain information about the processing of their “Personal Data.”
+“Personal Data” is a term used in Europe that means, generally, data that identifies or can identify a particular unique user or device – for instance, names, addresses, cookie identifiers, mobile device identifiers, precise location data and biometric data.
+To comply with the GDPR, we provide the below representations and information, which are specific to persons located in EEA countries or Switzerland (so please don’t rely on the below, if you’re not):
+a. Legal grounds for processing your Personal Data
+The GDPR requires us to tell you about the legal basis we’re relying on to process any Personal Data about you.
+==========
+The legal basis for us processing your Personal Data for the purposes set out in Sections 3 and 4 above (and Section 5 as to our corporate customer data) will typically be because:
+You provided your consent.
+In order to provide our services that involve use of precise location information related to other Personal Data, (and to store and gain access to information stored on your device such as mobile advertising IDs), we rely on your consent.
+To obtain this consent, we rely on our own compliance steps and our web and mobile partners’ compliance steps, designed to ensure that consent is collected and passed on to partners, and to ensure that we only facilitate the collection of legally obtained data.
+We do this to fulfill our obligations under the ePrivacy Directive.
+We may choose to obtain consent in other cases as well, in which case we will adhere to applicable laws relating to such consent and its withdrawal.
+==========
+The processing is in our legitimate interest.
+In some cases, we use legitimate interest as a legal basis for processing Personal Data.
+We rely on legitimate interest when we use Personal Data to maintain the security of our services, such as to detect fraud or to ensure that bugs are detected and fixed.
+We also rely on legitimate interest when we use our own customers’ data to communicate with them about our Services.
+==========
+Contractual Relationships.
+Sometimes, we process certain data as necessary under a contractual relationship we have (such as our customer records and contact information);
+Legal Obligations.
+Finally, some processing of data may be necessary for us to comply with our legal or regulatory obligations.
+==========
+b. Transfers of Personal Data
+As Cuebiq works with global companies and technologies, we may need to transfer your Personal Data outside of the country from which it was originally provided.
+For instance, we may transfer your data to third parties that we work with who may be located in jurisdictions outside the EEA or Switzerland, and which have no data protection laws or laws that are less strict compared with those in Europe.
+When we transfer Personal Data outside of the EEA or Switzerland, we take steps to make sure that appropriate safeguards are in place to protect your Personal Data.
+In general, our data transfers of our Personal Data are safeguarded by European Standard Contractual Clauses and Data Processing Agreements where this is required by European Data Protection Law.
+Feel free to contact us at the contact information below for more information about the safeguards we have put in place to protect your Personal Data and privacy rights in these circumstances.
+c. Personal Data Retention
+As a general matter, we retain your Personal Data for as long as necessary to provide our Services, or for other important purposes such as complying with legal obligations, resolving disputes, and enforcing our agreements.
+We generally retain  mobile advertising IDs on the following schedule:  (a) we render mobile advertising IDs inactive for interest-based advertising purposes within 120 days from receipt of consent, (b) we continue to use mobile advertising IDs for analytics purposes and other purposes unrelated to interest-based advertising and reporting for 13 months (in EEA countries and Switzerland) from receipt of consent.
+We may retain this (and other) Information whenever and so long as we have a legal or significant operational need to do so, such as for auditing, corporate record-keeping, compliance accounting or security and bug-prevention purposes.
+If you are a customer of ours and thus have an account with us, we will typically retain your Personal Data for the length of time necessary for the purposes for which the data was collected, such as to provide services and information to our customers, business associates, and similar parties.
+==========
+d. Your Rights as a Data Subject
+The GDPR provides you with certain rights in respect of Personal Data that data controllers hold about you, including certain rights to access Personal Data, to request correction of the Personal Data, to request to restrict or delete Personal Data, and to object to our processing of your Personal Data (including profiling for online ad targeting).
+Right to Access: If you wish to exercise your right to access Personal Data we process as a data controller, you may do so by requesting access through the e-mail address privacy@cuebiq.com.
+When we receive your request, we will provide you with current, step-by-step instructions to follow in order to obtain access.
+==========
+As we are required to verify a requestor’s identity prior to providing Personal Data, we will assess requests to exercise certain data access rights on a case-by-case basis:  in doing so, we consider (a) the difficulty of verifying whether data that we hold and data we have linked to it truly and solely belongs to the data subject making the request, along with (b) the potential adverse affects on disclosure of personal data to the wrong individual.
+Because such improper disclosure would likely adversely affect the privacy rights and freedoms of the data subject, we may limit the Personal Data we make available.
+Please note that we will only grant requests for access for Personal Data for which we are a data controller, as explained further in sub-section (e) below.
+Where we act as a processor for one of our customers, we will refer your request to that customer.
+Please identify the customer your request refers to (if possible), to simplify this process.
+==========
+Right to Correct: If you wish to exercise your right to correct Personal Data, you may do so by contacting us at the contact information below.
+Right to Object to Processing or to Withdraw Consent:  By using the device-based “opt-out” signals described in Section 6 of this Privacy Policy, you may withdraw consent for processing on which we rely on consent.
+If you do so, we will cease processing your Personal Data for purposes of our services within 30 days or less.
+We either collect these opt-out signals ourselves or receive them from the mobile apps we work with.
+==========
+Right to Erasure.
+You also have the right to obtain the erasure of Personal Data concerning you that we hold as a controller.
+The above opt-out process satisfies this right on a going forward basis.
+==========
+When a user opts-out through our partners (or through mobile device settings), and we receive this signal, we no longer collect Personal Data to provide our advertising services.
+We will also manually delete your Personal Data if prefer that we do so; please contact us at privacy@cuebiq.com for further instructions if you wish to exercise this right manually.
+Please note, however, that we may retain copies of certain Personal Data on inactive or back-up files, for our own internal and necessary purposes, such as auditing, accounting and billing, legal or bug-detection.
+We will in most cases delete such data within 24 months, absent a compelling reason to retain it.
+==========
+Right to Lodge Complaints.
+You have the right to lodge a complaint with a supervisory authority.
+However, we hope that you will first consult with us, so that we may work with you to resolve any complaint or concern you might have.
+==========
+e. Cuebiq as a data controller and a data processor
+EU data protection law makes a distinction between organisations that process Personal Data for their own purposes (known as “data controllers”) and organisations that process Personal Data on behalf of other organisations (known as “data processors”).
+As noted above, we are not always a data controller of the data in our possession, but are sometimes a data processor for other companies such as our customers.
+In such cases, we may direct your inquiry to the relevant data controller, since data controllers are the ones with primary responsibility for your Personal Data.
+f. Sharing of Personal Data
+Cuebiq may share Personal Data with its trusted partners (i.e., the companies for whom it is obtaining consent and to whom it directly provides Personal Data) for the same purposes described in this Privacy Policy.
+14.
+==========
+CONTACTING US
+If you have any questions regarding this Privacy Policy, please contact us at privacy@cuebiq.com.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+15.
+CHANGES TO PRIVACY POLICY
+If we make material changes to this Privacy Policy that may impact you, we will prominently post notice of the change on our website for a period of at least 30 days prior to the change becoming effective.
+We recommend that you check the Privacy Policy frequently so that you are informed of any changes.
+==========

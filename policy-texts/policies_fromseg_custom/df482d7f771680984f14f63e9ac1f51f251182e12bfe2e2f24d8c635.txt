@@ -1,0 +1,225 @@
+Blis Media Limited is committed to protecting and respecting your privacy.
+Blis is making changes to the way we operate to ensure compliance under the new General Data Protection Regulation (GDPR) framework.
+We have updated our privacy policy to provide clearer and more precise language about how we collect, use and share personal data.
+Blis values the consumers right to privacy.
+==========
+Our objective is to ensure that the consumer always feels in control of where and how their personal information is collected, stored and used.
+We always honour consumer privacy preferences for opting their data in for any purpose.
+This policy applies to Blis Media Limited, its subsidiaries and affiliates (collectively, “Blis,” “we,” “our” or “us”), and describes how we collect, use, share and secure your personal data and device-related information.
+It also describes your choices regarding use, access and correction of your personal data.
+==========
+Blis Media Limited is registered under the Data Protection Act 1998 (“the Act”) under number ZA113120.
+Blis is a registered member of the Information Commissioner’s Office the government’s body which will adjudicate on the GDPR in the UK.
+We are a global company, and operate in multiple jurisdictions concerning privacy and data protection.
+We are committed to complying with local regulations, including with the GDPR in the EU.
+Many of the rights provided by the GDPR are upheld by Blis globally as good practice, unless they conflict with regulations or practices in other jurisdictions.
+For example, the data subject rights provided by the GDPR are available to users worldwide, not just within the EU.
+==========
+Please read this policy carefully to understand how we treat your information.
+This policy is intended to inform you of how our technology processes information on behalf of consumers, advertisers, publishers and other businesses that use our website, products and services.
+By providing personal data to us, you are accepting and consenting to the practices described in this policy.
+==========
+About our business
+Blis is a digital advertising company.
+We provide services to companies including media agencies and their clients—global advertisers—who may purchase media or data by using our technologies, or who may share data with us.
+Our services (“Services”) may include, for instance, verifying location data, measuring footfall attribution, facilitating advertising based on audience segments and inferred interests, cross-device retargeting, and other attribution and location analytics.
+We use the information that we receive from our partners, including publishers and supply side platforms (“SSPs”), demand side platforms (“DSPs”), data management platforms (“DMPs”), telco Internet service providers (“ISPs”), beacon providers, data providers and others (together, “Partners”), or which we collect ourselves through our website and in the course of the provision of our services, to engage in targeted advertising, including location-based advertising and related data services.
+This means that we partner with third-party websites and mobile application (“App”) publishers to enrich or serve ads within their sites and mobile Apps that are customized to their users.
+We do this by inferring interests and locations from information we are passed or collect about how those users interact with sites and Apps that have partnered with us.
+==========
+The overall result is that the consumer receives advertising which is more specifically tailored to his or her interests, and the advertiser reaches an audience which is more interested in its products or services.
+Accurate targeted advertising is, therefore, a win-win situation for advertiser and consumer.
+As noted below, consumers have choices with respect whether to allow targeted advertising on a device-by-device basis, and we honor those preferences.
+==========
+Information collected and used via our services
+We do not collect or receive from our Partners information which directly identifies individuals (such as names, addresses, phone numbers or email addresses), and so we do not identify an end user’s actual real-world identity via our technology.
+However, some of the data which we process (such as device ID numbers, IP addresses and location data) are considered as “personal data” for the purposes of some data protection legislation, and so it is therefore our policy to treat the data which we process in the provision of our Services as “personal data” in accordance with the requirements of applicable local laws and regulations.
+We do not collect directly identifiable personal information (“PII”) from users online through advertisements we serve or manage on behalf of our clients unless users affirmatively and deliberately choose to release that information by submitting it, in a text field for example.
+PII here refers to directly identifying information such as an individual’s name, mailing address, phone number or e-mail address.
+If you affirmatively and deliberately provide PII via an advertisement that we serve then we will use the information only for the intended purpose, and if you provide PII via one of our client’s advertisements who was identified to you at the time of collection, then that PII will be provided to such client, and such PII shall be subject to that client’s privacy policy.
+==========
+As we do not have a direct relationship with the consumers whose data we receive from Partners or third parties and process on their behalf, we rely on our Partners to ensure that the data that it has passed to us has been lawfully obtained and use has explicitly consent, that the consumers have been given notice as to how their personal data will be processed and that it may be passed to intermediaries such as Blis, for example, for the purposes of targeted advertising, and that the consumer has consented to such information sharing and processing.
+Accordingly, each publisher, website, Partner or developer is responsible for obtaining all applicable consents to enable our targeted advertising and other services.
+Where possible, and specifically in the EU, that consent is explicitly passed to us with the personal data, and we will check it before using the personal data.
+==========
+We handle various types of data in the provision of our services, including the following:
+Information relating to devices that we receive from our second and third party Partners, which, depending on the user’s chosen device permissions, may include the device ID of the mobile device being used to access an App (for example, IDFA on iOS or GAID on Android, which are random strings of letters and numbers generated by the software of the device and which do not include any directly identifying details of the device’s user), precise geolocation data, Wi-Fi IP addresses, demographic data including age, gender or country, physical beacon data, and the name of the publisher or App in use.
+Blis does not receive device ID’s from web browsers – device IDs are received in respect of App traffic only.
+Much of our device tracking comes from advertising bid requests and information associated with device IDs in bid requests.
+Other information from advertising bid requests relating to a particular device ID, such as hashed cookie IDs or proprietary client/Partner IDs, user agent information, latitude/longitude and historic location data, device make, model and operating system, ads clicked on, frequency of exposure to ads served, IP address, and timezone.
+For IP addresses that we have identified as residential, we may link devices seen at the IP address as being potentially in the same household, for instance, in jurisdictions that allow that linking (the EU does not).
+We may also receive anonymized IDs based on, e.g., SSP-deployed cookies, which may have been synced with other third-party cookies, and that are de-identified and shared with us.
+==========
+Information which we receive from ISPs, in a small percentage of cases, which includes anonymised demographic data such as age or gender of users of the ISP’s network.
+We only receive this information where the user has accepted the ISP’s terms of use and/or privacy policy, and has opted in to the data being provided to us and used for targeted demographic and location-based advertising and, where required by the jurisdiction, that explicit consent has been passed to us.
+On a website or mobile App, user behaviour within the website or App, and data regarding the general nature of the content being viewed, such as the category of the site or App (e.g., sports, shopping or travel related), as well as opted-in data such as device location services.
+We also collect information via a software development kit (SDK) that App developers may include within their App to tell the App to collection location data, provided the user has expressly provided the App to collect location information and, where required by the jurisdiction, passed that consent on to us.
+By way of example, our algorithms help our clients to determine which ad to serve to a particular device based on multiple factors including the real time location of the user, whether we have a history of location data for the same device ID, and the ads previously served to that device ID.
+We retain such data used for targeted advertising as needed to carry out the purpose for which it was collected, or until an individual expresses an opt-out preference, whichever is the shorter, but for no longer than 12 months in any case.
+Blis uses the information it collects and receives to:
+Analyse the effectiveness of online and mobile advertising campaigns;
+Attribute user interests to browsers and devices;
+Measure footfall traffic and ad campaign conversion attributions;
+Identify relationships between different browsers and devices, as well as between Wi-Fi IP addresses and the locations of various points of interest;
+Deliver targeted advertising campaigns across devices; and
+Create audience segments and profiles, which may be based on factors such as shopping interests, age, gender, geography and/or online actions.
+To find out more about Online Behavioural Advertising, please go to: http://www.youronlinechoices.com/uk.
+Information collected and used by us from clients of our services and website or recipients of one of our newsletters: 
+We also collect and use data about users of this website and our clients who provide data to us in order for us to provide services to them.
+This data can be broken down into the following categories:
+Information you give us.
+==========
+You may give us information about yourself by filling in forms on this website, by signing up to receive our newsletters or by corresponding with us by phone, email or otherwise.
+Information we collect about you.
+We may automatically collect the following information from each of your visits to this website:
+Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
+Information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from this website (including date and time), page response times, download errors, and length of visits to certain pages;
+If you receive the HTML-formatted version of our newsletters, we will collect and save notifications that you have opened the email sending out a particular newsletter, in addition to information in respect of your clicks on links in each newsletter.
+==========
+If you would like to discontinue receiving newsletters that you chose to sign-up for, you may update your email preferences by using the “unsubscribe” link found in the emails we send you or by contacting us at privacy@blis.com.
+Information we receive from other sources.
+We may receive information about you if you use the services we provide.
+We also work with third parties (including, for example, business partners, analytics providers, search information providers) and may receive information about you from them.
+Where you access this website through a third party site, such as Facebook or Twitter, we may receive information about you (such as your name and email address) directly from the account that you have with them.
+The information that we receive may depend on the privacy settings you have with the third party site.
+We use information held about you in the following ways:
+Information you give to us
+We will use this information:
+to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information and services that you request from us;
+to notify you about changes to our services;
+to ensure that content from this website is presented in the most effective manner for your device; and
+(on occasion) to contact you to evaluate and improve the content and format of our newsletters
+Information we collect about you
+We will use this information:
+to improve this website to ensure that content is presented in the most effective manner for you and for your device;
+as part of our efforts to keep this website safe and secure; and
+in respect of information we collect from distribution of the HTML-formatted version of our newsletters) to evaluate and improve the content and format of our newsletters.
+Information we receive from other sources
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this information with information you give to us and information we collect about you.
+==========
+This helps us to update, expand and analyse our records, identify new customers, and offer products and services.
+We may use this information and the combined information for the purposes set out above (depending on the types of information we receive), including for the provision of data and targeted advertising services.
+We contractually require all our sources to comply with GDPR requirements, and only pass us personal data where the appropriate consent has been obtained.
+Marketing
+We may contact you by email or text you with information about other services we offer, news, promotions, events and other information we think may be of interest to you, where you have opted in to receive such communications.
+You have the right at any time to ask us not to process your personal data for marketing purposes.
+==========
+You may opt-out of receiving such communications by clicking on the “unsubscribe” link within the communication, or you can exercise the right at any time by emailing us at privacy@blis.com, or by writing to us at:
+Blis Media Limited
+ATTN: Finance Department
+Manor House
+21 Soho Square
+Soho
+London W1D 3QP, UK
+Sharing and disclosure of your information
+Where you have opted in for us to do so, we may share your information with third-party business partners, for instance, for the purpose of enhancing our products and services, or so that they can market their products or services to you.
+We may also do so for the performance of any contract which we enter into with you, or to allow us or our business partners to provide a service you have requested or to fulfil a request for information.
+We may share your information with third parties who provide services on our behalf to help with our business activities.
+These companies are authorised to use your personal information only as necessary to provide these services to us.
+These services may include: sending marketing communications, payment processing, and providing cloud services.
+For more details please see our partner list.
+==========
+In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet law enforcement requirements.
+We may also disclose your personal data as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+If Blis Media Limited is involved in a merger, acquisition, or sale of all or a portion of its assets, we reserve the right to transfer your personal information.
+You will be notified via a prominent notice on our website of any change in ownership, uses of your personal information, and choices you may have regarding your personal information.
+We may also disclose your personal information to any other third party with your prior consent.
+==========
+We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
+Security and where we store your personal data
+Information collected and used by our services is held securely in Amazon Web Services.
+It is accessed securely from our London office only, so while it may physically reside on servers outside the EEA, it can only be accessed within the EEA.
+Separately from the information that we collect as part of online behavioural, we collect information about clients we work with, employees, and other individuals with whom we have a direct contractual relationship.
+Where this personal information concerns EU citizens, it is our practice to only access this information within the EEA.
+==========
+Cookies and similar tracking technologies
+When we provide services, we want to make them easy, useful and reliable.
+When you use this website, we may place small files (which often include a unique identifier) locally on your device with your explicit consent.
+These small files are known as cookies.
+==========
+These pieces of information are used to improve services for you through, for example:
+ enabling this website to recognise your device so you don’t have to give the same information several times during one task.
+recognising that you may already have given a username and password so you don’t need to do it for every web page requested.
+measuring how many people are using this website, so it can be made easier to use and that there is sufficient capacity to ensure this website operates effectively.
+==========
+Information may include the date and time of browsing activity and browser type.
+A cookie records on your device information relating to your internet activity (such as whether you have visited this website before).
+Although this website uses cookies to distinguish you from other users of this website, we won’t disclose information stored in cookies that we place on your device to third parties.
+If you don’t want us to use cookies when you use this website, you can adjust your internet browser settings not to accept cookies.
+==========
+Your web browser’s help function should tell you how to do this.
+If you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
+To manage Flash cookies, please click here.
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit this website: http://www.youronlinechoices.com/uk/.
+This website will also explain how you can disable cookies which are already stored on your device.
+We currently use the following types of cookies on our website:
+First party cookies: these are our own cookies, controlled by us and used to provide information about usage of this website and our services.
+Third party cookies: these are cookies found in other companies’ internet tools which we are using to enhance our site and services.
+For example, Facebook or Twitter have their own cookies, which are controlled by them but may be present on our website.
+==========
+Interest-based advertising and consumer choice:
+We may partner with third parties to display advertising on our website or manage our advertising on other sites.
+Our third party partners may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests.
+If you wish to opt out of interest-based advertising in general click here, or if located in the European Union click here.
+Please note you will continue to receive generic ads.
+==========
+In some jurisdictions, including where GDPR applies, explicit consent to use cookies for these purposes will be collected by the publisher and passed to Blis along with the cookie-based information.
+Where such consent is collected, we will read and require it for our own processing of your data.
+We also use cookies, SDKs or similar tracking technologies such as web pixels to collect information described in this policy from third party mobile applications and websites that Blis does not own or operate.
+==========
+This is done to help our partners provide relevant and targeted advertising to consumers.
+Blis provides you with the ability to opt-out of the collection and use of your information for interest-based advertising via all of our services.
+This means that Blis, and any clients that utilise data collected by us using Blis technologies or services, will not have the right to use your data for online interest-based advertising purposes.
+Blis and its clients may still collect and use data for other purposes, including analytics and research.
+In addition to the links above, you can opt-out of the collection of data across unaffiliated sites over time for interest-based advertising and other purposes from companies participating in the Digital Advertising Alliance Consumer Choice Page at www.aboutads.info/choices and from members of the Network Advertising Initiative via www.networkadvertising.org/choices.
+==========
+In-ad opt-out
+You may opt-out of Blis-delivered OBA advertisements within a mobile website or mobile App by clicking on the enhanced notice/OBA icon included within that advertisement, and then selecting “opt-out” within the page to which you are redirected.
+Mobile applications opt-out
+To opt-out of the collection and use of data for interest-based advertising on your mobile device, you can modify the settings on your mobile device.
+For example:
+For Apple Devices: Go to Settings, Select Privacy, Select Advertising, and enable the “Limit Ad Tracking” setting.
+For Android Devices: Open the Google Settings App, Select Ads, and enable the “Opt out of interest based advertising” setting.
+==========
+Note: The actual opt-out instructions for each device may differ slightly depending on operating system and updates.
+Also, after choosing to opt-out via any of the mechanisms describe, if you use a different device or a different browser, or if you delete browser cookies, you may need to repeat the opt-out steps for that particular device or browser.
+In addition, if you block cookies on your browser or if third-party cookies are blocked by default, some of the opt-out tools above may not function.
+==========
+Lastly, you may download the TRUSTe mobile app on your iOS or Android device in order to exercise choice regarding the use of mobile App-collected data for interest-based advertising by us and other companies that participate in that choice tool.
+Links to those applications are below:
+TRUSTe mobile app iOS
+TRUSTe mobile app Android
+Third party links
+This website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.
+If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.
+Please check these policies before you submit any personal data to these websites.
+==========
+Children
+We do not knowingly collect any personal information about children under the age of 16.
+If we become aware that we have collected personal information about a child under the age of 16, that information will immediately be deleted from our databases.
+Access to information
+Much of the information that we hold is purely technical in nature, and relates to the devices that interact with our website, devices that interact with others’ websites and mobile apps where our tracking technologies are present, and devices that interact with our advertising, rather than being “personal” in nature about any individual.
+Where we do hold personal information about you, the General Data Protection Regulation gives you the right to access, correct, update or delete information held about you by us at any time.
+Your right of access can be exercised in accordance with the GDPR, however please note that we will have to first verify your identity before completing your data subject access request.
+Upon request, we will provide you with information about whether we hold any of your personal information.
+You may access, correct, or request deletion of your personal information by contacting us as described below.
+We will respond to your request within a reasonable timeframe.
+==========
+We will also pass your request, where possible, on to any third parties with whom your data has been shared.
+Contact us
+To contact us with questions about this policy or our data practices, or to request access, correction or deletion of your personal data, you may reach us at privacy@blis.com or in writing as follows, and we will respond to your request within a reasonable timeframe:
+Blis Media Limited
+ATTN: Privacy Office
+Manor House
+21 Soho Square
+Soho
+London W1D 3QP, UK
+Our Data Protection Officer is David Matthewman, who can be contacted at the address above.
+If you have any unresolved privacy or data usage concerns that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+==========
+Changes to this Privacy and Cookies Policy
+If this policy changes in any way, we will place an updated version on this page.
+Regularly reviewing this page ensures that you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
+This Privacy Policy was last updated on 11 Sep 2019.
+See our Cookie Policy here.
+==========

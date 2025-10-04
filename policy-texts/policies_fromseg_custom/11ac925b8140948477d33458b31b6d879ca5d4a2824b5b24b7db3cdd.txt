@@ -1,0 +1,99 @@
+The Wayback Machine - https://web.archive.org/web/20090310202055/http://www.google.com/privacy_ads.html
+
+Advertising and Privacy
+
+Opt out of the cookie for the Google content network and DoubleClick ad serving
+    
+We serve search text ads via AdWords on google.com, and we also serve contextual and placement-targeted text and display ads on the Google content network (AdSense).
+To protect privacy, we follow three principles when we serve ads:
+    
+Transparency – We provide detailed information about our advertising policies and practices.
+Choice – We offer an opt-out for advertising cookies.
+No personally identifiable information – We don’t collect or serve ads based on personal information without your permission.
+The Google Privacy Policy describes how we treat personal information in Google’s products and services, including information provided when using or interacting with our advertising services.
+In addition, the Privacy Policy for Google ads and the Google content network describes our privacy practices relating to our advertising services.
+Advertising Cookie Opt-out
+Google uses cookies to serve more relevant ads.
+==========
+Learn more about how Google uses advertising cookies.
+Anyone may opt out of the DoubleClick cookie (for both the Google content network and DoubleClick ad serving) at any time by clicking the button above.
+In addition, Google allows third party advertisers to serve ads on the Google content network.
+Using a tool created by the Network Advertising Initiative, you can opt out of several third party ad servers’ and networks’ cookies simultaneously.
+(Google also uses cookies for Google Analytics and conversion tracking.
+==========
+Read more about this in our FAQ below.)
+Advertising Privacy Videos
+Advertising Privacy FAQ
+How does Google protect my privacy when it comes to advertising?
+We make protecting privacy a priority by being clear about what information we collect and how we will use the information to show relevant ads, and by offering choices to consumers about what information to share with us.
+We make it easy to opt out of cookie-based advertising for those who wish to do so.
+==========
+We will not collect, sell, or share personal information from ad serving cookies without your explicit consent.
+What information does Google use to serve ads when I do searches on Google or surf on websites that are part of the Google content network?
+We serve ads on our own websites through our AdWords program and on websites in the Google content network through our AdSense program.
+We use a variety of methods to deliver ads that are relevant.
+One is using context.
+==========
+If you search for “golf” on our search engine, you’ll see golf-related ads.
+If you visit a gardening site, ads there may be related to gardening.
+We also make ads geographically relevant, which we do with the help of IP addresses.
+If you’re in Boston searching for cab companies, you probably want ads for Boston-based, not London-based cabs.
+==========
+We also use cookies, which help serve ads in the right language and limit the number of times you see the same ad.
+How does Google use cookies to serve ads?
+==========
+A cookie is a snippet of text that is sent from a website’s servers and stored on a web browser.
+Like most websites and search engines, Google uses cookies in order to provide a better user experience and to serve relevant ads.
+Cookies are set based on your viewing of web pages in Google’s content network and do not contain any information that can identify you personally.
+==========
+This information helps Google deliver ads that are relevant to your interests, control the number of times you see a given ad, and measure the effectiveness of ad campaigns.
+Anyone who prefers not to see ads with this level of customization can opt out of advertising cookies.
+This opt-out will be specific only to the browser that you are using when you click the “opt out” button.
+How does Google use DoubleClick cookies to serve ads?
+Google uses the DoubleClick DART cookie on our Google content network to serve more relevant ads across the web and limit the number of times you view an ad.
+When you visit a website and view an ad or click on an ad supported by Google’s advertising services, we may set a cookie on your browser.
+This advertising cookie will appear in your browser as .
+doubleclick.net.
+==========
+When the cookie is set on your browser, it allows Google to gather information about your browser’s interaction with a given ad.
+This information gets recorded in a log that looks something like this:
+    time: 06/Aug/2008 12:01:32
+ad_placement_id: 105
+ad_id: 1003
+userid: 0000000000000001
+client_ip: 123.45.67.89
+referral_url: "http://youtube.com/categories"
+The “time” field reflects the time the ad was displayed.
+The “ad placement id” and “ad id” identify the advertising campaign and the specific ad served.
+The “userid” is the display ad cookie that identifies the browser.
+The “client IP” reflects the user’s Internet Protocol (IP) address.
+A “referral URL” indicates the URL of the page where the ad was served.
+==========
+Our logs also record whether a user’s browser clicks on or interacts with an ad.
+How does Google use cookies for Google Analytics?
+Google Analytics is Google’s free web analytics tool that helps website owners understand how their visitors engage with their website.
+Google Analytics collects information anonymously, and much like examining footprints in sand, it reports website trends without identifying individual visitors.
+Analytics uses its own cookie to track visitor interactions.
+==========
+The cookie is used to store information, such as what time the current visit occurred, whether the visitor has been to the site before, and what site referred the visitor to the web page.
+Google Analytics customers can view a variety of reports about how visitors interact with their website so they can improve their website and how people find it.
+A different cookie is used for each website, and visitors are not tracked across multiple sites.
+Analytics requires that all websites that use it must update their privacy policy to include a notice that fully discloses the use of Analytics.
+==========
+To disable this type of cookie, some browsers will indicate when a cookie is being sent and allow you to decline cookies on a case-by-case basis.
+How does Google use cookies for conversion tracking?
+Google uses cookies to help businesses that buy ads from Google determine how many people who click on their ads end up purchasing their products.
+The conversion tracking cookie is set on your browser only when you click on an ad delivered by Google where the advertiser has opted-in to conversion tracking.
+==========
+These cookies expire within 30 days and do not contain information that can identify you personally.
+If this cookie has not yet expired when you visit certain pages of the advertiser’s website, Google and the advertiser will be able to tell that you clicked the ad and proceeded to that page.
+Each advertiser gets a different cookie, so no cookie can be tracked across advertiser websites.
+If you want to disable conversion tracking cookies, you can set your browser to block cookies from the googleadservices.com domain.
+What information does Google use to serve ads on Gmail?
+Google scans the text of Gmail messages in order to filter spam and detect viruses.
+The Gmail filtering system also scans for keywords in users’ emails which are then used to match and serve ads.
+When a user opens an email message, computers scan the text and then instantaneously display relevant information that is matched to the text of the message.
+Once the message is closed, ads are no longer displayed.
+The whole process is automated and involves no humans matching ads to Gmail content.
+For additional information about our advertising products and services, check out these FAQs:
+==========

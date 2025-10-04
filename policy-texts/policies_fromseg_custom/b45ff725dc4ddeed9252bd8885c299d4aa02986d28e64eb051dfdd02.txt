@@ -1,0 +1,155 @@
+(in the remainder referred to as Haensel AMS)
+Last updated 6th of Septembr 2018.
+Haensel AMS is registered and headquartered in Germany (GmbH) and USA (Inc).
+Of course, we comply with the legal provisions of the EU General Data Protection Regulation (GDPR), the German Federal Data Protection Act (BDSG), the German Teleservices Act (TMG) and other data protection provisions.
+For Haensel AMS the protection of personal data very serious and we strictly comply with the data privacy laws.
+Data collected for web tracking
+When you visit our website or websites of our clients, who use Hansel AMS as a first party tracking solution, and when you gave consent to the tracking, usually by actively clicking to agree in the data collection disclaimer on the websites, certain information is transmitted by your browser and collected by us.
+The data is collected in the Amazon WebService (AWS) cloud, server locations are in the EU (Dublin or Frankfurt).
+Further the data is collected on separate AWS accounts for the different websites and clients.
+Data of different clients is always strictly separated.
+Usually the AWS account is registered by each client and belongs to them, generally we are only user in the accounts.
+The data is collected to perform data analysis on the customer journeys, mainly to understand: how visitors experience and use the websites and how effective certain marketing activities and customer interactions are.
+==========
+Data collection is carried out through a pixel which is integrated on each page.
+All tracking solution clients are instructed to execute the tracking only after the website visitor gave consent to the data collection.
+Since we do not have full control over our clients’ websites, we cannot enforce this on our own.
+Haensel AMS does not pass any data on to third parties, who do not have the explicit data collection consent from the individual person.
+Technical and Organizational Measures to ensure the data protection
+Physical access control:
+Unauthorized persons have no access to the business premises of Haensel AMS.
+==========
+Access is only possible with keys or access codes.
+Access to the data on the cloud account:
+Only the dedicated employees responsible for the specific client project have access to the AWS account of our clients.
+Login to separate AWS accounts is via Multi-Factor Authentication (MFA), i.e. personal password and smartphone authenticator app.
+PEM files are used for the SSH connections to AWS Server, if they are stored on laptops, these are overnight in a safe, and which have encrypted hard drives.
+AWS logins from each user are logged.
+==========
+Order Control:
+No subcontractors will be charged with the collection, processing or use of personal data.
+Transfer and input control:
+AWS logins and activities from each user are saved with times.
+All client data remains strictly on the AWS account designated.
+Availability Control:
+Haensel AMS implemented periodical backups to ensure high availability of the systems and the data.
+Separation control:
+The data remains on the separate AWS account for the client, only for specific data analysis tasks employees of Haensel AMS may temporarily download data samples to perform the work on their local machines.
+Only the event tracking data is stored at the AWS account available to Haensel AMS.
+No other data sources with potential customer specific data are there available.
+==========
+The following data is collected
+Request (name of the requested file and page URL)
+Browser type/ version (e.g. Internet Explorer 11)
+Browser language (e.g. English)
+Screen resolution
+Color depth
+if Java, JavaScript or Cookies are activated
+Operating system used (e.g. Windows 10)
+Referring URL
+hashed, i.e. anonymized, IP address
+Access time
+Clicks
+Information on viewed products and general order details such as products and amount (if applicable)
+An IP Address is sent with every server call, in order that the server knows where to send the response.
+An IP Address is allocated to everyone when they connect to the internet.
+This IP Address is assigned by the Internet Service Provider (ISP).
+The ISP can determine which IP Address was allocated to which customer at which point in time.
+==========
+With the law concerning data storage, the ISP is required to store this information.
+It is possible via the ISP to identify the person responsible for the user’s internet connection.
+Therefore, we do not save the full IP Address.
+We anonymize the IP Address by shortening and hashing it immediately before storing the data.
+It is not possible to link any individual person with that IP data or to identify any individual person with it.
+==========
+For geographical analysis, we try to lookup the country, region and city of an IP address (right before it is hashed) in a database of various ISPs with the geographic location of some IP addresses included down to the city level.
+The individual address, lower than city level, of the Internet user is always unknown to us.
+The IP addresses are never permanently written to disk in their original form.
+==========
+Haensel AMS’s Use of Cookies, Web Storage and Web Beacons
+Haensel AMS uses cookies (small text files that Haensel AMS stores locally on your computer) and Web storage (small text files that Haensel AMS stores locally in the Document Object Model storage of your browser as well as in the browser cache) on our Client’s websites for one or more of the following purposes: to help identify unique visitors and/or devices; assess usage patterns and perform traffic analysis; identify visitor preferences; conduct A/B testing; diagnose problems with our servers, and otherwise administer the Haensel AMS Service.
+Cookies and Web storage do not harm your computer in any way and do not contain any viruses.
+The data does not allow Haensel AMS to identify any individuals.
+An integration of this data with other 3rd party data sources will not be performed.
+To following cookies and web storage items are set for web analytics purposes:
+_sp_id, hams_fpid, hams_uid, hams_cookie_consent: long term cookies
+_sp_ses: session cookie
+hams_fpid: local DOM storage
+hams_dnt: long term cookie on the domain .
+h-ams.
+==========
+net
+Depending on how our Clients use Haensel AMS’s Services, information contained in Haensel AMS cookies placed on the computers of end users may be linked to Personally Identifiable Information in database of our Clients.
+This allows our Clients to use the Haensel AMS Service to better analyze and measure their users’ interactions with their website and to organize activities by the same user on their website across time.
+The Haensel AMS tracking system does not collect or store be default any Personally Identifiable Information.
+If you do not wish to have Haensel AMS place and use cookies or web storage on your computer and browser, you can opt-out from the tracking below or you can set your browser preferences to refuse all cookies.
+In your browser settings you may configure your browser’s cookie settings to limit the acceptance of cookies or to delete cookies.
+Haensel AMS is not responsible for any failure by you or your browser to accurately implement or communicate your browser preferences or settings.
+In addition, please be aware that even if you configure your browser settings to reject all cookies, your activity on Haensel AMS client websites will still be recorded by our Service, unless you opt out of our Service as set forth below.
+==========
+Web Beacons.
+Haensel AMS may also collect certain information using non-JavaScript (NonJS) Web Beacons.
+“Web Beacons” are 1×1 pixel, transparent graphic electronic images that may be used on Haensel AMS’s Services in order to measure and optimize advertisements (such as Web-Banner) of Haensel AMS’s clients or email communications.
+They are used, for example, to count advertisement views (such as banners) or to tell if an email has been opened and acted upon.
+==========
+NonJS Web Beacons do not store any information locally (such as cookies) on your computer, also any kind of device fingerprinting is not activated for them.
+Opt-Out of Data Storage
+According to §15 of the German Telemediengesetz (TMG), website visitors can opt out of the saving of their anonymized visit data, so that they will not be tracked in the future.
+If you opt-out of the Haensel AMS Tracking, you immediately also opt out of the Data Storage.
+OPT-OUT HAENSEL AMS TRACKING
+Some Haensel AMS clients use Hansel AMS as a first party tracking solution and they provide an opt-out possibility directly on their website by setting a cookie directly under the domain of the specific website.
+You can opt-out here from the tracking at the haensel-ams.
+com website and cross-domain for all websites where the Haensel AMS tracking solution is implemented, this also makes an opt-out for the web beacon tracking.
+But please note that the cross-domain do-not-track setting is via the cookie hams_dnt on the domain .
+h-ams.
+==========
+net, some browsers do not support these third-party cookies and therefore the cross-domain opt-out will not be effective there.
+This opt-out is valid for as long as the cookies are not deleted.
+The cookies are installed for the specified domain, per browser and computer.
+Therefore, as an example, if you use our website from home and work or with several different browsers, you need to set the cookie for each computer and each browser.
+All tracking opt-out events are logged within the tracking system with the cookie IDs and the timestamps, if the opt-out event is sent to us by the opt-out process at the specific website.
+==========
+CURRENT TRACKING STATUS
+Data Protection Officer and further information
+We value your trust.
+Therefore, we always want to keep you informed about the processing of your data.
+If you have any questions regarding Data Privacy or our Data Privacy policy, please get in touch with our Data Protection Officer Dr. Alwin Haensel at privacy@haensel-ams.com.
+==========
+You also have the right at any time to obtain information about whether and which personal data about you has been saved by us.
+You have the right to have unauthorized data deleted/blocked and incorrect data corrected.
+Upon request, we can provide you with further information about this at any time.
+If you would like to contact us, please send us an email to: privacy@haensel-ams.com
+Haensel AMS GmbH, Ritterstr.
+2a10969 BerlinGermany
+Haensel AMS Inc, 57 W, 57th Street10019 New YorkUSA
+Updates to the Privacy Policy
+Haensel AMS reserves the right to amend this Privacy Policy in line with technical developments or in response to new services or products.
+The latest version can always be found on our website under https://haensel-ams.com/data-privacy/.
+The remainder refers only to the website haensel-ams.
+==========
+com:
+In order to ensure that our sites meet our visitors requirements and to be able to continuously optimize it, we use additional to the Haensel AMS tracking, as described above, also Google Analytics (GA), a web analytics service provided by Google Inc.
+The following information is collected by GA:
+Browser type and version
+Operation system
+Page URLs
+Access time
+IP address
+This data will be transmitted directly to Google servers usually in the USA.
+Our GA setting for IP anonymization is activated, this means that before transmission Google will shorten your IP address within the member states of the European Union or the European Economic Area.
+The full IP-address will be transmitted to a server of Google in the USA and shortened there only in exceptional cases.
+Your IP address will not be associated with other data from Google.
+The data will be used to analyse how users browse the website in order to generate reports on the website activity.
+Further information about GA can be found on Data Processing Terms.
+==========
+Google Analytics OPT-OUT
+To be excluded from Google Analytics web tracking on the website haensel-ams.
+com, a cookie will be set with the name ga_dnt from the domain haensel-ams.
+com.
+This opt-out will apply as long as you do not delete the cookie.
+==========
+The cookie is installed for the specified domain, per browser and computer.
+Therefore, as an example, if you use our website from home and work or with a number of different browsers, you need to set the cookie for each computer and each browser.
+Therefore click on the following button:
+Google Analytics tracking is currently enabled.
+==========

@@ -1,0 +1,242 @@
+Privacy Policy
+Background
+appTV Ltd. (“appTV,” “we,” “our,” or “us”) is an interactive (web and mobile) advertising company that processes data to provide targeted advertising services to advertisers, publishers (“business partners”, “partners”) and mobile and web users (“users”).
+This privacy policy describes appTV’s privacy practices in relation to the use of appTV’s websites and related applications, services and programs offered by it (collectively, the “Services”), as well as individuals’ choices regarding use, access and correction of personal information.
+If you have any question or complaint regarding appTV’s privacy policy or associated practices please contact us using the following email [email protected]
+1.
+==========
+Websites Covered
+This Privacy Policy applies to the information practices, including the ways appTV collects, records, process, uses, shared and secured the information provided to it, of any website which links to this Privacy Policy (collectively, “appTV’s Websites”).
+In any case of the use of appTV’s Services by a third party, when such Services are posted or delivered to such third party, the privacy policy of such third party shall apply.appTV’s websites may contain links to other websites.
+The information practices and the content of such websites are governed by the Privacy Policy of those websites and we encourage you to review the Privacy Policy of such websites to understand their information practices.
+2.
+==========
+The Use of appTV’s Services
+appTV provides advertising technology services that facilitate transactions among advertisers, app developers, publishers of mobile and regular websites and/or apps, and ad exchanges (collectively, “Clients”), and service providers and other data partners (collectively “Partners”).
+We do this by using appTV’s technology stack (the “Technology Stack”, or the “Technology”).
+We use appTV’s Technology and other tools to deliver advertising to End Users, and we, in turn, provide our Services to help Clients (and their own customers) to deliver ads that are of interest to the End Users.
+We explain in [Section 3] below, entitled “Cookies, Pixel Tags and SDK’s” how cookies and similar technologies (which we also use) work.
+==========
+a. Information collected through the appTV Technology stack
+Through the appTV Technology Stack, we may (but do not necessarily or always) collect a variety of information about End Users (whether through our ad server or through other partnerships and tools such as Client-facing APIs), including:
+IP addresses, from which geographic location may be inferred, as well as system configuration information such as information about End Users’ operating system;
+Mobile advertising identifiers, such as iOS IDFAs and Android Advertising IDs (collectively, “Mobile IDs”).
+These Mobile IDs may be associated with other information we collect through the appTV Technology Stack, from third parties, or through any other services we offer;
+Apps that you have installed, mobile websites that you have interacted with, and how you interact with them, including whether and how you interact with ads (including time-stamp information);
+Device type and other device information (e.g., whether you are using a smartphone or tablet, and related information);
+Mobile browser (e.g., Firefox, Safari, and Chrome);
+Mobile Carrier ASN (autonomous system number) / Network provider;
+Other unique identifiers that may be associated with an End Users’ device, including identifiers provided by clients or their service providers; and we may combine and merge the various types of information collected from the appTV Ad Services, and may also enhance it (or permit our Clients to enhance it) with information collected from third parties.
+We refer to all of the above information as the “Service Information.”
+b.
+==========
+How we use the information collected by the appTV technology stack
+We use the data collected to provide a variety of services to our Clients related to advertising and marketing, including services we may describe elsewhere on our websites.
+This includes the use of the Service Information for purposes such as to:
+Provide and improve the appTV ad targeting.
+This includes, for example, providing customer technical and operational support for these features, detecting and protecting against errors, fraud, or other criminal activity, and resolving disputes and enforcing our terms and conditions and other rights we may have.
+This may also include analyzing, customizing, and improving the features of the appTV technology stack;
+Provide information and analytics to clients about the use of app features provided through the appTV technology, or help Clients create or enhance user profiles for marketing or analytics purposes;
+Develop and use data models that try to predict End Users’ potential future behavior and interests on a per-device basis or across devices, using the site/app related content category(Not  based on end user data);
+Analyze ad performance and fraud detection, for example, by attributing End Users’ app installations or mobile web visits to ad campaigns;
+Combine the service Information to perform (including by working with Clients and Partners) any of the above functions, or other advertising, marketing, or analytics services.
+Or, we may aggregate and create data models to do this, by creating algorithms in order to predict common interests among End Users.
+This may be done, for example, to target advertising or provide analytics to other parties.
+==========
+We or our Clients may use commonly used information-gathering tools such as cookies and deploy online cookies to track End Users across mobile websites and/or apps, or to associate End Users and these cookies with Mobile IDs.
+We or our Clients may perform such functions to resolve End Users’ identities across mobile devices and to better or more accurately target relevant ads to End Users.
+We may also append or combine certain elements of the data (such as hashed advertising ID’s) to other information provided by third-party data providers, to learn more about End Users or to provide advertising and analytics services.
+You can learn more about cookies and similar technologies, such as web beacons, in [Section 3] below, entitled “Cookies, Pixel Tags, and SDK’s”
+In any case, we do not keep raw data (Mobile IDs level) for more than 60 days of last interaction with our Technology Stack.
+c.
+==========
+How we share data we collect by the appTV technology stack
+Generally, we share the data with Clients and Partners in order to improve their advertising targeting.
+For example, we share data with:
+• Clients and their marketing and service providers, so they may provide targeted content and advertising to End Users on mobile websites and/or apps;
+• Other third parties that target advertising.
+This may include, for example, analytics companies’ data management platforms that help marketers maintain and use data, proximity solution providers, and other advertising technology providers.
+These companies may, for example, provide targeted content and advertising to End Users and others on third-party mobile websites and/or apps;
+• Clients and their marketing and service providers, to help measure the effectiveness of marketing or analyze their End Users’ likely interests or demographics;
+• Partners to enhance consumer privacy, hash information, or send advertising offers by email or display advertising (which may be linked to a cookie as described above); and Third-party platforms to help advertisers identify common users across different mobile devices and/or mobile browsers.
+The processes we described above often involve cookies or similar technologies, which may be associated with other information about End Users, such as End Users’ interests, demographics, or transactions.
+==========
+This is generally known as “interest-based advertising.”
+We encourage individuals who are interested in controlling or learning about this type of advertising to go to [section 4] below, entitled “Consumer Control and Opt-Out Options,” or go to the Digital Advertising Alliance’s (DAA’s) website at www.aboutads.info.
+We may also share Service Information with third parties:
+Pursuant to a request or authorization by an End User or Client;
+If the disclosure is provided to (a) comply in good faith with applicable laws, rules, regulations, governmental and quasi-governmental requests, court orders, or subpoenas, including for purposes of national security and law enforcement; (b) enforce our terms and conditions or other agreements; or (c) protect our, or any other person’s or entity’s, interests, rights, property, or safety, or in connection with an investigation of suspected or actual unlawful activity;
+Where the information is aggregated or de-identified; and As part of a business purchase, sale, merger, consolidation, investment, change in control, transfer of all or substantially all of our assets, reorganization or liquidation, bankruptcy, or in connection with steps taken in anticipation of such an event (e.g. due diligence).
+3.
+==========
+Cookies, Pixel Tags and SDKs
+a. Cookies and Pixel Tags
+Cookies are small data files containing a string of characters, such as unique browser identifiers.
+Cookies are stored on your computer or other device and act as unique tags that identify your browser.
+Our servers may deploy a cookie on your browser when you visit our websites.
+Our Clients and Partners may do likewise on our websites, our Clients’ and Partners’ websites, and elsewhere.
+==========
+appTV may use both session cookies and persistent cookies.
+Persistent cookies, unlike session cookies, remain after you close your browser, and may be used by your browser on subsequent visits to any given website.
+Using persistent cookies, a site operator (or a third party they work with) can “remember” what you have previously done on a website and personalize the site, or ads you see, for you.
+This technology may also provide a site operator or third party (or us, when you visit the appTV Websites) with information regarding your IP address, browser type, the web pages that you visit just before or after visiting a website, the web pages viewed, and the dates and times of your visits.
+==========
+A pixel tag (also commonly known as a web beacon or clear GIF) is an invisible 1 x 1 pixel that is placed on certain web pages.
+When you access a web page with a pixel tag, the pixel tag may generate a generic notice of the visit, and permit us, or our Clients or Partners, to set or read cookies.
+Pixel tags are used in combination with cookies to track the activity on a website by a particular browser on a particular device.
+If you disable cookies, pixel tags simply detect a given website visit.
+==========
+We, alone or with our Clients and Partners, may use cookies to, for example, “remember” you, track trends, and collect information about how you use our Clients’ or Partners’ websites or interact with advertising.
+We and our Clients and Partners use cookies to provide relevant content to you and replace non-relevant ads with ads that better match your interests.
+==========
+If you wish to opt out of interest-based mobile advertising, please see  [section 4] below, entitled “Consumer Control and Opt-Out Options.”
+Please note that disabling cookies may prevent you from accessing some of our websites’ functionalities and offerings, and those of other websites you visit.
+==========
+b. Mobile Device Identifiers and SDKs
+We, or our Clients or Partners, may use or work with mobile SDKs, which are described in more detail in this Policy) to collect information, such as mobile identifiers (e.g., iOS IDFAs and Android Advertising IDs), and information related to how mobile devices and their users interact with our technology stack.
+The SDK is computer code that app developers can include in their apps to enable ads to be shown, data to be collected, and related services to be implemented.
+We may use this technology, for example, to analyze or measure certain advertising through apps and browsers based on information associated with your mobile device.
+If you would like to opt out from having ads tailored to you in this way on your mobile device, please follow the instructions in  [section 4] below, entitled “Consumer Control and Opt-Out Options.”
+Our Clients or Partners may use the above technologies (sometimes, in combination with each other or other data such as IP addresses or hashed or de-identified data files) to coordinate identifiers across platforms, browsers, or devices, in order to more efficiently analyze or target advertising.
+4.
+==========
+Consumer control and OPT-OUT options
+Consumers have the control whether or not they would like to receive relevant ads and marketing email from our Clients.
+a. Opting Out of Online Interest-Based Advertising
+You can opt out of many of the platforms and service providers we work with that support online interest-based advertising by visiting the Digital Advertising Alliance’s consumer education and opt-out page at http://www.aboutads.info (or the European Interactive Digital Advertising Alliance’s opt-out page at http://www.youronlinechoices.eu if you are located in the European Union).
+This type of opt-out is cookie-based, which means that if you replace or upgrade your browser, or delete your cookies, you will need to opt out again.
+Opting out in this way will not prevent you from receiving ads; rather, the ads you see will be less customized to you.
+==========
+b. Opting Out of Online Interest-Based Advertising
+1.
+End users can opt out of all targeted advertising on their device by ENABLING THE LAT SETTING (this setting is per device only).
+When the end user enables the LAT flag, they are opted out of targeted or interest-based ads only i.e. the end user will continue to see ads after the LAT flag is turned on, but these ads will not be “targeted” to that end user.
+==========
+End users should be aware that developers, including appTV, are bound by the platform’s terms to honor end-user opt-outs for interest-based or location-based ads (e.g. Apple or Google’s developer terms).
+• for details on how to opt out of interest-based ads on Google, visit Google’s support site:
+https://support.google.com/ads/answer/2662922?hl=en
+• for details on how to opt out of interest-based advertising from Microsoft, visit Microsoft’s support site:
+https://choice.microsoft.com/en-US/opt-out
+• for details on how to opt-out of interest-based ads on iTunes, visit Apple’s support site:
+https://support.apple.com/en-us/HT202074
+2.
+End users can also “reset” the data being used to target ads to them – for example, if the end user is being served ads tied to past activities that are no longer relevant to their interests.
+This is accomplished by the end user “RESETTING” THEIR AD IDENTIFIER ON THEIR DEVICE.
+Ad identifiers include the IDFA (iPhone), Google Ad ID (Android) and Advertising ID (Windows).
+• for more details on resetting the IDFA on iOS, visit:
+http://osxdaily.com/2013/02/01/reset-advertising-identifier-ios/
+• for more details on resetting the Google ad ID in Android, visit:
+http://www.tomsguide.com/faq/id-2316491/reset-google-advertising-android.html
+• for more details on resetting the Advertising ID in Windows, visit:
+http://forums.windowscentral.com/windows-phone-8-1-preview-developers/278822-question-what-advertisement-id.html
+3.
+End users can also OPT OUT THROUGH THE APP itself if an app specific opt-out is provided.
+4.
+==========
+End users can also OPT OUT OF PUSH NOTIFICATIONS from an app using the appropriate settings within the app.
+• Push notifications are opt-in on the iPhone and Windows platform, and opt-out on the Android platform.
+• You can learn more about push notifications in this guide from the Mobile Marketing Association (MMA) in France –
+http://www.mmaglobal.com/files/push_notification_mma_france.pdf
+Opting out of specific features in the appTV does not opt out the end user from other ad reporting or attribution functions in the appTV (e.g. Attribution Analytics) or other analytics or tracking software.
+==========
+Furthermore, none of the opt out mechanisms listed here will change an end user’s email or advertising settings, nor will it prevent the collection or use of the end user’s personal information by other parties not covered by these opt out mechanisms.
+To opt out of third party emails or other advertising, please use the appropriate unsubscribe links or contact the responsible party directly.
+5.
+==========
+You can opt-out from appTV targeting program at the following link
+http://www.apptv.com/cookie-optout
+c. Additional Choices
+Advertisers may also provide ways for you to opt out from, or limit their collection of, certain information from and about you.
+Please refer to the privacy policies for retailers, apps, and mobile websites to learn more about their privacy practices.
+You may opt out from receiving promotional emails from us, such as emails to inform you about events and new services, by following the “unsubscribe” instructions in any promotional email you receive, or by contacting us at [email protected] .
+Please note, however, that we may still send you non-promotional emails relating to your relationship with us.
+5.
+==========
+Privacy practices for the appTV websites
+a. Information We Collect Through our Websites
+appTV’s (apptv.com and other properties we operate ) Web sites provide information about appTV and our services as well as reporting and management consoles.
+Through the Websites, we collect information you voluntarily disclose to us, and we may also obtain automatically-collected information.
+i.
+The information you disclose to us
+When registering for an account, expressing an interest in obtaining additional information about our services, or otherwise contacting us through our Web sites, we collect information you voluntarily disclose to us, such as your name, mailing address, email address, telephone number, credit card number, and other billing information.
+You may also provide us with certain information about your business or other individuals.
+ii.
+==========
+Automatically collected information
+When you visit our websites, we may use cookies and pixel tags that we associate with unique identifiers to keep track of visitor interactions and personalize your experience on our websites.
+For more information, please see [Section 3] above, entitled “Cookies, Pixel Tags and SDK’s.”
+We may also use third-party services, such as Google Analytics, that gather information such as your IP address, browser type, the web page from which you came to our websites, and the times of your visit.
+In addition, as you browse our websites, advertising cookies may be placed on your computer so that we can “remember” your interests.
+Our display advertising partners may then help us re-target ads to you on other sites based on your interactions with our websites.
+To opt out of such interest-based mobile advertising, please see [Section 4] above, entitled “Consumer Control and Opt-Out Options.”
+Opting out in this way will not prevent you from receiving ads; rather, the ads you see will be less customized to you.
+b.
+==========
+How we use the information we collect through appTV websites
+In addition to the uses described elsewhere in this Policy, we use the information we collect through our websites (alone or in combination) to provide, market, improve, and operate the websites, appTV technology stack, and any other products or services we have or may develop.
+This includes the use of the information to:
+Fulfill your requests;
+Send information about our products and services, including marketing communications;
+Respond to your questions, concerns, or customer service inquiries;
+Create aggregated or de-identified information;
+Comply with applicable laws, prevent fraud, mitigate risk, and perform similar purposes;
+Understand usage trends and preferences;
+Analyze, improve, and provide products and services;
+Customize the content and advertising you see on our websites, across the Internet, and elsewhere; and/or
+Perform other purposes at your request.
+c.
+==========
+How we share information we collect through the appTV websites
+We may share the information we collect through our websites in the following situations:
+With your consent, including through this Policy;
+With our affiliates;
+With third parties that help us to operate our business and provide our services, such as entities that provide us with technical, customer, billing, administrative, event planning, marketing, or operational services;
+As part of a business purchase, sale, merger, consolidation, investment, change in control, transfer of all or substantially all of our assets, reorganization or liquidation, bankruptcy, or in connection with steps taken in anticipation of such an event (e.g. due diligence);
+When required by law or in response to lawful processes, such as a subpoena, or to cooperate in good faith with a request from a government or law enforcement agency or official, including for purposes of national security and law enforcement;
+If we believe sharing the information may prevent physical, financial or other harm, injury, or loss; or
+If we believe sharing the information is necessary to protect our, or any other person’s or entity’s, interests, rights, property, or safety, or about an investigation of suspected or actual unlawful activity.
+With respect to aggregated or de-identified information, we may share such information without restriction.
+6.
+==========
+Data access and retention
+We retain the information collected from the appTV Websites and appTV technology stack for as long as necessary to achieve our objectives as detailed in this Policy and to comply with our legal obligations, resolve disputes, and enforce our agreements.
+If you are a resident of the European Union or Switzerland, you may obtain a copy of the information we have about you, and correct or amend such information, by contacting us at [email protected].
+Please be advised that, due to the way we collect information, we will only be able to provide you with such information if we can determine that the information is identifiable to you.
+Under extenuating circumstances, we reserve the right to charge a fee for providing you with such information, and that fee will be based on costs and fees we incur to fulfill your request.
+7.
+Data Security
+We have administrative, technical, and physical safeguards in place in our physical facilities and in our computer systems, databases, and communications networks that are designed to protect the information from loss, misuse, or alteration.
+==========
+No method of electronic transmission or storage is 100% secure.
+Therefore, we cannot guarantee the absolute security of your information.
+==========
+To assist with data security, you understand that YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF ANY ACCOUNT CREDENTIALS THAT CAN BE USED TO ACCESS ANY ACCOUNT WITH appTV.
+ANY ACTIONS TAKEN USING YOUR ACCOUNT CREDENTIALS ARE YOUR SOLE RESPONSIBILITY.
+8.
+==========
+Third-party websites and apps
+This Policy only applies to the appTV Websites and the appTV technology stack and services.
+We are not responsible for the privacy practices or disclosures of websites, developers, or apps that access or use the appTV Websites or appTV technology stack and services.
+Likewise, when you access the appTV Websites, you may be directed to other websites that are also beyond our control.
+We encourage you to read the applicable privacy policies and terms and conditions of such third parties and websites, and the industry tools that we have referenced in this Policy.
+==========
+If you have any questions or complaints about appTV’s privacy practices, you may contact us at the contact information in [Section 10] below, entitled “Contacting Us,” and we will work with you to resolve your issue.
+If you are a resident of the European Union or Switzerland, you may also contact your appropriate European Data Protection Authority or the Swiss Federal Data Protection and Information Commissioner, respectively, with questions or complaints about our privacy practices.
+9.
+==========
+Changes of this privacy
+We may occasionally update this Policy to reflect changes to our privacy practices.
+The updated Policy will be displayed on our websites.
+Please check our Policy regularly to ensure you have read the latest version and to stay informed of our privacy practices.
+Your continued access to and use of the appTV Websites and appTV Technology Stack constitute your acknowledgment of this Policy and any updates.
+10.
+Connecting appTV
+If you have any questions regarding this Policy, please contact us
+Email: [email protected]
+Address : appTV Israel , Arieh Regev St 4, Netanya, Israel.
+Phone:
+ISR : +972.9.772.0041
+USA : +1.415.800.4146
+UK: +44.20.3286.0031
+Fax: +972.9.864.1336
+==========

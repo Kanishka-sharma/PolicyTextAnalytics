@@ -1,0 +1,266 @@
++ -
+  Your Rights Online: Supreme Court Declines Case Over Techs' Right To Search Your PC on Thursday June 11, @07:57AM
+Posted by samzenpus on Thursday June 11, @07:57AM
+from the just-not-interested dept.
+An anonymous reader writes "A few years back, a guy was arrested for possessing child pornography after techs at Circuit City found child porn on his computer, while they were installing a DVD player.
+The guy insisted that the evidence shouldn't be admissible since the techs shouldn't have been snooping through his computer — and a lower court agreed.
+The appeals court, however, reversed, noting that the guy had given Circuit City the right to do things on his computer — including testing out the newly installed software (which is how the tech claims he found the video).
+The guy appealed to the Supreme Court, who has declined to hear the case, meaning that the ruling stands for the time being.
+So, basically, if you hand your computer over to someone else for repairs, at least in some jurisdictions, they may have pretty free rein in terms of what they're allowed to access on your computer."
+Read More...
+court privacy pgp encryption misleadingsummary yro privacy story
+Comments: 384
++ -
+  Your Rights Online: Online Vigilantes, Or "Crowdsourced Justice" on Wednesday June 10, @01:14PM
+Posted by Soulskill on Wednesday June 10, @01:14PM
+from the when-internet-detectives-attack dept.
+destinyland writes "The Chinese credit the 'human flesh search engine' for successfully locating 'the kitten killer of Hangzhou' from clues in her online video.
+But in February, the same force identified a teenage cat-abuser in Oklahoma — within 24 hours of his video's appearance on YouTube.
+==========
+'Netizens are the new Jack Bauer,' argues one science writer, and with three billion potential detectives, 'attempts to hide will only add thrill to the chase.'
+But China's vigilantes ultimately turned their attention to China's Internet Propaganda Office, bypassing censorship of a director's personal information using social networks, including Twitter.
+The author suggests there's a new principle emerging in the online world: 'The Internet does not forget, does not forgive and cannot be stopped.
+Ever.'"
+==========
+Read More...
+internet privacy social censorship anonymous yro privacy story
+Comments: 329
++ -
+  Your Rights Online: 9th Circuit Says Feds' Security Checks At JPL Go Too Far on Saturday June 06, @05:54PM
+Posted by timothy on Saturday June 06, @05:54PM
+from the and-you-thought-that-documents-were-sensitive dept.
+coondoggie writes with an excerpt from Network World which explains that the Ninth Circuit Court of Appeals "this week ruled against the federal government and in favor of employees at NASA's Jet Propulsion Laboratory in their case which centers around background investigations known as Homeland Security Presidential Directive #12 (Nelson et al. vs NASA).
+The finding reaffirms the JPL employees claims' that the checks threaten their constitutional rights.
+==========
+The stink stems from HSPD #12 which is in part aimed at gathering information to develop a common identification standard that ensures that people are who they say they are, so government facilities and sensitive information stored in networks remains protected."
+At issue in particular: an employee's not agreeing to "an open ended background investigation, conducted by unknown investigators, in order to receive an identification badge that was compliant with HSPD#12" was grounds for dismissal.
+==========
+Read More...
+court privacy security usa technology yro privacy story
+Comments: 138
++ -
+  Technology: Google Announces Chrome For Mac and Linux Dev Builds on Friday June 05, @05:50AM
+Posted by timothy on Friday June 05, @05:50AM
+from the for-greater-shininess dept.
+Dan Kegel (who admits to being a Chrome developer) writes to point out a post from Mike Smith and Karen Grunberg, Product Managers for Google Chrome, with some good news for non-Windows users who want to play with Chrome: "In order to get more feedback from developers, we have early developer channel versions of Google Chrome for Mac OS X and Linux (for a couple of different Linux distributions), but whatever you do, please DON'T DOWNLOAD THEM!
+Unless of course you are a developer or take great pleasure in incomplete, unpredictable, and potentially crashing software."
+(The announcement continues below.)
+==========
+Comments: 250
++ -
+  Your Rights Online: UK Police Want Plug-In Computer Crime Detectors on Wednesday June 03, @04:20PM
+Posted by timothy on Wednesday June 03, @04:20PM
+from the type-I-errors-type-II-errors-and-bonus-privacy-invasion dept.
+An anonymous reader writes "UK police are talking to private companies about using plug-in USB devices that can scour the hard drive of any device they are attached to, searching for evidence of illegal activity.
+The UK's Association of Chief Police Officers is considering using commercial devices that can perform targeted searches of text, pictures and computer code on hard drives, allowing untrained cops to detect anything from correspondence on stolen goods to child pornography.
+==========
+Police in the UK are desperate for a way of slashing the backlog of machines seized by the police in raids, with many forces having a backlog that will take a year to process."
+Maybe they shouldn't seize so many computers.
+==========
+Read More...
+hardware privacy security government magic yro privacy story
+Comments: 382
++ -
+  Your Rights Online: Detailed Privacy Study Finds Loopholes Galore on Tuesday June 02, @09:40PM
+Posted by kdawson on Tuesday June 02, @09:40PM
+from the get-over-it dept.
+BrianWCarver writes "The San Francisco Business Times covers a study by student researchers at UC Berkeley's School of Information pointing up the massive holes in privacy policies and protections of which US companies take advantage.
+The researchers have released a study and launched a Web site, knowprivacy.org, in which they found that Web bugs from Google and its subsidiaries were placed on 92 of the top 100 Web sites and 88 percent of the approximately 394,000 unique domains examined in the study.
+==========
+This larger data set was provided by the maintainer of the Firefox plugin Ghostery, which shows users which Web bugs are on the sites they visit.
+The study also found that while the privacy policies of many popular Web sites claim that the sites do not share information with third parties, they do allow third parties to place Web bugs on their sites (which collect this information directly, typically without users' knowledge) and share with corporate 'affiliates.'
+Bank of America, to take one extreme example, has more than 2,300 affiliates — and users cannot learn their identities.
+The full report and more findings are available from their Web site."
+Comments: 126
++ -
+  Your Rights Online: Keeping a PC Personal At School?
+==========
+on Tuesday June 02, @02:27AM
+Posted by kdawson on Tuesday June 02, @02:27AM
+from the mine-mine-mine dept.
+Berto Kraus writes "As one of the most tech-oriented students in my art-oriented institution, I'm usually the one with the laptop.
+This causes frequent requests from other students to read mail, check some site, or connect it to the projector to display a file from their Flash drive.
+For the sake of my privacy, the health of my laptop, and my own peace of mind, I'm reluctant.
+But telling my compatriots to go to our building supervisor and ask him for a desktop-on-a-cart, as they should do, is considered rude and unfriendly.
+==========
+Now, I could dual-boot Ubuntu, or carry around a Linux-on-a-stick.
+Or I could embed the computer in my skull.
+==========
+For many reasons, none of these solutions is ideal.
+So I'm asking you, insightful and funny Slashdotters, what would you do to keep your PC personal at school?"
+==========
+Read More...
+privacy education !
+yro askslashdot justsayno yro privacy story
+Comments: 695
++ -
+  News: Court Asked To Strike All MediaSentry Evidence on Monday June 01, @11:33PM
+Posted by kdawson on Monday June 01, @11:33PM
+from the born-tainted dept.
+NewYorkCountryLawyer writes "In Capitol v. Thomas, the RIAA's Minnesota case scheduled for trial on June 15th, the defendant's new attorneys have filed a motion to suppress all of the evidence procured by MediaSentry, on the ground that it was obtained in violation of state and federal criminal statutes.
+The defendant's brief (PDF) accuses MediaSentry of violations of the Minnesota Private Detectives Act, the federal Pen Register and Trap and Trace Devices Act, and the federal Electronic Communications Privacy Act of 1986.
+The motion is scheduled to be argued on June 10th."
+==========
+Read More...
+court mediasentry privacy haha news court story
+Comments: 204
++ -
+  Your Rights Online: Supreme Court Nominee Sotomayor's Cyberlaw Record on Friday May 29, @04:27PM
+Posted by ScuttleMonkey on Friday May 29, @04:27PM
+from the yes-but-does-she-know-what-she-is-talking-about dept.
+Hugh Pickens writes "Thomas O'Toole writes that President Obama's choice for Associate Supreme Court Justice, Sonia Sotomayor, authored several cyberlaw opinions regarding online contracting law, domain names, and computer privacy while on the Second Circuit.
+Judge Sotomayor wrote the court's 2002 opinion in Specht v. Netscape Communications Corp., an important online contracting case.
+In Specht, the Second Circuit declined to enforce contract terms (PDF) that were available behind a hyperlink that could only be seen by scrolling down on a Web page.
+==========
+'We are not persuaded that a reasonably prudent offeree in these circumstances would have known of the existence of license terms,' wrote Sotomayor.
+Judge Sotomayor wrote an opinion in a domain name case, Storey v. Cello Holdings LLC in 2003 that held that an adverse outcome in an administrative proceeding under the Uniform Domain Name Dispute Resolution Policy did not preclude a later-initiated federal suit (PDF) brought under the Anticybersquatting Consumer Protection Act (ACPA).
+==========
+In Leventhal v. Knapek, a privacy case, Judge Sotomayor wrote for the Second Circuit that New York state agency officials and investigators did not violate a state employee's Fourth Amendment rights when they searched the contents of his office computer (PDF) for evidence of unauthorized use of state equipment.
+While none of these cases may mean much as far as what Judge Sotomayor will do as an Associate Supreme Court Justice 'if confirmed, she will be the first justice who has written cyberlaw-related opinions before joining the court,' writes O'Toole."
+==========
+Comments: 384
++ -
+  Your Rights Online: EU Sues Sweden, Demands ISP Data Retention on Thursday May 28, @04:05AM
+Posted by samzenpus on Thursday May 28, @04:05AM
+from the save-it-or-else dept.
+Death Metal writes "The EU passed the Data Retention Directive years ago, a law that demands ISPs and search engines hold onto data long enough to help the cops (but not long enough to cause privacy problems).
+But Sweden never passed it into national law, and the European Commission has now sued the country to make sure a bill appears."
+Comments: 315
++ -
+  IT: Data Breach Exposes RAF Staff To Blackmail on Thursday May 28, @01:02AM
+Posted by samzenpus on Thursday May 28, @01:02AM
+from the skeletons-in-the-closet dept.
+Yehuda writes "Wired reports, 'Yet another breach of sensitive, unencrypted data is making news in the United Kingdom.
+==========
+This time the breach puts Royal Air Force staff at serious risk of being targeted for blackmail by foreign intelligence services or others.
+The breach involves audio recordings with high-ranking air force officers who were being interviewed in-depth for a security clearance.
+In the interviews, the officers disclosed information about extra-marital affairs, drug abuse, visits to prostitutes, medical conditions, criminal convictions and debt histories — information the military needed to determine their security risk.
+The recordings were stored on three unencrypted hard drives that disappeared last year.'"
+==========
+Read More...
+privacy security haha !
+republicans clowns it security story
+Comments: 153
++ -
+  Your Rights Online: In Istanbul, Cameras To Recognize 15,000 Faces/sec.
+==========
+on Sunday May 24, @08:31PM
+Posted by kdawson on Sunday May 24, @08:31PM
+from the for-your-own-good dept.
+An anonymous reader writes "Istanbul's popular (and crowded) Istiklal shopping, cafe, and restaurant street is being outfitted with 64 wirelessly controlled, tamper-proof face-recognition cameras attached to a computer system capable of scanning 15,000 faces per second in a moving crowd for a positive match.
+The link from Samanyolu, badly translated by Google, states that 3 cameras are in place so far and that if trials are successful, this will mark the first time such a system, previously used by Scotland Yard and normally reserved for indoor security use, will be put to use in a public outdoor setting.
+It also notes that each camera controlled by the system is capable of 'locking onto' the faces of known criminals and pickpockets detected in the crowd and 'tracking' their movements for up to 300 meters before the next, closer placed camera takes over."
+Hit the link for more of this reader's background on the growing electronic encroachment on privacy in this city, which will be the European Capital of Culture in 2010, causing him to ask, "Is the historic city of Istanbul turning into the new London?"
+==========
+Comments: 221
++ -
+  Your Rights Online: College Papers Won't Rewrite History For Alumni on Sunday May 24, @05:25AM
+Posted by kdawson on Sunday May 24, @05:25AM
+from the you-broke-it-you-bought-it dept.
+Hugh Pickens writes "The Chronicle of Higher Education reports that as college papers have begun digitizing their back issues, their Web sites have become the latest front in the battle over online identities.
+Youthful activities like underage drinking that once would have disappeared into the recesses of a campus library are now preserved on the public record, and alumni are contacting newspapers with requests for redaction.
+Unlike with Facebook profiles, that other notable source of young-adult embarrassment, the affected parties can't remove or edit questionable content.
+==========
+In 2007, a Cornell University alum sued the Cornell Chronicle over a newly digitized article from 1983 that reported he had been charged with burglary while a student at Cornell.
+The alum found the article after Googling his name and claimed that its new presence online was causing him 'mental anguish' and 'loss of reputation.'
+But a California judge threw out the case after determining the report to be accurate.
+Some student papers, like The University Daily Kansan, have found a middle ground by adding the noindex meta tag so that the documents stay online, but search engines such as Google do not index them. '
+I thought that would be better than kind of like sticking it to [the alum] and saying the paper is always right and we can publish anything on the Web we want,' says the paper's editor."
+==========
+Comments: 221
++ -
+  Your Rights Online: Safari 4's Messy Trail on Saturday May 23, @03:53PM
+Posted by kdawson on Saturday May 23, @03:53PM
+from the if-disk-space-were-infinite-and-free dept.
+Signum Ignitum writes "Safari 4 comes with a slew of cool new features, but extensive data generation combined with poor cleanup make for a data trail that's a privacy nightmare.
+Hidden files with screenshots of your history, files that point back to Web pages you've visited and cleared from your history, and thousands of XML files that track the changes in the pages in your Top Sites can add up to gigabytes of information you didn't know was kept about you."
+==========
+Some of Safari's bloat is kept in quite obscure locations; it takes a fairly knowledgeable user to find it and clean it up.
+You can avoid some of the worst of it by disabling Top Sites.
+Comments: 200
++ -
+  News: Smile!
+==========
+Urine Candid Camera!
+on Saturday May 23, @02:02AM
+Posted by samzenpus on Saturday May 23, @02:02AM
+from the let's-see-what-you-got dept.
+Anon E. Muss writes "Just because you can put a camera somewhere doesn't mean you should.
+==========
+Apparently, the Department of Homeland Security doesn't grasp this concept.
+They've installed video cameras in urinals at Houston's Hobby Airport.
+At least they weren't sneaky about it — they posted a notice saying 'Automatic infrared flush sensors also provide video monitoring for security purposes.'
+(Insert bad joke about bashful bladder syndrome here)."
+==========
+Comments: 370
++ -
+  Your Rights Online: FCC Reserves the Right To Search Your Home, Any Time on Friday May 22, @08:14AM
+Posted by timothy on Friday May 22, @08:14AM
+from the who-are-you-to-disagree dept.
+mikesd81 writes "Wired.com reports that you may not know it, but if you have a wireless router, a cordless phone, remote car-door opener, baby monitor or cellphone in your house, the FCC claims the right to enter your home without a warrant at any time of the day or night in order to inspect it.
+FCC spokesman David Fiske says 'Anything using RF energy — we have the right to inspect it to make sure it is not causing interference.'
+The FCC claims it derives its warrantless search power from the Communications Act of 1934, though the constitutionality of the claim has gone untested in the courts.
+'It is a major stretch beyond case law to assert that authority with respect to a private home, which is at the heart of the Fourth Amendment's protection against unreasonable search and seizure,' says Electronic Frontier Foundation lawyer Lee Tien.
+'When it is a private home and when you are talking about an over-powered Wi-Fi antenna — the idea they could just go in is honestly quite bizarre.'"
+==========
+Read More...
+privacy usa wireless government fsckthat yro privacy story
+Comments: 589
++ -
+  Your Rights Online: Hard Drive With Clinton-Era Data Missing From Nat'l Archives on Wednesday May 20, @06:24PM
+Posted by timothy on Wednesday May 20, @06:24PM
+from the vince-foster's-recipe-collection dept.
+CWmike writes "An external hard drive that's believed to contain nearly 1TB of data from the Clinton Administration is missing from the US National Archives and Recording Administration (NARA).
+The drive includes more than 100,000 Social Security numbers and home addresses of people who visited or worked at the White House.
+==========
+Among those whose information is on the list is one of then-Vice President Al Gore's three daughters.
+The drive also contained details on the security procedures used by the Secret Service at the White House, as well as event logs, social gathering logs, political records and other information from the Clinton administration.
+Rep. Darrell Issa, (R-Calif.)
+==========
+said the Archives was in the process of converting information from the drive to a digital records system when it apparently disappeared.
+The hard drive was apparently removed from a secure storage area to a workplace where at least 100 'badge-holders' had access to it, Issa noted."
+==========
+Read More...
+privacy security storage usa government yro privacy story
+Comments: 180
++ -
+  Technology: Freshman Representative Opposes "TSA Porn" on Wednesday May 20, @11:42AM
+Posted by Soulskill on Wednesday May 20, @11:42AM
+from the things-we-really-really-don't-want-to-see dept.
+An anonymous reader writes "Not content to simply follow the 'anything to protect American lives' mantra, freshman Representative Jason Chaffetz (R-Utah) has introduced a bill to prohibit mandatory full body scans at airports.
+Chaffetz states, 'The images offer a disturbingly accurate view of a person's body underneath clothing ... Americans should not be required to expose their bodies in this manner in order to fly.'
+He goes on to note that the ACLU has expressed support for the bill.
+Maybe we don't need tin-foil sports coats to go with our tin-foil hats.
+==========
+For reference, the Daily Herald has a story featuring images from the millimeter wavelength imager, and we've talked about the scanners before."
+Read More...
+privacy politics slashdotted government republicans tech transportation story
+Comments: 620
++ -
+  Your Rights Online: Unmasking Blog Commenters Not a Huge Threat To Freedom on Wednesday May 20, @11:01AM
+Posted by Soulskill on Wednesday May 20, @11:01AM
+from the hiding-behind-the-internet dept.
+Frequent Slashdot contributor Bennett Haselton writes with his take on a recent court decision about the rights of online commenters.
+==========
+"Although a court has ruled that the police can subpoena the identities of users who posted comments in a newspaper's blog, I think this is not as big of a threat to journalistic integrity as it might seem.
+And in any case when the judge ruled against the privacy rights of 'bloggers,' he didn't actually mean 'bloggers."
+Read on for the rest of Bennett's thoughts.
+==========
+Comments: 105
++ -
+  Your Rights Online: Spy Satellite Photos Used To Fight Drug Smugglers on Tuesday May 19, @05:27PM
+Posted by kdawson on Tuesday May 19, @05:27PM
+from the we-know-what-you-did-over-the-border dept.
+Hugh Pickens writes "The National Geospatial-Intelligence Agency, part of the Department of Defense, is using satellites to track the activities of drug cartels operating along the US-Mexican border.
+The agency is supplying photos to pinpoint Mexican narcotics operations and anticipate smuggling attempts into the United States.
+==========
+During a conference on border security held in Phoenix last week, Scott Zikmanis said his agency already has supplied some data to the El Paso Intelligence Center, a federal clearinghouse for investigating drug cartels.
+Any border-security surveillance will be done over Mexico, not the US says Zikmanis because a federal law, the Posse Comitatus Act, strictly limits US military operations on American soil unless such operations are authorized by Congress.
+==========
+Civil rights attorneys question the use of satellite technology in law enforcement.
+'We are in the midst of a really dangerous time in terms of technology,' said Chris Calabrese, an attorney with the American Civil Liberties Union.
+'The idea that such a powerful tool might be turned on US citizens is really troubling.'"
+Read More...
+privacy space usa possepasse enemyofthestate yro privacy story
+Comments: 381
+==========

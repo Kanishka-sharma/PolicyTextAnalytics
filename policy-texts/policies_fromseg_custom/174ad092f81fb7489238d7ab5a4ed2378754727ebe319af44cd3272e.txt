@@ -1,0 +1,149 @@
+(version 2.0 dated 13 April 2018)
+Services provided by Widespace
+Widespace offers a digital advertising technology platform, Summit (the platform).
+Through the platform, Widespace acts as an intermediary service provider, providing a range of services to media buyers and publishers in relation to their purchases and sales of advertising inventory.
+Widespace also enables the ability for media buyers to integrate and use their first-party data for targeting purposes.
+Further, Widespace acts as an intermediary service provider to third party data providers, reselling their data within the Summit Data Marketplace.
+As a user you may encounter an ad from one of our media buying clients by viewing the content on a website or application owned or operated by one of our publisher clients.
+This document provides information about our digital advertising technology, and describes our policies about data collection and use.
+We aim to be transparent, and to use a language that you as an Internet user can understand.
+If you have any questions, please reach out to info@widespace.com.
+==========
+Widespace’s use of personal data
+The information we collect from our ads is used to offer our users tailored and relevant advertising experiences.
+For you as an individual, it means that Widespace collects and processes data to be able to deliver relevant advertising, to make sure that you don’t get the same ad delivered to you repeatedly and to make sure that the websites you visit don’t show advertising to bots and fraudulent traffics.
+We also collect and process data to evaluate and report on the effect and results of the advertising campaigns that run through our platform.
+Widespace uses data based on thousands of users to create statistical models that predict which ads are most relevant to a user.
+This means that actions such as viewing, clicking, scrolling, swiping or in any other way interacting with ads are anonymously aggregated and used for data modelling purposes.
+How do we collect information, and what information do we collect?
+==========
+Widespace uses cookies, tags, mobile SDKs, and in some cases non-cookie technologies, to collect data associated with particular web browsers or devices.
+Widespace may collect data when you receive an ad delivered by the Widespace platform to a mobile internet site or mobile application.
+You may or may not have the ad inview, interact or click on it.
+==========
+Widespace may also collect data when you visit a mobile internet site or mobile application on which Widespace has integrated a so called conversion tag (a tag designed to measure a specific user behaviour on a site or in an app, for example finalizing a buying process).
+Widespace may also process data that our clients receive from other sources and then use in the platform, or data that third party data providers resell in the platform.
+Further, Widespace acts as an intermediary service provider to third party data providers, reselling their data within the Data Marketplace in the platform.
+The data collected and processed by Widespace may include information about your browser and device, such as:
+– The type of browser and its settings (eg.
+language settings)
+– Information about the device’s operating system and type of device
+– Cookie information (for more information on cookies and conversion tags, see our Cookie Policy
+– Information about other pseudonymous identifiers assigned with the device, such as Apple’s Identifier for Advertisers (IDFA) and Google’s Advertising ID for Android devices (AAID)
+– The IP address from which the device accesses a client’s website or app
+– Wifi BSSID, the MAC address of the wireless access point (WAP)
+– In connection with receiving requests to show ads to a device or requests initiated by clients to track activity or place users into interest-based segments, information about the user’s activity on that device, including web pages and apps visited or used and the time those web pages and apps were visited or used
+– Information about the geographic location of the device when it accesses an app
+– Cell information from the cellular network (for Android app only)
+– Type of connection (i.e. wifi or cellular)
+Location data, IP address, cookie ID and advertising identifiers are considered personal data when combined with certain types of information.
+==========
+The type of data that Widespace collects from you is referred to as “pseudonymized data”.
+Pseudonymization is the separation of data from direct identifiers so that linkage to an identity is not possible without additional information that is held separately.
+“Unique identifiers” are also included within the scope of personal data when combined with certain types of information.
+This unique identifier is a sequence of numbers or numbers and letters used as a kind of label that indicates to systems that the data in question relates to the same device or browser.
+==========
+It is used to identify the data without the need to refer to a name, address, or other information that could be connected to a user in the real world.
+Widespace assigns a unique identifier to every device or browser that passes through the Platform.
+While Widespace cannot identify which individual (or individuals) are using the device or browser in the real world, this unique identifier, combined with the other information we collect or our clients or other ad tech companies attribute to that unique identifier (e.g., cookie IDs, mobile device IDs, IP addresses, latitude and longitude coordinates) could be connected to a user in the real world.
+==========
+Note that Widespace does not collect or process data that by itself identifies an individual, such as name, address, phone number, email address, or social security identifier.
+Further, Widespace never collects or processes sensitive data points such as religious beliefs, biometric data, sexual orientation or data concerning health.
+How is the data stored and how long is it kept?
+Widespace uses industry security standards to protect data on the platform.
+We will retain the data for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required by law.
+==========
+Data sharing with third parties
+Widespace may share anonymous data in various ways.
+Primarily this happens when data is passed along to advertising exchanges, SSPs, DSPs or other similar advertising platforms for buying and optimizing ads.
+For example, Widespace may synchronize anonymous identifiers with other ad platforms, customers, websites and services, so that the anonymous data we have collected can be used on third party websites and systems to show more relevant advertising to you as an end user.
+==========
+The data that we collect or receive may be processed on our behalf by third-party service providers or sub-processors.
+We also use sub-processors to help us provide infrastructure services, like customer support functions and messaging services.
+Prior to engaging any third party sub-processor, Widespace performs due diligence to evaluate their privacy, security and confidentiality practices, and executes an agreement around data privacy and security.
+A full list of Widespace’s third party service providers can be found here.
+==========
+Widespace may provide, or enable others to collect, information for purposes of protecting the safety and security of the online ecosystem, including to detect and prevent malicious activity and fraudulent traffic.
+Widespace may also provide, or enable others to collect, information for purposes of tracking and reporting campaign results of advertising campaigns.
+Cookie Policy
+This policy describes the purposes for which Widespace uses cookies.
+These cookies enable our clients to target ads, store ad delivery and reporting data, and evaluate the result of the advertising.
+We also use cookies in order to remember users’ opt-out choices.
+Widespace also uses some non-cookie technologies, alternative methods that perform functions similar to cookies, for the purposes described above.
+Non-cookie technologies are used by for example Apple’s iOS and Google’s Play Services for Android, in the form of unique IDs that are used for advertising.
+==========
+Cookie opt-out
+- Profiling cookie enabled.
+Click here to disable them
+You can opt-out from having profiling cookies stored on your phone when ads are delivered from Widespace.
+To opt-out, click on the button above from a mobile device.
+From the 25th of May 2018, you should also be able to opt-in and opt-out from Widespace profiling cookies on any of the publishers that we work with and that show advertising delivered by the Widespace platform.
+==========
+Please note that in order for us to remember that you do not want us to set profiling cookies on your device, we need to set a technical cookie.
+Please consider that, if removing all the cookies from the browser, this technical cookie might also be removed and, therefore, you would have to express again your choice to block such cookies using the interactive button included in this policy.
+The opt-out only applies to the browser profile in which you set it.
+==========
+For example, if you set the opt out while using Firefox, but then use Chrome, the opt out will not be active in Chrome.
+To opt out in Chrome, you will need to repeat the opt out process.
+This is because the cookies cannot be read between different browsers or browser profiles.
+==========
+The opt-out does not prevent the use of cookies or other technologies for purposes other than selecting ads based on your interests as inferred by your online behavior.
+If you opt out, data may still be collected about your web browsing activities and you may still see advertising.
+Ads may be selected, for example, based on the content of the web page in which they are shown.
+If you wish to block or delete cookies altogether, you can use web browser settings to do so.
+==========
+Explorer: https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies
+Chrome: https://support.google.com/chrome/answer/95647?hl=en
+Firefox: https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+Safari: https://support.apple.com/en-gb/HT201265
+Opera: http://help.opera.com/Windows/10.00/en/cookies.html
+Apple’s iOS and Google’s Play Services for Android use alternative methods that perform functions similar to cookies, in the form of unique IDs that are used for advertising.
+They provide mechanisms that allow users to opt out of the use of information about their usage of mobile apps to deliver targeted ads to their mobile device.
+For more information, or to opt-out from these mechanisms, consult your device settings.
+On iOS, you can for example opt-out from ads targeted based on location by going to “Settings – Privacy – Location Services – System Services”.
+You can opt-out from targeted advertising by going to “Settings – Privacy – Advertising – Reset Advertising Identifier” or “Settings – Privacy – Limit Ad Tracking”.
+On Android, open the Google Settings app, select Ads then “Reset Advertising ID” and choose “Opt out of interest-based ads”.
+==========
+What cookies are and what they are used for
+Cookies are small text files that the websites visited by a user send directly to its terminal (usually, to the browser), where they are memorised to be transmitted to the same websites at the following visit of the same by the same user (so called proprium first party cookies).
+During the web surfing of a website, a user may receive on its terminal also cookies of other websites or of other web servers (so called third parties cookies); this happens because there may be elements on the visited website, such as images, maps, sounds, links to specific web pages of other domains that are on servers other than the server on which the requested page is placed.
+In other words, such cookies are set up on a website other than the one that you visit.
+The cookies may have a duration limited to a single session of navigation on the browser (the so called session cookies), and, in such event, they deactivate automatically once the browser is closed by the user; or may have a predetermined duration and, in such event, they will remain memorised and active on your hard disk until the expiry date, thus continuing collecting information during different sessions of navigation on the browser (the so called permanent cookies).
+==========
+Cookies are used for several purposes.
+Certain cookies are necessary in order to allow you to surf websites and to benefit from their functionalities (the so called technical cookies).
+Other cookies are used in order to obtain statistical information, whether in aggregate or not, about the number of users accessing the websites and how the websites are used (the so called monitoring cookies or analytics).
+Other cookies are used in order to track your consumer profile to be able to offer you tailored and relevant advertising experiences (so called profiling cookies).
+Profiling cookies
+Profiling cookies are used in order to track your consumer profile and to be able to offer you a tailored and relevant advertising experiences.
+Your prior consent is requested in order to install profiling cookies, as provided pursuant to the current privacy law.
+For such a reason, when you access a website you should be offered clear and concise information regarding cookies and what providers that website works with, and from 25th of May 2018 you should also be asked to opt-in to the use of cookies.
+It will no longer be enough for websites to provide a banner informing you that (i) profiling cookies are used and that (ii) closing the banner, surfing on the home page or clicking whatever element on the home page outside the banner is considered an opt-in.
+==========
+For further information on how the website is handling cookies, please read their cookie policy.
+Our profiling cookies are installed directly by Widespace.
+Such cookies are lasting ones and have a maximum duration of 12 months.
+The first part profiling cookies used are specified in the following table:
+Category Name cookie Domain/Party Typology Lifetime Description
+Profiling gwsi widespace.com Persistent 1y Anonymous “wsi” ID for the end-user (UUID format)
+Profiling wsLcuid publisher domain Persistent 1y Anonymous “lcuid” ID for the end-user (numerical format)
+Profiling wsLocal publisher domain Persistent 1y Anonymous “lcuid” ID for the end-user (numerical format)
+Other information
+When Widespace collects or processes end user data, including personal data, we act as controller of such data.
+We will process your data with electronic instruments only, in an automatized manner and without any human intermediation.
+Therefore, our employees and coworkers will never access the content of your personal data obtained by means of cookies or other similar non-cookie technology.
+Our Privacy Notice may change from time to time.
+The latest version will always be available at widespace.com and upon request.
+==========
+Widespace works with several partners around data, tracking and programmatic services.
+Link to our Data Partners’ privacy notices:
+Adsquare: http://www.adsquare.com/privacy/
+Audience Project.
+https://privacy.audienceproject.com/en-GB/for-users/privacy-policy/
+Audiens: http://www.audiens.com/privacy
+Datatrics: https://www.datatrics.com/privacy/
+Nielsen: http://www.nielsen.com/eu/en/privacy-policy.html
+Nordic Data Resources: http://nordicdataresources.com/privacy-policy/
+Nugg.ad: https://nugg.ad/en/privacy/general-information.html
+Zeotap: https://zeotap.com/privacy_policy
+==========

@@ -1,0 +1,240 @@
+The Wayback Machine - https://web.archive.org/web/20181101110809/https://sketchfab.com/privacy
+
+        {"unauthorizedReferrers": ["facebook.com\\/.
+*?
+==========
+\\/?
+dialog\\/oauth.
+*?"
+==========
+, "facebook\\.
+com\\/login$", "facebook\\.
+com\\/l.php$"], "googleAnalytics": {"uid": "UA-22680456-3"}, "googleTagManager": {"uid": "GTM-PD58G7"}, "mixpanel": {"token": "19e13788a6453a55d8a020934e944286"}}
+    
+
+
+
+
+
+
+Home
+
+
+Explore
+
+
+Buy 3D models
+
+
+For business
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+
+Introduction
+
+
+What Information Do We Collect?
+How Do We Use the Information We Collect?
+What Information Do We Disclose to Third Parties?
+Privacy Settings/Opt Out
+
+
+General
+
+
+
+
+Introduction
+
+            This Privacy Policy ("Policy") is designed to inform users of the Sketchfab service, including all associated software, and websites (collectively, the "Services") about how Sketchfab, Inc. ("Sketchfab," "we" or "us") gathers and uses personal information we collect in connection with the Services.
+==========
+We will take reasonable steps to protect user privacy consistent with the guidelines set forth in this Policy and with applicable U.S. laws.
+In this Policy, "user" or "you" means any person using or otherwise benefiting from the Services or otherwise submitting personal information to us via the Services.
+BY ACCESSING OR USING THE SERVICES, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THIS PRIVACY POLICY.
+IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICES.
+This Privacy Policy is incorporated by reference into the Sketchfab Terms of Use ("Terms of Use"), available at https://sketchfab.com/terms, to which you agree to be bound by using the Services.
+==========
+What Information Do We Collect?
+Limited Personal Information: We collect the following personal information in connection with the Services: (a) if you register as a Sketchfab user, we will collect the personal information you submit to us to build your user profile, including but not limited to your name and email address, location, and personal website; (b) if applicable, we may collect payment information from such as your name and credit card information; and (c) if you communicate with us by email, we will collect your email address.
+All of this information is referred to in this Policy as "Personal Information."
+Apart from the limited personal information described above, we do not collect and do not wish to receive any personally identifying information.
+Without limitation, you shall not submit to us any social security number, financial account number, credit or debit card number (other than payment information provided for the Service), passport or driver's license number or government ID number.
+==========
+User Data: The Services allows users to upload and submit 3D models, images, and related content, along with comments and other information.
+All data uploaded by users at the direction of users is referred to in this Policy as "User Data."
+==========
+Tracking Information: We, along with our third-party service providers, may use web tracking technologies such as cookies and web beacons in order to operate the Services efficiently and to collect data related to usage of the Services.
+Such collected data ("Tracking Information") may include the address of the websites you visited before and after you visited the Service, the type of browser you are using, your Internet Protocol (IP) address, what pages in the Services you visit and what links you clicked on, user preferences, and whether you opened email communications we send to you.
+How Do We Use the Information We Collect?
+Personal Information: Your Personal Information may be supplemented with additional information regarding your activities on the Services; to the extent that such information is linked specifically to you, we will treat that additional information as your Personal Information.
+==========
+We may use your email address to send you informational materials regarding the Services, or marketing materials regarding Sketchfab's other products and services.
+We may also use Personal Information for the internal operational, product development, and administrative purposes of the Services.
+==========
+User Data: We collect and temporarily store User Data in order to provide the Services to you, and it may be used for the purposes of developing, distributing, providing, improving, marketing, and promoting the Services.
+Web Tracking Information: We use Web Tracking Information to administer the Services and to understand how well our Services are working, to store your user preferences, and to develop statistical information on usage of the Services.
+This helps us improve our Services, personalize your user experience, and to measure overall effectiveness.
+We do not correlate Web Tracking Information to individual user Personal Information, except for internal operational, product development, and administrative purposes of the Services.
+==========
+Some Web Tracking Information may include data, such as IP address data, that is unique to you.
+You may be able to modify your browser settings to alter which web tracking technologies are permitted when you use the Service, but this may affect the performance of the Services.
+==========
+Aggregate Information: We will also create statistical, aggregated data relating to our users and the Services for analytical purposes ("Aggregate Information").
+Aggregate Information is derived from Personal Information and User Data but in its aggregated form it does not duplicate or reveal any User Data or relate to or identify any individual.
+This data may be used to understand our customer base and to develop, improve and market the Services and Sketchfab's other products or services.
+==========
+What Information Do We Disclose to Third Parties?
+Personal Information and User Data: We will not disclose your Personal Information or User Data to any third parties except as follows:
+        
+
+
+                to third party contractors engaged to provide services on our behalf ("Contractors"), such as performing marketing, analyzing data and usage of the Services, hosting and operating the Services or providing support and maintenance services for the Services, or providing customer service.
+We enter into agreements with all Contractors that require Contractors to use the Personal Information they receive only to perform services for us.
+when we have your consent to share the information.
+==========
+Web Tracking Information: We disclose Web Tracking Information to Contractors, in order to analyze the performance of the Services and the behavior of users, and to operate and improve the Service.
+Aggregate Information: We may disclose aggregated data that does not contain Personal Information or User Data to any third parties, such as media outlets, potential customers, business partners, and funding sources, in order to describe our business and operations or for any other purpose.
+==========
+Network Operators: Use of the Services may involve use of the services of third party telecommunications carriers.
+These carriers are not our contractors, and any information that a carrier collects in connection with your use of the Services is not "Personal Information" and is not subject to this Privacy Policy.
+We are not responsible for the acts or omissions of telecommunications carriers.
+==========
+Email Communications: If you register and provide your email address, we will send you administrative and promotional emails.
+If you wish to opt out of promotional emails, you may do so by following the "unsubscribe" instructions in the email, or by editing your account settings.
+All users receive administrative emails, and so you cannot opt out of them while you remain registered.
+==========
+Legal Exception: Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect our rights or property.
+However, nothing in this Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information.
+==========
+Business Transfers: In the event that Sketchfab is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction.
+This Policy will apply to your information as transferred to the new entity.
+==========
+Privacy Settings/Opt Out
+
+            If you wish to modify any of your user profile information, remove your email from our promotional mailing list, or cancel your account, you may update the settings in your user profile or contact our support team.
+Your removal from our mailing list or database will not remove User Data you have submitted to us or records of past use of the Services, nor delete information stored in our data backups and archives.
+User Data, including User Data submitted, data on past queries and data stored in backups and archives will be maintained and/or deleted in the ordinary course of our business.
+Sketchfab does not provide copies of User Data to its customers.
+==========
+General
+
+Security: We use reasonable security precautions to protect the security and integrity of your Personal Information in accordance with this policy and applicable law.
+However, no Internet transmission is completely secure, and we cannot guarantee that security breaches will not occur.
+Without limitation of the foregoing, we are not responsible for the actions of hackers and other unauthorized third parties that breach our reasonable security procedures.
+==========
+Links: The Services may contain links to other websites and services, including payment services.
+We are not responsible for the privacy practices or the content of those websites, and you should review the privacy statements of each third party website you visit.
+This Policy applies solely to information collected by the Services.
+==========
+Amendments: We may revise this Policy from time to time.
+The most current version of the Policy will govern our use of your information and will always be located at sketchfab.com/policy.
+==========
+If we make a change to this Policy that, in our sole discretion, is material, we will notify you via the Services or via email to the email address associated with your account.
+By continuing to access or use the Service after those changes become effective, you agree to be bound by the revised Policy.
+==========
+Children: We do not knowingly collect or retain personally identifiable information about persons under 13 years of age.
+Any person who provides their personal information to us via the Service represents that they are 13 years of age or older.
+We encourage parents and legal guardians to monitor the activity of those under 13 years of age.
+If you have reason to believe that a child under the age of 13 has provided personally identifiable data to us, please contact us, and we will make every effort to delete that information from our databases.
+==========
+Compliance with French Laws:
+
+
+            Sketchfab complies with the current version of the French law N° 78-17 dated January 6, 1978 on Computer Processing, Filing Systems and Liberties with respect to our collection and use of Personal Information.
+Sketchfab has declared its processing of Users' Personal Data to the CNIL under Number 1613953.
+Sketchfab users have the right to obtain and, where appropriate, correct or delete their Personal Information by contacting Sketchfab.
+To the extent required by applicable law, users may, for legitimate reasons, request that Sketchfab cease use of Personal Information.
+Service Territory: Sketchfab, Inc. is located in the United States and is subject to the applicable state and federal laws.
+If you choose to access or use the Services, you consent to the use and disclosure of information in accordance with this Policy and subject to such laws.
+Effective Date of this policy: January 22nd 2016.
+{"/i/categories":{"results": [{"name": "Animals & Pets", "uid": "ed9e048550b2478eb1ab2faaba192832", "slug": "animals-pets"}, {"name": "Architecture", "uid": "f825c721edb541dbbc8cd210123616c7", "slug": "architecture"}, {"name": "Art & Abstract", "uid": "e56c5de1e9344241909de76c5886f551", "slug": "art-abstract"}, {"name": "Cars & vehicles", "uid": "22a2f677efad4d7bbca5ad45f9b5868e", "slug": "cars-vehicles"}, {"name": "Characters & Creatures", "uid": "2d643ff5ed03405b9c34ecdffff9d8d8", "slug": "characters-creatures"}, {"name": "Cultural Heritage & History", "uid": "86f23935367b4a1f9647c8a20e03d716", "slug": "cultural-heritage-history"}, {"name": "Electronics & Gadgets", "uid": "d7cebaeca8604ebab1480e413404b679", "slug": "electronics-gadgets"}, {"name": "Fashion & Style", "uid": "81bfbbfa2c9b4f218eed8609e3cf7aa6", "slug": "fashion-style"}, {"name": "Food & Drink", "uid": "b3631aefd82b4eeba37aa5fc0b73b05a", "slug": "food-drink"}, {"name": "Furniture & Home", "uid": "606f202e5a3c4e62bf9aab1cd9f63e1b", "slug": "furniture-home"}, {"name": "Music", "uid": "357487fbb30a44ee8a0adf9b24829919", "slug": "music"}, {"name": "Nature & Plants", "uid": "1a99e2b67fc84de0b3ea0d3925208a04", "slug": "nature-plants"}, {"name": "News & Politics", "uid": "34edc263260f43e693ed527495b6d9a4", "slug": "news-politics"}, {"name": "People", "uid": "93e6d27da62149c6b963039835f45997", "slug": "people"}, {"name": "Places & Travel", "uid": "c51b29706d4e4e93a82e5eea7cbe6f91", "slug": "places-travel"}, {"name": "Science & Technology", "uid": "17d20ca7b35243d4a45171838b50704c", "slug": "science-technology"}, {"name": "Sports & Fitness", "uid": "ac8a0065d9e34fca8a3ffa9c6db39bff", "slug": "sports-fitness"}, {"name": "Weapons & Military", "uid": "3badf36bd9f549bdba295334d75e04d3", "slug": "weapons-military"}], "count": 18},"/i/users/me":{"features": ["newsfeed_v2", "clear_coat"], "isAnonymous": true, "allowsRestricted": false}}
+    
+
+        https://static.sketchfab.com/static/builds/web/dist/
+    
+
+        {"version": "3.43.2", "paypal": {"subscrUrl": "https://www.paypal.com/cgi-bin/webscr", "clientId": "AftiRr46AHDq3zcm1Sp8t9ZXbIOXrsq_9Z1ueU_18QAWn9PUrUQ2O-MkYl0RviauC5cVoNTGPfqq5vQ9", "environment": "production"}, "getstream": {"apiKey": "q7jc6dskhpfg", "location:": "dublin", "appId": "24012"}, "facebookAppId": "1418631828415333", "buildMode": "dist", "publicPath": "https://static.sketchfab.com/static/builds/web/dist/", "sentryDSN": "https://ba5fe81e595a4e73a5e37be93623537d@sentry.io/132069", "useSentry": true, "forum": {"baseUrl": "https://forum.sketchfab.com"}}
+    
+
+        {  "0": "0-b346538406057ca64701.
+==========
+js",  "1": "1-7e0f922ab0cd2876de20.
+js",  "2": "2-2862891170d6a5d4a9e3.
+js",  "3": "3-379db4d5b0e6ac5f75eb.
+js",  "4": "4-4880d240bd4f09fea8a6.
+js",  "5": "5-0845aa4f702fb7cb945b.
+js",  "6": "6-f09871a407ca62ade229.
+js",  "7": "7-485d6630c12dfb8b5f9c.
+js",  "8": "8-a2a16296e02f5dbacaad.
+js",  "9": "9-ef538502ebad10854971.
+js",  "10": "10-c6d9c31e8775400b912f.
+js",  "11": "11-755de9dc964c674d81a5.
+js",  "12": "12-ecc1cf2b0acacfab50c6.
+js",  "13": "13-536808cb1c94c60b6539.
+js",  "14": "14-54d325a89577b03cf5b3.
+js",  "15": "15-c31c2aa9a70e0f3a6535.
+js",  "16": "16-fc2b08b50daa1ed94151.
+js",  "17": "17-2c4cf7903c0c7a5d0f7f.
+js",  "18": "18-c2a3bc175730df5dcf9f.
+js",  "19": "19-64ca7d3722eb4cdbaa8f.
+js",  "20": "20-94b8ebe30744b26b612c.
+js",  "21": "21-b488e243629fef11acc4.
+js",  "22": "22-a69f24cd74295676a3d1.
+js",  "23": "23-2502b27f0ba16d1718c5.
+js",  "24": "24-0099629c43b5f000fc55.
+js",  "25": "25-6caaf7937d702fa943bf.
+js",  "26": "26-f531e3ae11a2d1f0b47d.
+js",  "27": "27-afc93747d29b202e5fd3.
+js",  "28": "28-2b31df2f99987bf456b6.
+js",  "29": "29-2e448f32dec890b9f8cd.
+js",  "30": "30-915403a103ccc3c27002.
+js",  "31": "31-8e2717bc28c639e66488.
+js",  "32": "32-0962b21e109f0c627a73.
+js",  "33": "33-cc95b34e2837caf66aff.
+js",  "34": "34-5bd5734133f41d4af2d7.
+js",  "35": "35-1424b1d3d536acfd75c2.
+js",  "57": "57-e65b3415be446d8920fe.
+js",  "58": "58-cc5fab9f5dba52a2f82c.
+js",  "100k.
+js": "100k-3ee9a5d482ada396fbbd.
+js",  "auth.js": "auth-019b9b770f9542ed7510.
+js",  "backendTemplates.js": "backendTemplates-4ab6d35f3fd311505f8c.
+js",  "categories.js": "categories-609f0632d9134ab552c4.
+js",  "commons.js": "commons-88dddf0d6cc7527c041b.
+js",  "editor.js": "editor-271ffd3bce0780635d84.
+js",  "embed.js": "embed-e0777baaf8093188aecc.
+js",  "explore.js": "explore-9942f09cc97df5276e81.
+js",  "fallbackGenerator.js": "fallbackGenerator-40138f7f8e247709d14b.
+js",  "generatorViewers.js": "generatorViewers-c07a7e522f4c2c0c1922.
+js",  "home.js": "home-83ff7b8aeadf8f74ed38.
+js",  "model.js": "model-c1bcfec6f7f2c235cdf8.
+js",  "newsfeed.js": "newsfeed-aeb7eff769deea321424.
+js",  "oauth2.js": "oauth2-700b9494fece5a7245e5.
+js",  "onboarding.js": "onboarding-9c4729cc057de44c432f.
+js",  "playground.js": "playground-14bccb2f49f8df1a51d8.
+js",  "playlists.js": "playlists-8cce2920059c1fefaead.
+js",  "profile.js": "profile-3306ade0dfebb9716bab.
+js",  "search.js": "search-9c3e655305892a080304.
+js",  "settings.js": "settings-4b15c6fe73a297110bfc.
+js",  "standaloneViewer.js": "standaloneViewer-bee91f5cde26fd985f5d.
+js",  "static.js": "static-0229eff46a65e42edddb.
+js",  "staticAssets.js": "staticAssets-ba9b517f9960144b3143.
+js",  "store.js": "store-8f72cdf966c5492abf0c.
+js",  "tags.js": "tags-7fd2c1f3ed2289c8d231.
+js",  "upgrade.js": "upgrade-a799009f54f76b13f606.
+js",  "viewer.js": "viewer-87a229d45bbd0d933509.
+js",  "vr.js": "vr-76a3c4cef60dc2e271c8.
+js",  "website": "website-commons-9258463bd6c92a530840.
+js",  "website.js": "website-866bcbfcc5cc040cc5b6.
+js"}
+==========

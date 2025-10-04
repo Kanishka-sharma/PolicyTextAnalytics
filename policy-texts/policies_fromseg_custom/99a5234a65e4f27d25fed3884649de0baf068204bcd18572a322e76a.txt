@@ -1,0 +1,23 @@
+Adobe offers "hosted services" to many companies.
+This means that data is gathered and stored on our computers for use by other companies.
+(Note that some of our hosted services are also offered to individuals, so please keep in mind that when we say "company" in this section, it may mean "company or individual.")
+==========
+When we host services that collect data, the data is used by the company using the Adobe hosted service but not by Adobe, except when we aggregate the data, as described at the end of this section.
+In some cases, Adobe's involvement will be obvious, while at other times, it won't.
+In either case, the data is collected on behalf of another company and not for Adobe.
+An example where our involvement is obvious is when Adobe hosts an online survey on behalf of another company.
+==========
+Our logo may appear on the survey website.
+However, the information collected, such as your answers or whether you have viewed or responded to the survey, is used by the other company — not Adobe.
+Please see that company's privacy policy for more information.
+==========
+An example where our involvement may not be obvious is when companies use our analytics and on-site personalization services and our advertising services.
+These services collect information about how the company's website is used and send that information to Adobe's computers.
+The company can then access this data on Adobe's computers to learn how its visitors are using the company's website and how the company can provide more relevant content or advertising.
+We encourage you to read the privacy policies of companies whose websites you use, because Adobe's privacy policy does not apply in these situations.
+==========
+In both of these examples and generally with all Adobe hosted services, the other company controls what data is collected and how it is used — Adobe does not.
+Note that sometimes Adobe may access and share "aggregated" information collected by Adobe hosted services in order to provide statistical information or market research.
+Aggregated information is anonymous and does not identify individuals.
+For example, we may publish reports that show which browsers or operating systems are used to access websites of companies that use our hosted services.
+==========

@@ -1,0 +1,501 @@
+Effective as of January 25, 2019, Zendesk, Inc., (“Zendesk”) and its subsidiaries, (collectively, the “Zendesk Group” or “we” or “us” or “our”) have updated our Cookie Policy.
+For a prior version of our Cookie Policy, click here.
+1.
+==========
+Intro
+
+This Cookie Policy (“Policy”) explains that we believe in being open and clear about how we use your information.
+In the spirit of transparency, this Policy provides detailed information about how and when we use cookies on our Websites.
+For the purposes of this Policy, the term, “Websites”, shall refer collectively to www.zendesk.com as well as the other websites that the Zendesk Group operates and that link to this Policy.
+2.
+Does Zendesk use Cookies?
+==========
+Yes.
+The Zendesk Group and our marketing partners, affiliates, and analytics or service providers use cookies and other technologies to ensure everyone who uses the Websites has the best possible experience.
+3.
+==========
+What is a Cookie?
+A cookie is a small text file that is placed on your hard drive by a web page server.
+Cookies contain information that can later be read by a web server in the domain that issued the cookie to you.
+Some of the cookies will only be used if you use certain features or select certain preferences, and some cookies will always be used.
+==========
+You can find out more about each cookie by viewing our current cookie list below.
+We update this list quarterly, so there may be additional cookies that are not yet listed.
+Web beacons, tags and scripts may be used in the Websites or in emails to help us to deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.
+We may receive reports based on the use of these technologies by our service/analytics providers on an individual and aggregated basis.
+4.
+==========
+Why does Zendesk use Cookies?
+When you visit our Websites, we may place a number of cookies in your browser.
+These are know as First Party Cookies and are required to enable to hold session information as you navigate from page to page within the website.
+For example, we use cookies on our Websites to understand visitor and user preferences, improve their experience, and track and analyze usage, navigational and other statistical information.
+You can control the use of cookies at the individual browser level.
+If you elect not to activate the cookie or to later disable cookies, you may still visit our Websites, but your ability to use some features or areas of the Websites may be limited.
+5.
+How to disable Cookies
+
+You can generally activate or later deactivate the use of cookies through a functionality built into your web browser.
+==========
+To learn more about how to control cookie settings through your browser:
+Click here to learn more about the “Private Browsing” setting and managing cookie settings in Firefox;
+Click here to learn more about “Incognito” and managing cookie settings in Chrome;
+a href=”http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies”>Click here to learn more about “InPrivate” and managing cookie settings in Internet Explorer; or
+Click here to learn more about “Private Browsing” and managing cookie settings in Safari.
+If you want to learn more about cookies, or how to control, disable or delete them, please visit http://www.aboutcookies.org for detailed guidance.
+In addition, certain third party advertising networks, including Google, permit users to opt out of or customize preferences associated with your internet browsing.
+To learn more about this feature from Google, click here.
+==========
+Many jurisdictions require or recommend that website operators inform users/visitors as to the nature of cookies they utilize and, in certain circumstances, obtain the consent of their users to the placement of certain cookies.
+The Websites include third party social media features, such as the Facebook Like button, and third party widgets, such as the ‘Share This’ button or interactive mini-programs that run on the Websites.
+These features may collect your IP address, which page you are visiting on the Websites, and set a cookie to enable the feature to function properly.
+Your interaction with these features is governed by the privacy policy of the third party company providing it.
+We may use any of the following categories of cookies on the Websites as detailed below.
+Each cookie falls within one of the four following categories:
+
+
+Category
+Description
+
+
+
+1.
+==========
+Essential Cookies
+
+
+Essential cookies (First Party Cookies) are sometimes called “strictly necessary” as without them we cannot provide many services that you need on the Website.
+For example, essential cookies help remember your preferences as you move around the Website.
+2.
+==========
+Analytics Cookies
+
+
+These cookies track information about visits to the Websites so that we can make improvements and report our performance.
+For example: analyze visitor and user behavior so as to provide more relevant content or suggest certain activities.
+They collect information about how visitors use the Websites, which site the user came from, the number of each user’s visits and how long a user stays on the Websites.
+We might also use analytics cookies to test new ads, pages, or features to see how users react to them.
+3.
+==========
+Functionality or Preference Cookies
+
+
+During your visit to the Websites, cookies are used to remember information you have entered or choices you make (such as your username, language or your region) on the Websites.
+They also store your preferences when personalizing the Websites to optimize your use of Zendesk, for example, your preferred language.
+These preferences are remembered, through the use of the persistent cookies, and the next time you visit the Websites you will not have to set them again.
+4.
+Targeting or Advertising Cookies
+
+
+These Third Party Cookies are placed by third party advertising platforms or networks in order to, deliver ads and track ad performance, enable advertising networks to deliver ads that may be relevant to you based upon your activities (this is sometimes called “behavioral” “tracking” or “targeted” advertising) on the Websites.
+==========
+They may subsequently use information about your visit to target you with advertising that you may be interested in, on the Websites and other websites.
+For example, these cookies remember which browsers have visited the Websites.
+List of Cookies used on the Websites:
+
+
+Website Name(s)
+Cookie Name
+Cookie Purpose
+Cookie Duration
+Category
+
+
+All Websites
+Google Analytics
+This web analytics cookie collects information about how visitors use the Websites, which website the user came from, the number of each user’s visits and how long a user stays on the Websites
+2 years
+Analytics
+
+
+www.bimeanalytics.com
+Google Analytics
+Session Google Analytics
+10 minutes
+Analytics
+
+
+www.bimeanalytics.com
+Heap Analytics
+Event tracking to monitor behavior
+2 years
+Analytics
+
+
+www.bimeanalytics.com
+Heap Analytics
+Session Heap Analytics
+30 min
+Analytics
+
+
+www.bimeanalytics.com
+Vimeo
+Vimeo video player
+2 years
+Functionality/Preference
+
+
+www.bimeanalytics.com
+Google
+Google Account – SSO
+6 months
+Functionality/Preference
+
+
+www.bimeanalytics.com
+Capterra
+Conversion tracking
+30 min
+Targeting/Advertising
+
+
+www.bimeanalytics.com
+Website Language
+Language settings
+30 min
+Functionality/Preference
+
+
+www.bimeanalytics.com
+popupHide
+Determines if a user has accepted or rejected the demo request popup that appears after a certain time on the website
+Session
+Functionality/Preference
+
+
+www.zendesk.com
+Gauge
+High level behavior tracking
+2 years
+Functionality/Preference
+
+
+www.zendesk.com
+Disqus
+Visitor authentication for commenting and user reviews
+2 years
+Essential
+
+
+www.zendesk.com
+Twitter Advertising
+Advertising
+1.5 years
+Essential
+
+
+www.zendesk.com
+Clearbit
+Stores information on user in order to not display so many forms
+Session
+Functionality/Preference
+
+
+www.zendesk.com
+LinkedIn
+Advertising vendor for remarketing
+1 year
+Targeting/Advertising
+
+
+www.zendesk.com
+Marin Software
+Advertising bidding platform
+1 year
+Targeting/Advertising
+
+
+www.zendesk.com
+Facebook
+Advertising Vendor
+180 days
+Targeting/Advertising
+
+
+www.zendesk.com
+Yahoo Japan
+Advertising Vendor
+30 days
+Targeting/Advertising
+
+
+www.zendesk.com
+Naver
+Advertising Vendor
+6 months
+Targeting/Advertising
+
+
+www.zendesk.com
+homeType
+Determines visitor type and stores which web content to display to visitor
+Session
+Functionality/Preference
+
+
+www.zendesk.com
+_zendesk_shared_session
+Holds session information for sharing across Zendesk applications.
+Session
+Essential
+
+
+www.zendesk.com
+_zendesk_nps_session
+Sessions for NPS.
+Session
+Functionality/Preference
+
+
+www.zendesk.com
+_zendesk_session
+Hold session information for root access applications.
+Session
+Essential
+
+
+www.zendesk.com
+_help_center_session
+Sessions for Guide.
+Session
+Essential
+
+
+www.zendesk.com
+_voice_session
+Sessions for Voice.
+Session
+Functionality/Preference
+
+
+www.zendesk.com
+_carson_container_session
+Sessions for Carson.
+==========
+Session
+Targeting/Advertising
+
+
+www.zendesk.com
+_zendesk_remember_me
+Preference for maintaining login sessions
+2 Weeks
+Essential
+
+
+www.zendesk.com
+_zendesk_settings
+Arbitrary, non-PII settings usually for preferences
+1 year
+Functionality/Preference
+
+
+www.zendesk.com
+_zendesk_cookie
+Arbitrary, non-PII settings usually for preferences
+20 years
+Functionality/Preference
+
+
+www.zendesk.com
+LiveIntent
+Capture conversions on a cookie level to help automate campaigns and capture cookie information for zendesk.com visitors.
+30 days
+Targeting/Advertising
+
+
+www.zendesk.com
+Bidtellect
+Capture conversions on a cookie level to help automate campaigns and capture cookie information for zendesk.com visitors.
+30 days
+Targeting/Advertising
+
+
+www.zendesk.com
+AdRoll
+Capture conversions on a cookie level to help automate campaigns and capture cookie information for zendesk.com visitors.
+30 days
+Targeting/Advertising
+
+
+www.zendesk.com
+Quantcast
+Capture conversions on a cookie level to help automize campaigns and capture cookie information for zendesk.com visitors.
+==========
+30 days
+Targeting/Advertising
+
+
+www.zendesk.com
+Adobe
+Capture conversions on a cookie level to help automate campaigns and capture cookie information for zendesk.com visitors.
+30 days
+Targeting/Advertising
+
+
+www.zendesk.com
+Simpli.fi
+Capture conversions on a cookie level to help automate campaigns and capture cookie information for zendesk.com visitors.
+30 days
+Targeting/Advertising
+
+
+www.zendesk.com & www.zopim.com
+Optimizely
+Tracking for A/B testing
+10 years
+Analytics
+
+
+www.zendesk.com & www.zopim.com
+Pendo
+End-User and Agent Usage DataEvent tracking to analyze use of the Service and improve the Services.
+to monitor behaviour
+2 years
+Targeting/Advertising
+
+
+www.zendesk.com & www.zopim.com
+Crazy Egg
+Analytics Tool that gives us heat maps and click data
+5 years
+Analytics
+
+
+www.zendesk.com & www.zopim.com
+Eloqua
+Marketing automation software
+1 year
+Essential
+
+
+www.zendesk.com & www.zopim.com
+Facebook Connect
+Interaction between services
+2 years
+Essential
+
+
+www.zendesk.com & www.zopim.com
+Doubleclick
+Re-targeting, optimization, reporting and attribution of online adverts
+2 years
+Targeting/Advertising
+
+
+www.zendesk.com & www.zopim.com
+AppNexus
+Advertising Vendor for prospecting
+2 years
+Targeting/Advertising
+
+
+www.zendesk.com & www.zopim.com
+Google Adwords Conversion
+Advertising pixel for prospecting and retargeting
+540 days
+Targeting/Advertising
+
+
+www.zendesk.com & www.zopim.com
+LiveRamp
+Tracking of anonymous user characteristics
+180 days
+Targeting/Advertising
+
+
+www.zendesk.com & www.zopim.com
+Bing
+Advertising vendor for search marketing
+2 years
+Targeting/Advertising
+
+
+www.zendesk.com, www.zopim.com & www.bimeanalytics.com
+Google Tag Manager
+Traffic and visitor behavior measurement
+2 years
+Analytics
+
+
+www.zendesk.com.ru
+Yandex Metrica
+Advertising pixel to track conversions
+1 year
+Targeting /Advertising
+
+
+www.zopim.com
+Wistia
+Video Streaming
+10 years
+Essential
+
+
+www.zopim.com
+Google Adwords Conversion
+Advertising pixel to track conversions
+540 days
+Targeting/Advertising
+
+
+www.zopim.com
+LiveRamp
+Tracking of anonymous user characteristics
+180 days
+Targeting/Advertising
+
+
+www.zopim.com
+Google Dynamic Remarketing
+Advertising
+180 days
+Targeting/Advertising
+
+
+www.zopim.com
+Facebook Business
+Used for creating custom audience on Facebook for advertising purpose
+2 years
+Targeting/Advertising
+
+
+www.zopim.com
+Facebook Impression
+Advertising
+2 years
+Targeting/Advertising
+
+
+www.zopim.com & www.bimeanalytics.com
+Cloudflare
+Control over cache of assets
+1 year
+Essential
+
+
+6.
+==========
+Cookies Subject to Change
+The content of this Policy is for your general information and use only.
+These cookies are subject to change without notice.
+You acknowledge that this information may contain inaccuracies or errors and is subject to change and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
+7.
+==========
+Cookies Used in Our Services
+
+In addition to using cookies on our Websites as described above, we also use cookies and other tracking technologies in connection with your access to and use of the products and services which we market for subscription on our Websites (our “Services”).
+How and why we use cookies and other tracking technologies in our Services is further explained in our Master Subscription Agreement found here.
+8.
+==========
+Updating This Policy
+
+If there are any material changes to this Policy, you will be notified by the posting of a prominent notice on our Websites prior to the change becoming effective.
+We encourage you to periodically review this page for the latest information on the Policy.
+Your continued use of the Websites constitutes your agreement to be bound by such changes to this Policy.
+Your only remedy, if you do not accept the terms of this Policy, is to discontinue use of and access to the Websites.
+9.
+English Version Controls
+Non-English translations of this Policy are provided for convenience only.
+In the event of any ambiguity or conflict between translations, the English version is authoritative and controls.
+==========

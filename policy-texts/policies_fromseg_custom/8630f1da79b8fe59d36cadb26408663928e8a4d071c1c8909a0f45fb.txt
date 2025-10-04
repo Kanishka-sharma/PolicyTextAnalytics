@@ -1,0 +1,148 @@
+Version:         1.4
+About digitalAudience
+As a socialAudience company, digitalAudience’s services are focussed on enabling brands and media agencies in finding the most valuable customer segments for their products or services.
+Moreover, the services strive to create more relevant interactions for these businesses and to increase their overall effectiveness with regard to media campaigns.
+==========
+This means digitalAudience is always looking to maximize digital marketing results through connecting its customers to their most valuable audiences, online and offline.
+digitalAudience is able to achieve this for its customers by targeting customers’ first party data and digitalAudience’s third-party audiences; by use of its Insights tool, which is focussed on effectively utilizing data regarding website visitors; and by applying excellent CRM-onboarding aimed at enabling marketeers to match online and offline data of audiences.
+digitalAudience and Privacy
+In order to facilitate these services, we, digitalAudience, will process privacy-sensitive or personal data through these services and our website digitalAudience.io.
+We consider the careful handling of personal data of the utmost importance.
+For this reason, we observe due care in the processing and protection of personal data in the following ways:
+
+We clearly specify our purposes before we process personal data, by using this Privacy Statement;
+We limit our collection of personal data to only the personal data needed for legitimate purposes;
+We first ask for explicit permission to process your personal data in cases where your permission is required;
+We take appropriate security measures to protect your personal data and we demand the same from parties who process personal data on our behalf;
+
+We respect your right to inspect, correct or delete your personal data held by us.
+We are also member of the IAB and have implemented its transparency and consent framework into our practices in order to be able to further comply with GDPR requirements.
+To view a list of our enrolment and that of other parties please have a look here.
+In this privacy and cookie statement, we will explain which personal data we collect and for which purposes.
+==========
+We recommend that you read it carefully.
+This privacy and cookie statement was last amended October 2019.
+==========
+Purposes of processing
+We process your personal data in general for the following purposes:
+
+granting access to the websitea digitalaudience.io;
+making use of the functionalities on the website;
+analyzing statistics and optimizing the website;
+offering specific target groups to advertisers in order to facilitate our services.
+We will not process your personal data for purposes other than those stated above, unless you have given us your consent to do so, it is necessary for the performance of a contract you have with us or we are legally obliged to do so.
+==========
+Categories of personal data
+ The following categories of personal data are processed by ditigalAudience:
+
+Email address
+Telephone number
+IP-address
+Postalcode
+Housenumber
+Advertisement ID (GAID, IDFA)
+Demographic
+Education
+Family composition
+B2B data
+Household
+Automotive data
+
+ 
+How we collect and use Personal Data
+Cookies
+To be able to present you with our website in its best possible form digitalAudience makes use of cookies.
+A cookie is a small text file which may be sent to your computer when visiting websites and then stored by your browser onto your.
+You are also free to disable cookies via your browser.
+Keep in mind that disabling cookies may affect your browsing experience, diminish efficiency in accessing certain parts of the website and erase preferences for future visits to the website.
+When visiting our website, your IP address (your unique identifier on the Internet) will be automatically saved in the log files of our web servers.
+This is necessary to enable us to sufficiently manage and secure the web server.
+Our default retention period for log files is 6 months.
+==========
+Through our website and as part of the Google Analytics, Google Tag Manger and DoubleClick services, cookies of the company Google are placed.
+We use these services, amongst others, to get reports about how visitors use the website, the use of advertisements and the use of Google’s search engine.
+Additionally, we make use of Adobe Creative Cloud to display our website to our visitors in a proper way.
+==========
+If required by law, or where such third parties process the information on Google’s and/or Adobe’s behalf, Google and/or Adobe may transfer this information to third parties.
+We have no influence over the processing of personal data by Google and/or Adobe.
+Please read the privacy statement of Google and the privacy statement of Adobe (which may change periodically) to read what they do with your (personal) data via these cookies.
+How we collect and use Personal Data for our services
+We receive data from our carefully selected publishers, to further extend our services.
+This data may be collected by means of email or through the use of cookies and other online identifiers.
+==========
+digitalAudience may process this data as follows:
+Target groups
+This data will only be used to specify target groups.
+We offer these specified target groups to advertisers so they can reach these specific target groups directly through online media channels.
+==========
+Data will only be shared in aggregated form.
+These third parties commit to digitalAudience to inform their users about how they process personal data and that certain data that will be shared with us, as well as other third parties.
+==========
+Example: You subscribe to a monthly magazine or you sign up for a digital newsletter.
+When you register yourself you provide the publishers in question with information like postal code, profession and personal interests.
+==========
+Having regard to both the DPA and the publishers’ privacy & cookie statements, these publishers share certain collected data with us.
+CRM-onboarding
+Customer data onboarding is the process of linking offline data with online attributes.
+More specifically, the matching of two audience data sets: one, is the hashed first-party CRM data set belonging to a marketer and the other, the hashed digital data set of digitalAudience.
+==========
+The match process uses a common identifier or match key to link the records.
+Safeguarding the privacy of the matched audiences is of the outmost importance to digitalAudience.
+==========
+We have implemented several privacy by design measures in order to process any personal data in line with the GDPR.
+Therefore we make sure that all first-party CRM data is processed in hashed form, which is separately stored in order to prevent identification on an individual level.
+==========
+Personal Data received from other third parties
+ Offline partners
+In addition to receiving your data directly from you or through one of our publishers such as Wij Special Media, Dealconomy, Studentbox and Votecompany, we may also receive your personal data through other third parties.
+For example, we may receive your data via Whooz (www.whooz.nl/privacy-en-voorwaarden).
+Whooz collects personal data and shares this data with digitalAudience in order for us to be able to further specify our target groups and strengthen our audience data sets.
+For any further questions about the personal data that is collected by Whooz please contact compliance@whooz.nl.
+==========
+The following parties offer similar services to digitalAudience: Cardatapool, Matrixian and Spotzi.
+Online partners
+We may receive your data via several websites by placing a ditigalAudience cookie on third party websites.
+When you visit these websites for the first time, a pop-up window will be shown that asks you for your consent to allow digitalAudience to place this cookie.
+By giving your consent you give us permission to use the cookies and plug-ins as described in detail in this privacy and cookie statement.
+You are also free to disable cookies via your browser.
+==========
+Naturally, we take great care of the personal data we receive from third parties in line with our standard practice.
+This for instance means that we make use of privacy by design measures to be able to handle your personal data in line with the GDPR.
+Sharing your Personal Data with third parties
+We will not share or sell your data with third parties without your prior consent to do so, or in case this is necessary for the performance of a contract that you have with us, or if we are obliged to do so by law.
+We do use several DSP, DMP and SSP platforms in order to match our cookies to the cookies of third parties.
+==========
+How long do we keep hold of your data?
+We will only retain your data for as long as necessary to achieve the stated processing purposes in this privacy & cookie statement; or for as long as retention is mandatory under law.
+==========
+Security
+We are committed to handle all of the above mentioned data with care and have therefore implemented technical and organizational measures to protect your personal data against loss or any form of unlawful processing.
+In particular, we have implemented the following measures:
+
+logical access control, by making use of passwords;
+encryption of digital files containing personal data;
+securing network connections via Secure Socket Layer (SSL) technology;
+purpose-specific access restrictions;
+monitoring rights that have been assigned.
+==========
+Changes to this privacy and cookie statement
+We reserve the right to modify this statement.
+Changes will be published on this website and old versions are available upon request.
+It is recommended to consult this statement regularly, so that you remain informed of any changes.
+==========
+Your rights regarding the processing of your data 
+If you have provided personal data to us through one of our services where we act as data controller you can make claim to several rights that you have as a data subject.
+You can make claim to you rights to view, correct or delete your personal data.
+Moreover, you have the right to object to the processing of your data, or you can restrict that processing.
+==========
+In order to effectively use your rights you may send us a request via the contact details stated below.
+To prevent abuse, we may ask you to provide proof of identity.
+==========
+Besides all of these rights we are naturally more than willing to assist you if you have any questions or complaints regarding the processing of your data by digitalAudience.
+In addition, under privacy legislation you also have the opportunity to lodge a complaint with the data protection supervisory authority in your country.
+==========
+For the Netherlands this is the Autoriteit Persoonsgegevens.
+The Autoriteit Persoonsgegevens can be contacted through this link.
+Contact details
+If you have any questions regarding our privacy & cookie statement, you can contact us at anytime by filling out the contact form available on our website, by sending an email to privacy@digitalAudience.io or to call us via +31 (0)20 6691001.
+==========

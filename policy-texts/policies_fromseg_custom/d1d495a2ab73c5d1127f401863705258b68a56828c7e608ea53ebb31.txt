@@ -1,0 +1,404 @@
+DigitalOcean, Inc. ("DigitalOcean") welcomes you to www.digitalocean.com (the “Website”).
+These terms and conditions of service (“Terms of Service”) govern your use of the Website, operated by DigitalOcean, and provided to the Subscriber (the “Subscriber” or “You”).
+Please read these Terms of Use carefully before using the Website.
+==========
+Using the Website or otherwise interacting with or accessing any of DigitalOcean's services constitutes Your acceptance and agreement to be bound by DigitalOcean's Terms of Service.
+IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE, YOU MAY NOT USE THE WEBSITE AND YOU SHOULD EXIT THE WEBSITE IMMEDIATELY.
+DigitalOcean reserves the right, at any time and from time to time, to amend or to modify these Terms of Service without prior notice to You.
+Amendments and modifications shall take effect immediately when posted on the Website.
+==========
+By continuing to access or use the Website after any such amendments or modifications, You agree to be bound by such amended or modified Terms of Service.
+For this reason, we encourage You to review the Terms of Service whenever you use the Website.
+If you do not agree to any change to the T&C;, then you must immediately stop using the Site.
+1.
+==========
+Eligibility & Acceptance
+
+1.1
+The Website is not targeted towards, nor intended for use by, anyone under the age of 18.
+By using the Website, You represent and warrant that You are 18 years of age or older.
+If You are not at least 18 years of age, do not use or access the Website.
+==========
+You may use our services, provided that you are of legal age to form a binding contract and are not barred from receiving such services under the laws of the United States or other jurisdictions.
+In order to access our services, you are required to provide current and factual identification, contact, and other information as part of the registration process.
+You are responsible for the confidentiality of your account information and for all activities that occur under your account.
+You are solely responsible for all content within your account.
+==========
+You agree to immediately notify DigitalOcean of any unauthorized use of your account or any other breach of security.
+DigitalOcean will not be liable for any loss or damage as a result of your failure to provide us with accurate information or to keep your account secure.
+1.2
+By registering for an account with your email address, you are agreeing to these Terms of Service, as well as DigitalOcean’s Privacy Policy and Acceptable Use Policy.
+Your submission of personal information through the Website is governed by our Privacy Policy, which can be reached by clicking on the "Privacy Policy" link.
+These Terms of Service fully incorporates by reference the terms and conditions of the Privacy Policy.
+If You do not wish to accept these terms and conditions, then you must immediately deactivate Your account and stop using the Website.
+2.
+==========
+Acceptable Use Policy
+Lawful use of the Network
+
+2.1
+In using DigitalOcean’s Network (the “Network"), Subscribers must comply with, and refrain from violations of, all applicable provisions of law, including the United States Code, the Code of Federal Regulations, and the New York Revised Statutes, including but not limited to those statutes forbidding: (a) distribution of child pornography, (b) forgery, identity theft, misdirection or interference with electronic communications, (c) invasion of privacy, (d) violations of the CANSPAM Act, (e) collection of excessive user data from children, or other improper data collection activities, (f) securities violations, wire fraud, money laundering, or terrorist activities, or (f) false advertising, propagating or profiting from frauds and unfair schemes.
+Subscribers will also comply with the affirmative requirements of law governing Network use, including but not limited to: (a) disclosure requirements, including those regarding notification of security breaches, (b) records maintenance for regulated industries, and (c) financial institution safeguards.
+Agreed Use of Allotted Network Resources
+
+2.2
+Subscribers shall not use any method to circumvent the provisions of the Terms of Service, or to obtain services in excess of those for which they contract with DigitalOcean.
+Subscribers shall use only those IP addresses that are assigned to them by DigitalOcean, and shall not use any IP addresses outside of their assigned range.
+Subscribers shall not use any mechanism to exceed the amount of Network resources assigned to them, or to conceal such activities.
+Injurious Code
+
+2.3
+Subscribers may not use the Network to distribute, receive communications or data gleaned from, or execute any action directed by any type of injurious code, including but not limited to: (a) trojans, (b) key loggers, (c) viruses, (d) malware, (e) botnets, (f) denial of service attacks, (g) flood or mail bombs, (h) logic bombs, or (f) other actions which DigitalOcean reserves the sole right to determine to be malicious in intent.
+Email Violations
+
+2.4
+In addition to being forbidden from performing any acts made illegal by the CAN-SPAM Act, Subscribers may not send bulk email utilizing their Network resources unless they maintain a double-authorized list of subscribed members including IP addresses and relevant contact information, along with following guidelines for including removal links with all sent emails according to the CAN-SPAM Act.
+Subscribers are forbidden from taking any action that would result in their IP addresses, or any IP address associated with DigitalOcean or other Subscribers, being placed on the Spamhaus.org blacklist.
+==========
+DigitalOcean reserves the sole and absolute right to determine whether an email violation has occurred.
+Restrictions
+
+2.5
+You agree that you will NOT use DigitalOcean's services to violate any applicable state and federal law and regulation, including, but not limited to, any copyright, trademark, patent, anti-piracy, or other intellectual property law or regulation, or encourage or enable others to violate any such law or regulation.
+You also agree that you will not transmit, distribute, post, store, link, or otherwise traffic in information, software, or materials that is offensive, abusive, inappropriate, malicious, or detrimental, including, but not limited to, those that Digital Ocean shall determine in its sole and absolute discretion, are obscene, fraudulent, or discriminatory.
+DigitalOcean may permit adult websites that abide by state and federal law and regulation.
+==========
+2.6
+Subscribers are restricted from registering multiple accounts with the same billing details without first notifying DigitalOcean of that intent.
+Otherwise, DigitalOcean shall have the right to automatically flag such accounts as fraudulent or abusive, and Digital Ocean may, without notification to the Subscriber of such account, suspend the service of such account or any other account used by such Subscriber.
+The use of referral codes by multiple accounts having the same billing profile is not allowed.
+==========
+DigitalOcean also reserves the right to terminate a Subscriber's account if they are targeted by malicious activity from other parties.
+2.7
+As a reward for being early adopters of DigitalOcean’s services, Subscribers with grandfathered accounts shall receive free bandwidth for the duration that such account is operative and conducts its operations in compliance with these Terms of Service (“Grandfathered Accounts”).
+The free bandwidth may only be used directly by the Subscriber of such Grandfathered Account.
+Notwithstanding the foregoing, Subscribers of Grandfathered Accounts must NOT: (i) run Torrents for download or Seed Servers, TOR, or services that include content of an Adult or Pornographic nature; (ii) resell services through their account to provide free bandwidth to other individuals; or (iii) transfer the account ownership to another individual or entity, or otherwise circumvent the intended fair usage of free bandwidth by distributing it freely to others.
+Failure of Subscribers of Grandfathered Accounts to follow these terms will result in the revocation of their accounts’ Grandfathered status.
+==========
+Invasion of Privacy, Defamation, or Harassment
+
+2.8
+Subscribers may not use Network resources in a manner that would violate the lawful privacy rights of any person, or to publish or republish defamatory statements, or to harass or embarrass, which shall be determined in DigitalOcean’s sole and absolute discretion.
+Violation of Copyright, Trademark, Patent or Trade Secret
+
+2.9
+Subscribers may not use Network resources in violation of the copyrights, trademarks, patents or trade secrets of third parties, nor shall they utilize the Network to publish such materials in a manner that would expose them to public view in violation of the law.
+The provisions of the Digital Millennium Copyright Act of 1998 (“DMCA”) (as required under 17 U.S.C. §512) will apply to issues presented by allegations of copyright violations by third parties.
+DigitalOcean will, in appropriate circumstances, terminate the accounts of repeat violators.
+If a third party believes that a Subscriber of DigitalOcean is violating its intellectual property rights, it should notify us by email at abuse@digitalocean.com.
+==========
+A notification should include the IP address where the violation is believed to have occurred in addition to any other requirements of the relevant law.
+If You believe any content on the Website infringes Your copyright, You should immediately send a notice of any such potential infringement to DigitalOcean.
+Your notice must meet the requirements of the DMCA by providing the following information:
+
+
+1.
+==========
+An identification of the copyrighted work claimed to have been infringed;
+2.
+An identification of the material that you claim is infringing so that we may locate it on the site;
+3.
+Your address, telephone number and email address;
+4.
+==========
+A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent or the law;
+5.
+A statement by you that the above information in your notice is accurate, made under penalty of perjury, and that you are authorized to act on behalf of the owner of the copyright interest involved; and
+6.
+Your signature.
+==========
+The notice should be E-Mailed to: abuse@digitalocean.com
+
+
+and simultaneously mailed to:
+
+
+DigitalOcean, Inc.
+Attn: Abuse
+270 Lafayette St, Suite #1105
+New York, NY 10012
+
+
+Upon receipt of notice as described above, DigitalOcean shall take whatever action, in its sole discretion, it deems appropriate.
+Other Violations
+
+2.10
+The foregoing enumeration of violations is not meant to be exclusive, and DigitalOcean provides notice hereby that it has and will exercise its authority to take whatever action is necessary to protect the Network, Subscribers, and third parties from acts that would be inimical to the purposes of Digital Ocean’s Acceptable Use Policy, as set forth herein.
+Acts of Sub-Users
+
+2.11
+Subscribers are responsible for the acts of others utilizing their Network access, and will be held responsible for violations of this Acceptable Use Policy by their sub-users or persons who gain access to the Network using the Subscriber's access codes.
+Any activity that a Subscriber is prohibited from performing by this Acceptable Use Policy is equally prohibited to anyone using the Network-access of the Subscriber.
+Accordingly, Subscribers agree to take the following actions outlined in 2.12, 2.13 and 2.14 below to control the activities of those who connect to the Network by any means.
+Access Code Protection
+
+2.12
+Subscribers shall utilize proper security protocols, such as setting strong passwords and access control mechanisms, safeguarding access to all logins and passwords, and verifying the trustworthiness of persons who are entrusted with account access information.
+==========
+Notification Regarding the Acceptable Use Policy
+
+2.13
+Subscribers shall notify all persons who receive Network-access of the provisions of this Acceptable Use Policy, and shall inform them that the terms of the Acceptable Use Policy are binding upon them.
+Remedial Action
+
+2.14
+Subscribers shall notify DigitalOcean if and when they learn of any security breaches regarding the Network, and shall aid in any investigation or legal action that is taken by authorities and/or DigitalOcean to cure the security breach.
+Remedies for Violations
+
+2.15
+DigitalOcean may take any appropriate actions immediately and without notice to remedy violations of this Acceptable Use Policy or any violations of law.
+Service Suspension or Termination
+
+2.16
+DigitalOcean shall have the right to suspend or terminate any Subscriber’s account without refund, and without notice to such Subscriber, in the event that such Subscriber violates any provisions of DigitalOcean’s Acceptable Use Policy as long as DigitalOcean deems it appropriate in its sole and absolute discretion.
+DigitalOcean may provide prior notice of the intent to suspend or terminate service if such notice will not, in DigitalOcean's discretion, run counter to the intents and purposes of DigitalOcean’s Acceptable Use Policy.
+Misuse of System Resources
+
+2.17
+DigitalOcean reserves the right to terminate services in the event Subscribers misuse system resources, including but not limited to employing programs that consume excessive network capacity, CPU cycles, or disk IO.
+3.
+Master Service Agreement
+Billing and Term
+
+3.1
+The term of this Agreement shall be monthly, to commence on the date that the Subscriber signs up electronically for DigitalOcean’s service by creating an account with an email address.
+==========
+All invoices are denominated, and Subscriber must pay, in U.S. Dollars.
+Subscribers are typically billed monthly on or about the first day of each month, with payment due no later than ten (10) days past the invoice date.
+On rare occasions, a Subscriber may be billed an amount up to the Subscriber's current balance in an effort to verify the authenticity of the Subscriber's account information.
+This process ensures that Subscribers without a payment history are not subjected to additional scrutiny.
+Subscribers are entirely responsible for the payment of all taxes.
+For specific pricing policies, please refer to https://www.digitalocean.com/pricing.
+==========
+Acceptable Payment Methods
+
+3.2
+DigitalOcean accepts major credit cards, debit cards, and Paypal payments.
+Subscribers who choose to pay with Paypal will be strictly limited to a single DigitalOcean account per Paypal account.
+Virtual credit cards and gift cards typically will not be accepted.
+Other forms of payment may be arranged by contacting DigitalOcean at contact@digitalocean.com.
+==========
+Arrearages
+
+3.3
+Payments not made within ten (10) days of invoicing will be deemed in arrears.
+For accounts in arrears, if any amount is more than ten (10) days overdue, without the requirement of providing notice of such arrears, DigitalOcean may suspend service to such account and bring legal action to collect the full amount due, including any attorneys’ fees and costs.
+Suspension for Nonpayment
+
+3.4
+If a Subscriber is past due on their balance, DigitalOcean may send up to three (3) email notifications within a fifteen (15) day period before suspending the Subscriber's account.
+Servers will be temporarily powered off during the suspension period.
+==========
+DigitalOcean reserves the right to delete the Subscriber's suspended machines after the final termination notice.
+Subscriber Duties
+
+3.5
+Subscriber shall: (i) provide and maintain accurate personal and business identifying information, Employer Identification Numbers, names, addresses, telephone numbers, and email addresses; (ii) utilize proper security protocols, such as setting strong passwords and access control mechanisms, safeguarding access to all logins and passwords, verifying the trustworthiness of persons who are entrusted with account access information, and notifying DigitalOcean if and when any security breaches involving data hosted or stored through DigitalOcean occurs; (iii) make full and timely payment of any and all fees for services as selected pursuant to the Terms of Service; (iv) provide DigitalOcean with accurate information relevant to assessing fees; (v)  comply with the terms of DigitalOcean’s service agreement, if any, including the requirements of these Terms of Service, Acceptable Use Policy, and Privacy Policy; and (vi) refrain from the use of DigitalOcean's services for high risk activities including but not limited to the operation of nuclear facilities, air traffic control, life support systems, or any other use where the failure of service could lead to death, personal injury, or environmental damage.
+Additionally, Subscriber is responsible for all account activities, regardless of whether the activities are undertaken by Subscriber, its employees or a third party (including Subscriber’s contractors or agents).
+DigitalOcean and its affiliates shall not be responsible for unauthorized access to a Subscriber’s account.
+If You believe an unauthorized third party may be using Your account or if Your account information is lost or stolen, You shall contact DigitalOcean immediately.
+Disclaimers and Waiver of Liability
+
+3.6
+PLEASE READ THIS SECTION CAREFULLY SINCE IT LIMITS DIGITALOCEAN’S LIABILITY TO YOU.
+THIS PROVISION SHALL ONLY APPLY UP TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW.
+NOTHING HEREIN IS INTENDED TO LIMIT ANY RIGHTS YOU MAY HAVE WHICH MAY NOT BE LAWFULLY LIMITED.
+==========
+IF YOU ARE UNSURE ABOUT THIS OR ANY OTHER SECTION OF THESE TERMS, PLEASE CONSULT WITH A LEGAL PROFESSIONAL PRIOR TO ACCESSING OR USING THE WEBSITE.
+BY ACCESSING OR USING THE WEBSITE, YOU REPRESENT THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO THESE TERMS, INCLUDING THIS SECTION.
+YOU ARE GIVING UP SUBSTANTIAL LEGAL RIGHTS BY AGREEING TO THESE TERMS.
+==========
+DIGITALOCEAN DISCLAIMS ALL WARRANTIES, EXPRESS, IMPLIED, OR STATUTORY, REGARDING THE SERVICES PROVIDED HEREUNDER, INCLUDING, BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT.
+NO REPRESENTATION OR OTHER AFFIRMATION OF FACT REGARDING HARDWARE, SOFTWARE, OR SERVICES, NOR THE STATEMENT OR CONDUCT OF ANY AGENT OF DIGITALOCEAN, SHALL BE DEEMED A WARRANTY FOR ANY PURPOSE OR GIVE RISE TO ANY LIABILITY WHATSOEVER.
+SUBSCRIBER ACKNOWLEDGES THAT HE OR SHE HAS RELIED ON NO WARRANTIES OR STATEMENTS OTHER THAN AS MAY BE SET FORTH HEREIN.
+==========
+SUBSCRIBER HEREBY WAIVES ANY AND ALL CLAIMS AGAINST DIGITALOCEAN ARISING OUT OF SUBSCRIBER'S PURCHASE OR USE OF THE SOFTWARE, OR ANY CONDUCT OF DIGITALOCEAN’S DIRECTORS, OFFICERS, EMPLOYEES, AGENTS OR REPRESENTATIVES.
+DIGITALOCEAN SHALL NOT, UNDER ANY CIRCUMSTANCES, BE LIABLE TO A SUBSCRIBER OR ANY THIRD PARTY IN ANY AMOUNT, OR FOR ANY INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, UNDER ANY CIRCUMSTANCES, INCLUDING, BUT NOT LIMITED TO, LOST PROFITS, REVENUE OR SAVINGS, LOSS OF GOODWILL, BUSINESS INTERRUPTION, REPUTATIONAL HARM OR THE LOSS OF USE OF ANY DATA OR INFORMATION, EVEN IF DIGITALOCEAN HAD BEEN ADVISED OF, KNEW, OR SHOULD HAVE KNOWN, OF THE POSSIBILITY THEREOF.
+NO DISCLOSURE BY DIGITALOCEAN’S DIRECTORS, OFFICERS, EMPLOYEES, AGENTS OR REPRESENTATIVES, SHALL BE MADE A CAUSE OF LIABILITY.
+UNDER NO CIRCUMSTANCES SHALL DIGITALOCEAN’S AGGREGATE CUMULATIVE LIABILITY HEREUNDER, WHETHER IN CONTRACT, TORT, UNDER STATUTE, OR OTHERWISE, EXCEED THE AMOUNT OF ONE (1) MONTH OF SERVICE PROVIDED PURSUANT TO THIS AGREEMENT.
+==========
+SUBSCRIBER ACKNOWLEDGES THAT THE FEES PAID BY HIM OR HER REFLECT THE ALLOCATION OF RISK SET FORTH IN THIS AGREEMENT AND THAT DIGITALOCEAN WOULD NOT ENTER INTO THIS AGREEMENT WITHOUT THESE LIMITATIONS.
+YOUR SOLE AND EXCLUSIVE RIGHT AND REMEDY IN CASE OF DISSATISFACTION WITH THE WEBSITE, DIGITALOCEAN’S SERVICES OR ANY OTHER GRIEVANCE SHALL BE YOUR TERMINATION AND DISCONTINUATION OF ACCESS TO OR USE OF THE WEBSITE.
+Confidentiality
+
+3.7
+Subscriber shall keep confidential any Confidential Information to which it is given access, and shall cooperate with DigitalOcean's efforts to maintain the confidentiality thereof.
+Subscriber shall not publish to third parties or distribute information or documentation that DigitalOcean provides for purposes of operating and maintaining its systems, including material contained in estimates, invoices, work orders, or other such materials.
+==========
+Backup
+
+3.8
+Subscriber is solely responsible for the preservation of Subscriber's data which Subscriber saves onto its virtual server (the “Data”).
+Even with respect to Data as to which Subscriber contracts for backup services provided by DigitalOcean, DigitalOcean shall have no responsibility to preserve Data, the service is provided “AS IS”, without warranties of any kind.
+DigitalOcean shall have no liability for any Data that may be lost, or unrecoverable, by reason of Subscriber’s failure to backup its Data.
+Export
+
+3.9
+Subscriber shall comply with all applicable export and import control laws and regulations in its use of DigitalOcean’s services, and, in particular, Subscriber shall not utilize DigitalOcean’s services to export or re-export Data or software without all required United States and foreign government licenses.
+Subscriber assumes full legal responsibility for any access and use of DigitalOcean’s services from outside the United States, with full understanding that the same may constitute export of technology and technical data that may implicate export regulations and/or require export license.
+==========
+Should such a license be required, it shall be Subscriber's responsibility to obtain the same, at Subscriber’s sole cost and expense, and in the event of any breach of this duty resulting in legal claims against DigitalOcean, Subscriber shall defend, indemnify and hold DigitalOcean harmless from all claims and damages arising therefrom.
+Indemnification
+
+3.10
+Subscriber shall defend, indemnify and hold harmless DigitalOcean, its parents, subsidiaries, affiliates, any related companies, suppliers, licensors and partners, and its officers, directors, employees, agents and representatives from any and all claims or causes of action, demands and damages (actual or consequential) of every kind and nature, known and unknown, including attorneys’ fees arising out of or in connection with Subscriber’s access to and use of DigitalOcean’s services, any breach of Subscriber’s representations and warranties set forth herein in the Terms of Service, or Subscriber’s violation of any law or rights of a third party.
+Termination
+
+3.11
+DigitalOcean reserves the right, in its sole discretion, to immediately limit or terminate Your access to or use of DigitalOcean’s services and its Website at any time without prior notice.
+In the event DigitalOcean terminates Subscriber’s access to DigitalOcean’s services or Website as a result of a Subscriber's breach of any of the terms contained herein, any amounts owed to DigitalOcean before such termination shall be immediately due and payable, including any liabilities that may have been incurred prior to termination such as DigitalOcean’s costs for collection (including attorneys’ fees) of any such charges or other liabilities, any and all rights granted to Subscriber by this Agreement will immediately be terminated, and Subscriber shall promptly discontinue all use of the Services.
+==========
+If DigitalOcean determines, in DigitalOcean’s sole and absolute discretion, that Subscriber's failure to abide by these Terms of Service may give rise to unlawful consequences or cause any risk of damage to DigitalOcean, other Subscribers, or third parties, DigitalOcean may terminate this Agreement on less than thirty (30) days notice.
+Termination of Your access or use will not waive or affect any other right or relief to which DigitalOcean may be entitled, at law or in equity.
+DigitalOcean reserves all rights not expressly granted in these Terms of Service.
+Legal Compliance
+
+3.12
+DigitalOcean shall have the right to suspend or terminate any services provided to You immediately upon receipt of any lawfully issued notice from a court having jurisdiction over DigitalOcean, alleging the use of the services to accomplish violations of law, pending the resolution of the relevant court proceeding.
+When subjected to lawful process requiring disclosure, DigitalOcean may disclose the Subscriber's identity and contact information, and DigitalOcean shall not be liable for damages or results thereof, and Subscriber agrees not to bring any action or claim against DigitalOcean for such disclosure.
+Survival
+
+3.13
+All terms of this Agreement, which by their nature are intended to survive termination of this Agreement, shall so survive.
+Force Majeure
+
+3.14
+Neither You nor DigitalOcean shall be liable for nonperformance of the terms herein to the extent that either You or DigitalOcean are prevented from performing as a result of any act or event which occurs and is beyond Your or Digital Ocean’s reasonable control, including, without limitation, acts of God, war, unrest or riot, strikes, any action of a governmental entity, weather, quarantine, fire, flood, earthquake, explosion, utility or telecommunications outages, Internet disturbance, or any unforeseen change in circumstances, or any other causes beyond either party’s reasonable control.
+The party experiencing the force majeure shall  provide the other party with prompt written notice thereof and shall use reasonable efforts to remedy effects of such force majeure.
+==========
+Choice of Law, Venue, Consent to Email Service and Waiver of Hague Convention Service Formalities
+
+3.15
+Any claim arising hereunder shall be construed in accordance with the substantive and procedural laws of the State of New York, without regard to principles of conflict of laws.
+Subscriber consents to the jurisdiction of the State of New York.
+Subscriber consents to service of process via email at the email address(es) provided when by Subscriber, and waives any requirement under the Hague Convention or other judicial treaty requiring that legal process be translated into any language other than English.
+Integration, Waiver, Severability and Miscellaneous Provisions
+
+3.16
+This Agreement, including all related agreements and policies incorporated by reference herein, constitutes the entire agreement between the parties related to the subject matter hereof and supersedes any prior or contemporaneous agreement between the parties relating to DigitalOcean's services.
+.
+==========
+A valid waiver hereunder shall not be interpreted to be a waiver of that obligation in the future or any other obligation under this Agreement.
+If any provision of this Agreement is prohibited by law or held to be unenforceable, that provision will be severed and the remaining provisions hereof shall not be affected such that this Agreement shall continue in full force and effect as if such unenforceable provision had never constituted a part hereof.
+This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall constitute the same instrument.
+==========
+This Agreement may be signed electronically.
+Dispute Resolution
+
+3.17
+Mindful of the high cost of litigation, each of You and DigitalOcean agree to the following dispute resolution procedure: In the event of any controversy, claim, action or dispute arising out of or related to: (i) the Website; (ii) this Agreement; (iii) any service provided by DigitalOcean; (iv) the breach, enforcement, interpretation, or validity of this Agreement; or (v) any other dispute between You and DigitalOcean ("Dispute"), the party asserting the Dispute shall first try in good faith to settle such Dispute by providing written notice to the other party (by first class or registered mail) describing the facts and circumstances (including any relevant documentation) of the Dispute and allowing the receiving party 30 days in which to respond to or settle the Dispute.
+Notice shall be sent (1) if to DigitalOcean, Inc. at: 270 Lafayette St, Suite #1105, New York, NY 10012 or (2) if to You at: your last-used billing address or the billing and/or shipping address in your online profile.
+Each of You and DigitalOcean agree that this dispute resolution procedure is a condition precedent that must be satisfied prior to initiating any Arbitration or filing any claim against the other party.
+Mandatory Arbitration Agreement and Class Action Waiver
+
+3.18
+Each of You and DigitalOcean agree that any dispute or claim, including without limitation, statutory, contract or tort claims, relating to or arising out of this Agreement or the alleged breach of this Agreement, shall, upon timely written request of either party, be submitted to binding arbitration.
+==========
+The party asserting the claim may elect to have the arbitration be in-person, telephonic or decided based only on written submissions.
+The arbitration shall be conducted in the city in which the Subscriber is billed.
+The arbitration shall proceed in accordance with the commercial arbitration rules of the American Arbitration Association ("AAA") in effect at the time the claim or dispute arose.
+The arbitration shall be conducted by one arbitrator from AAA or a comparable arbitration service who is selected pursuant to the applicable rules of the AAA.
+==========
+The arbitrator shall issue a reasoned award with findings of fact and conclusions of law and judgment on the award rendered by the arbitrator may be entered in any court having jurisdiction thereof.
+Either of You or DigitalOcean may bring an action in any court of competent jurisdiction to compel arbitration under this Agreement, or to enforce or vacate an arbitration award.
+DigitalOcean will pay the fee for the arbitrator and your filing fee, to the extent that it is more than a court filing fee.
+DigitalOcean agrees that it will not seek reimbursement of its fees and expenses if the arbitrator rules in its favor.
+You and DigitalOcean waive any right to a trial by jury, so that disputes will be resolved through arbitration.
+==========
+No claim subject to this provision may be brought as a class or collective action, nor may you assert such a claim as a member of a class or collective action that is brought by another claimant.
+Furthermore, the arbitrator may not consolidate more than one person’s claims, and may not otherwise preside over any form of a representative or class proceeding.
+Except as may be required by law, neither a party nor an arbitrator may disclose the existence, content, or results of any arbitration hereunder without the prior written consent of both parties.
+4.
+==========
+Privacy-Policy
+Personal Data Collected
+
+4.1
+DigitalOcean collects and stores personal information including the full name, company name, billing address, email address, IP address, landing page, referring URL for all Subscribers upon registration and use of our service.
+Additionally, DigitalOcean stores cookies for visitors to the Website in order to identify them for relevant advertising through third party websites, also known as retargeting.
+DigitalOcean also gathers anonymous usage information from our visitors via cookies for usage with Google Analytics.
+==========
+If you have any questions regarding the data that is collected and or stored please contact DigitalOcean via email at contact@digitalocean.com or via mail to our address listed below.
+Security of Personal Data
+
+4.2
+DigitalOcean is committed to protecting the security of Subscriber's collected Personal Data.
+To do so we employ a variety of industry-standard security technologies and measures to help protect your data from unauthorized access, use, or disclosure which include but are not limited to encrypting any transmission of said information using secure socket layer (SSL), passing of credit card information directly to our Payment Card Industry Data Security Standard (PCI) compliant Merchant Processor, encryption of any collected credit card information, encryption of passwords and other authentication mechanisms such as Application Programming Interface (API) keys, and restricting access to encrypted information to support personnel at DigitalOcean.
+DigitalOcean requires that Subscribers enter in a password to access their account information and request that Subscribers use a password composed of different characters and of a large length to strengthen security and that they do not disclose this information to others via electronic formats or otherwise.
+Please note that DigitalOcean cannot fully eliminate security risks associated with the collection of said data and that mistakes and security breaches may occur, Contact DigitalOcean if you have any questions regarding the security of the Website, application, or otherwise.
+==========
+Third Party Disclosure of Personal Data
+
+4.3
+DigitalOcean does not disclose any Personal Data to any third party companies for purposes of partnerships or advertising.
+4.4
+DigitalOcean may disclose Personal Data to comply with relevant laws and legal governing bodies of any country in which we do business, or where a Subscriber may reside in order to remain compliant with United States and International Laws, whereby mandated by state and or federal agencies for the purposes of criminal investigations or by court order.
+4.5
+DigitalOcean for the purposes of billing does disclose personal information such as name, billing address, IP address, and credit card information to third party merchants for processing payments.
+==========
+Publicity
+
+4.6
+Subscriber is permitted to state publicly that it is a Subscriber of DigitalOcean's services.
+Subscriber agrees that DigitalOcean may include Subscriber's name and trademarks in a list of DigitalOcean Subscribers, online or in promotional materials.
+Subscriber also agrees that DigitalOcean may verbally reference Subscriber as a Subscriber of the DigitalOcean products or services that are the subject of this Agreement.
+Subscriber may opt out of this section 4.6 by E-mailing a request to contact@digitalocean.com.
+==========
+Access to Personal Data
+
+4.7
+DigitalOcean Subscribers have access to their personal data including full name, company name, email address, and credit card information.
+Subscribers shall have the ability to delete data related to their full name, company name, and identifiable billing information, which deleted data will no longer be stored in DigitalOcean’s databases, with the exception of: email address, network logs, cases where fraudulent or otherwise illegal activity has been deemed to have occurred as determined by law enforcement or DigitalOcean, in which case the information may remain in DigitalOcean’s database indefinitely in order to help facilitate the prevention of repeated abuse in the future from the offending party.
+4.8
+To have your email permanently removed please email DigitalOcean at contact@digitalocean.com.
+Server Data
+
+4.9
+DigitalOcean does not have access to Subscriber's server data.
+The backend is locked away from Subscriber's support staff and only engineering staff has access to the physical servers where Subscriber's virtual machines reside.
+DigitalOcean does not store either Subscriber's passwords nor private SSH keys nor does DigitalOcean request Subscriber login information to their servers.
+DigitalOcean does not review or audit any Subscriber data.
+==========
+Advertising
+
+4.10
+DigitalOcean partners with third party advertising networks to display advertisements targeted to visitors of the Website.
+To do so DigitalOcean stores a cookie for visitors for the purpose of displaying advertising also commonly known as retargeting.
+The data that is stored and collected is non-identifiable and anonymous.
+4.11
+DigitalOcean will send occasional promotional materials through email and Subscribers have the option to opt-out of these emails by either responding directly inside of the email itself or through updating their preferences in DigitalOcean’s control panel.
+Opt Out
+
+4.12
+Subscribers may opt out of providing Personal Data and request that any Personal Data that was collected be removed if they believe it is being used in a manner not consistent with what was presented in the Privacy Policy.
+==========
+U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework
+
+4.13
+DigitalOcean complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+DigitalOcean has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+To learn more about the Safe Harbor program, and to view DigitalOcean's certification, please visit http://www.export.gov/safeharbor/.
+Government Requests
+
+4.14
+DigitalOcean may disclose appropriate Subscriber information in order to comply with requests by law enforcement or other government agencies when criminal conduct has been alleged.
+Otherwise DigitalOcean does not monitor its Subscriber's servers or data and it is their responsibility to remain compliant within the laws of their own territories as well as the territories from which DigitalOcean operates.
+==========
+Contact
+
+4.15
+DigitalOcean provides the following measures for contacting it regarding any issues related to this Privacy Policy:
+
+Change
+
+4.16
+This Privacy Policy is subject to occasional revision, and if any substantial changes are made to the way your Personal Data is used, DigitalOcean will notify you by email to the email address that you have provided as being the most current and by posting the notice of such changes on its Website.
+Any changes to the Privacy Policy will be effective immediately upon the earlier of the dispatch of the email notice to you or immediately following our posting of the updated terms on our Website, or the date on which you accept the terms by clicking "I Accept" or similar means.
+These changes will be effective immediately for any new Subscribers and Subscribers of its Website and related products and services.
+Please note that you are responsible at all times for updating your Personal Data and with providing DigitalOcean with your most recent and current email address.
+In the event that the email address is no longer valid the date at which the proposed changes were dispatched will still constitute effective notice of any changes to the Privacy Policy.
+If you do not wish to permit changes in DigitalOcean’s use of your Personal Data you must notify DigitalOcean prior to the effective date of the changes that you wish to deactivate your account.
+Continued use of DigitalOcean’s Website, products, and or related services, following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+4.17
+This privacy policy was last revised on January 17, 2014.
+==========

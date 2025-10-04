@@ -1,0 +1,20 @@
+Cookies are small pieces of information or text that are issued to your computer when you visit a website and are used to store or track information about your use of the site.
+ServiceNow uses both session‑based and persistent‑based cookies.
+Session‑based cookies exist only during your web session and expire when you close your internet browser.
+Persistent‑based cookies are files that stay in one of your browser's subfolders until you delete them manually or your browser deletes them based on the duration period contained within the persistent cookie's file.
+ServiceNow uses cookies for several reasons.
+==========
+Some cookies are strictly necessary to enable core site functionality.
+We refer to these as “required” cookies.
+==========
+For example, we may use required cookies to authenticate your access to various areas of our Website.
+Other cookies allow us to enhance your browsing experience, tailor content to your preferences, and make your interactions with our Website more meaningful.
+==========
+We refer to these as “functional” cookies.
+For example, we may use functional cookies to determine whether you have visited our Website before and inform us about site features in which you have interest, thereby permitting us to better tailor our Website content.
+Functional cookies also allow us to analyze Website traffic so we can measure and improve performance and speed up your searches.
+==========
+In addition to required and functional cookies, some third parties issue cookies through our Website to serve ads that are relevant to your interests based on your browsing activities.
+These third parties may also collect your browser history or other information to determine how you reached our Website and the website you visit when you leave our Website.
+Information gathered through these automated means may be associated with the personal information you previously submitted on our Website.
+==========

@@ -1,0 +1,828 @@
+Last updated: March 2010
+        
+
+THANK YOU FOR CHOOSING MICROSOFT!
+1.
+==========
+What the Contract Covers.
+This is a contract between you and the Microsoft company referenced in section 22.
+Sometimes the Microsoft company is referred to as 'Microsoft,' 'we,' 'us' or 'our'.
+This contract applies to any Windows Live, Bing, MSN, Microsoft Office Live, Microsoft Office Online or other Microsoft software or services, including updates, that display or link to this contract and that you use while this contract is in force.
+==========
+All of the software or services are referred to in this contract as the 'service.'
+Sections 1 through 22 of this contract apply across the service.
+==========
+Sections 23 and 24 apply if the service involves payments to or from Microsoft.
+Sections 25 through 31 apply only if you use the software or services identified in those sections.
+==========
+Some of these services may not be available in your country.
+Please note that we do not provide warranties for the service.
+The contract also limits our liability.
+These terms are in sections 13 and 14, and we ask you to read them carefully.
+2.
+==========
+When You May Use the Service.
+You may start using the service as soon as you have finished the sign-up process.
+No withdrawal right or other 'cooling off' period applies to the service and you waive any applicable 'cooling off' period, except if the law requires a 'cooling off' period despite your waiver and even when a service starts right away.
+3.
+How You May Use the Service.
+In using the service, you will:
+
+
+
+obey the law; 
+
+
+obey any codes of conduct or other notices we provide; 
+
+
+obey the Microsoft Anti-spam Policy, available at http://go.microsoft.com/fwlink/?LinkId=117951;
+
+
+keep your service account password secret; and 
+
+
+promptly notify us if you learn of a security breach related to the service.
+4.
+How You May Not Use the Service.
+==========
+In using the service, you may not:
+
+
+
+engage in, facilitate or further unlawful conduct;
+
+
+use the service in a way that harms us or our advertisers, affiliates, resellers, distributors and/or vendors, or any customer of ours or our advertisers, affiliates, resellers, distributors and/or vendors; 
+
+
+use any portion of the service as a destination linked from any unsolicited bulk messages or unsolicited commercial messages ("spam");
+
+
+use any automated process or service to access and/or use the service (such as a BOT, a spider, periodic caching of information stored by Microsoft, or "meta-searching"); 
+
+
+use any unauthorized means to modify or reroute, or attempt to modify or reroute, the service; 
+
+
+damage, disable, overburden, or impair the service (or the network(s) connected to the service) or interfere with anyone's use and enjoyment of the service;
+
+
+resell or redistribute the service, or any part of the service; or
+
+
+use any unauthorized third-party software or service to access the Microsoft instant messaging network (currently known as the .
+NET Messenger Service).
+You can find a list of authorized third-party software at http://messenger.msn.com/Help/Authorized.aspx.
+5.
+==========
+You Are Responsible For Your Service Account.
+Only you may use your service account.
+For some parts of the service, we may notify you that you may set up additional member accounts that are dependent on your account (an 'associated account').
+You are responsible for all activity that takes place with your service account or an associated account.
+You may not authorize any third party to access and/or use the service on your behalf except where Microsoft provides a mechanism for third parties to access the service on your behalf.
+6.
+==========
+Associated Accounts; Accounts From Third Parties.
+If you are the user of an associated account, the holder of the service account has full control over your associated account.
+This includes the right to end the service, close or alter your associated account at any time and, in some cases, request and receive machine and service use information related to your associated account.
+If a third party, such as an ISP, employer or school, gave you your account, the third party has rights to your account.
+The third party may manage your account, reset your password, or suspend or terminate your account; view your account’s usage and profile data, including how and when your account is used; and read or store the content in your account, including electronic communications, contact lists and other information.
+7.
+==========
+Microsoft Authentication Network.
+We may provide you with credentials on our authentication network to use with the service.
+You are solely responsible for any dealings with third parties (including advertisers) who use our authentication network, including the delivery of and payment for goods.
+This contract applies to you whenever you use the credentials you obtained with the service.
+When you use our authentication network to gain access to any site, the terms and conditions for that site, if different from this contract, may also apply to you in your use of that site.
+Please refer to the terms of use for each site that you visit.
+==========
+We may cancel or suspend your access to our authentication network for inactivity, which we define as failing to sign in to our authentication network for an extended period, as determined by us, or if you violate this contract.
+If we cancel your credentials, your right to use our authentication network immediately ceases.
+8.
+==========
+Your Content.
+You may be able to submit content for use in connection with the service.
+You understand that Microsoft does not control or endorse the content that you and others post or provide on the service.
+Except for material that we license to you, we do not claim ownership of the content you post or provide on the service.
+==========
+The service includes public areas available to the general public, shared areas available to others you have selected and personal areas where you have not granted access to others.
+If you share content with others on the service, in either public or shared areas, then you understand and agree that others with whom you have shared content may use that content.
+You grant to those members of the public to whom you have permitted access free, nonexclusive permission to use, copy, distribute and display the content solely in connection with the service and other Microsoft products and services.
+If you do not want others to have those rights, please do not share your content with them.
+You understand that Microsoft may need and you hereby authorize Microsoft to use, modify, copy, distribute and display content posted on the service to the extent necessary to provide the service.
+This includes:
+
+
+
+storing and retrieving the content;
+
+
+making the content available to you and to those members of the public to whom you have granted access or to the general public (for content posted on public areas of the service);
+
+
+conforming to connecting networks' technical requirements; and
+
+
+conforming to the limitations and terms of the service.
+==========
+You understand that sharing content that violates others' copyrights and other intellectual property rights violates this contract.
+You represent and warrant that you have all the rights necessary for you to grant the rights in this section 8 and that the use and publication of the content does not breach any law.
+==========
+We will not pay you for your content.
+We may refuse to publish your content and may remove your content from the service at any time.
+9.
+==========
+Privacy.
+In order to operate and provide the service, we collect certain information about you.
+We use and protect that information as described in the Microsoft Online Privacy Statement, http://go.microsoft.com/fwlink/?LinkId=74170.
+In particular, we may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of Microsoft or our customers, including the enforcement of our agreements or policies governing your use of the service; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of Microsoft employees, customers or the public.
+==========
+The service is a private computer network that Microsoft operates for the benefit of itself and its customers.
+Microsoft retains the right to block or otherwise prevent delivery of any type of email or other communication to or from the service as part of our efforts to protect the service, protect our customers or stop you from breaching this contract.
+==========
+The technology or other means we use may hinder or break your use of the service.
+In order to provide you the service, we may collect certain information about service performance, your machine and your service use.
+==========
+We may automatically upload this information from your machine.
+This data will not be used to personally identify you.
+==========
+You may read about this information collection in more detail in the privacy statement at http://go.microsoft.com/fwlink/?LinkId=74170.
+Personal information collected through the service may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries or agents maintain facilities.
+By using the service, you consent to any such transfer of information outside of your country.
+Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Union.
+10.
+==========
+Software.
+If you receive software from us as part of the service, your use of that software is under the terms of the license that is presented to you for acceptance for that software.
+If there is no license presented to you, or unless otherwise stated in this contract, then we grant you the right to use the software only for the authorized use of the service on that number of computers stated in your service offer.
+We reserve all other rights to the software.
+==========
+We may automatically check your version of the software.
+We may automatically download upgrades to the software to your computer to update, enhance and further develop the service.
+==========
+Unless we notify you otherwise, your license to use the software will end on the date your service ends, and you must promptly uninstall the software.
+We may disable the software after the date the service ends.
+You will not disassemble, decompile, or reverse engineer any software included in the service, except and only to the extent that the law expressly permits this activity.
+==========
+The software is subject to United States export laws and regulations.
+You must comply with all domestic and international export laws and regulations that apply to the software.
+These laws include restrictions on destinations, end users, and end use.
+==========
+Without limitation, you may not transfer the software or service without U.S. government permission to anyone on U.S. government exclusion lists (see Commerce Department’s Lists to Check); the governments of Iran, Sudan, or Cuba; or prohibited members of the Cuban Communist Party.
+You represent and warrant that you are not on any of those lists or under the control of or an agent for anyone on those lists or the entities listed above.
+==========
+For more information, see the Exporting Microsoft Products website (http://www.microsoft.com/exporting).
+If you use the software to access content that has been protected with Microsoft Digital Rights Management (DRM), in order to let you play the content, the software may automatically request media usage rights from a rights server on the Internet and download and install available DRM updates.
+For more information, see http://go.microsoft.com/fwlink/?LinkId=123883.
+11.
+==========
+Font Components.
+You may use the fonts installed by the service to display and print content only to embed fonts in content as permitted by the embedding restrictions in the fonts and temporarily download them to a printer or other output device to print content.
+12.
+==========
+How We May Change the Contract.
+If we change this contract, then we will tell you at least 30 days before the change takes place.
+==========
+If you do not agree to these changes, then you must cancel and stop using the service before the change takes place.
+If you do not stop using the service, then your use of the service will continue under the changed contract.
+13.
+==========
+WE MAKE NO WARRANTY.
+We provide the service 'as-is,' 'with all faults' and 'as available.'
+We do not guarantee the accuracy or timeliness of information available from the service.
+We and our affiliates, resellers, distributors and vendors (collectively, the '
+Microsoft
+ parties') give no express warranties, guarantees or conditions.
+You may have additional consumer rights under your local laws that this contract cannot change.
+We exclude any implied warranties including those of merchantability, fitness for a particular purpose, workmanlike effort and non-infringement.
+14.
+==========
+LIABILITY LIMITATION.
+You can recover from the 
+Microsoft
+ parties only direct damages up to an amount equal to your service fee for one month.
+==========
+You cannot recover any other damages, including consequential, lost profits, special, indirect, incidental or punitive damages.
+This limitation applies to anything related to:
+
+It also applies even if:
+Some states do not allow the exclusion or limitation of incidental or consequential damages, so the above limitations or exclusions may not apply to you.
+They also may not apply to you because your province or country may not allow the exclusion or limitation of incidental, consequential or other damages.
+the service,
+
+
+content (including code) on third-party Internet sites, third-party programs or third-party conduct,
+
+
+viruses or other disabling features that affect your access to or use of the service,
+
+
+incompatibility between the service and other services, software and hardware,
+
+
+delays or failures you may have in initiating, conducting or completing any transmissions or transactions in connection with the service in an accurate or timely manner, and
+
+
+claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence or other tort.
+this remedy does not fully compensate you for any losses, or fails of its essential purpose; or
+
+
+Microsoft knew or should have known about the possibility of the damages.
+15.
+==========
+Changes to the Service; If We Cancel the Service; Pre-Release.
+We may change the service or delete features at any time and for any reason.
+We may cancel or suspend your service at any time.
+Our cancellation or suspension may be without cause and/or without notice.
+==========
+Upon service cancellation, your right to use the service stops right away.
+Once the service is cancelled or suspended, any data you have stored on the service may not be retrieved later.
+Our cancellation of the service will not alter your obligation to pay all charges made to your billing account.
+If we cancel the service in its entirety without cause, then we will refund to you on a pro-rata basis the amount of payments that you have made corresponding to the portion of your service remaining right before the cancellation.
+A particular service may be a pre-release version and may not work correctly or in the way a final version might work.
+There may be interruptions or extended downtimes.
+We may significantly change the final version or decide not to release a final version at all.
+16.
+==========
+Interpreting the Contract.
+All parts of this contract apply to the maximum extent permitted by law.
+A court may hold that we cannot enforce a part of this contract as written.
+If this happens, then you and we will replace that part with terms that most closely match the intent of the part that we cannot enforce.
+==========
+The rest of this contract will not change.
+This is the entire contract between you and us regarding your use of the service.
+It supersedes any prior contract or statements regarding your use of the service.
+If you have confidentiality obligations related to the service, those obligations remain in force (for example, you may have been a beta tester).
+The section titles in the contract do not limit the other terms of this contract.
+If you are accessing the service within Germany, the agreement located at http://g.msn.de/0TO_/dede applies.
+17.
+==========
+Assignment.
+We may assign this contract, in whole or in part, at any time with or without notice to you.
+You may not assign this contract, or any part of it, to any other person.
+Any attempt by you to do so is void.
+You may not transfer to anyone else, either temporarily or permanently, any rights to use the service or any part of the service.
+18.
+==========
+No Third Party Beneficiaries.
+This contract is solely for your and our benefit.
+It is not for the benefit of any other person, except for permitted successors and assigns under this contract.
+19.
+==========
+Claim Must Be Filed Within One Year.
+Any claim related to this contract or the service may not be brought unless brought within one year.
+The one-year period begins on the date when the claim first could be filed.
+If it is not filed in time, then that claim is permanently barred.
+==========
+This applies to you and your successors.
+It also applies to us and our successors and assigns.
+20.
+==========
+Your Notices to Us.
+You may notify us as stated in the customer support or 'help' area for the service.
+We do not accept e‑mail notices.
+21.
+==========
+Notices We Send You; Consent Regarding Electronic Information.
+This contract is in electronic form.
+We have promised to send you certain information in connection with the service and have the right to send you certain additional information.
+There may be other information regarding the service that the law requires us to send you.
+We may send you this information in electronic form.
+You have the right to withdraw this consent, but if you do, we may cancel your service.
+==========
+We may provide required information to you:Notices provided to you via e‑mail will be deemed given and received on the transmission date of the e‑mail.
+As long as you can access and use the service, you have the necessary software and hardware to receive these notices.
+If you do not consent to receive any notices electronically, you must stop using the service.
+by e‑mail at the e‑mail address you specified when you signed up for your service;
+
+
+
+
+by access to a 
+Microsoft
+ web site that will be designated in an e‑mail notice sent to you at the time the information is available; or
+
+
+
+
+by access to a 
+Microsoft
+ web site that will be generally designated in advance for this purpose.
+22.
+==========
+Contracting Party, Choice of Law and Location for Resolving Disputes.
+This contract is between you and the Microsoft company for your country or region.
+In this section, find the country or region where you live (if you are signing up for the service as an individual person) or your business is located (if you are signing up for services for your business) in the subsections below, and in that subsection you will find the Microsoft company that is contracting with you and the choice of law and the location for resolving disputes with the Microsoft company.
+==========
+North and South America Region.
+If you live or your business is headquartered in Argentina, Barbados, Belize, Bolivia, Brazil, Canada, Chile, Colombia, Costa Rica, Dominica, Dominican Republic, Ecuador, El Salvador, Grenada, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, United States, Uruguay or Venezuela, then you are contracting with Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, United States, and Washington state law governs the interpretation of this contract and applies to claims for breach of it, regardless of conflict of laws principles.
+==========
+All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of your state of residence in the United States, or if you live outside the United States, the laws of the country to which we direct your service.
+You and we irrevocably consent to the exclusive jurisdiction and venue of the state or federal courts in King County, Washington, U.S.A., for all disputes arising out of or relating to this contract.
+==========
+Europe, Middle East and Africa.
+If you live or your business is headquartered in Algeria, Austria, Bahrain, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Egypt, Estonia, Finland, France, Germany, Greece, Hungary, Iraq, Ireland, Israel, Italy, Jordan, Kuwait, Latvia, Lebanon, Lithuania, Luxembourg, Montenegro, Morocco, Netherlands, Norway, Oman, Poland, Portugal, Qatar, Romania, Russia, Saudi Arabia, Serbia, Slovakia, Slovenia, South Africa, Spain, Switzerland, Sweden, Tunisia, Turkey, Ukraine, United Arab Emirates, United Kingdom or Yemen, then you are contracting with Microsoft Luxembourg S.à.r.l., 20 Rue Eugene Ruppert, Immeuble Laccolith, 1st Floor, L-2543 Luxembourg, and the laws of Luxembourg govern the interpretation of this contract and apply to claims for breach of it, regardless of conflict of laws principles.
+==========
+All other claims, including claims regarding consumer protection laws, unfair competition laws, and in tort, will be subject to the laws of the country to which we direct your service.
+You and we irrevocably agree to the exclusive jurisdiction and venue of the Luxembourg courts for all disputes arising out of or relating to this contract.
+==========
+Japan.
+If you live or your business is headquartered in Japan, and you receive software from us as part of the service, then, unless we tell you otherwise, you are licensing the software from Microsoft Operations Pte Ltd, 1 Marina Boulevard, #22-01 One Marina Blvd, Singapore 01898.
+Otherwise you are contracting with Microsoft Company Ltd (MSKK), Odakyu Southern Tower, 2-2-1 Yoyogi, Shibuya-ku, Tokyo 151-8583.
+The laws of Japan govern this contract and any matters arising out of or relating to this contract.
+You and we irrevocably agree that exclusive original jurisdiction and venue will lie in the Tokyo District Court.
+==========
+Asia Pacific.
+If you live or your business is headquartered in Australia, Hong Kong, Indonesia, Malaysia, New Zealand, Philippines, Singapore,  Thailand or Vietnam, then you are contracting with Microsoft Operations, Pte Ltd, 1 Marina Boulevard, #22-01 One Marina Blvd, Singapore 01898, and the laws of Singapore govern this contract.
+==========
+You and we irrevocably agree to the exclusive jurisdiction and venue of the Singapore courts for all disputes arising out of or relating to this contract.
+Any dispute arising out of or in connection with this agreement, including any question regarding its existence, validity or termination shall be referred to and finally resolved by arbitration in Singapore in accordance with the Arbitration Rules of the Singapore International Arbitration Center, which rules are deemed to be incorporated by reference into this clause.
+==========
+The Tribunal shall consist of one arbitrator to be appointed by the Chairman of SIAC.
+The language of arbitration shall be English.
+The decision of the arbitrator shall be final, binding and incontestable and may be used as a basis for judgment thereon in any country or region.
+==========
+India.
+If you live or your business is headquartered in India, then you are contracting with Microsoft Regional Sales Corporation, a corporation organized under the laws of the State of Nevada, USA, with a branch in Singapore, having its principal place of business at 438B Alexandra Road, #04-09/12, Block B, Alexandra Technopark, Singapore, 119968, and the laws of Washington state law govern this contract, regardless of conflict of laws principles.
+==========
+Any dispute arising out of or in connection with this agreement, including any question regarding its existence, validity or termination shall be referred to and finally resolved by arbitration in Singapore in accordance with the Arbitration Rules of the Singapore International Arbitration Center, which rules are deemed to be incorporated by reference into this clause.
+The Tribunal shall consist of one arbitrator to be appointed by the Chairman of SIAC.
+The language of arbitration shall be English.
+The decision of the arbitrator shall be final, binding and incontestable and may be used as a basis for judgment thereon in India or elsewhere.
+==========
+China.
+If you live or your business is headquartered in China, then you are contracting with Shanghai MSN Network Communications Technology Company Limited, 10/F, Grand Gateway Block 2, No. 3 Hongqiao Road, Shanghai, China 200030, for your use of MSN, Bing or Windows Live Messenger.
+==========
+For your use of all other services under this agreement, you are contracting with Microsoft Corporation, One Microsoft Way, Redmond, WA 98052, United States, and Washington state law governs this contract, regardless of conflict of laws principles.
+The jurisdiction of the state or federal courts in King County, Washington, United States is non-exclusive.
+==========
+Korea.
+If you live or your business is headquartered in Korea, then you are contracting with Microsoft Korea, Inc., POSCO Bldg, 8th Floor, 892 Daechi 4-Dong, Kangnam-Gu, Seoul, Korea 135-777, and the laws of the Republic of Korea govern this contract.
+You and we irrevocably agree to exclusive original jurisdiction and venue in the Seoul District Court.
+==========
+Taiwan.
+If you live or your business is headquartered in Taiwan, then you are contracting with Microsoft Taiwan Corporation, 8F, No 7 Sungren Road, Shinyi Chiu, Taipei, Taiwan 110, and the laws of Taiwan govern this contract.
+You and we irrevocably designate the Taipei District Court as the court of first instance having jurisdiction over any disputes arising out of or in connection with this contract.
+23.
+==========
+If You Pay Microsoft.
+23.1 Charges.
+==========
+This section 23 applies in all situations in which you directly pay us.
+If you pay a company other than us for the service, then the charges and billing terms are as stated by the other company.
+Even if you do not pay for the service, you may still incur charges incidental to using the service; for example, charges for Internet access, mobile text messaging, or other data transmission.
+==========
+23.2 Payment.
+When you create a billing account, you enter your payment method.
+You must be authorized to use the payment method.
+==========
+You authorize us to charge you for the service using your payment method and for any paid feature of the service for which you choose to sign up or use while this contract is in force.
+Billing of service charges to your payment method may occur (a) in advance; (b) at the time for purchase; (c) shortly after purchase; or (d) on a recurring basis for subscription services.
+We may charge you a different amount than what you approved.
+==========
+If it is a greater amount, we will tell you the amount and the date of the charge at least 10 days before we make the charge.
+Also, we may charge you up to the amount you have approved, and we will notify you in advance of the difference for recurring subscription services.
+We may bill you for more than one of your prior billing periods together.
+If we informed you that the service will be provided indefinitely or automatically renewed, we may automatically renew your service and charge you for any renewal term.
+==========
+23.3 Updates to Your Billing Account.
+You must keep all information in your billing account current, including your billing address and the expiration date of your credit card.
+You can access your billing account at https://billing.microsoft.com, where you can make changes to your billing account.
+==========
+You may change your payment method at any time.
+If you tell us to stop using your payment method, we may cancel your service.
+Your notice to us will not affect charges we submit to your billing account before we reasonably could act on your request.
+==========
+23.4 Trial Period Offers.
+You may have received a limited time of free service or some other trial period offer.
+==========
+Unless we notify you otherwise, if you are participating in any trial period offer, you must cancel the service by the end of the trial period to avoid incurring charges.
+If you do not cancel your service, and we have informed you that the service will automatically be converted into a paid subscription at the end of the trial period, then you authorize us to charge your payment method for the service.
+==========
+23.5 Prices and Price Increases.
+The price for the service excludes all taxes and phone charges, unless stated otherwise.
+==========
+You are responsible for any taxes that you are obligated to pay or that we may collect from you.
+You are responsible for all other charges (for example, phone charges).
+==========
+Currency exchange settlements are based on your agreement with your payment method provider.
+We may change the price of the service from time to time, but we will tell you before we do.
+If you do not agree to these changes, then you must cancel and stop using the service before the changes take place.
+==========
+If you cancel your service, then your service ends at the end of your current service time length or, if we bill your account on a period basis, at the end of the period in which you cancelled.
+If there is a specific time length and price for your service offer, then that price will remain in force for that time.
+After the offer period ends, your use of the service will be charged at the new price.
+==========
+If your service is on a period basis (for example, monthly), with no specific time length, then we will tell you the date of any price change.
+That date will be not less than 30 days after we tell you of the price change.
+23.6 Refund Policies.
+==========
+Unless otherwise provided by law or in connection with any particular service offer, all charges are non-refundable and the costs of any returns will be at your expense.
+23.7 Online Statement; Errors.
+We will provide you with an online billing statement.
+This is the only billing statement that we provide.
+==========
+Go to https://billing.microsoft.com to view, print or request a paper copy of this statement.
+If you request a paper copy, we may charge you a retrieval fee.
+We will only provide paper copies for the past 120 days.
+==========
+If we make an error on your bill, we will correct it promptly after you tell us and we investigate the charge.
+You must tell us within 120 days after an error first appears on your bill.
+You release us from all liability and claims of loss resulting from any error that you do not report to us within 120 days after the error first appears on your online statement.
+==========
+If you do not tell us within this time, we will not be required to correct the error.
+We can correct billing errors at any time.
+==========
+23.8 Canceling the Service.
+You may cancel the service at any time, with or without cause.
+Go to https://billing.microsoft.com to obtain information on cancelling your service.
+==========
+Certain service offers may require cancellation charges, and you will pay all cancellation charges as specified in the materials describing the offer.
+Cancellation of the service by you will not alter your obligation to pay all charges made to your billing account.
+==========
+23.9 Late Payments.
+Except to the extent prohibited by law, we may assess a late charge if you do not pay on time.
+You must pay these late charges when we bill you for them.
+The late charge will be the lesser of 1% of the unpaid amount each month or the maximum rate that is permitted by law.
+==========
+We may use a third party to collect past due amounts.
+You must pay for all reasonable costs we incur to collect any past due amounts.
+These costs may include reasonable attorneys' fees and other legal fees and costs.
+==========
+We may suspend or cancel your service if you fail to pay in full on time.
+23.10 Internet Access Service.
+If the service does not include Internet access, then you are responsible for paying the fees charged by your Internet access provider.
+Those fees are in addition to the fees you pay us for the service.
+The rest of this section applies only if your service includes Internet access.
+This service may not be available in your country.
+==========
+If you use a dial-up modem, you are responsible for determining if the numbers you select will incur toll charges.
+To do this you must contact your telephone company first.
+==========
+Tell it the numbers you consider using.
+Your telephone company can tell you if using those numbers will trigger additional charges.
+Ask it if there are other telephone service charges you will incur using those numbers.
+You should contact your phone company even if we provided the number as an appropriate access number for you.
+We rely on others to provide us with that information.
+==========
+Unfortunately, sometimes it is wrong.
+If you incur any extra charges, then you must pay them.
+==========
+We will not reimburse you for them.
+You also will pay any additional charges you incur if you connect to the service through a service telephone number while you are in a country that is not the country associated with your service account ('roaming charges').
+Roaming charges are in addition to any long distance telephone charges you may incur when connecting to the service from another country.
+Please check the service information area to view the current rates for roaming charges.
+You may also incur additional charges if your usage of the service exceeds the number of hours covered by your service plan.
+24.
+==========
+Payments to You.
+Your right to any payment due you under a service is conditioned upon you promptly providing us with all information we require to properly make the payment (for example, bank account information for receiving the payment).
+==========
+We will use reasonable efforts to tell you what information we require in advance of your use of the applicable service.
+Even if we do not tell you in advance, you must provide us the information we request before your right to receive the payment accrues.
+You are responsible for the accuracy of the information you provide and any taxes you may incur as a result of receiving a payment.
+==========
+You must also comply with any other conditions we place on your right to any payment.
+If you receive a payment that was not due to you, we may reverse or seek return of the payment and you agree to cooperate with us in our efforts to do this.
+25.
+==========
+Microsoft Office Live.
+The following additional terms apply to Microsoft Office Live.
+==========
+Your Dealings with Others.
+If you obtain anything from a third party (including third-party offered services) through the service, you understand that your relationship with respect to those things is with the third party directly and not with Microsoft.
+In the event you assert a claim that relates to or implicates your relationship with a third party, you shall only assert such claim against the third party, and you will not assert any such claim against Microsoft, even if Microsoft assisted in billing for the third-party offering.
+You are solely responsible for your dealings with any third party, including
+
+You represent and warrant that
+
+
+
+delivery of and payment for goods and services;
+
+
+processing and verifying orders, payments and other transactions;
+
+
+customer support related to orders or transactions (e.g., lost orders, billing disputes, payments, etc.);
+
+
+determining, collecting and remitting to the appropriate authority all taxes (if any) arising from or related to such orders or transactions; and
+
+
+the purchase and use by you and your associated accounts of any third-party products and services.
+the products and services you advertise, sell and distribute are legal for sale and distribution and do not violate this contract;
+
+
+you have all licenses necessary to sell, distribute and advertise the goods and services you offer; and
+
+
+all sales and advertisements will comply with applicable law.
+==========
+Your Privacy Practices.
+In using the service, you may be able to collect personal information about third parties through your dealings with such third parties.
+If you do, you agree to (a) post a privacy policy on your web site that, at a minimum, discloses any and all uses of personal information that you collect from such third parties, (b) provide a hypertext link to your privacy policy on the home page of your web site and on all pages where you collect personal information from third parties, including on checkout pages, and (c) use personal information only as expressly permitted by your privacy policy.
+==========
+Domain Name Service.
+If you register, renew or transfer a domain name through the service, Microsoft connects you with an accredited registrar, Melbourne IT Limited.
+Melbourne IT or another accredited registrar will register, renew or transfer the domain name.
+==========
+The domain service contracts for ccTLDs and gTLDs (the 'Domain Service Contracts') are contracts between Melbourne IT or another accredited registrar and you, and not between Microsoft and you.
+The Domain Service Contracts apply to the registration, renewal and transfer of your domain name.
+==========
+Your use of the domain name is also subject to the policies of the Internet Corporation for Assigned Names and Numbers ('ICANN').
+These policies include the ICANN Uniform Domain Name Dispute Resolution Policy located at http http://www.icann.org/udrp/#udrp.
+==========
+Microsoft does not control the availability of any domain name you seek to register or renew.
+You represent and warrant that any domain name you register, renew or transfer through the service and Melbourne IT will not infringe the rights of third parties.
+==========
+Public registry.
+You understand that your contact information, such as your name, postal address, phone number and e‑mail address, will be collected by Melbourne IT and placed in a public registry.
+==========
+Termination of service.
+Except during the first five days after you subscribe to the service, if you or we cancel your service, your domain name will remain registered for its current annual term.
+==========
+However, it will no longer work with the service.
+It will not work with your e‑mail service or point to your web site.
+You will be responsible for renewing and paying the applicable renewal fee for your domain name after you or we cancel your service.
+==========
+Back Up Your Data.
+Upon termination or cancellation of the service by you or us for any reason, Microsoft may delete your data permanently from our servers.
+You are responsible for taking all necessary steps to back up your data and ensuring that you maintain your primary means of business.
+26.
+==========
+Microsoft Office Online and Office Web Application Media Elements and Templates.
+If you use Microsoft Office Online or the Microsoft Office Web Applications, you may have access to media images, clip art, animations, sounds, music, video clips, templates and other forms of content ('media elements') provided with the software or as part of a service associated with the software.
+==========
+You may copy and use the media elements in projects and documents.
+You may not (i) sell, license or distribute copies of the media elements by themselves or as a product if the primary value of the product is the media elements; (ii) grant your customers rights to further license or distribute the media elements; (iii) license or distribute for commercial purposes media elements that include the representation of identifiable individuals, governments, logos, trademarks, or emblems or use these types of images in ways that could imply an endorsement or association with your product, entity or activity; or (iv) create obscene works using the media elements.
+For more information, go to http://www.microsoft.com/permission.
+27.
+==========
+Microsoft Points.
+Microsoft Points is a service under which you can acquire Points and redeem those Points for certain online services and digital products.
+You can see how many Points you have by checking your Points balance at https://billing.microsoft.com.
+==========
+You can obtain selected services or digital products that we elect to offer in exchange for Points.
+You can do this by redeeming your Points as indicated in the particular messaging you see for those offers.
+==========
+You can acquire Points in a variety of ways.
+For example, you can purchase Points, or certain services may give you Points for using the service or specific features of the service (also known as 'promotion Points').
+You can earn promotion Points only for actions you actually complete.
+==========
+You are responsible for any tax consequences that may result from your participation in the Points service.
+When you obtain Points, you have obtained a limited license to a digital product.
+==========
+Points have no monetary value.
+You may not obtain any cash or money in exchange for Points, regardless of how you acquired those Points.
+Points are not your personal property.
+==========
+Your only recourse for using Points is to obtain the specific online services or digital products that we offer for Points redemption.
+We may further restrict your Points redemption offers based on your country of residence.
+We encourage you to redeem your Points.
+The existence of a particular offer available for Points redemption is not a commitment by us to maintain or continue to make the offers in the future.
+The scope, variety and type of online services and digital products that you may obtain by redeeming Points can change at any time.
+We have no obligation to continue making offers available for Points redemption.
+Promotion Points may expire at any time, as set forth in the messages related to that promotion.
+==========
+We may cancel, suspend or otherwise limit your access to your Points balance if we suspect fraudulent, abusive or unlawful activity on your Points balance.
+Once we delete Points from a balance, we will not reinstate them, except at our discretion.
+When we cancel, suspend or otherwise limit access to your Points balance, your right to use your Points balance immediately ceases.
+We will use reasonable efforts to investigate Points balances that are subject to access limitations and to reach a final decision on the limitations promptly.
+In addition, we may limit your use of the Points service, including applying limits to: the number of Points you may have credited to your Points balance at one time, the number of Points you may redeem within a given time period (for example, one day), and the number of promotion Points you may obtain in a single event.
+==========
+If we post Points to your balance for an activity that is subsequently voided, canceled or involves a returned item, then we will remove those Points from your balance.
+You must ensure that we properly post your Points to your Points balance.
+If you believe that you have validly acquired Points that we have not posted to your Points balance, we will not consider posting these Points unless you contact us within 12 months after the date you claimed to have acquired those Points.
+We may require reasonable documentation to support your claim.
+28.
+==========
+Bing cashback.
+You can participate in the Bing cashback service if you are 18 years or older, reside in the United States and satisfy the requirements described in this contract and at the Bing cashback web site (http://bing.com/cashback).
+Bing cashback is a service for you to accumulate savings for making qualifying purchases from participating stores.
+These savings may be redeemed later only when requested from within the United States via the payment instrument that you select for your cashback account, subject to minimum payout of $5.
+We rely on participating online stores to report purchases to us.
+Stores may not report your purchase to us if they determine that your purchase did not qualify for cashback savings because you did not comply with this contract or additional terms disclosed on the store's site, or if the store determines that you were not referred to the store by Bing cashback.
+We may also disqualify reported purchases based on our own determination that you have not complied with this contract or the terms disclosed on the store's site.
+Please review the exclusions carefully.
+==========
+You may earn up to Two Thousand Five Hundred U.S. Dollars ($2,500.00) of cashback savings in a calendar year, calculated based on when the participating store reports your purchases to us.
+You may earn cashback savings on purchases that you complete in the same web browsing session (not to exceed 24 hours) after clicking on advertisements or listings in the Bing service or the Bing cashback service.
+Eligible advertisements will be marked with the Bing cashback logo.
+You will not earn cashback savings on purchases where (a) you close your browser or open the store's web site in a different web browser or tab; (b) you click away from the store after clicking on an eligible advertisement; (c) your browser is not configured to accept cookies; (d) the purchase is not completed in the same web browsing session in which you click on the eligible advertisement or listing; (e) the order is later cancelled or the goods or services are later returned; (f) the store does not report the purchase to us; (g) the goods or services are acquired for resale or other business purposes; (h) you use a separate discount or coupon with your order; (i) you exceed the annual monetary cap on cashback savings; (j) you purchase gift cards or gift certificates; or (k)  you make a purchase from yourself or from entities that you control or otherwise in collusion with other people.
+==========
+There may be additional or different limitations on purchases at certain stores, and those limitations will be disclosed on the store's site.
+Your participation in the Bing cashback service on such online stores will be subject to this contract as well as any additional terms and conditions disclosed on the store's site.
+In the event of a conflict between any of this contract and those terms and conditions disclosed on the store's site, the ones disclosed on the store's site will apply and control.
+To participate in the service you must set up a Bing cashback cashback account at https://cashbackaccount.bing.com/cashback/welcome.aspx by providing all of the required registration information.
+==========
+You must keep this account information up to date, accurate and secure.
+You may not barter, trade or otherwise exchange your account or maintain more than one account.
+==========
+We will describe the Bing cashback savings available for associated qualifying purchases.
+Participating stores are responsible for reporting qualifying purchases (and related returns, refunds and/or coupon use) to us.
+Within two days after a qualifying purchase is reported to us, we will list the purchase in your account with a status of 'pending.'
+The purchase will stay in pending status for a period of up to 60 days (although for certain stores, the period can extend up to 90 days) to account for returns, refunds, fraud and other processing issues.
+After this point, if the purchase is eligible for savings, it will be marked as 'available' in your account and the associated savings will be eligible for redemption as described below.
+==========
+You must ensure that we properly post savings to your account.
+If you believe that you have earned savings that are not posted to your account, we will not consider posting them to your account unless you contact us within six months after the date of the associated purchase.
+==========
+We may require reasonable documentation to support your claim.
+Bing cashback savings have no monetary value until the associated purchases are approved and you make a proper redemption request.
+==========
+You may request redemptions from your account, subject to then-current minimum redemption requirements.
+Redemptions for cash payments are subject to section 24 above.
+==========
+There may be additional limitations for redeeming savings on purchases from certain stores, and those limitations will be disclosed on the store site.
+We may offer additional redemption options.
+==========
+You are responsible for any tax liability from your participation in the service.
+We may disqualify transactions, reverse previously paid cashback savings, refuse redemptions and/or close your account at any time if you participate in any fraud or abuse relating to the service (including, without limitation, conducting 'sham' transactions or otherwise colluding with merchants), make any misrepresentation in connection with your participation in the service, maintain multiple accounts or do not otherwise comply with this contract.
+If you receive your cashback savings into your PayPal account, we may request that PayPal debit from your PayPal account the amounts we paid to you if we believe, in our sole discretion, that you should not have received the cashback savings for any of the reasons stated in this contract or any other agreement related to your eligibility for cashback savings.
+You authorize PayPal to honor our request to debit the amount of the cashback savings from your PayPal account.
+==========
+We also may close your account if it has been inactive for 12 months (i.e., no qualifying purchases or redemption of savings during the 12-month period).
+Accrued but unredeemed Bing cashback savings in accounts that are closed will be returned to Microsoft.
+We may share your information with stores and our business partners in the cashback program in order to help us address customer support and other issues related to your participation in the cashback program.
+After each purchase you make, the store you purchase from will send us your purchase information, which we will use to process your cashback.
+This information, plus the other information you provide when creating an account and using cashback is subject to the Microsoft Online Privacy Statement, available at http://go.microsoft.com/fwlink/?LinkId=74170.
+Advertisers, participating stores and service providers for the Bing cashback service, while beneficiaries of the disclaimers and limitations of liability in sections 13 and 14 above, have no obligations to you for the service or under this contract.
+29.
+==========
+MSN Video.
+The videos and the embeddable video player available on MSN Video are for your non-commercial, personal use only and, unless otherwise indicated, may not be downloaded, copied or redistributed without authorization from the rightsholders.
+You may not use the MSN Video embeddable video player without Microsoft's prior written consent on any web site whose primary purpose is the display of advertising, collection of subscription revenues or direct competition with MSN Video.
+You acknowledge and agree that your use of the MSN Video embeddable video player may give rise to additional third-party costs, fees and royalties, including, without limitation, applicable public performance royalties in your market.
+The MSN Video embeddable video player is software for purposes of this contract.
+30.
+==========
+Bing Mobile Voice Activated Search.
+If you use the voice activated search feature in the Bing Mobile application, you consent to Microsoft recording and collecting your voice input.
+The voice input will be used to provide the Bing Mobile service to you and improve Microsoft voice recognition products and services.
+The feature is currently available only in the United States.
+31.
+==========
+Windows Live OneCare.
+The following additional terms apply to Windows Live OneCare services (e.g., Windows Live OneCare, Windows Live OneCare for Server) (including any software that is provided as part of the services) and any other services offered in conjunction with OneCare services.
+You may be prompted to accept additional contract terms that govern your installation and use of other software or services offered as part of a OneCare service.
+If any terms of this contract conflict with the terms of any other contract for use of other software or services offered with a OneCare service, the terms of this contract shall apply.
+Windows Live ID.
+You must obtain a Windows Live ID to subscribe to the service.
+==========
+For additional information, see http://get.live.com/getlive/overview.
+License Grant.
+==========
+Paid Subscription.
+If you have purchased a subscription to a OneCare service, then for each subscription purchased, we grant you a non-exclusive, non-transferable and non-assignable right to install and use the software during your Subscription Term on:
+
+
+
+Personal Computers.
+Up to three personal computers (each a 'PC') that you own or control using the same Windows Live ID that you used to install OneCare on the first PC; or
+
+
+Server.
+One server ('Server') that you own or control using the same Windows Live ID that you used to install OneCare on your Server.
+==========
+Trial Use.
+If you are a trial user, then we grant you a non-exclusive, non-transferable and non-assignable right to download, install and use one copy of the software on one PC for Windows Live OneCare and on one Server for Windows Live OneCare for Server during your Trial Period.
+At the end of your Trial Period, your license expires automatically, unless you purchase a paid subscription.
+If you do not purchase a subscription or if you cancel or do not renew your paid subscription, then you agree to delete all copies of the software in their entirety from all PCs or the Server, as applicable, upon the expiration of your Trial Period or Subscription Term.
+License Term.
+==========
+Paid Subscriptions.
+The 'Subscription Term' for paid subscriptions begins on the date that you activate the software and ends on the date corresponding to the number of subscription months that you have purchased (e.g., 12, 24 or 36 months).
+==========
+A renewal of your subscription must occur to continue receiving subscription services.
+Renewals may require additional or different license terms.
+==========
+Trial Use.
+The 'Trial Period' for trial use begins on the date that you install the software and ends on the date corresponding to the length of the trial offer (e.g., 90 days later).
+==========
+Updates.
+The Windows Live OneCare services require updates to work effectively.
+==========
+Updates are only available for download and use during your Subscription Term or Trial Period.
+Updates may also require additional contract terms that must be accepted before download and use.
+==========
+Refunds.
+For information about Microsoft's refund policies, contact the Microsoft company serving your country or region as set forth in section 22.
+See also http://www.microsoft.com/worldwide.
+==========
+Online Backup Feature.
+The Online Backup feature provides the capability to store and retrieve your digital photographs from our servers via the Internet during the applicable Online Backup Subscription Period, subject to the amount of online backup space provided with your subscription.
+If you cancel your Online Backup subscription or your subscription lapses, the copies of your photos stored with Online Backup will be deleted immediately.
+==========
+NOTICES
+
+
+Notices and Procedure for Making Claims of Copyright Infringement
+
+Under Title 17, United States Code, Section 512(c)(2), notifications of claimed copyright infringement should be sent to service provider's designated agent.
+ALL INQUIRIES NOT RELEVANT TO THE FOLLOWING PROCEDURE WILL RECEIVE NO RESPONSE.
+See Notice and Procedure for Making Claims of Copyright Infringement athttp://www.microsoft.com/info/cpyrtInfrg.htm.
+==========
+Copyright and Trademark Notices
+
+All contents of the service are Copyright © 2009 Microsoft Corporation and/or its suppliers, One Microsoft Way, Redmond, Washington 98052-6399 U.S.A. All rights reserved.
+Copyright and other intellectual property laws and treaties protect any software or content provided as part of the service.
+We or our suppliers own the title, copyright and other intellectual property rights in the software or content.
+Microsoft, Windows, Windows Live, Windows logo, MSN, MSN logo (butterfly), Bing, OneCare and/or other Microsoft products and services referenced herein may also be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
+==========
+The names of actual companies and products mentioned herein may be the trademarks of their respective owners.
+The example companies, organizations, products, domain names, e‑mail addresses, logos, people, places and events depicted herein are fictitious.
+No association with any real company, organization, product, domain name, e‑mail address, logo, person, places or events is intended or should be inferred.
+Any rights not expressly granted herein are reserved.
+Certain software used in certain Microsoft web sites servers is based in part on the work of the Independent JPEG Group.
+==========
+Copyright © 1991 -1996 Thomas G. Lane.
+All rights reserved.
+"gnuplot" software used in certain Microsoft web sites servers is copyright © 1986-1993 Thomas Williams, Colin Kelley.
+All rights reserved.
+==========
+Potentially Unwanted Software
+
+If you remove or disable 'spyware,' 'adware' and other potentially unwanted software ('potentially unwanted software'), it may cause other software on your computer to stop working, and it may cause you to breach a license to use other software on your computer (such as where the other software installed the potentially unwanted software on your computer as a condition of your use of the other software).
+By using features of the service intended to help you remove or disable potentially unwanted software, it is possible that you will also remove or disable software that is not potentially unwanted software.
+If a feature of the service prompts you before removing or disabling potentially unwanted software, you are solely responsible for selecting which potentially unwanted software the service removes or disables.
+Before authorizing the removal of any potentially unwanted software, you should read the license agreements for the potentially unwanted software.
+==========
+Stock Quotes and Index Data (including Index Values)
+
+Stock quotes and index data (including, without limitation, index values) appearing on the service are supplied by Interactive Data Corporation ('IDC').
+Unless otherwise indicated, stock quotes are delayed at least 20 minutes (NASDAQ stock quotes are delayed at least 15 minutes).
+Stock quotes indicated as "real-time quotes" are made available without delay following their receipt from IDC.
+Your actual receipt of real-time quotes may be affected by delays in transmission over the Internet and by other causes.
+==========
+All stock quotes are labeled with "time of last trade" to indicate the timeliness of the data.
+Index data is labeled with a date/time stamp to indicate the timeliness of the data.
+==========
+All information provided by IDC and its affiliates (the "IDC Information") included in the service is owned by or licensed to IDC and its affiliates, and any user is permitted to store, manipulate, analyze, reformat, print and display the IDC Information only for such user's personal use.
+In no event shall any user publish, retransmit, redistribute or otherwise reproduce any IDC Information in any format to anyone, and no user shall use any IDC Information in or in connection with any business or commercial enterprise, including, without limitation, any securities, investment, accounting, banking, legal or media business or enterprise.
+==========
+Prior to the execution of a security trade based upon the IDC Information, you are advised to consult with your broker or other financial representative to verify pricing information.
+Neither IDC nor its affiliates or their respective licensors make any express or implied warranties (including, without limitation, any warranty or merchantability or fitness for a particular purpose or use) regarding the IDC Information.
+The IDC Information is provided to the users "as is."
+Neither IDC nor its affiliates or their respective licensors will be liable to any user or anyone else for any interruption, inaccuracy, delays, error or omission, regardless of cause, in the IDC Information or for any damages (whether direct or indirect, consequential, punitive or exemplary) resulting therefrom.
+You may not use any of the Dow Jones IndexesSM, index data (including, without limitation, index values), or the Dow Jones marks (including, without limitation, any of the foregoing provided as part of the IDC Information) in connection with the issuance, creation, sponsorship, trading, marketing or promotion of any financial instruments or investment products (e.g., derivatives, structured products, investment funds, exchange-traded funds, investment portfolios, etc. where the price, return and/or performance of the instrument or investment product is based on, related to, or intended to track, any of the Indexes or a proxy for any of the Indexes) without a separate written agreement with Dow Jones.
+Further, neither Dow Jones nor its licensors is giving investment advice, tax advice, legal advice, or other professional advice by providing the Dow Jones IndexesSM, and neither Dow Jones nor its licensors sponsor, recommend or endorse the purchase or sale of any security or investment.
+==========
+Third-Party Account Information in MSN Money "My Accounts" Service
+
+Each time you enter your account login and password information into the MSN Money "My Accounts" service (http://articles.moneycentral.msn.com/Banking/default.aspx), you authorize Microsoft and its agents to access those third-party financial sites designated by you and to retrieve your financial information for display within the My Accounts service.
+You will choose a password when registering.
+==========
+MSN Bill Pay Service Terms of Use and Privacy Statement
+
+The MSN Bill Pay service is provided by a third party service provider.
+Click https://cw411.checkfreeweb.com/pcw411/wps?rq=vtcsp=1299 and https://cw411.checkfreeweb.com/pcw411/wps?sp=1299rq=gffile=privacy_policy.htmlt to view the third party service provider's terms and conditions for use of the MSN Bill Pay service and the privacy policy applicable to how the third party service provider handles your data for the MSN Bill Pay service.
+==========
+Parental Controls
+
+Microsoft offers parental control protections that help you limit access to material that is harmful to minors.
+If you are interested in learning more about these protections, information is available at http://www.staysafe.org or other similar sites providing information on parental control protections.
+==========
+Financial Notice
+
+Microsoft is not a broker/dealer or registered investment advisor under United States federal securities law or securities laws of other jurisdictions, and does not advise individuals as to the advisability of investing in, purchasing or selling securities or other financial products or services.
+Nothing contained in the service constitutes an offer or solicitation to buy or sell any security.
+Microsoft does not endorse or recommend any particular financial products or services.
+Nothing contained in the service is intended to constitute professional advice, including but not limited to, investment or tax advice.
+==========
+Windows Supplemental Code 
+
+PLEASE NOTE: Microsoft Corporation (or based on where you live or where your business is headquartered, one of the Microsoft companies referenced in section 22) licenses this supplement to you.
+You may use a copy of this supplement with each validly licensed copy of Microsoft Windows software identified for use with it (the 'software').
+You may not use it if you do not have a license for the software.
+The license terms for the software apply to your use of this supplement.
+==========
+This supplement is covered by the Microsoft Online Privacy Statement, http://go.microsoft.com/fwlink/?LinkId=74170
+
+Notice About the H.264/AVC Visual Standard and the VC-1 Video Standard
+
+The software may include H.264/MPEG-4 AVC and/or VC-1 decoding technology.
+MPEG LA, L.L.C. requires this notice:
+THIS PRODUCT IS LICENSED UNDER THE AVC AND THE VC-1 PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (A) ENCODE VIDEO IN COMPLIANCE WITH THE ABOVE STANDARDS ('VIDEO STANDARDS') AND/OR (B) DECODE AVC AND VC-1 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO.
+NONE OF THE LICENSES EXTEND TO ANY OTHER PRODUCT REGARDLESS OF WHETHER SUCH PRODUCT IS INCLUDED WITH THIS SOFTWARE IN A SINGLE ARTICLE.
+NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE.
+ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE http://www.mpegla.com.
+For clarification purposes only, this notice does not limit or inhibit the use of the software provided under this agreement for normal business uses that are personal to that business which do not include (i) redistribution of the software to third parties, or (ii) creation of content with the VIDEO STANDARDS compliant technologies for distribution to third parties.
+==========
+Respect Copyright
+
+Please respect the rights of artists and creators.
+Content such as music, photos and video may be protected by copyright.
+==========
+People appearing in content may have a right to control use of their image.
+You may not share other people's content unless you own the rights or have permission from the owner.
+Support
+
+Customer support is not offered for the service, unless provided otherwise in this contract or the materials we publish in connection with a particular service specify that it includes customer support.
+==========
+Note
+
+This TOU is a translation for reference only.
+In case of conflict, the English version, found at  http://help.live.com/help.aspx?project=TOU&market=en-us&querytype=keyword&query=qaf, governs.
+==========

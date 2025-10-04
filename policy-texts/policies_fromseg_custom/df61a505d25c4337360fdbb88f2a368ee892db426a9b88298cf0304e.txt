@@ -1,0 +1,143 @@
+Ad Platform Privacy Policy
+ 
+This privacy policy outlines what information we collect via our ad platform, how we secure it, how we use it in relation to the services we provide to our clients, and certain rights you may have regarding such information.
+Who We Are
+Instreamatic, Inc. (“Instreamatic,” “we”, or “us”) is an audio and voice dialogue ad serving technology company.
+==========
+We enable our customers, who are publishers and advertisers (“Clients”), to interact with their audience by providing a platform for voice-based user interaction with the publishers’ and advertisers’ audio and audio-visual content (the “Platform”).
+Our Clients use our solutions to deliver relevant online user interaction into their streams.
+Instreamatic aims to create a better experience for you by allowing advertisers to present relevant advertising content, rather than advertising that is unrelated to your interests.
+Advertisers also benefit because targeted advertising is more effective and better received.
+==========
+We take your privacy seriously.
+This Policy outlines our privacy practices with respect to the Platform.
+If you want to understand our privacy practices with respect to our corporate website and information we collect from visitors to that website and from our Clients, please visit our
+Instreamatic Website Privacy Policy: https://instreamatic.com/website-privacy-policy/
+This Policy covers all data on that we collect for the purpose of delivering and enhancing our services to you with respect to the Platform.
+We are committed to protecting consumer privacy by informing you of what information we collect, how we use it, and with whom we may share it.
+We adhere to the Privacy Principles adopted by the Interactive Advertising Bureau (IAB).
+==========
+Information And Data We Collect to Perform Our Services
+The definitions of personal data vary depending on the laws where you are located.
+For example, in the European Union (EU), Canada and the U.S. State of California, personal data is defined more broadly than in other places and would include both “personally identifiable information” (also called “PII”) (such as email addresses and phone numbers) and “pseudonymous identifiers” (which are discussed below).
+In California, it is sometimes referred to as personal information.
+Instreamatic does not knowingly collect personally identifiable information through our advertising Platform or from clients.
+The term “personally identifiable information” or “PII” as used in this Policy refers to information that specifically identifies you as an individual.
+We do not intentionally collect any such information.
+We do access, collect and process pseudonymous identifiers via the Platform.
+A pseudonymous identifier is data that helps our Platform recognize a particular browser or device and present relevant ads, but it doesn’t enable us to know the user’s identity as a natural person.
+We never attempt to use pseudonymous identifiers we collect to identify who you are as a natural person.
+Rather, the information collected helps us to better understand your interests and preferences.
+We may also obtain pseudonymous identifiers from third party data vendors that receive such information pursuant to their own privacy policies.
+The information we may collect from you is:
+
+Browser identifier or cookie (see information regarding cookies below);
+IDFA (Apple Identifier) or GAID (Google Advertising ID) for mobile app users (if enabled);
+IP Address;
+Information about the ads that were played to a certain visitor/listener in the last 24 months;
+Device/Browser language;
+Operating system and its version;
+Device type;
+Instreamatic SDK version installed in the customers’s application;
+Aggregate Ad specific information: number of impressions, number of clicks, numbers of users exposed, percentage of ad content played, reaction to the ad;
+Real-time general location data, such as your town or zip code (we do not collect your  specific address);
+Calendar availability data in order to create events on behalf of the client (but only if you specifically consent to this);
+Audio-recordings of the responses to dialogue ads placed on the Platform and the text-version of the audio-recordings.
+These recordings are either kept anonymously or in relation to a specific IP address or IDFA/GAID identifier.
+==========
+We may also obtain non-personally identifiable data (pseudonymous identifiers) from third party data vendors and our Clients.
+These vendors and Clients receive such data pursuant to their own privacy policies and procedures.
+==========
+We do not knowingly obtain data from such vendors or Clients where appropriate and lawful consent has not be obtained to the collection of such data.
+The data collected by such parties would be indicated in the privacy policy document of the vendor or the Client, as the case may be, and it is not governed by this Policy.
+==========
+As mentioned, we do not collect personally identifiable information via our advertising technology.
+The information we collect by providing our services is meant to be traced back to an unidentified individual only for the purposes of the voice interaction and possibly for related transactions with the user.
+We do not intentionally or knowingly collect information from children under 16 years of age, and we do not tailor any segments to children under 16 years of age.
+==========
+Cookies
+A cookie is a small data file stored on your device.
+In the context of our Platform a cookie often contains a pseudonymous identifier that is assigned to your browser the first time it is seen by our Platform.
+On subsequent interactions with our Platform, we use this pseudonymous identifier to, among other things, recognize what advertisements your browser has interacted with previously.
+Our cookies are not used to identify you personally, cannot be used to install malware, viruses or any other harmful software and they cannot access any confidential data on your computer.
+==========
+For more information about our cookie policy go to https://instreamatic.com/website-privacy-policy/
+ 
+How We Use Information We Collect
+We process voice and other data to enable user interaction with our Clients’ content, including offering the ability to purchase specific items or programs during the voice interaction.
+Such voice data is retained for an appropriate amount of time for the processing of the requested transactions and any further period for purposes of the transaction and maintaining a legal record of the transactions.
+==========
+We use the voice recordings and transcriptions and other information collected to provide you with advertising that is relevant to you.
+We also process the data to identify which products/services could be relevant to you and to improve the quality of the ads with which you will be served.
+For example, we may use a voice response to an ad to determine potential likelihood to listen to another ad or we may use data collected to prevent the same ads to be served to you repeatedly.
+We also use the data we collect to maintain, improve and develop new services.
+==========
+Data Retention
+We retain some of the information we collect, such as voice interactions with our Platform both in audio recording and text formats as well as the related IP address or IDFA/GAID identifier.
+We retain such recordings and texts for a maximum of 24 months, on a rolling basis, and we do so only as necessary in relation to the purpose for which we collect data (see above for the purpose for which we collect such information).
+==========
+Security of Data
+We take reasonable and appropriate measures to ensure that all data is kept secure including measures to prevent personal data from being accidentally lost, misused or accessed without authorization.
+This includes but is not limited to the use of firewalls and encryption.
+No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee absolute security.
+==========
+Those processing your information will do so only in an authorized manner and are subject to a duty of confidentiality.
+We also have procedures in place to deal with any suspected data security breach.
+We will notify you and any applicable regulator of a suspected data security breach when we are legally required to do so.
+==========
+Opting Out of Data Collection
+If you prefer not to receive targeted advertising from us, you can opt-out of our processing of data by the Platform by clicking on this link https://instreamatic.com/remove-your-data-opt-out/ or by opting out using the controls given to you by the application from which you accessed the Platform or by opting out on the device on which our Platform is used.
+In addition, where we receive an individual’s request to opt-out of targeted advertising from a Client we will apply that opt-out request to our Platform as well.
+However you opt-out, we will set a cookie on your browser that tells us not to collect information from you and not to tailor ads to your interests.
+Opting out does not mean you will not be served an ad by us, but that the ads we serve will be less relevant to your interests.
+==========
+Please note that the opt-out cookie only applies to the mobile device or computer and browser where it is set.
+If you delete the opt-out cookie (such as by clearing all cookies on your browser), you will need to renew your opt-out choice.
+Please note that the opt-out process may be different for each mobile operating system.
+==========
+Disclosure Of Data 
+We are occasionally asked by our Clients to provide information regarding our services including information concerning the effectiveness of ads run on our Platform.
+When we provide such information, we do so only on an anonymous basis or through pseudonymous identifiers.
+==========
+Please note that we may be required to disclose information to third parties when obligated to do so by law and in order to investigate, prevent, or take action regarding suspected, or actual prohibited activities, including transfer reasonably intended to meet national security or law enforcement requirements, or when we believe in good faith that disclosure is necessary to protect our rights, including but not limited to fraud and situations involving potential threats to the physical safety of any person.
+In the event that we sell, merge or transfer all or part of its business, we may transfer visitor information to a third party as part of that transaction.
+==========
+Removing, Accessing, or Changing Information
+Removing Information for any User – Right To Be Forgotten
+Any user, wherever located, can ask us to remove their data collected by us through clicking on this link: https://instreamatic.com/remove-your-data-opt-out/, which we will do as permitted by law.
+You may also send an email to us at privacy@instreamatic.com with your full name, your email address, and your IDFA (Apple Ad ID) or Google Advertising ID (GAID – Android) with a request to remove your data.
+Right to Access/Know
+Both of the California Consumer Privacy Act (CCPA) and General Data Privacy Regulation (“GDPR”) provide you with the right to see what data we have currently concerning you.
+If you would like to know what information that we have about you, then email us at privacy@instreamatic.com with your full name, your email address, and your IDFA (Apple Ad ID) or Google Advertising ID (GAID – Android) with a request to know what information we have about you.
+==========
+We will confirm your request within 10 days and make a good faith attempt to fulfill your request within 45 days.
+Correction of Data
+Depending on your location (e.g., you are resident in California or the EU) you have the right to have us correct any mistakes in your information that we hold.
+Please contact us at privacy@instreamatic.com if you would like to request us to correct your information that is held by us.
+==========
+Authorized Agent
+You may have an authorized agent remove, access or change information pursuant to the instructions above.
+Please make sure to authorize only someone you trust to act as your authorized agent.
+We are not responsible for actions taken by your agent.
+Nondiscrimination 
+You have a right not to be discriminated against if you exercise any of the rights you have to  Remove, Access, or Change Information, as described above, and we will not do so.
+==========
+Compliance with GDPR Article 6 
+Pursuant to the GDPR, where we are a controller of data the legal basis for our collection of data will have both a legitimate interest and with consent in accordance with Article 6 of the GDPR.
+The processing of your data is not high risk and will not violate fundamental human rights.
+We process personal data of Clients for the performance of our contracts with them in accordance with Article 6 of the GDPR.
+==========
+This Privacy Policy is subject to change.
+We will post the updated version on our Website.
+Whenever a change is significant, we will place a prominent notice on this Website.
+==========
+We encourage you to periodically review this page for the latest information on our privacy practices.
+Contacting Us
+If you have any questions about our privacy policy or privacy practices, please contact us:
+Instreamatic, Inc.
+==========
+3101 Park Blvd.
+Palo Alto, CA 94306
+privacy@instreamatic.com
+This Policy was last updated on: March 3, 2021
+==========

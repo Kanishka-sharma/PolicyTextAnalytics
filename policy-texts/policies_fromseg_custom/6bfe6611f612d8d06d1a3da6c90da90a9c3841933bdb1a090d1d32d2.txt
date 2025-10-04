@@ -1,0 +1,124 @@
+1.
+Updates
+Updates are available to customers who have purchased a license in accordance with the license they have purchased.
+==========
+A Personal site license provides automatic upgrades for a single site, A Business license provides automatic upgrades for up to 5 sites and a Developer license provides automatic upgrades for unlimited sites owned by you or your clients.
+You may not share or resell access to your support license key.
+==========
+Updates are provided for the term defined by the license type and are based on the date of purchase.
+After the license has expired then a new license will need to be purchased in order to continue receiving support and product updates.
+2.
+==========
+Delivery
+After we have successfully processed your payment, you will be displayed with a purchase confirmation screen which contains both a link to download the product and a license key.
+You will also receive an email containing the download link and license key to the email address which you specified during checkout.
+==========
+This may take up to 1 hour to arrive, but usually happens within minutes of placing the order.
+If you do not receive an email after this time period or have any issue downloading your product then please contact us.
+3.
+==========
+Ownership
+You may not claim intellectual or exclusive ownership rights to any of our products.
+All products are property of Smash Balloon LLC.
+They are provided “as is” without warranty of any kind, expressed or implied.
+We shall not be liable for any damages, including but not limited to, direct, indirect, special, incidental or consequential damages or losses that occur out of the use or inability to use our products.
+4.
+==========
+Re-distribution
+It is not permitted to include any of Smash Balloon Pro plugins in a theme or other plugin which will be redistributed.
+Smash Balloon will not provide plugin updates or product support for any Smash Balloon Pro plugin/license that has been bundled, re-packaged, re-sold or re-distributed by an original Smash Balloon customer of that plugin or license.
+For example: This provision applies to any company/person who may design or distribute WordPress themes and deciding to purchase a single Smash Balloon Developer license (which can be installed on an unlimited number of sites) with the intent to include the plugin as a re-packaged or bundled “add-on” with their theme, or to re-sell or re-distribute the plugin as an available separate plugin to be used with their theme under the unlimited site license.
+==========
+License holders cannot distribute, freely giveaway, or resell their license key.
+The license key is only transferable by contacting us and requesting an official transfer of the license to a new owner.
+5.
+==========
+Site Content
+All site content, including imagery and documentation that is published on SmashBalloon.com is the property of Smash Balloon LLC.
+Any replicated site content must be authorized in advanced.
+Content from this site shall not be used or exploited for commercial or non-commercial purposes without the prior written consent of Smash Balloon LLC.
+6.
+==========
+Support
+Technical support and software upgrades are provided electronically only – via automatic updates on the WordPress plugins page or via email – to customers who have an active license which they have purchased.
+Support and upgrades will be provided in accordance with the license as defined at the time of purchase.
+==========
+We are happy to help if you are having trouble getting our products to work in your environment or find a bug.
+We also don’t mind helping if you need a light modification.
+==========
+However any major modification that involves custom code or more than a few lines of css are out of scope of the support policy.
+We do not offer telephone support.
+==========
+Support and automatic product updates are provided for the term defined by the license type and are based on the date of purchase.
+After the license has expired a new license will need to be purchased in order to continue receiving support and product updates.
+7.
+==========
+Refund Policy
+We care about our plugins and customers.
+We want to ensure that you are happy with your purchase and that our products work correctly in your website environment.
+If you have any questions, problems or concerns with any of our products then please let me know by simply responding to your purchase confirmation e-mail or by using the form on the support page.
+==========
+Money Back Guarantee
+If you have any irresolvable issues getting one of our plugins to work or if the plugin simply does not meet your expectations we will be happy to provide a full refund within 30 days of the original purchase.
+After 30 days, no refunds can be given.
+If you’d like to request a refund, then you must contact us here and let us know you wish to have your purchase refunded.
+As we are dedicated to making our plugins as awesome as possible, it would be greatly appreciated if you’re able to include a clear explanation in your request of why you are unhappy as we would love to see if there is something we can further do for you or at least determine whether it might be something that would also be beneficial or further assist our other plugin users.
+8.
+==========
+Subscriptions
+As of March, 2020 any purchase made (other than lifetime licenses) are purchased on a one year subscription basis.
+We understand that subscriptions are not for everyone and so we offer the ability for every customer to cancel a subscription at any time prior to the scheduled renewal date directly within their Smash Balloon user account by following the instructions provided in our Subscriptions FAQ.
+We will also stop your Subscription if we issue you a full refund.
+If you wish to have Smash Balloon cancel a subscription on your behalf, your request for a cancellation must be received within the 30 days of the date and time of making the purchase.
+While most refunds may be instant, refund credit can take up to 5 – 10 business days to show up in your credit card statement.
+If you have not cancelled your subscription prior to the scheduled renewal and a renewal payment was made then you only need to contact us within the 30 days of the renewal date and a refund will be provided if you wish.
+Requests for subscription payment refunds received after 30 days from the date of the subscription renewal will not be refunded.
+9.
+==========
+Transactional Emails
+Smash Balloon LLC may on occasion send you email notifications related to your product license.
+These emails may include license expiration notices, important information, or other emails related to your purchase.
+10.
+==========
+License Renewal
+After the initial purchase you will be billed on an annual basis in order to renew your product license key and continue receiving plugin updates and support.
+You can cancel at any time and will still have access to plugin updates and support until the end of that billing cycle.
+After this time, you may still continue to use the plugin but will no longer have access to plugin updates or technical support.
+11.
+==========
+Price Changes
+Smash Balloon LLC reserves the right to change the price of any product at any time.
+Any price change will be reflected on SmashBalloon.com.
+In the event that any price is lowered, you will not be entitled to a refund for the difference in the price from the time you purchased the product.
+12.
+==========
+Warranty
+Our products are guaranteed to function on a clean installation of WordPress.
+We do not guarantee it will function with all 3rd party plugins or with all web browsers.
+==========
+We are not responsible for any plugin compatibility conflicts that may occur.
+It is our policy to support our plugins as best we can and we will provide support for 3rd party plugin conflicts at our discretion or as time allows.
+We are not responsible for any data loss that may occur as a result of installing this plugin.
+You agree to indemnify and hold harmless Smash Balloon LLC against any and all claims and expenses, including attorneys’ fees, arising out of your use of any of our plugins, including but not limited to your violation of this Agreement.
+13.
+Sharing of Data
+We will not share your data with any third parties under any circumstances.
+14.
+Data Privacy
+Please refer to our Website Privacy Policy, and our App Privacy Policy.
+15.
+==========
+Reading of Data
+Our plugins are built to be “read only” and so are not able to publish any data to, or edit any data on, social media platforms.
+The plugins are intended only to display some of your social media content and is not able to publish to any social media platforms or access your account other than in a “read only” fashion.
+16.
+==========
+Collection and Storage of Data
+We do not collect or store any of your login information, Access Tokens, or content.
+As the plugins are installed on your website then any information is stored within your website’s database.
+Your social media login information is not stored in your database by our plugin.
+The plugin does not collect any data from the visitors to your website.
+17.
+Acceptance
+By purchasing our product(s) you indicate that you have read and agree to the Terms & Conditions detailed on this page.
+==========

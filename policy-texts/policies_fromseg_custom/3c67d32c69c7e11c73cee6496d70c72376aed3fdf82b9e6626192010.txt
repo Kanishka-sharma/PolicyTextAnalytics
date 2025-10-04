@@ -1,0 +1,62 @@
+We understand that when you use our cloud services, you’re entrusting us with one of your most valuable assets—your data.
+You control your data
+Our time-tested approach to privacy is grounded in our commitment to give you control over the data you put in the cloud.
+In other words, you control your data.
+==========
+Microsoft guarantees this with the contractual commitments we make to you.
+Your data belongs to you
+Your data is your business, and you can access, modify, or delete it at any time.
+Microsoft will not use your data without your agreement, and when we have your agreement, we use your data to provide only the services you have chosen.
+Learn more
+Your control of your data
+Your control over your data is reinforced by Microsoft compliance with broadly applicable privacy laws such as the GDPR and privacy standards such as the world’s first international code of practice for cloud privacy, ISO/IEC 27018.
+==========
+Independent audit reports
+You have access to independent audit reports of our compliance with privacy standards, which in turn offers support for meeting your own privacy obligations.
+Learn more about independent audit reports
+Data processing only with consent
+We only process your data based on your agreement and in accordance with the strict policies and procedures that we have contractually agreed to.
+==========
+We do not share your data with advertiser-supported services, nor do we mine it for any purposes like marketing research or advertising.
+Learn about our Product Terms
+Subcontractors data restrictions
+When we deploy subcontractors or subprocessors to perform work that requires access to your data, they can perform only the functions that Microsoft has hired them to provide, and they are bound by the same contractual privacy commitments that Microsoft makes to you.
+The Microsoft Online Services Subprocessor List identifies authorized, subprocessors, who have been audited against a stringent set of security and privacy requirements in advance.
+Learn about our Subprocessors list notifications
+We secure your data at rest and in transit
+With state-of-the-art encryption, Microsoft protects your data both at rest and in transit.
+Our encryption protocols erect barriers against unauthorized access to the data, including two or more independent encryption layers to protect against compromises of any one layer.
+Data at rest
+The Microsoft cloud employs a wide range of encryption capabilities up to AES-256, giving you the flexibility to choose the solution that’s best for your business.
+Data in transit
+Microsoft uses and enables the use of industry-standard encrypted transport protocols, such as Transport Layer Security (TLS) and Internet Protocol Security (IPsec).
+Encryption keys
+All Microsoft-managed encryption keys are properly secured and offer the use of technologies such as Azure Key Vault to help you control access to passwords, encryption keys, and other secrets.
+==========
+We defend your data
+Microsoft defends your data through clearly defined and well-established response policies and processes, strong contractual commitments, and if necessary, the courts.
+We believe all government requests for your data should be directed to you.
+We don’t give any government direct or unfettered access to customer data.
+Responding to data requests
+We will not disclose data to a government or law enforcement agency, except as you direct or where required by law.
+==========
+Microsoft scrutinizes all government demands to ensure they are legally valid and appropriate.
+Law enforcement requests
+If Microsoft receives a request for your data, we will promptly notify you and provide a copy of the request unless legally prohibited from doing so.
+Moreover, we will direct the requesting party to seek the data directly from you.
+==========
+Learn more
+Our contractual commitments
+Our contractual commitments to our enterprise and public sector customers include defending your data, which builds on our existing protections.
+We will challenge every government request for commercial and public sector customer data where we can lawfully do so.
+==========
+We have a proven track record of successfully challenging government demands in the courts when those demands are inconsistent with the rule of law, and we are transparent about the number of US national security orders we receive.
+GDPR compliance
+We stand behind the strength of our GDPR compliance and other data protection safeguards.
+To provide added reassurance against liability for our commercial and public sector customers, we will provide monetary compensation if we disclose their data in response to a government request in violation of the EU’s GDPR.
+==========
+Learn more
+Our promise to you
+In our enduring commitment to the principles above, we are transparent about the specific policies, operational practices, and technologies that help ensure the privacy of your data in every Microsoft commercial cloud service.
+And we don’t just state these promises—we contractually guarantee them in our standard contracts for commercial and public sector customers.
+==========

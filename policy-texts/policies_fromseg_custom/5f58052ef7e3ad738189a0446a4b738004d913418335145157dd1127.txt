@@ -1,0 +1,171 @@
+STRICTLY NECESSARY COOKIES  CloudflareWe use the __cfduid cookie to identify individual clients behind a shared IP address and apply security settings.
+This helps us to stop malicious traffic and spam across our site.
+We also use the __cfruid cookie for our rate-limiting policies.
+Cloudflare provides web optimisation and security services that we use to improve and protect our websites, including a reverse proxy, pass-through security service, and a content distribution network.
+==========
+Persistent1 yearCloudflarehttps://www.cloudflare.com/privacypolicy/ gidThis cookie helps us identify users for our own internal purposes.
+By recognising unique browsers, we can more accurately measure the total number of users visiting our site from different locations on the web.Persistent1 yearNo third parties involved gid_tmpThis cookie helps us identify users for our own internal purposes.
+By recognising unique browsers, we can more accurately measure the total number of users visiting our site from different locations on the web.Persistent1 yearNo third parties involved JSESSIONIDThe jsessionid cookie helps us to monitor the reliability of our service and manage login sessions by preserving user states across page requests.SessionNew relichttps://newrelic.com/termsandconditions/privacy OauthThe userToken, oauthToken cookies let us to authenticate each subsequent login request to our site by a customer.Session24 hoursNo third parties involved rc::cWe use the rc::c cookie to help us distinguish between humans and bots.Session Veriff
+We use the #cid cookie to gather all information relating to a browser in order to detect any fraudulent or unlawful activity of a user.
+==========
+This is a strictly necessary cookie in order to keep us compliant with applicable EU laws and regulations.
+Session
+We use the cacheID to gather all information relating to a browser in order to detect any fraudulent or unlawful activity of a user.
+This is a strictly necessary cookie which helps us comply with EU laws andregulations.
+==========
+Persistent
+1 yearVeriffhttps://www.veriff.com/privacy-policy twCookieConsentThis is essential for letting us remember your choice of cookie consent.Persistent6 monthsNo third parties involved twCookieConsentGTMThis is essential for letting us remember your choice of cookie consent.Persistent6 monthsNo third parties involved selectedProfileIDWe use the selected-profile-id-userid cookie to store the selected profile on your device.
+Both frontend and backend services use the information stored in this cookie to determine which account is being used (if you have multiple accounts).
+Persistent1 yearNo third parties involves _mp_opt_in_out#The _mp_out_in_out# localStorage item is essential for remembering your choice of cookie consent, specifically for Mixpanel.PersistentN/AMixpanel localeDataWe use the localeData cookie to store your language preference and provide you with customised regional content.
+==========
+This helps us to show content translated into your preferred language, a key part of making our service accessible to an international audience.Persistent1 year countryOfResidenceWe use the countryOfResidence cookie to ensure that you’re only shown products which are available in your country.Session N/ANo third parties involved signupTokenWe use this cookie to allow customers to complete a signup if it's interrupted.Session N/ANo third parties involved tw-refWe use tw-ref cookies as part of the referral program to help identify a host / guest.
+These let us link hosts to guests that sign up, and help us to apply a discount for first-time invited customers.Persistent1 monthNo third parties involved tw-ref-invite-source-codeWe use tw-ref cookies as part of the referral program to help identify a host / guest.
+These let us link hosts to guests that sign up, and help us to apply a discount for first-time invited customers.Persistent1 monthNo third parties involved tw-ref-user-idWe use tw-ref cookies as part of the referral program to help identify a host / guest.
+These let us link hosts to guests that sign up, and help us to apply a discount for first-time invited customers.Persistent1 monthNo third parties involved tw-ref-usertWe use tw-ref cookies as part of the referral program to help identify a host / guest.
+These let us link hosts to guests that sign up, and help us to apply a discount for first-time invited customers.Persistent1 monthNo third parties involved tw-ref-user-nameWe use tw-ref cookies as part of the referral program to help identify a host / guest.
+These let us link hosts to guests that sign up, and help us to apply a discount for first-time invited customers.Persistent1 monthNo third parties involved tw-couponThis helps us to apply a discount for eligible customers.Persistent1 monthNo third parties involved accountDetailsReferralCodeThis cookie allows us to modify the account details onboarding experience for users referred from known affiliates.SessionN/ANo third parties involved rate-alerts-tokenWe need the sessionStorage value to keep the user logged in to the Rate Alerts service, and to manage their saved rate alerts.SessionN/ANo third parties involved deviceTokenTWThis is a required token to keep your account safe.Persistent1 yearNo third parties involved appTokenWe use the appToken cookie to identify which client is using Wise services.Persistent24 hoursNo third parties involved rememberMeRetains the user’s previous decision for the ‘Remember this device for 30 days’ checkbox each time they login.
+Remembering the device means we record that the customer has successfully logged in with second factor authentication (such as SMS or Push) on that device previously, and we will only require first factor authentication (e.g. password) in order to login again on that same device in the next 30 days.
+==========
+This rememberMe cookie only records true/false whether or not the checkbox was ticked, and so whether or not it should be ticked next time.
+If rememberMe was selected, the fxuser cookie stores a unique value on that device used to approve skipping 2fa for that user.
+==========
+Persistent1 yearNo third parties involved tell-me-more-bannerThe purpose of this cookie is to let us remember your choice to not see banners on our website.Persistent90 daysNo third parties involved beta-bannerThe purpose of this cookie is to let us remember your choice to not see banners on our website.Persistent90 daysNo third parties involved currency-converter-app-bannerThe purpose of this cookie is to let us remember your choice to not see banners on our website.Persistent90 daysNo third parties involved switch-salary-bannerThe purpose of this localStorage item is to remember your choice to not see banners on our website.PersistentN/ANo third parties involved has-agreed-owners-disclaimerThe purpose of this cookie is to help us remember that you have accepted the disclaimer shown on https://wise.com/owners/.Persistent40 daysNo third parties involved interstitialDismissedThe purpose of this cookie is to help us decide if we should show you an interstitial modal on our home page.Persistent90 daysNo third parties involved Investis DigitalThese cookies are associated with and managed by Amazon Web Services.
+AWSELB , AWSALB, AWSELBCORS, AWSALBCORS: These cookies enable us to allocate server traffic to ensure the user’s experience is consistent.
+==========
+A so-called load balancer is used to determine which server currently has the best availability.
+AWSALBTG: This cookie helps us remember what server we allocated a user request to and to route subsequent requests to the same server.
+AWSALBTGCORS: This cookie contains the same information as the AWSALBTG cookie plus a SameSite attribute.
+==========
+Persistent1 dayAmazon Web Serviceshttps://www.investisdigital.com/privacy-policy ASP.NET_SessionIdASP Dot Net uses this cookie to record the users current session between page requests.Session1 SessionASP Dot Net, Investis Digitalhttps://www.investisdigital.com/privacy-policy COOKIES THAT GIVE YOU A BETTER BROWSING EXPERIENCE  usrThis cookie stores a value that identifies you after logging in.
+It lets us deliver relevant content to you on our homepage.Persistent1 yearNo third parties involved hasClickedOnSignUpOrLoginThis lets us customise your experience so that it’s easier for you to log in, such as replacing the register button with a login button.Persistent90 daysNo third parties involved Test.cookieWe use the test.cookie to check if the user's browser supports cookies.Persistent1 dayDoubleclick.nethttps://policies.google.com/technologies/ads?hl=en-US rate-alerts-routeThis localStorage value saves your most recent choice of currency to currency route on the rate alerts page.PersistentN/ANo third parties involved profileTypeThis cookie is used to save the user profile type at Register page as a cookie to reuse it at on-boarding flows.Session1 SessionNo third parties involved COOKIES THAT HELP US IMPROVE OUR PRODUCTS  analyticsThis cookie lets us see how you interact with our products in the backend.
+==========
+It contains information on your profile and whether or not you’ve registered in the past.Session1 sessionNo third parties involved Google Analytics
+The _gat and gat# cookies are installed by Google Universal Analytics to throttle the request rate to limit the collection of data on high traffic sites.
+Session 1 minute
+We use the _gid cookie to store information on how visitors use a website and helps in creating an analytics report of how the website is doing.
+==========
+The data includes the number of visitors, where they came from, and the pages visited in an anonymous form.
+Persistent 1 day
+We use _ga cookie to calculate visitor, session, campaign data and keep track of site usage for the site's analytics report.
+It stores information anonymously and assigns a randomly-generated number to identify unique visitors.
+==========
+Persistent 2 years
+We use the _dc_gtm_UA# to limit the number of requests that we make to Google Analytics.
+Session
+We use the collect cookie to see which devices and marketing channels you’re using.
+We send this information to Google Analytics to learn about your device and behaviour.
+Session
+Googlehttps://support.google.com/analytics/answer/6004245 HotJarWe use the _hjid cookie to see your behaviour for our own statistical and monitoring purposes.
+==========
+This cookie lets us identify which users have been randomly selected to take part in a sample to monitor those users’ behaviour on our site.
+Hotjar also provides us with a heatmap of the site which allows us to monitor, for example, how far you’ve scrolled down a page and where you may have hovered.
+With session and screen recording, we’re able to get more context for complicated problems — by observing users going through our flows in an uninterrupted manner, in their real life setting.
+This helps us identify subconscious thought patterns users have, which helps us pin-point where customers might struggle in our product.
+==========
+We set the _hjClosedSurveyInvites cookie once a visitor interacts with a survey invitation modal popup.
+We use it to ensure that the same invite does not reappear if it has already been shown.
+We set the _hjDonePolls cookie once a visitor completes a poll using the Feedback Poll widget.
+We use it to ensure that the same poll does not reappear if it has already been filled in.
+==========
+We set the _hjMinimizedPolls cookie once a visitor minimises a Feedback Poll widget.
+We use it to ensure that the widget stays minimised when the visitor navigates through our site.
+We set the _hjDoneTestersWidgets cookie once a visitor submits their information in the Recruit User Testers widget.
+==========
+We use it to ensure that the same form does not reappear if it has already been filled in.
+We set the _hjIncludedInSample cookie to let Hotjar know whether that visitor is included in the sample, which lets us generate funnels.
+We set the _hjShownFeedbackMessage cookie when a visitor minimizes or completes Incoming Feedback.
+We do this so that the form will be minimised immediately if they navigate to another page where it is set to show.
+The _hjRecordingLastActivity cookie should be found in sessionStorage (as opposed to cookies).
+==========
+This gets updated when a visitor recording starts and when data is sent through the WebSocket (the visitor performs an action that Hotjar records).
+We use the hjTLDTest cookie when the Hotjar script executes and we try to determine the most generic cookie path we should use, instead of the page hostname.
+==========
+We do this so that cookies can be shared across subdomains (where applicable).
+To determine this, we try to store the _hjTLDTest cookie for different URL substring alternatives until it fails.
+After this check, the cookie is removed.
+==========
+We use the _hjUserAttributesHash cookie as user attributes are sent through the Hotjar Identify API are cached for the duration of the session in order to know when an attribute has changed and needs to be updated.
+The _hjCachedUserAttributes cookie stores User Attributes which are sent through the Hotjar Identify API, whenever the user is not in the sample.
+These attributes will only be saved if the user interacts with a Hotjar Feedback tool.
+==========
+Persistent1 yearHotJarhttps://www.hotjar.com/legal/policies/privacy iz_sd_ss and iz_uh_ps
+We use the iz_sd_ss cookie to store data about a visitor in order to make decisions about when to show a survey, like the number of site visits and survey views.
+We ask users to complete a survey from time to time in order to help Wise improve its pages and services.
+For example, we might ask users whether they could find the information they were looking for, or ask users what products and services they are interested in.
+We use survey responses in order to make content on our site more relevant and helpful to the individual user.
+We do not study individuals during this process.
+Session
+We use the iz_uh_ps cookie to store data about a user relating to the number of site visits and survey views, which enables us to make a decision about whether we should undertake a survey about the use of our site.
+==========
+Persistent
+1 yearInformizelyhttps://www.informizely.com/data-protection MixpanelThe mp_#_mixpanel cookie is an analytical cookie that helps us understand how you move through the website.
+This data is shared with Mixpanel in order to help us improve our site.
+With it we can measure visits to parts of our site, track the success of flows within our site, understand where the failures or dropoffs are, and measure the success of changes to the site.
+==========
+As well as referral source information, it contains a randomly assigned number in order to associate events belonging to the same session, and if logged in, the Wise customer number.
+It also allows us to determine the customer numbers of a group of users that may have been affected by a fault of our site.
+==========
+Access to separate internal tools would be needed to query customer information from that customer number.Persistent1 yearMixpanelhttps://mixpanel.com/legal/privacy-policy/ userSecurityDataThe purpose of the userSecurityData cookie is to keep track of how many times we have shown a user the option to enable security features after they log in.PersistentN/ANo third parties involved COOKIES THAT KEEP OUR MARKETING COSTS DOWN  FacebookThe fr, _fbp, _tr, AA003 and ATN cookies are used by Facebook to obtain encrypted data about visitors and users of our website for the purposes of measuring advertising effectiveness, showing relevant advertising to certain groups of users and excluding other groups of users from seeing irrelevant advertising.
+For example, if a user registers on wise.com, the cookie will share with Facebook encrypted emails used to register with Wise in the form of a hash.
+If you have an account with Facebook, Facebook will be able to identify you as the same user on Facebook that has registered for Wise.
+If you don’t have an account, this hash renders useless, and as such ‘new’ information previously unknown to Facebook is not shared with Facebook.
+In this example, we can measure the effectiveness of our Facebook advertising.
+It helps us understand how many users have registered with Wise via Facebook.
+This is important as it means we can make informed investment decisions about our advertising.
+==========
+This may help us contribute to our overall mission of reducing prices for customers over time.
+This can also help us prevent advertising irrelevant content to users, e.g. advertisements encouraging users to sign up to Wise when they have already done so.
+Persistent3 monthsFacebookhttps://en-gb.
+==========
+facebook.com/policy.php g_airpr_recent_visistWe use the g_airpr_recent_visit cookie to store data about visitors in order to match the unique identifier with visits to digital media outlets so we can understand the effectiveness of our communications.Persistent1 dayOnclusivehttps://onclusive.com/legal/gdpr-dataprocessingaddendum/ Google Ads
+We use the _gcl_au cookie to link Google advertisements to conversions made on our site.
+This cookie is also used by Google AdSense for experimenting with advertising efficiency across websites using their service.
+Persistent
+The ads/ga-audiences cookie is used by Google Adwordsinorder to re-engage visitors based on their online behaviour across various websites.
+==========
+Session
+We use the NID cookie to assign a unique ID number to a returning user’s device.
+This unique ID number is used for targeting advertisements to the user.
+Persistent
+90 days Google MUID and MUIDBThe MUID and MUIDB (bat.bing.com) cookies let us track users by synchronising the Microsoft User Identifier (MUID) across many domains and counting the number of valid clicks.
+==========
+This helps us better understand user behaviour and has the potential to increase efficiency in our marketing spend.Persistent1 yearMicrosofthttps://about.ads.microsoft.com/en-gb/resources/policies/microsoft-advertising-click-measurement-description-of-methodology TwitterWe use the personalization_id cookie to store data about visitors and users and measure advertising effectiveness, show relevant advertising and exclude irrelevant advertising.
+The i/adsct cookie is used by Twitter to determine the number of visitors accessing the website through Twitter advertising content.
+==========
+Persistent, session30 daysTwitterTwitter Cookie Policy Yahoo
+The B cookie lets us store data about a user in order to log conversions made from clicks on advertisements.
+In particular, this cookie enables us to collect statistical data related to the user's website visits, such as the number of visits, average time spent on a website and what pages have been loaded.
+This helps us better understand user behaviour and has the potential to increase efficiency in our marketing spend.
+Persistent 2 years
+The XB andpagead/conversion/1001035224 cookie is used by Yahoo to enable it to track Yahoo conversions.
+==========
+Persistent / session 6 days
+Yahoohttps://policies.yahoo.com/xa/en/yahoo/privacy/index.htm SnapThe sc_at cookie anonymously identifies device browsers.
+The benefit of the cookie is to understand the effectiveness of partnering with Snap.Persistent13 monthsSnaphttps://www.snap.com/en-GB/cookie-policy SnapThe _sctr cookie lets us improve application functionality.
+The benefit of the cookie is to understand the effectiveness of partnering with Snap.Persistent7 daysSnaphttps://www.snap.com/en-GB/cookie-policy SnapThe _scid cookie lets us anonymously identify device browsers.
+The benefit of the cookie is to understand the effectiveness of partnering with Snap.Persistent13 monthsSnaphttps://www.snap.com/en-GB/cookie-policy rdt_uuidThe purpose of the cookie is to identify users who’ve seen the ads of Wise on Reddit so that we can run our ads more efficientlyPersistent90 daysNo third parties involved Quora AdsThe Quora cookie helps us to identify users who’ve seen Wise ads on Quora.
+This helps us to run our ads more efficiently.Persistent, Session90 daysFacebook, Twitter, LinkedIn, Google Analytics, Ad Services and Other Service Providershttps://www.quora.com/about/pixel_privacy PodsightsThe purpose of this cookie is to help us to link podcast listeners who were exposed to our audio ads with on-site conversionsPersistent365 daysNo third parties involvedhttps://podsights.com/privacy/ Amazon Ads
+The purpose of the ad-id cookie is to help us track conversions that can be attributed to advertising on Amazon properties.
+==========
+Persistent
+The purpose of the ad-privacy cookie is to store the opt-out status of a user, so no ads will be shown to them.
+Persistent
+The purpose of the sis-device-id cookie is to identify the browser you are using.
+Persistent
+9 monthsNo third parties involved Prospect Point Media
+The purpose of the bpm_cookie and ppm_fpc cookies is to help us track conversions that can be attributed to advertising on Spotify and Pandora properties.
+Persistent
+The bito and bitoIsSecure cookies are used by Prospect Point Media to enable it to augment listener data in order to evaluate and improve the effectiveness of the Ad Airings it purchases on our behalf.
+==========
+Persistent
+1 yearProspect Point Media, Beeswaxhttp://blisspointmedia.com/privacy; https://www.beeswax.com/privacy/ SIMILAR TECHNOLOGIES  Facebook IntegrationsWe use the Facebook button on our website in order to link users to our Facebook profile.
+We may use Facebook's advertising services.
+In providing these services Facebook may collect certain information about our website visitors.Facebookhttps://developers.facebook.com/docs/facebook-pixel/implementation/gdpr/ Google AdWordsWe may use Google's advertising services which may include re-marketing, re-engagement or similar audience features in Google Ads that would allow us to reach people who previously visited our website, and match the right people with the right message.
+Google may display ads about our website or our services when you are browsing other websites.
+In providing these services Google may collect certain information about our website visitors.Googlehttps://policies.google.com/privacy Youtube IntegrationsWe use Youtube to embed videos on our website.
+In providing this service Google may collect certain information about our website visitors.
+yt-player-* and yt-remote-* are session-based HTML storage keys that we use to manage the behaviour of the integrated YouTube video player.
+==========
+Youtubehttps://policies.google.com/privacy?hl=en&gl=uk THIRD PARTY COOKIES  Google PayWe use Google Pay as a payment method on the website.
+In providing this service Google may collect certain information about our website visitors.https://policies.google.com/privacy
+==========

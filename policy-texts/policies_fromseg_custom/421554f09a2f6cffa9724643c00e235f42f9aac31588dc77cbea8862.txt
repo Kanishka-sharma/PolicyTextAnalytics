@@ -1,0 +1,303 @@
+This website (hereinafter the “Website“) is provided by Bayer AG (hereinafter “us” or “we”).
+For further information regarding the provider of the Website, please refer to our imprint
+Information on other selected non-Website related data processing activities performed by us and all of our affiliates in Germany (e.g. when you give us a business card or we collect your data from publicly available sources) can be found in the privacy information for selected specific processing activities.
+A. Handling of personal data
+In the following we wish to provide you with information on how we handle your personal data when you use our Website.
+Unless otherwise indicated in the following chapters, the legal basis for the handling of your personal data results from the fact that such handling is required to make available the functionalities of the Website requested by you (Art. 6(1)(b) General Data Protection Regulation).
+I. Using our Website
+1.
+Accessing our Website
+When you call up our Website, your browser will transfer certain data to our web server.
+This is done for technical reasons and required to make available to you the requested information.
+To facilitate your access to the Website, the following data are collected, briefly stored and used:
+IP address
+Date and time of access
+Time zone difference to Greenwich Mean Time (GMT)
+Content of request (specific site)
+Status of access/HTTP status code
+Transferred volume of data
+Website requesting access
+Browser, language settings, version of browser software operating system and surface
+Moreover, to protect our legitimate interests, we will store such data for a limited period of time in order to be able to initiate a tracking of personal data in the event of actual or attempted unauthorized access to our servers (Art. 6(1)(f) General Data Protection Regulation).
+2.
+==========
+Setting of cookies
+a) What are cookies?
+This Website uses so-called “cookies”.
+Cookies are small text files that are stored in the memory of your terminal via your browser.
+They store certain information (e.g. your preferred language or site settings) which your browser may (depending on the lifespan of the cookie) retransmit to us upon your next visit to our Website.
+b) What cookies do we use?
+We differentiate between two categories of cookies: (1) functional cookies, without which the functionality of our Website would be reduced, and (2) optional cookies used for e.g. website analysis and marketing purposes.
+The following tables contain a detailed description of the optional cookies we use:
+Optional Cookies
+Purpose and content Lifespan On/Off
+Website analysis and online behavioral advertising:
+These cookies assign a randomly generated ID to your device, enabling us and the relevant vendor to recognize your device upon your next access.
+For details see the respective chapter below.
+Google Analytics
+Adition
+Facebook
+Google Advertising Services
+LinkedIn
+Trade Desk
+Google Analytics:
+6 months
+For online behavioral advertising: determined by respective vendor
+OnOff
+Analysis of webcast with Multimedia Center from Intrado:
+These Cookies enable us to analyze your use of the webcast by assigning a unique and randomly generated ID to your device that lets us recognize if you have used the Multimedia Center player once before.
+==========
+12 months
+OnOff
+c) Subject to your consent
+We only use optional cookies if we have obtained your prior consent (Art. 6(1)(a) General Data Protection Regulation).
+Upon your first access to our Website, a banner will appear, asking you to give us your consent to the setting of optional cookies.
+If your consent is given, we will place a cookie on your computer and the banner will not appear again as long as the cookie is active.
+==========
+After expiration of the cookie’s lifespan, or if you actively delete the cookie, the banner will reappear upon your next visit to our Website and again ask for your consent.
+d) How to prevent the setting of cookies
+Of course you may use our Website without any cookies being set.
+In your browser, you can at any time configure or completely deactivate the use of cookies.
+This may, however, lead to a restriction of the functions or have adverse effects on the user-friendliness of our Website.
+You may at any time object to the setting of optional cookies by using the respective objection option indicated in the table above.
+3.
+==========
+Website Analysis  and Online Behavioral Advertising
+Google Analytics
+On our Website we use Google Analytics, a web analysis service of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (“Google”).
+Google will analyze your use of our Website on our behalf.
+To this purpose we use, among others, the cookies described in more detail in the above table.
+The information collected by Google in connection with your use of our Website (e.g. the referring URL, our webpages visited by you, your browser type, your language settings, your operating system, your screen resolution) will be transmitted to a server of Google in the US, where it will be stored and analyzed.
+==========
+The respective results will then be made available to us in anonymized form.
+Your usage data will not be connected to your full IP address during this process.
+We have activated on our Website the IP anonymizing function offered by Google, which will delete the last 8 digits (type IPv4) or the last 80 bits (type IPv6) of your IP address.
+Moreover, Google is certified under the EU-US Privacy Shield, which ensures that an adequate level of data protection is maintained with respect to the processing of data by Google in the US.
+You may revoke your consent to the use of web analysis at any time, either by downloading and installing the provided Google Browser Plugin or by administrating your consents in the above table, in which case an opt-out cookie will be placed.
+Both options will prevent the application of web analysis only as long as you use the browser on which you installed the plugin and do not delete the opt-out cookie.
+Further information on Google Analytics is available in the Google Analytics Terms of Use, the Privacy and Data Protection Guidelines of Google Analytics and in the Google Privacy Policy.
+==========
+Multimedia Center from Intrado
+On our website we use the external analytics service Multimedia Center of our webcast provider Intrado Digital Media Germany GmbH | Kilianstr.
+142, 90425 Nürnberg („Intrado“)
+Intrado will analyze your use of our webcast on our behalf.
+To this purpose we use, among others, the cookies described in more detail in the above table.
+The information collected by Intrado in connection with your use of our webcast (e.g. the referring URL, our webpages visited by you, your browser type, your language settings, your operating system, your screen resolution, date, duration of your viewing, part of the webcast you viewed) will be transmitted to a server of Intrado in Germany, where it will be stored and analyzed.
+==========
+The respective results will then be made available to us in anonymized form.
+Your usage data will not be connected to your full IP address during this process.
+You may revoke your consent to the use of web analysis for webcasts at any time by administrating your consents in the above table, in which case an opt-out cookie will be placed.
+Further information on legal & privacy at Intrado is available in the relevant privacy statement.
+==========
+Online behavioral advertising with Adition
+Our advertising service provider Mediascale GmbH & Co KG is responsible for data collection for online advertising.
+The tracking system from the service provider: ADITION technologies AG, Oststraße 55, D-40211 Düsseldorf is used.
+The system is utilized on our websites for campaign impact tracking.
+The legal basis is your consent in accordance with Art. 6 para.
+1 lit.
+a GDPR.
+==========
+When controlling user-based online advertising (so-called retargeting), contacts (visual contacts and clicks on advertising banners) that users have with advertisements on other websites are related to subsequent interactions on our website.
+The collected data is statistically evaluated in order to optimize the performance of the media campaigns.
+All collected usage data is stored using a pseudonym.
+The collected data is not used to personally identify visitors to our website and is not combined with personal data about the bearer of the pseudonym.
+The service provider collects and processes pseudonymously your usage behavior on websites operated by us.
+This data is used to address users after visiting our websites with targeted advertising according to their usage behavior.
+==========
+This advertising is displayed outside our websites.
+You may withdraw your consent to this transfer of information from Adition for online behavioral advertising purposes at any time by administrating your consents in the above table, in which case an opt-out cookie will be placed
+
+Further information on data protection at Adition you may find here https://www.adition.com/kontakt/datenschutz/ 
+Online behavioral advertising with Facebook
+This Website uses an online behavioral advertising service of Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland (using Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA as subprocessor) (“Facebook”).
+Facebook will analyze your use of this Website.
+To this purpose, we use the cookies described in more detail in the above table.
+The information collected by Facebook in connection with your use of our Website will be transmitted to a server of Facebook in the US, where it will be stored and analyzed.
+These information include the referring URL, your browser type, your language settings, your operating system, your screen resolution and further information depending on the implemented pixel events (e.g. “purchase”: processes the type, ID and number of the selected item as well as payment information and currency; “search”: processes the search string, when you search for a product on our website; “view content”: processes the content ID, name, type, currency and value).
+==========
+We and our partner Facebook will use this information to better tailor our advertisements to you and your interests, to limit the number of times you are shown the same advertisement, to evaluate the efficiency of promotional campaigns, and to better comprehend the behavior of visitors after they have looked at a certain ad.
+When you visit your Facebook timeline or another websites of Facebook’s advertisement network (so called “Audience Network”), customized feeds tailored to your interests can be presented to you on the basis of the information collected on our Website.
+Facebook Inc. is certified under the EU-US Privacy Shield, which ensures that an adequate level of data protection is maintained with respect to the processing of personal data by Facebook in the US.
+You may withdraw your consent to this transfer of information to Facebook for online behavioral advertising purposes at any time by administrating your consent in the above table, in which case an opt-out cookie will be placed.
+Please note that this will only prevent any transfer of information to Facebook as long as you do not delete the opt-out Cookie.
+Facebook is responsible for processing your personal data which Facebook collects directly from our Website for online behavioral advertisement services.
+Since we have no control over personal data collected and processed by third parties, we are not in a position to provide binding information regarding the scope and purpose of such processing of your personal data.
+Thus, please visit Facebook’s information on data privacy to receive further information on how Facebook processes your personal data and for how long.
+At the time of preparation of this privacy statement, Facebook’s information was available on their Privacy Policy.
+==========
+Online behavioral advertising with Google
+This Website uses an online behavioral advertising service of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (“Google“).
+Google will analyze your use of this Website.
+To this purpose, Google uses the cookies described in more detail in the above table.
+The information collected by Google in connection with your use of our Website (e.g. the referring URL, our webpages visited by you, your browser type, your language settings, your operating system, your screen resolution) will be transmitted to a server of Google in the US, where it will be stored and analyzed.
+We and our partner Google will use this information to better tailor our advertisements to you and your interests, to limit the number of times you are shown the same advertisement, to evaluate the efficiency of promotional campaigns, and to better comprehend the behavior of visitors after they have looked at a certain ad.
+When you visit another website of the so-called “Google Display Network”, customized pop-ups tailored to your interests can be presented to you on the basis of the information collected on our Website.
+Google is certified under the EU-US Privacy Shield, which ensures that an adequate level of data protection is maintained with respect to the processing of personal data by Google in the US.
+==========
+You may withdraw your consent to this transfer of information to Google for online behavioral advertising purposes at any time either by administrating your consents in the above table, in which case an opt-out cookie will be placed, or by downloading and installing the Google Browser Plugin offered by Google.
+Both options will prevent the use of online behavioral advertising services only as long as you use the browser on which you installed the plugin and do not delete the opt-out Cookie.
+Google is responsible for processing your personal data which Google collects directly from our Website for online behavioral advertisement services.
+Since we have no control over personal data collected and processed by third parties, we are not in a position to provide binding information regarding the scope and purpose of such processing of your personal data.
+Thus, please visit Google’s information on data privacy to receive further information on how Google processes your personal data and for how long.
+At the time of preparation of this privacy statement, Google’s information was available on the Google Data Protection Guidelines for Advertising.
+==========
+Online behavioral advertising with LinkedIn
+The LinkedIn Insight Tag enables the collection of data regarding members’ visits to your website, including the URL, referrer, IP address, device and browser characteristics (User Agent), and timestamp.
+The IP addresses are truncated or (when used for reaching members across devices) hashed, and members’ direct identifiers are removed within seven days in order to make the data pseudonymous.
+This remaining pseudonymized data is then deleted within 180 days.
+==========
+LinkedIn does not share the personal data with the website owner, it only provides reports (which do not identify you) about the website audience and ad performance.
+LinkedIn also provides retargeting for website visitors (up to 90 days after the visit), enabling the website owner to show personalized ads off its website by using this data, but without identifying the member.
+We also use data that does not identify you to improve ad relevance and reach members across devices.
+LinkedIn members can control the use of their personal data for advertising purposes through their account settings.
+Online behavioral advertising with Trade Desk
+This website uses The Trade Desk, a so-called targeted advertising service, provided by our partner The Trade Desk, Inc., 42 N. Chestnut Street, Ventura, CA 93001 (“Trade Desk”).
+Trade Desk is used for so-called remarketing of advertising based on your behavior on our website.
+==========
+You may withdraw your consent to this type of analysis of your use of this Website at any time either by administrating your consents in the above table, in which case an opt-out cookie will be placed, or by visiting http://www.adsrvr.org/ to opt-out of the Trade Desk services.
+Both options will prevent the use of web analysis only as long as you use the browser on which you made your choice and do not delete the opt-out Cookie.
+Further information on Trade Desk is available at https://www.thetradedesk.com/general/privacy-policy.
+4.
+==========
+Use of contact forms
+You can contact us directly via the contact forms available on our Website.
+In particular, you may provide us with the following information:
+Name, surname and title
+Country
+Contact data (e.g. e-mail address, phone number)
+Message
+We collect, process and use the information provided by you via the contact forms exclusively for the processing of your specific request.
+5.
+==========
+Subscription to our newsletter
+On our Website, you may subscribe to receive our newsletter.
+Based on your prior consent, we will collect and use the email address you indicate for providing you with the newsletter (Art. 6(1)(a) General Data Protection Regulation).
+If you wish to receive a customized newsletter, you may, on a voluntary basis, provide us with the following additional information:
+Name and surname
+Title
+Media, Department
+City, Country
+Language
+Subject(s) of interest
+For subscription to our newsletter we use the so-called double opt-in procedure.
+==========
+After you have subscribed to the newsletter on our Website, we will send you a message to the indicated email address asking for your confirmation.
+If you do not confirm your subscription, your subscription will automatically be deleted.
+In order to prevent any misuse of your personal data, we will log your subscription and confirmation, filing the IP address you use when subscribing, the time of your subscription and confirmation, the messages sent by us regarding your subscription, and the wording of your subscription and confirmation.
+==========
+You may at any time with future effect revoke your consent to receive our newsletter.
+To declare that you wish to unsubscribe, you may use the respective link included in all newsletters, or refer to the contacts indicated below.
+6.
+==========
+External services or content on our Website
+We include third-party services and/or content on our Website.
+When you use such third-party services or when third-party content is displayed, communication data are exchanged between you and the respective provider for technical reasons.
+The respective provider of the services or content may also process your data for own additional purposes.
+To the best of our knowledge, we have configured the services and content of providers known to process data for own purposes in such a way that either any communication for other purposes than to present their services or content on our Website is blocked, or communication only takes place once you have actively opted to use the respective service.
+==========
+However, since we have no control over data collected and processed by third parties, we are not in a position to provide binding information regarding the scope and purpose of such processing of your data.
+For further information regarding the scope and purpose of such collection and processing of your data, please consult the privacy statements of the providers whose services and/or content we include and who are responsible for the protection of your data in this context:
+YouTube (videos)
+EQS Group AG (stock charts)
+Webfonts provided by Monotype Imaging Holdings Inc.
+Google Maps
+Stockholders’ Portal
+7.
+==========
+Registration for closed user groups
+  a) Limited access for special user groups
+There are further specific information that we can only share with a limited group of people.
+Therefore we file the following personal data:
+Name and surname
+User name and password
+E-mail address
+We process this personal data in order to provide you with an access to our website.
+They are automatically deleted in case you deactivate your user account.
+==========
+b) Stockholders‘ Portal
+The stockholders‘ portal is only offered to stockholders of Bayer AG.
+The login for our stockholders’ service is handled by the service provider Link Market Services GmbH.
+We process these personal data provided by Link Market Services in order to allow your access to our website.
+==========
+These data are automatically deleted at the fixed date November 30th after one year in case you deactivate your user account or sell your shares in Bayer AG.
+You will find your data for the first log-in to our Stockholders' Portal in the invitation to the Annual Stockholders' Meeting of Bayer AG.
+8.
+==========
+Information on side effects and quality complaints
+This Website is not intended or designed for communications regarding side effects, lack of therapeutic effect, medication errors, grey market products/counterfeit medicine, incorrect or off-label use, quality complaints and/or other issues regarding the safeness or quality of Bayer products.
+If you wish to report side effects or make a quality complaint, please contact your health care professional (e.g. physician or pharmacist), your local health authority, or use our  Website for the report of undesirable side effects.
+If you nevertheless report to us undesirable side effects or other issues regarding the safeness or quality of Bayer products, we will be legally bound to deal with your communication and may have to contact you for clarification purposes.
+Subsequently, we may have to notify the competent health authorities of the issues reported by you.
+==========
+In this context, your information will be forwarded in pseudonymized form, i.e. no information by which you may be directly identified will be passed on.
+We may also have to forward these pseudonymized notifications to our group companies and cooperation partners, to the extent these are likewise obliged to notify their respectively competent health authorities.
+Further information about data privacy and side effect reporting are available in the Bayer Privacy Statement for Pharmacovigilance Data.
+9.
+==========
+Use of Publication Order
+On our Website, you may order/subscribe many of our publications.
+Based on your prior consent, we will collect and use the address details you indicate for providing you with the publication:
+Surname
+Address (Street, Post code, Town or City, State/Province, Country)
+Email address
+Phone number
+You are welcome to provide us with the following optional information:
+Title
+First name
+Company
+Department
+10.
+User Surveys
+Participation in the user surveys conducted from time to time on our website is voluntary.
+We use functional cookies to carry out the user surveys.
+==========
+The technical information recorded by the user survey is the same information that is recorded when users visit the website (see above).
+Your responses submitted during the user survey will not be linked to your personal data such as your IP address.
+11.
+==========
+Job Matching Function
+If you want to make use of the job matching functionality, we need additional application documents, such as your resume, certificates and/or a cover letter, which can be uploaded to the website.
+An automated algorithm compares the documents you provide with current vacancies at Bayer in order to be able to offer you career opportunities tailored to your needs.
+The document will be automatically deleted afterwards.
+==========
+II.
+Transfer of data for commissioned processing
+For the processing of your data we will to some extent use specialized service contractors.
+Such service contractors are carefully selected and regularly monitored by us.
+Based on respective data processor agreements, they will only process personal data upon our instruction and strictly in accordance with our directives.
+III.
+==========
+Processing of data outside the EU / the EEA
+Your data will in part also be processed in countries outside the European Union (“EU”) or the European Economic Area (“EEA”), which may have a lower data protection level than European countries.
+In such cases, we will ensure that a sufficient level of protection is provided for your data, e.g. by concluding specific agreements with our contractual partners (copy available on request), or we will ask for your explicit consent to such processing.
+B. Information regarding your rights
+The following rights are in general available to you according to applicable data privacy laws:
+Right of information about your personal data stored by us;
+Right to request the correction, deletion or restricted processing of your personal data;
+Right to object to a processing for reasons of our own legitimate interest, public interest, or profiling, unless we are able to proof that compelling, warranted reasons superseding your interests, rights and freedom exist, or that such processing is done for purposes of the assertion, exercise or defense of legal claims;
+Right to data portability;
+Right to file a complaint with a data protection authority;
+You may at any time with future effect revoke your consent to the collection, processing and use of your personal data.
+For further information please refer to the chapters above describing the processing of data based on your consent.
+==========
+If you wish to exercise your rights, please address your request to the contact form or to our company data protection office indicated below.
+If you are a resident of California or Nevada in the United States, you may have additional rights regarding your personal data.
+More information may be found here.
+==========
+For any questions you may have with respect to data privacy, please use the provided contact form or contact our company data protection officer at the following address:
+Group Data Protection Officer
+Bayer AG
+51368 Leverkusen, Germany
+Bayer AG is designated as representative in the European Union for our non-European legal entities in accordance with Art. 27 GDPR.
+You may contact the representative at the following address:
+Data Privacy Representative
+Bayer AG
+51368 Leverkusen, Germany
+E-mail: dp-representative@bayer.com
+D. Amendment of Privacy Statement
+We may update our Privacy Statement from time to time.
+Updates of our Privacy Statement will be published on our Website.
+Any amendments become effective upon publication on our Website.
+We therefore recommend that you regularly visit the site to keep yourself informed on possible updates.
+Last updated: November 26, 2019
+==========

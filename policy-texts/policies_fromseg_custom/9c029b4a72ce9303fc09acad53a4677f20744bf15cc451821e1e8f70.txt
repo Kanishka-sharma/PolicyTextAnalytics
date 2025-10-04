@@ -1,0 +1,314 @@
+About SENSIC.net and GfK
+
+		GfK SE in Germany (imprint: https://www.gfk.com/de/impressum) is the owner of the domain SENSIC.net, which serves the purpose of online advertising effectiveness research and media usage research using cookies and similar technologies .
+GfK SE holds a majority of market research companies inside and outside Europe, which together form the “GfK Group” (“GfK”, “we”, “us”).
+All GfK companies can use the services of SENSIC.net for their own market research activities.
+Third-party companies can also use the services of SENSIC.net for their own market research activities.
+==========
+Since GfK SE is based in the European Union, we process personal data collected by SENSIC.net in accordance with the applicable European data protection law.
+GfK companies and third companies that use SENSIC.net technologies are requested to include a link to this data protection declaration in the data protection declarations of their websites or app.
+Depending on the respective application, GfK acts as a processor or controller for third parties within the meaning of the data protection regulation.
+Depending on the role of the internet and app users, SENSIC.net uses cookies and similar technologies .
+==========
+Possible roles are a) panel and b) census.
+Census means internet and app users in general, i.e. the entire group of users.
+Panel means internet and app users who also take part in a GfK market research panel or project.
+Use case / research area
+country
+Role GfK
+Cookies and Similar Technologies
+
+
+census
+GfK panel
+Ext.
+Panel
+Census
+GfK Panel
+Ext.
+Panel
+
+
+Advertising effect 
+Display, Video
+worldwide
+Controller
+Controller
+Processor
+-
+✓ 1)2)3)
+n/a 5)
+
+
+Advertising effect 
+Radio
+Germany
+Processor
+Controller
+Processor
+✓
+✓ 1)2)3)
+n/a 5)
+
+Streaming usage 
+Video, Radio
+Austria, Singapore, Australia
+Processor
+Controller
+Processor
+✓
+✓ 1)2)3)
+n/a 5)
+
+
+Streaming usage  (collaborative)
+Video
+Germany
+Processor
+Controller
+Processor
+-
+- 4)
+n/a 5)
+
+
+1)GXL 2)Nicequest 3)AskGfK 4)AGF 
+		5)currently there are no external panels using SENSIC.net technology
+		
+		
+Delimitation: GfK does not advertise that is aimed directly at consumers / private internet users.
+We therefore do not display any targeted advertising to private individuals or their internet-enabled devices.
+The use of the information collected by SENSIC.net is restricted to research purposes.
+==========
+Cookies and Similar Technologies
+
+		Depending on the respective application (see above), cookies and similar technologies are used to identify users.
+Cookies: 
+		Cookies are small text files that contain a character string that can be used to uniquely identify a web browser or WebApp installation.
+Operators of websites and web apps or third parties store cookies on computers or mobile devices when they are used.
+==========
+Cookies usually expire after a certain period of time and are therefore automatically deleted.
+Some web browsers block the storage of cookies by default.
+For information on handling cookies, please refer to the help pages or the documentation for your web browser.
+Local Storage: 
+		Local Storage stands for a technology that enables websites and web apps to save data on your computer or mobile device in the context of the browser.
+While this is similar to cookies, the local storage can hold larger amounts of data; however, its content is not transmitted to the web server with every request, but must be read out explicitly.
+Furthermore, the data is retained in the Locale Storage until the application or the user deletes it himself.
+For information on handling the local storage, please refer to the help pages or the documentation for your web browser.
+File Cache: 
+		File Cache stands for a technology that enables websites and web apps to save data on your computer or mobile device so that websites can be loaded more quickly the next time you visit them.
+==========
+The data is automatically deleted after the expiry date.
+For information on handling the file cache, please refer to the help pages or the documentation for your browser.
+App Cache: 
+		App Cache stands for a technology that enables native apps to save data on your mobile device.
+While this is similar to the file cache, the data is retained in the app cache until the application or the user deletes it himself.
+For information on handling the App Cache, please refer to the help pages or the documentation for your mobile device.
+==========
+Mobile advertising ID: 
+		The mobile advertising ID is an online identifier for a mobile device that you can reset manually.
+It enables recurring devices to be recognized by mobile apps, usually for advertising purposes.
+For Android devices, the mobile advertising ID is called “Android Advertising ID”, for Apple devices it is called “ID for Advertiser (IDFA)”.
+The mobile advertising ID is associated with a device and can be accessed by apps that you use.
+For information on handling the mobile advertising ID, please refer to the help pages or the documentation for your mobile operating system.
+Relay ID mechanism: 
+		The relay ID mechanism is a process that transfers the stored or temporary user ID to additional panel software or hardware.
+The mechanism therefore only works for users who have installed such panel software or hardware (e.g. DigitalTrends, Wakoopa Tracker, GfK Router), i.e. only for participants in selected market research panels and other market research projects.
+Collection of content-related data
+
+
+Use case / research area
+country
+Data collected by SENSIC.net
+
+
+
+
+
+
+
+
+Advertising effect 
+Display, Video
+worldwide
+It is recorded when which advertising was delivered to the user's device.
+This includes meta information such as advertising material IDs and names.
+Advertising effect 
+Radio
+Germany
+It is recorded when which advertising was delivered to the user's device.
+This includes meta information such as advertising material IDs and names.
+Streaming usage 
+Video, Radio
+Austria, Singapore, Australia
+Which streaming media were viewed and when.
+This includes meta information such as title, program name, broadcast date, etc.
+It also records how long these were played, paused, rewound, and ended.
+==========
+Streaming usage  (collaborative)
+Video
+Germany
+In this special case, SENSIC.net does not collect any content-related data.
+Collection of personal data
+⚠ Personal data is information that can be used to identify an individual, either directly or indirectly.
+==========
+"Direct" means, for example, your name and address.
+“Indirect”, on the other hand, means the almost unambiguous combination of technical features that are determined using cookies and similar technologies .
+==========
+Census / survey of internet and app users in general:
+
+
+		Potentially personal data, such as IP addresses and referrer URLs (Internet addresses of websites), are saved in anonymised form.
+We anonymize this data by shortening and hashing IP addresses and cutting off the entire part after the “top-level domain” from each referrer URL, for example everything after “.com” or “.
+de”.
+==========
+Before we save IP addresses anonymously, we use them to determine in which country and in which region or city the respective usage process took place.
+Use case / research area
+country
+Data recorded in the census
+
+
+
+
+
+
+
+
+Advertising effect 
+Display, Video
+worldwide
+In this special case, SENSIC.net does not collect any personal data.
+Advertising effect 
+Radio
+Germany
+A user identification is recorded by means of cookies and similar technologies, if possible, which identifies you "indirectly".
+This depends on the respective provider (controller) using the SENSIC.net technology.
+This is the duty to determine the legal basis according to the applicable data protection law, which may include obtaining your consent.
+Streaming usage 
+Video, Radio
+Austria, Singapore, Australia
+A user identification is recorded by means of cookies and similar technologies, if possible, which identifies you "indirectly".
+This depends on the respective provider (controller) using the SENSIC.net technology.
+This is the duty to determine the legal basis according to the applicable data protection law, which may include obtaining your consent.
+==========
+Streaming usage  (collaborative)
+Video
+Germany
+In this special case, SENSIC.net does not collect any personal data.
+Panel / survey of panel participants:
+
+		We only have personal data that identify you "directly" if you have given your informed consent as a participant in a market research panel or project that uses SENSIC.net technologies.
+==========
+As a panel participant, on the legal basis of Art. 6 (1) lit.
+a of the European General Data Protection Regulation, that SENSIC.net can evaluate data collected from you in connection with your participant number.
+This participant number enables us to identify you personally.
+==========
+For more information, please refer to the declaration of consent and / or data protection declaration for the market research project or market research panel in which you are participating.
+If you use the app or the web portal of your panel provider as a panel participant or if you take part in an online survey by the provider, SENSIC.net will identify your device or mark it so that it can be recognized at a later point in time can.
+This enables us to assign contacts with certain Internet content to the relevant panel participants.
+==========
+We may use this to combine the information that we receive from your device using cookies and similar technologiescollect, with other data that we collect from you or about you as part of a market research project in order to create reports for our customers on the composition of the audience that has seen the respective Internet content.
+We report such information to our customers in an aggregated form that does not allow people to be identified, usually in the form of statistics (for example, numbers and proportions of male and female market research participants per age group and region who have seen the relevant content).
+Unless otherwise stated in the declarations of consent for the respective panels or market or media research projects, we report the results of our research to our customers in an aggregated form, which does not make it possible to identify individuals.
+These are usually statistics, for example numbers and proportions of male and female market research participants per age group and region who have seen the relevant content.
+==========
+Opt out
+
+		In order to immediately overwrite all cookies and similar data that SENSIC.net has stored with an anonymized identifier, you can instead use a global opt-out.
+Please note that this opt-out only has an effect on the device and in the web browser in which you perform it.
+==========
+This mechanism also only works if the browser used allows third-party cookies across domains.
+The anonymous opt-out identifier also only lasts as long as you do not delete the corresponding cookies and entries in similar memory areas.
+Please also note that this opt-out does not prevent the collection and use of your device's mobile advertising ID.
+For your choices regarding the mobile advertising ID, please refer to your device settings and the data protection declarations of the apps that you use.
+Click here to set an opt-out cookie in the web browser you are now using on the device you are now using.
+⚠ The use of the “Do Not Track” (DNT) setting in the web browser (see https://allaboutdnt.com/) does not (!)
+Block the collection and storage of the user ID using cookies and similar technologies .
+==========
+Data retention period
+In all applications, the data recorded by SENSIC.net is stored for a maximum of two years.
+The data controller still has the option to adjust the deadlines at any time.
+Your rights
+
+		In any case, you have the following legal rights:
+			
+to information about you personal data that we process,
+to provide exactly one copy of your personal data free of charge,
+for correction and deletion of your personal data or restriction of processing, while we check the accuracy at your request, or in certain cases in which you prefer the restriction of the processing to the deletion,
+to object to the processing of personal data concerning you,
+in the event of an alleged violation of applicable data protection law, lodge a complaint with the data protection supervisory authority in your country or in the country in which the alleged violation took place.
+==========
+⚠ Note that you must first identify the person responsible for your request.
+As a participant in one of GfK's own panels, a project or a survey, in these cases GfK is responsible for the processing of your personal data.
+If you send a request to GfK in order to exercise your rights, please note that we may not be able to determine any personal data relating to you based on your name or your e-mail address.
+In these cases, we cannot identify you as a data subject within the meaning of data protection law and we cannot comply with your request unless you provide us with additional information that enables your identification.
+As a participant in an external panel that does not belong to GfK, please contact the relevant panel provider.
+==========
+If you participate in a market research panel from GfK or another provider who uses SENSIC.net technologies on its websites or in its mobile apps, the data collection by SENSIC.net usually takes place with your prior informed consent.
+In this case, we recommend that you first contact the participant support of the respective panel if you have any questions about data protection.
+If you belong to the census, i.e. not to a panel, please contact the respective data controller (controller) with your request, often the operator of the respective website or app that uses SENSIC.net technology.
+Please also check their data protection declarations which options are available to you with regard to cookies and the mobile advertising ID.
+==========
+Transfer of personal data
+
+Within GfK: 
+		Your personal data can be passed on to one or more GfK companies if this is necessary for data processing and storage or in order to grant you access to our services, provide support, make decisions about service improvements or content development or for market and media research purposes.
+We do not disclose your personal data to third parties outside the GfK Group unless you have given your prior express consent for this specific purpose.
+==========
+External serviceprovider:
+		If necessary, we commission other companies and persons to carry out certain tasks that contribute to our services within the framework of order processing agreements.
+For example, we can pass on personal data to contractual partners or providers who manage our databases and applications for the purpose of providing data processing services.
+We only pass on such data to external service providers or allow them to access it to the extent necessary for the respective purpose.
+These data may not be used by the external service providers for other purposes, in particular not for their own purposes or the purposes of third parties.
+GfK's external service providers are contractually obliged to maintain the confidentiality of your personal data.
+==========
+Business transfers:
+		In connection with a start-up, reorganization, merger or sale or other transfer of assets (collectively "Business Transfers"), we transfer data, including personal data, to the extent that this is necessary for the business transfer, provided the receiving party agrees to yours treat personal data in a way that complies with applicable data protection laws.
+We continuously ensure the confidentiality of all personal data and inform affected persons - by timely notification on https://sensic.net/, or by contacting GfK market research participants directly - before personal data is subjected to another data protection declaration.
+==========
+Public bodies: 
+		We only disclose your personal data to public bodies if this is required by law.
+For example, GfK responds to inquiries from courts, law enforcement authorities, regulators and other public and government agencies, which may include authorities outside your country of residence.
+==========
+International transfers of personal data
+Under certain circumstances, it is also necessary for GfK to transfer your personal data to countries outside the European Union (EU) or the European Economic Area (EEA), so-called “third countries”.
+Such transfers to third countries can include all processing activities described in Section 3 of this data protection declaration.
+This data protection declaration also applies if we transfer personal data to third countries in which a different level of data protection prevails than in the country of your residence.
+==========
+In particular, international data transmission concerns the following scenarios:
+		
+Companies of the GfK Group: 
+		Internal data protection agreements exist with companies of the GfK Group outside the European Union based on standard contractual clauses issued by the European Commission to protect your privacy and to legitimize international data transfers.
+Other third parties outside the European Union (EU) and the European Economic Area (EEA): 
+		Any transfer of personal data to third parties outside the GfK Group will only take place with your knowledge and, where applicable, with your prior consent.
+Any transfer of personal data to countries for which there is no adequacy decision with regard to the level of data protection from the European Commission, such as at https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension -data-protection / adequacy-decisions_en, is made on the basis of contractual agreements that contain the standard contractual clauses issued by the European Commission or other guarantees that comply with applicable law.
+safety
+GfK takes data security very seriously.
+We take all necessary physical, electronic and administrative security measures to protect the data, including personal data, that we collect from accidental or unlawful destruction, loss, alteration and unlawful disclosure, as well as unauthorized access to transferred, stored or otherwise processed personal data to prevent.
+==========
+Our guidelines and procedures for information security are based on generally recognized international standards and are regularly reviewed and updated as necessary to meet our business requirements, technological changes and regulatory requirements.
+In the event of a breach of data security, which also affects personal data, GfK complies with all applicable laws regarding the obligation to notify in the event of a breach of the protection of personal data.
+Changes to this privacy policy
+
+		We reserve the right to change our data protection practices at our own discretion and to update and change this data protection declaration at any time.
+==========
+For this reason, we ask you to regularly check the data protection declaration available at https://sensic.net/ for changes.
+This data protection declaration applies from the date of the "last revision" mentioned above.
+We treat your personal data in accordance with the data protection declaration under which it was collected, unless we have your consent to other handling of your personal data.
+==========
+Contact Impressum
+
+GfK SE Sophie-Germain-Strasse 3-5 90443 Nürnberg Germany
+Management: Peter Feld (CEO) Lars Nordmark (CFO)
+T +49 911 395-0 (Switchboard),  gfk@gfk.com 
+			Chairman of the Supervisory Board: Thomas Ebeling 
+			Registered office: Nuremberg 
+			Entered in the Commercial Register at the District Court: 
+			Nuremberg: HRB 25014 
+			VAT no .
+: DE 133 500 719
+
+
+Data protection officer EMEA of the GfK Group
+GfK SE Sophie-Germain-Strasse 3-5 90443 Nürnberg Germany Email: dpo@gfk.com
+==========
