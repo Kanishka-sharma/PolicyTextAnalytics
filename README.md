@@ -1,13 +1,13 @@
-# 📘 Policy Readability and Sentiment Analysis
+# Policy Readability and Sentiment Analysis
 
-### 🧠 Project Overview
+### Project Overview
 This project explores the relationship between the **readability** and **sentiment** of real-world privacy and policy documents. The goal was to understand whether the tone and emotional polarity of a policy are influenced by how readable it is.
 
 By combining **linguistic readability metrics** and **sentiment analysis**, this project provides insights into how corporate policies communicate with the public — whether they are easy to understand, and how positive or complex their language tends to be.
 
 ---
 
-### 📂 Dataset Description
+### Dataset Description
 - **Policy Texts**: Over 56,000 `.txt` files of policy documents.
 - **Metadata**: A complementary CSV containing readability scores (`flesch`, `cl`, `smog`, etc.) and other text-level attributes.
 
@@ -16,7 +16,7 @@ The metadata file provides additional readability indices used for comparison an
 
 ---
 
-### ⚙️ Project Workflow
+### Project Workflow
 
 #### 1. Data Loading and Text Extraction
 - Loaded policy documents and metadata from local directories.
@@ -52,12 +52,12 @@ Merged both datasets to examine relationships between sentiment and readability 
 | Coleman-Liau Index | -0.08 | -0.19 |
 | SMOG Index | -0.19 | -0.23 |
 
-🔍 **Interpretation:**  
+**Interpretation:**  
 Policies that are easier to read (higher Flesch, lower SMOG) tend to have **slightly more positive sentiment** and **less emotional tone**, suggesting that clearer writing aligns with more neutral and professional communication.
 
 ---
 
-### 📈 Key Results
+### Key Results
 - **Number of Policies Analyzed:** 56,416  
 - **Average Polarity:** 0.078  
 - **Average Subjectivity:** 0.395  
@@ -66,7 +66,7 @@ Policies that are easier to read (higher Flesch, lower SMOG) tend to have **slig
 
 ---
 
-### 🧩 Tech Stack
+### Tech Stack
 - **Language:** Python  
 - **Libraries:** `pandas`, `textstat`, `textblob`, `seaborn`, `matplotlib`, `beautifulsoup4`, `re`, `numpy`  
 - **Visualization Tools:** Matplotlib & Seaborn  
@@ -76,7 +76,7 @@ Policies that are easier to read (higher Flesch, lower SMOG) tend to have **slig
 
 ---
 
-### 💡 Insights and Learnings
+### Insights and Learnings
 - Demonstrated end-to-end **text analytics workflow** — from raw document parsing to visualization.
 - Understood how **linguistic readability** can affect **perceived tone**.
 - Strengthened understanding of **data merging, correlation, and exploratory analysis**.
@@ -84,14 +84,14 @@ Policies that are easier to read (higher Flesch, lower SMOG) tend to have **slig
 
 ---
 
-### 🚀 Future Enhancements
+### Future Enhancements
 - Integrate transformer-based models (e.g., `BERT`, `RoBERTa`) for more nuanced sentiment detection.
 - Extend the analysis to include **topic modeling** (LDA) for identifying key policy themes.
 - Create a **dashboard** in Power BI or Tableau to visualize readability vs. sentiment interactively.
 
 ---
 
-### 🏁 Conclusion
+### Conclusion
 This project bridges **Natural Language Processing (NLP)** and **Readability Analysis** to uncover linguistic and emotional patterns in real policy texts.  
 It reflects practical skills in **text mining, sentiment analysis, data merging, and statistical interpretation**, making it a strong and research-aligned data science project.
 
